@@ -1,0 +1,1508 @@
+{
+  "paperid": "p6_english_2025_sa2_mgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The sudden loud noise woke the baby and made her ________ .",
+          "options": {
+            "1": "cry",
+            "2": "cries",
+            "3": "cried",
+            "4": "crying"
+          }
+        },
+        "2": {
+          "stem_plain": "All the luggage ________ still strewn about the room, Sam had no space to move around.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "If I ________ her email address, I would send her an invitation.",
+          "options": {
+            "1": "know",
+            "2": "knew",
+            "3": "had known",
+            "4": "have known"
+          }
+        },
+        "4": {
+          "stem_plain": "Tom, together with his friends, ________ at the Active Ageing Centre to befriend and engage seniors every month.",
+          "options": {
+            "1": "volunteer",
+            "2": "volunteers",
+            "3": "has volunteered",
+            "4": "have volunteered"
+          }
+        },
+        "5": {
+          "stem_plain": "\"People hardly ever go to the cinema nowadays, ________ ? They prefer to stay home to watch online content,\" remarked Grandmother.",
+          "options": {
+            "1": "is it",
+            "2": "isn't it",
+            "3": "do they",
+            "4": "don't they"
+          }
+        },
+        "6": {
+          "stem_plain": "Sally was nervous on the first day in her new school. However, her classmates warmed ________ her quickly and put her at ease.",
+          "options": {
+            "1": "to",
+            "2": "on",
+            "3": "with",
+            "4": "over"
+          }
+        },
+        "7": {
+          "stem_plain": "Given that it might rain tomorrow, you ________ bring an umbrella when you go out.",
+          "options": {
+            "1": "will",
+            "2": "could",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "8": {
+          "stem_plain": "________ planning had gone into the learning journey, making it an organised and successful one.",
+          "options": {
+            "1": "Few",
+            "2": "Little",
+            "3": "Much",
+            "4": "Many"
+          }
+        },
+        "9": {
+          "stem_plain": "________ the obstacles he faced, Fazil refused to give up and pressed on.",
+          "options": {
+            "1": "In spite of",
+            "2": "Other than",
+            "3": "Contrary to",
+            "4": "In addition to"
+          }
+        },
+        "10": {
+          "stem_plain": "Hassan wished he ________ his mother's advice not to place his plate on the edge of the table. However, it was too late.",
+          "options": {
+            "1": "heeded",
+            "2": "has heeded",
+            "3": "had heeded",
+            "4": "had been heeding"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "不定式 — Bare infinitive after causative verb",
+          "zh": "突如其来的巨响吵醒了宝宝，使她哭了。",
+          "note": "使役动词 make + 宾语 + 动词原形（不带 to）；故填 (1) cry。排除 cries（谓语）、cried（过去式）、crying（-ing 形式）。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "名词 — Singular uncountable collective noun",
+          "zh": "所有行李仍散落在房间里，Sam 没有空间走动。",
+          "note": "luggage 不可数，谓语用单数；语境为过去，故填 (3) was。排除 are/were（当复数）、is（现在时）。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "条件句 — Second conditional",
+          "zh": "如果我知道她的电邮地址，我会发邀请给她。",
+          "note": "与现在事实相反的第二类条件句：if 从句用一般过去，主句 would + 原形；故填 (2) knew。排除 know（现在）、had known（与过去事实相反）。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "主谓一致 — Subject-verb agreement",
+          "zh": "Tom 和朋友们每个月在乐龄中心做义工，陪伴长者。",
+          "note": "主语是 Tom，together with his friends 不改变单数；表每月习惯用一般现在时单数；故填 (2) volunteers。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "反意疑问句 — Question tag after negative adverb",
+          "zh": "现在人们几乎不去电影院了，是吗？他们更喜欢在家看网上内容。",
+          "note": "hardly ever 含否定意义，反意疑问句用肯定附加问句，动词与 go 一致；故填 (3) do they。排除 isn't it / don't they。",
+          "answer": "3"
+        },
+        "6": {
+          "concept": "介词 — Phrasal verb with preposition",
+          "zh": "Sally 在新学校第一天很紧张，不过同学很快接纳了她，让她安心。",
+          "note": "固定搭配 warm up to sb.（逐渐对某人友善、接纳）；故填 (1) to。排除 on / with / over（不构成此义）。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "情态动词 — Modal for advice",
+          "zh": "既然明天可能下雨，你出门时应该带伞。",
+          "note": "明天可能下雨，表建议用 should；故填 (4) should。排除 will（预测）、could（可能）、would（虚拟）。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "量词 — quantifier with uncountable noun",
+          "zh": "这次学习之旅做了很多规划，所以组织得很好也很成功。",
+          "note": "planning 此处不可数，表'大量'用 much；故填 (3) Much。排除 few/many（可数）、little（义为很少，与 organized and successful 矛盾）。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "让步 — Concession phrase",
+          "zh": "尽管面对障碍，Fazil 拒绝放弃并继续坚持。",
+          "note": "表让步'尽管'用 in spite of + 名词/短语；故填 (1)。排除 other than、contrary to、in addition to。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "过去完成时 — Past perfect after wish about the past",
+          "zh": "Hassan 希望自己当时听从了母亲不要把盘子放在桌边的建议。",
+          "note": "对过去事实后悔：wish + 过去完成时 had + 过去分词；故填 (3) had heeded。排除 heeded（一般过去）、has heeded / had been heeding（时态不符）。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Leo's confidence to clinch the championship was ________ when he saw how good his opponent was.",
+          "options": {
+            "1": "inflated",
+            "2": "elevated",
+            "3": "deepened",
+            "4": "dampened"
+          }
+        },
+        "12": {
+          "stem_plain": "Hundreds of residents in the area were ________ when they lost their homes to the fire and had to move elsewhere.",
+          "options": {
+            "1": "evicted",
+            "2": "expelled",
+            "3": "retreated",
+            "4": "displaced"
+          }
+        },
+        "13": {
+          "stem_plain": "When the toddler showed off his completed sandcastle, the proud grandfather praised him ________ .",
+          "options": {
+            "1": "modestly",
+            "2": "profusely",
+            "3": "unanimously",
+            "4": "consecutively"
+          }
+        },
+        "14": {
+          "stem_plain": "\"Let's ________ on our efforts to complete the project on time,\" the manager urged his workers.",
+          "options": {
+            "1": "double up",
+            "2": "double over",
+            "3": "double back",
+            "4": "double down"
+          }
+        },
+        "15": {
+          "stem_plain": "We were so unprepared for our last game that the other team beat us hands down. Hence, we conceded ________ .",
+          "options": {
+            "1": "loss",
+            "2": "defeat",
+            "3": "failure",
+            "4": "rejection"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "Leo 看到对手很强后，夺冠的信心被削弱了。",
+          "note": "应选（4）'dampened'：题干语境最宜表达'使（情绪、热情）受挫；弄湿'。'inflated'义为'充气；夸大（价格／自负）'：与题干语境或搭配要求不一致。'elevated'义为'提升；提高'：与题干语境或搭配要求不一致。'deepened'义为'加深；变深（情感／颜色）'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — dampened（使（情绪、热情）受挫；弄湿）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "inflated",
+              "zh": "充气；夸大（价格／自负）",
+              "eg": "The shopkeeper had <strong>inflated</strong> the price of the souvenirs to cheat tourists."
+            },
+            {
+              "opt": "2",
+              "word": "elevated",
+              "zh": "提升；提高",
+              "eg": "The award <strong>elevated</strong> the young artist's reputation overnight."
+            },
+            {
+              "opt": "3",
+              "word": "deepened",
+              "zh": "加深；变深（情感／颜色）",
+              "eg": "The kind gesture <strong>deepened</strong> their friendship over the years."
+            },
+            {
+              "opt": "4",
+              "word": "dampened",
+              "zh": "使（情绪、热情）受挫；弄湿",
+              "eg": "Even the heavy rain could not <strong>dampen</strong> our excitement about the field trip."
+            }
+          ]
+        },
+        "12": {
+          "zh": "许多居民因为火灾失去家园，被迫搬到别处。",
+          "note": "应选（4）'displaced'：题干语境最宜表达'（被迫）流离失所；移开'。'evicted'义为'驱逐（房客）；强制搬离'：与题干语境或搭配要求不一致。'expelled'义为'（从学校）开除；驱逐出（团体）'：与题干语境或搭配要求不一致。'retreated'义为'撤退；后退'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — displaced（（被迫）流离失所；移开）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "evicted",
+              "zh": "驱逐（房客）；强制搬离",
+              "eg": "The tenants were <strong>evicted</strong> from the flat for not paying rent for six months."
+            },
+            {
+              "opt": "2",
+              "word": "expelled",
+              "zh": "（从学校）开除；驱逐出（团体）",
+              "eg": "He was <strong>expelled</strong> from the team for cheating in the qualifying round."
+            },
+            {
+              "opt": "3",
+              "word": "retreated",
+              "zh": "撤退；后退",
+              "eg": "The startled cat <strong>retreated</strong> under the sofa when the doorbell rang."
+            },
+            {
+              "opt": "4",
+              "word": "displaced",
+              "zh": "（被迫）流离失所；移开",
+              "eg": "Hundreds of villagers were <strong>displaced</strong> when the river flooded their homes."
+            }
+          ]
+        },
+        "13": {
+          "zh": "幼儿展示沙堡时，自豪的祖父大力称赞他。",
+          "note": "应选（2）'profusely'：题干语境最宜表达'大量地；不停地（道歉／流汗）'。'modestly'义为'谦虚地；端庄地'：与题干语境或搭配要求不一致。'unanimously'义为'一致地；无异议地'：与题干语境或搭配要求不一致。'consecutively'义为'连续地；接连不断地'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — profusely（大量地；不停地（道歉／流汗））",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "modestly",
+              "zh": "谦虚地；端庄地",
+              "eg": "She accepted the trophy <strong>modestly</strong>, thanking her teammates first."
+            },
+            {
+              "opt": "2",
+              "word": "profusely",
+              "zh": "大量地；不停地（道歉／流汗）",
+              "eg": "He apologised <strong>profusely</strong> for stepping on her new shoes."
+            },
+            {
+              "opt": "3",
+              "word": "unanimously",
+              "zh": "一致地；无异议地",
+              "eg": "The class <strong>unanimously</strong> voted Wei Ming as their CCA representative."
+            },
+            {
+              "opt": "4",
+              "word": "consecutively",
+              "zh": "连续地；接连不断地",
+              "eg": "She has won the spelling bee three years <strong>consecutively</strong>."
+            }
+          ]
+        },
+        "14": {
+          "zh": "经理敦促员工加倍努力，按时完成项目。",
+          "note": "应选（4）'double down'：题干语境最宜表达'（在困境中）加倍努力；坚持立场'。'double up'义为'（因痛或笑）弯下身；与人合住一房'：与题干语境或搭配要求不一致。'double over'义为'（因痛苦／笑）弯腰'：与题干语境或搭配要求不一致。'double back'义为'原路折返；走回头路'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — double down（（在困境中）加倍努力；坚持立场）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "double up",
+              "zh": "（因痛或笑）弯下身；与人合住一房",
+              "eg": "He <strong>doubled up</strong> in laughter when he heard the silly joke."
+            },
+            {
+              "opt": "2",
+              "word": "double over",
+              "zh": "（因痛苦／笑）弯腰",
+              "eg": "She <strong>doubled over</strong> in pain after twisting her ankle on the field."
+            },
+            {
+              "opt": "3",
+              "word": "double back",
+              "zh": "原路折返；走回头路",
+              "eg": "We had to <strong>double back</strong> when we realised we had taken the wrong turning."
+            },
+            {
+              "opt": "4",
+              "word": "double down",
+              "zh": "（在困境中）加倍努力；坚持立场",
+              "eg": "Instead of giving up, the team chose to <strong>double down</strong> on training before the finals."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我们毫无准备，上一场比赛惨败，因此承认失败。",
+          "note": "应选（2）'defeat'：题干语境最宜表达'失败；战败'。'loss'义为'失败；损失'：与题干语境或搭配要求不一致。'failure'义为'失败；故障'：与题干语境或搭配要求不一致。'rejection'义为'（请求／作品）被拒绝'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — defeat（失败；战败）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "loss",
+              "zh": "失败；损失",
+              "eg": "Despite the painful <strong>loss</strong>, the players shook hands with their opponents."
+            },
+            {
+              "opt": "2",
+              "word": "defeat",
+              "zh": "失败；战败",
+              "eg": "After his crushing <strong>defeat</strong>, the chess master vowed to train harder."
+            },
+            {
+              "opt": "3",
+              "word": "failure",
+              "zh": "失败；故障",
+              "eg": "She did not see her low score as a <strong>failure</strong> but as a chance to learn."
+            },
+            {
+              "opt": "4",
+              "word": "rejection",
+              "zh": "（请求／作品）被拒绝",
+              "eg": "The author received a polite <strong>rejection</strong> letter from the publisher."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "deteriorating",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "dissipating",
+            "2": "depreciating",
+            "3": "deteriorating",
+            "4": "disintegrating"
+          }
+        },
+        "17": {
+          "stem_plain": "Additionally",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Moreover",
+            "2": "Therefore",
+            "3": "Meanwhile",
+            "4": "Regardless"
+          }
+        },
+        "18": {
+          "stem_plain": "especially",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "mainly",
+            "2": "usually",
+            "3": "commonly",
+            "4": "particularly"
+          }
+        },
+        "19": {
+          "stem_plain": "take advantage of",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "exploit",
+            "2": "misuse",
+            "3": "swindle",
+            "4": "deceive"
+          }
+        },
+        "20": {
+          "stem_plain": "prone",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "averse",
+            "2": "exposed",
+            "3": "responsive",
+            "4": "susceptible"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Too much screen time is bad for children. Social media may be one of the reasons that mental health among young people seems to be [Q16 (deteriorating)]. Continuous scrolling online not only affects sleep quality, but also takes time away from playing with friends, schoolwork and other activities. [Q17 (Additionally)], children are deprived of healthier physical activities. All these can add anxiety and feelings of depression.",
+          "Children are also [Q18 (especially)] vulnerable to being harmed in digital spaces. They are at an age where they are exploring their own identities. There is a strong need to find friends and to belong. This makes children easy prey for strangers who want to [Q19 (take advantage of)] them online. Also, because their self-control is not fully developed yet, they may be more [Q20 (prone)] to screen addiction. To help parents and teachers protect children from social media's ill effects, Singapore's Ministry of Health has provided recommendations for the optimal amount of screen time."
+        ],
+        "zh": [
+          "儿童屏幕时间过长有害。社交媒体可能是年轻人心理健康似乎日益恶化的原因之一。持续刷屏不仅影响睡眠质量，还占用与朋友玩耍、功课和其他活动的时间。此外，儿童也被剥夺了更健康的体育活动。这些都会增加焦虑和抑郁感。",
+          "儿童在数字空间中也特别容易受到伤害。他们正处于探索自我身份的年龄，强烈需要结交朋友、获得归属。这使儿童容易成为陌生人在网上利用的对象。又因自制力尚未完全发展，他们可能更容易沉迷于屏幕。为帮助父母和老师保护儿童免受社交媒体的负面影响，新加坡卫生部已就最佳屏幕使用时间提供建议。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — deteriorating（恶化）",
+          "zh": "社交媒体可能是年轻人心理健康似乎日益恶化的原因之一。",
+          "note": "应选（3）'deteriorating'：短文划线的 <em>deteriorating</em> 在此语境下与此义最接近。'dissipating'：与英语解析中的辨析不一致。'depreciating'：与英语解析中的辨析不一致。'disintegrating'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dissipating",
+              "zh": "消散",
+              "eg": "The team kept <strong>dissipating</strong> until the task was done."
+            },
+            {
+              "opt": "2",
+              "word": "depreciating",
+              "zh": "贬值",
+              "eg": "The team kept <strong>depreciating</strong> until the task was done."
+            },
+            {
+              "opt": "3",
+              "word": "deteriorating",
+              "zh": "恶化",
+              "eg": "The team kept <strong>deteriorating</strong> until the task was done."
+            },
+            {
+              "opt": "4",
+              "word": "disintegrating",
+              "zh": "崩解剂",
+              "eg": "The team kept <strong>disintegrating</strong> until the task was done."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — Additionally（而且）",
+          "zh": "此外，儿童也被剥夺了更健康的体育活动。",
+          "note": "应选（1）'Moreover'：短文划线的 <em>Additionally</em> 在此语境下与此义最接近。'Therefore'：与英语解析中的辨析不一致。'Meanwhile'：与英语解析中的辨析不一致。'Regardless'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Moreover",
+              "zh": "而且",
+              "eg": "In class we discussed how <strong>Moreover</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "Therefore",
+              "zh": "所以",
+              "eg": "The pupils found the word <strong>Therefore</strong> useful in their composition."
+            },
+            {
+              "opt": "3",
+              "word": "Meanwhile",
+              "zh": "同时",
+              "eg": "The speaker chose <strong>Meanwhile</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "Regardless",
+              "zh": "不管",
+              "eg": "The pupils found the word <strong>Regardless</strong> useful in their composition."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — especially（特别地）",
+          "zh": "儿童在数字空间中也特别容易受到伤害。",
+          "note": "应选（4）'particularly'：短文划线的 <em>especially</em> 在此语境下与此义最接近。'mainly'：义为'主要地； largely'，与短文语境或搭配要求不一致。'usually'：与英语解析中的辨析不一致。'commonly'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "mainly",
+              "zh": "主要地； largely",
+              "eg": "The view <strong>mainly</strong> reflected his childhood stories."
+            },
+            {
+              "opt": "2",
+              "word": "usually",
+              "zh": "通常地",
+              "eg": "She answered <strong>usually</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "commonly",
+              "zh": "常见地",
+              "eg": "She answered <strong>commonly</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "particularly",
+              "zh": "特别地",
+              "eg": "She answered <strong>particularly</strong> before the bell rang."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — take advantage of（开发）",
+          "zh": "这使儿童容易成为陌生人在网上利用的对象。",
+          "note": "应选（1）'exploit'：短文划线的 <em>take advantage of</em> 在此语境下与此义最接近。'misuse'：与英语解析中的辨析不一致。'swindle'：与英语解析中的辨析不一致。'deceive'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "exploit",
+              "zh": "开发",
+              "eg": "Her essay used <strong>exploit</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "2",
+              "word": "misuse",
+              "zh": "滥用",
+              "eg": "The speaker chose <strong>misuse</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "swindle",
+              "zh": "骗取",
+              "eg": "The speaker chose <strong>swindle</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "deceive",
+              "zh": "欺骗",
+              "eg": "Her essay used <strong>deceive</strong> in a clear, natural sentence."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — prone（易受影响的）",
+          "zh": "又因自制力尚未完全发展，他们可能更容易沉迷于屏幕。",
+          "note": "应选（4）'susceptible'：短文划线的 <em>prone</em> 在此语境下与此义最接近。'averse'：与英语解析中的辨析不一致。'exposed'：与英语解析中的辨析不一致。'responsive'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "averse",
+              "zh": "厌恶",
+              "eg": "The speaker chose <strong>averse</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "2",
+              "word": "exposed",
+              "zh": "博览会",
+              "eg": "The coach <strong>exposed</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "responsive",
+              "zh": "反应灵敏",
+              "eg": "The speaker chose <strong>responsive</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "susceptible",
+              "zh": "易受影响的",
+              "eg": "In class we discussed how <strong>susceptible</strong> fits everyday English."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "\"...connect ... under the stars!\" The image in the poster in Text 1 supports this by depicting people ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "picnicking in one place",
+            "2": "relaxing in a cosy room",
+            "3": "sitting under the open sky",
+            "4": "coming together for a feast"
+          }
+        },
+        "22": {
+          "stem_plain": "Based on Text 1, which of the following is true about the event?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "All adults will enjoy free-flow beverages.",
+            "2": "Interested parties can register on the spot.",
+            "3": "Participants must attend with family members.",
+            "4": "Children get free admission to the film screening."
+          }
+        },
+        "23": {
+          "stem_plain": "What is the main purpose of Text 1?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to encourage people to watch more films",
+            "2": "to attract people to attend a community event",
+            "3": "to provide people with the details of a new film",
+            "4": "to remind people to spend time with their loved ones"
+          }
+        },
+        "24": {
+          "stem_plain": "Based on Text 2, the talk that is taking place at the Community Club is most likely for ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Family Day",
+            "2": "Kindness Day",
+            "3": "Health and Fitness Day",
+            "4": "Community Service Day"
+          }
+        },
+        "25": {
+          "stem_plain": "How does the content of Text 2 support the message of the poster in Text 1?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It promotes indoor and outdoor activities.",
+            "2": "It encourages people to play more games.",
+            "3": "It focuses on the need to build a strong community.",
+            "4": "It highlights the benefits of bringing family members together."
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Image evidence（题型考点）",
+          "breakdown": {
+            "zh": "海报用户外天空下的人群来支持“星空下”的说法。",
+            "note": "The visual evidence matches the phrase \"under the stars\"."
+          },
+          "note": "The phrase \"under the stars\" is supported by people outdoors under the open sky. The other choices add ideas not shown by the phrase.",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "题型 — Detail retrieval（题型考点）",
+          "breakdown": {
+            "zh": "儿童可免费进入电影放映会。",
+            "note": "\"Complimentary tickets\" means free tickets."
+          },
+          "note": "The poster states \"Complimentary tickets for children\", meaning children enter free. Adults pay $5, registration is via the website, and people are encouraged to bring loved ones but not required to do so.",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "目的 — Purpose（目的考点）",
+          "breakdown": {
+            "zh": "海报的主要目的是吸引人们参加社区活动。",
+            "note": "The poster gives event details and registration information."
+          },
+          "note": "The poster promotes a specific film show with date, venue, registration and ticket details, so its main purpose is to attract people to attend the event.",
+          "answer": "2"
+        },
+        "24": {
+          "concept": "推理 — Inference（推理考点）",
+          "breakdown": {
+            "zh": "演讲最可能是为了家庭日。",
+            "note": "The repeated focus is on family bonds and family time."
+          },
+          "note": "The talk repeatedly focuses on family time, family bonds and spending quality time together, so it most likely belongs to a Family Day event.",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "题型 — Text connection（题型考点）",
+          "breakdown": {
+            "zh": "第二篇文本说明把家人聚在一起的好处。",
+            "note": "This supports the poster invitation to connect with family."
+          },
+          "note": "The poster invites people to connect with family, and Text 2 explains why family time is valuable. This directly supports the poster message.",
+          "answer": "4"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "as",
+          "D": "could",
+          "G": "had",
+          "K": "with",
+          "N": "which",
+          "B": "at",
+          "E": "for",
+          "H": "over",
+          "L": "who",
+          "P": "would",
+          "C": "by",
+          "F": "has",
+          "J": "through",
+          "M": "while",
+          "Q": "until"
+        },
+        "cloze": [
+          "Have you ever thought about how reading became such a big part of our lives? Reading [Q26] been important for thousands of years, beginning as a way to record and share information using symbols in ancient civilisations. At first, only a few educated people [Q27] understand these symbols. It was not [Q28] the Phoenicians invented one of the earliest alphabets — letters representing sounds — that reading began to transform. This made reading easier and more widespread, especially after the Greeks and Romans improved the alphabet, [Q29] influenced many modern languages.",
+          "For centuries, books were rare and expensive and could only be accessed [Q30] wealthy or religious groups. However, everything changed [Q31] the invention of the printing press — books were produced quickly and in large numbers and made available to all. [Q32] time, libraries and cheaper books made reading more accessible, encouraging many people to develop a love for it. Reading became part of everyday life, both [Q33] pleasure and learning.",
+          "Today, reading habits continue to evolve rapidly. [Q34] many still enjoy printed books, digital formats like e-books and audiobooks have become common. The internet also encourages shorter, more frequent reading, especially [Q35] social media platforms. Despite these changes, the value of reading remains strong. It helps us connect with new ideas, emotions and perspectives — something people will likely continue to treasure for generations."
+        ],
+        "zh": [
+          "你有没有想过，阅读是怎么变成我们生活中这么重要的一部分的？阅读已有数千年的历史，最早是古代文明用符号记录和传递信息的方式。起初，只有少数受过教育的人才能看懂这些符号。直到腓尼基人发明了最早的字母之一——用字母代表声音——阅读才开始发生改变。这让阅读变得更容易、更普及，尤其在希腊人和罗马人改进字母之后，他们的字母影响了许多现代语言。",
+          "几个世纪以来，书籍稀少又昂贵，只有富人或宗教团体才能接触到。然而，印刷机的发明改变了一切——书籍被大量快速地印制出来，让所有人都能读到。随着时间推移，图书馆和更便宜的书让阅读更普及，也鼓励许多人开始爱上阅读。阅读成为日常生活的一部分，既用于娱乐，也用于学习。",
+          "如今，人们的阅读习惯仍在迅速演变。尽管许多人仍喜欢纸质书，电子书和有声书等数码形式也已变得普遍。互联网也鼓励人们更频繁地进行短文阅读，尤其是通过社交媒体平台。尽管发生了这些变化，阅读的价值仍然强大。阅读帮助我们接触新思想、情感和观点——这是人们很可能会世代珍视的东西。"
+        ]
+      },
+      "answers": {
+        "26": {
+          "concept": "现在完成 — has",
+          "note": "Reading has been important = 阅读一直很重要。",
+          "answer": "F — has"
+        },
+        "27": {
+          "concept": "情态 — could",
+          "note": "people could understand = 能看懂符号。",
+          "answer": "D — could"
+        },
+        "28": {
+          "concept": "结构 — until",
+          "note": "not until … invented = 直到……才。",
+          "answer": "Q — until"
+        },
+        "29": {
+          "concept": "关系代词 — which",
+          "note": "alphabet, which influenced … = 非限制性定语从句。",
+          "answer": "N — which"
+        },
+        "30": {
+          "concept": "介词 — by",
+          "note": "accessed by wealthy groups = 为富人等所获取。",
+          "answer": "C — by"
+        },
+        "31": {
+          "concept": "介词 — with",
+          "note": "changed with the invention = 随印刷术发明而改变。",
+          "answer": "K — with"
+        },
+        "32": {
+          "concept": "时间短语 — Over",
+          "note": "Over time, libraries … = 随着时间推移。",
+          "answer": "H — over"
+        },
+        "33": {
+          "concept": "介词 — for",
+          "note": "for pleasure and learning = 为娱乐与学习。",
+          "answer": "E — for"
+        },
+        "34": {
+          "concept": "让步 — while",
+          "note": "While many still enjoy … = 尽管许多人仍喜欢……",
+          "answer": "M — while"
+        },
+        "35": {
+          "concept": "途径 — through",
+          "note": "especially through social media = 尤其通过社交媒体。",
+          "answer": "J — through"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Dear Diary, Our Social Studies lesson today was so interesting! I learnt that the Singapore Botanic Gardens is a UNESCO World Heritage Site. It is the first place in Singapore to [Q36(reseev)] such an honour, and it was [Q37(choose)] for its historical importance, natural beauty, and role in the rubber trade in the 1900s. It is also one of the few [Q38(tropickle)] colonial gardens left in the world!",
+          "We found out that for a site to become a UNESCO World Heritage Site, the place must be so important that it is valued by people around the world. It must meet strict [Q39(kryteeria)] , for example having cultural or natural [Q40(signify)] . Singapore took five years to prepare its [Q41(apply)] . Experts praised the excellent [Q42(mayntenence)] of the Gardens, especially compared to other gardens in Asia.",
+          "[Q43(Which)] struck me most was how something right here in Singapore is now recognised around the world. As I walked along the shady paths, I [Q44(begin)] to reminisce about my past visits. I now see the Gardens in a whole new light. It makes me proud that something so [Q45(familliar)] is now appreciated by people around the world. One day, I hope to visit other UNESCO sites — like Angkor Wat or Borobudur."
+        ],
+        "zh": [
+          "亲爱的日记：今天的社会科课非常有趣！我学到新加坡植物园是联合国教科文组织世界遗产，也是新加坡第一个获此荣誉的地方；它因历史重要性、自然美与二十世纪橡胶贸易角色而被选中。它也是世界上仅存的几座热带殖民花园之一。",
+          "我们了解到，要成为世界遗产，地点必须重要到受全世界的人重视，并符合严格标准，例如具有文化或自然意义。新加坡花五年准备申请，专家称赞植物园维护出色，尤其优于亚洲其他花园。",
+          "最打动我的是，新加坡本地的事物如今得到世界认可。我沿阴凉小路漫步时开始回想过去参观，现在以全新眼光看植物园。如此熟悉的事物如今被世界欣赏，令我自豪。我希望有一天能参观吴哥窟或婆罗浮屠等其他世界遗产。"
+        ]
+      },
+      "answers": {
+        "36": {
+          "concept": "Spelling",
+          "note": "\"Reseev\" is misspelled. The correct spelling is \"receive\".",
+          "answer": "receive"
+        },
+        "37": {
+          "concept": "Passive voice",
+          "note": "After \"was\", the passive voice needs the past participle: \"was chosen\".",
+          "answer": "chosen"
+        },
+        "38": {
+          "concept": "Spelling",
+          "note": "The correct spelling is \"tropical\".",
+          "answer": "tropical"
+        },
+        "39": {
+          "concept": "Spelling",
+          "note": "\"Criteria\" is the correct spelling of the plural noun meaning standards or requirements.",
+          "answer": "criteria"
+        },
+        "40": {
+          "concept": "Word form",
+          "note": "The phrase needs a noun: \"cultural or natural significance\".",
+          "answer": "significance"
+        },
+        "41": {
+          "concept": "Word form",
+          "note": "After \"its\", a noun is needed: \"its application\".",
+          "answer": "application"
+        },
+        "42": {
+          "concept": "Spelling",
+          "note": "The correct spelling is \"maintenance\".",
+          "answer": "maintenance"
+        },
+        "43": {
+          "concept": "Nominal relative clause",
+          "note": "\"What struck me most\" means \"the thing that struck me most\". \"Which\" would need a clear noun before it.",
+          "answer": "What"
+        },
+        "44": {
+          "concept": "Past tense",
+          "note": "The diary recounts a past walk, so \"I began\" is correct.",
+          "answer": "began"
+        },
+        "45": {
+          "concept": "Spelling",
+          "note": "The correct spelling is \"familiar\".",
+          "answer": "familiar"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Hawker culture is one of Singapore's most treasured traditions. It is more than just food. Dishes like chicken rice, laksa, roti prata and nasi lemak [Q46] people from all backgrounds together, creating a strong [Q47] of community and identity. Hawker culture started in the 1800s [Q48] migrants brought their recipes and sold food on the streets. [Q49] after, hawker centres were built to provide cleaner and safer places to eat, becoming lively spaces [Q50] people bond over affordable meals.",
+          "Today, our hawker culture [Q51] multiple challenges. The [Q52] costs of ingredients, rent and labour make it harder for hawkers to keep prices affordable. Many young people are also not [Q53] in becoming hawkers because the work is demanding, so many older hawkers are left [Q54] successors. At the same time, modern technology and changing lifestyles also mean that hawkers need to [Q55] to new ways of doing business.",
+          "To [Q56] this iconic culture, hawkers must embrace modern developments [Q57] as digital payments, social media and delivery services. However, it is equally important to protect the traditions that make hawker food special — like the unique cooking skills passed [Q58] through generations and the friendly, personal interactions hawkers have with customers. The vibrant atmosphere and freshly cooked food at hawker centres add to the charm and cannot be replaced [Q59] convenience alone.",
+          "Through striking a [Q60] between tradition and progress, our hawker culture can stay alive and strong. This will help ensure that hawker food remains a proud part of Singapore's identity for many years to come."
+        ],
+        "zh": [
+          "小贩文化是新加坡最珍贵的传统之一，不仅是美食：鸡饭、叻沙、印度煎饼、椰浆饭等把人聚在一起，形成强烈的社区认同。十九世纪移民带来食谱、在街边卖食；随后兴建小贩中心，提供更安全洁净的用餐场所，成为人们在实惠餐食中建立联系的热闹空间。",
+          "今日小贩文化面临多重挑战：食材、租金与人工成本上涨，摊主更难维持平价；许多年轻人对成为小贩不感兴趣，老摊主往往无人接班；现代科技与生活方式变化也要求小贩适应新经营方式。",
+          "为延续这一标志文化，摊主须拥抱数码支付、社交媒体与外卖等现代发展，同时保护使小贩美食特别的传统——如代代相传的烹饪技艺，以及与顾客亲切的个人互动；小贩中心的热闹氛围与现煮食物增添魅力，不能单靠便利取代。",
+          "在传统与进步之间取得平衡，小贩文化才能延续旺盛；这将确保小贩美食多年来仍是新加坡引以为傲的身份象征。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "主谓一致与动词搭配",
+          "note": "主语为并列的多种复数美食（Dishes like...），谓语动词用原形。构成固定搭配 bring people together，表示将不同背景的人“聚集”或“团结”在一起。",
+          "answer": "bring"
+        },
+        "47": {
+          "concept": "固定搭配",
+          "note": "属于抽象名词高频固定搭配 a strong sense of community and identity，意为强烈的社区“归属感”与身份认同感。",
+          "answer": "sense"
+        },
+        "48": {
+          "concept": "时间从句引导词",
+          "note": "用于引出特定的历史时间背景，表示十九世纪移民们带来各自食谱的“时候”，使用时间连词 when 引导从句。",
+          "answer": "when"
+        },
+        "49": {
+          "concept": "时间副词固定短语",
+          "note": "与后面的 after 组合构成固定短语 Soon after（不久之后）或 Shortly after，表示在此之后不久政府便兴建了小贩中心。位于句首需大写。",
+          "answer": "Soon/Shortly"
+        },
+        "50": {
+          "concept": "关系副词/定语从句",
+          "note": "限定性定语从句修饰表示地点的先行词 spaces（空间/场所）。人们在这些场所里建立情谊，在从句中作地点状语，故用关系副词 where。",
+          "answer": "where"
+        },
+        "51": {
+          "concept": "主谓一致与动词搭配",
+          "note": "主语 our hawker culture 为单数第三人称。结合语境，表示如今的小贩文化正“面临”或“遭遇”多重挑战，谓语动词需用单三形式（faces / encounters / meets）。",
+          "answer": "faces/encounters/meets"
+        },
+        "52": {
+          "concept": "形容词修饰/比较级",
+          "note": "修饰不可数名词 costs（成本），用来形容食材、租金和人工成本的“增加”、“高昂”或“上升”。可填入形容词原级、比较级或现在分词（higher / rising / soaring / high）。",
+          "answer": "higher/rising/soaring/high"
+        },
+        "53": {
+          "concept": "形容词固定搭配",
+          "note": "后接介词 in，构成极高频考查的固定短语 be interested in，表示许多年轻人对成为小贩并不“感兴趣”。",
+          "answer": "interested"
+        },
+        "54": {
+          "concept": "介词引导状态状语",
+          "note": "结合上文“年轻不愿意加入”，说明许多上了年纪的小贩处于“没有”或“缺乏”接班人的无奈境地，填入介词 without 引导状态状语。",
+          "answer": "without"
+        },
+        "55": {
+          "concept": "短语动词固定搭配",
+          "note": "情态动词 need to 后接动词原形。与后面的介词 to 联用，表示小贩需要去“适应”新的商业经营模式，构成固定搭配 adapt to（或 adjust to）。",
+          "answer": "adapt/adjust"
+        },
+        "56": {
+          "concept": "动词不定式（目的）",
+          "note": "To 后接动词原形表目的。结合全篇保护传统文化的语境，指为了“保护”、“延续”或“维持”这一标志性文化（preserve / save / protect / continue / sustain）。",
+          "answer": "preserve/save/protect/continue/sustain"
+        },
+        "57": {
+          "concept": "举例引导词",
+          "note": "与后面的 as 组合构成最常见的举例固定搭配 such as，用于引出数码支付、社交媒体等现代发展方案。",
+          "answer": "such"
+        },
+        "58": {
+          "concept": "短语动词固定搭配",
+          "note": "修饰过去分词 passed，构成高频短语动词 pass down 或 pass on，表示独特的烹饪技艺代代“相传”或“传承”。",
+          "answer": "down/on"
+        },
+        "59": {
+          "concept": "被动语态介词",
+          "note": "前面有 cannot be replaced，属于被动语态结构。此处填入介词 by，表示小贩中心的独特魅力不能被单凭便利性所“替代”。",
+          "answer": "by"
+        },
+        "60": {
+          "concept": "习语搭配",
+          "note": "动名词短语 striking a... 完美契合了英语中极高频考核的经典习语 strike a balance between... and...，意为在传统与进步之间“取得平衡”。",
+          "answer": "balance"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "He did not throw the ball in time. The team missed the chance to score.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Had __________ ."
+        },
+        "62": {
+          "stem_plain": "Mrs Lee explained the new school rules clearly to everyone.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mrs Lee gave __________ ."
+        },
+        "63": {
+          "stem_plain": "The cat is very friendly. The children in the neighbourhood love playing with it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ because of its __________ ."
+        },
+        "64": {
+          "stem_plain": "The scientists are analysing the data from the recent experiment.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The data __________ ."
+        },
+        "65": {
+          "stem_plain": "The teacher said to the students, \"You must submit your homework tomorrow.\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The teacher told the students __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "61": {
+          "concept": "倒装 — Inverted third conditional",
+          "zh": "如果他及时传球，球队就不会错失得分机会。",
+          "note": "虚拟语气倒装：<em>Had he thrown …</em> = <em>If he had thrown …</em>；主句 <em>would not have missed …</em>。",
+          "answer": "Had he thrown the ball in time, the team would not have missed the chance to score."
+        },
+        "62": {
+          "concept": "名词化 — Verb-to-noun transformation",
+          "zh": "李老师向每个人清楚地解释了新校规。",
+          "note": "名词化：<em>explained … clearly</em> → <em>gave a clear explanation of …</em>；保留 <em>to everyone</em>。",
+          "answer": "Mrs Lee gave a clear explanation of the new school rules to everyone."
+        },
+        "63": {
+          "concept": "原因短语 — Because of + noun phrase",
+          "zh": "由于这只猫很友善，街坊的孩子都喜欢和它玩。",
+          "note": "原因短语：<em>friendly</em> → <em>friendliness</em>；<em>because of its friendliness</em> 表原因。",
+          "answer": "The children in the neighbourhood love playing with the cat because of its friendliness."
+        },
+        "64": {
+          "concept": "被动语态 — Passive voice",
+          "zh": "科学家正在分析最近实验的数据。",
+          "note": "被动语态：<em>The data …</em> 作主语；<em>is being analysed by the scientists</em>。",
+          "answer": "The data from the recent experiment is being analysed by the scientists."
+        },
+        "65": {
+          "concept": "间接引语 — Reported speech",
+          "zh": "老师告诉学生他们必须在第二天交作业。",
+          "note": "间接引语：<em>You must submit … tomorrow</em> → <em>that they had to submit … the next day</em>；时态与时间词后移。",
+          "answer": "The teacher told the students that they had to submit their homework the next day."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "In the first paragraph, Rui En was worried about her classmates finding out where she spent her weekends. How did Rui En think her classmates would feel if they saw her at the wet market? She thought they would be .",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "67": {
+          "stem_plain": "**\"Rui En, there's nothing to be ashamed of,\"** she murmured. Explain fully why Rui En felt **\"ashamed\"**.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "68": {
+          "stem_plain": "From the first paragraph, pick out a three-word phrase that tells us Rui En felt unhappy about being at the market every Sunday.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "69": {
+          "stem_plain": "**\"A cold fear seeped into her bones.\"** (lines 13-14) Explain fully what caused Rui En to feel this way.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "70": {
+          "stem_plain": "What does **\"strutted right up to Rui En\"** suggest about Eileen's attitude towards Rui En?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "71": {
+          "stem_plain": "Explain fully what Rui En meant by \"What was I doing?\"",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Based on lines 11-34, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Eileen felt that the market was unpleasant.",
+                "(b) Sue Yi immediately forgave Rui En when she apologised."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q72a]",
+                "[Q72c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q72b]",
+                "[Q72d]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Words from the passage",
+              "rows": [
+                "(a) **what she wanted most** (line 20)",
+                "(b) **it** (line 36)",
+                "(c) **come clean** (line 38)"
+              ]
+            },
+            "refers_to": {
+              "header": "What do the words refer to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]",
+                "[Q73c]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "From lines 28-34, pick out two separate phrases to show the characters' feelings and explain why they felt that way.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "Four-word phrase that shows Eileen felt embarrassed",
+                "[Q74a]",
+                "Five-word phrase that shows Rui En felt relieved",
+                "[Q74c]"
+              ]
+            },
+            "col_2": {
+              "header": "",
+              "rows": [
+                "Reason for Eileen's feelings",
+                "[Q74b]",
+                "Reason for Rui En's feelings",
+                "[Q74d]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Explain clearly what Rui En meant by **\"something inside her had shifted\"** (line 41).",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>第一段的<strong>心理想象</strong>——睿恩预设同学若撞见她在湿巴刹，会作何反应。</li><li><strong>定位：</strong>第 2–4 行写她脑里浮现 <em>horror etched on her classmates' faces</em>，并把湿巴刹与腥臭、油腻联想在一起。</li><li><strong>作答：</strong>她认为同学会感到<strong>厌恶/震惊</strong>（ disgusted / horrified 皆可），因她觉得自己的周末工作与同学常去的商场、咖啡馆格格不入。</li><li><strong>书写：</strong>用完整句，可嵌入文中 <em>horror</em> 一词作依据。</li></ol>",
+          "answer": [
+            "Disgusted."
+          ],
+          "type": "comprehension"
+        },
+        "67": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>题干引用素一的安慰，但要解释的是睿恩<strong>为何仍感到羞耻</strong>，证据主要在<strong>第 1 段</strong>（可与第 7–9 行呼应）。</li><li><strong>羞耻来源：</strong>第 2–3 行写腥臭、油腻；第 8–9 行写同学周末去处与湿巴刹对比，强化她“与众不同=丢脸”的想法。</li><li><strong>心理：</strong>她把家族营生等同于“会被瞧不起”，所以即使姐姐说 <em>nothing to be ashamed of</em>，她仍无法释怀。</li><li><strong>失分点：</strong>只写伊玲直播段（后文）而忽略第一段对“羞耻”的铺垫。</li></ol>",
+          "answer": [
+            "She felt ashamed because the wet market smelled of raw meat and grease clung to her hands (lines 2–3), while her classmates spent weekends at malls and cafes (lines 8–9). She believed that if they discovered she sold mutton there, they would look down on her or react with disgust, so she could not accept Sue Yi's reassurance (lines 3–4, 6–9)."
+          ],
+          "type": "comprehension"
+        },
+        "68": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录<strong>恰好三个英文词</strong>的短语，表达她讨厌每周日在市场。</li><li><strong>定位：</strong>第 2 行末 <em>dreaded every moment</em> ——<em>dread</em> 表强烈排斥、度日如年。</li><li><strong>作答：</strong>照抄 <span class=\"hl-good\">dreaded every moment</span>（注意与原文大小写一致）。</li></ol>",
+          "answer": [
+            "dreaded every moment"
+          ],
+          "type": "comprehension"
+        },
+        "69": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>定位：</strong>题干锁定 <strong>第 13–14 行</strong>，需说明<strong>恐惧的起因</strong>。</li><li><strong>触发事件：</strong>第 11–12 行写伊玲高举手机<strong>直播</strong>穿过人群，并对肉摊露出厌恶。</li><li><strong>心理后果：</strong>第 14 行点明她认定秘密将被全校看见——“被曝光”的具体威胁。</li><li><strong>书写：</strong>因果链条写清：伊玲直播 → 睿恩认定身份暴露 → 恐惧。</li></ol>",
+          "answer": [
+            "Eileen — the most popular girl in class — appeared with her phone held high, streaming live through the market (lines 11–12). Rui En believed this was the moment her carefully hidden secret about working at the wet market would unravel for the entire school to see (lines 13–14)."
+          ],
+          "type": "comprehension"
+        },
+        "70": {
+          "concept": "含义推断题",
+          "note": "<ol><li><strong>词义：</strong><em>strut</em> 表趾高气扬地走，含<strong>炫耀、咄咄逼人</strong>。</li><li><strong>证据：</strong>第 17–18 行她<strong>smirk</strong>、<strong>sneered</strong>，并径直逼近睿恩。</li><li><strong>态度：</strong>显示她自认占上风、轻视甚至<strong>羞辱</strong>对方，毫无尊重。</li></ol>",
+          "answer": [
+            "Eileen was arrogant and confident, showing no respect or fear of Rui En."
+          ],
+          "type": "comprehension"
+        },
+        "71": {
+          "concept": "短语/句子释义",
+          "note": "<ol><li><strong>语境：</strong>第 19–22 行她几乎要把垃圾倒在姐姐身上讨好伊玲；第 24 行素一反问“为何让她控制你”。</li><li><strong>含义：</strong>自问表示<strong>瞬间醒悟</strong>：意识到自己正为虚荣背叛家人。</li><li><strong>情感：</strong>伴随第 25 行羞愧、掉泪、松手，说明悔意与自我否定。</li></ol>",
+          "answer": [
+            "Rui En realised she was about to humiliate her sister just to impress Eileen and felt ashamed for letting herself be manipulated."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>范围：</strong>题干要求用 <strong>第 11–34 行</strong> 证据逐行判断。</li><li><strong>(a) True：</strong>第 12–13 行写她皱鼻、嫌恶地扫过肉摊，可支持“市场令人不快”。</li><li><strong>(b) False：</strong>第 26–27 行道歉后素一<strong>转身离去、心碎</strong>，并非“立刻原谅”。</li><li><strong>书写：</strong>每行先判 True/False，再给<strong>一句</strong>文中动词短语作理由。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "True",
+            "72b": "Her nose wrinkled in disgust as she panned the camera across the slabs of meat (lines 12–13)",
+            "72c": "False",
+            "72d": "After Rui En apologised, Sue Yi turned away, devastated — she did not forgive her on the spot (lines 26–27)"
+          }
+        },
+        "73": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a) what she wanted most（第 20 行）：</strong>紧接第 20–21 行条件句——若照做，伊玲或许觉得她够酷、愿做她朋友；核心是<strong>换取认同/友谊</strong>的渴望。</li><li><strong>(b) it（第 36 行）：</strong>第 35–36 行先写羊眼珠 round, glossy, unblinking，再用 <em>picked it up</em>，<em>it</em> 回指<strong>羊眼珠</strong>。</li><li><strong>(c) come clean（第 38 行）：</strong>第 38–39 行说要让同学看到湿巴刹真实生活与 <em>The real us</em>，即<strong>坦白身份/不再隐藏</strong>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "Rui En's wish to be seen as cool enough to be Eileen's friend / to impress Eileen by dumping the bin on Sue Yi.",
+            "73b": "The sheep's eyeball (that Rui En picked up with trembling fingers).",
+            "73c": "Being honest with everyone at school about working in the wet market and showing 'the real us'."
+          }
+        },
+        "74": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>范围：</strong>仅限 <strong>第 28–34 行</strong>，各找<strong>规定词数</strong>短语 + 一句因果理由。</li><li><strong>(a)(b) 伊玲：</strong>第 31 行 <em>cheeks burned crimson red</em> 为<strong>四词</strong>尴尬外化；原因见第 28–30 行摔倒、直播出糗、网友嘲笑。</li><li><strong>(c)(d) 睿恩：</strong>第 33 行 <em>tension in her chest eased</em> 为<strong>五词</strong>放松信号；原因见第 31–33 行姐姐由震惊转笑，关系缓和。</li><li><strong>易错：</strong>勿选第 43 行以后“胸口轻松”——已超出第 34 行。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "cheeks burned crimson red",
+            "74b": "Eileen slipped and fell on the wet floor; she felt embarrassed because everyone online saw her fall and get covered in scraps.",
+            "74c": "tension in her chest eased",
+            "74d": "Rui En felt relieved as Sue Yi forgave her and they laughed together."
+          }
+        },
+        "75": {
+          "concept": "含义推断题",
+          "note": "<ol><li><strong>定位：</strong>第 40–41 行拍照后紧接此句，需联系前文羞耻与后文释然。</li><li><strong>含义：</strong>“内心某处转变”指<strong>自我认同</strong>：从以湿巴刹为耻、害怕被嘲笑，转向愿与姐姐一起公开真实生活（第 38–41 行）。</li><li><strong>呼应后文：</strong>第 42–44 行她不再在意伊玲看法，更珍惜家人与勇气——印证价值观重写。</li></ol>",
+          "answer": [
+            "Rui En had changed from being ashamed of selling mutton at the wet market and afraid her classmates would be disgusted, to proudly posting a photo with her sister at the stall. She no longer cared what others thought and had the courage to embrace who she was."
+          ],
+          "type": "comprehension"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Every Sunday, Rui En stood at her parents' wet market stall selling mutton. The stench of raw",
+          "2": "meat seeped into her clothes, and grease clung to her hands. She dreaded every moment, her mind",
+          "3": "swirling with images of horror etched on her classmates' faces if they ever discovered where she spent",
+          "4": "her weekends. \"Sue Yi,\" Rui En muttered to her sister, \"I really hope no one from school shows up.\" Sue",
+          "5": "Yi handed a bag of meat to a customer, her calm smile a stark contrast to the storm brewing in Rui En's",
+          "6": "chest. \"Rui En, there's nothing to be ashamed of,\" she murmured. But Rui En could not believe her.",
+          "7": "Each time Rui En looked around at the dangling cuts of meat, the anxiety of being exposed for being",
+          "8": "different hung over her like a heavy fog. Rui En's classmates spent weekends at malls and cafes, not in",
+          "9": "humid markets reeking of raw meat. The market was a constant reminder that Rui En was different. Yet",
+          "10": "deep down, Rui En knew she had no choice — her parents depended on her sister and her.",
+          "11": "Then Rui En's heart lurched. Eileen Tan — the most popular girl in class — appeared like a",
+          "12": "nightmare come true, weaving through the crowd with her phone held high, streaming live. Her nose",
+          "13": "wrinkled in disgust as she panned the camera across the slabs of meat. Rui En froze. A cold fear seeped",
+          "14": "into her bones. This was it — the moment her carefully hidden secret would unravel for the entire school",
+          "15": "to see. \"Sue Yi,\" Rui En hissed, flailing her arms to get Sue Yi's attention. But Sue Yi was busy with a",
+          "16": "customer, oblivious to the danger Rui En felt closing in.",
+          "17": "To Rui En's horror, Eileen's eyes met hers. A smirk spread across Eileen's face as she strutted",
+          "18": "right up to Rui En. \"Hey, Rui En,\" she sneered. \"Want to do something fun? Dump that bin of rubbish",
+          "19": "on your sister. I'm live — everyone will see.\" Rui En's hands started to tremble. She looked at the bin filled",
+          "20": "with slimy scraps. Her mind raced. She knew **what she wanted most**: if she did this, maybe Eileen would",
+          "21": "finally think she was cool enough to be her friend. Rui En grabbed the bin. It was heavier than she expected,",
+          "22": "the rotting smell stinging her eyes, making her legs wobble.",
+          "23": "Just then Sue Yi turned, and Rui En's and her eyes locked. Sue Yi's usual calm expression",
+          "24": "changed instantly — from calm to betrayed. \"Why are you letting her control you?\" Sue Yi asked quietly.",
+          "25": "Sue Yi's words struck Rui En in the face as shame crashed over her. \"What was I doing?\" Rui En",
+          "26": "dropped the bin with a thud, tears burning in her eyes. \"I'm so sorry, Sue Yi,\" Rui En whispered. But Sue",
+          "27": "Yi turned away, devastated.",
+          "28": "Suddenly, a shriek cut through the market. Eileen had slipped and fallen on the wet floor, crashing",
+          "29": "right into the bin Rui En had just dropped. Slime and scraps exploded across Eileen's white shirt. Her",
+          "30": "phone, still streaming, captured the humiliating moment as laughing emojis poured in from her viewers.",
+          "31": "Eileen's cheeks burned crimson red as she scrambled to her feet, desperately trying to wipe the mess",
+          "32": "from her clothes. Shock flickered across Sue Yi's face. Then as Rui En and Sue Yi looked at each other,",
+          "33": "Sue Yi's expression softened and melted into laughter. Rui En felt the tension in her chest ease. She",
+          "34": "realised how close she had come to losing the one person who truly cared about her.",
+          "35": "As Rui En knelt to clean the mess, she found herself staring at a sheep's eyeball — round, glossy,",
+          "36": "unblinking. Rui En picked **it** up with trembling fingers, a strange calm settling over her. \"Hey, Rui En,\"",
+          "37": "Sue Yi called softly. Rui En looked up to see her lifting her phone, eyes shining with warmth despite",
+          "38": "everything. \"Maybe it's time we **come clean**. Show everyone at school what life in the wet market is",
+          "39": "really like. The real us.\"",
+          "40": "\"Smile,\" Sue Yi said. Rui En forced a shaky grin, a swirl of embarrassment and relief surging inside",
+          "41": "her. Yet beneath it all, something inside her had shifted.",
+          "42": "Later that evening, Sue Yi posted the photo with the caption: EYE bring out the best in her! For",
+          "43": "the first time, Rui En felt the weight lift from her chest. She no longer cared what Eileen or anyone else",
+          "44": "thought. She had something far better — her family, and the courage to stand in her own skin.",
+          "45": "She looked at the unblinking eyeball and typed: EYE think so too."
+        },
+        "paragraphs": {
+          "1": "每个星期天，瑞恩都会站在父母湿货档口卖羊肉。生肉的腥气渗进衣服，油污粘在手上。她每一刻都惧怕难熬，脑子里全是同学若发现她周末去向时脸上惊恐的画面。她对妹妹淑仪低声说，真希望不要有同学出现。淑仪把肉递给顾客，恬淡的笑容与瑞恩胸中翻涌的风暴形成鲜明对比，安慰她没什么可羞的，但瑞恩听不进去。她望向悬挂的肉块，总担心暴露“与众不同”的焦虑如浓雾压顶；同学周末去商场咖啡馆，而非气味熏人的市场。市场不断提醒她与众人不同，但她深知别无选择——父母全靠她和姐姐。",
+          "11": "瑞恩心头一沉——班里最受欢迎的同学 Eileen Tan 像噩梦成真般出现，高举手机直播穿行人群。她对一整排肉块皱鼻表示厌恶，瑞恩僵在原地，寒意渗进骨髓——她精心隐藏的秘密就要全校看见。她悄声叫淑仪、挥臂想引起注意，但淑仪正忙顾客，浑然不觉逼近的危险。",
+          "17": "最令瑞恩恐惧的是，Eileen 与她对视，得意一笑径直走来，挑衅要她把那桶垃圾倒在姐姐身上——她正直播，全校都会看见。瑞恩手开始发抖，看着桶里黏滑废料，脑中飞快权衡：若照做，Eileen 或许终会觉得她够酷可做朋友。她抓起桶，比想象中更重，腐臭刺目，双腿发软。",
+          "23": "这时淑仪转身，两人目光相接，淑仪一贯平静的神情瞬间由淡定变为被背叛。“你为什么让她摆布你？”淑仪轻声问。那句话像一记耳光，羞愧淹没瑞恩。“我在干什么？”她砰地放下桶，眼泪灼热，“对不起，淑仪。”淑仪却心碎地转身走开。",
+          "28": "市场忽然传来尖叫——Eileen 在湿地面滑倒，正好砸进瑞恩刚放下的桶，黏液溅满她白衬衫；手机仍在直播，观众纷纷发嘲笑表情，她满脸通红爬起，拼命擦拭。淑仪震惊一瞬，随即与瑞恩对视，表情渐渐化为笑声；瑞恩胸中紧绷松弛，意识到差点失去唯一真正在乎她的人。",
+          "35": "瑞恩跪下清理时，盯着一颗羊眼球——圆、亮、不眨。她颤抖拾起，一种奇异的平静笼罩全身。淑仪柔声叫她，举起手机，眼里仍带暖意：“也许是时候坦白，让全校看看湿货市场真实的生活——真正的我们。”",
+          "40": "“笑一个。”淑仪说。瑞恩挤出颤抖的笑容，尴尬与如释重负交织涌来，但深处已有某种改变。",
+          "42": "傍晚淑仪发帖，配文玩“eye/我”谐音：“EYE bring out the best in her!”（眼字双关“我让她展现最好一面”）。瑞恩头一回感到胸口重压卸下，不再在乎 Eileen 或他人怎么想；她拥有更珍贵的东西——家人，以及做回自己的勇气。",
+          "45": "她望着那只不眨的羊眼，打字：“EYE think so too.”（“我也这么想。”同样玩 eye/我 谐音。）"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

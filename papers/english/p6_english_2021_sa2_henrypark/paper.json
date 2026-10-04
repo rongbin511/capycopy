@@ -1,0 +1,1590 @@
+{
+  "paperid": "p6_english_2021_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Ali, together with his cousins, __________ at the old folks' home.",
+          "options": {
+            "1": "volunteer",
+            "2": "volunteers",
+            "3": "is volunteering",
+            "4": "have volunteered"
+          }
+        },
+        "2": {
+          "stem_plain": "\"The salesgirl said she was giving a discount for this bag, __________?\" Devi asked.",
+          "options": {
+            "1": "was she",
+            "2": "did she",
+            "3": "wasn't she",
+            "4": "didn't she"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Are we watching __________ this movie? I've heard contradicting reviews about it,\" he asked his friends.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "4": {
+          "stem_plain": "Mrs Lim made some healthy sandwiches for her nephews and a cup of coffee for __________.",
+          "options": {
+            "1": "herself",
+            "2": "himself",
+            "3": "yourselves",
+            "4": "themselves"
+          }
+        },
+        "5": {
+          "stem_plain": "__________ the time she won the award, Kim has been receiving numerous job offers.",
+          "options": {
+            "1": "At",
+            "2": "By",
+            "3": "From",
+            "4": "Upon"
+          }
+        },
+        "6": {
+          "stem_plain": "These days, the routine of washing our hands and taking our temperature __________ an integral part of our daily lives.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "\"You __________ melt the butter before adding it to the rest of the ingredients,\" Mother instructed.",
+          "options": {
+            "1": "might",
+            "2": "ought",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "8": {
+          "stem_plain": "\"It was a horrible accident! I don't know __________ it happened but when I got there, there were debris everywhere!\" Tom shrieked to his friends.",
+          "options": {
+            "1": "what",
+            "2": "when",
+            "3": "which",
+            "4": "where"
+          }
+        },
+        "9": {
+          "stem_plain": "Neither Miss Ten nor her brothers __________ part in a marathon before.",
+          "options": {
+            "1": "is taken",
+            "2": "are taken",
+            "3": "has taken",
+            "4": "have taken"
+          }
+        },
+        "10": {
+          "stem_plain": "__________ his illness, Sebastian could not attend his friend's birthday party.",
+          "options": {
+            "1": "Owing to",
+            "2": "Despite of",
+            "3": "Giving rise to",
+            "4": "Resulting from"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — Subject–verb agreement (with *together with*)",
+          "zh": "阿里和他的表亲们会在养老院做志愿者。",
+          "note": "主谓一致 (S–V)：真主语 Ali；together with 短语非主语，谓语用单数。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "反意疑问句 — Question tag after reporting *said*",
+          "zh": "德维问道：“那位女店员说她正在给这个包打折，是吗？”",
+          "note": "附加问 (Question tag)：外框动词 said（一般过去时、肯定）→ didn't she；wasn't she 易贴从句 was giving，本题贴 said。",
+          "answer": "4"
+        },
+        "3": {
+          "concept": "量词 — Quantifier + *reviews* (countable context)",
+          "zh": "他问朋友：“我们还要看很多这部电影吗？关于它我听到的评论互相矛盾。”",
+          "note": "陈述疑问 + 引述：后句 reviews 可数复数 → many (Quantifier + countable plural)。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "代词 — Reflexive pronoun — female subject",
+          "zh": "林太太给她的侄子们做了一些健康三明治，还给自己准备了一杯咖啡。",
+          "note": "反身代词：与 Mrs Lim 一致用 herself；themselves 指他人，himself 性别错。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "现在完成时 — Time anchor — *From the time* + present perfect",
+          "zh": "自从金获奖以来，她一直收到大量工作邀请。",
+          "note": "时间框架：From the time + 从句 + has been…，表从过去延续至今 (time frame)。",
+          "answer": "3"
+        },
+        "6": {
+          "concept": "主谓一致 — Grammatical subject — *routine* (singular)",
+          "zh": "如今，洗手和量体温已成为我们日常生活中不可或缺的一部分。",
+          "note": "主谓一致：主语 the routine 为单数抽象名词，谓语 is；勿被 washing/hands 复数词干扰。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "情态动词 — Modal — instruction / recipe (*should*)",
+          "zh": "母亲吩咐道：“你应该先把黄油化开，再加入其余配料。”",
+          "note": "情态动词 (Modal)：指令语气 should 表“应当”；ought 须接 to；might/would 过弱。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "关系词 — Wh-word in indirect question — time unknown",
+          "zh": "汤姆对朋友们嚷道：“那是一场可怕的事故！我不知道它是什么时候发生的，但我到那儿时，到处散落着碎片！”",
+          "note": "宾语从句 (Embedded question)：don't know 缺“何时”→ when；后半 when 表到达时点，与线索一致。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "主谓一致 — Neither … nor — proximity agreement (plural *brothers*)",
+          "zh": "坦小姐和她的兄弟们此前从未参加过马拉松。",
+          "note": "Neither…nor 就近：谓语靠近 brothers（复数）→ have taken (proximity agreement)。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "让步 — Cause vs concession connectors",
+          "zh": "由于生病，塞巴斯蒂安未能参加朋友的生日聚会。",
+          "note": "介词：表原因 Owing to + 名；Despite + 名不加 of (owing to vs despite)。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The burglar refused to admit his crime and showed no __________ for his wrongdoing.",
+          "options": {
+            "1": "trauma",
+            "2": "remorse",
+            "3": "awareness",
+            "4": "discernment"
+          }
+        },
+        "12": {
+          "stem_plain": "Susan __________ her grandfather who has sacrificed much to take care of the family.",
+          "options": {
+            "1": "berates",
+            "2": "reveres",
+            "3": "ostracises",
+            "4": "empowers"
+          }
+        },
+        "13": {
+          "stem_plain": "Exercising regularly will not only boost your metabolism but it also allows you to gain __________ benefits like gaining confidence and relieving anxiety.",
+          "options": {
+            "1": "intangible",
+            "2": "inaccurate",
+            "3": "incoherent",
+            "4": "insufficient"
+          }
+        },
+        "14": {
+          "stem_plain": "The student leaders are running a campaign to __________ a reduction in the use of plastic bags.",
+          "options": {
+            "1": "bring in",
+            "2": "bring up",
+            "3": "bring out",
+            "4": "bring about"
+          }
+        },
+        "15": {
+          "stem_plain": "Dad and I had to take a different route to Grandma's house as there was a traffic __________ along our usual way.",
+          "options": {
+            "1": "diversion",
+            "2": "distraction",
+            "3": "digression",
+            "4": "disturbance"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "这名窃贼拒不认罪，对自己的所作所为毫无悔意。",
+          "note": "语境“无悔意”→ remorse（悔意），选2；trauma 创伤、awareness 认识、discernment 判断力，语义场不符。",
+          "concept": "词汇辨析 — remorse（懊悔）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "trauma",
+              "zh": "心理创伤，精神创伤；严重外伤（名词，指由极度痛苦、恐惧或震惊的突发事件引发的长期心理阴影与精神痛苦，或指身体受到的严重物理损伤）",
+              "eg": "The survivors of the natural disaster received intensive counseling to help them process the emotional trauma they experienced."
+            },
+            {
+              "opt": "2",
+              "word": "remorse",
+              "zh": "懊悔，悔恨；愧疚（名词，指一个人在意识到自己犯了错误、做错事情或伤害了他人之后，内心深处产生的强烈内疚、痛苦与自责感）",
+              "eg": "The young man expressed deep remorse for his reckless driving and promised to make amends to the injured pedestrian."
+            },
+            {
+              "opt": "3",
+              "word": "awareness",
+              "zh": "认识，意识；了解（名词，指对某件事情、某种社会现象或潜在危险的存在，有着清晰的知觉、理解、关注或社会共识）",
+              "eg": "The local environmental agency launched a public campaign to raise awareness about the dangers of single-use plastic waste."
+            },
+            {
+              "opt": "4",
+              "word": "discernment",
+              "zh": "明辨力，洞察力；识别力（名词，指能够敏锐、准确地看清事物本质，分清好坏、真伪或细微差别的智慧、判断力或鉴赏能力）",
+              "eg": "Consumers need to exercise financial discernment when navigating online advertisements that promise high returns with zero risk."
+            }
+          ]
+        },
+        "12": {
+          "zh": "苏珊敬仰为照顾家庭而付出许多的祖父。",
+          "note": "敬重长辈→ reveres（敬仰），选2；berates 斥责、ostracises 排斥、empowers 赋能，均非“敬”。",
+          "concept": "词汇辨析 — reveres（敬仰）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "berates",
+              "zh": "严厉斥责，痛骂；猛烈抨击（动词，指用愤怒、严厉的语言当面训斥、批评或指责某人，通常是因为对方犯了错误或表现令人失望）",
+              "eg": "The demanding supervisor frequently berates his team members in public whenever a project deadline is missed."
+            },
+            {
+              "opt": "2",
+              "word": "reveres",
+              "zh": "敬仰，崇敬；深切尊崇（动词，指对某人或某事物怀有极深的敬意、爱戴与钦佩，通常是因为对方具有高尚的品格、伟大的成就或神圣的地位）",
+              "eg": "The local community continues to revere the elderly doctor who dedicated his entire life to treating poor patients for free."
+            },
+            {
+              "opt": "3",
+              "word": "ostracises",
+              "zh": "排斥，孤立；故意放逐（动词，指一个群体、社会或圈子共同决定冷落、疏远或拒绝接纳某人，将其排除在集体活动或社交圈之外）",
+              "eg": "It is cruel when a group of teenagers decides to ostracise a new classmate simply because she dresses differently."
+            },
+            {
+              "opt": "4",
+              "word": "empowers",
+              "zh": "赋权，授能；使能够（动词，指赋予某人更多的权力、自主权、信心或法律资格，使他们有能力控制自己的生活、做出决定或实现目标）",
+              "eg": "The university implements leadership programs designed to empower young women to take up executive roles in corporate sectors."
+            }
+          ]
+        },
+        "13": {
+          "zh": "经常锻炼不仅促进新陈代谢，还能带来诸如增强信心、缓解焦虑等无形益处。",
+          "note": "并列结构 not only…but also：benefits 为抽象收益→ intangible（无形），选1；inaccurate/incoherent/insufficient 不搭。",
+          "concept": "词汇辨析 — intangible（无形的）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intangible",
+              "zh": "无形的，触摸不到的；难以确凿把握的（形容词，指没有实体存在、无法用手触摸到的事物，或者抽象到难以用语言、数值精准衡量和描述的资产、品质或感觉）",
+              "eg": "Company culture and employee morale are intangible assets that significantly influence a business's long-term success."
+            },
+            {
+              "opt": "2",
+              "word": "inaccurate",
+              "zh": "不准确的，有误的；不精准的（形容词，指提供的信息、数据、报告或描述中包含错误、偏差，与客观事实或真实情况不完全相符）",
+              "eg": "The weather forecast turned out to be completely inaccurate, as it predicted clear skies but a heavy thunderstorm arrived instead."
+            },
+            {
+              "opt": "3",
+              "word": "incoherent",
+              "zh": "不连贯的，语无伦次的；条理不清的（形容词，指一个人的言语、思想或文章缺乏逻辑，前后矛盾或声音含混不清，导致他人极难理解其真正含义）",
+              "eg": "The exhausted student was so deprived of sleep that his presentation became incoherent and confused the entire audience."
+            },
+            {
+              "opt": "4",
+              "word": "insufficient",
+              "zh": "不足的，不够的；不充分的（形容词，指某样事物的数量、程度、资金或供应量过少，无法满足特定的实际需要、法定标准或预设目的）",
+              "eg": "The charity event was unfortunately postponed because there were insufficient volunteers to help set up the outdoor tents."
+            }
+          ]
+        },
+        "14": {
+          "zh": "学生领袖们正在开展一项活动，以减少塑料袋的使用。",
+          "note": "短语动词：促成变化→ bring about（带来），选4；bring in/up/out 与“促成减少”搭配弱。",
+          "concept": "词汇辨析 — bring about（促成）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "bring in",
+              "zh": "引入，引进；赚取，带来利润（动词短语，指实施新的法律、规定或体制，或者通过工作、投资等渠道赚取特定数额的资金、收益）",
+              "eg": "The school management decided to bring in a team of IT experts to upgrade the existing computer laboratory and network system."
+            },
+            {
+              "opt": "2",
+              "word": "bring up",
+              "zh": "抚养，养育；提出（话题）（动词短语，指照顾、教育儿童直至其长大成人，或者在会议、讨论中主动提及并引起大家注意的某个议题）",
+              "eg": "During the annual staff meeting, the department head chose to bring up the urgent need for a more flexible work schedule."
+            },
+            {
+              "opt": "3",
+              "word": "bring out",
+              "zh": "显现，使显现；出版，推出（动词短语，指使某种特质、颜色或特征变得更加明显和突出，或者向公众发行、生产某种新产品）",
+              "eg": "Adding a pinch of sea salt and high-quality vanilla extract to the batter will beautifully bring out the rich flavor of the dark chocolate."
+            },
+            {
+              "opt": "4",
+              "word": "bring about",
+              "zh": "促成，导致；引起（动词短语，指通过某种行动、政策或外部力量，直接引发或推动某种局面、改变或特定事件的发生）",
+              "eg": "The introduction of the new eco-friendly public transport system helped to bring about a significant reduction in city air pollution."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我和爸爸不得不改道去奶奶家，因为我们常走的那条路实行了交通改道。",
+          "note": "交通用语：改道 diversion（绕行），选1；distraction 分心、digression 离题、disturbance 骚乱，均非路况。",
+          "concept": "词汇辨析 — diversion（改道）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "diversion",
+              "zh": "改道，绕道；临时替代路线（名词，指由于道路关闭、施工或事故，交通工具不得不改变原本路线而选择的绕行路线）",
+              "eg": "Dad and I had to follow the signs for a traffic diversion because the main highway was closed for resurfacing."
+            },
+            {
+              "opt": "2",
+              "word": "distraction",
+              "zh": "分心，注意力分散；消遣（名词，指将某人的注意力从主要任务、焦点或思考中拉开的事物，或者让人轻松的娱乐活动）",
+              "eg": "The loud music from the neighbor's party was a major distraction while I was trying to study for my final exams."
+            },
+            {
+              "opt": "3",
+              "word": "digression",
+              "zh": "离题，题外话；偏离正题（名词，指在讲话、写作或讨论中，暂时离开主要讨论的主题而谈论与之无关的事情）",
+              "eg": "The teacher apologized for her sudden digression about her weekend trip and quickly returned to explaining the math formula."
+            },
+            {
+              "opt": "4",
+              "word": "disturbance",
+              "zh": "骚乱，打扰；破坏宁静（名词，指打破原本平静、秩序或安宁的状态，通常涉及嘈杂的噪音、混乱或冲突事件）",
+              "eg": "The peaceful neighborhood experienced a sudden disturbance when a car alarm kept ringing loudly past midnight."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "derive",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "take",
+            "2": "reap",
+            "3": "extract",
+            "4": "procure"
+          }
+        },
+        "17": {
+          "stem_plain": "give",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "yield",
+            "2": "cause",
+            "3": "return",
+            "4": "submit"
+          }
+        },
+        "18": {
+          "stem_plain": "decade",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "one year",
+            "2": "ten years",
+            "3": "twenty years",
+            "4": "one hundred years"
+          }
+        },
+        "19": {
+          "stem_plain": "recruited",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "signed in",
+            "2": "signed on",
+            "3": "signed up",
+            "4": "signed off"
+          }
+        },
+        "20": {
+          "stem_plain": "significantly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "entirely",
+            "2": "crucially",
+            "3": "naturally",
+            "4": "remarkably"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "With the rise of managed health care, which emphasises cost-efficiency and brevity, mental health professionals have had to confront this burning question: How can they help clients [Q16 (derive)] the greatest possible benefit for a better mental health from treatment in the shortest amount of time?",
+          "Recent evidence suggests that a promising approach is to complement psychological counselling with additional activities that are not too taxing for clients yet [Q17 (give)] significant results. One such activity is the practice of gratitude. Indeed, many studies over the past [Q18 (decade)] have found that people who consciously count their blessings tend to be happier and less depressed.",
+          "However, most research studies on gratitude have been conducted with well-functioning people. Hence, three hundred participants who were seeking counselling for issues related to depression and anxiety were [Q19 (recruited)].",
+          "Among the participants, those who wrote gratitude letters reported [Q20 (significantly)] better mental health between four and twelve weeks after their writing exercise ended as compared to those who wrote about negative experiences or only received counselling. This suggests that practising gratitude on top of receiving psychological counselling carries greater benefits than counselling alone, even when that gratitude practice is brief."
+        ],
+        "zh": [
+          "随着强调成本效益和简短疗程的托管式医疗保健兴起，心理健康专业人士不得不面对一个紧迫问题：如何帮助来访者在尽可能短的时间内，从治疗中获得最大的心理健康收益？",
+          "最新证据表明，一种有前景的做法是在心理咨询之外，辅以一些对来访者负担不大却能带来显著效果的活动。感恩练习就是这样一种活动。事实上，过去十年里许多研究发现，有意识地数算自己福气的人往往更快乐，也更少抑郁。",
+          "然而，大多数关于感恩的研究对象都是功能良好的人。因此，研究人员招募了三百名因抑郁和焦虑相关问题而寻求咨询的参与者。",
+          "在参与者中，那些写感恩信的人在写作练习结束后的四到十二周内，心理健康状况明显优于只写负面经历或仅接受咨询的人。这表明，在接受心理咨询之外练习感恩，即使时间不长，也比单独咨询更有益处。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — derive（获得；收获）",
+          "note": "应选（2）'reap'：短文划线的 <em>derive</em> 在此语境下与此义最接近。'take'：义为'take'，与短文语境或搭配要求不一致。'extract'：义为'extract'，与短文语境或搭配要求不一致。'procure'：义为'procure'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "心理健康专业人士不得不面对一个紧迫问题：如何帮助来访者在尽可能短的时间内，从治疗中获得最大的心理健康收益？",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "take",
+              "zh": "拿，取；携带，带走（动词，指用手去拿、随身携带某物，或者主动获取、接受某样具体或抽象的事物）",
+              "eg": "Please remember to take an umbrella with you when you leave, as the sky looks dark and it might rain later."
+            },
+            {
+              "opt": "2",
+              "word": "reap",
+              "zh": "获得，收获；收割（动词，本义指收割庄稼，引申为通过努力、某种经历或正确的方法而赢得、体验到好的结果或回报）",
+              "eg": "Students who consistently put effort into their daily revision will eventually reap the rewards of achieving excellent grades."
+            },
+            {
+              "opt": "3",
+              "word": "extract",
+              "zh": "提取，提炼；索取（动词，指通过物理或化学方法从某种物质中抽取出特定成分，或者从书本、信息中摘录出核心内容）",
+              "eg": "The research scientists managed to extract a rare medicinal compound from the leaves of the deep-forest plant."
+            },
+            {
+              "opt": "4",
+              "word": "procure",
+              "zh": "（费力）取得，采购；获得（动词，指通过特殊的努力、精心规划的手段或官方途径，去弄到或购买到紧缺、需要的东西）",
+              "eg": "The school administration worked diligently to procure advanced laboratory equipment for the new science department."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — give（产生；带来）",
+          "note": "应选（1）'yield'：短文划线的 <em>give</em> 在此语境下与此义最接近。'cause'：义为'cause'，与短文语境或搭配要求不一致。'return'：义为'return'，与短文语境或搭配要求不一致。'submit'：义为'submit'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "一种有前景的做法是在心理咨询之外，辅以一些对来访者负担不大却能带来显著效果的活动。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "yield",
+              "zh": "产生，带来；产出，屈服（动词，指通过生产、种植、研究或投资等过程，带来具体的成果、利润、产量或某种特定的结果）",
+              "eg": "The farmers were delighted to find that their organic farming methods managed to yield a bumper harvest of vegetables this year."
+            },
+            {
+              "opt": "2",
+              "word": "cause",
+              "zh": "引起，导致；成为原因（动词，指作为一种驱动力或源头，直接促使某种情况、事件（通常是不利的事情）发生）",
+              "eg": "The heavy downpour and poor drainage system on the highway can easily cause severe traffic congestion during rush hour."
+            },
+            {
+              "opt": "3",
+              "word": "return",
+              "zh": "返回，归还；回报（动词，指回到原来的地方、恢复到先前的状态，或者将借来的、属于他人的物品归还给原主）",
+              "eg": "The international exchange students are scheduled to return to their home countries after completing their graduation ceremony."
+            },
+            {
+              "opt": "4",
+              "word": "submit",
+              "zh": "提交，呈递；屈服，服从（动词，指将建议、报告、作业或法律文件正式递交给掌权者、上级或机构供其审批或决定）",
+              "eg": "All secondary school participants must submit their final project proposals to the organizing committee before the deadline."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — decade（十年）",
+          "note": "应选（2）'ten years'：短文划线的 <em>decade</em> 在此语境下与此义最接近。'one year'：与题干语境或搭配要求不一致。'twenty years'：与题干语境或搭配要求不一致。'one hundred years'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "事实上，过去十年里许多研究发现，有意识地数算自己福气的人往往更快乐，也更少抑郁。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "one year",
+              "zh": "一年",
+              "eg": "The passage phrase <strong>one year</strong> appears in formal exam English."
+            },
+            {
+              "opt": "2",
+              "word": "ten years",
+              "zh": "十年",
+              "eg": "The passage phrase <strong>ten years</strong> appears in formal exam English."
+            },
+            {
+              "opt": "3",
+              "word": "twenty years",
+              "zh": "二十年",
+              "eg": "The passage phrase <strong>twenty years</strong> appears in formal exam English."
+            },
+            {
+              "opt": "4",
+              "word": "one hundred years",
+              "zh": "一百年",
+              "eg": "The passage phrase <strong>one hundred years</strong> appears in formal exam English."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — recruited（报名；登记）",
+          "note": "应选（3）'signed up'：短文划线的 <em>recruited</em> 在此语境下与此义最接近。'signed in'：义为'signed in/on/off'，与短文语境或搭配要求不一致。'signed on'：义为'signed in/on/off'，与短文语境或搭配要求不一致。'signed off'：义为'signed in/on/off'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "因此，研究人员招募了三百名因抑郁和焦虑相关问题而寻求咨询的参与者。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "signed in",
+              "zh": "已登录",
+              "eg": "The passage phrase <strong>signed in</strong> appears in formal exam English."
+            },
+            {
+              "opt": "2",
+              "word": "signed on",
+              "zh": "已签约",
+              "eg": "The passage phrase <strong>signed on</strong> appears in formal exam English."
+            },
+            {
+              "opt": "3",
+              "word": "signed up",
+              "zh": "报名；登记",
+              "eg": "Many pupils <strong>signed up</strong> for the coding club."
+            },
+            {
+              "opt": "4",
+              "word": "signed off",
+              "zh": "签署",
+              "eg": "The passage phrase <strong>signed off</strong> appears in formal exam English."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — significantly（评论地）",
+          "note": "应选（4）'remarkably'：短文划线的 <em>significantly</em> 在此语境下与此义最接近。'entirely'：义为'entirely'，与短文语境或搭配要求不一致。'crucially'：义为'crucially'，与短文语境或搭配要求不一致。'naturally'：义为'naturally'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "在参与者中，那些写感恩信的人在写作练习结束后的四到十二周内，心理健康状况明显优于只写负面经历或仅接受咨询的人。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "entirely",
+              "zh": "全部地",
+              "eg": "She answered <strong>entirely</strong> before the bell rang."
+            },
+            {
+              "opt": "2",
+              "word": "crucially",
+              "zh": "至关重要地",
+              "eg": "She answered <strong>crucially</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "naturally",
+              "zh": "自然地",
+              "eg": "She answered <strong>naturally</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "remarkably",
+              "zh": "评论地",
+              "eg": "She answered <strong>remarkably</strong> before the bell rang."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "The main purpose of the sentence \"Do you need help to improve your acting skills?\" is to __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "question the participants' acting skills",
+            "2": "draw attention to what Stage 'R' Us can offer",
+            "3": "emphasise that Stage 'R' Us can showcase participants' talents",
+            "4": "create awareness that readers need help to better their acting skills"
+          }
+        },
+        "22": {
+          "stem_plain": "Stage 'R' Us Drama School's motto is befitting as it believes that everything stated below is possible to achieve when one enrols in their programmes except __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "building one's confidence",
+            "2": "exercising to keep in shape",
+            "3": "appreciating authentic stories",
+            "4": "working together with an actress"
+          }
+        },
+        "23": {
+          "stem_plain": "To participate in the #instagiveaway, participants should do the following except __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "sharing the post in their IG story",
+            "2": "stating why they would want to join the programme",
+            "3": "tagging five friends who share their passion in visual arts",
+            "4": "registering their entry through bit.ly/STAGERUSGIVEAWAY"
+          }
+        },
+        "24": {
+          "stem_plain": "The exclamation mark used in \"To avoid disappointment, book a slot today!\" under the Workshop Summary section for the Theatre Acting Workshop is to __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "draw attention to the registration deadline",
+            "2": "encourage participants to enrol in the workshop immediately",
+            "3": "announce that participants will be disappointed if they do not register for the workshop",
+            "4": "convey excitement about the fantastic opportunity for budding young performers"
+          }
+        },
+        "25": {
+          "stem_plain": "Participants must pay the full course fee of __________ to experience the masterclass opportunity during the Theatre Acting Workshop with Diana Milles.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "$100",
+            "2": "$200",
+            "3": "$300",
+            "4": "$400"
+          }
+        },
+        "26": {
+          "stem_plain": "Mrs Tan wants to enrol her two children — an eight-year-old son and a thirteen-year-old daughter — in the programmes organised by Stage 'R' Us Drama School. Which timing is the most suitable for Mrs Tan to enrol her eight-year-old son in if she prefers to be present for both her children's sessions?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "8am – 10am",
+            "2": "11am – 5pm",
+            "3": "12pm – 2pm",
+            "4": "4pm – 6pm"
+          }
+        },
+        "27": {
+          "stem_plain": "Based on the information provided in the brochure, which of the following statements is true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Email Stage 'R' Us to register for any of the courses.",
+            "2": "The Theatre Acting Workshop is open to students of all ages.",
+            "3": "Participants for the masterclass session is on a first-come-first-served basis.",
+            "4": "Course content for the Drama Camp is taken entirely from the Australian GUILD Speech & Drama Exam Board."
+          }
+        },
+        "28": {
+          "stem_plain": "The flyer quotes that Hanisah Kassim was initially \"quite sceptical\" to take part in the Theatre Acting Workshop. She felt that way as she thought that __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "she was not a good dancer",
+            "2": "it would be too intensive for her to cope",
+            "3": "she could not meet Ms Milles' expectations",
+            "4": "the workshop was not going to be beneficial"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "目的 — Rhetorical hook — promotional purpose（目的考点）",
+          "note": "修辞问句：引你关注课程卖点，属宣传性目的 (promotional hook)。",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "判断 — NOT-true — motto vs programme content（找出错误项）",
+          "note": "NOT-true：校训与“不能锻炼”等项矛盾，排除不符 motto 的项。",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "题型 — Giveaway steps — wrong hobby label（题型考点）",
+          "note": "活动步骤：看清 IG giveaway 要求，排除与视觉艺术 hobby 标签不符项。",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "题型 — Punctuation — urgency to register（题型考点）",
+          "note": "感叹号：催促报名、制造紧迫感 (urgency / register now)。",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "题型 — Fee arithmetic — workshop + masterclass（题型考点）",
+          "note": "费用题：把 workshop 与 masterclass 费用相加再对照选项。",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "题型 — Timetable logic — non-overlap for a parent（题型考点）",
+          "note": "时间表：两孩时段不重叠且家长都能到场，做时间轴比对。",
+          "answer": "1"
+        },
+        "27": {
+          "concept": "题型 — True statement — masterclass cap（题型考点）",
+          "note": "信息核对：人数上限等细节与传单一致者为真。",
+          "answer": "3"
+        },
+        "28": {
+          "concept": "题型 — Testimonial — scepticism meaning（题型考点）",
+          "note": "证言措辞：sceptical 表起初怀疑，读懂引号内态度转折。",
+          "answer": "4"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "about",
+          "C": "an",
+          "D": "as",
+          "E": "but",
+          "F": "from",
+          "G": "is",
+          "H": "it",
+          "J": "out",
+          "K": "them",
+          "L": "to",
+          "M": "was",
+          "N": "were",
+          "P": "where",
+          "Q": "which"
+        },
+        "cloze": [
+          "When I heard the rumble, I knew something was very wrong. A group of people and I had hiked [Q29] the top of Pacaya volcano, an active volcano, just outside Guatemala City.",
+          "[Q30] our vantage point, we could see small red jets of lava shooting [Q31] of the volcano's cone. However, the guides said there was nothing to worry [Q32].",
+          "We could see the spectacular eruptions but not hear [Q33]. All of a sudden, there was a slow deep rumble that sounded like [Q34] avalanche. Then we started hearing the lava jets [Q35] they exploded into the air. Next, a large sulphuric cloud, smelling like rotten eggs, enveloped us. It was only three in the afternoon [Q36] the sky was dark. We could feel the heat of the explosion and it was like we [Q37] standing right next to a raging campfire.",
+          "Our guides started running as fast as they could and they were shouting at us to do the same. It was fortunate that we ran away immediately. When I looked back, there was a river of lava [Q38] we had been standing. Except for a few minor injuries in our group, there were no fatalities as we narrowly escaped to safety."
+        ],
+        "zh": [
+          "我听到轰鸣声时，知道大事不妙。我和一群人刚徒步登上危地马拉城外的活火山 Pacaya 山顶。",
+          "站在制高点，我们看见小火山口喷出红色熔岩。但向导说无需担心。",
+          "我们看得见壮观的喷发，却听不见声音。忽然传来缓慢低沉的轰鸣，像雪崩。接着听见熔岩喷射爆炸声。随后刺鼻的硫黄云笼罩我们，才下午三点天色已暗。我们感到爆炸的热浪，仿佛站在熊熊营火旁。",
+          "向导拼命奔跑并叫我们跟上。幸好我们立即撤离。回头望去，岩浆河涌过我们刚才站立之处。除少数人轻伤外，无人伤亡，我们侥幸脱险。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — goal / direction (*to*)",
+          "note": "people and I had hiked to the top of Pacaya volcano, = 看前后搭配，选 to。",
+          "answer": "L — to"
+        },
+        "30": {
+          "concept": "介词 — viewpoint (*from*)",
+          "note": "from our vantage point, we could = 看前后搭配，选 from。",
+          "answer": "F — from"
+        },
+        "31": {
+          "concept": "冠词 — *shoot out*",
+          "note": "冠词/限定词 out。",
+          "answer": "J — out"
+        },
+        "32": {
+          "concept": "固定搭配 — *worry about*",
+          "note": "there was nothing to worry about . = 结合句意选 about。",
+          "answer": "B — about"
+        },
+        "33": {
+          "concept": "代词 — object of *hear*",
+          "note": "spectacular eruptions but not hear them . = 结合句意选 them。",
+          "answer": "K — them"
+        },
+        "34": {
+          "concept": "冠词 — *an avalanche*",
+          "note": "deep rumble that sounded like an avalanche. = 冠词/限定词 an。",
+          "answer": "C — an"
+        },
+        "35": {
+          "concept": "时间 — as",
+          "note": "started hearing the lava jets as they exploded into the air. = 时间/从属 → as。",
+          "answer": "D — as"
+        },
+        "36": {
+          "concept": "转折 — *but*",
+          "note": "only three in the afternoon but the sky was dark. = 结合句意选 but。",
+          "answer": "E — but"
+        },
+        "37": {
+          "concept": "主谓 — 时态/一致",
+          "note": "and it was like we were standing right next to a = 主谓一致 → were。",
+          "answer": "N — were"
+        },
+        "38": {
+          "concept": "关系词 — *where*",
+          "note": "was a river of lava where we had been standing. = 定语/名词性从句 → where。",
+          "answer": "P — where"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The potato was brought to Europe by explorers in the 1500s. Although the potato is consumed [Q39(extansivelly)] in Europe today, it struggled for [Q40(acceptence)] when it was first introduced by the royal family of France.",
+          "King Louis XVI of France saw the potential of the potato as a [Q41(substitut)] for wheat. A series of publicity stunts [Q42(is)] staged to encourage French citizens to look [Q43(on)] the humble tuber from a new perspective. The King hosted dinners [Q44(feature)] many potato dishes and invited only the nobles to these feasts. These made the potato seem like food that was exclusive [Q45(with)] the rich and it soon became a topic of conversation all over France.",
+          "Next, he stationed the [Q46(impireal)] guards at the patch where the potatoes were grown but he also instructed them to [Q47(recieve)] bribes from civilians that wanted to enter the area that had restrictions imposed on them. The security was also [Q48(dilliberately)] relaxed at night so that civilians could [Q49(stole)] the potatoes more easily.",
+          "This news spread quickly [Q50(between)] the people and more people started to consume the potato. All these efforts paid off and the potato has become an important part of French cuisine."
+        ],
+        "zh": [
+          "土豆在十六世纪由探险家带到欧洲。尽管如今土豆在欧洲被大量食用，它刚由法国王室引入时却难以被接受。",
+          "法国国王路易十六看到土豆作为小麦替代品的潜力。一系列宣传噱头被安排出来，鼓励法国公民以新的眼光看待这种不起眼的块茎。国王举办以多种土豆菜肴为主的晚宴，只邀请贵族参加。这使土豆看起来像专属于富人的食物，很快成为全法国热议的话题。",
+          "接着，他在种土豆的地块派驻皇家卫队，却又指示他们收受想进入限制区域的平民的贿赂。安保也在夜间故意放松，以便平民更容易偷走土豆。",
+          "这一消息迅速在民众中传开，越来越多人开始食用土豆。这些努力最终见效，土豆已成为法国饮食的重要组成部分。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling — extensively",
+          "note": "<p><em>extansivelly</em> is wrong spelling; use <span class=\"hl-good\">Extensively</span> (sentence-initial capital) for the adverb modifying <em>consumed</em>.</p>",
+          "answer": "Extensively"
+        },
+        "40": {
+          "concept": "Spelling — acceptance",
+          "note": "<p><em>acceptence</em> → <span class=\"hl-good\">Acceptance</span> (noun after <em>struggled for</em>).</p>",
+          "answer": "Acceptance"
+        },
+        "41": {
+          "concept": "Noun — substitute",
+          "note": "<p><em>substitut</em> is incomplete spelling → countable noun <span class=\"hl-good\">Substitute</span> (<em>a substitute for wheat</em>).</p>",
+          "answer": "Substitute"
+        },
+        "42": {
+          "concept": "Tense — passive (*was staged*)",
+          "note": "<p>Publicity stunts <strong>were staged</strong> in the past; singular <span class=\"hl-good\">Was</span> agrees with <em>A series …</em> as a single unit (official key).</p>",
+          "answer": "Was"
+        },
+        "43": {
+          "concept": "Preposition — *look at*",
+          "note": "<p>Idiom for considering: <span class=\"hl-good\">look at</span> the tuber from a new perspective (not <em>look on</em>).</p>",
+          "answer": "At"
+        },
+        "44": {
+          "concept": "Participle — *Featuring*",
+          "note": "<p>After <em>dinners</em>, use <span class=\"hl-good\">Featuring</span> many dishes as a reduced relative / participial phrase.</p>",
+          "answer": "Featuring"
+        },
+        "45": {
+          "concept": "Preposition — *exclusive for*",
+          "note": "<p>Food seemed exclusive <span class=\"hl-good\">for</span> the rich (reserved to that group), not <em>with</em>.</p>",
+          "answer": "For"
+        },
+        "46": {
+          "concept": "Spelling — Imperial",
+          "note": "<p><em>impirea</em> → <span class=\"hl-good\">Imperial</span> guards.</p>",
+          "answer": "Imperial"
+        },
+        "47": {
+          "concept": "Spelling — receive",
+          "note": "<p><em>recieve</em> → <span class=\"hl-good\">Receive</span> (i before e rule after the misspelling pattern).</p>",
+          "answer": "Receive"
+        },
+        "48": {
+          "concept": "Spelling — deliberately",
+          "note": "<p><em>dilliberately</em> → <span class=\"hl-good\">Deliberately</span>.</p>",
+          "answer": "Deliberately"
+        },
+        "49": {
+          "concept": "Modal + base verb — *steal*",
+          "note": "<p>After <em>could</em>, use base form <span class=\"hl-good\">Steal</span>, not past <em>stole</em>.</p>",
+          "answer": "Steal"
+        },
+        "50": {
+          "concept": "Among vs between",
+          "note": "<p>News spread among many people → <span class=\"hl-good\">Among</span> (not <em>between</em> for a crowd).</p>",
+          "answer": "Among"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Koalas in the wild may be placed on the danger list after a plunge in their population in Australia. Some studies estimate that there are [Q51] than 80,000 koalas left. It was reported there is a drop in their fertility rate as they have been stricken [Q52] disease. In addition, they are suffering from the impact of the destruction of their habitat and changes in the climate.",
+          "According [Q53] the local media, the Australian Minister for the Environment is expected to list koalas in Queensland as 'endangered' and [Q54] in New South Wales as 'vulnerable'. This means restrictions would be [Q55] on mining projects, logging operations and housing developments in their habitats in these areas. However, environmental groups say such restrictions are not impactful enough. These restrictions ought to cover a wider area in Australia [Q56] order to have a greater impact to manage the decline.",
+          "Research done in a koala habitat near Sydney [Q57] shown that the population of koalas have [Q58] by 75% since 1993. David Paul, an ecological expert who did the study, related the dwindling koala [Q59] in that area to the drought and hot weather recorded in the last decade.",
+          "\"A lot of koalas were suffering [Q60] to the lack of water sources and I think perhaps it might be an early sign of climate change,\" said Paul. Paul also added that koalas in other parts of Australia suffer from habitat [Q61], which is caused mainly by the conversion of wildlife habitat to new housing developments. Environmentalists have recommended that the koala should be considered as a vulnerable animal in those states where [Q62] is a significant decline in the koala population.",
+          "\"The Environment Minister should not [Q63] the decision any further. He should list the koala as 'vulnerable' and [Q64] actions at once to strengthen national environmental law by listing the koalas as 'endangered',\" a senator said in an interview. The Environment Minister who has considered the decision twice before, is scheduled to make the decision based [Q65] advice from the National Threatened Species Scientific Committee soon. Environmentalists are keeping their fingers crossed that the minister would make a prompt decision soon."
+        ],
+        "zh": [
+          "澳大利亚野生考拉数量锐减，可能被列入危险名录；研究估计现存不足八万只，疾病与栖息地破坏、气候变化令情况恶化。",
+          "据当地媒体，环境部长拟将昆士兰州考拉列为“濒危”、新南威尔士州列为“易危”，并对矿区、伐木与住房开发施加限制；环保团体认为范围仍不够，应扩大至全国以更有效遏制下滑。",
+          "悉尼附近栖息地研究显示，自1993年以来考拉数量下降约75%；专家将种群萎缩与近十年干旱酷热相联系。",
+          "大量考拉因缺水而受苦，或已是气候变化早期信号；别处考拉还因住房开发导致栖息地丧失而受害。环保人士建议在种群显著下降各州将其列为易危动物。",
+          "参议员呼吁部长勿再拖延，立即行动并强化法律；部长将依据国家科学委员会建议作决定，环保人士期待尽早定论。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "比较级句型形式",
+          "note": "后接比较连词 than 80,000 koalas left。结合考拉濒危、数量锐减的危机语境，指代目前所剩的野生考拉“少于（fewer/less）”八万只，由于修饰可数名词复数，标准语法用 fewer。若根据校方答案表要求，则填入 less。位于句首需大写。",
+          "answer": "fewer/less"
+        },
+        "52": {
+          "concept": "被动语态介词固定搭配",
+          "note": "前面有助动词被动结构 have been stricken。在描述考拉遭受病魔侵袭的病理场景下，与之完美搭配的必然是专属被动介词 by，构成 be stricken by disease，意为“被疾病所折磨/深受疾病侵害”。",
+          "answer": "by"
+        },
+        "53": {
+          "concept": "复合介词固定习惯搭配",
+          "note": "与其后置的介词 to 完美组合。属于极其高频的引述媒体或新闻资讯来源的经典说明文引入句式 According to...，意为“根据当地媒体报道”。位于句首需大写。",
+          "answer": "According"
+        },
+        "54": {
+          "concept": "代词分组对照与呼应",
+          "note": "前文提到了要将昆士兰州的考拉（koalas in Queensland）列为濒危，此处通过并列连词 and 进行跨地区的平行的分组对比，指代新南威尔士州的“那些考拉”。可填入复数指示代词 those，或者直接填入原名词复现的 koalas。",
+          "answer": "those/koalas"
+        },
+        "55": {
+          "concept": "动词与介词特定被动搭配",
+          "note": "前面有情态动词被动结构 would be，后接过去分词，且后面跟有介词短语 on mining projects...。指由于保护升级，这些开发活动都将被施加政策“限制”，完美契合专属搭配 be placed on 或 be imposed on，需用过去分词形式。",
+          "answer": "placed/imposed"
+        },
+        "56": {
+          "concept": "经典句型固定搭配",
+          "note": "与其后置的名词极其不定式符号 order to 完美结合。构成全行业、各类书面语体中极高频出现、用于表达核心目的的专属经典句式 in order to，意为“为了/以便”产生更强大的保护效果。位于句首需大写。",
+          "answer": "in"
+        },
+        "57": {
+          "concept": "现在完成时主谓一致与助动词",
+          "note": "主语为单数抽象名词 Research（由过去分词短语 done in... 充当后置定语），后接过去分词 shown。本句陈述科学研究所得出的结论，需用现在完成时，单数主语搭配单数助动词 has（构成 has shown 结构）。",
+          "answer": "has"
+        },
+        "58": {
+          "concept": "一般现在/过去时动词与百分比搭配",
+          "note": "在宾语从句中，主语为单数名词短语 the population of koalas，后接介词短语 by 75%。用来形容种群数量在三十年间发生了剧烈“暴跌”、“减少”或“缩减”，故填过去分词形式 dropped / decreased / declined / fallen / shrunk（因前文填入助动词 has 构成完成时，此空对应过去分词）。",
+          "answer": "dropped/decreased/declined/fallen/shrunk"
+        },
+        "59": {
+          "concept": "名词语意与前文复现",
+          "note": "前面有逐渐减少的形容词 dwindling 引导修饰。呼应全篇的大主题，用来指代该地区正在不断萎缩的考拉“数量”、“种群”或“总数”，故填单数名词 population / numbers / count / total。",
+          "answer": "population/numbers/count/total"
+        },
+        "60": {
+          "concept": "复合介词原因表达",
+          "note": "与其后置的介词 to 完美组合。用来引导后面的名词短语 the lack of water sources（水源的匮乏），完美契合高频常考的经典原因表达 due to 或者是 owing to，用以引出环境因果背景。",
+          "answer": "due/owing"
+        },
+        "61": {
+          "concept": "复合名词固定习惯搭配",
+          "note": "由名词所有格 habitat 引导修饰。后文的定语从句解释其原因主要是野生环境被改造成住宅区。完美契合野生动物保护文体中极其核心和高频的专属名词搭配 habitat loss 或者是 habitat destruction / degradation，意为“栖息地丧失/遭破坏”。",
+          "answer": "loss/destruction/degradation"
+        },
+        "62": {
+          "concept": "存在句型引导词",
+          "note": "在限定性定语从句中，后接单数系动词 is 极其名词短语 a significant decline。完美契合表示某地客观存在某种现象的经典 there be 存在句型，故填入代词 there（构成 where there is... 结构）。",
+          "answer": "there"
+        },
+        "63": {
+          "concept": "情态否定后的动词原形",
+          "note": "前面有情态否定助动词 should not，后面必须接动词原形。与后文的宾语 the decision any further 搭配，指议员强烈呼吁环境部长不能再继续“推迟（delay/postpone）”、“拖延（procrastinate）”或“搁置（stall/shelve）”这项保护法案的颁布。",
+          "answer": "delay/postpone/procrastinate/stall/shelve"
+        },
+        "64": {
+          "concept": "经典动宾固定习惯搭配",
+          "note": "与前面的并列连词 and 保持平行的动词原形结构，后面接复数名词宾语 actions，并且后面跟有时间副词 at once。完美契合呼吁立即“采取行动”的经典核心专属搭配 take actions，故填动词原形。",
+          "answer": "take"
+        },
+        "65": {
+          "concept": "过去分词与介词固定搭配",
+          "note": "与其前置的过去分词 make the decision based 完美组合。构成在各类科学研究和决策评估中高频考查的经典习惯修饰短语 based on...，意为法案的修改将“依据”科学委员会的专业建议。",
+          "answer": "on"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Jane likes classical music. She likes pop music more.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Jane prefers __________"
+        },
+        "67": {
+          "stem_plain": "He was anxious. He stuttered during his presentation.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Due to __________"
+        },
+        "68": {
+          "stem_plain": "Father asked May, \"What did you buy for Mother for her birthday?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Father asked May __________"
+        },
+        "69": {
+          "stem_plain": "Only Jane and John do not like swimming.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Everyone, with the exception __________"
+        },
+        "70": {
+          "stem_plain": "John knows who stole the wallet. He does not want to reveal anything.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Despite __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "比较/结果结构 — *prefer X to Y*（Preference）",
+          "zh": "简更喜欢流行音乐，而不是古典音乐。",
+          "note": "比较结构：<em>prefer X to Y</em> 表示“更喜欢 X 而非 Y”；<em>more</em> 对应 <em>prefers pop music to classical music</em>。",
+          "answer": "Jane prefers pop music to classical music."
+        },
+        "67": {
+          "concept": "原因短语 — *Due to* + noun",
+          "zh": "由于焦虑，他在演讲时结巴了。",
+          "note": "原因短语：<em>anxious</em> → 名词 <em>anxiety</em>，用 <em>Due to his anxiety</em> 引导原因，后接结果分句。",
+          "answer": "Due to his anxiety, he stuttered during his presentation."
+        },
+        "68": {
+          "concept": "间接引语 — Reported wh-question",
+          "zh": "父亲问梅她为母亲生日买了什么。",
+          "note": "间接引语：特殊疑问句变陈述语序 <em>what she had bought</em>；时态后退 <em>did buy → had bought</em>。",
+          "answer": "Father asked May what she had bought for Mother for her birthday."
+        },
+        "69": {
+          "concept": "句型转换 — *Everyone, with the exception of*",
+          "zh": "除了简和约翰之外，每个人都喜欢游泳。",
+          "note": "否定改写：<em>Only A and B do not …</em> → <em>Everyone, with the exception of A and B, …</em>；谓语与 <em>Everyone</em> 一致用单数 <em>likes</em>。",
+          "answer": "Everyone, with the exception of Jane and John, likes swimming."
+        },
+        "70": {
+          "concept": "让步结构 — *Despite* + gerund",
+          "zh": "尽管他知道谁偷了钱包，但他不想透露任何事。",
+          "note": "让步结构：<em>Despite + V-ing</em> 后接主句；保留 <em>knowing who stole the wallet</em> 的意思。",
+          "answer": "Despite knowing who stole the wallet, he does not want to reveal anything."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Pick out two words from the first paragraph which describe the condition of the writer's house. *(2m)* and",
+          "marks": null,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "What caused the writer's house to be 'very hot in the day'? *(1m)*",
+          "marks": null,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Which two-word phrase in paragraph 3 tells you that the writer's mother was religious? *(1m)*",
+          "marks": null,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Give two reasons why the writer's house was in 'perpetual darkness'. *(2m)* i. ii.",
+          "marks": null,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "The writer encountered many experiences and emotions as a result of living in his childhood house. Complete the table below using information from paragraphs 5 and 6. *(2m)*",
+          "marks": null,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Action(s)",
+              "rows": [
+                "[Q75a]",
+                "The writer would use a different route to walk home from school."
+              ]
+            },
+            "col_2": {
+              "header": "Reasons from the passage",
+              "rows": [
+                "The writer's friends were afraid of the dark, creepy appearance of the house.",
+                "[Q75b]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right. *(3m)*",
+          "marks": null,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word/Phrase",
+              "rows": [
+                "(a) **They** (line 18)",
+                "(b) **This last scene** (lines 37–38)",
+                "(c) **it** (line 47)"
+              ]
+            },
+            "refers_to": {
+              "header": "Refers to",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so. *(3m)*",
+          "marks": null,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "When the writer was a child, he was afraid of ghosts and malevolent wandering spirits.",
+                "When they were young, the writer and his siblings were bothered by comments from their relatives that their house was haunted.",
+                "Mr Spark thought that Siok Hong's family was unhygienic and uncivilised."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q77a]",
+                "[Q77c]",
+                "[Q77e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q77b]",
+                "[Q77d]",
+                "[Q77f]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Based on lines 48–55, state one quality that best describes Mr Ho. Support your answer with information from the passage. *(2m)*",
+          "marks": null,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Which two of the following words best describe the writer in his younger days? Put a tick (✓) in the box beside each of your answers. **DO NOT TICK MORE THAN TWO BOXES.** *(2m)*",
+          "marks": null,
+          "interaction": "checkbox_comp",
+          "options": [
+            "immature",
+            "self-conscious",
+            "arrogant",
+            "self-reliant",
+            "rebellious",
+            "unappreciative"
+          ],
+          "max_selections": 2
+        },
+        "80": {
+          "stem_plain": "Explain how the writer's view of his house changed after Mr Ho's visit. *(2m)*",
+          "marks": null,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — *In a Different Light*",
+        "lines": {
+          "1": "When I was young, my family lived in a dilapidated wooden house on the",
+          "2": "outskirts of Limbang, a small town in Northern Sarawak, Malaysia. It stood on",
+          "3": "wooden stilts and had a steep sloping roof of corrugated zinc sheets which made the",
+          "4": "ramshackle house very hot in the day. The tiny collection of rooms inside could",
+          "5": "barely contain all my family — Father, Mother and eleven children.",
+          "6": "I was the second eldest. My siblings and I often ran about and when we got too",
+          "7": "boisterous, the whole house shook. \"The house is going to collapse!\" my mother",
+          "8": "would yell at us.",
+          "9": "We seemed to live in perpetual darkness. The nearby trees formed a dense",
+          "10": "canopy. They blocked out much of the sunlight during the day. The nights were",
+          "11": "always a brooding, foreboding time. That was the 1950s and early 1960s, and we",
+          "12": "used kerosene lamps which gave only dim light. The gloom was made worse by the",
+          "13": "superstitious fears Mother passed on to us. Raised in a traditional Chinese family",
+          "14": "where ancestor worship was practised, we believed in ghosts and malevolent",
+          "15": "wandering spirits.",
+          "16": "As little children, we were sometimes just afraid of the dark and Mother would",
+          "17": "ask in a voice tinged with fear, \"Why are you so afraid? What do you see?\" Although",
+          "18": "we saw nothing, her questions made us even more frightened. **They** aroused in us",
+          "19": "feelings of apprehension and phobia. To me, there was nothing more terrifying than",
+          "20": "the prospect of meeting a ghost.",
+          "21": "Our friends, probably afraid of the dark, creepy appearance of the house,",
+          "22": "rarely came over to play. I once overheard one of my relatives telling her children",
+          "23": "that our house was haunted. This did not affect us one bit. We had fun playing Hide-",
+          "24": "And-Seek around the house. The walls were splendid for climbing — the overlapping",
+          "25": "horizontal planks provided excellent footholds. We scaled the walls to our 'hideouts' to",
+          "26": "get away from the seeker.",
+          "27": "By the time I was a teenager, my superstitious fears had been replaced by",
+          "28": "feelings of discontent and anger. I envied all my friends. They had nicer homes with",
+          "29": "proper plumbing. We did not even have a toilet! Instead, we used chamber pots. If",
+          "30": "friends dropped by unexpectedly before the chamber pots had been emptied, I would",
+          "31": "be overcome with shame. Although most of the time they were hidden away in the",
+          "32": "bedrooms, I was sure my friends could smell them. After school, I would walk home",
+          "33": "in a different direction, giving my friends the impression that I lived near their street",
+          "34": "where the houses were nicer.",
+          "35": "When I was thirteen, I sprained my ankle at school and my principal, a",
+          "36": "Canadian named Mr Spark, drove me home. We arrived just in time to see my",
+          "37": "younger sister, Siok Kiat, at the stream. She was emptying a chamber pot. This last",
+          "38": "scene unfolded in painfully slow motion. I wished I was somewhere else at that",
+          "39": "moment. I felt ashamed. Although he did not say anything, I imagined him thinking,",
+          "40": "\"What an unhygienic and uncivilised family!\"",
+          "41": "I admit that life was not always terrible. My sisters, brothers and I enjoyed",
+          "42": "playing *Rounders and football in the big grass field in the centre of the town. At",
+          "43": "dusk, we would reluctantly return home. We also spent many exciting hours",
+          "44": "challenging one another when we played *Five Stones. When I was in my mid-teens,",
+          "45": "we had electricity. A fluorescent tube lit the living room and the bedrooms and",
+          "46": "the kitchen each had a light bulb. Still, I could see nothing much to cherish about my",
+          "47": "home. To me, **it** was ugly and rotten — an eyesore.",
+          "48": "Then, when I was sixteen, some teachers from my school came to visit. We",
+          "49": "were celebrating Chinese New Year, and as was the custom of many Sarawakians,",
+          "50": "we had an open house. By this time most of my teachers, especially my Art teacher,",
+          "51": "Mr Ho, knew that I was extremely embarrassed to tell people where I lived. He",
+          "52": "devised a plan to change my perspective.",
+          "53": "As Mr Ho entered the house, he said, \"Siok Hong, your home is situated in",
+          "54": "such a beautiful setting. I had to stop and admire it from the road. All those trees",
+          "55": "forming the backdrop make it look picturesque.\"",
+          "56": "Suddenly, I saw my house in a different light. From Mr Ho's artistic point of",
+          "57": "view, it was as though my house had magically transformed itself into this majestic"
+        },
+        "paragraphs": {
+          "1": "小时候，我家住在马来西亚砂拉越北部林梦镇郊外的一栋破旧木屋上。它架在木桩上，屋顶是陡斜的锌板，白天让这摇摇欲坠的房子非常闷热。屋内狭小的几间房几乎容不下全家——父亲、母亲和十一个孩子在内；我是老二。兄弟姐妹常跑来跑去，一旦太吵闹，整栋房子都会晃动，母亲就会冲我们喊：“房子要塌了！”",
+          "9": "我们似乎生活在无尽的阴暗之中。附近的树木形成浓密树冠，白天挡住大量阳光；夜晚总是阴郁而令人不安。那是二十世纪五十年代到六十年代初，我们用煤油灯，光线昏暗；母亲传给我们的迷信恐惧更让阴郁加重。我们在传统华人家庭长大，行祖先崇拜，相信鬼怪和游荡的恶灵。",
+          "16": "小时候，我们有时只是怕黑；母亲会带着恐惧问：“你为什么这么怕？你看见什么了？”虽然我们什么也没看见，她的问题却让我们更害怕，激起担忧与恐惧。对我来说，没有什么比可能遇见鬼更可怕了。",
+          "21": "朋友们大概也怕这栋又黑又阴森的房子，很少来玩耍。我曾听见一位亲戚告诉她的孩子，说我们家闹鬼。这丝毫没影响我们——我们仍在家周围玩捉迷藏，墙板重叠成绝佳踏脚处，我们攀上墙躲进“藏身处”躲开找人者。",
+          "27": "到十几岁时，迷信恐惧已被不满和愤怒取代。我羡慕所有朋友：他们有更好的房子和像样的管道；我们连厕所都没有，只能用便盆。若朋友意外来访而便盆还没倒空，我会羞愧难当；虽大多藏在卧室，我仍确信朋友闻得到。放学后我常绕路回家，让朋友以为我住在他们那条更漂亮的街道上。",
+          "35": "十三岁那年，我在学校扭伤脚踝，校长 Mr Spark 开车送我回家。我们到时，正好看见妹妹 Siok Kiat 在溪边倒便盆；这最后一幕缓慢而痛苦地展开，我多希望那一刻不在场，感到羞愧。虽他什么也没说，我仍想象他在想：“多么不卫生、多么不文明的一家人！”",
+          "41": "我承认生活并非一直糟糕。兄弟姐妹喜欢在镇中心大草地上玩 rounders 和足球，黄昏才恋恋不舍地回家；我们也花许多激动人心的小时玩抓石子互相挑战。到了快成年时，有了电——客厅有日光灯，卧室和厨房各有灯泡；但我仍看不出家有什么值得珍惜的，在我看来它又丑又破败，碍眼至极。",
+          "48": "十六岁那年，几位老师来家访。我们在过农历新年，按许多砂拉越人的习俗开放门户招待客人。此时多数老师，尤其美术老师 Mr Ho，都知道我极不好意思告诉别人住哪里；他想出一个办法改变我的看法。",
+          "53": "Mr Ho 进屋时说：“Siok Hong，你家所处环境真美。我不得不在路边停下欣赏——那些树作背景，看起来如画。”",
+          "56": "忽然，我以不同的眼光看自己的家。从何老师的艺术眼光看，房子仿佛神奇地变成了迷人林间一座雄伟壮丽的居所——这是我从未想到过的。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li>Scan paragraph 1 for words describing the <em>physical state</em> of the house.</li><li>Official key: <strong>dilapidated</strong> and <strong>ramshackle</strong> — both stress age and disrepair.</li></ol>",
+          "answer": [
+            "Dilapidated",
+            "ramshackle."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li>Find structural reasons for daytime heat.</li><li>Model: wooden stilts + steep zinc roof trap heat (official key).</li></ol><p><strong>Model answer.</strong> The writer's house stood on wooden stilts and had a steep sloping roof of corrugated zinc sheets (which made the house very hot).</p>",
+          "answer": [
+            "The writer's house stood on wooden stilts and had a steep sloping roof of corrugated zinc sheets (which made the house very hot)."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "双要点简答题",
+          "note": "<ol><li>Paragraph 3: look for a phrase showing religious practice.</li><li>Official key: <strong>Ancestor worship</strong> (two words as asked).</li></ol>",
+          "answer": [
+            "Ancestor worship"
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "双要点简答题",
+          "note": "<ol><li>One outdoor cause: dense tree canopy blocks sunlight by day.</li><li>One indoor cause: kerosene lamps only give dim light at night.</li><li>Both together explain “perpetual darkness”.</li></ol>",
+          "answer": [
+            "i) The nearby trees formed a dense canopy which blocked out much of the sunlight during the day.",
+            "ii) The kerosene lamps gave off only dim light."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "表格信息填空",
+          "note": "<ol><li>Row 1 empty cell = <strong>effect</strong>: friends rarely visit because the house looks frightening.</li><li>Row 2 empty cell = <strong>reason for detour</strong>: writer pretends to live near nicer streets.</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "The writer's friends would rarely go to the writer's house to play.",
+            "75b": "The writer wanted to give his friends the impression that he lived near their streets where the houses were nicer."
+          }
+        },
+        "76": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>They</strong> (line 18): points back to the mother’s questions in the previous sentence.</li><li><strong>This last scene</strong>: the chamber-pot episode just described.</li><li><strong>it</strong> (line 47): the writer’s home he was ashamed of.</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "Mother's questions",
+            "76b": "The sight of Siok Kiat emptying a chamber pot at the stream",
+            "76c": "The writer's home"
+          }
+        },
+        "77": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li>(a) True — writer states childhood terror of spirits.</li><li>(b) False — siblings ignored haunted-house teasing and still played happily.</li><li>(c) False — “unhygienic” is the writer’s guess at Mr Spark’s thoughts, not a spoken fact.</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "True",
+            "77b": "When the writer was a child, to him there was nothing more terrifying than the prospect of meeting a ghost or a malevolent wandering spirit",
+            "77c": "False",
+            "77d": "The writer and his siblings were not affected by the comments and still had fun playing in the house",
+            "77e": "False",
+            "77f": "The writer felt that that was what Mr Spark must have been thinking when he saw the writer's sister cleaning the chamber pot — Mr Spark did not actually say so"
+          }
+        },
+        "78": {
+          "concept": "证据简答题",
+          "note": "<ol><li>Choose one clear quality of Mr Ho.</li><li>Cite his plan to help Siok Hong appreciate his house (lines 48–55).</li></ol><p><strong>Model answer.</strong> Caring — He devised a plan to help Siok Hong appreciate his house.</p>",
+          "answer": [
+            "Caring — He devised a plan to help Siok Hong appreciate his house."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "勾选题",
+          "note": "<ol><li>Select exactly two traits supported by childhood behaviour.</li><li><strong>Immature</strong> — hides embarrassment, cares about friends’ opinions.</li><li><strong>Self-conscious</strong> — ashamed of his home / mirror image.</li></ol><p><strong>Model answer.</strong> Immature and Self-conscious.</p>",
+          "answer": [
+            "Immature",
+            "Self-conscious."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "解释说明题",
+          "note": "<ol><li>Before: sees house as outdated, feels shame.</li><li>After Mr Ho’s visit: reframes it as majestic within an enchanting woodland.</li></ol><p><strong>Model answer.</strong> At first, he thought it was not good and out-dated, and was embarrassed by the fact he lived there. After Mr Ho's visit, he thought his house was a majestic and magnificent abode in the midst of an enchanting woodland.</p>",
+          "answer": [
+            "At first, he thought it was not good and out-dated, and was embarrassed by the fact he lived there. After Mr Ho's visit, he thought his house was a majestic and magnificent abode in the midst of an enchanting woodland."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

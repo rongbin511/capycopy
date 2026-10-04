@@ -1,0 +1,1623 @@
+{
+  "paperid": "p6_english_2021_sa2_catholichigh",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "“Why did the boy run into the cave when he saw the bears?” asked little Kenny when he watched the news.",
+          "marks": null,
+          "options": {
+            "1": "did",
+            "2": "has",
+            "3": "had",
+            "4": "does"
+          }
+        },
+        "2": {
+          "stem_plain": "All the furniture, with the covers and cushions, was wrapped carefully by the movers this morning.",
+          "marks": null,
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "It takes _________ two and three hours for the coach to reach the next rest stop on the highway to Malacca.",
+          "marks": null,
+          "options": {
+            "1": "in",
+            "2": "until",
+            "3": "from",
+            "4": "between"
+          }
+        },
+        "4": {
+          "stem_plain": "“Let's invite the famous writer to our Book Festival, _________? He could share some great writing tips with us,” the manager suggested.",
+          "marks": null,
+          "options": {
+            "1": "do we",
+            "2": "shall we",
+            "3": "don't we",
+            "4": "shan't we"
+          }
+        },
+        "5": {
+          "stem_plain": "He did not have _________ snacks to offer the stray dog as there was nothing left in the pantry.",
+          "marks": null,
+          "options": {
+            "1": "any",
+            "2": "few",
+            "3": "some",
+            "4": "several"
+          }
+        },
+        "6": {
+          "stem_plain": "Devi and _________ prepared a birthday card for Mrs Lim, our form teacher.",
+          "marks": null,
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "my",
+            "4": "mine"
+          }
+        },
+        "7": {
+          "stem_plain": "The game cards were a gift from Rezian _________ large collection was featured in social media two days ago.",
+          "marks": null,
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "8": {
+          "stem_plain": "The teacher was firm when he refused to let his students _________ symbols with negative messages.",
+          "marks": null,
+          "options": {
+            "1": "draw",
+            "2": "drew",
+            "3": "drawn",
+            "4": "drawing"
+          }
+        },
+        "9": {
+          "stem_plain": "_________ a busy work schedule, Marcus finds it difficult to volunteer at the home for the aged.",
+          "marks": null,
+          "options": {
+            "1": "Due to",
+            "2": "Though",
+            "3": "Despite",
+            "4": "Besides"
+          }
+        },
+        "10": {
+          "stem_plain": "Bungee jumping is one of the _________ activities offered by the Outdoor Camp as compared to abseiling.",
+          "marks": null,
+          "options": {
+            "1": "exciting",
+            "2": "very exciting",
+            "3": "more exciting",
+            "4": "most exciting"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "语法 — Auxiliary in embedded WH-question (direct-speech style)",
+          "zh": "小肯尼看新闻时问道：“男孩看到熊后为什么跑进洞里？”",
+          "note": "宾语从句里若保留直接引语式的过去疑问句，常用 did + 动词原形；勿误换成现在时的 does。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "被动语态 — Subject–verb agreement (uncountable noun + passive)",
+          "zh": "今天早上，搬运工把所有的家具连同罩子和垫子都仔细包好了。",
+          "note": "furniture 不可数，视作单数；被动语态且时间状语为 this morning，用 was。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "固定介词 — Fixed preposition pattern (between … and …)",
+          "zh": "大巴在马六甲高速公路开往下一个休息站的路上要花两到三个小时。",
+          "note": "表示两端之间的范围用 between … and …；勿与 until（直到）或 from（从）混淆。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "反意疑问句 — Question tag after Let’s (imperative)",
+          "zh": "经理提议：“咱们邀请那位著名作家来参加读书节吧，好吗？他可以和我们分享一些很棒的写作技巧。”",
+          "note": "Let’s 开头的祈使建议句，附加疑问用 shall we（邀请对方一起做）。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "语法 — Determiner in negative (any vs some)",
+          "zh": "食品柜里什么都没有了，他没有零食可给那只流浪狗。",
+          "note": "否定句里表示“任何一些”常用 any；some 多用于肯定，several 表数量若干，语气不符。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "代词 — Compound subject — nominative pronoun (I vs me)",
+          "zh": "黛维和我为我们的班主任林老师准备了一张生日贺卡。",
+          "note": "作主语的并列结构用 I，不用宾格 me；my/mine 不能单独与 Devi 并列作主语。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "关系词 — Possessive relative pronoun (whose)",
+          "zh": "这些游戏卡是雷兹安送的礼物——他庞大的收藏两天前还在社交媒体上亮相。",
+          "note": "表示“某人的……”用关系代词 whose 引导定语从句 (Relative clause)。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "不定式 — Bare infinitive after let (causative)",
+          "zh": "老师很坚决，拒绝让学生画带有负面信息的符号。",
+          "note": "使役结构 let sb do sth 用动词原形；不用过去式或 -ing。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "名词 — Due to + noun phrase (cause)",
+          "zh": "由于工作繁忙，马库斯觉得很难去养老院当志愿者。",
+          "note": "Due to 后接名词短语表原因；Though 表让步；Despite 虽可接名词但更偏“尽管”，此处表“因为”用 Due to 更贴切。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "比较结构 — Comparative adjective (as compared to)",
+          "zh": "与绳降相比，蹦极是户外营提供的更刺激的活动之一。",
+          "note": "两者相比用比较级 more exciting；most exciting 为最高级，需三者及以上语境。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The huge pillar in the sports hall _________ my view of the basketball match.",
+          "marks": 1,
+          "options": {
+            "1": "barred",
+            "2": "curbed",
+            "3": "prevented",
+            "4": "obstructed"
+          }
+        },
+        "12": {
+          "stem_plain": "The Talent Show is held _________, once in March of 2021 and the other in September of 2021.",
+          "marks": 1,
+          "options": {
+            "1": "annually",
+            "2": "biennially",
+            "3": "biannually",
+            "4": "perennially"
+          }
+        },
+        "13": {
+          "stem_plain": "Technology is always changing and it has become hard to _________ with it.",
+          "marks": 1,
+          "options": {
+            "1": "keep on",
+            "2": "keep up",
+            "3": "keep away",
+            "4": "keep around"
+          }
+        },
+        "14": {
+          "stem_plain": "Ten years ago, people thought that drinking bubble tea was just a _________, but the beverage is still an all-time favourite today.",
+          "marks": 1,
+          "options": {
+            "1": "fad",
+            "2": "style",
+            "3": "habit",
+            "4": "fashion"
+          }
+        },
+        "15": {
+          "stem_plain": "Jack had no _________ of the accident after he had suffered a serious bump on his head.",
+          "marks": 1,
+          "options": {
+            "1": "retention",
+            "2": "recollection",
+            "3": "reminiscence",
+            "4": "remembrance"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "体育馆里那根巨大的柱子挡住了我看篮球赛的视线。",
+          "note": "‘obstructed’ 意为‘遮挡，阻碍（视线、道路等）’。‘obstruct one's view’ 是标准固定搭配，专门用来形容高大建筑物、树木或前方车辆挡住了视线，使人无法看清景物。",
+          "concept": "动词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "barred",
+              "zh": "阻挡，禁止进入（动词，指官方或保安通过设置路障、锁闭大门等手段，强制性地禁止、阻止某人进入特定场所或拥有某项权利）",
+              "eg": "Security barred fans without tickets from entering the stadium."
+            },
+            {
+              "opt": "2",
+              "word": "curbed",
+              "zh": "抑制，限制（动词，指政府或管理层通过出台新政策、法律或手段，来有效抑制、控制通货膨胀、公共开支、恶意犯罪或不良习惯的增长）",
+              "eg": "The new policy curbed spending on office supplies."
+            },
+            {
+              "opt": "3",
+              "word": "prevented",
+              "zh": "阻止（动词，指提前采取措施或由于突发的天气等外部原因，使得某项活动、灾难、犯罪或某人的计划根本无法发生或推行，常接 from doing）",
+              "eg": "Rain prevented us from holding the picnic outdoors."
+            },
+            {
+              "opt": "4",
+              "word": "obstructed",
+              "zh": "遮挡，阻碍（动词，指具体的物理实体如卡车、高大柱子挡住了道路使交通中断，或遮挡住了某人的视线使其无法看清前方）",
+              "eg": "A truck parked outside obstructed my view of the parade."
+            }
+          ]
+        },
+        "12": {
+          "zh": "才艺表演每年举办两次：一次在2021年3月，另一次在2021年9月。",
+          "note": "‘biannually’ 意为‘每年两次地’。后半句中 “once in March... and the other in September”（一次在三月，另一次在九月）直接点明了该活动在一年内举办了两次的客观规律。",
+          "concept": "副词辨析与神态关联 — Vocabulary — Adverbs",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "annually",
+              "zh": "每年一次地（副词，指某项大型考试、学校校庆、公司年报或颁奖典礼固定在每年的某个月份雷打不动地举办一次）",
+              "eg": "The school fair is held annually in July."
+            },
+            {
+              "opt": "2",
+              "word": "biennially",
+              "zh": "每两年一次地（副词，指某些大型的国际艺术双年展、体育赛事或大型选举，固定每隔两年才在特定年份里举办一次）",
+              "eg": "The art festival takes place biennially, so the next one is in 2027."
+            },
+            {
+              "opt": "3",
+              "word": "biannually",
+              "zh": "每年两次地（副词，特指在同一个日历年以内，某项促销活动、杂志出版或学术会议一共定期、雷打不动地举办两次）",
+              "eg": "Our drama club stages major productions biannually—once in March and again in September."
+            },
+            {
+              "opt": "4",
+              "word": "perennially",
+              "zh": "常年地，持久地（副词，形容某种困难、水源短缺、花卉开放或者社会争议长期、不分季节、长年累月地持续存在并发生）",
+              "eg": "This plant blooms perennially in our humid climate."
+            }
+          ]
+        },
+        "13": {
+          "zh": "技术总在变化，人们已经很难跟上它的步伐。",
+          "note": "‘keep up’ 是短语动词，‘keep up with’ 是固定高频搭配，意为‘跟上（步伐、最新变化、潮流等）’。前文提及 “Technology is always changing”（技术总在变化），后文需要填入表示“与之保持同步、不落后”的词组。",
+          "concept": "短语动词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "keep on",
+              "zh": "继续（动词端语，指无视周围的困难、阻碍、批评或建议，坚持不懈、机械地继续做手头正在进行的事情）",
+              "eg": "If you keep on practising, your handwriting will improve."
+            },
+            {
+              "opt": "2",
+              "word": "keep up",
+              "zh": "跟上，保持同步（动词短语，常与 with 连用，形容在走路跑步时不落后于队伍，或者指在抽象层面上紧跟最新技术、潮流变化而不掉队）",
+              "eg": "It is hard to keep up with every new software update."
+            },
+            {
+              "opt": "3",
+              "word": "keep away",
+              "zh": "远离（动词短语，指为了人身安全、防范疾病传染，主动或警告他人远离某些危险区域、悬崖边、野兽或特定的有毒物品）",
+              "eg": "Signs tell visitors to keep away from the cliff edge."
+            },
+            {
+              "opt": "4",
+              "word": "keep around",
+              "zh": "留在身边（动词短语，指因为以后可能还需要、或者单纯出于习惯情感，而决定将老旧物品、旧衣服长期存放在家里随时备用）",
+              "eg": "She likes to keep around old notebooks for reference."
+            }
+          ]
+        },
+        "14": {
+          "zh": "十年前，人们以为喝珍珠奶茶只是一阵风（一时的狂热），但这种饮料至今仍是人气之选。",
+          "note": "‘fad’ 意为‘一时的风尚，狂热’。句中通过 “thought... was just a... but... still an all-time favourite today”（以为只是…但至今仍是人气之选）构成了强烈的转折对比，完美呼应了那种来得快去得也快的短暂潮流（fad）特征。",
+          "concept": "名词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fad",
+              "zh": "一时的风尚，热潮（名词，特指在极短的时间内突然风靡全社会，引发大众疯狂跟风抢购，但很快就过时、被人们彻底淡忘的短暂狂热）",
+              "eg": "Experts thought smartphones might be a fad, but they became essential tools."
+            },
+            {
+              "opt": "2",
+              "word": "style",
+              "zh": "风格，样式（名词，指某人在穿衣打扮、艺术创作、建筑设计方面所展现出的具有独特个性的设计风格，或指产品特定的外观造型）",
+              "eg": "Her style of dressing is simple but elegant."
+            },
+            {
+              "opt": "3",
+              "word": "habit",
+              "zh": "习惯（名词，特指个人经过长期重复而逐渐养成的、几乎是不假思索就去做的日常生活行为习惯，如早起喝水等）",
+              "eg": "Drinking water before meals is a healthy habit."
+            },
+            {
+              "opt": "4",
+              "word": "fashion",
+              "zh": "时尚（名词，指在某个特定历史时期或季节里，在服饰、发型或生活方式上被大众公认并广泛流行的、更具持续性的审美风尚）",
+              "eg": "Wide-leg trousers are back in fashion this season."
+            }
+          ]
+        },
+        "15": {
+          "zh": "杰克头部受到严重撞击后，对那场事故没有任何印象（回忆）。",
+          "note": "‘recollection’ 意为‘回忆，记忆’。‘have no recollection of something’ 是高频固定表达，意思是“对…完全没有印象/想不起来”。前文的 “serious bump on his head”（头部受严重撞击）点明了他失去记忆的原因。",
+          "concept": "名词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "retention",
+              "zh": "保留，记忆力（名词，指公司成功留住员工不流失、或物理上物体成功留存水分的能力，亦指大脑在长期内保持、存储特定知识和信息的能力）",
+              "eg": "Good sleep improves memory retention for students."
+            },
+            {
+              "opt": "2",
+              "word": "recollection",
+              "zh": "回忆，记忆（名词，特指一个人在脑海中去努力回想、检索和重新记起过去的某件特定事件、事故或过往经历的具体细节的能力或印象）",
+              "eg": "After the concussion he had no recollection of the accident."
+            },
+            {
+              "opt": "3",
+              "word": "reminiscence",
+              "zh": "怀旧，追忆（名词，通常用复数形式，指老年人或多年未见的老友聚在一起时，带着温柔、感伤的情调对过去美好青春岁月的幸福回忆或叙旧）",
+              "eg": "Grandpa’s stories were full of reminiscence about his youth."
+            },
+            {
+              "opt": "4",
+              "word": "remembrance",
+              "zh": "纪念，缅怀（名词，特指官方、学校或公众，为了表达崇高的敬意和哀思，通过举行默哀、献花圈等仪式来长久缅怀过去去世的人或烈士）",
+              "eg": "They held a service in remembrance of the victims."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "assiduously",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "speedily",
+            "2": "vigorously",
+            "3": "thoroughly",
+            "4": "consistently"
+          }
+        },
+        "17": {
+          "stem_plain": "coupled",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "connected",
+            "2": "combined",
+            "3": "blended",
+            "4": "rooted"
+          }
+        },
+        "18": {
+          "stem_plain": "darkly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "easily",
+            "2": "possibly",
+            "3": "certainly",
+            "4": "doubtfully"
+          }
+        },
+        "19": {
+          "stem_plain": "despair",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "weakness",
+            "2": "uneasiness",
+            "3": "restlessness",
+            "4": "hopelessness"
+          }
+        },
+        "20": {
+          "stem_plain": "implored",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "urged",
+            "2": "begged",
+            "3": "ordered",
+            "4": "requested"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The room in which the boys were fed was a large stone hall, with a copper at one end, out of which the master, dressed in an apron for the purpose, and assisted by one or two women, ladled the gruel at meal-times; of which composition each boy had one porringer, and no more—except on festive occasions, and then he had two ounces and a quarter of bread besides. The bowls never wanted washing—the boys polished them with their spoons till they shone again; and when they had performed this operation (which never took very long, the spoons being nearly as large as the bowls), they would sit staring at the copper with such eager eyes as if they could devour the very bricks of which it was composed; employing themselves meanwhile in sucking their fingers most [Q16 (assiduously)], with the view of catching up any stray splashes of gruel that might have been cast thereon. Boys have generally excellent appetites. Oliver Twist and his companions suffered the tortures of slow starvation for three months. Wild with hunger, [Q17 (coupled)] with a voracious appetite, one boy hinted [Q18 (darkly)] to his companions that unless he had another basin of gruel per diem, he was afraid he should some night eat the boy who slept next him, who happened to be a weakly youth of tender age. He had a wild, hungry eye, and they implicitly believed him. A council was held; lots were cast who should walk up to the master after supper that evening, and ask for more; and it fell to Oliver Twist. The poor child was in [Q19 (despair)]—yet one more trial remained. He rose at last and [Q20 (implored)] the master for more gruel."
+        ],
+        "zh": [
+          "男孩们吃饭的屋子是一间大石厅，厅的一端架着一口大铜锅。用餐时，校长系着围裙，在一两位妇女协助下，给每个孩子舀一碗稀粥；每人只有一只碗，平时也只有一碗——逢节日才会另外分到两盎司又四分之一的面包。这些碗从来不用洗——孩子们用勺子把碗刮得锃亮；这活通常很快做完，因为勺子几乎跟碗一样大。之后，他们就会盯着那口铜锅，眼神饿得仿佛能吞掉整口锅；一边还使劲吮手指，想把溅在手指上的稀粥舔干净。男孩们一般胃口都很好。Oliver Twist 和他的同伴们整整挨了三个月饿。饥火焚身，胃口又极大，有个男孩阴森地向同伴暗示：要是每天不能再多领一碗稀粥，他怕有一天夜里会把睡在他旁边那个体弱年幼的男孩吃掉。他目光狂野饥饿，同伴们都当真了。大家开了个会，抽签决定谁该在那天晚饭后去找校长讨要多一点；结果轮到 Oliver Twist。可怜的孩子绝望了，但还得再试一次。他终于站起来，恳求校长再多给他一碗稀粥。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — assiduously（彻底地）",
+          "note": "应选（3）'thoroughly'：短文划线的 <em>assiduously</em> 在此语境下与此义最接近。'speedily'：义为'迅速地'，与短文语境或搭配要求不一致。'vigorously'：义为'强烈地；精力充沛地'，与短文语境或搭配要求不一致。'consistently'：义为'一贯地；始终如一地'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "与此同时，他们使劲吮手指，想把溅在手指上的稀粥尽可能舔干净。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "speedily",
+              "zh": "速度地",
+              "eg": "She answered <strong>speedily</strong> before the bell rang."
+            },
+            {
+              "opt": "2",
+              "word": "vigorously",
+              "zh": "强烈地；精力充沛地",
+              "eg": "The coach shook his head <strong>vigorously</strong> to disagree with the referee's decision."
+            },
+            {
+              "opt": "3",
+              "word": "thoroughly",
+              "zh": "彻底地",
+              "eg": "She answered <strong>thoroughly</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "consistently",
+              "zh": "一贯地；始终如一地",
+              "eg": "She has <strong>consistently</strong> handed in homework on time since the start of term."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — coupled（组合）",
+          "note": "应选（2）'combined'：短文划线的 <em>coupled</em> 在此语境下与此义最接近。'connected'：义为'连接的'，与短文语境或搭配要求不一致。'blended'：义为' blended'，与短文语境或搭配要求不一致。'rooted'：义为' rooted'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "饥火焚身，又加上贪得无厌的胃口，有个男孩阴森地向同伴暗示：要是每天不能再多领一碗稀粥，他怕有一天夜里会把睡在他旁边那个体弱年幼的男孩吃掉。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "connected",
+              "zh": "连接",
+              "eg": "The coach <strong>connected</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "combined",
+              "zh": "组合",
+              "eg": "The coach <strong>combined</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "blended",
+              "zh": "混合",
+              "eg": "The coach <strong>blended</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "rooted",
+              "zh": "根",
+              "eg": "The coach <strong>rooted</strong> the players after the match."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — darkly（肯定地）",
+          "note": "应选（3）'certainly'：短文划线的 <em>darkly</em> 在此语境下与此义最接近。'easily'：义为'容易地'，与短文语境或搭配要求不一致。'possibly'：义为' possibly'，与短文语境或搭配要求不一致。'doubtfully'：义为'怀疑地'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "饥火焚身，又加上贪得无厌的胃口，有个男孩肯定地向同伴暗示：要是每天不能再多领一碗稀粥，他怕有一天夜里会把睡在他旁边那个体弱年幼的男孩吃掉。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "easily",
+              "zh": "易西地",
+              "eg": "She answered <strong>easily</strong> before the bell rang."
+            },
+            {
+              "opt": "2",
+              "word": "possibly",
+              "zh": "可能地",
+              "eg": "She answered <strong>possibly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "certainly",
+              "zh": "肯定地",
+              "eg": "She answered <strong>certainly</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "doubtfully",
+              "zh": "疑地",
+              "eg": "She answered <strong>doubtfully</strong> before the bell rang."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — despair（绝望）",
+          "note": "应选（4）'hopelessness'：短文划线的 <em>despair</em> 在此语境下与此义最接近。'weakness'：义为' weakness'，与短文语境或搭配要求不一致。'uneasiness'：义为'不安'，与短文语境或搭配要求不一致。'restlessness'：义为' restlessness'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "可怜的孩子陷入绝望——但还得再试一次。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "weakness",
+              "zh": "弱点",
+              "eg": "Her essay used <strong>weakness</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "2",
+              "word": "uneasiness",
+              "zh": "不安",
+              "eg": "The speaker chose <strong>uneasiness</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "restlessness",
+              "zh": "不安",
+              "eg": "The speaker chose <strong>restlessness</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "hopelessness",
+              "zh": "绝望",
+              "eg": "The pupils found the word <strong>hopelessness</strong> useful in their composition."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — implored（求）",
+          "note": "应选（2）'begged'：短文划线的 <em>implored</em> 在此语境下与此义最接近。'urged'：义为'urged'，与短文语境或搭配要求不一致。'ordered'：义为'ordered'，与短文语境或搭配要求不一致。'requested'：义为'requested'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "他终于站起来，恳求校长再多给他一碗稀粥。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "urged",
+              "zh": "乌格",
+              "eg": "The coach <strong>urged</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "begged",
+              "zh": "求",
+              "eg": "The coach <strong>begged</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "ordered",
+              "zh": "命令",
+              "eg": "The coach <strong>ordered</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "requested",
+              "zh": "要求",
+              "eg": "The coach <strong>requested</strong> the players after the match."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Why do you think italics are used in “The Islander Bus”?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It is to draw the attention of the readers.",
+            "2": "It is to create a contrast to excite the readers.",
+            "3": "It is to provide clarity of information to the readers.",
+            "4": "It is to make the words more visually pleasing for the readers."
+          }
+        },
+        "22": {
+          "stem_plain": "Which of the following statements about Gems Island is correct?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Visitors can stay in a number of places on the island.",
+            "2": "It is a great habitat for wildlife and a popular tourist attraction.",
+            "3": "It is a destination suitable for people of all ages and wheelchair-bound visitors.",
+            "4": "Visitors can be educated about the island by listening to the recorded commentary on the Islander Bus."
+          }
+        },
+        "23": {
+          "stem_plain": "Why do you think the “Islander Bus Route Map” is provided?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "To help visitors navigate their way around the island.",
+            "2": "To inform visitors of the route taken by the Islander Bus.",
+            "3": "To encourage visitors to visit every attraction on the island.",
+            "4": "To show visitors the activities available at various locations."
+          }
+        },
+        "24": {
+          "stem_plain": "The quote “Be rewarded for planning ahead!” in the Bus Ticket section is telling visitors that they will",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "pay less for Islander Bus tickets if they purchase from the guide.",
+            "2": "be given special deals and discounts when they take the Islander Bus.",
+            "3": "pay more for the Islander Bus tickets on the day of travel if they purchase online.",
+            "4": "pay much less for the Islander Bus tickets if they are purchased a month in advance before arrival."
+          }
+        },
+        "25": {
+          "stem_plain": "Ashton, an outdoor enthusiast, wants to go to the Zip-line Adventures with three friends. They can",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "just walk in to get their tickets.",
+            "2": "make a reservation one day in advance.",
+            "3": "take a free shuttle bus at Bus Stop 4 at any time to get there.",
+            "4": "arrange in advance for the free shuttle bus between Zip-line and Bus Stop 4 to get there."
+          }
+        },
+        "26": {
+          "stem_plain": "Mr and Mrs Tan plan to have their meal before catching the ferry home. Where should they have their meal so that they can catch the nearest bus back to the ferry terminal?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Ruby Village",
+            "2": "Emerald Bay",
+            "3": "Sapphire Estate",
+            "4": "Diamonds Restaurant"
+          }
+        },
+        "27": {
+          "stem_plain": "What is the main purpose of the information given on this website?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "To promote the island as a holiday destination.",
+            "2": "To boost the economy for the businesses on the island.",
+            "3": "To attract wildlife enthusiasts and outdoor lovers to visit the island.",
+            "4": "To spread the message of conservation of nature to visitors of the island."
+          }
+        },
+        "28": {
+          "stem_plain": "Which of the following is true about getting around the island?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "There is no free transport around the island.",
+            "2": "No private vehicles are allowed on the island.",
+            "3": "The Islander Bus takes visitors to all the places on the island.",
+            "4": "Visitors can travel around the island in the Islander Bus or shuttle bus."
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Text feature — emphasis（题型考点）",
+          "note": "<p>Italics on a proper name/service title usually <span class=\"hl-good\">draw readers’ attention</span> to that branded name. The poster is advertising the Islander Bus route, so highlighting the name helps it stand out.</p>",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "细节 — Detail check (correct statement)（信息定位）",
+          "note": "<p>Option <strong>2</strong> matches a typical eco-tourism blurb (wildlife habitat + attraction). Other options often overclaim (all ages/wheelchair, every attraction, recorded commentary) unless the visual states them verbatim—here the keyed correct line is <span class=\"hl-good\">statement 2</span> per official answer.</p>",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "目的 — Purpose of a route map（目的考点）",
+          "note": "<p>A route map under the heading <em>Islander Bus Route Map</em> is provided mainly to <span class=\"hl-good\">show which route the bus takes</span> (option 2). It is more specific than a general island map for “every activity”.</p>",
+          "answer": "2"
+        },
+        "24": {
+          "concept": "题型 — Interpret promotional pricing copy（题型考点）",
+          "note": "<p><em>Be rewarded for planning ahead</em> pairs with advance purchase savings: <span class=\"hl-good\">pay much less … a month in advance</span> (option 4), matching typical early-bird ticket wording.</p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Apply conditions to an activity booking（题型考点）",
+          "note": "<p>For a group of four at Zip-line Adventures, the notice usually requires <span class=\"hl-good\">booking one day in advance</span> (option 2) rather than walk-in or vague shuttle timing.</p>",
+          "answer": "2"
+        },
+        "26": {
+          "concept": "推理 — Spatial reasoning (nearest bus to ferry)（推理考点）",
+          "note": "<p>Mr and Mrs Tan need a meal location with the <span class=\"hl-good\">nearest convenient bus link back to the ferry terminal</span> — keyed <strong>Ruby Village</strong> (option 1) on the map layout.</p>",
+          "answer": "1"
+        },
+        "27": {
+          "concept": "主旨 — Main purpose of the webpage（主要目的）",
+          "note": "<p>The site advertises stays, transport and attractions on Gems Island → overall <span class=\"hl-good\">promote the island as a holiday destination</span> (option 1).</p>",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "题型 — True detail about transport（题型考点）",
+          "note": "<p>Visitors may use <span class=\"hl-good\">Islander Bus or shuttle services</span> (option 4); other absolutes (“no free transport”, “no private vehicles”, “bus goes everywhere”) are typically false or overstated.</p>",
+          "answer": "4"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "D": "are",
+          "G": "have",
+          "K": "of",
+          "B": "all",
+          "E": "for",
+          "H": "however",
+          "L": "on",
+          "C": "among",
+          "F": "from",
+          "J": "in",
+          "M": "or",
+          "N": "through",
+          "P": "to",
+          "Q": "who"
+        },
+        "cloze": [
+          "As the saying goes, you are what you eat. One’s health has always been closely linked to one’s diet. There [Q29] foods which are nutritional powerhouses that can make us healthier with every bite. Proceed [Q30] the nearest market and you will find foods that have the power to fight diabetes or heart disease. [Q31] other words, they can literally save your life.",
+          "A large study found that people of any age [Q32] started including healthy foods in their diets improved their chances of living longer. Replacing one serving of red or processed meat [Q33] day with one serving of nuts and peas, [Q34] instance, was linked to a significant reduction of risk of health problems later in life.",
+          "Experts [Q35] also chosen kale, a green leafy vegetable, as one [Q36] the healthiest foods around as it is packed with nutrients that are particularly beneficial for our eyes, heart and bones. For seafood lovers, salmon, whether farmed, wild-caught, fresh, frozen [Q37] canned, is rich in protein, fatty acids and vitamins — [Q38] of which are critical for good health. Hence, the next time your kitchen needs a new haul of groceries, be sure to pick up some of these superfoods!"
+        ],
+        "zh": [
+          "常言道，人如其食。健康与饮食息息相关。有些食物是营养宝库，每一口都能让我们更健康。前往市场，你会发现能对抗糖尿病或心脏病的食物。换言之，它们真能救命。",
+          "一项大型研究发现，任何年龄的人只要在饮食中加入健康食物，就更可能延年益寿。例如，每天用一份坚果和豆类取代一份红肉或加工肉，可显著降低日后健康风险。",
+          "专家还将羽衣甘蓝等深绿叶菜列为最健康食物之一，其营养尤其有益眼睛、心脏和骨骼。海鲜爱好者可知，无论养殖或野生、新鲜或罐装，三文鱼都富含蛋白质、脂肪酸和维生素——这些对健康至关重要。下次采购时，记得买些超级食物！"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "存在句 — there be",
+          "note": "There are foods which are nutritional powerhouses = 结合句意选 are。",
+          "answer": "D — are"
+        },
+        "30": {
+          "concept": "介词 — to",
+          "note": "Proceed to the nearest market and you = 看前后搭配，选 to。",
+          "answer": "P — to"
+        },
+        "31": {
+          "concept": "语篇连接 — in other words",
+          "note": "in other words, they can literally = 结合句意选 in。",
+          "answer": "J — in"
+        },
+        "32": {
+          "concept": "关系词 — who",
+          "note": "that people of any age who started including healthy foods in = 定语/名词性从句 → who。",
+          "answer": "Q — who"
+        },
+        "33": {
+          "concept": "冠词 — once a day",
+          "note": "of red or processed meat a day with one serving of = once a day = 每天一次。",
+          "answer": "A — a"
+        },
+        "34": {
+          "concept": "固定搭配 — for instance",
+          "note": "结合句意选 for。",
+          "answer": "E — for"
+        },
+        "35": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Experts have also chosen kale, a green = 主谓一致 → have。",
+          "answer": "G — have"
+        },
+        "36": {
+          "concept": "介词 — of",
+          "note": "看前后搭配，选 of。",
+          "answer": "K — of"
+        },
+        "37": {
+          "concept": "连词 — or",
+          "note": "whether farmed, wild-caught, fresh, frozen or canned, is rich in protein, = 句间逻辑 → or。",
+          "answer": "M — or"
+        },
+        "38": {
+          "concept": "关系词 — all of which",
+          "note": "定语/名词性从句 → all。",
+          "answer": "B — all"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Hello Grandma,",
+          "How are you? It has been a long time since I last spoke to you! I just wanted to let you know a little bit about what has been [Q39(happened)] in school recently.",
+          "I was given the [Q40(opertuneety)] to take part in a Creative Writing Workshop, open only to pupils who have been [Q41(exclusive)] chosen by their English Language teachers. I was both shocked and [Q42(flattering)] to have been chosen by my teacher. However, when I found out about the entry [Q43(rekwirements)] that must be satisfied, I was extremely [Q44(dawnted)] .",
+          "My teacher said that I had to come up with a [Q45(collect)] of at least five original creative writing pieces. These pieces had to be [Q46(vet)] by my teacher before they were uploaded to the online [Q47(submition)] portal.",
+          "Throughout the duration of the next few days, I burnt the midnight oil [Q48(on)] order to put my [Q49(pawtfoleo)] together. Thankfully, my entry was [Q50(sukcesfull)] !",
+          "I hope to hear from you soon, Grandma! I miss you!",
+          "Love,",
+          "Isabel"
+        ],
+        "zh": [
+          "奶奶，您好：",
+          "您好吗？我已经很久没和您说话了！我想告诉您最近学校里发生的一些事。",
+          "我有机会参加一个创意写作工作坊，只有被英语老师特别选中的学生才能参加。被老师选中时，我既震惊又感到受宠若惊。然而，当我了解到必须满足的参赛要求后，我感到非常畏难。",
+          "老师说，我必须创作至少五篇原创创意写作作品。这些作品在上传到在线提交平台之前，必须先由老师审阅。",
+          "在接下来的几天里，我熬夜赶作品集。谢天谢地，我的参赛作品成功了！",
+          "奶奶，希望很快收到您的回信！我很想念您！",
+          "此致",
+          "Isabel"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Wrong word form",
+          "note": "<p>Context needs the noun <span class=\"hl-good\">happening</span> (event), not the verb form <em>happened</em> printed in the error line.</p>",
+          "answer": "happening"
+        },
+        "40": {
+          "concept": "Spelling — opportunity",
+          "note": "<p>Letters scrambled → correct spelling <span class=\"hl-good\">opportunity</span>.</p>",
+          "answer": "opportunity"
+        },
+        "41": {
+          "concept": "Word class — adverb needed",
+          "note": "<p>Verb <em>eat</em> needs an adverb modifier → <span class=\"hl-good\">exclusively</span>, not the adjective <em>exclusive</em>.</p>",
+          "answer": "exclusively"
+        },
+        "42": {
+          "concept": "Wrong participle / adjective confusion",
+          "note": "<p>People feel <span class=\"hl-good\">flattered</span> (adjective past participle), not the -ing adjective <em>flattering</em> in this slot.</p>",
+          "answer": "flattered"
+        },
+        "43": {
+          "concept": "Spelling — requirements",
+          "note": "<p>Consonant doubling error → <span class=\"hl-good\">requirements</span>.</p>",
+          "answer": "requirements"
+        },
+        "44": {
+          "concept": "Spelling — daunted",
+          "note": "<p>Misspelling of <span class=\"hl-good\">daunted</span> (discouraged).</p>",
+          "answer": "daunted"
+        },
+        "45": {
+          "concept": "Word class — noun needed",
+          "note": "<p>After determiners like <em>no / a</em>, a noun <span class=\"hl-good\">collection</span> fits, not the verb <em>collect</em>.</p>",
+          "answer": "collection"
+        },
+        "46": {
+          "concept": "Spelling / verb form — vetted",
+          "note": "<p>Past tense of vet (check) → <span class=\"hl-good\">vetted</span>.</p>",
+          "answer": "vetted"
+        },
+        "47": {
+          "concept": "Spelling — submission",
+          "note": "<p>Double <em>m</em> pattern → <span class=\"hl-good\">submission</span>.</p>",
+          "answer": "submission"
+        },
+        "48": {
+          "concept": "Wrong preposition",
+          "note": "<p>Fixed phrase <span class=\"hl-good\">in</span> the long run (not <em>on</em> the long run).</p>",
+          "answer": "in"
+        },
+        "49": {
+          "concept": "Spelling — portfolio",
+          "note": "<p>Phonetic misspelling → <span class=\"hl-good\">portfolio</span>.</p>",
+          "answer": "portfolio"
+        },
+        "50": {
+          "concept": "Spelling — successful",
+          "note": "<p>Vowel errors → <span class=\"hl-good\">successful</span>.</p>",
+          "answer": "successful"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "We have cared for our sick and injured for thousands of years, though not always by trained personnel until recent years. Have you ever wondered how the profession of nursing came [Q51]?",
+          "Florence Nightingale, the founder of nursing, was only a young woman when she [Q52] a need for proper healthcare as her country, Britain, was in the midst of a raging war. She was from a wealthy family but did not conform [Q53] society’s expectations of her. She learned how to provide healthcare at an institution overseas. Armed with the knowledge she had [Q54] her studies, she worked her way up and became a supervisor at a women’s hospital.",
+          "Upon hearing that [Q55] was needed at the war front, Nightingale volunteered to go. The moment she arrived at the barracks hospital, she found sick and injured soldiers lying around in filth. There was a lack of basic [Q56] such as food and clean water. Thus, the [Q57] could not maintain personal hygiene and resorted to eating rotten food in order to survive. Poor sanitation and malnutrition caused the high death rate and, over time, even the doctors and nurses tragically [Q58] to the diseases.",
+          "[Q59] the risks that they faced, Nightingale and the other nurses worked hard to clean up the hospital and provide patients with the [Q60] care they could. In order to convince the government officials to support her [Q61], Nightingale informed them that most of the soldiers’ deaths were caused by diseases and poor hygiene—a sad reality that could have been [Q62] with proper healthcare. As a result of her intelligence and determination, adequate resources were sent to the hospital. This in turn saw the death rate [Q63] dramatically.",
+          "[Q64] 1860, Nightingale opened the very first nursing school in London, which was known [Q65] the Florence Nightingale School for Nurses. People started to understand the importance of proper healthcare, and nursing became a respectable profession as more nursing schools sprang up worldwide."
+        ],
+        "zh": [
+          "护理伤病者已有数千年历史，但直到近代才有受过训练的人员系统承担这一职责。你可曾想过护理职业是如何形成的？",
+          "南丁格尔年轻时便意识到祖国英国正处战乱，亟需正规医疗；她出身富裕却不囿于社会期许，赴海外机构学习护理，凭所学升任女子医院主管。",
+          "得知前线需要人手，她自愿奔赴。抵达军营医院，只见伤病士兵躺卧污秽之中，缺粮净水，士兵难以维持卫生，只得吃腐坏食物求生。恶劣卫生与营养不良致死亡率极高，医护亦相继染病倒下。",
+          "尽管风险巨大，南丁格尔与护士们仍奋力清洁医院、尽力照护伤员，并向官员说明多数死亡源于疾病与卫生问题——本可通过适当医疗避免。凭智慧与决心，资源终得补充，死亡率随之大幅下降。",
+          "1860年，南丁格尔在伦敦开办首所护理学校。人们渐悟医疗重要，全球护理学校兴起，护理成为受人尊敬的职业。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "短语动词固定搭配",
+          "note": "与其前置的动词 came 完美结合。提出设问，构成在各类行业史及人物传记中极其高频考查的经典短语动词 come about，意为护理这一职业究竟是如何“形成/产生”的。",
+          "answer": "about"
+        },
+        "52": {
+          "concept": "一般过去时动词语意",
+          "note": "在时间状语从句中，主语为单数代词 she，叙述南丁格尔年轻时的历史背景，需用一般过去时。指她当时敏锐地“察觉到”、“看到（saw）”或“意识到（realised/noticed）”了建立规范医疗护理的紧迫需求。",
+          "answer": "saw/realised/noticed"
+        },
+        "53": {
+          "concept": "动词与介词固定搭配",
+          "note": "与前面的否定结构 did not conform 完美组合。构成在各类社会学及传记文体中极高频考查的经典专属短语动词 conform to，意为她并未顺从当时社会对她这一阶层女性所抱有的刻板“期待”。",
+          "answer": "to"
+        },
+        "54": {
+          "concept": "过去完成时动词语意形式",
+          "note": "在定语从句中，前面有过去完成时助动词 had，后接过去分词（V-ed）。指凭借着自己早年从求学经历中“获得（gained/acquired/obtained/learnt）”的丰富知识，她逐步升任为主管，故填过去分词形式。",
+          "answer": "gained/acquired/obtained/learnt"
+        },
+        "55": {
+          "concept": "名词语意与场景搭配",
+          "note": "作为由从属连词 that 引导的宾语从句主语。指当听说前线急需“人手”、“帮助”或“医疗援助”时，南丁格尔挺身而出，故填单数不可数名词 help / assistance / aid / manpower。",
+          "answer": "help/assistance/aid/manpower"
+        },
+        "56": {
+          "concept": "名词复数与列举呼应",
+          "note": "前面有表示匮乏的短语 a lack of basic 修饰，后接 such as 举例。后文具体列举了食物和干净的水，说明这里指代的是最基本的“物资”、“必需品”或“资源”，故填复数名词 supplies / necessities / resources / provisions。",
+          "answer": "supplies/necessities/resources/provisions"
+        },
+        "57": {
+          "concept": "名词语意与前文复现呼应",
+          "note": "由定冠词 The 引导修饰。前文直接提到了躺在污垢中的 sick and injured soldiers（伤病员），属于典型的“前文专属名词复现”线索提示，指这些“士兵”或“伤员”根本无法维持个人卫生，故填复数名词 soldiers / patients / men / casualties。",
+          "answer": "soldiers/patients/men/casualties"
+        },
+        "58": {
+          "concept": "一般过去时短语动词搭配",
+          "note": "主语为复数并列名词 the doctors and nurses。后文紧跟介词短语 to the diseases，叙述惨烈的战地历史事实。完美契合形容不幸染病身亡、向病魔屈服的经典高阶短语动词 succumb to，需填入过去时形式 succumbed，填入同义的 fell / yielded 亦完全通顺。",
+          "answer": "succumbed/fell/yielded"
+        },
+        "59": {
+          "concept": "让步关系复合介词形式",
+          "note": "后接名词短语 the risks that they faced（她们所面临的巨大风险）。此处不能使用连词 although，必须使用让步介词 Despite 或 In spite of 来表达“尽管环境极其危险，护士们依然在咬牙坚持”。位于句首需大写。",
+          "answer": "Despite"
+        },
+        "60": {
+          "concept": "形容词最高级形式与习惯搭配",
+          "note": "由定冠词 the 引导修饰，后接代词限制从句 they could。指护士们倾尽全力为病人提供她们所能做到的“最好的（best）”或“最悉心的（most）”悉心照顾，故填形容词最高级形式（构成 the best care 或 the most care）。",
+          "answer": "best/most"
+        },
+        "61": {
+          "concept": "名词语意与所有格修饰",
+          "note": "由形容词性物主代词 her 引导修饰，作动词 support 的宾语。指为了说服官员支持她的“工作”、“事业”、“项目”或“倡议”，南丁格尔主动呈递了数据，故填名词 work / cause / project / initiative / mission。",
+          "answer": "work/cause/project/initiative/mission"
+        },
+        "62": {
+          "concept": "虚拟语气被动语态动词形式",
+          "note": "前面有情态虚拟被动助动词 could have been，后面接过去分词。指只要医疗护理得当，绝大多数士兵死于污垢这种惨剧本是可以被完全“避免（avoided/prevented）”或“制止（stopped）”的，故填过去分词形式。",
+          "answer": "avoided/prevented/stopped"
+        },
+        "63": {
+          "concept": "感官动词后的动词原形充当宾补",
+          "note": "前面有经典一般过去时感官动词结构 saw the death rate...，后面需要填入动词原形（或现在分词形式）充当宾语补足语，用来强调动作的结果或过程。指充足的物资运抵后，亲眼见证了伤亡率的剧烈“下降”、“暴跌”或“减少”，故填入动词原形 drop / decrease / fall / plummet / decline。",
+          "answer": "drop/decrease/fall/plummet/decline"
+        },
+        "64": {
+          "concept": "时间年份专属介词",
+          "note": "后接具体的四位数历史年份 1860。在英语中，表示在某一个特定的年份，固定使用专属时间介词 in。位于句首需大写。",
+          "answer": "In"
+        },
+        "65": {
+          "concept": "被动语态介词固定搭配",
+          "note": "前面有动词过去分词形式 known。属于非限制性定语从句结构，完美契合极高频常考的经典专属定称被动短语 be known as...，意为这所学校当时“被称作/冠名为”南丁格尔护士学校。",
+          "answer": "as"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "The farmer ploughed the field. Then, he sowed the grains.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Having __________"
+        },
+        "67": {
+          "stem_plain": "The problem sum is complex. Mr Ahmad needs more time to solve it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Due to the fact that __________"
+        },
+        "68": {
+          "stem_plain": "“Where was the laptop placed yesterday?” Raj asked Nelson.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Raj asked Nelson __________"
+        },
+        "69": {
+          "stem_plain": "If the toddler watches his favourite videos, he will calm down.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________"
+        },
+        "70": {
+          "stem_plain": "The singer was surrounded by the eager fans the moment she stepped out of the building.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The eager fans __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "分词短语 — Participle clause (Having + V3)",
+          "zh": "耕完地后，农夫播下了谷种。",
+          "note": "Having done… 表先于主句动作的已完成分词短语；主句用一般过去时叙述随后动作。",
+          "answer": "Having ploughed the field, the farmer sowed the grains."
+        },
+        "67": {
+          "concept": "原因短语 — Due to the fact that + clause",
+          "zh": "由于那道应用题很复杂，艾哈迈德老师需要更多时间来解它。",
+          "note": "Due to the fact that 后接完整从句表原因，结果句保持 needs more time 与原文一致。",
+          "answer": "Due to the fact that the problem sum is complex, Mr Ahmad needs more time to solve it."
+        },
+        "68": {
+          "concept": "间接引语 — Reported WH-question (tense shift)",
+          "zh": "拉杰问纳尔逊前一天笔记本电脑放在哪里。",
+          "note": "间接引语中 WH-从句用陈述语序；过去时与 yesterday 需随主句 asked 后移为 had been 与 the previous day。",
+          "answer": "Raj asked Nelson where the laptop had been placed the previous day."
+        },
+        "69": {
+          "concept": "条件句 — Unless rewrite (negative main clause)",
+          "zh": "除非幼儿观看他最喜欢的视频，否则他不会安静下来。",
+          "note": "unless = if not：主句否定 + unless + 肯定条件，从句人称用 he 与 toddler 一致。",
+          "answer": "The toddler will not calm down unless he watches his favourite videos."
+        },
+        "70": {
+          "concept": "主动语态 — Active voice reorder (by-phrase removal)",
+          "zh": "歌迷们在这位歌手一出大楼就把她围住了。",
+          "note": "去 was…by 结构，把施事 eager fans 提前作主语，谓语用过去式 surrounded。",
+          "answer": "The eager fans surrounded the singer the moment she stepped out of the building."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "How can you tell from the first paragraph that Martin wanted to explore Singapore very much?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Fill in the following table by identifying the correct word(s) from the passage.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "prompt",
+              "from_passage"
+            ],
+            "prompt": {
+              "header": "Question",
+              "rows": [
+                "(a) Which word from the second paragraph tells us that Martin did not know how long his stay in Singapore was going to be?",
+                "(b) Which **two** words from the third paragraph tell us that some of the shophouses were redeveloped? Each word is found in a separate sentence."
+              ]
+            },
+            "from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "[Q72a]",
+                "[Q72b]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "“… eased the gloom that he was feeling.” (lines 10–11)",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) What was the cause of the gloom that Martin was feeling?",
+              "question": "[Q73a]"
+            },
+            {
+              "stem_plain": "(b) Why was the gloom that Martin was feeling beginning to ease?",
+              "question": "[Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Based on lines 5–20, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "Martin came back to Singapore even though he was working in London.",
+                "Marion was determined to cheer Martin up",
+                "Martin was eager to explore Singapore with his family."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]",
+                "[Q74e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]",
+                "[Q74f]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Fill in the following table to show the differences between a modern food court and the traditional coffeehouse. Refer to paragraph four for your answer.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "Ambience",
+                "Food served"
+              ]
+            },
+            "col_2": {
+              "header": "Modern food court",
+              "rows": [
+                "[Q75a]",
+                "signature dish cooked by a master chef"
+              ]
+            },
+            "col_3": {
+              "header": "Traditional coffeehouse",
+              "rows": [
+                "rigid and cold",
+                "[Q75b]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "evidence (line 31)",
+                "such craft (line 33)",
+                "them (line 36)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "What does the phrase “mindless familiarity” in line 34 tell us about the old man?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "What did Martin like most about the dish he ordered?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Martin’s shoes and bag were drenched.",
+            "Martin chanced upon an old kopitiam.",
+            "Martin ate with his father at roadside hawker stalls."
+          ]
+        },
+        "80": {
+          "stem_plain": "How did the bowl of noodles help Martin realise that he was “truly home” (line 45)? Support your answer with evidence from the passage.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Shielding himself as best he could from the downpour, Martin dashed across the",
+          "2": "street towards a row of conservation shophouses in Singapore's historical neighbourhood.",
+          "3": "By the time he reached shelter, his shoes and bag were drenched. Yet, he refused to let",
+          "4": "the dampness hinder him during his day of self-exploration.",
+          "5": "Martin had been living in London since his early twenties. The busyness of life took",
+          "6": "over and the last time he set foot in Singapore was eight years ago, when his sister, Marion,",
+          "7": "had given birth to Anne. He was back this time, indefinitely, for he had been fired from his",
+          "8": "company in London. Immediately, Martin was chauffeured around by Marion who sensed",
+          "9": "his woe and persisted in forcing him to visit relatives and see the latest sights. Martin was",
+          "10": "grateful for the distraction as being surrounded by family and a new environment eased the",
+          "11": "gloom that **he was feeling**. However, he longed to walk the city streets alone and",
+          "12": "reconnect with **Singapore face-to-face**, instead of looking through the windows of his",
+          "13": "sister's car.",
+          "14": "An opportunity came knocking when Marion suddenly had urgent errands to run so",
+          "15": "Martin jumped at the chance to spend the day out by himself. He deliberately made his way",
+          "16": "to the older parts of town to see if he could still recognise the streets that he used to roam",
+          "17": "as a child with his father. He was rather taken aback as many shophouses had been",
+          "18": "refurbished into boutique offices **or restaurants**. Some of the transformations made",
+          "19": "rendered the shophouses unrecognisable. There was little left of the old-world charm that",
+          "20": "he remembered.",
+          "21": "Continuing his exploration when the rain finally stopped, Martin came upon a",
+          "22": "traditional *kopitiam*, dialect for coffeehouse, seemingly forgotten by time. Dim bulbs hung",
+          "23": "from the ceiling while dusty fans swivelled from side to side, doing their best to shift the",
+          "24": "humid air. The walls and furniture were chipped and the floors were grimy. In spite of the",
+          "25": "squalor, Martin felt drawn to this old-style coffeehouse. It was unpretentious and casual,",
+          "26": "welcoming all who wanted to have a meal or simply take a break, much unlike the",
+          "27": "unnecessary rigidity and coldness of some modern food courts that served generic fare",
+          "28": "prepared by disinterested cooks.",
+          "29": "Martin sat at one of the tables, relishing the aroma emanating from the simmering",
+          "30": "soup pot in the only functioning food stall there. This hinted at the expertise with which the",
+          "31": "soup was prepared, sure **evidence** that he was in the presence of a master chef who had",
+          "32": "honed his skills through years of preparing his one dish.",
+          "33": "To pay homage to **such craft**, Martin ordered a large Hokkien prawn noodles soup.",
+          "34": "The old man got up and shuffled in his slippers towards his stall. With **mindless familiarity**,",
+          "35": "the hawker blanched yellow noodles and green *kangkong* before laying them at the bottom",
+          "36": "of a bowl. Over them, he placed a generous layer of prawns and meat chunks. At last, he",
+          "37": "ladled in the promising broth and served the steaming bowl to his sole customer.",
+          "38": "Martin tucked into the much anticipated meal before him. The prawns and meat were",
+          "39": "succulent, the vegetables had a satisfying crunch, and the noodles were consistently",
+          "40": "chewy. Not oily, the broth was packed with a dense flavour that he delighted in above",
+          "41": "everything else. The old man's creation was more than just food — it was soul food.",
+          "42": "With each mouthful, a sense of warmth permeated through Martin's body, awakening",
+          "43": "forgotten memories of his father lifting him onto stools at roadside hawker stalls. He was",
+          "44": "starting to remember his roots. Finishing the noodle soup to the last drop, Martin sat back",
+          "45": "with wave after wave of fond recollections of Singapore. He was truly home."
+        },
+        "paragraphs": {
+          "1": "马丁冒雨冲向店屋避雨，鞋包湿透仍不让潮湿妨碍他独自探索新加坡的一天。",
+          "5": "他二十出头赴英，繁忙使他八年未回新加坡；因伦敦公司解雇而回国。姐姐玛丽昂察觉他消沉，强拖他走亲访友看新景。他感激亲友陪伴缓解了阴郁，却更想独自步行街头，与新加坡面对面重逢，而非只坐在车里看窗外。",
+          "14": "玛丽昂突有急事，马丁得以外出。他特意走进老城寻儿时与父亲走过的街。许多店屋被翻新成精品办公楼或餐厅，变化之大令他认不出旧貌，记忆中旧世界的韵味所剩无几。",
+          "21": "雨停后他偶遇仿佛被时间遗忘的传统咖啡店：灯光昏暗、风扇慢转、墙皮剥落、地面污秽。尽管简陋，他仍被其朴素随意、欢迎众人歇脚的氛围吸引，与某些现代食阁的刻板冷漠及千篇一律套餐形成对比。",
+          "29": "他坐下，唯一摊位上的炖锅香气暗示汤头出自高手，证明面前是一位多年只练一道菜的师傅。",
+          "33": "他向这门手艺致敬，点了一大碗福建虾面汤。老人拖着拖鞋走向摊位，带着近乎下意识的熟练烫面烫菜、铺虾肉、舀热汤，送到这位唯一顾客面前。",
+          "38": "他大快朵颐：虾肉多汁、蔬菜爽脆、面条弹牙；尤其钟爱不油腻却味道浓郁的汤底。老人的作品不只是食物，更是抚慰心灵的家常美味。",
+          "42": "每一口暖意流过全身，唤醒父亲把他抱上路边摊矮凳的童年记忆；喝尽最后一滴汤，他靠椅背上，涌起对新加坡的温情，明白自己真正回家了。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "证据简答题",
+          "note": "<ol><li>题型：问第一段如何看出马丁很想自己探索新加坡，需要<strong>抄出具体行为/细节</strong>并点明态度。</li><li>范围：第一段（与 passage 首段行号一致）。</li><li>定位：关注天气/装备与“仍坚持独自出行”的对比，如鞋子和包被淋湿却仍不放弃。</li><li>结论：范文用 <em>shoes and bags were drenched</em> 与 <em>refused to let that hinder him from exploring … by himself</em> 把<strong>客观困难 + 主观坚持</strong>写全。</li><li>失分：只写“很想”而无文中动作；或只写淋湿未写仍要独自探索。</li></ol>",
+          "answer": [
+            "Martin's shoes and bags were drenched but he refused to let that hinder him from exploring Singapore by himself."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li>题型：表格摘录文中词，(a)(b) 各一空，词形须与原文一致。</li><li>(a) 第二段表示“不知道要待多久/期限未定”→ 关键词 <em>indefinitely</em>。</li><li>(b) 第三段两句各找一词，说明店屋被“改造/转型”→ 名词 <em>transformations</em>（与 redevelopment 语义呼应）。</li><li>书写：按表格行序先 (a) 后 (b)；不要改写词形或换同义词。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "indefinitely",
+            "72b": "transformations"
+          }
+        },
+        "73": {
+          "concept": "分问综合简答",
+          "note": "<ol><li>题型：items_comp，(a) 原因 (b) 缓解原因，各一句证据。</li><li>范围：题干指向 gloom 与 eased，结合前文失业与来新后的环境。</li><li>(a) gloom 根因：在伦敦被公司解雇（答案要点 <em>fired from his company in London</em>）。</li><li>(b) 情绪缓解：家人与新加坡的新环境让他分心、不再沉浸悲伤（<em>family and new environment … distracted him</em>）。</li><li>失分：把 (a)(b) 混写一段；或只写“不开心”而无因果链。</li></ol>",
+          "answer": {
+            "73a": "Martin had been fired from his company in London.",
+            "73b": "His family and new environment in Singapore distracted him from feeling sad."
+          }
+        },
+        "74": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li>题型：三句 T/F + 各一句理由，须与 lines 5–20 信息一致。</li><li>第一句 False：文中说上次回新是八年前，并非“尽管在伦敦工作仍常回新”。</li><li>第二句 True：Marion 察觉他的愁绪后，开车带他走亲访友、看新景点（chauffeured … forced him …）。</li><li>第三句 False：马丁想<strong>独自</strong>探索（alone），非与家人同行。</li><li>书写：每行先判 T/F，再写一句动词短语对齐原文，避免空泛评价。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "False",
+            "74b": "The last time Martin came back to Singapore was eight years ago.",
+            "74c": "True",
+            "74d": "Marion chauffeured Martin around and forced him to visit relatives and see the latest sights after sensing his woe.",
+            "74e": "False",
+            "74f": "Martin was eager to explore Singapore alone."
+          }
+        },
+        "75": {
+          "concept": "表格简答题",
+          "note": "<ol><li>题型：对比现代食阁与传统咖啡室，依据第四段填两格。</li><li>现代食阁氛围格：与 rigid and cold 对照 → <em>unpretentious</em>（朴实、不摆架子）。</li><li>传统咖啡室食物格：与 signature dish / master chef 对照 → <em>generic fare prepared by disinterested cooks</em>。</li><li>顺序：答案数组与 table v2 各列 <code>fill</code> 行优先一致，勿把两格对调。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "unpretentious",
+            "75b": "generic fare prepared by disinterested cooks"
+          }
+        },
+        "76": {
+          "concept": "指代表",
+          "note": "<ol><li>题型：代词/名词指代，左列词在文中找先行语。</li><li><em>evidence</em>（line 31）：指汤的香气等感官线索 → 范文写到 simmering soup 的气味。</li><li><em>such craft</em>：指烹饪技艺/手艺本身。</li><li><em>them</em>：指碗里的配料（如黄面与空心菜），回指前文列举的食物要素。</li><li>提示：用完整名词短语作答，勿只写“它”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "The aroma emanating from the simmering soup.",
+            "76b": "The skills in cooking the dish.",
+            "76c": "The yellow noodles and green kangkong in the bottom of the bowl."
+          }
+        },
+        "77": {
+          "concept": "短语/句子释义",
+          "note": "<ol><li>题型：解释 mindless familiarity 对老人的含义，需转述“熟练到不假思索”。</li><li>语境：line 34 附近描写他长期重复同一道菜。</li><li>释义：长期做同一道菜，动作已成习惯，不必再思考步骤（与 mindless“无需动脑”+ familiarity“熟悉”相扣）。</li><li>失分：只写“很熟悉”而未点出“无需思考/机械重复”。</li></ol>",
+          "answer": [
+            "It tells us that the old man was so used to cooking the same dish that he did not need to think about how to prepare or cook it."
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "要点直答",
+          "note": "<ol><li>题型：最喜欢汤的哪一部分，定位点餐与品尝描写。</li><li>证据：文中强调 broth（汤底）带来的满足/记忆联结。</li><li>作答：用完整句点名 <em>broth</em> 为 most liked 的部分。</li></ol>",
+          "answer": [
+            "Martin liked the broth the most in the dish."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li>题型：三事排序，写 2,3,1 格式（与答案键一致）。</li><li>按叙事：先偶然遇到老 kopitiam（2），再与父在路边摊用餐记忆（3），鞋子湿透（1）为更早发生的背景/细节在答案键中的次序。</li><li>提示：把事件与段落时间线核对，勿凭印象乱序。</li></ol>",
+          "answer": [
+            "2, 3, 1"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "证据运用题",
+          "note": "<ol><li>题型：面条如何让他意识到 truly home，需要<strong>解释 + 文中证据</strong>。</li><li>思路：食物触发与父亲共度的新加坡回忆（味觉/场景复现）。</li><li>范文：点明 <em>brought back fond memories … with his father</em> 把情感与证据绑在一起。</li><li>失分：只写“好吃/想家”而无具体父子记忆线索。</li></ol>",
+          "answer": [
+            "The bowl of noodles brought back fond memories or recollections of his time in Singapore with his father."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

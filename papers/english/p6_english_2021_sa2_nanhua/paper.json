@@ -1,0 +1,1592 @@
+{
+  "paperid": "p6_english_2021_sa2_nanhua",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"We'd be going out for dinner, _________ we?\" asked Mother.",
+          "options": {
+            "1": "won't",
+            "2": "don't",
+            "3": "hadn't",
+            "4": "wouldn't"
+          }
+        },
+        "2": {
+          "stem_plain": "The number of Covid-19 cases _________ on the decline since we have enforced stricter measures.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "The person _________ the dog barked at is my new neighbour.",
+          "options": {
+            "1": "which",
+            "2": "whom",
+            "3": "whose",
+            "4": "whoever"
+          }
+        },
+        "4": {
+          "stem_plain": "We will not get to the peak of the mountain before sunset _________ we hurry up.",
+          "options": {
+            "1": "if",
+            "2": "since",
+            "3": "unless",
+            "4": "although"
+          }
+        },
+        "5": {
+          "stem_plain": "David took Susan's school bag home by mistake as he thought it was _________.",
+          "options": {
+            "1": "his",
+            "2": "her",
+            "3": "him",
+            "4": "hers"
+          }
+        },
+        "6": {
+          "stem_plain": "We can get to the airport quickly _________ car.",
+          "options": {
+            "1": "in",
+            "2": "by",
+            "3": "on",
+            "4": "with"
+          }
+        },
+        "7": {
+          "stem_plain": "Joe's pet turtle went missing _________ his negligence.",
+          "options": {
+            "1": "owing to",
+            "2": "in spite of",
+            "3": "in addition to",
+            "4": "regardless of"
+          }
+        },
+        "8": {
+          "stem_plain": "Since we started the Reduce, Reuse and Recycle campaign in school, we have generated _________ waste.",
+          "options": {
+            "1": "less",
+            "2": "more",
+            "3": "fewer",
+            "4": "greater"
+          }
+        },
+        "9": {
+          "stem_plain": "The helpless victim could only watch the robber _________ her handbag.",
+          "options": {
+            "1": "take",
+            "2": "took",
+            "3": "takes",
+            "4": "has taken"
+          }
+        },
+        "10": {
+          "stem_plain": "The boys _________ on the computer for hours before their parents turned off the computers.",
+          "options": {
+            "1": "is playing",
+            "2": "are playing",
+            "3": "had been playing",
+            "4": "have been playing"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "反意疑问句 — Question tag (would)",
+          "zh": "“我们会出去吃晚饭，不是吗？”妈妈问。",
+          "note": "附加问句 (Question tag)：陈述为 would 肯定式，附加部分用 wouldn't + 主语。时态与情态动词一致。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "主谓一致 — Subject–verb agreement (number of)",
+          "zh": "自我们实施更严格措施以来，新冠病例数量一直在下降。",
+          "note": "主谓一致：the number of + 复数名词仍用单数谓语；since 引导时间，常用现在完成进行或一般现在表趋势。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "关系词 — Relative pronoun (object)",
+          "zh": "狗对着吠叫的那个人是我的新邻居。",
+          "note": "定语从句 (Relative clause)：介词 at 的宾语指人时用 whom（正式书面）。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "条件句 — Conditional (unless)",
+          "zh": "除非我们加快速度，否则日落前到不了山顶。",
+          "note": "条件句：unless = 如果不……就不……；与否定主句搭配表必要条件。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "代词 — Possessive pronoun",
+          "zh": "大卫误把苏珊的书包带回家，以为那是自己的。",
+          "note": "物主代词：his/her 后不接名词；hers/mine 单独作表语。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "介词 — Preposition (transport)",
+          "zh": "我们坐车可以很快到机场。",
+          "note": "介词短语作状语：表示交通方式用 by + 交通工具（无冠词）。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "转折 — Cause vs contrast",
+          "zh": "乔的宠物龟因他的疏忽而走失了。",
+          "note": "因果：owing to / due to + 名词表原因；in spite of 表让步。",
+          "answer": "1"
+        },
+        "8": {
+          "concept": "量词 — Quantifier (uncountable)",
+          "zh": "自从学校开展减废活动，我们产生的垃圾更少了。",
+          "note": "数量词：less + 不可数；fewer + 可数复数。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "不定式 — Perception verb + bare infinitive",
+          "zh": "无助的受害者只能眼睁睁看着劫匪抢走她的手提包。",
+          "note": "感官/观察动词后接宾语 + 动词原形（bare infinitive）。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "过去完成时 — Past perfect continuous",
+          "zh": "父母关掉电脑前，男孩们已在电脑上玩了好几个小时。",
+          "note": "过去完成进行 (Past perfect continuous)：强调在过去另一动作之前持续的进行状态。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Sophia had no _________ to her own house as she had left her keys in the office.",
+          "options": {
+            "1": "access",
+            "2": "avenue",
+            "3": "entrance",
+            "4": "admission"
+          }
+        },
+        "12": {
+          "stem_plain": "Several of the customers have made a/an _________ against Mr Lee's restaurant for selling unhygienic food.",
+          "options": {
+            "1": "protest",
+            "2": "objection",
+            "3": "accusation",
+            "4": "conspiracy"
+          }
+        },
+        "13": {
+          "stem_plain": "Mary _________ her chance to win in the story-telling competition because she was too nervous on stage.",
+          "options": {
+            "1": "threw in",
+            "2": "threw off",
+            "3": "threw out",
+            "4": "threw away"
+          }
+        },
+        "14": {
+          "stem_plain": "The teacher constantly say words of encouragement to _________ her pupils' morale after they did not do well for mid-year examinations.",
+          "options": {
+            "1": "bond",
+            "2": "boost",
+            "3": "boast",
+            "4": "benefit"
+          }
+        },
+        "15": {
+          "stem_plain": "Mr Lim was upset when he received a _________ salary despite working long hours.",
+          "options": {
+            "1": "mere",
+            "2": "scarce",
+            "3": "meagre",
+            "4": "sufficient"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "索菲亚进不了自己家，因为把钥匙落在办公室了。",
+          "note": "选1：access to 固定搭配表“进入/使用某处”。avenue 多指街道；entrance 指物理门口；admission 偏门票/录取。",
+          "concept": "词汇辨析 — access（进入权；使用权）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "access",
+              "zh": "进入权，使用权；接触机会（名词，指能够进入某个地点、使用某种资源、读取特定数据或与某人接触的权利、机会或手段）",
+              "eg": "Sophia had no access to her own house as she had left her keys in the office after the late-night meeting."
+            },
+            {
+              "opt": "2",
+              "word": "avenue",
+              "zh": "林荫大道，大街；途径，渠道（名词，物理上指两旁有树木的宽阔街道，抽象上指达到某种目的、解决某种问题的可行途径或方式）",
+              "eg": "The National Day parade moved slowly along the tree-lined avenue while thousands of spectators cheered from the sidewalks."
+            },
+            {
+              "opt": "3",
+              "word": "entrance",
+              "zh": "入口，大门口；进入，登场（名词，指进入建筑物、房间或某个封闭区域的具体物理通道或门，亦指人或演员进入某处的动作）",
+              "eg": "A guard stood by the side entrance to check our security passes before letting us enter the government building."
+            },
+            {
+              "opt": "4",
+              "word": "admission",
+              "zh": "准许进入，入场费；录取，入场券（名词，指官方允许某人进入学校、机构、剧场或景点的正式许可，也可指进入时收取的门票费用）",
+              "eg": "Admission to the art museum is free on public holidays, drawing large crowds of families and tourists."
+            }
+          ]
+        },
+        "12": {
+          "zh": "几位顾客就李先生餐馆出售不卫生食品提出指控。",
+          "note": "选3：make an accusation against 控告。protest/object 语气较弱；conspiracy 语义不符。",
+          "concept": "词汇辨析 — accusation（指控；控告）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "protest",
+              "zh": "抗议，反对行动（名词，指公众或群体对某项政策、法律或决定表示强烈不满、公开反对而组织的集会、游行或抗议活动）",
+              "eg": "Residents organised a peaceful protest against the new parking charges to show their deep dissatisfaction to the local council."
+            },
+            {
+              "opt": "2",
+              "word": "objection",
+              "zh": "反对，反对意见（名词，指对某人的观点、计划、法庭提问或决定表示不赞同、提出质疑或反驳的正式意见和声明）",
+              "eg": "The judge sustained the lawyer's objection to the unfair question and instructed the witness not to provide an answer."
+            },
+            {
+              "opt": "3",
+              "word": "accusation",
+              "zh": "指控，控告（名词，指在没有最终判决前，公开谴责、举报或正式控诉某人犯有某种罪行、过错或不道德行为）",
+              "eg": "Several customers made an accusation against Mr Lee's restaurant for selling unhygienic food, leading to an immediate health inspection."
+            },
+            {
+              "opt": "4",
+              "word": "conspiracy",
+              "zh": "阴谋，密谋（名词，指两人或多人为了达到非法、不道德或不可告人的目的，而在暗中秘密策划、共同实施的恶劣计划）",
+              "eg": "Detectives successfully broke up a sinister conspiracy to cheat elderly shoppers out of their lifetime retirement savings."
+            }
+          ]
+        },
+        "13": {
+          "zh": "玛丽因在台上太紧张而浪费了赢得讲故事比赛的机会。",
+          "note": "选4：throw away a chance 浪费机会。throw in 投降；throw off 摆脱；throw out 扔出。",
+          "concept": "词汇辨析 — threw away（浪费；抛弃（机会））",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "threw in",
+              "zh": "放弃，作为赠品附送（短语动词，多用于习语 throw in the towel 表示认输、放弃，或在买卖中指额外免费赠送某物）",
+              "eg": "After two severe losses, the head coach threw in the towel and rested all the injured players for the remaining season."
+            },
+            {
+              "opt": "2",
+              "word": "threw off",
+              "zh": "摆脱，甩掉（疾病或追捕者）（短语动词，指身体从感冒、发烧等小病中康复过来，或成功逃脱、甩开跟踪自己的人）",
+              "eg": "She managed to throw off her nasty cold just in time to participate in the national speech competition."
+            },
+            {
+              "opt": "3",
+              "word": "threw out",
+              "zh": "驱逐，把……赶出去；扔掉（短语动词，指官方人员强行将不守规矩的人赶出场馆，或指拒绝、废除某项不实建议与计划）",
+              "eg": "The strict theater usher threw out anyone who tried to enter the main performance hall without a valid security ticket."
+            },
+            {
+              "opt": "4",
+              "word": "threw away",
+              "zh": "白白浪费，轻易抛弃（机会、优势）（短语动词，指由于自身失误、大意或心理素质不佳，而白白错失了极好的发展机遇或获胜机会）",
+              "eg": "Mary threw away her chance to win in the story-telling competition because she was too nervous on stage and forgot her lines."
+            }
+          ],
+          "image": "a13.jpeg"
+        },
+        "14": {
+          "zh": "老师不断用鼓励的话来提升学生的士气。",
+          "note": "选2：boost morale 提振士气。bond 联结；boast 自夸；benefit 受益（不及物搭配不同）。",
+          "concept": "词汇辨析 — boost（提高；鼓舞）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "bond",
+              "zh": "建立联系，培养感情；黏合（动词，指通过共同的经历、兴趣在人与人之间建立起深厚的信任和亲密关系，或指物体牢固地结合在一起）",
+              "eg": "The overnight leadership camp helped the new secondary school pupils bond with one another through exciting team-building games."
+            },
+            {
+              "opt": "2",
+              "word": "boost",
+              "zh": "提高，推动，鼓舞（动词，指给某事物带来积极的推动力，使其在数量、水平、信心或士气上得到显著的提升或改善）",
+              "eg": "The English teacher's warm praise helped boost the class morale significantly after they received the poor vocabulary test results."
+            },
+            {
+              "opt": "3",
+              "word": "boast",
+              "zh": "自夸，吹嘘（动词，指带着骄傲、自满的情绪，向他人过度夸耀自己的成就、财富、社会地位或拥有的优越条件）",
+              "eg": "He tends to boast about his school grades whenever relatives visit their house, making his siblings feel highly uncomfortable."
+            },
+            {
+              "opt": "4",
+              "word": "benefit",
+              "zh": "使受益，对……有益（动词，指某种行为、物质、政策或环境能够给某人的身体健康、生活水平或学业发展带来实质性的好处）",
+              "eg": "Developing good reading habits and eating more vegetables can benefit your health and academic performance in the long run."
+            }
+          ]
+        },
+        "15": {
+          "zh": "林先生工作时间长，薪水却很少，因此很沮丧。",
+          "note": "选3：meagre salary 微薄薪水。mere 仅强调“只不过”；scarce 偏稀缺；sufficient 与 upset 矛盾。",
+          "concept": "词汇辨析 — meagre（微薄的；少得可怜的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "mere",
+              "zh": "仅仅的，只不过的（形容词，常用来强调某物非常小、非常少或微不足道，纯粹用于突出程度之低或数量之少）",
+              "eg": "After all that intensive work, his reward was a mere five dollars, which barely covered his transport expenses."
+            },
+            {
+              "opt": "2",
+              "word": "scarce",
+              "zh": "稀缺的，缺乏的（形容词，常指因为环境变化、供求失衡而导致生活必需品、资源或食物在某地变得很难找到、数量极少）",
+              "eg": "Fresh drinking water became scarce in the village during the prolonged summer drought, causing great worry among residents."
+            },
+            {
+              "opt": "3",
+              "word": "meagre",
+              "zh": "微薄的，贫乏的，少得可怜的（形容词，特指薪水、食物、收入或分量极其微少，难以维持生计或完全不满足正常需求）",
+              "eg": "Mr Lim was deeply upset when he received a meagre salary at the end of the month despite working long hours at the factory."
+            },
+            {
+              "opt": "4",
+              "word": "sufficient",
+              "zh": "充足的，足够的（形容词，指某物的数量、质量或条件在客观上已经完全能够满足特定需求，不需要再额外补充）",
+              "eg": "The total supply of medical masks was sufficient for every student in the secondary school to change theirs daily."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "deliberated over",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "decided",
+            "2": "wondered",
+            "3": "concluded",
+            "4": "contemplated"
+          }
+        },
+        "17": {
+          "stem_plain": "frown upon",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "disregard for",
+            "2": "disallow from",
+            "3": "disapprove of",
+            "4": "disconnect from"
+          }
+        },
+        "18": {
+          "stem_plain": "Like clockwork",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "routinely",
+            "2": "irregularly",
+            "3": "occasionally",
+            "4": "sporadically"
+          }
+        },
+        "19": {
+          "stem_plain": "steadfast",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "unsure",
+            "2": "unafraid",
+            "3": "unrivalled",
+            "4": "unwavering"
+          }
+        },
+        "20": {
+          "stem_plain": "instantly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "hastily",
+            "2": "hurriedly",
+            "3": "suddenly",
+            "4": "immediately"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Leia was stuck at home because of bad weather. She [Q16 (deliberated over)] the options she had. She could do nothing but watch television. She knew that it was a waste of time and her elder sister, Rosie, would [Q17 (frown upon)] her decision. Unlike her, Rosie was a go-getter. [Q18 (Like clockwork)], Rosie would be up by six every morning to go for her run before she worked on her to-do lists. Leia respected Rosie as she was [Q19 (steadfast)] in her belief that being responsible is the key to success. With that in mind, Leia forced herself to get up from the couch and do push-ups. Soon, she was sweating and felt refreshed [Q20 (instantly)]. After that, Leia started working on her project which was due next week."
+        ],
+        "zh": [
+          "Leia 因坏天气困在家里。她仔细权衡自己有哪些选择。她似乎只能看电视打发时间。她知道那是浪费时间，姐姐 Rosie 也会不赞成她的决定。和她不同，Rosie 是个积极进取的人。Rosie 每天六点准时起床，先跑步，再处理待办事项。Leia 很佩服 Rosie，因为她坚信负责任是成功的关键。想到这里，Leia 强迫自己从沙发上起来做俯卧撑。很快她就出汗了，并立刻感到精神一振。之后，她开始做下周要交的项目。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — deliberated over（沉思）",
+          "note": "应选（4）'contemplated'：短文划线的 <em>deliberated over</em> 在此语境下与此义最接近。'decided'：与题干语境或搭配要求不一致。'wondered'：与题干语境或搭配要求不一致。'concluded'：义为'断定；得出结论'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "她仔细权衡自己有哪些选择。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "decided",
+              "zh": "决定，下定决心（动词，指在对比各种可能性或经过短暂权衡之后，明确选定一个行动方向或结果）",
+              "eg": "The committee decided to implement the new environmental policy after reviewing the feedback from the community."
+            },
+            {
+              "opt": "2",
+              "word": "wondered",
+              "zh": "想知道，琢磨（动词，指内心对某事感到好奇，想了解其真实原因、发展情况或背后隐藏的秘密）",
+              "eg": "The primary school pupils wondered why the laboratory experiment yielded such an unexpected chemical reaction."
+            },
+            {
+              "opt": "3",
+              "word": "concluded",
+              "zh": "断定，得出结论（动词，指在仔细检查所有可用的事实、证据、线索或经过深入调查后，做出的最终判定）",
+              "eg": "After examining the forensic evidence at the crime scene, the detective concluded that the suspect was lying about his whereabouts."
+            },
+            {
+              "opt": "4",
+              "word": "contemplated",
+              "zh": "沉思，仔细考虑，盘算（动词，指花较长时间在脑海中极其严肃、深刻地思考某项决定、计划、选择或未来的发展路线）",
+              "eg": "The student contemplated several study timetable strategies before committing to her final revision schedule for the exams."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — frown upon（不赞成）",
+          "note": "应选（3）'disapprove of'：短文划线的 <em>frown upon</em> 在此语境下与此义最接近。'disregard for'：与题干语境或搭配要求不一致。'disallow from'：与题干语境或搭配要求不一致。'disconnect from'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "她知道那是浪费时间，姐姐 Rosie 也会不赞成她的决定。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "disregard for",
+              "zh": "无视",
+              "eg": "The passage phrase <strong>disregard for</strong> appears in formal exam English."
+            },
+            {
+              "opt": "2",
+              "word": "disallow from",
+              "zh": "禁止来自",
+              "eg": "The passage phrase <strong>disallow from</strong> appears in formal exam English."
+            },
+            {
+              "opt": "3",
+              "word": "disapprove of",
+              "zh": "不赞成",
+              "eg": "The passage phrase <strong>disapprove of</strong> appears in formal exam English."
+            },
+            {
+              "opt": "4",
+              "word": "disconnect from",
+              "zh": "断开连接",
+              "eg": "The passage phrase <strong>disconnect from</strong> appears in formal exam English."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — Like clockwork（照例；常规地）",
+          "note": "应选（1）'routinely'：短文划线的 <em>Like clockwork</em> 在此语境下与此义最接近。'irregularly'：与题干语境或搭配要求不一致。'occasionally'：与题干语境或搭配要求不一致。'sporadically'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "Rosie 每天六点照例起床，先跑步，再处理待办事项。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "routinely",
+              "zh": "照例；常规地",
+              "eg": "The nurse <strong>routinely</strong> checks patients' blood pressure."
+            },
+            {
+              "opt": "2",
+              "word": "irregularly",
+              "zh": "不规律地",
+              "eg": "She answered <strong>irregularly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "occasionally",
+              "zh": "偶然地",
+              "eg": "She answered <strong>occasionally</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "sporadically",
+              "zh": "零星地",
+              "eg": "She answered <strong>sporadically</strong> before the bell rang."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — steadfast（坚定不移）",
+          "note": "应选（4）'unwavering'：短文划线的 <em>steadfast</em> 在此语境下与此义最接近。'unsure'：与题干语境或搭配要求不一致。'unafraid'：与题干语境或搭配要求不一致。'unrivalled'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "Leia 很佩服 Rosie，因为她对“负责任是成功的关键”这一信念坚定不移。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unsure",
+              "zh": "不确定",
+              "eg": "The speaker chose <strong>unsure</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "2",
+              "word": "unafraid",
+              "zh": "无所畏惧",
+              "eg": "The speaker chose <strong>unafraid</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "unrivalled",
+              "zh": "无与伦比的",
+              "eg": "The coach <strong>unrivalled</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "unwavering",
+              "zh": "坚定不移",
+              "eg": "The team kept <strong>unwavering</strong> until the task was done."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — instantly（即时地）",
+          "note": "应选（4）'immediately'：短文划线的 <em>instantly</em> 在此语境下与此义最接近。'hastily'：义为'匆忙地；草率地'，与短文语境或搭配要求不一致。'hurriedly'：与题干语境或搭配要求不一致。'suddenly'：义为'突然地'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "很快她就出汗了，并立刻感到精神一振。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hastily",
+              "zh": "匆忙地；草率地",
+              "eg": "She <strong>hastily</strong> packed her bag because the bus was already at the stop."
+            },
+            {
+              "opt": "2",
+              "word": "hurriedly",
+              "zh": "慌忙地",
+              "eg": "She answered <strong>hurriedly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "suddenly",
+              "zh": "突然地",
+              "eg": "She answered <strong>suddenly</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "immediately",
+              "zh": "即时地",
+              "eg": "She answered <strong>immediately</strong> before the bell rang."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "In **'Visit the Expo City this June and learn more about endangered animals'**, an asterisk (*) is used to _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "highlight an interesting point",
+            "2": "relate the point to an explanation",
+            "3": "make a point more visually appealing",
+            "4": "encourage readers to read more carefully"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the flyer, to participate in the poster design competition, Ahmad has to _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "start drawing only at twelve noon",
+            "2": "produce a student pass upon registration",
+            "3": "bring his own drawing paper and other art materials",
+            "4": "create a poster related to the dangers faced by all animals"
+          }
+        },
+        "23": {
+          "stem_plain": "Which one of the following statements about the Art Exhibition is true?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Tickets to the exhibition can be purchased online.",
+            "2": "The exhibition is held throughout the whole month of June.",
+            "3": "A school group can request for a guided tour at the entrance.",
+            "4": "All paintings showcased at the Art Exhibition are by Andy Chua."
+          }
+        },
+        "24": {
+          "stem_plain": "Bella, a ten-year-old pupil, can only visit the Expo City between 21 and 25 June. She can participate in the _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Poster Design Competition only",
+            "2": "Art Exhibition and Figurine-Making workshop",
+            "3": "Art Exhibition and Poster Design Competition",
+            "4": "Poster Design Competition and Figurine-Making Workshop"
+          }
+        },
+        "25": {
+          "stem_plain": "What can a nine-year-old boy do at Expo Hall 3 on 24 June?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "create a small clay figurine of himself",
+            "2": "view the works of a famous local artist",
+            "3": "draw a picture of a red panda on a piece of paper",
+            "4": "make a clay animal together with one of his parents"
+          }
+        },
+        "26": {
+          "stem_plain": "What is a similarity among the activities held at the Expo City?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They are open to students only.",
+            "2": "They are held on the same day.",
+            "3": "They are organised to educate the public.",
+            "4": "They are free for all student pass holders."
+          }
+        },
+        "27": {
+          "stem_plain": "Amy wishes to receive stories and news about wildlife regularly. What should she do?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "make a call to Mandy at 6453 6547",
+            "2": "send an email to www.wfmembers.com.sg",
+            "3": "sign up for the Wildlife Foundation membership",
+            "4": "participate in at least one activity at the Expo City"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of the flyer?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to promote the various activities held at the Expo City",
+            "2": "to provide the dates of the Figurine-making Workshops",
+            "3": "to show the admission ticket prices for the Art Exhibition",
+            "4": "to warn that endangered animals are facing extinction soon"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Footnote marker（题型考点）",
+          "note": "<p>Asterisk (*) points readers to a <span class=\"hl-good\">footnote/explanation</span> at the bottom of the flyer.</p>",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "细节 — Detail check（信息定位）",
+          "note": "<p>Competition rules state participants must <span class=\"hl-good\">bring own drawing paper and art materials</span>.</p>",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "细节 — Detail check (true)（信息定位）",
+          "note": "<p>Exhibition blurb says paintings are <span class=\"hl-good\">by Andy Chua</span> (local artist).</p>",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "题型 — Scheduling（题型考点）",
+          "note": "<p>Bella (10) available 21–25 June: can do <span class=\"hl-good\">Art Exhibition and Poster Design</span> (workshop dates differ).</p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Age + date（题型考点）",
+          "note": "<p>9-year-old on 24 June at Hall 3: <span class=\"hl-good\">view works of famous local artist</span> (exhibition).</p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "题型 — Main idea（题型考点）",
+          "note": "<p>All activities aim to <span class=\"hl-good\">educate the public</span> about wildlife/conservation.</p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "题型 — Membership（题型考点）",
+          "note": "<p>Regular wildlife news → <span class=\"hl-good\">sign up for Wildlife Foundation membership</span>.</p>",
+          "answer": "3"
+        },
+        "28": {
+          "concept": "主旨 — main purpose（主要目的）",
+          "note": "<p>Flyer promotes visiting <span class=\"hl-good\">Expo City in June</span> and learning about endangered animals.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "E": "before",
+          "J": "had",
+          "N": "the",
+          "B": "after",
+          "F": "can",
+          "K": "more",
+          "P": "them",
+          "C": "although",
+          "G": "during",
+          "L": "of",
+          "Q": "whenever",
+          "D": "around",
+          "H": "have",
+          "M": "so"
+        },
+        "cloze": [
+          "Small pox was a terrible disease. You would [Q29] high fever, sore throat, headaches, body aches and difficulty breathing. In addition, rashes filled with pus would be all over your body. Even [Q30] the rashes dry out and start falling off, the scars remained.",
+          "[Q31] a small pox epidemic in England in 1744, a farmer, Benjamin Jester, decided to scratch some pus from the cowpox sores into the skin of his wife and sons. Surprisingly, none of [Q32] contracted smallpox.",
+          "Many years later, Edward Jenner, [Q33] doctor working in the town of Berkeley, decided to try the same approach after gathering evidence from farmers and milkmaids. [Q34] Benjamin did not know the science underlying the discovery, he had actually created the smallpox vaccine. He did not seek to make money from his vaccine as he wanted [Q35] people to get vaccinated. Soon, small pox vaccination was a common practice [Q36] the world and small pox was eradicated in 1979.",
+          "[Q37] innovation by Jester and Jenner changed the world and saved millions of lives. What we [Q38] learn from this is not to dismiss bizarre innovations as useless!"
+        ],
+        "zh": [
+          "天花是一种可怕的疾病。你会高烧、喉咙痛、头痛、身痛且呼吸困难。此外，全身会出现脓疱。即使皮疹干涸脱落，疤痕仍会留下。",
+          "1744年英国天花流行时，农夫 Benjamin Jester 将牛痘脓刮入妻儿皮肤。令人惊讶的是，他们都没有感染天花。",
+          "多年后，在 Berkeley 行医的 Edward Jenner 在收集农民与挤奶女工的证据后，尝试同样做法。虽然 Benjamin 不懂其中的科学，他实际上创造了天花疫苗。他不想靠疫苗牟利，希望更多人接种。很快全球普遍接种，天花于1979年被消灭。",
+          "Jester 与 Jenner 的创新改变了世界，拯救了数百万人。我们应学到：不要贸然把看似古怪的创新视为无用。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — symptom",
+          "note": "You would have high fever, sore throat, headaches, = 看前后搭配，选 have。",
+          "answer": "H — have"
+        },
+        "30": {
+          "concept": "时间 — after",
+          "note": "Even after the rashes dry out and = 时间/从属 → after。",
+          "answer": "B — after"
+        },
+        "31": {
+          "concept": "时间 — during epidemic",
+          "note": "during a small pox epidemic in = 时间/从属 → during。",
+          "answer": "G — during"
+        },
+        "32": {
+          "concept": "代词",
+          "note": "Surprisingly, none of them contracted smallpox. = 结合句意选 them。",
+          "answer": "P — them"
+        },
+        "33": {
+          "concept": "冠词 — a",
+          "note": "Many years later, Edward Jenner, a doctor working in the town = 冠词/限定词 a。",
+          "answer": "A — a"
+        },
+        "34": {
+          "concept": "让步 — although",
+          "note": "although Benjamin did not know the = 结合句意选 although。",
+          "answer": "C — although"
+        },
+        "35": {
+          "concept": "数量/限定 — more",
+          "note": "his vaccine as he wanted more people to get vaccinated. = 结合句意选 more。",
+          "answer": "K — more"
+        },
+        "36": {
+          "concept": "介词 — worldwide",
+          "note": "vaccination was a common practice around the world and small pox = 看前后搭配，选 around。",
+          "answer": "D — around"
+        },
+        "37": {
+          "concept": "冠词 — the",
+          "note": "the innovation by Jester and Jenner = 冠词/限定词 the。",
+          "answer": "N — the"
+        },
+        "38": {
+          "concept": "情态 — can",
+          "note": "What we can learn from this is not = 情态动词 can。",
+          "answer": "F — can"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Dear Grandpa,",
+          "I never thought that we would have to say goodbye so soon. For so long, I have been living in my own [Q39(bliss)] world, thinking no matter how hard things become, they will [Q40(outimately)] get better with you around. I simply could not wrap my head [Q41(on)] the idea that I will be [Q42(persueing)] my studies in England for the next four years and how much I will miss you.",
+          "My most vivid memories of you [Q43(is)] how your eyebrows would become knitted together whenever you narrated your stories of [Q44(sirvieval)] during the Japanese Occupation. Despite the painful memories evoked, you would always [Q45(concluded)] by saying, \"The war brought about a generation capable of [Q46(overcame)] all odds.\" Indeed, forced to drop [Q47(off)] of school during the war, you worked [Q48(doublely)] hard to make up for the lost years and earned yourself a [Q49(skolership)] .",
+          "You have taught me [Q50(rizeelience)] and hard work, and I will honour you by doing well in school too. I love you, Grandpa.",
+          "Always yours, Jin"
+        ],
+        "zh": [
+          "亲爱的爷爷：",
+          "我从没想到我们会这么快就要说再见。这么久以来，我一直活在自己幸福的小世界里，以为无论事情有多难，有你在身边终会好起来。我实在无法接受自己将要在英国求学四年、会多么想念你。",
+          "我最鲜活的记忆是你讲故事时眉头紧锁的样子，你讲述日据时期如何幸存的经历。尽管会唤起痛苦回忆，你总会以一句“战争造就了一代能克服一切困难的人”作结。战时被迫辍学，你加倍努力弥补失去的年月，还为自己赢得了奖学金。",
+          "你教会我韧性与勤奋，我也会用功读书来报答你。我爱你，爷爷。",
+          "永远属于你的，金"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling",
+          "note": "<p>Adjective needed: <span class=\"hl-good\">blissful</span> world (not noun <em>bliss</em>).</p>",
+          "answer": "blissful"
+        },
+        "40": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">ultimately</span> — correct spelling of adverb.</p>",
+          "answer": "ultimately"
+        },
+        "41": {
+          "concept": "Preposition",
+          "note": "<p>Wrap one's head <span class=\"hl-good\">around</span> an idea.</p>",
+          "answer": "around"
+        },
+        "42": {
+          "concept": "Spelling + form",
+          "note": "<p><span class=\"hl-good\">pursuing</span> after <em>be</em> (progressive).</p>",
+          "answer": "pursuing"
+        },
+        "43": {
+          "concept": "Subject–verb agreement",
+          "note": "<p>Memories <span class=\"hl-good\">are</span> (plural subject).</p>",
+          "answer": "are"
+        },
+        "44": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">survival</span> during the Occupation.</p>",
+          "answer": "survival"
+        },
+        "45": {
+          "concept": "Verb form",
+          "note": "<p>Would always <span class=\"hl-good\">conclude</span> (base form after <em>would</em>).</p>",
+          "answer": "conclude"
+        },
+        "46": {
+          "concept": "Gerund after capable of",
+          "note": "<p>Capable of <span class=\"hl-good\">overcoming</span> (gerund).</p>",
+          "answer": "overcoming"
+        },
+        "47": {
+          "concept": "Phrasal verb",
+          "note": "<p>Drop <span class=\"hl-good\">out</span> of school.</p>",
+          "answer": "out"
+        },
+        "48": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">doubly</span> hard (not <em>doublely</em>).</p>",
+          "answer": "doubly"
+        },
+        "49": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">scholarship</span>.</p>",
+          "answer": "scholarship"
+        },
+        "50": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">resilience</span>.</p>",
+          "answer": "resilience"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "All of us have our moments when we become angry with someone. [Q51] our fit of anger, we might [Q52] our patience and hurt someone we care about with our words or actions. Even if it is unintentional, the best course of [Q53] is to apologise. However, making an apology is often [Q54] said than done. Thankfully, it can be learned.",
+          "First of all, the apology [Q55] be sincere. A half-hearted one could do more damage than none at [Q56]. To show sincerity, you need to take responsibility [Q57] your actions. Find an appropriate time to explain to the other person exactly what happened and how [Q58] you regret it.",
+          "After you have said your piece, give that person a chance to speak [Q59] interrupting. You might hear unpleasant things said about you [Q60] of frustration and be tempted to defend [Q61], but what you might not know [Q62] that this is part of the healing process — your active listening recognises the hurt that person is experiencing. It brings about relief and makes it easier for that person to forgive you.",
+          "Lastly, you offer to make amends. Actions [Q63] louder than words so if you have damaged someone's property, have it [Q64] or replaced.",
+          "Even though an effective and sincere apology can often strengthen a relationship, forgiveness may not necessarily come immediately. You could liken the forgiveness journey [Q65] how a bruise heals — it could take days or even years. What you can do is to keep your heart open for reconciliation one day."
+        ],
+        "zh": [
+          "生气时我们可能会失去耐心，用言语或行为伤害在乎的人；即使无意，最好也去道歉，但道歉往往说来容易做来难，幸好可以学会。",
+          "首先道歉必须真诚；敷衍的道歉可能比不道歉更糟。要表现诚意，须为自己的行为负责，找合适时机说明经过并表达悔意。",
+          "你说完后给对方说话的机会，不要打断；对方可能因沮丧说难听话，你会想为自己辩护，但倾听是疗愈的一部分，能减轻对方痛苦、更易获得原谅。",
+          "最后提出弥补：行动胜于言语；若损坏他人物品，应修理或更换。",
+          "真诚道歉常能巩固关系，但原谅未必立刻到来；原谅像淤青愈合，可能需数日甚至数年；你能做的是心怀和解，等待那一天。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "时间范围介词",
+          "note": "位于句首且修饰名词短语 our fit of anger（怒火中烧之际）。表示“在……期间/当……的时候”，填入时间介词 In 或者是 During。位于句首需大写。",
+          "answer": "In/During"
+        },
+        "52": {
+          "concept": "动词与名词特定搭配",
+          "note": "前面有情态动词 might，后面接动词原形。与后面的名词 patience（耐心）组合，在愤怒情绪的语境下，指人们可能会“失去（lose）”耐心并伤害到他人。",
+          "answer": "lose"
+        },
+        "53": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的名词短语 the best course of 完美结合。构成全行业、各类日常交流中极其核心和高频的专属行事习语 the best course of action，意为此时最好的“做法/应对行动”。",
+          "answer": "action"
+        },
+        "54": {
+          "concept": "经典谚语与比较级形式",
+          "note": "后接比较连词 than done。完美套用英语中家喻户晓的经典处事谚语 easier said than done，意为做出道歉往往是“说起来容易做起来难”。",
+          "answer": "easier"
+        },
+        "55": {
+          "concept": "情态动词语意修饰",
+          "note": "作为主句的谓语。后面接系动词原形 be 极其形容词 sincere，指代道歉“必须（must/should/ought to）”出自真心，用来强调道歉诚意的重要性。",
+          "answer": "must/should"
+        },
+        "56": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的否定倒装结构 than none at 完美组合。构成高频常考的绝对否定强调习语 none at all，意为半心半意的敷衍道歉比“完全不”道歉带来的伤害还要大。",
+          "answer": "all"
+        },
+        "57": {
+          "concept": "动词与介词固定搭配",
+          "note": "后接名词短语 your actions。构成在各大主流名校考卷中屡次重复考核的核心专属搭配 take responsibility for something，意为必须对自己的所作所为“承担责任”。",
+          "answer": "for"
+        },
+        "58": {
+          "concept": "程度副词修饰",
+          "note": "引导特殊疑问从句。修饰后面的谓语动词 regret（后悔），用以向对方展示你究竟有多么“深地（deeply）”或者是多么“诚恳地/多地（much）”感到追悔莫及。",
+          "answer": "deeply/much"
+        },
+        "59": {
+          "concept": "介词引导条件/状态状语",
+          "note": "后接动名词形式 interrupting（打断）。指在自己陈述完之后，应当给对方说话的机会而“绝不（without）”能出言干预打断，以此表达对倾听过程的尊重。",
+          "answer": "without"
+        },
+        "60": {
+          "concept": "经典习语固定搭配",
+          "note": "与后面的名词 frustration（沮丧/挫败感）完美组合。构成形容情绪动因的经典核心短语 out of frustration，意为对方嘴里说出的那些难听话其实只是“出于”一时的宣泄。",
+          "answer": "out"
+        },
+        "61": {
+          "concept": "反身代词与人称视角一致",
+          "note": "在主从句中，动作的发起者是第二人称 you（你）。根据主语与宾语为同一人的语法规则，作动词 defend 的宾语，必须填入反身代词 yourself，表示不要急于“为你自己辩护”。",
+          "answer": "yourself"
+        },
+        "62": {
+          "concept": "主语从句主系表结构系动词",
+          "note": "作为由 What you might not know 引导的主语从句后的核心系动词。后接由 that 引导的表语从句。本句陈述客观哲理，指你或许不知道的“是（is）”这恰恰属于治愈过程的一部分。",
+          "answer": "is"
+        },
+        "63": {
+          "concept": "经典谚语固定搭配",
+          "note": "主语为复数名词 Actions（行动）。完美套用英语中关于言行举止最具代表性的核心经典谚语 Actions speak louder than words，意为“事实胜于雄辩/行动胜于言辞”。",
+          "answer": "speak"
+        },
+        "64": {
+          "concept": "使役结构后的过去分词充当宾补",
+          "note": "前面有经典的使役动词结构 have it...，后接过去分词（V-ed）形式充当宾语补足语，表示动作由别人来完成。指如果弄坏了别人的财产，应当让人把它“修好（repaired/fixed）”或是予以更换。",
+          "answer": "repaired/fixed"
+        },
+        "65": {
+          "concept": "动词与介词固定搭配",
+          "note": "与其前置的动词短语 liken the forgiveness journey 完美组合。构成在各类科学比喻及高级叙事文本里出题率极高、用于打比方的专属经典短语动词 liken A to B，意为将宽恕的历程“比作”伤口的愈合。",
+          "answer": "to"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Eli asked me, \"Is this the movie Mr Tan was talking about?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Eli asked me if __________"
+        },
+        "67": {
+          "stem_plain": "The bullet train runs faster than any other train.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No other __________"
+        },
+        "68": {
+          "stem_plain": "If we drive too quickly, the traffic police might fine us.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ by the traffic police __________"
+        },
+        "69": {
+          "stem_plain": "Chen is so clever that he will not be fooled by you.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ too __________"
+        },
+        "70": {
+          "stem_plain": "Harper resembles her mother more closely than her father.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ for his __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "间接引语 — Reported speech (yes/no question)",
+          "zh": "伊莱问我那是不是谭先生一直在说的那部电影。",
+          "note": "间接引语：一般疑问句用 if/whether；时态后移。",
+          "answer": "Eli asked me if that was the movie Mr Tan had been talking about."
+        },
+        "67": {
+          "concept": "比较/结果结构 — Comparison (no other … than)",
+          "zh": "没有其他火车比子弹列车跑得更快。",
+          "note": "比较级转换：any other → no other … than 结构。",
+          "answer": "No other train runs faster than the bullet train."
+        },
+        "68": {
+          "concept": "虚拟语气 — Conditional rewrite",
+          "zh": "如果我们开得太快，可能会被交警罚款。",
+          "note": "条件句：if 从句可后置；情态动词 might 保留；fine → get fined。",
+          "answer": "We might get fined by the traffic police if we drive too quickly."
+        },
+        "69": {
+          "concept": "比较/结果结构 — too … to",
+          "zh": "陈太聪明了，你不会骗得了他。",
+          "note": "结果转换：so … that not → too … to。",
+          "answer": "Chen is too clever to be fooled by you."
+        },
+        "70": {
+          "concept": "比较/结果结构 — Comparison (closer resemblance)",
+          "zh": "哈珀更像母亲，而不像父亲。",
+          "note": "比较结构：more closely than → closer resemblance to … than …",
+          "answer": "Harper has a closer resemblance to her mother than her father."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did Kareem sigh in line 1?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "How Kareem had saved up for his Speedster X bike",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q72a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "What did Mother hope Kareem would do with the fifty-dollar note?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Why did Kareem not even try to refuse his mother's request in lines 6–8?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **it** (line 5)",
+                "(b) **this errand** (line 20)",
+                "(c) **the others** (line 40)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]",
+                "[Q75c]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Based on the passage, state whether each statement in the table below is **true** or **false**, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Kareem did not know that squirrels roam freely in that private housing estate.",
+                "(b) The driver did not think that he was responsible for the accident.",
+                "(c) Shawn wanted to cycle to school because it was convenient."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]",
+                "[Q76e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]",
+                "[Q76f]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Fill in the following table by identifying the correct word(s) from the passage.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "(a) Which word from **lines 12–14** tells us that Kareem did not expect the letter from Grandma?",
+                "(b) Which 3-word phrase from **lines 36–40** tells us that Kareem had enough money for two old models?"
+              ]
+            },
+            "col_2": {
+              "header": "",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Explain why Shawn found Kareem's question about going for a ride together in **line 41** ridiculous.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Which **two** of the following words correctly describe how Shawn felt in **lines 42–44**? Put a tick ✓ in the box beside each of your answers.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "amazed",
+            "worried",
+            "annoyed",
+            "grateful",
+            "embarrassed",
+            "disappointed"
+          ],
+          "max_selections": 2
+        },
+        "80": {
+          "stem_plain": "What did Kareem do which made his mother comment that **'Your name definitely suits you'** (**line 46**)?",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Kareem sighed as he counted his money again. He was still short of fifty dollars to",
+          "2": "buy the latest Speedster X bike. In order to save his pocket money to replace the bicycle",
+          "3": "he had outgrown, he had been packing sandwiches to school the last three months.",
+          "4": "While his leaner frame did not bother his parents, a neighbour took pity on him by paying",
+          "5": "him ten dollars each time he washed her car. And he saved every bit of **it**.",
+          "6": "\"So I ran into Aunty Kim, our neighbour who just moved in next door,\" Mother's",
+          "7": "voice interjected his thoughts. \"Her son, Shawn, will cycle to school starting next week.",
+          "8": "Could you show him the shortcut to school later? It's a Saturday anyway!\"",
+          "9": "Kareem groaned. He knew his resistance was futile as Mother had probably already",
+          "10": "volunteered his service to Aunty Kim.",
+          "11": "\"Oh, and you've got mail. It's probably from Grandma. Open it.\"",
+          "12": "Kareem's grandmother lived abroad but she would send him spontaneous photos",
+          "13": "and cards. He ripped the envelope open and pulled out a greeting card. A fifty-dollar",
+          "14": "note slipped out. He could not believe this windfall before his eyes!",
+          "15": "\"Did you know your name means 'generous' in Arabic?\" Mother prompted. \"Maybe",
+          "16": "that money could bring some happiness to another family.\"",
+          "17": "Kareem stuffed the note into his pocket and snorted, \"I have been saving so hard",
+          "18": "all this while. I deserve this money more than anyone.\"",
+          "19": "At 2 p.m., Kareem met Shawn under their block as arranged by their mothers. The",
+          "20": "sooner he finished **this errand**, the sooner he could go to the bike shop. While the boys",
+          "21": "were cycling, a squirrel appeared behind a parked car and darted across the road so",
+          "22": "suddenly that the boys collided with each other and knocked down some recycling bins.",
+          "23": "\"Urgh!\" Kareem grunted, \"I forgot to warn you about the squirrel population here.\"",
+          "24": "He lifted his bike up while Shawn put the bins back.",
+          "25": "Crash! Kareem and Shawn whipped their heads around. A car screeched to a halt",
+          "26": "where Shawn's bike had been and an angry man threw open his car door.",
+          "27": "\"You hit my bike!\" Shawn yelled, running to pick up the mess of twisted bike parts.",
+          "28": "\"Blame yourself!\" the man retorted, examining the front of his car. \"You left your",
+          "29": "bike in the middle of the road. You should be glad my car is not damaged!\" Without",
+          "30": "another word, he jumped into his car and sped off.",
+          "31": "\"Oh no! I was planning to help my parents save some money by riding to school",
+          "32": "daily,\" Shawn said anxiously.",
+          "33": "\"Whatever happened was not my fault. I'm buying Speedster X anyway,\" thought",
+          "34": "Kareem, though an uneasy sadness tugged at his throat as he watched Shawn push the",
+          "35": "wreckage home in silence.",
+          "36": "Kareem made a beeline for his dream bike once he stepped into the bike shop.",
+          "37": "As he walked down the aisle, he noticed some older models under a big red sign that read 'Mega Clearance Sale'.",
+          "38": "A shiver ran down his spine as the image of Shawn and his wrecked bike flashed before him.",
+          "39": "He did a quick mental calculation and the sum was right:",
+          "40": "a Speedster X or two of **the others**.",
+          "41": "\"Hi,\" Kareem appeared at Shawn's door the next morning. \"Want to ride together?\"",
+          "42": "Shawn fumed at the ridiculous question but before he could say anything, Kareem took a stride to the side,",
+          "43": "revealing two shiny identical bikes along the corridor. \"What... No, it couldn't be...\" Shawn's eyes grew",
+          "44": "as wide as saucers.",
+          "45": "Mother who had witnessed the scene from the corridor walked up to Kareem and nudged him playfully,",
+          "46": "\"Your name definitely suits you.\""
+        },
+        "paragraphs": {
+          "1": "卡里姆叹着气，又把身上的钱数了一遍。他仍差五十美元，才买得起那辆最新的 Speedster X 自行车。为了攒零花钱换掉那辆已经嫌小的旧车，过去三个月里他每天都带三明治上学。虽然他瘦了一些，父母并不在意；一位邻居可怜他，每次让他洗车就付他十美元。他把每一分钱都存了起来。",
+          "6": "“我刚才在隔壁碰见刚搬来的金阿姨。”母亲的声音打断了他的思绪。“她儿子肖恩从下周起要骑车上学。待会儿你能带他走去学校的小路吗？反正是星期六！”",
+          "9": "卡里姆哼了一声。他知道自己反抗也没用，母亲大概已经替他在金阿姨面前答应下来了。",
+          "11": "“对了，你有信。大概是外婆寄来的。拆开看看。”",
+          "12": "卡里姆的外婆住在国外，却会不时寄来突然想到就拍的照片和贺卡。他撕开信封，抽出一张贺卡，一张五十美元的钞票滑了出来。他简直不敢相信自己眼前这笔意外之财！",
+          "15": "“你知道你的名字在阿拉伯语里是‘慷慨’的意思吗？”母亲提醒道，“也许这笔钱能给另一家带来一点快乐。”",
+          "17": "卡里姆把钱塞进口袋，哼了一声说：“我这段时间攒得多辛苦，这笔钱我比任何人都更有资格留着。”",
+          "19": "下午两点，卡里姆按两位母亲安排，在组屋楼下与肖恩见面。这件差事一办完，他就能越早去自行车店。两个孩子正骑着车，一只松鼠从停着的车后窜出来，猛地冲过马路；两人撞在一起，还撞倒了一些回收箱。",
+          "23": "“呃！”卡里姆咕哝道，“我忘了提醒你这里松鼠很多。”他把自行车扶起来，肖恩则把箱子摆回去。",
+          "25": "砰！两人猛地回头——一辆车急刹在肖恩自行车刚才所在的位置，一个怒气冲冲的男人推开车门。",
+          "27": "“你撞了我的自行车！”肖恩大喊着跑去捡那一堆扭成一团的零件。",
+          "28": "“怪你自己！”那人反驳道，一边查看车头，“你把自行车留在路中间。你该庆幸我的车没坏！”他二话没说跳上车扬长而去。",
+          "31": "“糟了！我本来打算每天骑车上学，帮父母省点钱。”肖恩焦急地说。",
+          "33": "卡里姆心想：反正也不是我的错，我还是要买 Speedster X 的；可看着肖恩默默推着残骸回家，一股不安的难过仍哽在喉咙里。",
+          "36": "一进自行车店，卡里姆就直奔心仪的那辆车。他沿着过道走下去，看见一块大红招牌写着“清仓大甩卖”，下面摆着一些旧款。想到肖恩和那辆毁掉的自行车，他脊背一阵发凉。他在心里快速算了一笔账，数目对得上：一辆 Speedster X，或者两辆“那些旧车”。",
+          "41": "第二天早上，卡里姆出现在肖恩家门口。“嗨，想一起骑车吗？”",
+          "42": "肖恩对这荒唐的问题气得直冒烟，还没开口，卡里姆往旁边跨了一步，露出走廊上两辆崭新、一模一样的自行车。“什么……不会吧……”肖恩瞪大了眼睛，像碟子一样圆。",
+          "45": "母亲在走廊里目睹了这一幕，走到卡里姆身边，顽皮地轻轻推了他一下：“你的名字真配得上你这个人。”"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因题——行 1 为何 <em>sighed</em>。</li><li><strong>定位：</strong>行 1–2 紧接 sigh 后说明原因。</li><li><strong>证据：</strong>仍差 <strong>fifty dollars</strong> 买 <em>Speedster X</em>。</li><li><strong>书写：</strong>一句完整因果句即可。</li></ol>",
+          "answer": [
+            "He was still short of fifty dollars to buy the Speedster X bike."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>两条省钱方式，各 1 分。</li><li><strong>(a)</strong> 行 3：三个月 <em>packing sandwiches to school</em>。</li><li><strong>(b)</strong> 行 4–5：帮邻居 <em>washed her car</em> 每次十元。</li><li><strong>书写：</strong>两条分别写，勿合并成一句。</li></ol>",
+          "answer": {
+            "72a": "Packing sandwiches to school",
+            "72b": "washing the neighbour's car"
+          }
+        },
+        "73": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>问法：</strong>母亲希望 Kareem 用五十元做什么。</li><li><strong>定位：</strong>行 15–16 <em>generous</em> / bring happiness to another family。</li><li><strong>答案要点：</strong>把钱用来让别人快乐（分享/助人）。</li></ol>",
+          "answer": [
+            "Mother hoped that Kareem could use that money to bring some happiness to another family."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>行 6–8 母亲请 Kareem 带 Shawn 走捷径。</li><li><strong>原因：</strong>行 9–10 resistance was <strong>futile</strong>，母亲可能已替他答应 Aunty Kim。</li><li><strong>书写：</strong>解释“为何不拒绝”= 知道反抗无用。</li></ol>",
+          "answer": [
+            "He knew his resistance was futile as Mother had probably already volunteered his service to Aunty Kim."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>代词/短语指代填空，三行 (a)(b)(c)。</li><li><strong>(a) it（行 5）：</strong>邻居付的 <em>ten dollars</em>（洗车报酬）。</li><li><strong>(b) this errand（行 20）：</strong>带 Shawn 走捷径上学。</li><li><strong>(c) the others（行 40）：</strong>Mega Clearance 促销里的旧款自行车。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "The ten dollars from each time he washes the neighbour's car.",
+            "75b": "To show Shawn the shortcut to school.",
+            "75c": "the bikes from Mega Clearance Sale."
+          }
+        },
+        "76": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题式：</strong>每行先判 T/F 再给一句依据。</li><li><strong>(a) FALSE：</strong>行 23 Kareem <em>forgot to warn</em> about squirrels——其实他知道，只是忘了警告。</li><li><strong>(b) TRUE：</strong>行 28–29 司机称 Shawn 把自行车留在路中间。</li><li><strong>(c) FALSE：</strong>行 31–32 Shawn 骑车是为 <em>help parents save money</em>，非 convenience。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "False",
+            "76b": "Kareem has forgotten to warn Shawn about the squirrel population there",
+            "76c": "True",
+            "76d": "The driver said that Shawn left the bike in the middle of the road",
+            "76e": "False",
+            "76f": "Shawn cycles to school daily to help his parents save money"
+          }
+        },
+        "77": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>(a) 行 12–14：</strong>unexpected letter → 词 <strong>spontaneous</strong>（意外的、突然的）。</li><li><strong>(b) 行 36–40：</strong>钱够买两辆旧车 → 三词短语 <strong>the sum was right</strong>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "spontaneous",
+            "77b": "sum was right"
+          }
+        },
+        "78": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>问法：</strong>为何 Shawn 觉得行 41 的邀请可笑。</li><li><strong>背景：</strong>前一日车祸后 Shawn 的自行车已毁（行 27–32）。</li><li><strong>要点：</strong>Shawn 无车可骑，Kareem 明知如此仍邀同行 → ridiculous。</li></ol>",
+          "answer": [
+            "Shawn’s bike was broken and Kareem knew that."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>题型：</strong>勾两个词描述 Shawn 行 42–44 的感受。</li><li><strong>证据：</strong>eyes <em>wide as saucers</em> → <span class=\"hl-good\">amazed</span>；<em>fumed at the ridiculous question</em> → <span class=\"hl-good\">annoyed</span>。</li><li><strong>排除：</strong>worried/grateful/disappointed/embarrassed 与“震惊+恼火”不符。</li></ol>",
+          "answer": [
+            "amazed",
+            "annoyed"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>问法：</strong>母亲为何说名字“generous”适合他（行 46）。</li><li><strong>证据：</strong>行 41–43 买<strong>两辆</strong>一样的车给 Shawn，牺牲自己的 Speedster X 梦想。</li><li><strong>要点：</strong>慷慨分享/为他人买车，与 Arabic 名字含义呼应。</li></ol>",
+          "answer": [
+            "Kareem had shown his mother that, like his name, he was generous by buying Shawn a bicycle."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

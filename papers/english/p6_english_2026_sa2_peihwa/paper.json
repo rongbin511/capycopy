@@ -1,0 +1,1532 @@
+{
+  "paperid": "p6_english_2026_sa2_peihwa",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "I will not go to the party ________ I am invited.",
+          "options": {
+            "1": "if",
+            "2": "unless",
+            "3": "except",
+            "4": "despite"
+          }
+        },
+        "2": {
+          "stem_plain": "Regardless of ________ the toy belongs to, the user should take care of it.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "where",
+            "4": "whose"
+          }
+        },
+        "3": {
+          "stem_plain": "________ to the funfair later this afternoon with your family?",
+          "options": {
+            "1": "Do you go",
+            "2": "Did you go",
+            "3": "Are you going",
+            "4": "Have you gone"
+          }
+        },
+        "4": {
+          "stem_plain": "He plays the piano well because he spends ________ time practising on it.",
+          "options": {
+            "1": "some",
+            "2": "a little",
+            "3": "a great deal of",
+            "4": "a large number of"
+          }
+        },
+        "5": {
+          "stem_plain": "The tourists visiting the exhibition are getting impatient because they ________ obtained their tickets from morning till now.",
+          "options": {
+            "1": "are not",
+            "2": "has not",
+            "3": "had not",
+            "4": "have not"
+          }
+        },
+        "6": {
+          "stem_plain": "Xueming is agreeable to ________ a group with us for the Science project.",
+          "options": {
+            "1": "form",
+            "2": "forms",
+            "3": "formed",
+            "4": "forming"
+          }
+        },
+        "7": {
+          "stem_plain": "\"Let's take all the cupcakes for ________ since they are not here yet,\" Tom said greedily to his sister.",
+          "options": {
+            "1": "myself",
+            "2": "yourself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "8": {
+          "stem_plain": "They'd have returned the trays even without reminders, ________ they?",
+          "options": {
+            "1": "will",
+            "2": "won't",
+            "3": "would",
+            "4": "wouldn't"
+          }
+        },
+        "9": {
+          "stem_plain": "The doctor advised the patient ________ eating too much sugary food.",
+          "options": {
+            "1": "with",
+            "2": "from",
+            "3": "about",
+            "4": "against"
+          }
+        },
+        "10": {
+          "stem_plain": "________ you been more patient, none of these problems ________ happened.",
+          "options": {
+            "1": "Has...will have",
+            "2": "Had...would had",
+            "3": "Had...would have",
+            "4": "Have...would have"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "unless 意为“除非”，相当于 if ... not。代入句意为“除非我受到邀请，否则我不会去参加聚会”，符合逻辑。except 是介词，不接句子；despite 也是介词。",
+          "concept": "连词辨析 — Conjunctions — unless vs if",
+          "zh": "除非我受到邀请，否则我不会去参加聚会。",
+          "answer": "2"
+        },
+        "2": {
+          "note": "belong to 后接人作宾语（属于某人），在此处引导名词性从句作介词短语宾语，且 who 在从句中作 to 的宾语。Regardless of who 意为“无论这玩具属于谁”。",
+          "concept": "宾语从句疑问代词 — Object Clauses — who with belong to",
+          "zh": "无论这个玩具属于谁，使用者都应该爱护它。",
+          "answer": "1"
+        },
+        "3": {
+          "note": "时间状语 later this afternoon（今天下午晚些时候）提示动作用于将来，现在进行时（be doing）可以用来表示按计划或安排即将发生的将来动作，故选 Are you going。",
+          "concept": "时态 — Tense — present continuous for future plan",
+          "zh": "今天下午晚些时候你要和家人一起去游乐场吗？",
+          "answer": "3"
+        },
+        "4": {
+          "note": "time（时间）是不可数名词，不能用 a large number of 修饰；根据因果关系“他钢琴弹得很好，因为他花了很多时间练习”，a great deal of 意为“大量的”，修饰不可数名词，最符合语境。",
+          "concept": "量词与名词修饰 — Quantifiers — a great deal of with uncountable nouns",
+          "zh": "他钢琴弹得很好，因为他花了大量的时间在上面练习。",
+          "answer": "3"
+        },
+        "5": {
+          "note": "时间状语 from morning till now（从早到今）是现在完成时的标志性时间跨度；主语是复数名词 they，根据语义“因为他们到现在还没有拿到票，所以开始变得不耐烦”，应选复数否定形式 have not。",
+          "concept": "时态 — Tense — present perfect tense with 'till now'",
+          "zh": "参观展览的游客们正变得不耐烦，因为他们从早上到现在还没有拿到门票。",
+          "answer": "4"
+        },
+        "6": {
+          "note": "be agreeable to 中的 to 是介词（表示对……赞同、接受），后面接动词时必须使用动名词形式（doing），故选 forming。",
+          "concept": "动名词 — Gerunds — be agreeable to doing something",
+          "zh": "学明同意和我们一起组队做科学项目。",
+          "answer": "4"
+        },
+        "7": {
+          "note": "Tom 是对他的姐姐（sister）说话，提议“Let's...（让我们……）”，这里的“我们”指代汤姆和他的姐姐两个人，因此对应的反身代词应为复数形式的 ourselves（我们自己），意思是把饼干留给自己俩人吃。",
+          "concept": "反身代词 — Reflexive Pronouns — ourselves",
+          "zh": "“既然他们还没来，让我们把所有的纸杯蛋糕都留给我们自己吧，”汤姆贪婪地对姐姐说。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "陈述部分 They'd have returned 是 They would have returned 的缩写，属于肯定句。反义疑问句的形式应为“否定助动词 + 主语代词”，因此对应 wouldn't they。",
+          "concept": "反义疑问句 — Tag Questions — modal/auxiliary verbs",
+          "zh": "即使没有人提醒，他们也会归还托盘的，不是吗？",
+          "answer": "4"
+        },
+        "9": {
+          "note": "advise against doing something 是固定搭配，意为“建议不要做某事、劝阻做某事”，against 具有反对的含义，符合医生劝病人不要吃太多甜食的语境。",
+          "concept": "固定搭配 — Prepositions — advise against doing something",
+          "zh": "医生建议病人不要吃太多高糖食物。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "这是一个与过去事实相反的虚拟条件句（Third Conditional）。原本的从句应为 If you had been...，将连词 if 省略后，助动词 had 须提前至句首构成部分倒装，即 Had you been...；主句谓语动词采用“would/should/could/might + have + 过去分词”结构，故选 Had...would have。",
+          "concept": "虚拟语气与倒装 — Conditional Sentences & Inversion — Type 3 with 'if' omission",
+          "zh": "如果你当初多一点耐心，这些问题就不会发生了。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The students checked the sports ________ in the hall carefully to make sure there was no damage before the PE lesson ended.",
+          "options": {
+            "1": "supplies",
+            "2": "materials",
+            "3": "equipment",
+            "4": "accessories"
+          }
+        },
+        "12": {
+          "stem_plain": "The firefighters were quickly ________ to the burning building to rescue the trapped residents.",
+          "options": {
+            "1": "deployed",
+            "2": "evacuated",
+            "3": "gathered",
+            "4": "allocated"
+          }
+        },
+        "13": {
+          "stem_plain": "Sarah ________ the invitation to the event because she needed to study for her exam on that day.",
+          "options": {
+            "1": "put off",
+            "2": "looked into",
+            "3": "turned down",
+            "4": "went along with"
+          }
+        },
+        "14": {
+          "stem_plain": "She ________ hid her friend's present so that it would be a surprise later.",
+          "options": {
+            "1": "carelessly",
+            "2": "deliberately",
+            "3": "accidentally",
+            "4": "inadvertently"
+          }
+        },
+        "15": {
+          "stem_plain": "The teacher reminded the class not to give ________ comments during the serious discussion.",
+          "options": {
+            "1": "complex",
+            "2": "frivolous",
+            "3": "essential",
+            "4": "insightful"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "学生们在体育课结束前仔细检查了礼堂里的体育器材，以确保没有损坏。",
+          "note": "‘sports equipment’是固定搭配，指大件或成套的体育器材、设备。",
+          "concept": "Vocabulary Collocation MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "supplies",
+              "zh": "生活用品，补给品",
+              "eg": "The team brought enough medical supplies for the wilderness expedition."
+            },
+            {
+              "opt": "2",
+              "word": "materials",
+              "zh": "材料，原料",
+              "eg": "Wood and bricks are common building materials used for houses."
+            },
+            {
+              "opt": "3",
+              "word": "equipment",
+              "zh": "设备，器材",
+              "eg": "The gym has modern fitness equipment for all its members."
+            },
+            {
+              "opt": "4",
+              "word": "accessories",
+              "zh": "配件，饰品",
+              "eg": "She bought some fashion accessories to match her new dress."
+            }
+          ]
+        },
+        "12": {
+          "zh": "消防员被迅速部署到失火的建筑中去营救被困的居民。",
+          "note": "‘deployed’指人员或军队的调动、部署，常用于紧急救援或军事行动。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "deployed",
+              "zh": "部署，调动",
+              "eg": "Additional police officers were deployed to control the crowd."
+            },
+            {
+              "opt": "2",
+              "word": "evacuated",
+              "zh": "疏散，撤离",
+              "eg": "Residents were evacuated from their homes due to the flood."
+            },
+            {
+              "opt": "3",
+              "word": "gathered",
+              "zh": "聚集，搜集",
+              "eg": "The students gathered in the courtyard for the morning assembly."
+            },
+            {
+              "opt": "4",
+              "word": "allocated",
+              "zh": "分配，拨给",
+              "eg": "The government allocated funds for the construction of the new school."
+            }
+          ]
+        },
+        "13": {
+          "zh": "莎拉拒绝了活动的邀请，因为她那天需要为考试复习。",
+          "note": "‘turned down’是短语动词，意思是拒绝（邀请、提议等）。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "put off",
+              "zh": "推迟，延期",
+              "eg": "The soccer match was put off because of the heavy rain."
+            },
+            {
+              "opt": "2",
+              "word": "looked into",
+              "zh": "调查，了解",
+              "eg": "The manager looked into the customer's complaint immediately."
+            },
+            {
+              "opt": "3",
+              "word": "turned down",
+              "zh": "拒绝",
+              "eg": "He turned down the job offer because the salary was too low."
+            },
+            {
+              "opt": "4",
+              "word": "went along with",
+              "zh": "赞同，跟随",
+              "eg": "She went along with her brother's suggestion to order pizza."
+            }
+          ]
+        },
+        "14": {
+          "zh": "她故意把朋友的礼物藏起来，好在晚些时候给对方一个惊喜。",
+          "note": "‘deliberately’意思是故意地、蓄意地，与后文“为了给人惊喜”的目的相符。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "carelessly",
+              "zh": "粗心地，马虎地",
+              "eg": "He carelessly left his wallet on the restaurant table."
+            },
+            {
+              "opt": "2",
+              "word": "deliberately",
+              "zh": "故意地，特意地",
+              "eg": "She deliberately kept the truth from him to protect his feelings."
+            },
+            {
+              "opt": "3",
+              "word": "accidentally",
+              "zh": "不小心地，意外地",
+              "eg": "I accidentally knocked over the vase while cleaning the room."
+            },
+            {
+              "opt": "4",
+              "word": "inadvertently",
+              "zh": "无意地，疏忽地",
+              "eg": "He inadvertently deleted the important file from his computer."
+            }
+          ]
+        },
+        "15": {
+          "zh": "老师提醒全班同学在严肃的讨论中不要发表轻浮的评论。",
+          "note": "‘frivolous’意思是轻浮的、毫无意义的，与“serious discussion（严肃的讨论）”形成反义对应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "complex",
+              "zh": "复杂的，错综的",
+              "eg": "The math problem was so complex that no one could solve it."
+            },
+            {
+              "opt": "2",
+              "word": "frivolous",
+              "zh": "轻浮的，无聊的",
+              "eg": "Please stop wasting money on frivolous things you do not need."
+            },
+            {
+              "opt": "3",
+              "word": "essential",
+              "zh": "必不可少的，核心的",
+              "eg": "Water is essential for the survival of all living things."
+            },
+            {
+              "opt": "4",
+              "word": "insightful",
+              "zh": "有见地的，深刻的",
+              "eg": "The book provides an insightful analysis of modern technology."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "beat the odds",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "excel",
+            "2": "gamble",
+            "3": "triumph",
+            "4": "survive"
+          }
+        },
+        "17": {
+          "stem_plain": "dodging",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "jumping",
+            "2": "avoiding",
+            "3": "charging",
+            "4": "escaping"
+          }
+        },
+        "18": {
+          "stem_plain": "discernment",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "wisdom",
+            "2": "courage",
+            "3": "judgement",
+            "4": "confidence"
+          }
+        },
+        "19": {
+          "stem_plain": "steadily",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rapidly",
+            "2": "instantly",
+            "3": "gradually",
+            "4": "eventually"
+          }
+        },
+        "20": {
+          "stem_plain": "dejected",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "worried",
+            "2": "exhausted",
+            "3": "discouraged",
+            "4": "disappointed"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "短语理解 — 战胜险阻/赢得胜利",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "excel",
+              "zh": "擅长；突出",
+              "eg": "She always strives to excel in her academic studies."
+            },
+            {
+              "opt": "2",
+              "word": "gamble",
+              "zh": "孤注一掷；博弈",
+              "eg": "Investing all your savings in one stock is a huge gamble."
+            },
+            {
+              "opt": "3",
+              "word": "triumph",
+              "zh": "战胜；获得成功",
+              "eg": "The team managed to triumph over their rivals in the finals."
+            },
+            {
+              "opt": "4",
+              "word": "survive",
+              "zh": "存活；幸存",
+              "eg": "Desert plants have unique features to survive in dry weather."
+            }
+          ]
+        },
+        "17": {
+          "note": "近义词替换 — 躲避/闪开",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "jumping",
+              "zh": "跳跃",
+              "eg": "The children were jumping up and down with absolute joy."
+            },
+            {
+              "opt": "2",
+              "word": "avoiding",
+              "zh": "躲避；避开",
+              "eg": "He drove carefully, avoiding the deep potholes on the road."
+            },
+            {
+              "opt": "3",
+              "word": "charging",
+              "zh": "冲锋；猛冲",
+              "eg": "The angry bull was charging directly toward the red gate."
+            },
+            {
+              "opt": "4",
+              "word": "escaping",
+              "zh": "逃跑",
+              "eg": "The thieves were caught while escaping from the back door."
+            }
+          ]
+        },
+        "18": {
+          "note": "词汇辨析 — 洞察力/判断力",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "wisdom",
+              "zh": "智慧",
+              "eg": "Grandfather shared his pieces of wisdom gained over the years."
+            },
+            {
+              "opt": "2",
+              "word": "courage",
+              "zh": "勇气",
+              "eg": "It takes a lot of courage to stand up and speak in public."
+            },
+            {
+              "opt": "3",
+              "word": "judgement",
+              "zh": "判断力；明智的选择",
+              "eg": "Trust your own judgement when making important decisions."
+            },
+            {
+              "opt": "4",
+              "word": "confidence",
+              "zh": "自信心",
+              "eg": "Practicing daily will boost your confidence before the exam."
+            }
+          ]
+        },
+        "19": {
+          "note": "近义词替换 — 逐步地/稳定地",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rapidly",
+              "zh": "迅速地",
+              "eg": "The technology sector is expanding rapidly all over the world."
+            },
+            {
+              "opt": "2",
+              "word": "instantly",
+              "zh": "立即；刹那间",
+              "eg": "The website loaded instantly after clicking the refresh button."
+            },
+            {
+              "opt": "3",
+              "word": "gradually",
+              "zh": "逐渐地；一步步地",
+              "eg": "The sky gradually cleared up after the heavy rain stopped."
+            },
+            {
+              "opt": "4",
+              "word": "eventually",
+              "zh": "最终",
+              "eg": "Keep working hard and you will eventually reach your goals."
+            }
+          ]
+        },
+        "20": {
+          "note": "近义词替换 — 沮丧的/气馁的",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "worried",
+              "zh": "担心的",
+              "eg": "She was worried about her brother who was late coming home."
+            },
+            {
+              "opt": "2",
+              "word": "exhausted",
+              "zh": "精疲力竭的",
+              "eg": "The marathon runners felt completely exhausted at the finish line."
+            },
+            {
+              "opt": "3",
+              "word": "discouraged",
+              "zh": "气馁的；沮丧的",
+              "eg": "Do not feel discouraged even if you fail the first attempt."
+            },
+            {
+              "opt": "4",
+              "word": "disappointed",
+              "zh": "失望的",
+              "eg": "He was disappointed that the concert was canceled last minute."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The match between Riverview and Crescent, the underdogs, kicked off with explosive energy as both teams fought fiercely. Within minutes, Crescent powered through, determined to [Q16 (beat the odds)]. However, Riverview's defence held firm, allowing them to maintain their winning streak. The crowd roared as Riverview's captain sprinted down the court, [Q17 (dodging)] two tackles before deciding to pass the ball to his teammate further in front instead of the teammate next to him. His [Q18 (discernment)] allowed Riverview to stay in the lead. Crescent responded with equal intensity, [Q19 (steadily)] narrowing the score midway through the game.",
+          "Nearing the end of the game, Crescent scored unexpectedly. Riverview's players were [Q20 (dejected)] but they refused to give up. Riverview pressed on in the final minutes but Crescent's discipline and teamwork secured a narrow but well-earned victory. It was a thrilling match indeed!"
+        ],
+        "zh": [
+          "Riverview 队与黑马 Crescent 队之间的比赛在一片火热的拼抢中拉开帷幕。几分钟内，Crescent 队奋力突围，决心[Q16 (打破不利局面/创造奇迹)]。然而，Riverview 队的防守坚固，使他们得以维持连胜势头。当 Riverview 队的队长在球场上疾跑，[Q17 (巧妙闪过)]了两次阻截，并决定将球传给更前方的队友，而不是身边的队友时，人群欢呼雀跃。他的[Q18 (敏锐判断)]让 Riverview 队保持领先。Crescent 队以同样的强度予以反击，在比赛中期[Q19 (稳步地)]缩小了比分差距。",
+          "接近比赛尾声时，Crescent 队意外得分。Riverview 队的队员们感到[Q20 (气馁/沮丧)]，但他们拒绝放弃。Riverview 队在最后几分钟发起了猛攻，但 Crescent 队凭借严明的纪律和团队协作，锁定了一场艰难但实至名归的胜利。这确实是一场惊心动魄的比赛！"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following statements is true about the workshop featured in Text 1?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Participants will create their terrariums in the outdoors.",
+            "2": "Participants will get to keep the terrariums they created.",
+            "3": "Participants need to make additional payments for the materials.",
+            "4": "Participants get to choose the type of soil to put into the glass jar."
+          }
+        },
+        "22": {
+          "stem_plain": "According to Text 1, terrariums would help students in Science because they learn ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to destress while creating a terrarium",
+            "2": "more about the water cycle in a terrarium",
+            "3": "how often they should water their terrarium",
+            "4": "how to make their terrarium special by decorating it"
+          }
+        },
+        "23": {
+          "stem_plain": "What does Ward's experiment in Text 2 with the sealed jars suggest about plant survival?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Plants grow better in open environments.",
+            "2": "Plants cannot grow without water from external sources.",
+            "3": "Plants only grow when a moth is sealed inside with them.",
+            "4": "Plants can live for years if conditions inside the container remain controlled."
+          }
+        },
+        "24": {
+          "stem_plain": "How did Ward's invention in Text 2 impact the world?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Plants are now protected from sea water.",
+            "2": "More plant species could grow within the cases.",
+            "3": "Plants grew better in the special wooden and glass cases.",
+            "4": "More plant species could now be transported to different countries."
+          }
+        },
+        "25": {
+          "stem_plain": "According to Text 2, 'terrariums continue to be enjoyed for science, creativity and decoration' today. Text 1 supports this piece of information in Text 2 by ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "listing all the materials required for the workshop",
+            "2": "listing reasons why making terrariums is a great hobby",
+            "3": "teaching participants how to keep their terrarium healthy",
+            "4": "showing how participants can sign up for the terrarium workshop"
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "工作坊海报中明确提到“you get to take home your amazing creation!”（你可以把你的精美作品带回家！）。因此选择选项2。",
+          "concept": "信息细节检索",
+          "answer": "2"
+        },
+        "22": {
+          "note": "海报在“Why Terrariums Are A Great Hobby!”一栏的第一个要点中写道：“Become a Mini-Scientist: Learn how water cycles in a sealed ecosystem.”，表明生态缸可以通过让学生学习水循环来帮助他们的科学课程。因此选择选项2。",
+          "concept": "特定细节定位",
+          "answer": "2"
+        },
+        "23": {
+          "note": "文本2第二段写道，华德（Ward）发现“plants could survive for a long time in a controlled environment”，甚至在一只密封的瓶子里存活了四年（sealed for four years）。这说明在受控环境中植物可以存活多年。因此选择选项4。",
+          "concept": "科学实验结论推断",
+          "answer": "4"
+        },
+        "24": {
+          "note": "文本2第三段详细阐述了华德发明的世界影响，提到他的生态箱让茶树可以从中国运到印度，橡胶种子从巴西运到锡兰，“enabling a wider variety of plant species to be traded around the world”（使更多种类的植物可以在全球进行贸易/跨国运输）。因此选择选项4。",
+          "concept": "因果关系与影响分析",
+          "answer": "4"
+        },
+        "25": {
+          "note": "文本2最后一句提到生态缸在今天依然因科学、创意和装饰作用而受到喜爱；文本1通过列举生态缸作为爱好的多项益处（例如成为小科学家、激发创意、作为绝佳装饰等）完美印证并支持了这一观点。因此选择选项2。",
+          "concept": "跨文本互证与论据关联",
+          "answer": "2"
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "动词短语搭配",
+          "note": "“splashed down”是固定动词短语，专门指航天器在水面着陆（溅落）。",
+          "answer": "D"
+        },
+        "27": {
+          "concept": "介词搭配",
+          "note": "“charred from...”意为“因……而焦黑”，表示受到2000摄氏度高温的影响导致外壳灼烧。",
+          "answer": "F"
+        },
+        "28": {
+          "concept": "连词引导时间状语从句",
+          "note": "“cheered as it floated...”中的as意为“当……时”或“随着”，表示在航天器稳定漂浮在海面上时，搜救团队发出了欢呼。",
+          "answer": "B"
+        },
+        "29": {
+          "concept": "副词修饰",
+          "note": "“even swam by”意为“甚至游了过去”，用副词even（甚至）来增添细节，表示连海豚也凑了过来。",
+          "answer": "E"
+        },
+        "30": {
+          "concept": "主谓一致（集体名词）与时态",
+          "note": "这里描述过去发生的动作，主语是“The crew of astronauts”。在此处语境中，船员们被分别“扶出舱外”，强调的是里面的具体成员个体，因此谓语动词用复数过去式were。",
+          "answer": "P"
+        },
+        "31": {
+          "concept": "定语从句关系代词",
+          "note": "“after which”是“介词 + 关系代词”结构，指的是在这项（救援和出舱）活动之后，他们将开始康复计划。",
+          "answer": "Q"
+        },
+        "32": {
+          "concept": "介词搭配",
+          "note": "在具体的月份前（如 June 2024），习惯用介词in。",
+          "answer": "J"
+        },
+        "33": {
+          "concept": "副词转折",
+          "note": "位于句首且用逗号隔开，表示与前句“本是一次短期任务”含义转折，故填However（然而）。",
+          "answer": "H"
+        },
+        "34": {
+          "concept": "代词主语",
+          "note": "此处需要填入主语代词指代上文提到的“four Nasa astronauts”，故用they（他们）。",
+          "answer": "M"
+        },
+        "35": {
+          "concept": "连词转折",
+          "note": "“exceeds the usual six-month stay but is not life-threatening” 意为“超过了通常的六个月停留期，但并无生命危险”，前后呈转折关系。",
+          "answer": "C"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "around",
+          "B": "as",
+          "C": "but",
+          "D": "down",
+          "E": "even",
+          "F": "from",
+          "G": "has",
+          "H": "however",
+          "J": "in",
+          "K": "on",
+          "L": "thereby",
+          "M": "they",
+          "N": "was",
+          "P": "were",
+          "Q": "which"
+        },
+        "cloze": [
+          "After an unexpected nine months in space, four Nasa astronauts finally returned to Earth on March 18, 2025. The SpaceX Crew Dragon spacecraft, carrying four astronauts, splashed [Q26] safely off the Florida coast. The spacecraft, named Freedom, was charred [Q27] the 2,000°C heat of re-entry but recovery teams cheered [Q28] it floated steadily on the waves. A pod of dolphins [Q29] swam by when rescue boats arrived.",
+          "The crew of astronauts [Q30] lifted onto a recovery boat and helped out of the capsule, after [Q31] they would then begin a 45-day rehabilitation programme.",
+          "The astronauts had originally flown to the International Space Station (ISS) [Q32] June 2024 on a short mission to test another spacecraft. [Q33], that spacecraft developed problems and was declared unsafe for the return trip. As a result, [Q34] remained on the ISS far longer than expected.",
+          "The astronauts stayed 286 days in space. This exceeds the usual six-month stay [Q35] is not life-threatening. Experts say the health risks are low, though the extension tested their resilience and drew worldwide sympathy."
+        ],
+        "zh": [
+          "在太空中度过了出人意料的九个月后，四名美国宇航局（NASA）的宇航员终于在2025年3月18日返回地球。搭载着四名宇航员的太空探索技术公司（SpaceX）载人龙飞船在佛罗里达州海岸附近安全溅落。这艘名为“自由号”的飞船因重返大气层时2000摄氏度的高温而变得焦黑，但当它稳定地漂浮在海浪上时，搜救团队欢呼起来。当救援船只到达时，甚至有一群海豚游了过去。",
+          "宇航员们被抬上搜救船并被扶出太空舱，随后他们将开始为期45天的康复计划。",
+          "这些宇航员最初于2024年6月飞往国际空间站（ISS），执行一项测试另一艘航天器的短期任务。然而，那艘航天器出现了问题，并被宣布在返回行程中不安全。结果，他们在国际空间站停留的时间远超预期。",
+          "宇航员在太空停留了286天。这超过了通常六个月的停留时间，但并无生命危险。专家表示，健康风险较低，尽管这次延期考验了他们的韧性并引发了全世界的同情。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "词形变化 (时态)",
+          "note": "此处为过去完成时结构“had just + 过去分词”，动词 completing 应改为过去分词形式 completed。",
+          "answer": "completed"
+        },
+        "37": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示医生“最初”说的话，应将语音拼写 eenishialy 纠正为副词 initially。",
+          "answer": "initially"
+        },
+        "38": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示胸部以下“瘫痪”，应将 pearelised 纠正为 paralysed（或 paralyzed）。",
+          "answer": "paralysed"
+        },
+        "39": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示消息令人“毁灭性的、震惊的”，应将 devestayting 纠正为 devastating。",
+          "answer": "devastating"
+        },
+        "40": {
+          "concept": "词性转换",
+          "note": "原句中形容词 eventual 应当改为副词形式 eventually，用以修饰后面的动词 completed。",
+          "answer": "eventually"
+        },
+        "41": {
+          "concept": "词形变化 (时态)",
+          "note": "时间状语为 Today，表示目前阶段客观且持续的事实状态，应将过去时 taught 改为一般现在时单三形式 teaches。",
+          "answer": "teaches"
+        },
+        "42": {
+          "concept": "词性转换",
+          "note": "此处在系动词 is 后面作表语，表示他很少抱怨/愤恨，应将动词 resent 改为形容词形式 resentful。",
+          "answer": "resentful"
+        },
+        "43": {
+          "concept": "词义连词误用",
+          "note": "语境逻辑错误，此处用于举例说明带来快乐的事物，应用介词 like 代替连词 so。",
+          "answer": "like"
+        },
+        "44": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示成为一名更具“同情心的/慈悲的”老师，应将 kompassionet 纠正为 compassionate。",
+          "answer": "compassionate"
+        },
+        "45": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处指他用他的“决心/坚毅”鼓励了很多人，应将名词 rizolv 纠正为 resolve。",
+          "answer": "resolve"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Ten years ago, Mr Wong Zi Heng fractured his neck in a diving accident, damaging his spinal cord. At that time, he had just [Q36(completing)] his first year at the National University of Singapore. Doctors [Q37(eenishialy)] said he might walk again after one or two years but his progress was slow. A few months later, he was told he would be [Q38(pearelised)] from the chest down for life.",
+          "Although the news was [Q39(devestayting)], Mr Wong was still hopeful and that helped him to carry on. He [Q40(eventual)] completed his physics degree and trained as a teacher. Today, he [Q41(taught)] Physics and Mathematics at a secondary school from his wheelchair.",
+          "Mr Wong says he is rarely [Q42(resent)]. He focuses on what he can control and chooses to spend his energy on things that still bring him joy, [Q43(so)] watching movies and meeting friends. His experience has made him a more [Q44(kompassionet)] teacher. Needless to say, he has encouraged many with his [Q45(rizolv)]. He believes life gains meaning from helping others and continues to serve actively in the community."
+        ],
+        "zh": [
+          "十年前，黄子恒先生在一次潜水事故中折断了脖子，导致脊髓受损。那时，他刚刚完成在新加坡国立大学的第一年学业。医生最初说他可能在一年或两年后重新行走，但防复进展缓慢。几个月后，他被告知他将终生胸部以下瘫痪。",
+          "尽管这个消息令人绝望，黄先生依然充满希望，这帮助他坚持了下去。他最终完成了他的物理学学位，并接受了教师培训。如今，他坐在轮椅上在一所中学教授物理和数学。",
+          "黄先生说他很少心存怨恨。他专注于自己能够控制的事情，并选择把精力投入到仍然能给他带来快乐的事情上，比如看电影和见朋友。他的经历使他成为了一名更具同情心的老师。不用说，他的坚毅鼓励了许多人。他相信生命的意义在于帮助他人，并继续积极地为社区服务。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "动词固定短语",
+          "note": "cope with 为固定短语，表示“应付/妥善处理”。此处指巴耶利峇旧机场无法再应对日益增长的航空交通量。",
+          "answer": "cope"
+        },
+        "47": {
+          "concept": "副词词义辨析",
+          "note": "The government therefore/thus decided... 意为政府“因此”决定新建一个机场，表示因果逻辑关系。",
+          "answer": "therefore"
+        },
+        "48": {
+          "concept": "动词短语与历史事实",
+          "note": "reclaimed land from the sea 意为“向大海填海造地”，此处为过去发生的历史事实，故动词用过去式 reclaimed。",
+          "answer": "reclaimed"
+        },
+        "49": {
+          "concept": "最高级与结构搭配",
+          "note": "one of the most modern airports 意为“最现代化的机场之一”，most 用于修饰多音节形容词 modern 构成最高级。",
+          "answer": "most"
+        },
+        "50": {
+          "concept": "介词固定搭配",
+          "note": "be well-known for... 为固定搭配，意为“以……而闻名”。",
+          "answer": "for"
+        },
+        "51": {
+          "concept": "介词表示时间范围",
+          "note": "Over the decades 意为“几十年来/经过这几十年”，常与现在完成时连用。",
+          "answer": "Over"
+        },
+        "52": {
+          "concept": "副词词义辨析",
+          "note": "It has since added... 意为“自那以后”它又增建了2号、3号和4号航站楼，用于修饰完成时的时间节点。",
+          "answer": "since"
+        },
+        "53": {
+          "concept": "动词词义辨析",
+          "note": "Changi Airport connects Singapore to... 意为樟宜机场将新加坡与世界各地的城市“连接”起来，主语为第三人称单数，故动词加 s。",
+          "answer": "connects"
+        },
+        "54": {
+          "concept": "连词固定搭配",
+          "note": "not only... but also... 为固定关联连词，意为“不仅……而且……”。",
+          "answer": "only"
+        },
+        "55": {
+          "concept": "名词词义辨析",
+          "note": "Its terminals feature attractions/amenities such as... 意为它的航站楼以蝴蝶园等“景点/设施/特色”为特征，复数名词呼应后面的复数举例。",
+          "answer": "attractions"
+        },
+        "56": {
+          "concept": "介词固定搭配",
+          "note": "linked to the airport 意为与机场“相连/连接”。",
+          "answer": "to"
+        },
+        "57": {
+          "concept": "名词词义辨析",
+          "note": "became an international sensation/attraction/landmark 意为迅速成为了一个国际“轰动事物/旅游景点/地标”。",
+          "answer": "sensation"
+        },
+        "58": {
+          "concept": "副词修饰语",
+          "note": "people who are not travelling 意为即使是“不”旅行的人，呼应前半句的星耀樟宜让机场成为了一个目的地（本地人也去消费）。",
+          "answer": "not"
+        },
+        "59": {
+          "concept": "最高级固定搭配",
+          "note": "ranked as one of the world's best airports 意为被评为世界上最好的机场“之一”。",
+          "answer": "one"
+        },
+        "60": {
+          "concept": "名词固定短语",
+          "note": "speak volumes for/about... 为固定习语，意为“充分证明/雄辩地说明”。主语为单数 Its growth，故用 speaks volumes。",
+          "answer": "volumes"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Changi Airport first opened in 1981. Its story started several years earlier when the old airport at Paya Lebar could no longer [Q46(cope)] with the growing air traffic. The government [Q47(therefore)] decided to build a brand-new airport at Changi, a former military airbase. They also [Q48(reclaimed)] land from the sea to create enough space for future expansion. When Terminal 1 officially opened, it was considered one of the [Q49(most)] modern airports in the region. It was well-known [Q50(for)] its efficiency and spacious design.",
+          "[Q51(Over)] the decades, Changi Airport has continued to grow. It has [Q52(since)] added Terminal 2, Terminal 3, and Terminal 4, each designed with improved technology and facilities. A major aviation hub, Changi Airport [Q53(connects)] Singapore to cities all around the world. Changi is famous not [Q54(only)] for smooth travel operations but also for offering unique experiences to travellers. Its terminals feature [Q55(attractions)] such as butterfly and cactus gardens and art installations.",
+          "In 2019, Changi introduced Jewel, a stunning lifestyle and retail mall linked [Q56(to)] the airport. Jewel's centrepiece, the Rain Vortex - the world's tallest indoor waterfall - quickly became an international [Q57(sensation)]. With shops, restaurants, and indoor forests, Jewel has made Changi a destination even for people who are [Q58(not)] travelling.",
+          "Since 2006, Changi Airport has been ranked as [Q59(one)] of the world's best airports every year. Its growth speaks [Q60(volumes)] Singapore's commitment to innovation and hospitality. Without a doubt, it continues to set global standards for what airports of the future can look like."
+        ],
+        "zh": [
+          "樟宜机场于1981年首次启用。它的故事始于几年前，当时巴耶利峇的旧机场已无法再应对日益增长的航空交通量。因此，政府决定在樟宜（前军事空军基地）建造一个全新的机场。他们还向大海填海造地，以为未来的扩建创造足够的空间。当1号航站楼正式启用时，它被认为是该地区最现代化的机场之一。它以高效和宽敞的设计而闻名。",
+          "几十年来，樟宜机场持续发展。自那以后，它又增建了2号、3号和4号航站楼，每个航站楼的设计都采用了改良的技术和设施。作为主要的航空枢纽，樟宜机场将新加坡与世界各地的城市连接起来。樟宜机场不仅以顺畅的旅游运作闻名，还为旅客提供独特的体验。它的航站楼以蝴蝶园、仙人掌花园和艺术装置等景点为特色。",
+          "2019年，樟宜机场推出了“星耀樟宜”（Jewel），这是一个与机场相连的令人赞叹的生活方式和零售购物中心。星耀樟宜的核心建筑——雨漩涡（Rain Vortex，世界上最高的室内瀑布）——迅速引起了国际轰动。凭借商店、餐厅和室内森林，星耀樟宜使樟宜机场甚至成为了不旅游的人的目的地。",
+          "自2006年以来，樟宜机场每年都被评为世界上最好的机场之一。它的成长雄辩地说明了新加坡对创新和款待的热忱。毫无疑问，它将继续为未来的机场形态树立全球标准。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "You can put away the toys since you do not want to wash the dishes.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... instead of ..."
+        },
+        "62": {
+          "stem_plain": "When Mark explained clearly, the team agreed to his proposal.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "... after his ..."
+        },
+        "63": {
+          "stem_plain": "The class was disappointed over their loss in the sports competition.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Much to"
+        },
+        "64": {
+          "stem_plain": "Sally asked Peter, \"Did you drive Grandma to the hospital yesterday?\"",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Sally asked"
+        },
+        "65": {
+          "stem_plain": "The choir wore blue uniforms for their performance at the concert hall.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Blue uniforms"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "介词短语表示替代关系 — instead of + 动名词",
+          "zh": "你可以把玩具收起来，而不是洗碗。",
+          "note": "改写要点：instead of 作为复合介词，后面应该接动名词形式 washing。前半句主谓保持完整：You can put away the toys instead of washing the dishes.",
+          "answer": "You can put away the toys instead of washing the dishes."
+        },
+        "62": {
+          "concept": "词性转换 — 副词+动词变形容词+名词 (explained clearly -> clear explanation)",
+          "zh": "在马克做出了清晰的解释后，团队同意了他的提议。",
+          "note": "改写要点：将 when 引导的从句转化为介词短语。在物主代词 his 后面，需要将动词 explained 与副词 clearly 转换为名词短语 clear explanation。全句调整为：The team agreed to Mark's proposal after his clear explanation.",
+          "answer": "The team agreed to Mark's proposal after his clear explanation."
+        },
+        "63": {
+          "concept": "固定句型与词性转换 — Much to one's + 抽象名词 (表示让某人感到...的是)",
+          "zh": "让全班同学对他们在体育比赛中的失利感到非常失望的是……",
+          "note": "改写要点：使用固定句型 Much to one's + 名词。将形容词 disappointed 转换为其名词形式 disappointment，所有格对应 the class's：Much to the class's disappointment, they lost in the sports competition.（或 Much to the class's disappointment over their loss in the sports competition, ...，通常简化主句表达为 Much to the class's disappointment, they lost in the sports competition. 或者是 Much to the class's disappointment, they were defeated... 针对原句语义最标准的转换是 Much to the class's disappointment, they suffered a loss in the sports competition. 另一符合语法且更直接的答案是 Much to the class's disappointment, they lost the sports competition.）",
+          "answer": "Much to the class's disappointment, they lost in the sports competition."
+        },
+        "64": {
+          "concept": "间接引语 — 一般疑问句的转述与时态/时间状语转换",
+          "zh": "萨莉问彼得前一天他是否开车送奶奶去医院了。",
+          "note": "改写要点：1. 一般疑问句的间接引语由 if 或 whether 引导，语序调整为陈述句语序；2. 一般过去时（did drive）向后推一个时态变为过去完成时（had driven）；3. 人称代词与时间状语转换：you -> he, yesterday -> the previous day 或 the day before。",
+          "answer": "Sally asked Peter if he had driven Grandma to the hospital the previous day."
+        },
+        "65": {
+          "concept": "语态转换 — 主动语态变被动语态",
+          "zh": "合唱团在音乐厅演出时穿着蓝色制服。",
+          "note": "改写要点：原句的宾语 Blue uniforms 提到句首作新主语，谓语动词 wore（一般过去时）转换为对应的被动语态形式 were worn。动作发出者用 by 引出：Blue uniforms were worn by the choir for their performance at the concert hall.",
+          "answer": "Blue uniforms were worn by the choir for their performance at the concert hall."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "Which three-word phrase from the first paragraph tells you that the students were excited about the national art competition? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "67": {
+          "stem_plain": "How did Jim show that he did not believe his artwork would be chosen? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "68": {
+          "stem_plain": "Which two details in lines 12 to 17 suggest that an accident was about to happen? [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "",
+              "question": "Detail 1: [Q68a]"
+            },
+            {
+              "stem_plain": "",
+              "question": "Detail 2: [Q68b]"
+            }
+          ]
+        },
+        "69": {
+          "stem_plain": "\"His instinct urged him to tell her at once. But another thought crept in.\" (Lines 19 and 20)",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "What was Jim's \"instinct\"? [1m]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "Why was Jim in a dilemma? [1m]"
+            }
+          ]
+        },
+        "70": {
+          "stem_plain": "Based on lines 12 to 29, state whether each statement in the table below is true or false, then give one reason why you think so. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Jim went to the art room to carry out his duty.",
+                "b) Jim went to look for his mother for advice."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q70a]",
+                "[Q70c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q70b]",
+                "[Q70d]"
+              ]
+            }
+          }
+        },
+        "71": {
+          "stem_plain": "In line 27, Jim's mother said, \"You should do the right thing even when no one is watching,\". Based on that, fill in the following table. [4m]",
+          "marks": 4,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "left_column",
+              "right_column"
+            ],
+            "left_column": {
+              "header": "",
+              "rows": [
+                "(a) How did Jim feel before this advice was given?",
+                "[Q71a]",
+                "(c) What value did she want him to learn?",
+                "[Q71c]"
+              ]
+            },
+            "right_column": {
+              "header": "",
+              "rows": [
+                "(b) Explain fully what Jim's mother's advice was.",
+                "[Q71b]",
+                "(d) How did Jim apply the value in (c)?",
+                "[Q71d]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "In lines 34 and 35, Jane furrowed her eyebrows, pursed her lips and hissed, \"Of course I would need your help! The deadline is next week.\" Based on this quote, complete the table below. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "janes_feeling",
+              "reason_for_feeling"
+            ],
+            "janes_feeling": {
+              "header": "Jane's feeling",
+              "rows": [
+                "[Q72a]"
+              ]
+            },
+            "reason_for_feeling": {
+              "header": "Reason for Jane's feeling",
+              "rows": [
+                "[Q72b]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word from the passage",
+              "rows": [
+                "something (line 30)",
+                "this (line 41)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refers to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Was Jim truly sorry in the passage? Support your answer with evidence from the passage. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "75": {
+          "stem_plain": "Explain clearly what Jim's 'victory' was in Line 43. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "Phrase Matching",
+          "note": "<ol><li><strong>题型：</strong>严格字数限定词组提取题——考查学生精确匹配首段中体现“兴奋（excited）”的三个单词短语的能力（1分）。</li><li><strong>得分点：</strong>必须是第一段行5中精准的三个单词：<span class='hl-good'>eyes lit up</span>。</li><li><strong>失分点：</strong>抄写不完整（如只写 lit up）或多抄单词导致字数超限。</li></ol>",
+          "type": "comprehension",
+          "answer": "eyes lit up"
+        },
+        "67": {
+          "concept": "Literal Retrieval",
+          "note": "<ol><li><strong>题型：</strong>细节事实提取题——考查通过人物的日常举动、说话方式提取其心理状态的客观表现（1分）。</li><li><strong>得分点：</strong>答出他是<span class='hl-good'>by saying it as a joke / he joked about it</span>（开着玩笑说出来的）。</li><li><strong>失分点：</strong>单纯照抄行9的整句台词而没有提炼出“通过开玩笑（joked）”来表现阻碍他不相信这一核心行为核心。</li></ol>",
+          "type": "comprehension",
+          "answer": "Jim joked about his piece being chosen even when he doubted it."
+        },
+        "68": {
+          "concept": "Multi-point Retrieval / Environmental Clues",
+          "note": "<ol><li><strong>题型：</strong>多要素事实提取题——限定在指定行数（行12-17）中找出暗示意外即将发生的两处物理环境/客观细节（2分）。</li><li><strong>Detail 1 得分点：</strong>指出有一个小孩手里拿着<span class='hl-good'>a cup of bright red paint filled to the brim</span>（一杯装得极满的鲜红颜料）。</li><li><strong>Detail 2 得分点：</strong>指出地板上到处乱扔着许多书包（<span class='hl-good'>there were many bags strewn on the floor</span>）。</li><li><strong>失分点：</strong>错写成意外发生时的结果动作（如小男孩没看路或摔倒被绊），题目要求的是发生“之前”的隐患暗示细节。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "68a": "A boy was near the shelf with a cup of bright red paint filled to the brim.",
+            "68b": "There were many bags strewn on the floor."
+          }
+        },
+        "69": {
+          "concept": "Inference and Dilemma Analysis",
+          "note": "<ol><li><strong>题型：</strong>双重心理/动机分析填空题——结合主旨考查对人物本能反应的还原以及利弊冲突心理（dilemma）的深度剖析（2分）。</li><li><strong>(a) 小题得分点：</strong>本能冲动是<span class='hl-good'>to tell Jane immediately that her artwork was ruined</span>。</li><li><strong>(b) 小题得分点：</strong>两难境地在于：如果他告诉珍，珍会很难过，且如果他不告诉珍，珍就没时间重画，这样<span class='hl-good'>his own chances of being selected would be higher</span>（他自己中选的概率就会提高）。</li><li><strong>失分点：</strong>(a)中仅写“tell her”而指代不明；(b)中无法准确提炼出利益与道德冲突核心。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "69a": "Jim's \"instinct\" was to tell Jane immediately that her artwork was ruined.",
+            "69b": "Jim knew that it was the right thing to do to tell Jane the truth but doing so would lower the chances of his artwork being selected."
+          }
+        },
+        "70": {
+          "concept": "True/False with Justification",
+          "note": "<ol><li><strong>题型：</strong>判断正误并说明理由题——考查对指定文本区域内特定事件起因与过程的核实判断能力（2分）。</li><li><li><strong>a) 小题：</strong><span class='hl-good'>True</span>。理由：文中第12-13行明确指出属于履行职责。</li><li><li><strong>b) 小题：</strong><span class='hl-good'>False</span>。理由：从第24-25行可以看出，他长了黑眼圈从而引起了母亲的主动询问，而不是他自己主动去找母亲寻求建议。</li><li><strong>失分点：</strong>判断错误则全题无分；b题如果误认为是吉姆主动去寻求谈话则理由不得分。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "70a": "True",
+            "70b": "Jim went to the art room to replenish the paintbrush trays, which was a duty assigned by Mrs. Ho.",
+            "70c": "False",
+            "70d": "At night, Jim could not sleep as he was guilty. His silence drew his mother's concern. When she asked what had happened, Jim confessed everything."
+          }
+        },
+        "71": {
+          "concept": "Core Value and Application Chart",
+          "note": "<ol><li><strong>题型：</strong>核心价值观及应用综合矩阵题——围绕母亲的经典谏言，从心理、内涵、核心价值观和行为表现四个部分进行全面考查（4分）。</li><li><li><strong>(a) 给出建议前吉姆的心理：</strong>感到内疚（<span class='hl-good'>guilty</span>）。</li><li><li><strong>(b) 深度解读母亲的建议：</strong>即在没人看管时也应当做正确的事，意思是希望他去向珍坦白。</li><li><li><strong>(c) 母亲希望他习得的价值观：</strong>高度概括为 <span class='hl-good'>integrity</span>（诚信、正直）。</li><li><li><strong>(d) 吉姆后续的具体践行表现：</strong>周一找到珍并告诉她画作被毁的真相。</li><li><strong>失分点：</strong>无法准确提炼核心词或表现提炼不全。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "Jim felt guilty.",
+            "71b": "Jim's mother's advice was to do the right thing when no one is watching, which means she wanted Jim to tell Jane about what had happened.",
+            "71c": "She wanted him to learn to have integrity.",
+            "71d": "On Monday, when Jim found Jane in the classroom, he told Jane about her artwork being ruined."
+          }
+        },
+        "72": {
+          "concept": "Emotion Analysis & Contextual Clues",
+          "note": "<ol><li><strong>题型：</strong>神态与对白心理推断题——通过刻画人物动作、语气的词汇判断其负面情绪并分析内在的核心原因（2分）。</li><li><strong>Jane's feeling 得分点：</strong>提炼出她感到 <span class='hl-good'>angry</span>（愤怒、生气）。</li><li><strong>Reason for feeling 得分点：</strong>指出她时间紧迫，并且对吉姆没有早点坦白真相而感到难过。</li><li><strong>失分点：</strong>原因部分漏掉了时间或没有扣住“未提早告知”的心理触点。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "angry",
+            "72b": "She had a tight deadline and was upset that Jim did not tell the truth earlier."
+          }
+        },
+        "73": {
+          "concept": "Contextual Referencing",
+          "note": "<ol><li><strong>题型：</strong>代词/不定代词指代还原题——精准返回上下文锁定特定名词或具体概念的完整指代（2分）。</li><li><strong>something (行 30)：</strong>指代 <span class='hl-good'>Jane's artwork was ruined</span>。</li><li><strong>this (行 41)：</strong>指代 <span class='hl-good'>Jane's artwork being chosen</span>。</li><li><strong>失分点：</strong>还原范围不精确或概念过于抽象宽泛。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "Jane's artwork was ruined",
+            "73b": "Jane's artwork being chosen"
+          }
+        },
+        "74": {
+          "concept": "Character Intention and Textual Evidence",
+          "note": "<ol><li><strong>题型：</strong>人物诚意判定与证据支撑题——要求先做出明确事实表态，再搜集能够佐证其“真心感到抱歉”的行为、心理或言语事实（2分）。</li><li><strong>得分点：</strong>必须答出 <span class='hl-good'>Yes</span>。证据应当涵盖他协助拿材料、清洗画笔和提供创意的实际弥补举动。</li><li><strong>失分点：</strong>只有判定没有证据，或者提取的证据与原样答案不符。</li></ol>",
+          "type": "comprehension",
+          "answer": "Yes, he was. Jim supported Jane by fetching materials, cleaning a brush and offering ideas when she recreated her artwork."
+        },
+        "75": {
+          "concept": "Deep Meta-meaning Interpretation",
+          "note": "<ol><li><strong>题型：</strong>主旨升华结语深度剖析题——考查对文章最后一句核心隐喻“胜利（victory）”的道德内涵转化能力（2分）。</li><li><strong>得分点：</strong>清晰说明即便意味着自己胜率降低也选择向珍坦白真相这一正直之举。</li><li><strong>失分点：</strong>单纯停留在字面翻译，或误写成他觉得和珍的关系重归于好就是胜利。</li></ol>",
+          "type": "comprehension",
+          "answer": "Jim's victory was telling Jane the truth even when it meant that his art piece would have a lower chance of being selected."
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Jim and Jane were best friends who loved art. As active members of the school's art",
+          "2": "club, they spent many afternoons in the cool, paint-scented art room. Last week, Mrs Ho,",
+          "3": "the teacher-in-charge, announced a national art competition. Each member had to submit",
+          "4": "an artwork representing Singapore and only the best two would advance to the grand",
+          "5": "finals. Whispers rose and fell across the room as eyes lit up at the announcement.",
+          "6": "Jim and Jane began working on their entries immediately. \"This could be our chance,",
+          "7": "Jim!\" Jane said as she blended blues into her Marina Bay skyline. Jim focused on painting",
+          "8": "the Singapore Botanic Gardens, carefully layering greens and capturing the lake's",
+          "9": "shimmer. \"Maybe my piece will be chosen,\" he joked, though he doubted it. After days of",
+          "10": "effort, they finally placed their completed artwork onto the long wooden drying shelf along",
+          "11": "the wall.",
+          "12": "The next day, other students entered the art room for their lesson. Jim stepped in to",
+          "13": "replenish the paintbrush trays, as assigned by Mrs Ho. He noticed a small boy near the",
+          "14": "shelf with a cup of bright red paint filled to the brim. To make things worse, there were",
+          "15": "many bags strewn on the floor. Not looking at where he was going, the boy stumbled over",
+          "16": "a bag and lost his grip on the cup. Half of Jane's artwork was covered with red paint.",
+          "17": "Thinking that no one had noticed, the boy slipped back to his seat quietly.",
+          "18": "Jim froze. Red streaks bled across Jane's carefully blended skyline. His heart sank.",
+          "19": "Jane would be devastated. His instinct urged him to tell her at once. But another thought",
+          "20": "crept in. If I don't tell her about this, she won't have time to redo it. My chances of being",
+          "21": "selected will be higher. No one knows I saw what had happened. Should I tell her? A tight",
+          "22": "knot formed in his stomach as he walked out of the art room.",
+          "23": "That night, he tossed and turned, unable to sleep. Every time he closed his eyes, he",
+          "24": "saw the bright red paint splashed across Jane's work. By Saturday, the dark circles",
+          "25": "beneath his eyes drew his mother's concern. \"Jim, what's wrong?\" she asked. Trembling,",
+          "26": "he confessed everything — the accident, his silence, and his guilt. His mother listened",
+          "27": "quietly. \"You should do the right thing even when no one is watching,\" she said gently.",
+          "28": "\"That's when it matters most.\" Jim nodded. He knew that he should do the right thing so",
+          "29": "that Jane would have a fair chance of having her artwork selected.",
+          "30": "On Monday, he found Jane in the classroom. \"Jane... I need to tell you something,\"",
+          "31": "he said, his voice shaking. He explained everything honestly. Jane's face fell. \"My",
+          "32": "artwork... ruined?\" she whispered. \"I'm so sorry,\" Jim said. \"I should have told you",
+          "33": "immediately last week. You don't have much time left, but please let me know how I can",
+          "34": "help.\" Jane furrowed her eyebrows, pursed her lips and hissed, \"Of course, I will need your",
+          "35": "help! The deadline is next week!\"",
+          "36": "Over the next few afternoons, Jane worked hard to recreate her Marina Bay skyline.",
+          "37": "Jim supported her, fetching materials, preparing colours, cleaning brushes, and offering",
+          "38": "ideas when she paused. The final piece was brighter and more expressive than the",
+          "39": "original.",
+          "40": "During the selection, Jane's artwork was chosen. Jim's was not. She smiled warmly",
+          "41": "at Jim, \"I couldn't have achieved this without you. Thank you.\" Her words lifted the weight",
+          "42": "on his heart. That evening, when Jim told his mother the outcome, she hugged him. \"I'm",
+          "43": "proud of you,\" she said. Jim smiled, knowing that his victory was not won on the canvas",
+          "44": "but in the choice he had made."
+        },
+        "paragraphs": {
+          "1": "吉姆和珍是热爱艺术的好朋友。作为学校美术社团的活跃成员，他们许多个下午都在凉爽、充满颜料气味的美术室里度过。上周，负责老师何老师宣布了一项全国艺术比赛。每个成员都必须提交一件代表新加坡的艺术作品，且只有最优秀的两件作品才能晋级总决赛。随着这一宣布，房间里响起了起伏的窃窃私语声，大家眼里都闪烁着兴奋的光芒。",
+          "6": "吉姆和珍立刻开始创作他们的参赛作品。“吉姆，这可能是我们的机会！”珍一边说，一边将蓝色调融入到她的滨海湾天际线画作中。吉姆则专注于绘制新加坡植物园，仔细地层层渲染绿色并捕捉湖水的闪烁微光。“也许我的作品会被选中，”他开玩笑说，尽管他自己也有些怀疑。经过几天的努力，他们终于将完成的艺术作品放在沿墙的长木质烘干架上。",
+          "12": "第二天，其他学生进入美术室上课。吉姆按照何老师的分配，走进去补充画笔托盘。他注意到架子附近有一个小男孩，手里拿着一杯装得满满的鲜红色颜料。更糟糕的是，地板上到处乱扔着许多书包。那个男孩没看自己走的路，被一个包绊了一下，手里的杯子脱手了。珍的一半画作被红颜料覆盖了。那个男孩以为没有人注意到，便悄悄溜回了自己的座位。",
+          "18": "吉姆僵住了。红色的条纹在珍精心晕染的天际线上蔓延开来。他的心沉了下去。珍一定会崩溃的。他的本能促使他立刻告诉她。但另一个念头悄悄爬了进来：如果我不告诉她这件事，她就没有时间重画了。那我被选中的机会就会更高。没有人知道我看到了发生的一切。我该告诉她吗？当他走出美术室时，他的胃里一阵痉挛（感到非常紧张和纠结）。",
+          "23": "那天晚上，他在床上翻来覆去，无法入睡。每当他闭上眼睛，就会看到鲜红色的颜料泼在珍的作品上。到了周六，他眼下的黑眼圈引起了他母亲的关注。“吉姆，怎么了？”她问。他颤抖着坦白了一切——那场意外、他的沉默以及他的内疚。他的母亲静静地听着。“即使没有人看着，你也应该做正确的事，”她温柔地说。“那才是最重要的时候。”吉姆点了点头。他知道自己应该做正确的事，这样珍才能有一个公平的机会让她的艺术作品参与评选。",
+          "30": "周一，他在教室里找到了珍。“珍……我有件事需要告诉你，”他说，声音有些颤抖。他坦白地解释了一切。珍的脸色沉了下去。“我的作品……毁了？”她低声说。“非常抱歉，”吉姆说。“我上周应该立刻告诉你的。你剩下的时间不多了，但请让我知道我能怎么帮上忙。”珍皱起眉头，抿起嘴唇，低声怒斥道：“我当然需要你的帮忙！截止日期就是下周！”",
+          "36": "在接下来的几个下午里，珍努力重新创作她的滨海湾天际线。吉姆支持着她，帮她拿材料、准备颜色、清洗画笔，并在她停顿下来时提供创意。最终的作品比原作更明亮、更有表现力。",
+          "40": "在评选期间，珍的作品被选中了。吉姆的没有。她对吉姆温暖地微笑说：“如果没有你，我无法取得这个成就。谢谢你。”她的这番话让他如释重负。那天晚上，当吉姆把结果告诉母亲时，母亲拥抱了他。“我为你感到骄傲，”她说。吉姆笑了，他知道他的胜利并不是赢在画布上，而是赢在他所做出的选择上。"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

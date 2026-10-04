@@ -1,0 +1,1580 @@
+{
+  "paperid": "p6_english_2021_sa2_redswastika",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The woman was arrested and charged _________ not wearing her mask while she was at a shopping mall.",
+          "options": {
+            "1": "at",
+            "2": "of",
+            "3": "with",
+            "4": "about"
+          }
+        },
+        "2": {
+          "stem_plain": "I _________ the meeting if I had not overslept.",
+          "options": {
+            "1": "attend",
+            "2": "will attend",
+            "3": "would attend",
+            "4": "would have attended"
+          }
+        },
+        "3": {
+          "stem_plain": "The deer hid amongst the woods to protect _________ from their enemies.",
+          "options": {
+            "1": "it",
+            "2": "itself",
+            "3": "them",
+            "4": "themselves"
+          }
+        },
+        "4": {
+          "stem_plain": "Having _________ patience, Jim was unwilling to wait for his friend.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "5": {
+          "stem_plain": "I _________ to bring my wallet. May I borrow some money from you?",
+          "options": {
+            "1": "forget",
+            "2": "will forget",
+            "3": "had forgotten",
+            "4": "have forgotten"
+          }
+        },
+        "6": {
+          "stem_plain": "Mr Tan hardly ever goes for any wedding parties, _________?",
+          "options": {
+            "1": "has he",
+            "2": "had he",
+            "3": "does he",
+            "4": "would he"
+          }
+        },
+        "7": {
+          "stem_plain": "I was looking forward to _________ the movie, 'Fast 9' as it had won many awards.",
+          "options": {
+            "1": "watch",
+            "2": "watches",
+            "3": "watched",
+            "4": "watching"
+          }
+        },
+        "8": {
+          "stem_plain": "Emily's anxiety _________ growing by the minute as the results will be announced anytime soon.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "9": {
+          "stem_plain": "_________ regard to this matter, we will have to consult the principal.",
+          "options": {
+            "1": "On",
+            "2": "With",
+            "3": "From",
+            "4": "Through"
+          }
+        },
+        "10": {
+          "stem_plain": "No sooner had I eaten the fish _________ I started feeling sick.",
+          "options": {
+            "1": "when",
+            "2": "than",
+            "3": "and",
+            "4": "but"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "介词 — Preposition — charged with",
+          "zh": "那名女子因未戴口罩而被逮捕并指控。",
+          "note": "charge with 表“因……被指控”；with 引出罪名或行为。陈述句，一般过去被动。",
+          "answer": "3"
+        },
+        "2": {
+          "concept": "虚拟语气 — Third conditional",
+          "zh": "要是我没睡过头，本来会去开会的。",
+          "note": "第三类条件句 (Third conditional)：与过去事实相反，主句 would have + 过去分词。",
+          "answer": "4"
+        },
+        "3": {
+          "concept": "代词 — Reflexive pronoun — itself",
+          "zh": "鹿躲进树林以保护自己免受敌人伤害。",
+          "note": "反身代词：主语单数用 itself。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "量词 — Quantifier — little + uncountable",
+          "zh": "吉姆没什么耐心，不愿等朋友。",
+          "note": "little + 不可数名词；few + 可数复数。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "现在完成时 — Present perfect — have forgotten",
+          "zh": "我忘了带钱包，能借点钱吗？",
+          "note": "现在完成时表示对现在的影响。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "反意疑问句 — Question tag — hardly ever",
+          "zh": "谭先生几乎不参加婚礼，不是吗？",
+          "note": "hardly 含否定义，附加问句用否定形式 does he。",
+          "answer": "3"
+        },
+        "7": {
+          "concept": "动名词 — Gerund after look forward to",
+          "zh": "我一直盼着看《速度与激情9》。",
+          "note": "look forward to 后接动名词，不接动词原形。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "现在进行时 — Present continuous — growing",
+          "zh": "埃米丽的焦虑此刻正一分钟一分钟加剧。",
+          "note": "现在进行时表正在发生；主语 anxiety 为单数。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "介词 — Preposition — With regard to",
+          "zh": "关于此事，我们得请示校长。",
+          "note": "固定搭配 with regard to = 关于。",
+          "answer": "2"
+        },
+        "10": {
+          "concept": "固定句型 — Correlative — No sooner … than",
+          "zh": "我刚吃完鱼就开始不舒服。",
+          "note": "No sooner … than 固定搭配，不用 when。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Kelly _________ her essay carefully before submitting it for the competition.",
+          "options": {
+            "1": "criticised",
+            "2": "penalised",
+            "3": "visualised",
+            "4": "scrutinised"
+          }
+        },
+        "12": {
+          "stem_plain": "I was _________ to know that no one offered to help the man who had fainted at the bus stop.",
+          "options": {
+            "1": "appalled",
+            "2": "awestruck",
+            "3": "disordered",
+            "4": "disoriented"
+          }
+        },
+        "13": {
+          "stem_plain": "Mr Lim's _________ as a manager of a shop is to ensure that his customers keep a safe distance from one another.",
+          "options": {
+            "1": "preference",
+            "2": "emphasis",
+            "3": "fulfillment",
+            "4": "priority"
+          }
+        },
+        "14": {
+          "stem_plain": "Steward started to laugh _________. It took every ounce of his willpower to stop himself from falling off the chair.",
+          "options": {
+            "1": "nonchalantly",
+            "2": "hysterically",
+            "3": "agitatedly",
+            "4": "casually"
+          }
+        },
+        "15": {
+          "stem_plain": "It was a pity that you had to _________ the chance to go to Japan for the sports meet.",
+          "options": {
+            "1": "pass up",
+            "2": "pass out",
+            "3": "pass over",
+            "4": "pass down"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "凯莉在参赛前仔细检查了作文。",
+          "note": "选（4）scrutinised：仔细检查。其余三项语义不合“交稿前细改”。",
+          "concept": "词汇辨析 — scrutinised（仔细检查）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "criticised",
+              "zh": "批评",
+              "eg": "He <strong>criticised</strong> the plan in public."
+            },
+            {
+              "opt": "2",
+              "word": "penalised",
+              "zh": "处罚",
+              "eg": "The team was <strong>penalised</strong> for the foul."
+            },
+            {
+              "opt": "3",
+              "word": "visualised",
+              "zh": "想象；可视化",
+              "eg": "She <strong>visualised</strong> success before the race."
+            },
+            {
+              "opt": "4",
+              "word": "scrutinised",
+              "zh": "仔细检查",
+              "eg": "Kelly <strong>scrutinised</strong> her essay before submitting it."
+            }
+          ]
+        },
+        "12": {
+          "zh": "得知无人帮助晕倒者，我十分震惊。",
+          "note": "选（1）appalled：对冷漠感到震惊。",
+          "concept": "词汇辨析 — appalled（震惊；骇然）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "appalled",
+              "zh": "震惊的，骇然的（形容词，指因看到、听到极其恶劣、残酷或不道德的事情而感到极其震惊、反感或恐惧）",
+              "eg": "I was utterly appalled by the shocking news of the cruel treatment of innocent stray animals in the neighborhood."
+            },
+            {
+              "opt": "2",
+              "word": "awestruck",
+              "zh": "充满敬畏的，惊叹的（形容词，指面对宏伟的自然景观、卓越的成就或神圣力量时，内心深受震撼并充满由衷的赞叹）",
+              "eg": "We stood completely awestruck at the mountain summit as the spectacular sunrise painted the entire valley in golden light."
+            },
+            {
+              "opt": "3",
+              "word": "disordered",
+              "zh": "混乱的，杂乱无章的（形容词，主要用来形容房间、物品、系统或计划因缺乏组织和管理而处于无序、凌乱的状态）",
+              "eg": "His study room was so disordered that it took him nearly an hour to locate his science worksheet under the pile of books."
+            },
+            {
+              "opt": "4",
+              "word": "disoriented",
+              "zh": "迷失方向的，神志不清的（形容词，指由于头部受到撞击、猛烈旋转、疾病或陌生环境而导致一时间分不清上下左右或东南西北）",
+              "eg": "After the dizzying amusement park ride came to a sudden stop, I felt completely disoriented and had to sit down on a bench."
+            }
+          ]
+        },
+        "13": {
+          "zh": "林先生的首要职责是确保顾客保持安全距离。",
+          "note": "选（4）priority：首要任务。",
+          "concept": "词汇辨析 — priority（优先事项）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "preference",
+              "zh": "偏好，偏爱（名词，指在众多选择中，心理上更倾向于或更喜欢某一个人、某一种事物或某一种方式）",
+              "eg": "My personal preference is drinking hot green tea in the morning, rather than starting the day with strong coffee."
+            },
+            {
+              "opt": "2",
+              "word": "emphasis",
+              "zh": "强调，重点（名词，指对某一个想法、词语、规则或事物给予特殊的关注、语气或重要性，使其更显眼）",
+              "eg": "The camp instructor put a strong emphasis on water safety before allowing the pupils to launch their kayaks into the river."
+            },
+            {
+              "opt": "3",
+              "word": "fulfillment",
+              "zh": "履行，实现，满足（名词，指完成某项职责、实现某个愿望、计划，或商家完成订单的配货与交付过程）",
+              "eg": "The online retailer guarantees that order fulfillment takes only two days, ensuring customers receive packages promptly."
+            },
+            {
+              "opt": "4",
+              "word": "priority",
+              "zh": "优先事项，当务之急（名词，指在诸多需要处理的事情中，被认为最重要、最紧急且必须首先予以解决的任务）",
+              "eg": "Safety is our top priority during this rugged outdoor leadership camp, and no dangerous behavior will be condoned."
+            }
+          ]
+        },
+        "14": {
+          "zh": "斯图尔特 hysterically 大笑，差点从椅子上摔下来。",
+          "note": "选（2）hysterically：狂笑。",
+          "concept": "词汇辨析 — hysterically（歇斯底里地；狂笑地）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "nonchalantly",
+              "zh": "若无其事地，冷淡地（副词，指表现得漠不关心、不感兴趣，或在紧张的局面下显得格外冷静、无动于衷）",
+              "eg": "He shrugged nonchalantly when told that the meeting was postponed, as if the delay did not matter to him at all."
+            },
+            {
+              "opt": "2",
+              "word": "hysterically",
+              "zh": "歇斯底里地，情绪狂乱地；狂笑地（副词，指由于极度恐惧、愤怒、悲伤而情绪完全失控地大喊大哭，或指不受控制地疯狂大笑）",
+              "eg": "They laughed hysterically at the comedian's hilarious joke, with many in the audience unable to stop wiping away tears."
+            },
+            {
+              "opt": "3",
+              "word": "agitatedly",
+              "zh": "激动地，焦虑不安地（副词，指因为内心感到极度担忧、愤怒、紧张或恐慌，导致说话或举止显得十分急躁和不安）",
+              "eg": "She spoke agitatedly over the telephone, describing the suspicious intruder who had been loitering near her backyard."
+            },
+            {
+              "opt": "4",
+              "word": "casually",
+              "zh": "随意地，非正式地（副词，指做事情没有刻意计划、态度轻松，或指穿着打扮十分休闲、不拘泥于正式礼节）",
+              "eg": "He dressed casually for the weekend barbecue party, choosing a comfortable plain t-shirt and cotton shorts."
+            }
+          ]
+        },
+        "15": {
+          "zh": "可惜你不得不放弃去日本参加运动会的机会。",
+          "note": "选（1）pass up：放弃机会。",
+          "concept": "词汇辨析 — pass up（放弃（机会））",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pass up",
+              "zh": "放弃，错过（机会）（短语动词，指拒绝、未能接受或主动放弃某个极具吸引力的机会、提议或好运）",
+              "eg": "You should not <strong>pass up</strong> this rare chance to study abroad on a fully-funded academic scholarship."
+            },
+            {
+              "opt": "2",
+              "word": "pass out",
+              "zh": "昏倒，失去知觉；分发（短语动词，指由于酷热、脱水或生病而突然晕厥，或指将物品挨个分发给众人）",
+              "eg": "The exhausted marathon runner nearly <strong>passed out</strong> from the sweltering heat just before crossing the finish line."
+            },
+            {
+              "opt": "3",
+              "word": "pass over",
+              "zh": "跳过，忽视，不予理会；（职位升迁）越过某人（短语动词，指在检查时忽略掉某项细节，或在晋升时故意绕开资深员工）",
+              "eg": "She accidentally <strong>passed over</strong> the small detail in the business contract, leading to a minor misunderstanding later."
+            },
+            {
+              "opt": "4",
+              "word": "pass down",
+              "zh": "传下去，一代代传下来（短语动词，指将知识、传统、故事、技艺或财产由长辈传给年轻一代）",
+              "eg": "These ancient cultural stories were <strong>passed down</strong> through oral traditions from one generation to the next."
+            }
+          ],
+          "image": "a15.jpeg"
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "unmoved",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "calm",
+            "2": "stationery",
+            "3": "indifferent",
+            "4": "motionless"
+          }
+        },
+        "17": {
+          "stem_plain": "heart-wrenching",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "tense",
+            "2": "alarming",
+            "3": "upsetting",
+            "4": "offensive"
+          }
+        },
+        "18": {
+          "stem_plain": "studied",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "watched",
+            "2": "detected",
+            "3": "magnified",
+            "4": "monitored"
+          }
+        },
+        "19": {
+          "stem_plain": "Immediately",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Presently",
+            "2": "Concurrently",
+            "3": "Subsequently",
+            "4": "Instantaneously"
+          }
+        },
+        "20": {
+          "stem_plain": "music to the blind man's ear",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "pleasant news",
+            "2": "shocking news",
+            "3": "satisfying news",
+            "4": "unbelievable news"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — unmoved（冷漠的；漠不关心的）",
+          "note": "形容词 unmoved 在此处意为内心毫无触动、冷漠。在社交神态的考查语境中，它直接对应高频形容词 indifferent（冷漠的，漠不关心的，不在乎的）。",
+          "zh": "路人冷漠无动于衷，令人心酸。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "calm",
+              "zh": "冷静的，平静的",
+              "eg": "The experienced supervisor remained calm and handled the technical emergency smoothly."
+            },
+            {
+              "opt": "2",
+              "word": "stationery",
+              "zh": "文具（名词，干扰项，注意与 stationary 区分）",
+              "eg": "The primary school bookstore supplies a wide variety of fresh school stationery for pupils."
+            },
+            {
+              "opt": "3",
+              "word": "indifferent",
+              "zh": "冷漠的，漠不关心的，不在乎的",
+              "eg": "Many pedestrians walked past the old beggar, appearing completely indifferent to his plea."
+            },
+            {
+              "opt": "4",
+              "word": "motionless",
+              "zh": "静止不动的，一动不动的",
+              "eg": "The stray cat stayed perfectly motionless in the bushes, waiting for the little mouse."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — heart-wrenching（令人难过的）",
+          "note": "形容词 heart-wrenching 意为极其揪心的、令人心碎难过的。在情绪与场景描写的命题逻辑中，直接对应同义词 upsetting（令人心烦意乱的，令人难过的）。",
+          "zh": "看着这一幕令人难过。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tense",
+              "zh": "紧张的，紧绷的",
+              "eg": "The atmosphere inside the meeting room grew extremely tense when nobody knew the answer."
+            },
+            {
+              "opt": "2",
+              "word": "alarming",
+              "zh": "令人警觉的，令人担忧的，惊人的",
+              "eg": "The report indicated an alarming increase in environmental pollution across the region."
+            },
+            {
+              "opt": "3",
+              "word": "upsetting",
+              "zh": "令人难过的，令人心烦意乱的",
+              "eg": "Hearing the unexpected news about the historic old cinema closure was very upsetting."
+            },
+            {
+              "opt": "4",
+              "word": "offensive",
+              "zh": "冒犯的，无礼的，触怒人的",
+              "eg": "The newly appointed assistant was reminded that making such an offensive remark was wrong."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — studied（观看；观察）",
+          "note": "动词 studied 在文学描写语境下常作为熟词生义，意为端详、凝视、仔细观察。这与常规及物动词 watched（观看，观察）在动作表意上最为契合。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "watched",
+              "zh": "观看，观察，注视",
+              "eg": "The young writer stood near the gate and closely watched the behavior of the crowd."
+            },
+            {
+              "opt": "2",
+              "word": "detected",
+              "zh": "察觉，检测到，发现",
+              "eg": "The laboratory instruments successfully detected a tiny variation in the chemical process."
+            },
+            {
+              "opt": "3",
+              "word": "magnified",
+              "zh": "放大，夸大（作过去分词/动词过去式）",
+              "eg": "The powerful lens magnified the structure of the leaf, revealing its intricate design."
+            },
+            {
+              "opt": "4",
+              "word": "monitored",
+              "zh": "监测，监视，跟踪观察",
+              "eg": "The engineering team thoroughly monitored the server performance throughout the day."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — Immediately（立刻；瞬间）",
+          "note": "副词 Immediately 意为立即、立刻。副词 Instantaneously 意为瞬间地、同时立刻发生地，两者在修饰动作发出的迅速程度上属于高级同义对标。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Presently",
+              "zh": "不久，一会儿（多指未来）；目前（作副词）",
+              "eg": "The principal completed his workshop presentation and will join our dinner group presently."
+            },
+            {
+              "opt": "2",
+              "word": "Concurrently",
+              "zh": "同时地，并行地（指两个或多个事件同时运作发生）",
+              "eg": "The two sports events ran concurrently, making it difficult for fans to watch both."
+            },
+            {
+              "opt": "3",
+              "word": "Subsequently",
+              "zh": "随后，接着，后来",
+              "eg": "The travelers gathered their bags and subsequently boarded the morning train to the town."
+            },
+            {
+              "opt": "4",
+              "word": "Instantaneously",
+              "zh": "立刻，瞬间，即刻",
+              "eg": "As soon as he pressed the emergency switch, the entire program shut down instantaneously."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — music to the blind man's ear（悦耳佳音/好消息）",
+          "note": "固定习语 music to one's ears 比喻“听到让人非常高兴的完美佳音或好消息”。在此语境下，硬币声让盲人欣慰，等同于短语 pleasant news（令人愉悦的好消息）。",
+          "zh": "硬币叮当作响对盲人来说好比悦耳佳音。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pleasant news",
+              "zh": "令人愉悦的好消息",
+              "eg": "Hearing that all pupils secured high grades in the exam layout was pleasant news."
+            },
+            {
+              "opt": "2",
+              "word": "shocking news",
+              "zh": "令人震惊的消息",
+              "eg": "The local residents were stunned after receiving the shocking news of the sudden flood."
+            },
+            {
+              "opt": "3",
+              "word": "satisfying news",
+              "zh": "令人满足的消息",
+              "eg": "The developer reported that their site achieved total success, which was satisfying news."
+            },
+            {
+              "opt": "4",
+              "word": "unbelievable news",
+              "zh": "难以置信的消息",
+              "eg": "It was unbelievable news when the small team defeated the professional champions."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "An old, blind man was begging for money along a busy street. On a cardboard sign, next to an empty tin cup, it read: 'Blind – Please help'. The cup remained empty for the next two hours. The passers-by were [Q16 (unmoved)] and it was [Q17 (heart-wrenching)] to watch.",
+          "A young writer seated at a café nearby [Q18 (studied)] the scene. Without a word, she walked towards the man and turned the cardboard sheet back-to-front. Quickly, she rewrote the sign and left.",
+          "[Q19 (Immediately)], people began dropping coins into the tin cup. The non-stop clinking was [Q20 (music to the blind man's ear)]. Curious, he asked a stranger what was written on the sign. \"It says, 'It's a beautiful day. You can see it. I cannot,'\" the stranger replied."
+        ],
+        "zh": [
+          "一位盲人在繁忙街边乞讨。纸牌写着“盲人——请帮帮我”，两小时里杯子一直空着。路人无动于衷，看着令人心酸。",
+          "咖啡馆里一位年轻作家观察这一幕，默默改写纸牌后离开。",
+          "人们立刻往杯里投币，叮当作响；盲人问路人写了什么，得知是“今天天气很好，你能看见，我不能。”"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following is true of the Harvest Town Day Tour?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Only lunch and dinner will be served during the tour.",
+            "2": "The tour coach will depart from Harvest Town at 10 p.m.",
+            "3": "All children get to take part in the tour at a reduced price.",
+            "4": "Participants should reach City Centre Bus Terminal by 6 a.m."
+          }
+        },
+        "22": {
+          "stem_plain": "Which of the following words is used to describe the fruit grown on the farms?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "seasonal",
+            "2": "unique",
+            "3": "fresh",
+            "4": "local"
+          }
+        },
+        "23": {
+          "stem_plain": "According to the TourPro website, the tour guide is well-informed about the _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "rich histories of the villages",
+            "2": "farming methods in the villages",
+            "3": "products that are sold in the villages",
+            "4": "preparation of traditional dishes of the villages"
+          }
+        },
+        "24": {
+          "stem_plain": "What is the purpose for publishing Jessica's testimony on the website?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to introduce Jessica",
+            "2": "to praise the tour guide and driver",
+            "3": "to build confidence in the readers about the tour",
+            "4": "to convince the readers that her family had a good trip"
+          }
+        },
+        "25": {
+          "stem_plain": "The website quotes Jessica as saying she 'was unduly worried'. According to Jessica, she did not have to worry about her children _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "being unwilling to try different types of fruit",
+            "2": "feeling exhausted after visiting so many places",
+            "3": "becoming bored with listening to the tour guide",
+            "4": "not understanding what the tour guide was saying"
+          }
+        },
+        "26": {
+          "stem_plain": "Mdm Low decided to go on the tour. She had to make a trip to the TourPro office to _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "book a place on the tour",
+            "2": "make payment for the tour",
+            "3": "hand over travel documents",
+            "4": "sign up for optional activities"
+          }
+        },
+        "27": {
+          "stem_plain": "Mr Tan received a full refund of the payment he had made for the tour. What could have happened?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The tour had fewer than 20 participants.",
+            "2": "There were limited places available in the tour.",
+            "3": "He had chosen not to participate in any activity during the tour.",
+            "4": "He had cancelled his reservation 14 days before the departure date."
+          }
+        },
+        "28": {
+          "stem_plain": "A timeline is provided on the website for the following possible reasons **except** _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to interest people with the terms and conditions",
+            "2": "to prevent people from missing the various deadlines",
+            "3": "to show people what needs to be done before the trip",
+            "4": "to give people the impression that the Company is organised"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "细节 — Detail check — arrival time（信息定位）",
+          "note": "<p>Fee says aged 10+ $60; children $30; pick-up City Centre Bus Terminal; tour 6 a.m.–10 p.m. → be there by <span class=\"hl-good\">6 a.m.</span> (option 4). Option 3 misreads child pricing; 1–2 false.</p>",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "宣传品 — Word from flyer — seasonal（宣传品考点）",
+          "note": "<p>Fruit farms: sample <em>seasonal produce</em> → <span class=\"hl-good\">seasonal</span> (1). Others are generic qualities.</p>",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "题型 — Tour guide knowledge（题型考点）",
+          "note": "<p>Village hopping: guide shares <em>stories of the villages' past and present</em> → <span class=\"hl-good\">rich histories</span> (1).</p>",
+          "answer": "1"
+        },
+        "24": {
+          "concept": "目的 — Purpose of testimonial（目的考点）",
+          "note": "<p>Jessica's quote builds reader <span class=\"hl-good\">confidence</span> in the tour (3), not merely introduce her or only praise staff.</p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "推理 — Inference — children's worry（推理考点）",
+          "note": "<p>She feared children bored by guide — text says guide was <em>humorous</em>, kids enjoyed → worry about <span class=\"hl-good\">becoming bored with listening</span> (3) was undue.</p>",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "题型 — Procedure — payment（题型考点）",
+          "note": "<p>Reservations online; <span class=\"hl-good\">payment</span> cash/card at TourPro office (2). Not booking only or travel docs.</p>",
+          "answer": "2"
+        },
+        "27": {
+          "concept": "推理 — Inference — full refund（推理考点）",
+          "note": "<p>Full refund if tour cancelled; partial if cancel ≥14 days before departure. <span class=\"hl-good\">Fewer than 20 participants</span> cancels tour → full refund (1).</p>",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "判断 — Purpose of timeline — NOT true（找出错误项）",
+          "note": "<p>Timeline tracks deadlines/refunds — <span class=\"hl-bad\">NOT</span> mainly to interest people in T&C (1). Others supported.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "are",
+          "D": "at",
+          "E": "being",
+          "F": "between",
+          "G": "for",
+          "H": "from",
+          "J": "is",
+          "K": "its",
+          "L": "of",
+          "M": "that",
+          "N": "their",
+          "P": "to",
+          "Q": "yet"
+        },
+        "cloze": [
+          "A giant African pouched rat called Magawa spent years sniffing out landmines in the Cambodian countryside. Having retired from service, eating bananas and peanuts [Q29] now its favourite pastime.",
+          "Magawa, originally from Tanzania, was trained [Q30] a Belgian organisation. It helped clear mines from 225,000 square metres of land, the equivalent [Q31] forty-two football pitches, in its five-year career.",
+          "Millions of landmines were laid in Cambodia [Q32] 1975 and 1998, causing many casualties. [Q33] trained to detect the chemical compound in an explosive, the rat would alert de-miners of [Q34] presence by scratching the earth.",
+          "Magawa can scurry across [Q35] area the size of a tennis court, detecting explosives in just thirty minutes — something [Q36] would take four days using a conventional metal detector. The rat is big enough to be attached to a leash as it goes about its business, [Q37] light enough not to set off landmines.",
+          "Last year, the rodent won a medal [Q38] its ability and bravery in uncovering landmines and unexploded weapons.",
+          "Magawa was the first rat to receive the bravery medal in the 77 years of the awards, joining an illustrious band of brave canines and felines — and even a pigeon."
+        ],
+        "zh": [
+          "名叫马加瓦的非洲巨袋鼠在柬埔寨乡间嗅探地雷多年。退役后，吃香蕉和花生成了它最爱的消遣。",
+          "马加瓦原籍坦桑尼亚，由比利时机构训练。五年职业生涯里，它清理了二十二万五千平方米土地，相当于四十二个足球场。",
+          "柬埔寨在1975至1998年间埋设数百万地雷，造成大量伤亡。受过训练以嗅出炸药化合物后，它会抓地提醒排雷人员炸药的存在。",
+          "马加瓦能在三十分钟内搜完网球场大小的区域，而传统金属探测器要四天。它够大可以拴绳工作，又够轻不会引爆地雷。",
+          "去年，这只啮齿动物因拆雷的能力与勇气获奖章。",
+          "马加瓦是七十七年来首只获此英勇奖章的老鼠，与许多勇敢的犬、猫——甚至还有鸽子——齐名。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "主谓 — 时态/一致",
+          "note": "service, eating bananas and peanuts is now its favourite pastime. = 主谓一致 → is。",
+          "answer": "J — is"
+        },
+        "30": {
+          "concept": "介词 — at",
+          "note": "originally from Tanzania, was trained at a Belgian organisation. = 看前后搭配，选 at。",
+          "answer": "D — at"
+        },
+        "31": {
+          "concept": "介词 — of",
+          "note": "metres of land, the equivalent of forty-two football pitches, in its = 看前后搭配，选 of。",
+          "answer": "L — of"
+        },
+        "32": {
+          "concept": "介词 — between",
+          "note": "landmines were laid in Cambodia between 1975 and 1998, causing many = 看前后搭配，选 between。",
+          "answer": "F — between"
+        },
+        "33": {
+          "concept": "Participle clause — Being trained",
+          "note": "being trained to detect the chemical = 结合句意选 being。",
+          "answer": "E — being"
+        },
+        "34": {
+          "concept": "指示/所有格 — its",
+          "note": "结合句意选 its。",
+          "answer": "K — its"
+        },
+        "35": {
+          "concept": "冠词 — an",
+          "note": "Magawa can scurry across an area the size of a = once a day = 每天一次。",
+          "answer": "B — an"
+        },
+        "36": {
+          "concept": "关系/连接词 — that",
+          "note": "指示词 that 回指上文。",
+          "answer": "M — that"
+        },
+        "37": {
+          "concept": "连词 — yet",
+          "note": "it goes about its business, yet light enough not to set = 句间逻辑 → yet。",
+          "answer": "Q — yet"
+        },
+        "38": {
+          "concept": "介词 — for",
+          "note": "the rodent won a medal for its ability and bravery in = 看前后搭配，选 for。",
+          "answer": "G — for"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Over the past two weeks, my meals have been mostly delivered since I have been working from home.",
+          "[Q39(Ocassionaly)] , the food would get to me more than an hour after the stipulated time and I would be [Q40(fehmished)] by then. My very first [Q41(impulsive)] was to call the delivery rider and ask him what was happening. In the end, I did not.",
+          "I knew the food would not have arrived any [Q42(quick)] because I was sure he was doing his best. Therefore, to [Q43(herrass)] him would only spoil his day. Moreover, I [Q44(certain)] would not want him to get into an accident because of the extra stress.",
+          "With eateries closed and many people [Q45(refreining)] from going out, delivery riders are [Q46(esencial)] in getting us our meals. While we stay safely at home, they put themselves at [Q47(risky)] as they move from place to place around Singapore.",
+          "You see many of them out on motorcycles, [Q48(carried)] what must be heavy packs on [Q49(his)] backs. So, even if our meals arrive late, give the rider a smile.",
+          "Show our [Q50(appresiacion)] for what he is doing. It will help to keep his spirits up — and ours too."
+        ],
+        "zh": [
+          "过去两周我一直居家办公，餐食大多靠外卖送达。",
+          "偶尔食物会在约定时间一个多小时后才送到，那时我已饥肠辘辘。我的第一反应是给外卖骑手打电话问个究竟，但最终我还是没有打。",
+          "我知道食物不可能更快送到，因为我确信他已尽力。因此去骚扰他只会毁了他的一天。而且我肯定不会希望他因额外压力而发生意外。",
+          "餐馆关闭、许多人不敢外出期间，外卖骑手对我们能否吃到饭至关重要。我们安然待在家里，他们却在新加坡各处奔波，使自己处于危险之中。",
+          "你会看到很多人骑着摩托车，背上背着想必很重的包裹。所以即使餐食迟到，也请对外卖骑手微笑。",
+          "表达我们对他们所做之事的感激。这有助于提振他们的士气——也提振我们自己的士气。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling — occasionally",
+          "note": "<p><em>Ocassionaly</em> → <span class=\"hl-good\">occasionally</span>.</p>",
+          "answer": "occasionally"
+        },
+        "40": {
+          "concept": "Spelling — famished",
+          "note": "<p><em>fehmished</em> → <span class=\"hl-good\">famished</span> (very hungry).</p>",
+          "answer": "famished"
+        },
+        "41": {
+          "concept": "Word class — impulse",
+          "note": "<p>My first <em>impulsive</em> (noun) → <span class=\"hl-good\">impulse</span> (what I felt).</p>",
+          "answer": "impulse"
+        },
+        "42": {
+          "concept": "Adverb — quicker",
+          "note": "<p>any <em>quick</em> (adj) → adverb <span class=\"hl-good\">quicker</span>.</p>",
+          "answer": "quicker"
+        },
+        "43": {
+          "concept": "Spelling — harass",
+          "note": "<p><em>herrass</em> → <span class=\"hl-good\">harass</span>.</p>",
+          "answer": "harass"
+        },
+        "44": {
+          "concept": "Adverb — certainly",
+          "note": "<p>I <em>certain</em> (adj) → <span class=\"hl-good\">certainly</span>.</p>",
+          "answer": "certainly"
+        },
+        "45": {
+          "concept": "Spelling — refraining",
+          "note": "<p><em>refreining</em> → <span class=\"hl-good\">refraining</span> (gerund after <em>people</em>).</p>",
+          "answer": "refraining"
+        },
+        "46": {
+          "concept": "Spelling — essential",
+          "note": "<p><em>esencial</em> → <span class=\"hl-good\">essential</span>.</p>",
+          "answer": "essential"
+        },
+        "47": {
+          "concept": "Word class — risk",
+          "note": "<p>at <em>risky</em> (adj) → noun <span class=\"hl-good\">risk</span> (at risk).</p>",
+          "answer": "risk"
+        },
+        "48": {
+          "concept": "Participle — carrying",
+          "note": "<p><em>carried</em> → <span class=\"hl-good\">carrying</span> (active participle).</p>",
+          "answer": "carrying"
+        },
+        "49": {
+          "concept": "Pronoun — their",
+          "note": "<p><em>his</em> backs → <span class=\"hl-good\">their</span> (many riders).</p>",
+          "answer": "their"
+        },
+        "50": {
+          "concept": "Spelling — appreciation",
+          "note": "<p><em>appresiacion</em> → <span class=\"hl-good\">appreciation</span>.</p>",
+          "answer": "appreciation"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was 8 December 1941. The flames of war had [Q51] the land of Europe and China. Being so far from the region, no one in Singapore had [Q52] the country to be the next target. The people believed that the island was well-guarded by the British troops.",
+          "Everyone was therefore shocked when Japanese planes [Q53] their first bombs on Singapore. Soon the country was in a [Q54] of panic. People were seen running to seek shelter from the bombings. Meanwhile, the Japanese troops which were advancing towards Singapore finally set [Q55] on the country's shores on 8 February 1942.",
+          "Armed with ruthless determination, the Japanese moved swiftly to [Q56] over Bukit Timah where the country's petrol, oil, and supplies were kept. The British troops had no [Q57] but to retreat to Bukit Chandu, their final line of defence.",
+          "At Bukit Chandu, the Malay Regiment, led by Lieutenant Adnan Saidi, fought [Q58] of the fiercest and longest battles in history. The soldiers put up a brave fight and soon their ammunition started running [Q59]. Although they knew they were [Q60] a losing battle, the soldiers were unwilling to give up, [Q61] to fight to the end. Unfortunately, there were far [Q62] many Japanese soldiers and the Malay Regiment was outnumbered. Eventually, the Malay Regiment [Q63] the battle, and Lieutenant Adnan was killed.",
+          "War went on for some time and the country was soon unable to [Q64] itself. On 15 February 1942, Lieutenant-General Arthur Percival, the British commanding officer then, [Q65] Singapore to the enemy. Sadly, that was just one week after the first Japanese landing in Singapore."
+        ],
+        "zh": [
+          "那是1941年12月8日。战火已经蔓延了欧洲和中国大地。由于远离这些地区，新加坡没有人预料到这个国家会成为下一个目标。人们相信这座岛屿受到英国军队的良好保护。",
+          "因此，当日本飞机在新加坡投下第一批炸弹时，所有人都震惊了。很快，整个国家陷入了一片恐慌。人们纷纷奔跑以躲避轰炸。与此同时，向新加坡推进的日军最终于1942年2月8日踏上了这片国土的海岸。",
+          "日军凭着冷酷的决心，迅速行动并占领了存放该国汽油、石油和物资的武吉知马。英军别无选择，只好撤退到他们的最后防线——武吉布朗（武吉樟宜）。",
+          "在武吉布朗，由阿南·赛迪中尉领导的马来军团进行了一场历史上最激烈、最持久的战斗。士兵们英勇作战，很快他们的弹药就快用完了。尽管他们知道自己是在打一场必败之仗，但士兵们不愿放弃，决心战斗到底。不幸的是，日军人数实在太多，马来军团寡不敌众。最终，马来军团输掉了这场战斗，阿南中尉牺牲了。",
+          "战争持续了一段时间，该国很快就无力自保。1942年2月15日，当时的英国指挥官白思华中将向敌人投降，交出了新加坡。悲哀的是，那距离日军首次登陆新加坡仅过去了一周。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "一般过去时动词语意形式",
+          "note": "前面有过去完成时助动词 had，后接过去分词。用来描述二战初期的历史宏观背景，指战火已经“蔓延至（spread to）”、“席卷（engulfed/consumed）”或“到达（reached/hit）”了欧洲和中国大地，故填过去分词形式。",
+          "answer": "reached/spread/engulfed/consumed/hit"
+        },
+        "52": {
+          "concept": "过去完成时动词与预期句型",
+          "note": "前面有过去完成时否定助动词 had，后接过去分词，且后面有复合结构 the country to be...。指当时没有一个新加坡人能“预料到（anticipated/expected/foreseen）”或“料想到”新加坡会成为下一个打击目标，故填过去分词形式。",
+          "answer": "anticipated/expected/foreseen"
+        },
+        "53": {
+          "concept": "一般过去时动词与战争场景搭配",
+          "note": "主语为复数名词 Japanese planes（日本战机），叙述当年轰炸的新加坡历史，动词用过去时。与后面的名词宾语 their first bombs 完美组合，指战机在新加坡“投下（dropped/released）”了第一批炸弹。",
+          "answer": "dropped/released"
+        },
+        "54": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的介词短语 in a 和后置的介词短语 of panic 完美结合。构成在各类灾难、战争叙事文体中极其高频考核的经典状态定性习语 in a state of panic，意为全岛瞬间陷入了一片“惊恐的状态之中”。",
+          "answer": "state"
+        },
+        "55": {
+          "concept": "经典习语固定搭配",
+          "note": "与前面的动词过去时形式 set 以及后面的介词短语 on the country's shores 完美组合。构成形容登陆、踏上某片土地的极高频标志性专属动作比喻习语 set foot on...，意为日军终于在1942年2月8日“登上了”新加坡的海岸。",
+          "answer": "foot"
+        },
+        "56": {
+          "concept": "短语动词固定搭配",
+          "note": "动词不定式符号 to 后接动词原形。与后面的副词 down/over 极其地点名词 Bukit Timah 完美组合。指日军来势汹汹旨在“接管/占领（take over / control / seize）”屯有战略物资的武吉知马重地，填入 take 最契合 over 这一副词搭配。",
+          "answer": "take"
+        },
+        "57": {
+          "concept": "绝对否定限定结构固定习惯搭配",
+          "note": "与其前置的否定结构 had no 极其后置的不定式选择短语 but to retreat 完美结合。构成在各类困境和无可奈何抉择中出题率极高、表示别无选择的经典专属习语 have no choice but to do something（或者是替代词 alternative / option），意为英军当时“别无选择”只能撤退。",
+          "answer": "choice/alternative/option"
+        },
+        "58": {
+          "concept": "经典固定句型结构",
+          "note": "后接高频常见复数选择限制短语 of the fiercest and longest battles...。指那是历史上面临的最惨烈的战役“之一”，固定使用单数代词 one（构成 one of the... 结构）。",
+          "answer": "one"
+        },
+        "59": {
+          "concept": "短语动词固定习惯搭配",
+          "note": "与前面的动词现在分词形式 running 极其后置的介词短语 on 完美组合。构成在各类绝境及弹尽粮绝场景下极其核心和高频的专属消耗习语 run low on something，意为他们的弹药很快开始“见底/变得匮乏”。",
+          "answer": "low"
+        },
+        "60": {
+          "concept": "经典习语固定搭配形式",
+          "note": "在由 although 引导的让步状语从句中，前面有过去进行时助动词 were，后面接现在分词（V-ing）。与后面的名词短语 a losing battle 完美组合，构成英语中用于形容明知没有胜算仍孤军奋战的标志性专属惨烈比喻习语 fight a losing battle（打一场必败的仗），故填入现在分词 fighting。",
+          "answer": "fighting"
+        },
+        "61": {
+          "concept": "形容词与不定式搭配",
+          "note": "作为两个逗号之间的插入语修饰成分，后接不定式符号 to fight to the end。用来形容马来军团虽然明知必败，但依然“决心（determined/resolved/prepared）”战斗到最后一刻的英勇英烈骨气，故填形容词形式。",
+          "answer": "determined/resolved/prepared"
+        },
+        "62": {
+          "concept": "程度限定副词修饰比较级",
+          "note": "与前面的修饰副词 far 极其后面的限定短语 many Japanese soldiers 完美组合。用来极力加强数量上的悬殊对比，指日军的人数实在是“太（too）”多了，构成 far too many 经典语法搭配。",
+          "answer": "too"
+        },
+        "63": {
+          "concept": "一般过去时动词与战争场景搭配",
+          "note": "主语为单数名词 The Malay Regiment，叙述最终的战局结果，动词用过去时。与后面的名词宾语 the battle 组合，指由于寡不敌众，马来军团最终在武吉 Chandu 输掉了、这“输掉了（lost）”场战役。",
+          "answer": "lost"
+        },
+        "64": {
+          "concept": "动词与反身代词特定搭配",
+          "note": "动词不定式符号 to 后接动词原形。与后面的反身代词宾语 itself 完美组合。指整个国家危在旦夕，很快便再也无法“保护/捍卫（defend/protect/save/sustain）”自己免受侵略，故填入动词原形。",
+          "answer": "defend/protect/save/sustain"
+        },
+        "65": {
+          "concept": "一般过去时战败动词语义",
+          "note": "主语为白思华中将（Arthur Percival），叙述1942年2月15日英国守军投降的历史转折点，动词用过去时。指他最终在新加坡签署了降书，向敌军“投降（surrendered/yielded）”或者把新加坡“拱手让给（ceded/handed）”了敌军，故填过去时动词，其中 surrendered 最契合战史表述。",
+          "answer": "surrendered/yielded/ceded/handed"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Although the task was very difficult to complete, Mrs Tan completed it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was with great __________"
+        },
+        "67": {
+          "stem_plain": "He performed outstandingly in the play. His mother was delighted.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "His mother was delighted by __________"
+        },
+        "68": {
+          "stem_plain": "Guohui failed to answer most of the questions. He did poorly for the test.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ due to his __________"
+        },
+        "69": {
+          "stem_plain": "Devi claimed that she had not forgotten her father's birthday.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Devi denied __________"
+        },
+        "70": {
+          "stem_plain": "\"Why did you take part in the competition?\" Mr Ahmad asked Mary.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mr Ahmad asked __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "强调句 — Emphatic it was … that",
+          "zh": "尽管任务很难，谭女士还是完成了。",
+          "note": "强调句 It was … that；difficulty 为名词。",
+          "answer": "It was with great difficulty that Mrs Tan completed the task."
+        },
+        "67": {
+          "concept": "句型转换 — Delighted by + noun phrase",
+          "zh": "母亲因他在剧中出色表演而欣喜。",
+          "note": "delighted by + 名词/动名词短语。",
+          "answer": "His mother was delighted by his outstanding performance in the play."
+        },
+        "68": {
+          "concept": "原因短语 — Due to + noun phrase",
+          "zh": "国辉因未能回答大部分问题而考得很差。",
+          "note": "due to + 名词短语表原因。",
+          "answer": "Guohui did poorly for the test due to his failure to answer most of the questions."
+        },
+        "69": {
+          "concept": "间接引语 — deny（Reported speech）",
+          "zh": "德维否认她忘了父亲的生日。",
+          "note": "deny + that 从句；时态后移。",
+          "answer": "Devi denied that she had forgotten her father's birthday."
+        },
+        "70": {
+          "concept": "间接引语 — why（Reported question）",
+          "zh": "阿末老师问玛丽为何参加比赛。",
+          "note": "间接引语 wh- 问句用陈述语序。",
+          "answer": "Mr Ahmad asked Mary why she had taken part in the competition."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "How did the writer help Mrs Long when he was young?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Which word from paragraph 2 suggests that the writer was in control of his actions?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What does the word 'it' in each column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **it** (line 3)",
+                "(b) **it** (line 25)",
+                "(c) **it** (line 28)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]",
+                "[Q73c]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "How did the writer know that Mrs Long's gift was not something that he had hoped for?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "How do we know that the writer's parents were worried about the writer's response upon receiving Mrs Long's gift? Why do you think they were worried?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Based on information from lines 9 to 16, fill in the blanks in the following table.",
+          "marks": 3,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3",
+              "col_4"
+            ],
+            "col_1": {
+              "header": "How the writer felt when he first received the gift",
+              "rows": [
+                "[Q76a]"
+              ]
+            },
+            "col_2": {
+              "header": "How the writer felt a while after receiving the gift",
+              "rows": [
+                "He felt curious."
+              ]
+            },
+            "col_3": {
+              "header": "The reason for the change in feelings",
+              "rows": [
+                "[Q76b]"
+              ]
+            },
+            "col_4": {
+              "header": "How the writer felt upon lifting the gift",
+              "rows": [
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The writer was impatient to get his Christmas gift from Mrs Long.",
+                "(b) The writer did not believe in what Mrs Long had said about the gift.",
+                "(c) The gift was wrapped in flimsy sheets of black paper."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q77a]",
+                "[Q77c]",
+                "[Q77e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q77b]",
+                "[Q77d]",
+                "[Q77f]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Mrs Long had been waiting for the writer to ask for his gift.",
+            "Mrs Long assured the writer that she had a gift for him.",
+            "The writer went over to get his gift."
+          ]
+        },
+        "79": {
+          "stem_plain": "What evidence from the text showed that the writer treasured the gift from Mrs Long?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "\"... but none came close to the magnificence of this one.\" (lines 34–35) Based on this sentence, explain clearly how has Mrs Long's gift impacted the writer's life?",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "As a young boy, I used to mow Mrs Long's lawn. Even though I was paid very",
+          "2": "little for the chore, my parents encouraged me to offer my service. \"When Christmas",
+          "3": "comes, I'll have a present for you,\" she promised me. I wondered what **it** would be. The",
+          "4": "boys I played with had rackets, bicycles and skateboards, and I convinced myself that",
+          "5": "she would likely choose from among those.",
+          "6": "As Christmas approached, I restrained myself from going to Mrs Long's house",
+          "7": "for my present. Three days before Christmas, I could wait no longer. I marched over to",
+          "8": "her house in anticipation.",
+          "9": "\"I've been waiting for you,\" Mrs Long replied. She brought out a parcel which,",
+          "10": "under no conceivable circumstances, could hold a racket or a bicycle or even a",
+          "11": "skateboard. I was painfully disappointed, but did not show it. My parents, who had learnt",
+          "12": "from my previous experiences of accepting gifts, had warned me repeatedly to receive",
+          "13": "Mrs Long's gift wholeheartedly and say 'thank you'.",
+          "14": "It was a rectangular parcel about a centimetre thick. Curiosity soon replaced my",
+          "15": "initial disappointment. Lifting it, the extreme lightness of the gift captivated me. I asked,",
+          "16": "\"What is it?\"",
+          "17": "\"A kind of magic. You'll see on Christmas Day,\" Mrs Long said.",
+          "18": "Her words set my mind dancing with new possibilities. I studied the parcel with",
+          "19": "excitement, imagining the surprise held within.",
+          "20": "On Christmas morning, I tore the wrapper off the gift. Opening the box, I found a",
+          "21": "pile of ten flimsy sheets of black paper inside, each labelled in faint letters, 'Carbon",
+          "22": "Paper Regal Premium'. \"Is it magic?\" I asked Mother.",
+          "23": "Taking two pieces of white paper, Mother placed one of the black sheets from",
+          "24": "the box between them, and, with a pencil, wrote my name on the top piece of paper.",
+          "25": "Then, removing **it** and the Carbon Paper Regal Premium, she handed me the bottom",
+          "26": "piece of paper, which her pencil had in no way touched.",
+          "27": "There was my name — dark and well-formed.",
+          "28": "I was enthralled! **It** was indeed magic — to write on one piece of paper which",
+          "29": "mysteriously recorded on another. I held off grinding off the last shred of blackness from",
+          "30": "all ten sheets for as long as I could. When I finally did it, I was sad. The gift was indeed",
+          "31": "an unusual experience of a mystery that I had not expected. From then on, my curiosity",
+          "32": "would be piqued at anything that resembled 'magic' and I would not give up trying to",
+          "33": "understand it.",
+          "34": "I have received some thundering presents since then but none came close to",
+          "35": "the magnificence of this one. Mrs Long knew that a boy like me might benefit from a",
+          "36": "present totally outside the realm of his ordinary experience. It has transformed my life",
+          "37": "forever."
+        },
+        "paragraphs": {
+          "1": "小时候我常为龙太太修剪草坪。尽管这份差事的报酬微薄，但父母仍鼓励我提供服务。她向我承诺：“圣诞节到了，我会送你一份礼物。”我一直好奇那会是什么。和我一起玩的男孩们都有球拍、自行车和滑板，我坚信她很可能也会从中挑选一样送给我。",
+          "6": "随着圣诞节临近，我克制着自己不去龙太太家讨要礼物。但在圣诞节前三天，我再也等不及了，满怀期待地朝她家走去。",
+          "9": "“我一直在等你，”龙太太回答道。她拿出了一个包裹，无论从什么角度看，那里面都不可能装得下球拍、自行车甚至是滑板。我感到无比失望，但没有表现出来。我的父母根据我以前收礼的经验，反复告诫我要全心全意地接受龙太太的礼物，并说声“谢谢”。",
+          "14": "那是一个长方形的包裹，大约一厘米厚。好奇心很快取代了最初的失望。我拿起礼物，它极轻的分量让我着迷。我问：“这是什么？”",
+          "17": "“一种魔法。圣诞节那天你就会明白了，”龙太太说。她的这番话让我的脑海中浮现出各种新的可能。我兴奋地端详着包裹，想象着里面藏着的惊喜。",
+          "20": "圣诞节早晨，我撕开了礼物的包装纸。打开盒子后，我发现里面叠放着十张薄薄的黑纸，每张上面都用模糊的字母标着“帝王牌优质复写纸”。“这是魔法吗？”我问母亲。",
+          "23": "母亲拿了两张白纸，把盒子里的一张黑纸夹在中间，用铅笔在最上面的白纸上写下了我的名字。然后，她拿走上层纸和复写纸，递给我底层的白纸——而她的铅笔完全没有触碰到这一层。",
+          "28": "我的名字在那儿——深色且字迹工整。我被迷住了！这的确是魔法——在一张纸上书写，另一张纸上竟奇迹般地记录了下来。我尽可能节省着用，直到那十张纸上的最后一丝黑色都被磨掉。当最后一张也用完时，我很伤心。这份礼物确实是一次出乎意料、非同寻常的神秘体验。从那时起，任何类似“魔法”的事物都会激起我的好奇心，而我也绝不会放弃去钻研并理解它。",
+          "34": "从那以后，我收到过一些极其昂贵的礼物，但没有一个能与这份礼物的华丽相媲美。龙太太知道，像我这样的男孩可能会从一份完全超出日常经验的礼物中获益。它永远地改变了我的生活。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "要点直答",
+          "note": "<ol><li>问小时候如何帮龙太太。</li><li>第1–2行：mow Mrs Long's lawn。</li><li>答：帮她修剪草坪。</li></ol>",
+          "answer": [
+            "The writer helped Mrs Long mow her lawn when he was young."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "摘录词句题",
+          "note": "<ol><li>paragraph 2 ≈ 第6–8行。</li><li>restrained myself from going …</li><li>抄写 <strong>restrained</strong>。</li></ol>",
+          "answer": [
+            "restrained"
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "指代表",
+          "note": "<ol><li>三处 it：第3行、第25行、第28行。</li><li>(a) 礼物承诺；(b) 底层纸；(c) 复写“魔法”写法。</li><li>按行填 refers_to 列。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "the present from Mrs Long",
+            "73b": "the top piece of paper",
+            "73c": "To write on one piece of paper which mysteriously recorded on another"
+          }
+        },
+        "74": {
+          "concept": "双要点简答题",
+          "note": "<ol><li>第9–11行：包裹太小，不可能是球拍等。</li><li>又约一厘米厚。</li><li>两句依据合并作答。</li></ol>",
+          "answer": [
+            "Mrs Long brought out a parcel which, under no conceivable circumstances could hold a racket or a bicycle or even a skateboard and the gift was a rectangular parcel about a centimetre thick."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "分问综合简答",
+          "note": "<ol><li>第12–13行：父母反复叮嘱感恩说谢谢。</li><li>因以往收礼经历担心他反应不当。</li></ol>",
+          "answer": [
+            "The writer's parents had warned him repeatedly to receive Mrs Long's gift wholeheartedly and say a \"thank you\". They were worried as they had learnt from the writer's previous experiences of accepting gifts."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li>范围第9–16行。</li><li>先后情绪：失望→好奇→着迷。</li><li>变化原因：包裹很轻。</li></ol>",
+          "answer": {
+            "76a": "",
+            "76b": "",
+            "76c": ""
+          },
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li>(a) True：圣诞前三天迫不及待上门。</li><li>(b) False：听后充满期待（dancing with possibilities）。</li><li>(c) False：黑纸在盒内，非包装纸包裹。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "True",
+            "77b": "Three days before Christmas, the writer could not wait to receive his gift from Mrs Long so he marched over to her house in anticipation",
+            "77c": "False",
+            "77d": "Mrs Long's words set the writer's mind dancing with new possibilities",
+            "77e": "False",
+            "77f": "Opening the box, the writer found a pile of ten flimsy sheets of black paper inside"
+          }
+        },
+        "78": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li>三句事件：圣诞前承诺礼物 → 等候男孩来问 → 男孩上门索取。</li><li>时间顺序：先 <strong>assured</strong>（第3–4行）→ 再 <strong>waiting</strong>（第9行）→ 最后 <strong>went over</strong>（第7–8行）。</li><li>卷面三行顺序对应填 <strong>2, 1, 3</strong>。</li></ol>",
+          "answer": [
+            "2, 1, 3"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "证据简答题",
+          "note": "<ol><li>珍惜：尽量保留复写纸黑印。</li><li>第29–30行：held off grinding … sad when finally did。</li></ol>",
+          "answer": [
+            "The writer held off grinding the last shred of blackness from all ten sheets of carbon paper for as long as he could and was sad when he finally did."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "解释说明题",
+          "note": "<ol><li>第34–37行：此后更好礼物，但这份最特别。</li><li>影响：对“魔法”好奇，不放弃弄清原理，人生被改变。</li></ol>",
+          "answer": [
+            "Mrs Long's gift had made him interested in anything that resembled \"magic\" and he would not give up trying to understand it. / It has transformed his life forever."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

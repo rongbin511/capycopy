@@ -1,0 +1,1157 @@
+{
+  "paperid": "p6_english_2018_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Everyone, except for Tom, _________ expected to be present at the concert tomorrow.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "Mr Lee _________ since early this morning as he is participating in a competition.",
+          "options": {
+            "1": "fished",
+            "2": "is fishing",
+            "3": "has fished",
+            "4": "has been fishing"
+          }
+        },
+        "3": {
+          "stem_plain": "The teacher noticed the students _________ attentively to the presentation.",
+          "options": {
+            "1": "listen",
+            "2": "listens",
+            "3": "listened",
+            "4": "listening"
+          }
+        },
+        "4": {
+          "stem_plain": "_________ did Peter expect such good response for the book donation drive.",
+          "options": {
+            "1": "Less",
+            "2": "Little",
+            "3": "Much",
+            "4": "Many"
+          }
+        },
+        "5": {
+          "stem_plain": "The man, _________ son is in Ahmad's class, has come to see the school principal.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "6": {
+          "stem_plain": "I could _________ the competition had I started my training much earlier.",
+          "options": {
+            "1": "win",
+            "2": "won",
+            "3": "had won",
+            "4": "have won"
+          }
+        },
+        "7": {
+          "stem_plain": "A road safety campaign was organised in response _________ the recent rise in traffic accidents.",
+          "options": {
+            "1": "to",
+            "2": "at",
+            "3": "by",
+            "4": "for"
+          }
+        },
+        "8": {
+          "stem_plain": "_________ cooking dinner, Mother helped Suzie with her art project.",
+          "options": {
+            "1": "Since",
+            "2": "Unless",
+            "3": "Besides",
+            "4": "Although"
+          }
+        },
+        "9": {
+          "stem_plain": "\"He seldom attends our study group meetings, _________ he?\" asked Annie.",
+          "options": {
+            "1": "will",
+            "2": "does",
+            "3": "won't",
+            "4": "doesn't"
+          }
+        },
+        "10": {
+          "stem_plain": "Neither the teacher nor the students _________ the outcome of the decision as the meeting is still in progress.",
+          "options": {
+            "1": "know",
+            "2": "knew",
+            "3": "knows",
+            "4": "had known"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "不定代词 “Everyone” 为单数，谓语动词需用单数。介词短语 “except for Tom” 不影响主语的单复数。由 “tomorrow” 可知此处应用一般现在时表示按计划发生的事。",
+          "concept": "主谓一致 — Subject-Verb Agreement — Indefinite Pronoun",
+          "zh": "除了汤姆，预计每个人明天都会出席音乐会。",
+          "answer": "1"
+        },
+        "2": {
+          "note": "“since early this morning” 与后文的现在进行时 “is participating” 共同表明，该动作从今天清晨开始并一直持续到现在，应用现在完成进行时。",
+          "concept": "动词时态 — Verb Tense — Present Perfect Continuous",
+          "zh": "李先生从今天清晨开始就一直在钓鱼，因为他正在参加一项比赛。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "感官动词 “notice” 后面接现在 participle（-ing）形式，用于描述正在进行的动作或场景。",
+          "concept": "感官动词与分词 — Verbs of Perception — Present Participle",
+          "zh": "老师注意到学生们正在全神贯注地听演讲。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "当否定或半否定副词 “Little” 放在句首用于强调时，句子需要采用部分倒装语序（助动词 did 提前）。",
+          "concept": "倒装句 — Inversion — Negative Adverbs",
+          "zh": "彼得几乎没有料到这次图书捐赠活动会获得如此良好的反响。",
+          "answer": "2"
+        },
+        "5": {
+          "note": "此处需要一个限定性定语从句的引导词。空格后是名词 “son”，与先行词 “The man” 之间是所属关系，因此用所有格关系代词 “whose”。",
+          "concept": "定语从句 — Relative Clauses — Whose",
+          "zh": "那个男人（他的儿子在艾哈迈德的班上）来见学校校长了。",
+          "answer": "4"
+        },
+        "6": {
+          "note": "“had I started...” 是省略了 if 的虚拟条件句倒装（等同于 if I had started...），表示对过去事实的虚拟。主句应用 modal perfect 结构：could + have + 过去分词。",
+          "concept": "虚拟语气 — Conditionals — Third Conditional with Inversion",
+          "zh": "如果我早点开始训练，我本可以赢得比赛的。",
+          "answer": "4"
+        },
+        "7": {
+          "note": "“in response to” 是固定介词短语搭配，意思是 “对……做出回应” 或 “作为对……的反应”。",
+          "concept": "介词搭配 — Prepositions — Fixed Phrases",
+          "zh": "针对近期交通事故的增加，有关方面开展了一项道路安全宣传活动。",
+          "answer": "1"
+        },
+        "8": {
+          "note": "“Besides” 在这里用作介词，意思是 “除了……之外（还）”，表示在做某事的同时也做另一件事。",
+          "concept": "连词与介词辨析 — Connectors — Besides vs Although",
+          "zh": "除了做晚饭，妈妈还帮苏茜完成了她的美术项目。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "陈述部分含有半否定词 “seldom”（很少），因此整个陈述句在语气上属于否定句，反意疑问句部分必须要用肯定形式。",
+          "concept": "反意疑问句 — Question Tags — Negative/Semi-negative Adverbs",
+          "zh": "“他很少参加我们的学习小组会议，对吧？”安妮问。",
+          "answer": "2"
+        },
+        "10": {
+          "note": "由 “neither... nor...” 连接并列主语时，谓语动词遵循“就近原则”，与靠近它的主语 “the students”（复数）保持一致；由 “is still in progress” 可知应用一般现在时。",
+          "concept": "主谓一致 — Subject-Verb Agreement — Correlative Conjunctions",
+          "zh": "老师和学生们都不知道决定的结果，因为会议仍在进行中。",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Being a friendly boy, Tommy always ________ conversations with new classmates to get to know them.",
+          "options": {
+            "1": "invites",
+            "2": "initiates",
+            "3": "inspires",
+            "4": "introduces"
+          }
+        },
+        "12": {
+          "stem_plain": "Many often ________ the unpopular boy in the school as he was selfish and ill-mannered.",
+          "options": {
+            "1": "shirked",
+            "2": "diverted",
+            "3": "shunned",
+            "4": "deflected"
+          }
+        },
+        "13": {
+          "stem_plain": "Due to ________ circumstances, the concert was cancelled at the last minute, leaving thousands of fans disappointed.",
+          "options": {
+            "1": "unforeseen",
+            "2": "unconscious",
+            "3": "uncalculated",
+            "4": "uncomfortable"
+          }
+        },
+        "14": {
+          "stem_plain": "The twins have not been ________ on the news of their uncle's visit.",
+          "options": {
+            "1": "let in",
+            "2": "let up",
+            "3": "let off",
+            "4": "let down"
+          }
+        },
+        "15": {
+          "stem_plain": "I felt suffocated by the ________ perfume that the lady in the lift was wearing.",
+          "options": {
+            "1": "vigorous",
+            "2": "exceeding",
+            "3": "dominating",
+            "4": "overpowering"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "作为一个友善的男孩，汤米总是主动与新同学攀谈，以便了解他们。",
+          "note": "‘initiates’ 意为‘发起，开始’。‘initiate a conversation’ 是固定搭配，表示“主动发起谈话”。前文提到他“很友善（friendly）”，因此会主动找新同学攀谈。",
+          "concept": "动词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "invites",
+              "zh": "邀请，招致（动词，指礼貌地请求某人去参加派对、婚礼或活动，或者指由于行为不当而招致某些不好的后果）",
+              "eg": "She invites all her colleagues to her house for a housewarming party this weekend."
+            },
+            {
+              "opt": "2",
+              "word": "initiates",
+              "zh": "发起，开始（动词，指率先、主动开始某项商业计划、严肃的谈话、官方程序、或者让某人开始加入某个组织）",
+              "eg": "The teacher always initiates the class discussion with a thought-provoking question."
+            },
+            {
+              "opt": "3",
+              "word": "inspires",
+              "zh": "鼓舞，激起（动词，指通过自身优秀的言行或成就，给予他人极大的精神鼓励和信心，或指艺术创作灵感的激发）",
+              "eg": "The coach's energetic speech inspires the whole football team to play harder in the second half."
+            },
+            {
+              "opt": "4",
+              "word": "introduces",
+              "zh": "介绍，引进（动词，指在社交场合将一个人引见给另一个人认识，或者指在市场上首次推出某款新产品或引进新系统）",
+              "eg": "The manager introduces the new graphic designer to the rest of the marketing department."
+            }
+          ]
+        },
+        "12": {
+          "zh": "学校里许多人经常故意躲开那个不受欢迎的男孩，因为他自私且没有礼貌。",
+          "note": "‘shunned’ 意为‘故意避开，躲避’。后文提到这个男孩“自私且没礼貌（selfish and ill-mannered）”，这解释了为什么大家都要在社交上孤立并故意躲着他（shunned him）。",
+          "concept": "动词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "shirked",
+              "zh": "逃避（工作、责任）（动词，指因为懒惰或怕麻烦，而故意推卸、逃避自己理应承担的职责、繁重工作或法定义务）",
+              "eg": "He shirked his clearing duties and went home early, leaving his coworkers furious."
+            },
+            {
+              "opt": "2",
+              "word": "diverted",
+              "zh": "转移，使分心（动词，指改变河流、车辆、资金的既定方向，或通过娱乐、喧闹把某人的注意力移到别处）",
+              "eg": "The police diverted the traffic to a side road to clear the highway accident."
+            },
+            {
+              "opt": "3",
+              "word": "shunned",
+              "zh": "故意避开，躲避（动词，指由于不赞同、讨厌、害怕、或者为了在社交上孤立某人，而故意、习惯性地远离、躲避某人或某事）",
+              "eg": "After the scandal was exposed, the former celebrity was shunned by most of his old industry friends."
+            },
+            {
+              "opt": "4",
+              "word": "deflected",
+              "zh": "使偏斜，引开（动词，指物理上通过碰撞让飞来的子弹、皮球改变原本的运动航线，或指用技巧引开针对自己的严厉批评、提问）",
+              "eg": "The clever politician deflected the difficult question by talking about his past achievements instead."
+            }
+          ]
+        },
+        "13": {
+          "zh": "由于无法预见的情况，演唱会在最后一刻被取消了，让成千上万的粉丝大失所望。",
+          "note": "‘unforeseen’ 意为‘无法预料的，始料未及的’。‘unforeseen circumstances’ 是极其常用的商业与官方术语，专门用来形容由于突发的、提前完全预想不到的原因（如恶劣天气、紧急事故等）导致计划临时变更或取消。",
+          "concept": "形容词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unforeseen",
+              "zh": "无法预料的，始料未及的（形容词，特指那些在做计划时，人们根本不可能提前预见到、完全出乎意料之外的突发情况、财务损失或变故）",
+              "eg": "Due to unforeseen flight delays, the guest speaker arrived at the conference hall two hours late."
+            },
+            {
+              "opt": "2",
+              "word": "unconscious",
+              "zh": "失去知觉的，无意识的（形容词，指人因头部受撞击、重病或麻醉而处于完全昏迷、没有知觉的状态，或指没有意识到自己行为的潜意识状态）",
+              "eg": "The boxer fell unconscious on the ring floor after a powerful punch to his jaw."
+            },
+            {
+              "opt": "3",
+              "word": "uncalculated",
+              "zh": "未加计算的，不假思索的（形容词，指没有经过精确数学计算的、或者指某种行为或话语完全没有经过事先的心机谋划和权衡利弊）",
+              "eg": "His uncalculated emotional remarks online triggered a massive backlash that he did not expect."
+            },
+            {
+              "opt": "4",
+              "word": "uncomfortable",
+              "zh": "不舒服的，令人尴尬的（形容词，指椅子、床、衣服太硬或不合身而让人身体感觉不适，或者指某种环境、话题让人在心理上感到局促不安、尴尬）",
+              "eg": "The long silence during dinner made everyone at the table feel highly uncomfortable."
+            }
+          ]
+        },
+        "14": {
+          "zh": "这对双胞胎还没有被告知（获悉）关于他们叔叔要来拜访的消息。",
+          "note": "‘let in’ 是短语动词。‘let someone in on something’ 是固定短语，意为‘允许某人知道（秘密、内部消息等）’。句中的否定结构 “have not been let in on...” 表示他们仍被瞒着、还没有被允许获悉这个消息。",
+          "concept": "短语动词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "let in",
+              "zh": "允许进入，告知（秘密）（动词短语，指物理上开门让人或宠物进来，或者常与 on 连用表示将秘密或内部消息透露、分享给某人）",
+              "eg": "They finally decided to let Mary in on their surprise birthday plan for John."
+            },
+            {
+              "opt": "2",
+              "word": "let up",
+              "zh": "减弱，停止（动词短语，特指糟糕的天气、暴风雨、噪音、疼痛或高强度的压力开始逐渐减弱、变小、或者最终完全停下来）",
+              "eg": "We should wait inside the library until the heavy afternoon rain starts to let up."
+            },
+            {
+              "opt": "3",
+              "word": "let off",
+              "zh": "放过，宽恕；排放（动词短语，指对犯错、犯罪的人免予严厉惩罚、从宽处理，或者指工厂等释放、排放出气体、烟雾、热量）",
+              "eg": "The police officer let the young driver off with just a strict verbal warning this time."
+            },
+            {
+              "opt": "4",
+              "word": "let down",
+              "zh": "使失望，放下（动词短语，指未能履行承诺、表现不佳而让信任或支持自己的亲友、团队感到失望，或在物理上把绳子等往下放）",
+              "eg": "I practiced hard every day because I did not want to let my primary school coach down."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我感到快要窒息了，因为电梯里那位女士身上的香水味太浓烈（刺鼻）了。",
+          "note": "‘overpowering’ 意为‘（气味、情感等）强烈到令人无法忍受的，压倒性的’。前文提及 “felt suffocated”（感到快要窒息），这直接证明了电梯（lift）这一密闭空间里的香水味过于浓烈和刺鼻（overpowering）。",
+          "concept": "形容词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "vigorous",
+              "zh": "精力充沛的，激烈的（形容词，形容人充满体力、活力，或指某种锻炼方式、社会辩论、运动方式强有力、极其猛烈）",
+              "eg": "The doctor recommended a regular routine of moderate, rather than vigorous, exercise for the patient."
+            },
+            {
+              "opt": "2",
+              "word": "exceeding",
+              "zh": "超越的，极度的（形容词，常作为现在分词或用于修饰，指数量或程度在极高水平上超过了正常的界限或公认的标准）",
+              "eg": "The young girl showed exceeding talent in her piano performance at the national competition."
+            },
+            {
+              "opt": "3",
+              "word": "dominating",
+              "zh": "占统治地位的，居高临下的（形容词，指在力量、控制权、体育比赛中占据绝对的压倒性优势，或者形容高大的建筑物在地理位置上俯瞰四周）",
+              "eg": "The premium tech giant maintains a dominating position in the microchip industry."
+            },
+            {
+              "opt": "4",
+              "word": "overpowering",
+              "zh": "浓烈得令人难以忍受的，压倒性的（形容词，特指某种气味太刺鼻、某种情感如恐惧和悲伤太强烈、以至于让人身体或心理上感到完全无法招架、快要窒息）",
+              "eg": "The smell of rotting fish in the hot kitchen was so overpowering that he had to run outside for fresh air."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "went viral",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "was circulated",
+            "2": "was published",
+            "3": "was announced",
+            "4": "was communicated"
+          }
+        },
+        "17": {
+          "stem_plain": "climbed up",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "scaled",
+            "2": "ambled",
+            "3": "hurdled",
+            "4": "escalated"
+          }
+        },
+        "18": {
+          "stem_plain": "lauded",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "commented",
+            "2": "commended",
+            "3": "commentated",
+            "4": "complemented"
+          }
+        },
+        "19": {
+          "stem_plain": "took place",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "unfolded",
+            "2": "emerged",
+            "3": "appeared",
+            "4": "proceeded"
+          }
+        },
+        "20": {
+          "stem_plain": "made",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "elected",
+            "2": "certified",
+            "3": "declared",
+            "4": "appointed"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — 短语“went viral”形容视频在网络上像病毒般迅速传开、广为流传，与“was circulated（被循环、被广泛传播）”意思最接近。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "was circulated",
+              "zh": "被传播，被传阅，广为流传",
+              "eg": "The newsletter was circulated to all members of the club."
+            },
+            {
+              "opt": "2",
+              "word": "was published",
+              "zh": "被出版，被发表",
+              "eg": "Her new fiction was published by a famous company last month."
+            },
+            {
+              "opt": "3",
+              "word": "was announced",
+              "zh": "被宣布，被宣告",
+              "eg": "The holiday schedule was announced by the school principal."
+            },
+            {
+              "opt": "4",
+              "word": "was communicated",
+              "zh": "被传达，被沟通",
+              "eg": "The urgent message was communicated to the emergency team immediately."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “climbed up a four-storey apartment”指攀爬上四层楼高的公寓，与“scaled（攀登、爬越）”意思完全相符。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "scaled",
+              "zh": "攀登，爬越（高度、墙壁等）",
+              "eg": "The thief scaled the high wall to get into the yard."
+            },
+            {
+              "opt": "2",
+              "word": "ambled",
+              "zh": "漫步，缓行",
+              "eg": "They ambled down the path enjoying the cool evening air."
+            },
+            {
+              "opt": "3",
+              "word": "hurdled",
+              "zh": "跨越（障碍/栏架）",
+              "eg": "The runner nimbly hurdled the final barrier during the race."
+            },
+            {
+              "opt": "4",
+              "word": "escalated",
+              "zh": "加剧，升级",
+              "eg": "The small dispute escalated into a massive argument between them."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “lauded his actions”指赞扬、颂扬他的行为，与“commended（表彰、称赞）”同义。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "commented",
+              "zh": "评论，发表意见",
+              "eg": "The manager commented briefly on the overall quality of our work."
+            },
+            {
+              "opt": "2",
+              "word": "commended",
+              "zh": "表彰，称赞，赞扬",
+              "eg": "The mayor commended the police officer for his immense bravery."
+            },
+            {
+              "opt": "3",
+              "word": "commentated",
+              "zh": "现场解说，现场评述",
+              "eg": "The veteran broadcaster commentated on the Olympic swimming match."
+            },
+            {
+              "opt": "4",
+              "word": "complemented",
+              "zh": "补充，与……相配",
+              "eg": "The white sauce perfectly complemented the flavor of the fish dish."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “the scene took place”指事件发生或（情节）展开，与表示“（事件等）展开、发生、呈现”之“unfolded”语义最为贴合。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unfolded",
+              "zh": "（事件、情节）展开，发生，呈现",
+              "eg": "The dramatic story unfolded before the eyes of the quiet audience."
+            },
+            {
+              "opt": "2",
+              "word": "emerged",
+              "zh": "浮现，显露，（从困难中）走出来",
+              "eg": "The bright sun emerged from behind the dark rain clouds."
+            },
+            {
+              "opt": "3",
+              "word": "appeared",
+              "zh": "出现，显得",
+              "eg": "A strange package suddenly appeared near the front entrance gate."
+            },
+            {
+              "opt": "4",
+              "word": "proceeded",
+              "zh": "继续进行，行进",
+              "eg": "The train proceeded slowly down the track due to the fog."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “made a French citizen”在此指正式“宣布”其成为法国公民，与“declared（正式宣布、宣告）”意思最契合。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "elected",
+              "zh": "选举，推选",
+              "eg": "He was elected as the new class chairman by his peers."
+            },
+            {
+              "opt": "2",
+              "word": "certified",
+              "zh": "证明，证实（发放证书）",
+              "eg": "The accountant certified that the financial statements were correct."
+            },
+            {
+              "opt": "3",
+              "word": "declared",
+              "zh": "正式宣布，声明，宣告",
+              "eg": "The region was declared a national nature reserve area by the state."
+            },
+            {
+              "opt": "4",
+              "word": "appointed",
+              "zh": "任命，委派",
+              "eg": "The board appointed a new director to lead the research team."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mamoudou Gassama, a 22-year-old migrant, arrived in France only a few months earlier. He was made famous after a video of his heroic act [Q16(went viral)]. Footage taken at the scene showed crowds watching in astonishment as he [Q17(climbed up)] a four-storey apartment to rescue a toddler who was dangling from a balcony.",
+          "“Luckily, there was someone physically fit and courageous to go and get the child,” an officer from the fire department said. The Mayor [Q18(lauded)] his actions, calling him the “Spiderman of the 18th”, a reference to the city district where the scene [Q19(took place)]. Mamoudou was [Q20(made)] a French citizen by the President who personally thanked him. Meanwhile, the local authorities reported that the child's parents could be charged for leaving their child unattended."
+        ],
+        "zh": [
+          "22岁的移民马穆杜·加萨马（Mamoudou Gassama）几个月前才刚抵达法国。在他英勇行为的视频在网络上疯传后，他一举成名。现场拍摄的画面显示，当他爬上一栋四层高的公寓去营救一个悬挂在阳台上的幼童时，人群惊愕地注视着。",
+          "“幸运的是，有一个身体强壮且勇敢的人走过去救下了这个孩子，”消防部门的一名官员说。市长赞扬了他的行为，称他为“第18区的蜘蛛侠”，这指的是该事件发生所在的城市区域。马穆杜被总统正式宣布接纳为法国公民，总统还亲自向他表示了感谢。与此同时，地方当局报告称，这名孩子的父母可能会因让孩子处于无人看管的状态而受到起诉。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "代词（指示代词指代前文）",
+          "note": "‘This means that...’ 指示代词 this 在此指代前一句话所表达的研究发现，作主语，意为‘这意味着……’。",
+          "answer": "N"
+        },
+        "30": {
+          "concept": "动词时态与主谓一致（一般现在时复数）",
+          "note": "‘a pair of human hands are...’，由于全篇为现在时叙述客观科学发现，且主语核心虽然是 a pair，但根据后文修饰和对比，在英语中 hands 作为实际复数概念时常跟复数谓语，选项中符合现在时复数的只有 are。",
+          "answer": "A"
+        },
+        "31": {
+          "concept": "副词修饰语（表强调或程度）",
+          "note": "‘Yet only one in eight...’ 连词/副词 yet 位于句首，表示轻微转折或强调，意为‘然而，研究表明每八个人中只有一个人在饭前洗手’。",
+          "answer": "Q"
+        },
+        "32": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘During the course of a day’ 是固定搭配，意为‘在一天的过程中/在一天内’。",
+          "answer": "L"
+        },
+        "33": {
+          "concept": "连词用法（并列否定对照）",
+          "note": "‘is not pleasant but neither is it...’ 构成 ‘not... but neither...’（或 nor）的并列倒装结构，意为‘一张脏桌子不令人愉快，但它也未必就是危险的’。",
+          "answer": "K"
+        },
+        "34": {
+          "concept": "情态动词（表示可能性推测）",
+          "note": "‘could well contain...’，情态动词 could 与 well 连用表示极有可能的推测，意为‘一张光鲜亮丽的桌子很有可能包含大量潜在的危险细菌’。",
+          "answer": "D"
+        },
+        "35": {
+          "concept": "连词用法（让步状语从句）",
+          "note": "‘As it is beyond our control...’ 或者是根据上下文选择条件/让步连词。检查选项，由于横线位于句首，后跟主句‘experts advise...’，最契合的让步连词为 (B) as，在此可引导原因状语从句，意为‘由于这超出了我们的控制……’。",
+          "answer": "B"
+        },
+        "36": {
+          "concept": "介词用法（表示方向、终点或结果）",
+          "note": "‘the fastest route to illnesses’，名词 route 后面常接介词 to，表示‘通往……的途径/路线’。",
+          "answer": "P"
+        },
+        "37": {
+          "concept": "介词用法（表示时间段）",
+          "note": "‘for about 30 seconds’，介词 for 后面跟时间段，表示动作持续的时间，意为‘洗手大约30秒’。",
+          "answer": "G"
+        },
+        "38": {
+          "concept": "限定词/数量词（修饰可数名词复数）",
+          "note": "‘despite many people thinking...’，尽管 despite 是介词，后面跟动名词的复合结构，数量词 many 修饰复数名词 people，意为‘尽管许多人认为15秒就足够长了’。",
+          "answer": "J"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "are",
+          "B": "as",
+          "C": "by",
+          "D": "could",
+          "E": "either",
+          "F": "few",
+          "G": "for",
+          "H": "is",
+          "J": "many",
+          "K": "neither",
+          "L": "of",
+          "M": "should",
+          "N": "this",
+          "P": "to",
+          "Q": "yet"
+        },
+        "cloze": [
+          "A new study has found that the human hand contains more harmful bacteria than surfaces in public areas. [Q29] means that besides public areas, our hands can make us unwell. Researchers discovered that a pair of human hands [Q30] more unhygienic than escalators and benches in busy shopping centres and parks. [Q31] only one in eight people wash their hands before eating, the study shows.",
+          "During the course [Q32] a day, we touch hundreds of surfaces. A dirty table is not pleasant but [Q33] is it necessarily dangerous. In contrast, a shiny table [Q34] well contain high levels of potentially dangerous bacteria. [Q35] it is beyond our control, experts advise that rather than just avoiding certain areas, good hand hygiene should be our top priority.",
+          "The study highlights that hand washing alone can save many lives as our hands are in frequent contact with our mouths, making them the fastest route [Q36] illnesses. Experts, therefore, recommend washing our hands [Q37] about 30 seconds. This will reduce bacteria by ten times despite [Q38] people thinking that 15 seconds is long enough. They also advise us to wash our hands approximately every four hours."
+        ],
+        "zh": [
+          "一项新的研究发现，人类手上的有害细菌比公共场所表面的细菌还要多。这意味着除了公共场所之外，我们的双手也会让我们生病。研究人员发现，在繁忙的购物中心和公园里，一双手比自动扶梯和长凳更不卫生。然而，研究表明，每八个人中只有一个人在饭前洗手。",
+          "在一天的过程中，我们会接触到数百个表面。一张脏桌子固然令人不快，但也未必就是危险的。相反，一张光鲜亮丽的桌子很有可能包含大量潜在的危险细菌。由于这超出了我们的控制，专家建议，与其只是刻意避开某些区域，保持良好的手部卫生才应该是我们的重中之重。",
+          "该研究强调，单靠洗手就可以挽救许多生命，因为我们的手经常与嘴巴接触，使其成为通往疾病的最快途径。因此，专家建议我们要洗手大约30秒。尽管许多人认为15秒就已经足够长了，但这样做可以减少十倍的细菌。他们还建议我们大约每四个小时洗一次手。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "形容词最高级 - Superlatives",
+          "note": "最高级错误：在全世界范围内对比（in the world），表示“最受欢迎的”，应用最高级 most，而非 much。",
+          "answer": "most"
+        },
+        "40": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：在系动词 is 后面作表语，表示“值得怀疑的、站不住脚的”，应用形容词形式 questionable，而非名词/动词 question。",
+          "answer": "questionable"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 exercise（名词，意为锻炼、练习）。",
+          "answer": "exercise"
+        },
+        "42": {
+          "concept": "代词 - Pronouns",
+          "note": "代词指代错误：根据语境，网是被固定在竹竿“上”，应用介词 to。原句 fixed onto 完全正确，但被划线标记可能暗示其前面的并列连接词错误。重新审视上下文，“第二和第三世纪”，两个世纪并列，between the second and third centuries 是固定表达，但此处原文是 during the second and third centuries。观察划线 (42) 位于 net 之前，对照原卷，(42) 下方的划线对应的是 and，指代“第二和第三世纪”之间的并列，无错。若 (42) 的框指向的是 and，由于 during... and... 表达两个世纪之间的时间段，通常搭配介词 between，即 between the second and third centuries，而非 during，故改为 between 复合时间语境更为精确。",
+          "answer": "between"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 permitted（动词 permit 的过去分词形式，双写 t 加 ed，意为被允许）。",
+          "answer": "permitted"
+        },
+        "44": {
+          "concept": "现在分词 - Present Participles",
+          "note": "连词引导非谓语动词：在连词 while 引导的伴随状语或时间状语中，表示主动动作，应用现在分词形式 trying，而非原形 try（或看作 while he was trying 的省略）。",
+          "answer": "trying"
+        },
+        "45": {
+          "concept": "被动语态中的动词形式 - Verbs in Passive Voice",
+          "note": "语态与动词形式错误：被动语态“被追捧、大受欢迎”的固定短语是 be sought after，因此 seek 应改为过去分词形式 sought。",
+          "answer": "sought"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 tournaments（名词复数，意为锦标赛、联赛）。",
+          "answer": "tournaments"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 ridiculous（形容词，意为荒谬的、可笑的）。",
+          "answer": "ridiculous"
+        },
+        "48": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 definitely（副词，意为明确地、肯定地）。",
+          "answer": "definitely"
+        },
+        "49": {
+          "concept": "动名词 - Gerunds",
+          "note": "动名词作介词宾语：介词 apart from（除了……之外）后面需接动名词，因此 used 应改为 using。",
+          "answer": "using"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 controlling（动词 control 的动名词形式，双写 l 加 ing，意为控制）。",
+          "answer": "controlling"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Football is a game that is believed to have started more than a hundred years ago in England in 1863. Many fans of the game believe that it is the [Q39(much)] popular game in the world but some people think that this belief is [Q40(question)]. Nevertheless, it is a known fact that people have enjoyed kicking a ball for thousands of years.",
+          "The earliest form of the game started as an [Q41(exersize)] in the Chinese army [Q42(during)] the second and third centuries. It involved kicking a leather ball filled by feathers and hair into a net fixed onto long bamboo poles. A player was only [Q43(permmited)] to use his feet, chest, back and shoulders while [Q44(try)] to withstand the attacks of his opponents. Over time, good players were [Q45(seek)] after from all over China to participate in [Q46(tornamants)].",
+          "Although some people think that it is [Q47(reedikulous)] to play a ball with one's feet, this is [Q48(deffinately)] no reason to assume that football is a strange sport. Apart from [Q49(used)] his feet to pass the ball, a player must master the art of [Q50(kontroling)] it as this requires no small measure of skill. That is why football is one of the most amazing games in the world."
+        ],
+        "zh": [
+          "足球被认为是一项于100多年前的1863年在英国起源的运动。许多足球迷认为它是世界上最受欢迎的运动，但也有人认为这种看法是值得商榷的。然而，人们喜欢踢球已经有数千年的历史，这是一个众所周知的事实。",
+          "这种运动的最早形式起源于在公元前二、三世纪中国军队中的一种训练。它包括将一个装满羽毛和头发的皮球踢进固定在长竹竿上的网里。球员在试图抵御对手的进攻时，只被允许使用脚、胸部、背部和肩膀。随着时间的推移，全国各地的优秀球员都会受到追捧，去参加各种联赛。",
+          "虽然有些人认为用脚踢球很荒谬，但这绝不是认为足球是一项奇怪运动的理由。除了使用脚来传球外，球员还必须掌握控制球的艺术，因为这需要高超的技巧。这就是为什么足球是世界上最神奇的运动之一。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "固定搭配 / 动词",
+          "answer": "calm / soothe / steady / relax",
+          "note": "根据标准答案优先选择‘calm’。‘calm one's nerves’为固定动词短语搭配，意为‘平复/镇定情绪、缓解紧张神经’。"
+        },
+        "52": {
+          "concept": "现在分词 (作后置定语)",
+          "answer": "teaching / showing / guiding / instructing",
+          "note": "根据标准答案优先选择‘teaching’。现在分词短语修饰前面的‘tutorials（教程）’，意为‘教导’人们如何在家制作史莱姆泥。"
+        },
+        "53": {
+          "concept": "固定搭配 / 代词",
+          "answer": "each",
+          "note": "与后文呼应组成‘each and every’固定强调结构，意为‘每一个（毫无例外）’。"
+        },
+        "54": {
+          "concept": "固定搭配 / 介词",
+          "answer": "of",
+          "note": "‘a form of...’为固定搭配，意为‘一种……的形式’。"
+        },
+        "55": {
+          "concept": "动词 (一般现在时单数)",
+          "answer": "requires / involves / entails / includes",
+          "note": "根据标准答案优先选择‘requires’。主语为代词‘it’，句子在陈述客观事实，故填入动词的第三人称单数形式，表示制作过程‘需要’混合不同颜色和质地的原料。"
+        },
+        "56": {
+          "concept": "固定搭配 / 现在分词",
+          "answer": "spreading",
+          "note": "与后文的‘like wildfire’搭配，‘spread like wildfire’为固定成语，意为‘像野火一样迅速蔓延/传播’。"
+        },
+        "57": {
+          "concept": "固定搭配 / 连词",
+          "answer": "or",
+          "note": "与前文的‘either’呼应，‘either... or...’为固定连词搭配，意为‘要么……要么……’。"
+        },
+        "58": {
+          "concept": "固定搭配 / 形容词",
+          "answer": "inclined / likely / prone",
+          "note": "根据标准答案优先选择‘inclined’。‘be less inclined to do something’为常见语境搭配，意为‘较少倾向于/较少可能去（参与户外活动）’。"
+        },
+        "59": {
+          "concept": "助动词搭配 / 过去分词",
+          "answer": "become / remained",
+          "note": "根据标准答案优先选择‘become’。前有助动词‘has’，此处填入动词过去分词构成现在完成时，表示玩史莱姆已经‘变成’了一项受欢迎的活动。"
+        },
+        "60": {
+          "concept": "代词 / 主语名词",
+          "answer": "It / This / Doing so / Playing",
+          "note": "根据标准答案优先选择‘It’。作为新句子的主语代词，指代前一句提到的‘成年人玩史莱姆’这件事。"
+        },
+        "61": {
+          "concept": "固定搭配 / 介词",
+          "answer": "with",
+          "note": "‘fidget with something’为固定动词短语搭配，意为‘摆弄/不停摆弄某物’。"
+        },
+        "62": {
+          "concept": "逻辑连接词 (转折/让步)",
+          "answer": "While / Although / Though",
+          "note": "根据标准答案优先选择‘While’。位于句首引导让步状语从句，与主句‘health experts warn（健康专家警告）’形成对比转折，意为‘尽管/虽然’网上有许多配方……"
+        },
+        "63": {
+          "concept": "上下文语境名词",
+          "answer": "ingredients / chemicals / materials / substances",
+          "note": "根据标准答案优先选择‘ingredients’。结合本段后文出现的提示词‘natural ingredients’，可知此处是指配方中所使用的‘原料/化学成分’。"
+        },
+        "64": {
+          "concept": "固定搭配 / 介词",
+          "answer": "due",
+          "note": "后接‘to...’引导原因，‘due to’为固定词组，意为‘因为、由于’高毒性水平而变得很危险。"
+        },
+        "65": {
+          "concept": "固定搭配 / 名词",
+          "answer": "supervision / guidance / watchful eye",
+          "note": "根据标准答案优先选择‘supervision’。‘under the supervision of an adult’为固定表达，意为‘在成年人的监督/指导下’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Ask any primary school pupil how he is spending his free time and you will be surprised that many of them will say \"Making Slime\". This activity, according to them, helps to [Q51] their nerves.",
+          "There are numerous posts on social media and an overwhelming number of online tutorials [Q52] people how to make their own slime at home. There seems to be something appealing about [Q53] and every method of slime making.",
+          "\"It's a form [Q54] art,\" says Art therapist, Nadia Jensen. \"You can get creative while making slime as it [Q55] mixing ingredients of various colours and textures. Another reason the idea of slime is [Q56] like wildfire across social media is because children are spending more time indoors, playing on various electronic devices. As such, they experience mostly one type of hand sensation, which is the smooth rubbing of a finger either on a screen [Q57] a keyboard. Since children are less [Q58] to participate in outdoor activities, playing with slime has [Q59] a popular activity which allows them to develop their sense of touch.\"",
+          "Nadia also added that adults who are stressed would want to play with slime too. [Q60] is a good way for them to release stress as they will have something to fidget [Q61].",
+          "[Q62] there are plenty of recipes for homemade slime on the Internet, health experts warn that some of the [Q63] used in these recipes can actually be dangerous [Q64] to high toxic levels. Those who continue to make slime at home should do so under the [Q65] of an adult. They should also opt for safer and natural ingredients.",
+          "With an increasing number of children choosing slime making as their pastime, adults must ensure that safety measures are put in place before carrying out the activity."
+        ],
+        "zh": [
+          "随便问一个小学生他如何度过闲暇时间，你都会惊讶地发现，他们中的许多人会说“制作史莱姆水晶泥”。据他们说，这项活动有助于平复他们的紧张神经。",
+          "社交媒体上有无数的相关帖子，网上也有数量惊人的教程来教人们如何在家制作属于自己的史莱姆泥。史莱姆泥制作的每一种方法似乎都有其吸引人之处。",
+          "“这是一种艺术形式，”艺术治疗师纳迪亚·詹森说。“在制作史莱姆泥时你可以发挥创意，因为这需要混合各种颜色和质地的原料。史莱姆泥的概念之所以在社交媒体上像野火一样迅速蔓延，另一个原因是因为孩子们在室内呆的时间更长，摆弄着各种电子设备。因此，他们主要体验到一种手部触觉，即手指在屏幕或键盘上的平滑摩擦。由于孩子们较少倾向于参与户外活动，玩史莱姆泥便成了一项受欢迎的活动，能够让他们借此发展触觉。”",
+          "纳迪亚还补充说，压力大的成年人也会想玩史莱姆泥。这样做是他们释放压力的好方法，因为他们手头有东西可以不停地摆弄。",
+          "虽然网络上有大量自制史莱姆泥的配方，但健康专家警告说，这些配方中使用的某些原料实际上由于高毒性水平而非常危险。那些继续在家里制作史莱姆泥的人应该在成年人的监督下进行。他们还应该选择更安全、更天然的成分。",
+          "随着越来越多的大孩子选择制作史莱姆泥作为消遣，成年人必须确保在开展这项活动之前落实好安全措施。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

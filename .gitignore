@@ -1,0 +1,14 @@
+node_modules
+dist
+.wrangler
+.venv
+.venv-workers
+python_modules
+__pycache__
+*.pyc
+.DS_Store
+*.local
+.nuxt
+.output
+pylock.toml
+uv.lock

@@ -1,0 +1,1574 @@
+{
+  "paperid": "p6_english_2022_sa2_taonan",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"He's hardly the person for the job, ___________?\" said the manager, shaking his head.",
+          "options": {
+            "1": "is he",
+            "2": "can he",
+            "3": "isn't he",
+            "4": "can't he"
+          }
+        },
+        "2": {
+          "stem_plain": "During his stay on the farm, all he did was ___________ the farmers plough the field.",
+          "options": {
+            "1": "watch",
+            "2": "watches",
+            "3": "watched",
+            "4": "watching"
+          }
+        },
+        "3": {
+          "stem_plain": "Catherine's knowledge of computers ___________ so extensive that everybody wants her to be in their project group.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "The studious boy persevered despite being told that he was making ___________ progress in his work.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "some",
+            "4": "several"
+          }
+        },
+        "5": {
+          "stem_plain": "I am teaching at Everit Enrichment Centre, ___________ is just a stone's throw away from your school.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "where"
+          }
+        },
+        "6": {
+          "stem_plain": "I did not know how long the poor old man ___________ there and decided to offer him a sandwich.",
+          "options": {
+            "1": "sat",
+            "2": "had sat",
+            "3": "was sitting",
+            "4": "had been sitting"
+          }
+        },
+        "7": {
+          "stem_plain": "\"The flight ___________ in half an hour. We had better hurry!\" my mother reminded us.",
+          "options": {
+            "1": "leaves",
+            "2": "has left",
+            "3": "was leaving",
+            "4": "would leave"
+          }
+        },
+        "8": {
+          "stem_plain": "The contestant was disqualified for not adhering ___________ the rules and regulations.",
+          "options": {
+            "1": "to",
+            "2": "by",
+            "3": "for",
+            "4": "over"
+          }
+        },
+        "9": {
+          "stem_plain": "\"Pick what you like. It doesn't have to be something ___________ by us,\" my parents assured me.",
+          "options": {
+            "1": "chose",
+            "2": "choose",
+            "3": "chosen",
+            "4": "chooses"
+          }
+        },
+        "10": {
+          "stem_plain": "___________ the holiday was a short one, we enjoyed ourselves tremendously.",
+          "options": {
+            "1": "While",
+            "2": "Unless",
+            "3": "Whereas",
+            "4": "In spite of"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "Negative tag after hardly",
+          "zh": "经理摇头说：“他几乎不是这份工作的合适人选，是吗？”",
+          "note": "hardly 含否定意义，附加问 (Question tag) 用肯定形式 is he。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "Bare infinitive after all he did was",
+          "zh": "在农场期间，他所做的就是看农民犁地。",
+          "note": "固定结构 all he did was + 动词原形 (bare infinitive)。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "Subject–verb agreement — uncountable subject",
+          "zh": "凯瑟琳的电脑知识非常丰富，大家都想让她加入自己的小组。",
+          "note": "knowledge 不可数，谓语用单数 is。",
+          "answer": "1"
+        },
+        "4": {
+          "concept": "Quantifier — little with uncountable progress",
+          "zh": "尽管被告知进步甚微，这个勤奋的男孩仍坚持不懈。",
+          "note": "progress 不可数，用 little；few 修饰可数复数。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "Non-defining relative — which for place/centre",
+          "zh": "我在 Everit 补习中心教书，它离你们学校仅一步之遥。",
+          "note": "修饰机构名用非限制性定语从句 which。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "Past perfect continuous — duration before past point",
+          "zh": "我不知道那位可怜的老人在那里坐了多久，于是决定给他一个三明治。",
+          "note": "过去某时刻之前持续的动作用过去完成进行时 (Past perfect continuous) had been sitting。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "Present simple — timetable future",
+          "zh": "“飞机半小时后起飞，我们最好快点！”妈妈提醒道。",
+          "note": "表时刻表将来用一般现在时 leaves。",
+          "answer": "1"
+        },
+        "8": {
+          "concept": "Preposition — adhere to",
+          "zh": "该选手因未遵守规章制度而被取消资格。",
+          "note": "固定搭配 adhere to（遵守）。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "Past participle modifier",
+          "zh": "父母安慰我说，不必非得选他们挑的东西。",
+          "note": "something 后用过去分词 chosen 表被动修饰。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "Concessive conjunction — While",
+          "zh": "虽然假期很短，我们仍玩得非常开心。",
+          "note": "让步从句用 While（虽然）；In spite of 后接名词短语。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The pain on my ankle gradually ___________. Soon, I would be able to walk without the aid of a walking stick.",
+          "options": {
+            "1": "wore on",
+            "2": "wore off",
+            "3": "wore out",
+            "4": "wore away"
+          }
+        },
+        "12": {
+          "stem_plain": "After you have a clear idea of the play, we can start thinking about the cast ___________.",
+          "options": {
+            "1": "accordingly",
+            "2": "expectantly",
+            "3": "presumably",
+            "4": "simultaneously"
+          }
+        },
+        "13": {
+          "stem_plain": "The young actor ___________ the question by talking about something that was absolutely unrelated.",
+          "options": {
+            "1": "alerted",
+            "2": "evaded",
+            "3": "averted",
+            "4": "escaped"
+          }
+        },
+        "14": {
+          "stem_plain": "She is always giving orders and expecting others to obey. No one likes her because of her ___________ manner.",
+          "options": {
+            "1": "hasty",
+            "2": "reckless",
+            "3": "impulsive",
+            "4": "imperious"
+          }
+        },
+        "15": {
+          "stem_plain": "Tim decided to ___________ and face his fear of water by jumping out of the boat and into the sea.",
+          "options": {
+            "1": "bite the bullet",
+            "2": "make a comeback",
+            "3": "survive the test of time",
+            "4": "set the wheels in motion"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "脚踝的疼痛逐渐消退，我很快就不用拐杖走路了。",
+          "note": "应选（2）wore off：疼痛减轻。wore on 表拖延；wore out 表耗尽/磨坏；wore away 表磨损。",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "wore on",
+              "zh": "（时间）消逝，流逝；缓慢过去（动词短语，指时间在不知不觉中一点点过去，通常伴随着让人感到枯燥、漫长或疲惫的语境）",
+              "eg": "As the boring afternoon lecture wore on, several students found it difficult to stay awake and began to nod off."
+            },
+            {
+              "opt": "2",
+              "word": "wore off",
+              "zh": "（感觉、效果等）逐渐消退，减弱；消失（动词短语，指药物的作用、疼痛感、强烈的情感或某种暂时的状态逐渐减弱直至完全不见）",
+              "eg": "The local anesthetic administered by the dentist began to wore off about two hours after the tooth extraction procedure."
+            },
+            {
+              "opt": "3",
+              "word": "wore out",
+              "zh": "磨损，穿坏；使精疲力竭（动词短语，指衣物、鞋子等因长期使用而破损报废，或者因为过度劳累而消耗尽某人的全部体能与精力）",
+              "eg": "The energetic children completely wore out their parents after a full day of running around the theme park."
+            },
+            {
+              "opt": "4",
+              "word": "wore away",
+              "zh": "磨损，磨灭；侵蚀，逐渐消失（动词短语，指通过长期的摩擦、风化、水流冲刷等物理作用，使物体的表面或厚度逐渐减少、剥落）",
+              "eg": "The sharp inscriptions on the ancient stone monument had gradually wore away after centuries of exposure to wind and rain."
+            }
+          ],
+          "image": "a11.jpeg"
+        },
+        "12": {
+          "zh": "清楚剧情后，我们就可以相应地考虑演员阵容。",
+          "note": "应选（1）accordingly：与计划一致地安排。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "accordingly",
+              "zh": "相应地，照着；因此（副词，指根据已经发生、提及或已知的情况、规定、计划，做出与之相匹配、相适应的后续行动或调整）",
+              "eg": "The flight schedule has been changed due to bad weather, so all passengers must adjust their travel plans accordingly."
+            },
+            {
+              "opt": "2",
+              "word": "expectantly",
+              "zh": "满怀期待地，充满希望地（副词，指因为预料到接下来会有令人兴奋、有趣或重要的事情发生，而表现出极为期待、渴望的神情或举止）",
+              "eg": "The eager children sat expectantly around the Christmas tree, waiting for their parents to give them permission to open the gifts."
+            },
+            {
+              "opt": "3",
+              "word": "presumably",
+              "zh": "大概，推测起来；假定（副词，指根据目前已有的常理、迹象或间接证据进行合乎逻辑的推断，认为某事极有可能是真实的，但尚未完全百分之百证实）",
+              "eg": "The front door is locked and all the lights are switched off, so the neighbors have presumably gone out for dinner."
+            },
+            {
+              "opt": "4",
+              "word": "simultaneously",
+              "zh": "同时地，同步地（副词，指两个或两个以上的动作、事件、变化或声音，在同一时间、同一时刻完全并列发生或进行）",
+              "eg": "The newly upgraded multimedia system allows the teacher's lecture to be broadcast simultaneously to three different seminar rooms."
+            }
+          ]
+        },
+        "13": {
+          "zh": "那位年轻演员谈些毫不相干的事来回避问题。",
+          "note": "应选（2）evaded：回避问题。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "alerted",
+              "zh": "提醒，使警觉；向……报警（动词，指将潜在的危险、紧急情况、突发事件或重要警报通知某人，使其提高警惕并做好防范准备）",
+              "eg": "The smart smoke detector immediately alerted the homeowners to the fire in the kitchen by sending an emergency notification to their phones."
+            },
+            {
+              "opt": "2",
+              "word": "evaded",
+              "zh": "回避，逃避；躲避（动词，指用机智、狡猾或巧妙的手段去躲过惩罚、法律制裁或责任，或者在谈话中故意绕开不想回答的棘手问题）",
+              "eg": "The young actor evaded the direct question about his private life by talking about something that was absolutely unrelated to the topic."
+            },
+            {
+              "opt": "3",
+              "word": "averted",
+              "zh": "转移，目光移开；避免，防止（动词，指为了不看某物而转开目光或视线，或者采取果断行动去阻止、防范某种灾难或糟糕局面的发生）",
+              "eg": "The quick wit and swift action of the alert school bus driver managed to avert what could have been a catastrophic multi-vehicle highway accident."
+            },
+            {
+              "opt": "4",
+              "word": "escaped",
+              "zh": "逃脱，逃跑；逃避（现实）（动词，指成功从被囚禁、被限制、危险或不快乐的状态中挣脱出来，重新获得自由，或者指物品或名字被遗忘）",
+              "eg": "The laboratory workers were thoroughly relieved to find that none of the venomous snakes had escaped from their securely locked glass enclosures."
+            }
+          ]
+        },
+        "14": {
+          "zh": "她总是发号施令，要别人服从，没人喜欢她专横的态度。",
+          "note": "应选（4）imperious：专横、发号施令。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hasty",
+              "zh": "仓促的，草率的；匆忙的（形容词，指行动、决定或判断在时间极其紧迫、未经深思熟虑或缺乏足够准备的情况下做出，因而极易出错）",
+              "eg": "A hasty decision to sign the business contract without reading the fine print led to severe financial mistakes on the final order form."
+            },
+            {
+              "opt": "2",
+              "word": "reckless",
+              "zh": "鲁莽的，不顾后果的（形容词，指人的行为或做事方式极其大意、危险，完全不在乎可能对自己或他人生命财产造成的严重伤害或后果）",
+              "eg": "The reckless driver was severely punished by the traffic police for speeding through a crowded school zone during the busy morning rush hour."
+            },
+            {
+              "opt": "3",
+              "word": "impulsive",
+              "zh": "冲动的，凭一时冲动的（形容词，指人受到瞬间的情绪、欲望或突然的念头驱使而做出的举动，完全没有事先计划或考虑长远的影响）",
+              "eg": "Buying that highly expensive luxury watch on a whim was an impulsive decision that the young executive later regretted deeply when his bills arrived."
+            },
+            {
+              "opt": "4",
+              "word": "imperious",
+              "zh": "专横的，傲慢的；颐指气使的（形容词，指一个人的态度或做事方式非常傲慢、强硬，习惯于高高在上地向他人发号施令并强迫别人服从）",
+              "eg": "She is always giving orders to her colleagues and expecting everyone to obey her without question; no one likes working with her because of her imperious manner."
+            }
+          ]
+        },
+        "15": {
+          "zh": "蒂姆决定硬着头皮，跳下船入海，直面对水的恐惧。",
+          "note": "应选（1）bite the bullet：勇敢面对不愿做的事。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "bite the bullet",
+              "zh": "咬紧牙关，硬着头皮去执行；勇敢面对（动词短语，指在面对无法逃避的痛苦、艰难、不情愿或长期恐惧的局面时，下定决心、鼓起勇气去面对和解决）",
+              "eg": "Tim decided to bite the bullet and face his lifelong fear of water by jumping straight out of the boat and into the deep sea."
+            },
+            {
+              "opt": "2",
+              "word": "make a comeback",
+              "zh": "复出，东山再起；重振旗鼓（动词短语，指在经历失败、重伤、隐退或长期低迷之后，重新获得成功、恢复往日的名望、地位或流行度）",
+              "eg": "After undergoing a major knee surgery and months of intense physical therapy, the veteran tennis star managed to make a brilliant comeback by winning the tournament."
+            },
+            {
+              "opt": "3",
+              "word": "survive the test of time",
+              "zh": "经得起时间的考验，历久弥新（动词短语，指某种思想、艺术作品、文学名著或人际关系质量极高，在经历长久的时间流逝或时代变迁后依然具有价值、广受欢迎）",
+              "eg": "The teacher explained that classical literature pieces survive the test of time because their core themes about human nature remain deeply relevant to readers today."
+            },
+            {
+              "opt": "4",
+              "word": "set the wheels in motion",
+              "zh": "启动某事，开动机器；让计划开始运转（动词短语，指采取了第一个关键性的实际行动，从而触发一系列连锁反应，使某个大型计划、活动或法律程序正式开始运作）",
+              "eg": "The project coordinator submitted the official budget proposal to the board of directors, which finally set the wheels in motion for the construction of the new school wing."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "placid",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "calm",
+            "2": "dazed",
+            "3": "fatigued",
+            "4": "nervous"
+          }
+        },
+        "17": {
+          "stem_plain": "evaluation",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "discovery",
+            "2": "diagnosis",
+            "3": "judgement",
+            "4": "investigation"
+          }
+        },
+        "18": {
+          "stem_plain": "Without further delay",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Impatiently",
+            "2": "Instinctively",
+            "3": "Concurrently",
+            "4": "Instantaneously"
+          }
+        },
+        "19": {
+          "stem_plain": "dramatic outburst",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "an unusual outbreak",
+            "2": "an unexpected surge",
+            "3": "an exaggerated flare-up",
+            "4": "an uncontrollable eruption"
+          }
+        },
+        "20": {
+          "stem_plain": "nonchalantly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "readily",
+            "2": "casually",
+            "3": "randomly",
+            "4": "confidently"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — placid（平静）",
+          "note": "形容词 placid 意为平静的、安详的。在描写患者情绪稳定、毫无波动的医学考查语境中，它直接对应高频形容词 calm（平静的，冷静的，镇定的）。",
+          "zh": "病人显得异常平静。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "calm",
+              "zh": "平静的，冷静的，镇定的",
+              "eg": "The consulting doctor noticed that the patient stayed exceptionally calm throughout the clinical evaluation."
+            },
+            {
+              "opt": "2",
+              "word": "dazed",
+              "zh": "茫然的，神志恍惚的",
+              "eg": "Following the sudden traffic accident near the school gate, the driver looked completely dazed."
+            },
+            {
+              "opt": "3",
+              "word": "fatigued",
+              "zh": "疲惫的，疲劳的",
+              "eg": "The exhausted marathon runner felt heavily fatigued after ascending the steep mountain trail."
+            },
+            {
+              "opt": "4",
+              "word": "nervous",
+              "zh": "紧张的，焦虑的",
+              "eg": "It is perfectly normal for primary school pupils to feel slightly nervous before their formal examinations."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — evaluation（诊断/评估）",
+          "note": "名词 evaluation 在医学或精神科语境中指对病情的全面评估与分析。及物名词 diagnosis 意为诊断，在指代判定某种特定病症的核心学术考点中最为对标。",
+          "zh": "医生心想这男孩可能需要精神科诊断。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "discovery",
+              "zh": "发现，发掘",
+              "eg": "The prominent research group made a brilliant scientific discovery that could revolutionize clinical medicine."
+            },
+            {
+              "opt": "2",
+              "word": "diagnosis",
+              "zh": "诊断，诊断书",
+              "eg": "The experienced psychiatrist provided a clear diagnosis regarding the child's sudden cognitive condition."
+            },
+            {
+              "opt": "3",
+              "word": "judgement",
+              "zh": "判断，判断力，判决",
+              "eg": "When navigating a volatile layout emergency, you must rely heavily on your professional judgement."
+            },
+            {
+              "opt": "4",
+              "word": "investigation",
+              "zh": "调查（指对案件、事故的深入探查）",
+              "eg": "The local authorities launched a thorough investigation to ascertain the exact cause of the laboratory explosion."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — Without further delay（立刻）",
+          "note": "短语 Without further delay 意为毫不耽搁、立刻做某事。副词 Instantaneously 意为瞬间地、即刻地，两者在修饰动作发出极快的迅速程度上属于直接近义代换。",
+          "zh": "陈医生立刻走过去自我介绍。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Impatiently",
+              "zh": "不耐烦地，焦躁地",
+              "eg": "The supervisor tapped his fingers impatiently while waiting for the assistant to compile the missing files."
+            },
+            {
+              "opt": "2",
+              "word": "Instinctively",
+              "zh": "本能地，凭直觉地",
+              "eg": "The mother reacted instinctively and pulled her little brother away from the hot kitchen counter."
+            },
+            {
+              "opt": "3",
+              "word": "Concurrently",
+              "zh": "同时地，并行地（指两个或多个事件同步进行）",
+              "eg": "The university scheduled the two workshop events concurrently, making it hard for students to attend both."
+            },
+            {
+              "opt": "4",
+              "word": "Instantaneously",
+              "zh": "立刻，瞬间，即刻",
+              "eg": "As soon as the technician entered the command, the entire system layout updated itself instantaneously."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — dramatic outburst（剧烈发作）",
+          "note": "短语 dramatic outburst 意为情绪或病症的剧烈、夸张的发作。在医学和心理学描述病情突发加重的上下文逻辑中，短语 an exaggerated flare-up 意为（疾病/痛苦的）夸张暴发、剧烈发作，与其最接近。",
+          "zh": "他从未见过如此剧烈的歇斯底里失明发作。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "an unusual outbreak",
+              "zh": "不寻常的暴发（多指传染病或战争等大范围出现）",
+              "eg": "The world environmental health organization monitored an unusual outbreak of a rare flu virus across the region."
+            },
+            {
+              "opt": "2",
+              "word": "an unexpected surge",
+              "zh": "意外激增，突发高涨",
+              "eg": "The online grocery platform recorded an unexpected surge in demand for organic products during the lockdown."
+            },
+            {
+              "opt": "3",
+              "word": "an exaggerated flare-up",
+              "zh": "（病情/愤怒等的）夸张爆发，剧烈发作",
+              "eg": "The specialist had never witnessed such an exaggerated flare-up of hysterical blindness in his career."
+            },
+            {
+              "opt": "4",
+              "word": "an uncontrollable eruption",
+              "zh": "失控的喷发（多用于火山等物理破坏性喷涌）",
+              "eg": "The volcano showed signs of an uncontrollable eruption, forcing local residents to leave their homes."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — nonchalantly（漫不经心）",
+          "note": "副词 nonchalantly 意为若无其事地、漫不经心地。副词 casually 意为随意地、淡然地，在描写人物回应他人时展现出的不在乎、无所谓的态度时，完全同义。",
+          "zh": "“哦，”她漫不经心地说，“从你挡住电视起就这样了。”",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "readily",
+              "zh": "乐意地，欣然地，轻易地",
+              "eg": "She was exceptionally kind and readily agreed to help her teammate format the database payload."
+            },
+            {
+              "opt": "2",
+              "word": "casually",
+              "zh": "漫不经心地，随意地，淡然地",
+              "eg": "“Oh,” she stated casually, “he has been acting strange ever since you blocked his view of the television.”"
+            },
+            {
+              "opt": "3",
+              "word": "randomly",
+              "zh": "随意地，随机地，任意地",
+              "eg": "The computer system was programmed to select three candidate names randomly from the extensive database."
+            },
+            {
+              "opt": "4",
+              "word": "confidently",
+              "zh": "自信地，胸有成竹地",
+              "eg": "She walked onto the grand stage and spoke confidently about her breakthrough in green technologies."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Dr Tan strolled into the hospital ward. As he approached the boy who was sitting on his bed, the doctor noticed that the patient seemed to show an unusually [Q16 (placid)] temperament. \"Looks like this young man can do with a psychiatric [Q17 (evaluation)],\" he mused. A middle-aged lady was seated next to the bed, but she was totally engrossed in her knitting. [Q18 (Without further delay)], Dr Tan walked over and introduced himself. The boy, however, looked right through the doctor and all of a sudden, broke into a piercing scream. \"I can't see! I can't see!\" Never in his life had he ever witnessed such a [Q19 (dramatic outburst)] of hysterical blindness. \"How long has this been going on?\" he asked the lady, unable to comprehend the boy's peculiar behaviour.",
+          "\"Oh,\" she said [Q20 (nonchalantly)]. \"Ever since you stepped in front of the television.\""
+        ],
+        "zh": [
+          "陈医生走进病房。走近床上的男孩时，他注意到病人显得异常平静。医生心想这男孩或许需要精神科评估。床边坐着一位中年女士，却全神贯注地织毛衣。陈医生立刻上前自我介绍。男孩却像没看见医生，突然尖叫：“我看不见了！我看不见了！”医生从未见过如此剧烈的歇斯底里失明发作，便问女士这种情况持续多久，无法理解男孩的古怪行为。",
+          "“哦，”她漫不经心地说，“从你挡住电视起就这样了。”"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "What is the **main** purpose of the flyer on page 6?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "To raise funds for underprivileged children",
+            "2": "To look for students who can take care of animals",
+            "3": "To encourage people to volunteer or make donations",
+            "4": "To heighten the awareness of the needs of the elderly"
+          }
+        },
+        "22": {
+          "stem_plain": "How is Twilight Dreams Home similar to Hercules Physiotherapy Centre?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They take care of the elderly.",
+            "2": "They look for helpers who can dance.",
+            "3": "They receive donations from the public.",
+            "4": "They recruit volunteers for Sunday programmes."
+          }
+        },
+        "23": {
+          "stem_plain": "Mindy is eleven years old. She wants to volunteer on a Saturday for two hours with her mother. They can volunteer at ___________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Sunshine Hospital",
+            "2": "Twilight Dreams Home",
+            "3": "Precious Paws Animal Shelter",
+            "4": "Hercules Physiotherapy Centre"
+          }
+        },
+        "24": {
+          "stem_plain": "Fourteen-year-old Raja can volunteer up to three hours on a single Sunday on his own. He can ___________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "read to children in the hospital",
+            "2": "clean cages at the animal shelter",
+            "3": "collect donations for the physiotherapy centre",
+            "4": "play chess with the elderly at the senior home"
+          }
+        },
+        "25": {
+          "stem_plain": "The brackets used on page 6 serve to ___________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "explain new information further",
+            "2": "add more details to the information",
+            "3": "organise the information more neatly",
+            "4": "allow readers to retrieve important information"
+          }
+        },
+        "26": {
+          "stem_plain": "Which of the following is what Aunty Marie likes most when young volunteers visit her?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "the magic tricks they do",
+            "2": "conversations she has with them",
+            "3": "their song and dance performances",
+            "4": "being taught to use the mobile phone"
+          }
+        },
+        "27": {
+          "stem_plain": "The three testimonials provided by Aunty Marie, Miss Cecil Lee and Miss Dawn Chua tell us ___________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "the types of activities they enjoy doing",
+            "2": "why people sign up to help the elderly",
+            "3": "who they like to spend their weekends with",
+            "4": "how volunteers or donations have helped them"
+          }
+        },
+        "28": {
+          "stem_plain": "According to Miss Cecil Lee, some of the animals that are taken to the animal shelter ___________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "require daily cleaning",
+            "2": "are unwell and need therapy",
+            "3": "need the staff at the shelter to train them",
+            "4": "are given therapy sessions by volunteers"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "Main purpose — volunteer/donate",
+          "note": "<p>The Gifts SG flyer invites people to <strong>volunteer or donate</strong> to partner organisations — option (3).</p>",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "Similarity — public donations",
+          "note": "<p>Both Twilight Dreams Home and Hercules Physiotherapy Centre <strong>receive donations from the public</strong> — (3).</p>",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "Eligibility — age and day",
+          "note": "<p>Mindy is 11; Saturday two hours with mother → <strong>Precious Paws Animal Shelter</strong> fits age/day rules — (3).</p>",
+          "answer": "2"
+        },
+        "24": {
+          "concept": "Volunteer task match",
+          "note": "<p>Raja, 14, up to three hours Sunday alone → <strong>play chess with the elderly</strong> at the senior home — (4).</p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "Brackets function",
+          "note": "<p>Brackets on the flyer <strong>add more details</strong> to the main points — (2).</p>",
+          "answer": "2"
+        },
+        "26": {
+          "concept": "Detail — Aunty Marie preference",
+          "note": "<p>Testimonial: she values <strong>conversations</strong> with young volunteers — (2).</p>",
+          "answer": "2"
+        },
+        "27": {
+          "concept": "Testimonials purpose",
+          "note": "<p>They show <strong>how volunteers or donations have helped</strong> beneficiaries — (4).</p>",
+          "answer": "4"
+        },
+        "28": {
+          "concept": "Animal shelter detail",
+          "note": "<p>Miss Cecil Lee: some animals arrive <strong>unwell and need therapy</strong> — (2).</p>",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "after",
+          "D": "could",
+          "G": "however",
+          "K": "might",
+          "N": "us",
+          "B": "anywhere",
+          "E": "everywhere",
+          "H": "its",
+          "L": "must",
+          "P": "will",
+          "C": "around",
+          "F": "from",
+          "J": "it's",
+          "M": "subsequently",
+          "Q": "you"
+        },
+        "cloze": [
+          "Imagine this — you are sinking your teeth into a delectable cheeseburger, complete with buttery buns, tangy pickles and a succulent beef patty. As you let the textures and flavours dance [Q29] on your taste buds, the chef comes up to [Q30] and introduces the burger: it is the restaurant's first ever meat-free, laboratory-grown burger.",
+          "You cannot believe your ears. How [Q31] burgers be grown in a laboratory?",
+          "In 2013, scientists extracted cells [Q32] a cow and artificially developed muscle tissue. [Q33], they made the rest of the burger with other preservatives. [Q34] cultivating billions of cells, the first laboratory-grown burger was created. Despite [Q35] less-than-stellar taste reviews, the creation was certainly a huge step forward in the efforts of food production. Why would anyone go to such lengths to produce food? One [Q36] wonder. The reason is that our current system of food production is simply not sustainable.",
+          "With the global population expected to grow [Q37] between two and nine billion by 2050, our existing arrangement will not suffice. Massive acres of land are needed to grow crops and farm animals. Reducing the world's cattle herds [Q38] significantly reduce carbon emission of methane, a greenhouse gas, that contributes to global warming. These concerns are pressing enough to demand an alternative solution to food production."
+        ],
+        "zh": [
+          "想象一下——你正咬一口美味芝士汉堡：黄油面包、酸黄瓜、多汁牛肉饼。当口感与味道在舌尖萦绕时，厨师走过来介绍：这是餐厅首份实验室培育的“无肉”汉堡。",
+          "你简直不敢相信：汉堡怎么能在实验室里种出来？",
+          "2013 年，科学家从牛身上提取细胞并人工培育肌肉组织，随后又用其他添加物完成汉堡其余部分。在培育数十亿个细胞之后，首个实验室汉堡诞生了。尽管评价平平，这无疑是食品生产的一大进步。为何有人不惜代价？人们或许会问——因为现行食品生产体系不可持续。",
+          "全球人口预计到 2050 年将增至二十亿至九十亿，现有模式难以为继。大量土地用于种植作物与饲养牲畜；减少牛群数量可显著降低甲烷排放，从而缓解全球变暖。这些紧迫问题促使人们寻找替代方案。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — around",
+          "note": "<p><em>flavours dance around on your taste buds</em> 表在味蕾上萦绕。故填'<strong>C — around</strong>'。</p>",
+          "answer": "C — around"
+        },
+        "30": {
+          "concept": "代词 — you",
+          "note": "<p><em>the chef comes up to you</em> 第二人称。故填'<strong>Q — you</strong>'。</p>",
+          "answer": "Q — you"
+        },
+        "31": {
+          "concept": "情态动词 — could",
+          "note": "<p><em>How could burgers be grown in a laboratory?</em> 表可能性。故填'<strong>D — could</strong>'。</p>",
+          "answer": "D — could"
+        },
+        "32": {
+          "concept": "介词 — from",
+          "note": "<p><em>extracted cells from a cow</em> 表来源。故填'<strong>F — from</strong>'。</p>",
+          "answer": "F — from"
+        },
+        "33": {
+          "concept": "连接副词 — subsequently",
+          "note": "<p><em>Subsequently, they made the rest of the burger</em> 表随后。故填'<strong>M — subsequently</strong>'。</p>",
+          "answer": "M — subsequently"
+        },
+        "34": {
+          "concept": "介词 — after",
+          "note": "<p><em>After cultivating billions of cells</em> 表在……之后。故填'<strong>A — after</strong>'。</p>",
+          "answer": "A — after"
+        },
+        "35": {
+          "concept": "所有格 — its",
+          "note": "<p><em>Despite its less-than-stellar taste reviews</em> 指实验室汉堡。故填'<strong>H — its</strong>'。</p>",
+          "answer": "H — its"
+        },
+        "36": {
+          "concept": "情态动词 — might",
+          "note": "<p><em>One might wonder</em> 表'人们或许会想'。故填'<strong>K — might</strong>'。</p>",
+          "answer": "K — might"
+        },
+        "37": {
+          "concept": "副词 — anywhere",
+          "note": "<p><em>grow anywhere between two and nine billion</em> 表在……之间任何幅度。故填'<strong>B — anywhere</strong>'。</p>",
+          "answer": "B — anywhere"
+        },
+        "38": {
+          "concept": "情态动词 — will",
+          "note": "<p><em>Reducing herds will significantly reduce carbon emission</em> 表将来结果。故填'<strong>P — will</strong>'。</p>",
+          "answer": "P — will"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Welcome to secondary school life! I know it is quite [Q39(unnerveing)] the first time you step into school as the [Q40(envirroment)] here is very different from the previous one you have experienced.",
+          "You must be [Q41(overwhelm)] by the number of subjects you need to take. But I am sure that you will learn to adapt and [Q42(asimillate)] into our school culture in no time. [Q43(Despite)] the school hours are longer, we still have to make time for [Q44(excercize)] and play. School life is more than just about homework and exams, isn't it?",
+          "As [Q45(adoulescents)] , we may get bored more [Q46(easy)] than adults do. Hence, activities like sports, games and the arts help to build character. While [Q47(participate)] in sports tone our muscles, they also teach us [Q48(resillance)] . This is how we develop into better people and become an inspiration [Q49(towards)] others.",
+          "At the same time, we also get to make new friends! [Q50(Believing)] me, life in secondary school is more bearable when you have friends to appreciate and support you.",
+          "I wish you all the best in your secondary school life!"
+        ],
+        "zh": [
+          "欢迎来到中学生活！我知道第一次踏进校门会令人紧张，因为这里的环境与你以往经历的截然不同。你可能被众多科目压得喘不过气，但我相信你会很快适应并融入我们的校园文化。尽管在校时间更长，我们仍要抽时间锻炼与玩耍。学校生活不只是作业和考试，不是吗？作为青少年，我们可能比成年人更容易感到无聊，因此体育、游戏与艺术有助于塑造品格。参与运动既能强健肌肉，也教会我们韧性，从而成为更好的人并激励他人。同时我们还会结交新朋友！请相信我，有朋友欣赏与支持，中学生活会好受得多。祝你们中学一切顺利！",
+          "你也许会被必须修读的众多科目压得喘不过气。但我相信你会很快学会适应，并融入我们的校园文化。尽管在校时间更长，我们仍要抽时间锻炼和玩耍。学校生活不只是功课和考试，不是吗？",
+          "作为青少年，我们可能比成年人更容易感到无聊。因此，体育、游戏和艺术等活动有助于塑造品格。参与运动既能锻炼肌肉，也教会我们韧性；我们借此成长为更好的人，并成为他人的榜样。",
+          "同时，我们还能结交新朋友！请相信我，有朋友欣赏与支持，中学生活会好受得多。",
+          "祝你们中学生活一切顺利！"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling — unnerving",
+          "note": "<p>Remove extra <em>e</em>; adjective from <em>unnerve</em>.</p>",
+          "answer": "unnerving"
+        },
+        "40": {
+          "concept": "Spelling — environment",
+          "note": "<p>Correct spelling of <em>environment</em>.</p>",
+          "answer": "environment"
+        },
+        "41": {
+          "concept": "Grammar — overwhelmed",
+          "note": "<p>Passive/state: <em>be overwhelmed by</em>.</p>",
+          "answer": "overwhelmed"
+        },
+        "42": {
+          "concept": "Spelling — assimilate",
+          "note": "<p>Double <em>s</em>, one <em>m</em> in <em>assimilate</em>.</p>",
+          "answer": "assimilate"
+        },
+        "43": {
+          "concept": "Grammar — Although",
+          "note": "<p>Contrast clause needs <em>Although</em>, not <em>Despite</em> + clause.</p>",
+          "answer": "although"
+        },
+        "44": {
+          "concept": "Spelling — exercise",
+          "note": "<p>Noun spelling <em>exercise</em>.</p>",
+          "answer": "exercise"
+        },
+        "45": {
+          "concept": "Spelling — adolescents",
+          "note": "<p>Correct <em>adolescents</em>.</p>",
+          "answer": "adolescents"
+        },
+        "46": {
+          "concept": "Word form — easily",
+          "note": "<p>Adverb modifies <em>get bored</em>.</p>",
+          "answer": "easily"
+        },
+        "47": {
+          "concept": "Grammar — participating",
+          "note": "<p>While + <em>participating</em> (gerund clause).</p>",
+          "answer": "participating"
+        },
+        "48": {
+          "concept": "Spelling — resilience",
+          "note": "<p>Noun <em>resilience</em>.</p>",
+          "answer": "resilience"
+        },
+        "49": {
+          "concept": "Preposition — to",
+          "note": "<p>Inspiration <em>to</em> others, not <em>towards</em>.</p>",
+          "answer": "to"
+        },
+        "50": {
+          "concept": "Spelling / form — believe",
+          "note": "<p>Imperative: <em>Believe</em> me → base <em>believe</em>.</p>",
+          "answer": "believe"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Arch back and stand tall. Blend in with the surroundings. Run. [Q51] are just some of the ways that animals protect [Q52] in the wild. Some of these means of protection are well known. [Q53] are more subtle or downright bizarre. For example, some species of ants will self-explode to protect their [Q54]. This protective action kills the ants but it can [Q55] the colony from danger. The Texas horned lizard will squirt blood from its eyes at a predator to keep [Q56] safe. A sea cucumber expels its protective organs from its anus to protect itself and in some cases, the sea cucumber's intestines can be [Q57] to predators, thus effectively killing them. These defence mechanisms may seem wild but they are crucial in [Q58] the survival of animals and their own kind. For animals to live [Q59] enough to reproduce and continue their species, they often need ingenious strategies.",
+          "There are many different [Q60] in which animals protect themselves from predators. However, no one defence mechanism is always effective as predators occasionally find new ways to defeat it. Hence, many animals use [Q61] than one defence mechanism at a [Q62]. For example, the hognose snake has camouflaged colours that help it [Q63] detection by predators but if an owl or some other predator finds it, the hognose snake will inflate its neck to trick the predator so as to appear [Q64] than it is. If this does not work, the hognose snake will [Q65] dead. Every species has its own bag of survival tricks."
+        ],
+        "zh": [
+          "弓背站立、融入环境、奔跑——这些都是动物在野外保护自己的方式。有些手段众所周知，有些则更隐蔽甚至古怪。例如某些蚂蚁会自爆以保护蚁群：此举虽杀死蚂蚁，却能保护群体免遭危险。德州角蜥会从眼中喷血吓退捕食者；海参从肛门排出器官自卫，有时肠道对捕食者有毒。这些防御机制看似疯狂，却对动物及其同类的生存至关重要。动物要活得足够长久才能繁殖延续，往往需要巧妙策略。",
+          "动物防捕食的方式多种多样，但没有一种机制永远有效，捕食者偶尔会找到新办法破解。因此许多动物会同时使用不止一种防御。例如猪鼻蛇的体色有助于躲避天敌，若仍被发现，它会胀颈让自己显得更大；若仍无效，便会装死。每个物种都有自己的生存绝招。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "指示代词作主语",
+          "note": "句首用以总括并承接前文三个短促的动作指令（弓背、站直、隐蔽、奔跑）。指代“这些（These）”就是野生动物自我保护的诸多手段，位于句首需大写。",
+          "answer": "These/this"
+        },
+        "52": {
+          "concept": "反身代词与主语人称一致",
+          "note": "主语为复数名词 animals（动物）。根据主语与宾语为同一主体的语法规则，作动词 protect 的宾语必须填入复数反身代词 themselves，意为保护“它们自身”。",
+          "answer": "themselves"
+        },
+        "53": {
+          "concept": "分组对比不定代词",
+          "note": "修饰复数谓语动词 are。前文提到了一些手段广为人知（Some... are well known），此处与之形成平行的对比与代指，指出“另一些（others / some）”则更为隐蔽或怪异。位于句首需大写。",
+          "answer": "Others/Some"
+        },
+        "54": {
+          "concept": "名词语意与后文复现呼应",
+          "note": "由形容词性物主代词 their 修饰。后文句子紧接着提到了 from danger 的承受主体是 the colony（蚁群），属于典型的“后文专属名词复现”线索提示，故此处必然对应填入名词 colony / nest / home / community。",
+          "answer": "colony/nest/home/community"
+        },
+        "55": {
+          "concept": "动词与宾语特定搭配",
+          "note": "前面有情态动词 can，后接动词原形。指工蚁自爆虽然导致自身死亡，却能“拯救（save）”、“保护（protect）”或“免除（keep/shield）”整个蚁群脱离危险，故填入动词原形。",
+          "answer": "save/protect/keep/shield"
+        },
+        "56": {
+          "concept": "反身代词视角一致",
+          "note": "主语为单数第三人称特指动物 The Texas horned lizard（得州角蜥）。作形容词补足结构 keep... safe 的宾语，根据前后视角一致原则，必须填入单数代词 itself 来代指保护“它自己”。",
+          "answer": "itself"
+        },
+        "57": {
+          "concept": "形容词与介词特定搭配",
+          "note": "作为系动词 can be 之后的表语，后接介词短语 to predators。在探讨海参喷出内脏御敌的生物学场景下，指其肠道和内脏对捕食者而言是“有毒的（poisonous/toxic）”或“致命的（fatal/lethal）”，从而能有效毒杀天敌。",
+          "answer": "poisonous/toxic/fatal/lethal"
+        },
+        "58": {
+          "concept": "介词后的动名词与功能搭配",
+          "note": "介词 in 后面需要接动名词（V-ing）形式。指这些离奇的防御机制在“确保（ensuring/securing）”、“保护（protecting）”或“协助（helping/aiding）”动物种群延续中起着至关重要的作用。",
+          "answer": "ensuring/securing/protecting/helping/aiding"
+        },
+        "59": {
+          "concept": "时间修饰副词与固定句型",
+          "note": "后接修饰限定词 enough to reproduce。完美契合形容生命跨度与繁衍前提的经典习惯表达 live long enough，表示动物们必须活得“足够久”才能繁育后代。",
+          "answer": "long"
+        },
+        "60": {
+          "concept": "名词语意修饰与前文复现",
+          "note": "前面有形容词 different 修饰。呼应全篇开篇第一句出现的 ways 概念，指动物们保护自己免受捕食者侵害有许多种不同的“方式”、“手段”或“途径”，故填复数名词 ways / means / methods / strategies。",
+          "answer": "ways/means/methods/strategies"
+        },
+        "61": {
+          "concept": "比较级固定习惯搭配",
+          "note": "后接比较连词 than one defence mechanism。完美契合数量多重组合的极高频固定结构 more than one（不止一种/多于一种），指许多动物会同时动用多重防御机制。",
+          "answer": "more"
+        },
+        "62": {
+          "concept": "时间名词习语固定搭配",
+          "note": "与前置的介词短语 at a 完美组合。构成在各类科学行为和描述中极其核心和高频的专属频率习语 at a time，意为在同一时间/“一次”动用不止一种防御机制。",
+          "answer": "time"
+        },
+        "63": {
+          "concept": "助动词后的动词原形与专属搭配",
+          "note": "使役动词结构 help it... 后面接动词原形。与后面的名词宾语 detection（侦测/发现）完美组合，指猪鼻蛇的保护色能够帮助它“躲避（avoid/escape/evade/elude）”捕食者的双眼。",
+          "answer": "avoid/escape/evade/elude"
+        },
+        "64": {
+          "concept": "形容词比较级句型形式",
+          "note": "后接比较连词 than it is。指猪鼻蛇会通过给颈部充气来威吓天敌，从而让自己看起来比实际体型“更大”或“更吓人”，故填形容词比较级 bigger / larger / scarier / fiercer。",
+          "answer": "bigger/larger/scarier/fiercer"
+        },
+        "65": {
+          "concept": "短语动词经典习语搭配",
+          "note": "前面有情态动词 will，后接动词原形。与后面的形容词 dead 完美组合，构成在各类动物科普、大自然纪录片里极其核心和高频的专属拟态伪装习语 play dead，意为“装死/诈死”。",
+          "answer": "play"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "The basketball players demonstrated an abundance of fighting spirit. They won the tough match.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "By __________"
+        },
+        "67": {
+          "stem_plain": "Mr Bala had donated a large sum of money to charities. He was featured in the newspaper.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ since __________"
+        },
+        "68": {
+          "stem_plain": "We could finish all the household chores because the children helped us.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Had it not been __________"
+        },
+        "69": {
+          "stem_plain": "\"Let us know by tomorrow when you're ready to start the training,\" my parents told me.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "My parents told me __________"
+        },
+        "70": {
+          "stem_plain": "All the students enjoy the Teachers' Day concert immensely.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Each and every one __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "By + gerund phrase",
+          "zh": "By demonstrating an abundance of fighting spirit, the basketball players won the tough match.",
+          "note": "按提示词改写为一句，保持原意。",
+          "answer": "By demonstrating an abundance of fighting spirit, the basketball players won the tough match."
+        },
+        "67": {
+          "concept": "Since clause — cause before result",
+          "zh": "Mr Bala was featured in the newspaper since he had donated a large sum of money to charities.",
+          "note": "按提示词改写为一句，保持原意。",
+          "answer": "Mr Bala was featured in the newspaper since he had donated a large sum of money to charities."
+        },
+        "68": {
+          "concept": "Third conditional inversion",
+          "zh": "Had it not been for the children helping us, we could not have finished all the household chores.",
+          "note": "按提示词改写为一句，保持原意。",
+          "answer": "Had it not been for the children helping us, we could not have finished all the household chores."
+        },
+        "69": {
+          "concept": "Reported speech — tell + object + clause",
+          "zh": "My parents told me to let them know by the next day when I would be ready to start the training.",
+          "note": "按提示词改写为一句，保持原意。",
+          "answer": "My parents told me to let them know by the next day when I would be ready to start the training."
+        },
+        "70": {
+          "concept": "Each and every one — agreement",
+          "zh": "Each and every one enjoys the Teachers' Day concert immensely.",
+          "note": "按提示词改写为一句，保持原意。",
+          "answer": "Each and every one enjoys the Teachers' Day concert immensely."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Pick out a word from the first paragraph which tells us that David appreciated his classmates' support.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Referring to paragraph two, explain why David's survival was a miracle.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on the passage, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The entire race took place at the stadium.",
+                "(b) David agreed to take part in the race because he was certain that he would win."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Write **1**, **2** and **3** in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "David fell gravely ill unexpectedly.",
+            "David was adopted.",
+            "David took up sports in order to become fitter."
+          ]
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **passion** (line 17)",
+                "(b) **That** (line 35)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "What had David done to protect himself (line 22)?",
+          "marks": 3,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q76a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q76b]"
+            },
+            {
+              "stem_plain": "(c)",
+              "question": "[Q76c]"
+            }
+          ]
+        },
+        "77": {
+          "marks": 2,
+          "stem_plain": "Which two of the following words best describe how David felt in lines 36–40? Put a tick (✓) in the box beside each of your answers. DO NOT TICK MORE THAN TWO BOXES.",
+          "interaction": "checkbox_comp",
+          "options": [
+            "dejected",
+            "grouchy",
+            "delighted",
+            "helpless",
+            "persistent",
+            "tenacious"
+          ],
+          "max_selections": 2
+        },
+        "78": {
+          "stem_plain": "Which sentence in paragraph four tells you that David was lagging behind the other competitors?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Fill in the following table.",
+          "marks": 3,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "David's adoptive parents",
+                "David's classmates",
+                "David's teachers"
+              ]
+            },
+            "col_2": {
+              "header": "What was one thing they did to give David their support?",
+              "rows": [
+                "[Q79a]",
+                "[Q79b]",
+                "[Q79c]"
+              ]
+            }
+          }
+        },
+        "80": {
+          "stem_plain": "What did the writer compare David's **obstacles** (line 38) to? From lines 33–40, give a **reason** to support your answer.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Before seven o'clock one Saturday morning, a large crowd had already gathered",
+          "2": "at the stadium. David sat at the starting line, his gloved hands gripping his wheelchair.",
+          "3": "With his heart thumping, the boy wondered if he would be able to complete the race.",
+          "4": "His classmates were all there to support him. From afar, he could see them holding up",
+          "5": "big banners which screamed: WE ARE WITH YOU! ALL THE WAY, DAVID!",
+          "6": "Heartened, he smiled and waved back. He was not going to let them down.",
+          "7": "Born with a severe condition that left him paralysed from the waist down, many",
+          "8": "doctors doubted he would live more than a few days. However, he defied all odds and",
+          "9": "spent the first six years of his life without a wheelchair and medical care in an",
+          "10": "orphanage. \"If I want to be what other children aspire to be, I have to get there myself,\"",
+          "11": "David recalled. At six, he was adopted and following that, many things happened.",
+          "12": "Thanks to his adoptive parents, he underwent several surgeries to improve his",
+          "13": "condition. As a result, he was able to attend school and even took up sports to help",
+          "14": "strengthen his bones and muscles. Then, he fell in love with wheelchair racing.",
+          "15": "Unfortunately, he did not have a lot of coordination or strength but he had a will to keep",
+          "16": "going. Once, without warning, his condition took a turn for the worse and it almost",
+          "17": "derailed his pursuit of his **passion**.",
+          "18": "One day, David's teachers encouraged him to compete alongside his non-",
+          "19": "wheelchair schoolmates. Unsure and yet grateful for the opportunity, he thought he",
+          "20": "should give it a shot. By the time the race was about to begin, the sun had risen. David",
+          "21": "was glad that he was well prepared. Adjusting the cap on his head and his gloves,",
+          "22": "David was all ready to protect himself from the heat and the vigorous strokes to his",
+          "23": "wheelchair. Some of his fingers had pieces of plasters to protect the blisters which had",
+          "24": "developed during his rigorous training. David's eyes followed the starter who was",
+          "25": "waving a red flag. As soon as the gun was fired, David was off. The entire stadium",
+          "26": "erupted into thunderous cheers.",
+          "27": "David pushed forward with all his might, his hands gripping the wheels the",
+          "28": "whole time for the long-distance race. His wheelchair rolled steadily out of the stadium,",
+          "29": "passing the shophouses. David fell behind despite doing everything he could to keep",
+          "30": "up with the other competitors. With each passing hour, David was breathing harder.",
+          "31": "Every single stroke made his arms and shoulders ache badly. Still, he focussed",
+          "32": "fiercely.",
+          "33": "Overhead, the sun continued to blaze in the cloudless sky. David was exhausted",
+          "34": "and parched. His head felt as if it were on fire as the sun continued to burn through his",
+          "35": "cap. **That** was depleting his energy. He was beginning to feel weak and weary.",
+          "36": "As he pushed on, the heated metal of his wheels burned into his hands. Nonetheless,",
+          "37": "he never thought of stopping. He leaned on one thing that he could control — his",
+          "38": "attitude. The fireball was his foe, like all the obstacles that stood in his way — his pain,",
+          "39": "his disability and his fears of failure. But he was determined to overcome every single",
+          "40": "one of them.",
+          "41": "\"Go, David, go!\" the crowd chanted again. David propelled forward. He felt as if",
+          "42": "he were flying at an unstoppable velocity. The sunshine-yellow tape was looming",
+          "43": "nearer and nearer. Then, he was zipping past the ribbon. The entire stadium electrified",
+          "44": "with victorious screams."
+        },
+        "paragraphs": {
+          "1": "某个周六早上七点前，体育场外已聚满人群。大卫坐在起跑线上，戴着手套紧握轮椅。他心跳加速，担心自己能否跑完全程。同学们都来支持他；远处可见他们举着横幅高喊：“大卫，我们与你同在！一路为你加油！”他备受鼓舞，微笑着挥手回应，决心不辜负大家。",
+          "7": "大卫生来患有严重疾病，腰部以下瘫痪，许多医生认为他活不过几天。然而他战胜一切，在孤儿院度过生命最初六年，没有轮椅也没有医疗照顾。他回忆道：“若想像其他孩子一样，就得靠自己。”六岁时被收养，此后发生许多事：养父母安排多次手术改善状况，他得以上学并参加运动强健筋骨，继而爱上轮椅竞速。可惜他协调与力量不足，但仍坚持前行；有一次病情毫无预警地恶化，几乎毁掉他对这项热爱的追求。",
+          "18": "一天，老师鼓励他与非轮椅同学一起比赛。他既忐忑又感激，决定试一试。开赛时太阳已升起，他庆幸自己准备充分：调整头上的帽子和手套，做好防晒并减轻划轮椅对手部的冲击；部分手指贴着胶布，保护训练磨出的水泡。他注视着挥红旗的发令员；枪响后大卫冲出，全场爆发出雷鸣般的欢呼。",
+          "27": "大卫全力向前，双手全程紧握轮子进行长跑。轮椅平稳驶出体育场，经过店屋。尽管竭尽全力，他仍落在其他选手后面。时间一小时一小时过去，他呼吸越来越急促，每一次划动都让手臂和肩膀剧痛，但他仍专注地坚持。",
+          "33": "头顶烈日当空，大卫精疲力竭、口干舌燥，头仿佛着火，阳光透过帽子灼烧着他，那正在消耗他的体力，他开始虚弱疲惫。继续推进时，滚烫的金属轮缘灼痛双手，但他从未想过停下，只依靠自己能掌控的东西——态度。火球是他的敌人，如同挡在路上的种种障碍——疼痛、残疾与对失败的恐惧，但他决心一一克服。",
+          "41": "“加油，大卫！”人群再次呐喊。大卫向前猛冲，仿佛以不可阻挡的速度飞翔。明黄色的终点带越来越近，他冲过彩带，全场响起胜利的欢呼。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "要点直答",
+          "note": "<ol><li>第一段（行 1–6）：同学举横幅支持。</li><li>行 6 <em>Heartened</em> 表因支持而<strong>振奋、感激</strong>。</li><li>抄一词即可。</li></ol>",
+          "answer": [
+            "heartened"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "原因分析题",
+          "note": "<ol><li>第二段（行 7–17）：医生认为他活不过几天。</li><li>他<strong>活过了</strong>医生怀疑的时日 → 奇迹般存活。</li><li>用完整句说明“活过被怀疑的几日”。</li></ol>",
+          "answer": [
+            "He survived beyond the few days when many doctors doubted he would."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>(a) False：</strong>行 28–29 写轮椅<strong>驶出体育场</strong>、经过店屋，并非全程只在场内。</li><li><strong>(b) False：</strong>行 19–20 他<strong>感激有机会</strong>参赛，但并未确信会赢。</li><li>每行须写 True/False 并给<strong>一句</strong>文中依据。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "False",
+            "73b": "David went out of the stadium and past the shophouses during the race.",
+            "73c": "False",
+            "73d": "David was grateful for the opportunity but was uncertain whether he would win."
+          }
+        },
+        "74": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li>第二段：六岁被收养（行 11）→ 做手术、上学、<strong>参加运动</strong>（行 12–13）→ 病情突然恶化（行 15–16）。</li><li>故顺序：病重 <strong>3</strong> → 收养 <strong>1</strong> → 运动健身 <strong>2</strong>。</li></ol>",
+          "answer": [
+            "3, 1, 2"
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>passion</strong>（行 17）：几乎毁掉的是他对<strong>轮椅竞速</strong>的追求。</li><li><strong>That</strong>（行 35）：指<strong>阳光透过帽子炙烤头部</strong>、消耗体力。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "wheelchair racing",
+            "75b": "the sun burning through David's cap"
+          }
+        },
+        "76": {
+          "concept": "分项简答题",
+          "note": "<ol><li>范围：行 21–23 “protect himself”。</li><li>证据：<em>cap</em>、<em>gloves</em>、<em>plasters</em> 防日晒、磨伤与水泡。</li><li>写三点各一句，勿漏。</li></ol>",
+          "answer": {
+            "76a": "He wore a cap on his head.",
+            "76b": "He wore gloves.",
+            "76c": "Some of his fingers had plasters on them to protect blisters from training."
+          }
+        },
+        "77": {
+          "concept": "勾选题",
+          "note": "<ol><li>行 36–40：他<strong>从不停止</strong>、靠态度克服痛苦与恐惧。</li><li><strong>persistent</strong>、<strong>tenacious</strong> 表坚持、顽强。</li><li>排除 dejected / helpless（沮丧、无助）等与文意不符项。</li></ol>",
+          "answer": [
+            "persistent",
+            "tenacious"
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "摘录词句题",
+          "note": "<ol><li>第四段（行 27–32）写比赛过程。</li><li>行 29 <em>David fell behind despite doing everything he could to keep up</em> 直接说明<strong>落后</strong>。</li><li>须抄<strong>完整一句</strong>。</li></ol>",
+          "answer": [
+            "David fell behind despite doing everything he could to keep up with the other competitors."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li>父母：行 12 做手术改善状况。</li><li>同学：行 4–5 赛场横幅、到场支持。</li><li>老师：行 18 鼓励他参赛。</li><li>每行一句支持行为。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "79a": "They paid for his surgeries to improve his condition.",
+            "79b": "They supported him at the stadium during the race (held up banners).",
+            "79c": "They encouraged him to sign up for the race."
+          }
+        },
+        "80": {
+          "concept": "解释说明题",
+          "note": "<ol><li>行 38：障碍被比作 <strong>fireball</strong>（火球/烈日）。</li><li>理由：行 33–37 烈日灼烧、消耗体力，须<strong>克服</strong>才能继续比赛。</li><li>答出比喻对象 + 一句理由。</li></ol>",
+          "answer": [
+            "He compared his obstacles to the fireball. Like the heat from the sun, the obstacles were what he had to overcome in order to win the race."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

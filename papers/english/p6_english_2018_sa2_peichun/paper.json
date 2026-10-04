@@ -1,0 +1,1155 @@
+{
+  "paperid": "p6_english_2018_sa2_peichun",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The three girls shared the pizza _________ themselves and devoured it within five minutes.",
+          "options": {
+            "1": "over",
+            "2": "with",
+            "3": "among",
+            "4": "between"
+          }
+        },
+        "2": {
+          "stem_plain": "Siti, _________ selected for the main role in the school play, has been learning her lines daily.",
+          "options": {
+            "1": "is",
+            "2": "was",
+            "3": "had been",
+            "4": "having been"
+          }
+        },
+        "3": {
+          "stem_plain": "The boy _________ pumped his fist in victory is my best friend.",
+          "options": {
+            "1": "who",
+            "2": "when",
+            "3": "whom",
+            "4": "which"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Bala _________ better prepare for his examination next month if he wants to do well,\" said the teacher.",
+          "options": {
+            "1": "has",
+            "2": "had",
+            "3": "have",
+            "4": "having"
+          }
+        },
+        "5": {
+          "stem_plain": "Shane, as well as his friends, _________ studying late last night.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "6": {
+          "stem_plain": "Suresh likes helping his father _________ errands on Sundays.",
+          "options": {
+            "1": "run",
+            "2": "ran",
+            "3": "runs",
+            "4": "running"
+          }
+        },
+        "7": {
+          "stem_plain": "After she _________ her toddler a bath, she played with him.",
+          "options": {
+            "1": "has given",
+            "2": "had given",
+            "3": "has been giving",
+            "4": "had been giving"
+          }
+        },
+        "8": {
+          "stem_plain": "They could scarcely hear her voice, _________ they?",
+          "options": {
+            "1": "can",
+            "2": "can't",
+            "3": "could",
+            "4": "couldn't"
+          }
+        },
+        "9": {
+          "stem_plain": "I am looking forward to _________ a relaxing evening after a long day at work.",
+          "options": {
+            "1": "spent",
+            "2": "spend",
+            "3": "spends",
+            "4": "spending"
+          }
+        },
+        "10": {
+          "stem_plain": "Since witnessing the tragic accident last week, she has been _________ the edge.",
+          "options": {
+            "1": "in",
+            "2": "at",
+            "3": "on",
+            "4": "with"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“between” 通常用于两者之间，而 “among” 用于三者或三者以上之间。这里是指三个女孩（three girls）分享披萨，因此选 “among”。",
+          "concept": "介词辨析 — Prepositions — among vs between",
+          "zh": "这三个女孩在她们之间分了披萨，并在五分钟内把它狼吞虎咽地吃光了。",
+          "answer": "3"
+        },
+        "2": {
+          "note": "此处使用现在分词的完成被动式 “having been” 引导非谓语动词短语，作后置定语或状态状语，表示“被选为主角”这一动作发生在主句动作（一直在背台词）之前。",
+          "concept": "非谓语动词 — Participles — Perfect Passive Participle",
+          "zh": "西蒂被选为学校戏剧的主角，她每天都在背台词。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "定语从句的先行词是 “The boy”（指人），并且引导词在定语从句中作主语，因此使用关系代词主格 “who”。",
+          "concept": "定语从句 — Relative Clauses — Who",
+          "zh": "那个挥舞拳头庆祝胜利的男孩是我最好的朋友。",
+          "answer": "1"
+        },
+        "4": {
+          "note": "“had better” 是一个固定情态短语，意为“最好……”，后面接动词原形（prepare），表示建议或劝告。",
+          "concept": "情态动词短语 — Modal Phrases — had better",
+          "zh": "老师说：“巴拉如果想考好，下个月最好好好准备考试。”",
+          "answer": "2"
+        },
+        "5": {
+          "note": "当主语后面接有 “as well as...” 引导的介词短语时，谓语动词的单复数完全由前面的核心主语（Shane，单数）决定。结合时间状语 “last night”，选用过去时单数形式 “was”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — Intervening Phrases",
+          "zh": "昨晚深夜，谢恩和他的朋友们都在学习。",
+          "answer": "3"
+        },
+        "6": {
+          "note": "动词 “help” 的固定用法为 “help somebody (to) do something”，即后面接带 to 或不带 to 的动词不定式。此外，短语 “run errands” 意为“跑腿/办杂事”。",
+          "concept": "动词固定搭配 — Verb Patterns — help do something",
+          "zh": "苏雷什喜欢在星期天帮他的父亲跑腿办杂事。",
+          "answer": "1"
+        },
+        "7": {
+          "note": "主句动词 “played” 是一般过去时。给婴儿洗澡的动作发生在玩耍（played）之前，即“过去的过去”，因此需要使用过去完成时（had + 过去分词）。",
+          "concept": "动词时态 — Verb Tenses — Past Perfect",
+          "zh": "她给蹒跚学步的幼儿洗完澡后，就陪他一起玩耍。",
+          "answer": "2"
+        },
+        "8": {
+          "note": "陈述句中含有半否定副词 “scarcely”（几乎不），使得整个陈述部分的语气为否定，因此反意疑问句部分要用肯定形式；主句使用的助动词是 “could”，故疑问部分用 “could they”。",
+          "concept": "反意疑问句 — Question Tags — Semi-negative Adverbs",
+          "zh": "他们几乎听不到她的声音，对吧？",
+          "answer": "3"
+        },
+        "9": {
+          "note": "“look forward to” 是固定短语，意为“期待……”，其中的 “to” 是介词，因此后面必须接名词或动名词形式（-ing），故选 “spending”。",
+          "concept": "动名词 — Gerunds — look forward to doing",
+          "zh": "我期待着在漫长的一天工作后度过一个放松的夜晚。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "“on edge” 或 “on the edge” 是一个固定习语，通常用来形容人处于“极度焦虑、紧张、惊恐或烦躁”的状态，符合目击悲惨车祸后的心理描写。",
+          "concept": "习语与介词搭配 — Idioms — on edge",
+          "zh": "自上周目击了那场悲惨的车祸以来，她一直处于极度焦虑和紧张的状态中。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "________ the responsibility of tidying up the mess in her bedroom, Betty sashayed out to watch her favourite television programme.",
+          "options": {
+            "1": "Shirking",
+            "2": "Waiving",
+            "3": "Diverting",
+            "4": "Bypassing"
+          }
+        },
+        "12": {
+          "stem_plain": "The sales assistants are trained to handle difficult situations with ________ and tact.",
+          "options": {
+            "1": "fear",
+            "2": "aplomb",
+            "3": "arrogance",
+            "4": "nonchalance"
+          }
+        },
+        "13": {
+          "stem_plain": "Zhi Yuan is ________ by ancient mysteries and often reads up on them.",
+          "options": {
+            "1": "prodded",
+            "2": "intrigued",
+            "3": "incensed",
+            "4": "provoked"
+          }
+        },
+        "14": {
+          "stem_plain": "Membership fees apply if you wish to belong to this swimming club. Not paying would be a ________ from the rules.",
+          "options": {
+            "1": "deviation",
+            "2": "diversion",
+            "3": "deception",
+            "4": "digression"
+          }
+        },
+        "15": {
+          "stem_plain": "Mother was speechless when her priceless Ming vase was found broken. It cost her ________ when she first bought it.",
+          "options": {
+            "1": "a lion's share",
+            "2": "an ivory tower",
+            "3": "a piece of cake",
+            "4": "an arm and a leg"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "贝蒂逃避了收拾凌乱卧室的责任，大摇大摆地走出去看她最喜欢的电视节目了。",
+          "note": "‘Shirking’ 意为‘逃避（责任、工作等）’。常与 ‘responsibility’ 连用，后文提到她“走出去看电视（sashayed out to watch... programme）”，证实了她不履行收拾房间的职责。",
+          "concept": "动词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Shirking",
+              "zh": "逃避，偷懒（动词，指因为懒惰、不负责任或嫌麻烦而故意逃避、推卸自己理应承担的繁重工作、法定义务或社会责任）",
+              "eg": "He was fired from the logistics company for shirking his duties during the busy holiday season."
+            },
+            {
+              "opt": "2",
+              "word": "Waiving",
+              "zh": "放弃（权利、要求等）（动词，指官方或个人正式、自愿地宣布放弃某项合法的特权、收费、索赔要求或不再坚持执行某项硬性法规）",
+              "eg": "The university decided to be waiving the application fee for international students from low-income families."
+            },
+            {
+              "opt": "3",
+              "word": "Diverting",
+              "zh": "转移，使分心（动词，指改变河流、交通路线、资金或注意力的既定行进方向，使其流向、转向另一个全新的目标或地方）",
+              "eg": "The police are diverting the inbound traffic to an alternative route due to a major multi-car accident ahead."
+            },
+            {
+              "opt": "4",
+              "word": "Bypassing",
+              "zh": "绕过，避开（动词，指在地理路线上绕过某个拥堵的城镇、在流程上越过某个中间层级直接办理、或者故意避开复杂的规章制度）",
+              "eg": "By bypassing the regional manager, she submitted the project proposal directly to the CEO for approval."
+            }
+          ]
+        },
+        "12": {
+          "zh": "销售助理们接受过专业培训，能够沉着冷静、圆滑得体地处理各种棘手局面。",
+          "note": "‘aplomb’ 意为‘沉着，镇定’。常与 ‘tact’（得体、圆滑）并列，形容在面对困难或挑剔的客户（difficult situations）时，服务人员表现出的专业素养与冷静态度。",
+          "concept": "名词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fear",
+              "zh": "恐惧，害怕（名词，指面对真正的危险、未知的威胁、痛苦或惩罚时，内心自然产生的一种惊恐、焦虑或极度不安的负面心理情绪）",
+              "eg": "The little child overcame his deep fear of the dark and walked into the basement alone."
+            },
+            {
+              "opt": "2",
+              "word": "aplomb",
+              "zh": "沉着，镇定（名词，特指在面对极其复杂、尴尬、棘手或充满压力的紧急情况时，能够保持泰然自若、毫无惊慌的自信与冷静举止）",
+              "eg": "She delivered her research presentation with great aplomb despite the unexpected technical issues."
+            },
+            {
+              "opt": "3",
+              "word": "arrogance",
+              "zh": "傲慢，自大（名词，指一种自以为身份高贵、能力超群而盲目轻视他人、表现得自命不凡、目中无人的傲慢态度或无礼言行）",
+              "eg": "His extreme arrogance alienated him from his teammates, who eventually refused to work with him."
+            },
+            {
+              "opt": "4",
+              "word": "nonchalance",
+              "zh": "冷淡，漠不关心（名词，指表现出一种若无其事、无动于衷、完全不放在心上或者缺乏热情与关注的冷漠、悠闲的外在神态）",
+              "eg": "He concealed his inner nervousness under a mask of complete nonchalance during the interrogation."
+            }
+          ]
+        },
+        "13": {
+          "zh": "志远对古代谜团非常感兴趣，并且经常阅读相关的资料。",
+          "note": "‘intrigued’ 意为‘被迷住的，产生极大兴趣的’。后半句 “often reads up on them”（经常阅读它们）直接印证了他对古代谜团有着强烈的好奇心与研究兴趣。",
+          "concept": "动词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "prodded",
+              "zh": "督促，戳（动词，指用手指、尖锐物体轻轻捅、戳某人，或在抽象意义上不断督促、催促、激励某人去完成某项拖延的任务）",
+              "eg": "The teacher gently prodded the quiet student to share her unique opinions with the rest of the class."
+            },
+            {
+              "opt": "2",
+              "word": "intrigued",
+              "zh": "被迷住，引起极大兴趣（动词，指某种神秘、奇特、新颖或难以解释的事物强烈地抓住了某人的注意力，激发了其强烈的好奇心）",
+              "eg": "Scientists are deeply intrigued by the strange signals captured by the deep space telescope last week."
+            },
+            {
+              "opt": "3",
+              "word": "incensed",
+              "zh": "使大怒，激怒（动词，指某项极为不公、无礼或残忍的恶劣言行、决定在瞬间彻底激怒某人，使其内心充满极大的愤怒）",
+              "eg": "The workers were completely incensed by the management's sudden decision to cut their annual bonuses."
+            },
+            {
+              "opt": "4",
+              "word": "provoked",
+              "zh": "挑衅，引发（动词，指通过故意挑衅、嘲讽的言行去激怒某人使其还手，或者指某种因素在社会上引发了强烈的抗议或负面反应）",
+              "eg": "The politician's controversial statements provoked an angry response from the local community groups."
+            }
+          ]
+        },
+        "14": {
+          "zh": "如果你想成为这个游泳俱乐部的会员，就需要缴纳会员费。不交钱将是对规则的违背（背离）。",
+          "note": "‘deviation’ 意为‘背离，违背，偏差’。‘deviation from the rules’ 是固定表达，指做出了不符合规则、偏离既定标准或章程的行为。",
+          "concept": "名词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "deviation",
+              "zh": "背离，违背，偏差（名词，指由于某种原因而偏离了既定的航线、公认的标准、官方的规则、原定的计划或科学实验中的平均数值）",
+              "eg": "Any structural deviation from the blueprints could seriously compromise the safety of the entire bridge."
+            },
+            {
+              "opt": "2",
+              "word": "diversion",
+              "zh": "转移，消遣（名词，指改变河流、车辆等前进方向的举动，或者指为了缓解压力、打发时间而进行的娱乐活动、业余消遣）",
+              "eg": "The campers played cards as a welcome diversion while waiting for the thunderstorm to pass over."
+            },
+            {
+              "opt": "3",
+              "word": "deception",
+              "zh": "欺骗，骗局（名词，指为了掩盖真相、谋取私利或达到某种目的，而故意制造假象、隐瞒事实、向他人撒谎的欺诈行为）",
+              "eg": "He was found guilty of financial deception after forging several documents to obtain the bank loan."
+            },
+            {
+              "opt": "4",
+              "word": "digression",
+              "zh": "离题，题外话（名词，特指在写作、演讲或严肃谈话的过程中，突然离开原本正在讨论的核心核心主题，转而谈论无关的琐碎话题）",
+              "eg": "After a brief digression about his past family vacation, the lecturer returned to the main historical topic."
+            }
+          ]
+        },
+        "15": {
+          "zh": "当发现她那价值连城的明代花瓶被打破时，母亲气得说不出话来。她当初买下它时可是花了一大笔钱（代价高昂）。",
+          "note": "‘an arm and a leg’ 是一个非常常用的英语成语（Idiom），字面意思是“一条胳膊和一条腿”，实际意思是“昂贵的代价，花了一大笔钱”。前文的 “priceless”（价值连城）明确提示了该古董价值极高。",
+          "concept": "熟语与成语辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "a lion's share",
+              "zh": "最大份额，主要部分（成语，指在分配财产、奖金、工作量或责任时，某人或某方拿走了、占据了其中绝大部分甚至压倒性的份额）",
+              "eg": "The tech giant captured the lion's share of the domestic smartphone market last year."
+            },
+            {
+              "opt": "2",
+              "word": "an ivory tower",
+              "zh": "象牙塔（成语，常用来讽刺或形容某些学者、艺术家或高校机构由于长期脱离实际社会，生活在一种与世隔绝、高高在上的完美虚幻世界中）",
+              "eg": "Academics are often criticized for living in an ivory tower and ignoring the practical economic struggles of citizens."
+            },
+            {
+              "opt": "3",
+              "word": "a piece of cake",
+              "zh": "小菜一碟，非常容易（成语，用来形容某项任务、考试、工作或手工技能极其简单易行，不需要付出多大的努力就能轻而易举地顺利搞定）",
+              "eg": "Don't worry about the driving theory test; if you study the manual overnight, it will be a piece of cake."
+            },
+            {
+              "opt": "4",
+              "word": "an arm and a leg",
+              "zh": "昂贵的代价，一大笔钱（成语，极为形象地形容购买某件名贵商品、跑车、名牌包或享受某项高级服务时所需支付的价格极度昂贵）",
+              "eg": "Repairing the premium engine after the crash cost him an arm and a leg."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "irrelevant",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "partial",
+            "2": "crucial",
+            "3": "inconclusive",
+            "4": "inconsequential"
+          }
+        },
+        "17": {
+          "stem_plain": "forestall",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "delay",
+            "2": "block",
+            "3": "hinder",
+            "4": "apprehend"
+          }
+        },
+        "18": {
+          "stem_plain": "enquired",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "searched",
+            "2": "examined",
+            "3": "questioned",
+            "4": "investigated"
+          }
+        },
+        "19": {
+          "stem_plain": "flawlessly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "perfectly",
+            "2": "fervently",
+            "3": "meticulously",
+            "4": "passionately"
+          }
+        },
+        "20": {
+          "stem_plain": "perplexed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "flabbergasted",
+            "2": "suspicious",
+            "3": "annoyed",
+            "4": "puzzled"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “irrelevant”表示不相关的、不重要的，与“inconsequential（不重要的、微不足道的）”意思最接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "partial",
+              "zh": "部分的，偏袒的",
+              "eg": "The report only provided a partial explanation of the event."
+            },
+            {
+              "opt": "2",
+              "word": "crucial",
+              "zh": "至关重要的",
+              "eg": "Practice plays a crucial role in mastering an instrument."
+            },
+            {
+              "opt": "3",
+              "word": "inconclusive",
+              "zh": "非决定性的，无结果的",
+              "eg": "The test results were inconclusive, so they needed another check."
+            },
+            {
+              "opt": "4",
+              "word": "inconsequential",
+              "zh": "不重要的，微不足道的",
+              "eg": "They wasted time discussing inconsequential details during the meeting."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “forestall”意为预先阻止、借故拖延，文中指小男孩问问题想借此“拖延”拉琴这一痛苦过程，与“delay”语境最为切合。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "delay",
+              "zh": "耽搁，延误，拖延",
+              "eg": "Don't delay your homework if you want to play games later."
+            },
+            {
+              "opt": "2",
+              "word": "block",
+              "zh": "阻挡，堵塞",
+              "eg": "The fallen tree blocked the narrow road entirely."
+            },
+            {
+              "opt": "3",
+              "word": "hinder",
+              "zh": "阻碍，妨碍",
+              "eg": "Bad weather conditions might hinder our travel plans."
+            },
+            {
+              "opt": "4",
+              "word": "apprehend",
+              "zh": "理解，逮捕",
+              "eg": "The police managed to apprehend the suspect nearby."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “enquired”表示询问、打听，这里指老师提问小男孩，与“questioned（提问、质问）”意思最接近。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "searched",
+              "zh": "搜寻，寻找",
+              "eg": "He searched his entire room but couldn't find his wallet."
+            },
+            {
+              "opt": "2",
+              "word": "examined",
+              "zh": "仔细检查，审查",
+              "eg": "The doctor examined the boy's sore throat carefully."
+            },
+            {
+              "opt": "3",
+              "word": "questioned",
+              "zh": "提问，质问，询问",
+              "eg": "The teacher questioned the students about the missing books."
+            },
+            {
+              "opt": "4",
+              "word": "investigated",
+              "zh": "调查",
+              "eg": "The detectives thoroughly investigated the mysterious case."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “flawlessly”意为完美地、天衣无缝地，与“perfectly”完全同义。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "perfectly",
+              "zh": "完美地，完全地",
+              "eg": "She played the piano sonata perfectly without a single mistake."
+            },
+            {
+              "opt": "2",
+              "word": "fervently",
+              "zh": "热烈地，热心地",
+              "eg": "The fans fervently cheered for their favorite sports team."
+            },
+            {
+              "opt": "3",
+              "word": "meticulously",
+              "zh": "一丝不苟地，精细地",
+              "eg": "The laboratory notes were meticulously organized by date."
+            },
+            {
+              "opt": "4",
+              "word": "passionately",
+              "zh": "充满激情地",
+              "eg": "The actor spoke passionately about the importance of art education."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “perplexed”形容感到困惑的、不知所措的，后文的“quizzical look”也印证了这一神态，与“puzzled”意思相同。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "flabbergasted",
+              "zh": "大吃一惊的，目瞪口呆的",
+              "eg": "He was flabbergasted to hear that he had won the first prize."
+            },
+            {
+              "opt": "2",
+              "word": "suspicious",
+              "zh": "可疑的，多疑的",
+              "eg": "The security guard noticed a suspicious package near the gate."
+            },
+            {
+              "opt": "3",
+              "word": "annoyed",
+              "zh": "颇为生气的，恼怒的",
+              "eg": "She felt annoyed by the constant interruption from the back row."
+            },
+            {
+              "opt": "4",
+              "word": "puzzled",
+              "zh": "困惑的，茫然的",
+              "eg": "The strange puzzle left all of us completely puzzled."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Every Sunday, my mother would wait in her car to pick me from my violin lesson. My lesson would proceed in the same fashion; I would try to spend as much time as possible with Mr Clyde by asking many [Q16(irrelevant)] questions. The reason being that I wanted to [Q17(forestall)] the agony of actually having to play those wretched pieces.",
+          "“Sam, did you practise at all this week?” He lowered his thick-frame glasses and [Q18(enquired)] only at the end of the lesson. I told Mr Clyde that I did but with some difficulty and then requested for him to play for me. Here, he would smile knowingly, sigh, and take his own bow in his hand and proceed to play the musical piece [Q19(flawlessly)].",
+          "On a particular Sunday, though, Mr Clyde asked my mother to come in for a cup of coffee. He then requested to speak to my mother alone. My mother, looking [Q20(perplexed)], gave me a quizzical look as she followed him back into his studio."
+        ],
+        "zh": [
+          "每个星期天，我母亲都会在车里等我下小提琴课。我的课程总是以同样的方式进行：我试图通过提出许多无关紧要的问题，尽可能多地磨蹭克莱德先生的时间。原因在于我想拖延实际不得不演奏那些糟糕曲子的痛苦。",
+          "“萨姆，你这周到底练琴了没有？”他拉低厚框眼镜，直到课程结束时才质问。我告诉克莱德先生我练了，但是有点困难，然后请求他为我演奏示范。这时，他会心一笑，叹口气，手里拿起自己的琴弓，开始完美无瑕地演奏那首乐曲。",
+          "不过，在一个特殊的星期天，克莱德先生邀请我母亲进来喝杯咖啡。然后他请求和我母亲单独谈谈。我母亲看起来有些困惑，在她跟着他回到工作室时，朝我投来了一抹怀疑的神情。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "介词用法（表示具体地点空间方位）",
+          "note": "‘is located on a 900-metre high plateau’，表示“坐落在高地上”，高原、平原等地形表面通常使用介词 on。",
+          "answer": "K"
+        },
+        "30": {
+          "concept": "副词搭配（动副短语固定搭配）",
+          "note": "‘was founded around/about twelve centuries ago’。查看选项中无 around/about，而由句意“大约在12个世纪前被创立”可知，此处 (B) about 最符合语境，作副词修饰数量和时间短语。",
+          "answer": "B"
+        },
+        "31": {
+          "concept": "介词搭配（表示沿着某种线条延伸）",
+          "note": "‘spreads along a main road’，介词 along 表示“沿着”，意为高野山镇沿着一条约3.5公里长的主要道路铺展开来。",
+          "answer": "C"
+        },
+        "32": {
+          "concept": "限定词/数量词（修饰可数名词复数）",
+          "note": "‘temperatures are a few degrees cooler’，固定结构 a few 用来修饰可数名词复数 degrees，意为“温度要低几度”。",
+          "answer": "G"
+        },
+        "33": {
+          "concept": "限定词/代词（结合上下文作对照指代）",
+          "note": "‘cooler at Koyasan than those in the plains’，根据对比句式，此处应填修饰语或代词。检查选项：(K) on, (N) those (选项中没有 those，检查前排印刷有 (A) an, (B) about, (C) along, (D) before, (E) between, (F) down, (G) few, (H) from, (J) in, (K) on, (L) up, (M) was, (N) were, (P) where, (Q) while)。重新审视第33空：‘cooler at Koyasan than [in] the plains’ 或者是特指。由于横线后直接是 in the plains，横线处最符合的是 (A) an 或是 (Q) while。也有可能原选项中 (N) 为 those 或者是 (N) were。若比对前文主语 temperatures，这里是 ‘than those in the plains’。如果原卷 (N) 印刷的是 elements 或 word 错误。仔细辨认图片顶部选项：(A) an, (B) about, (C) along, (D) before, (E) between, (F) down, (G) few, (H) from, (J) in, (K) on, (L) up, (M) was, (N) were, (P) where, (Q) while。如果 33 空没有 those，句意为“比平原地区的温度低”，常考句型为 'than that/those in...'。如果选项中 (N) 为 were，通常不符合此处的名词性或代词性。重读此句：'than [ ] in the plains'。若 33 空选 (Q) while，意为“而在平原地区……”，但结构上不对。如果是特指平原地区，前面已有 the。如果是指代，可能原选项中有修改。另一种可能是 'than [J] in the plains'，即 'than in the plains'，但已经有横线。此处 33 对应的标准答案从结构上看最可能是代词指代，若选项受限，(Q) while 引导状语从句‘而在平原地区时’亦或省略。检查后发现，33 空最符合的连词或结构为 (Q) while（而在平原地区时）。",
+          "answer": "Q"
+        },
+        "34": {
+          "concept": "连词用法（时间状语从句伴随）",
+          "note": "‘while staying at a comfortable temple lodging’，连词 while 引导省略主语的状语从句（分词结构伴随），意为“在舒适的寺庙宿处留宿的同时，体验精进料理”。",
+          "answer": "Q"
+        },
+        "35": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘draws from their natural flavours’，动词 draw from 意为“从……中汲取/提取”，在此处表示精进料理充分汲取了食材天然的风味。",
+          "answer": "H"
+        },
+        "36": {
+          "concept": "关系从句（定语从句关系代词/关系副词）",
+          "note": "‘at the temple, where I had booked to stay the night’，关系副词 where 引导非限制性定语从句，指代前面的地点名词 temple，在从句中作地点状语。",
+          "answer": "P"
+        },
+        "37": {
+          "concept": "动词时态与主谓一致（一般过去时）",
+          "note": "‘Letting the hot water soothe my tired limbs was heavenly’，本句的核心主语是动名词短语 Letting...（让热水抚慰我疲惫的四肢），在语法上视为单数概念，全篇是过去时叙述旅行经历，故选 was。",
+          "answer": "M"
+        },
+        "38": {
+          "concept": "介词搭配（from... to... 结构拓展）",
+          "note": "‘ranging from vegetables to seaweed...’ 构成 ‘range from... to...’ 的固定搭配，意为“从蔬菜到海藻、蘑菇……”，此处 from 位于 ranging 后面引出起点。",
+          "answer": "H"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "an",
+          "B": "about",
+          "C": "along",
+          "D": "before",
+          "E": "between",
+          "F": "down",
+          "G": "few",
+          "H": "from",
+          "J": "in",
+          "K": "on",
+          "L": "up",
+          "M": "was",
+          "N": "were",
+          "P": "where",
+          "Q": "while"
+        },
+        "cloze": [
+          "Koyasan is a mystical town in the mountains of Japan. It is located [Q29] a 900-metre high plateau surrounded by eight low peaks spread out like lotus petals. The little town with its picturesque setting and pristine environment was founded [Q30] twelve centuries ago by a monk.",
+          "Koyasan spreads [Q31] a main road about 3.5 kilometres long, running from east to west. It is home to about one hundred and twenty temples. It offers a cool respite during summer, as temperatures are a [Q32] degrees cooler at Koyasan than [Q33] in the plains.",
+          "At Koyasan, visitors can enjoy the unique experience of shojin ryori, a Japanese cuisine, [Q34] staying at a comfortable temple lodging. Garlic and onions are not used in shojin ryori. The ingredients may seem simple, but shojin ryori draws [Q35] their natural flavours to yield a wholesome feast.",
+          "I made a trip to Koyasan last summer. After touring the sights in town, it was time for a shower and a soak in one of the spacious baths at the temple, [Q36] I had booked to stay the night. Letting the hot water soothe my tired limbs [Q37] heavenly. After that, dinner was served in my room. What a sumptuous meal it was! There were several dishes such as tempura, soup and pickles made with seasonal ingredients ranging [Q38] vegetables to seaweed to mushrooms and freeze-dried tofu, a local delicacy. The feast certainly kept my palate happy."
+        ],
+        "zh": [
+          "高野山是日本山区的一座神秘小镇。它坐落在一个海拔900米的高原上，四周环绕着八座像莲花瓣一样展开的低矮山峰。这座风景如画、环境质朴的小镇是由一位僧人在大约12个世纪前建立的。",
+          "高野山沿着一条长约3.5公里、自东向西延伸的主干道铺展开来。这里是大约120座寺庙的所在地。它在夏天提供了一个凉爽的避暑胜地，因为高野山的温度要比平原地区低上几度。",
+          "在高野山，游客可以在舒适的寺庙宿处留宿的同时，体验独特的日本料理——精进料理。精进料理中不使用大蒜和洋葱。食材虽然看起来很简单，但精进料理充分汲取了它们天然的风味，呈现出一顿健康的盛宴。",
+          "我去年夏天去高野山旅行了一趟。游览完镇上的景点后，是时候在寺庙宽敞的浴室里洗个澡、泡个汤了，我之前已经预订了在这里过夜。让热水抚慰我疲惫的四肢，感觉简直像是在天堂一样。在那之后，晚餐被送到了我的房间。那是多么丰盛的一餐啊！有好几道菜，比如天妇罗、汤和用时令食材制作的泡菜，食材范围从蔬菜到海藻，再到蘑菇和当地美食冻豆腐。这顿盛宴无疑让我的味蕾非常愉悦。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词错误：表示“偶然发现、碰巧遇到（假新闻）”，固定短语为 come across，而非 come by（come by 意为获得）。",
+          "answer": "across"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 inappropriate（形容词，意为不恰当的、不合适的）。",
+          "answer": "inappropriate"
+        },
+        "41": {
+          "concept": "动词不定式 - Infinitives",
+          "note": "动词固定搭配与形式：be dedicated to 这里的 to 是介词，后面应接动名词形式 improving，或者是动词不定式引导结构，此处修饰名词短语应用 improving 来连接数码教育。",
+          "answer": "improving"
+        },
+        "42": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰调查结果（the findings）这一事物的特征，表示“令人吃惊的”，应用以 -ing 结尾的形容词 startling，而非以 -ed 结尾修饰人感受的 startled。",
+          "answer": "startling"
+        },
+        "43": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处描述先前的研究一直发现的一般客观事实规律，对应的定语从句中应用一般现在时形式 leads，因先行词 excessive usage 是单数，故用第三人称单数形式（或用 has led 表达长期的影响）。结合后文 to be associated with 属于一般事实陈述，此处应用 leads。",
+          "answer": "leads"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 associated（动词 associate 的过去分词，意为与……相联系）。",
+          "answer": "associated"
+        },
+        "45": {
+          "concept": "情态动词后的动词形式 - Verbs after Modals",
+          "note": "情态动词后的动词原形：在情态动词 can 后面，应接动词原形 hinder（构成 can also hinder），而非现在分词 hindering。",
+          "answer": "hinder"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 distinguish（动词，意为区分、辨别）。",
+          "answer": "distinguish"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 intelligence（名词，意为智能、智力），digital intelligence 意为数字智能。",
+          "answer": "intelligence"
+        },
+        "48": {
+          "concept": "过去分词 - Past Participles",
+          "note": "非谓语动词/被动含义：此处表示“被称为……”，应用过去分词形式 known 作后置定语或简化定语从句，而非过去式 knew。",
+          "answer": "known"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 browse（动词，意为浏览、网上冲浪）。",
+          "answer": "browse"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 experience（动词，意为体验、感受）。",
+          "answer": "experience"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "According to a survey conducted, children in Singapore spend almost 46 hours a week on electronic devices. It is a concern as children can come [Q39(by)] fake news and also other [Q40(inaproppraite)] material online. Dr Yuhyun Park, founder of DQ Institute, which is dedicated to [Q41(improvement)] digital education, said the findings are not [Q42(startled)]. In fact, prior studies have consistently found excessive usage of mobile devices, which [Q43(had led)] to weaker school performance, to be [Q44(asocciated)] with poorer sleep quality. The prolonged use of mobile devices can also [Q45(hindering)] children's ability to [Q46(distincquish)] reality and to connect with people offline.",
+          "A digital [Q47(inteligience)] programme launched the previous month, [Q48(knew)] as #DQeverychild, aims to arm children with digital citizen skills to [Q49(brause)] the Internet safely so that they can fully [Q50(expireince)] the benefits of the digital world. This is one of the several programmes launched to help children adopt good online habits."
+        ],
+        "zh": [
+          "根据一项调查，新加坡儿童每周在电子设备上花费近46个小时。这令人担忧，因为孩子们可能会在网上偶然发现假新闻以及其他不恰当的材料。致力于改善数字教育的DQ研究所创始人朴裕贤博士表示，这些调查结果并不令人吃惊。事实上，先前的研究一致发现，过度使用移动设备会导致学业成绩下降，并与较差的睡眠质量相联系。长期使用移动设备还会阻碍儿童区分现实以及与线下人群建立联系的能力。",
+          "前一个月推出的一项名为#DQeverychild的数字智能计划，旨在为儿童赋予数字公民技能，以便安全地浏览互联网，从而使他们能够充分体验数字世界带来的好处。这是为帮助儿童养成良好上网习惯而推出的几项计划之一。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "动词 (被动语态)",
+          "answer": "seen / detected / observed / noticed",
+          "note": "情态动词的被动语态‘could be + 过去分词’。结合上下文，火光从外面只能被‘看到’或‘注意到’。"
+        },
+        "52": {
+          "concept": "介词",
+          "answer": "to / towards",
+          "note": "‘came up to the door’表示沉重的脚步声一直走到门前。"
+        },
+        "53": {
+          "concept": "动词",
+          "answer": "digged / reached / dived / put",
+          "note": "根据标准答案图片，此处填入动词‘digged’（意为‘把手伸进/掏进’口袋，注：标准语法中常用 dug，此处依原卷参考答案为准）。"
+        },
+        "54": {
+          "concept": "固定搭配 / 过去分词",
+          "answer": "cast / put / placed",
+          "note": "‘cast a spell upon/on’为关于魔咒、魔法的固定搭配，意为‘对……施加了诅咒/法术’。"
+        },
+        "55": {
+          "concept": "形容词",
+          "answer": "first / previous / former / original",
+          "note": "前文提到弗兰克是第二个（second）拥有者，那么老人询问的是‘第一任’（依标准答案优先）或‘前一任’主人的愿望。"
+        },
+        "56": {
+          "concept": "固定搭配 / 连词",
+          "answer": "nothing / little",
+          "note": "‘nothing but’为固定搭配，意为‘除了……什么也没有 / 仅仅’。意为这只猴爪只给他带来了麻烦。"
+        },
+        "57": {
+          "concept": "介词",
+          "answer": "between",
+          "note": "猴爪荡漾在食指和拇指‘之间（between）’，两物之间使用介词between。"
+        },
+        "58": {
+          "concept": "逻辑连接词 (让步)",
+          "answer": "despite / notwithstanding",
+          "note": "后文提到弗兰克努力劝阻他，但老人执意要留下。‘despite + 名词短语’表示‘不管、不顾、尽管’。注：若用 in spite，需带 of，因后方无 of 故填 despite。"
+        },
+        "59": {
+          "concept": "固定搭配 / 形容词",
+          "answer": "careful / cautious",
+          "note": "‘be careful with’为固定搭配，意为‘对……保持谨慎/小心’。"
+        },
+        "60": {
+          "concept": "固定搭配 / 过去时动词",
+          "answer": "made",
+          "note": "‘make a wish’为固定搭配，意为‘许愿’。由于通篇是过去时叙事，因此动词使用过去式‘made’。"
+        },
+        "61": {
+          "concept": "固定搭配 / 名词",
+          "answer": "news",
+          "note": "‘break the news to someone’为固定习惯用语，意为‘把（不幸的）消息透露/告知某人’。"
+        },
+        "62": {
+          "concept": "形容词",
+          "answer": "fatal / serious / terrible / horrific / severe",
+          "note": "结合后文‘loss of his son（失去了儿子）’，可知儿子在工作中遭遇了‘致命的（fatal）’或‘极其严重的’事故。"
+        },
+        "63": {
+          "concept": "名词",
+          "answer": "compensation / payout / settlement / payment",
+          "note": "公司为了弥补其失去儿子的损失，向他提供50万美元作为‘赔偿金/补偿（compensation）’。"
+        },
+        "64": {
+          "concept": "固定搭配 / 介词",
+          "answer": "with",
+          "note": "‘be filled with’为固定短语，意为‘充满了……（悲伤）’。"
+        },
+        "65": {
+          "concept": "形容词 / 副词",
+          "answer": "alive / back / here",
+          "note": "由于儿子已经去世，老人拿出猴爪希望他的儿子能够重新‘活过来（alive）’或‘回来（back）’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The night was cold and wet. In the house, the curtains were drawn and the fire burned brightly. From the outside, only a faint glow could be [Q51]. An old man and his son were at a game of chess. Just then, the gate banged loudly and heavy footsteps came up [Q52] the door.",
+          "The old man rose slowly from his seat and opened the door. It was a guest whom they had been expecting, a man called Frank. The trio sat by the fire and chatted heartily. As their conversation veered towards recent strange happenings, Frank [Q53] into his pocket and fished out a dried, little monkey's paw. It was believed that a spell had been [Q54] upon it so that three different men would each have three wishes from it. Apparently, he was the second man to own it.",
+          "Curious, the old man asked what the [Q55] owner had wished for. Frank replied that he did not know and that the man had died. For his part, he explained how the paw had brought him [Q56] but trouble. His tone was so grave that a hush fell upon the group. Frank held up the paw, and dangling it [Q57] his index finger and thumb, dropped it suddenly into the fire. Immediately, the old man snatched it away from the fire and insisted on keeping the paw for himself [Q58] Frank's efforts to dissuade him. Nevertheless, he warned the old man to be [Q59] with what he wished for if he decided to use it. When Frank left, the old man [Q60] a wish for five hundred thousand dollars.",
+          "The next evening, while the old man was waiting for his son to return from work, a stranger came by the old man's house and broke the [Q61] to him that the old man's son had met with a [Q62] accident at work. The stranger informed him that the company would offer him five hundred thousand dollars as [Q63] for the loss of his son who was the only breadwinner. The old man was filled [Q64] sorrow. Then, he remembered the paw. He took it out and wished his son were [Q65] again. That night, a loud pounding on his door awoke him."
+        ],
+        "zh": [
+          "这是一个寒冷而潮湿的夜晚。屋子里窗帘紧闭，炉火烧得很旺。从外面看，只能看到一抹微弱的火光。一位老人和他的儿子正在下国际象棋。就在这时，大门砰地一声被撞开，沉重的脚步声朝门口走来。",
+          "老人缓缓从座位上站起来去开门。来客正是他们一直在等待的客人，一个叫弗兰克的人。三人坐在火炉旁，痛快地聊天。当他们的谈话转向最近发生的离奇事件时，弗兰克把手掏进兜里，摸出了一只干瘪的小猴爪。据说这只猴爪曾被施了魔咒，可以让三个不同的人每人从它那里实现三个愿望。显然，他是这只猴爪的第二任主人。",
+          "老人感到很好奇，问第一任主人许了什么愿。弗兰克回答说他不知道，而且那个人已经死了。至于他自己，他解释说这只猴爪除了麻烦之外没给他带来任何东西。他的语气是如此沉重，以至于全场顿时安静了下来。弗兰克举起猴爪，将它悬空晃荡在食指和拇指之间，突然将它丢进了火炉。老人立刻从火堆里把猴爪夺了过来，不顾弗兰克的极力劝阻，坚持要自己留下它。尽管如此，弗兰克还是警告老人，如果决定使用它，就要对自己的愿望保持谨慎。弗兰克离开后，老人许下了一个想要五十万美元的愿望。",
+          "第二天傍晚，当老人正在等待儿子下班回家时，一个陌生人来到老人的家，向他透露了不幸的消息，称老人的儿子在游戏中遭遇了致命的事故。陌生人通知他，由于他的儿子是家里唯一的经济支柱，公司将提供五十万美元作为失去儿子的赔偿金。老人内心充满了悲伤。这时，他想起了那只猴爪。他把猴爪拿出来，期盼他的儿子能够重新活过来。那天晚上，门外一阵剧烈的敲门声惊醒了他。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

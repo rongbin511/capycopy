@@ -1,0 +1,1428 @@
+{
+  "paperid": "p6_english_2020_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "This is by far __________ hobby I have picked up.",
+          "options": {
+            "1": "an enjoyable",
+            "2": "a very enjoyable",
+            "3": "the most enjoyable",
+            "4": "the more enjoyable"
+          }
+        },
+        "2": {
+          "stem_plain": "Trixie was tickled when she caught Mr Loh looking at his reflection in the mirror, smiling at __________.",
+          "options": {
+            "1": "her",
+            "2": "him",
+            "3": "herself",
+            "4": "himself"
+          }
+        },
+        "3": {
+          "stem_plain": "\"She'd be upset that you left a mess behind, __________?\" asked Nurul.",
+          "options": {
+            "1": "won't she",
+            "2": "didn't she",
+            "3": "hadn't she",
+            "4": "wouldn't she"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Yours may be good but ours __________ better,\" Mrs Tan told her neighbours who were showing off their new television.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "5": {
+          "stem_plain": "By the end of next year, my brother __________ a trained instructor.",
+          "options": {
+            "1": "becomes",
+            "2": "has become",
+            "3": "is becoming",
+            "4": "will have become"
+          }
+        },
+        "6": {
+          "stem_plain": "\"__________ Ling put the key back on the table, I would not have spent time searching for it and be late,\" Rui Kang complained.",
+          "options": {
+            "1": "Did",
+            "2": "Had",
+            "3": "Would",
+            "4": "Should"
+          }
+        },
+        "7": {
+          "stem_plain": "With __________ clues to work on, we were amazed that the detectives managed to crack the case in record time.",
+          "options": {
+            "1": "few",
+            "2": "some",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "8": {
+          "stem_plain": "\"__________ of taking the shortcut?\" one of the players asked before continuing, \"That would be unwise.\"",
+          "options": {
+            "1": "Will you think",
+            "2": "Are you thinking",
+            "3": "Should you think",
+            "4": "Have you thought"
+          }
+        },
+        "9": {
+          "stem_plain": "Suresh nearly shut the door __________ Mei Yun's face as he did not know that she was right behind him.",
+          "options": {
+            "1": "at",
+            "2": "in",
+            "3": "on",
+            "4": "over"
+          }
+        },
+        "10": {
+          "stem_plain": "The heel of the shoe gave way __________ the usual wear and tear.",
+          "options": {
+            "1": "in spite of",
+            "2": "giving rise to",
+            "3": "regardless of",
+            "4": "resulting from"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "note": "“by far” 常与形容词或副词的最高级连用，用来加强语气，表示“……得多”或“最……”。修饰最高级时需加定冠词 “the”，故选 “the most enjoyable”。",
+          "concept": "最高级的修饰语 — Superlatives with 'by far'",
+          "zh": "这是到目前为止我所培养的爱好中最有趣的一个。",
+          "answer": "3"
+        },
+        "2": {
+          "note": "动作的发出者是 “Mr Loh”，他在镜子里看着自己的倒影并对着“自己”微笑。当动作的发出者和承受者是同一个人时，使用反身代词 “himself”。",
+          "concept": "反身代词 — Reflexive Pronouns",
+          "zh": "当翠西发现卢先生正看着镜子里的倒影并对自己微笑时，她被逗乐了。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "主句中的 “She'd” 是 “She would” 的缩写（后接动词原形 be）。根据反意疑问句“前肯定后否定”的原则，疑问部分使用 “wouldn't she”。",
+          "concept": "反意疑问句与缩写判断 — Question Tags with 'd",
+          "zh": "“如果你留下一堆烂摊子，她会不高兴的，不是吗？”努鲁尔问。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "名词性物主代词 “ours” 在这里指代 “our television”（单数）。叙述的是现在的普遍事实，因此谓语动词用一般现在时单数形式 “is”。",
+          "concept": "名词性物主代词与主谓一致 — Possessive Pronouns and Subject-Verb Agreement",
+          "zh": "“你们的可能不错，但我们的更好，”陈太太对正在炫耀新电视机的邻居们说道。",
+          "answer": "1"
+        },
+        "5": {
+          "note": "“By + 将来时间点”（by the end of next year）是将来完成时的经典时间状语，表示到将来某个时间为止动作已经完成，结构为 “will have + 过去分词”。",
+          "concept": "将来完成时 — Future Perfect Tense",
+          "zh": "到明年年底，我哥哥就将成为一名受过训练的教练了。",
+          "answer": "4"
+        },
+        "6": {
+          "note": "本题考查虚拟语气中的倒装。主句用 “would not have spent”，说明是对过去事实的虚拟，条件句原本应为 “If Ling had put...”。省去连词 “if” 时，需将助动词 “had” 提前至句首，形成倒装 “Had Ling put...”。",
+          "concept": "虚拟语气条件句的倒装 — Inverted Conditionals — Past Unreality",
+          "zh": "“要是阿玲把钥匙放回桌上，我就不用花时间去找而导致迟到了，”瑞康抱怨道。",
+          "answer": "2"
+        },
+        "7": {
+          "note": "根据后半句 “we were amazed”（我们感到十分惊讶），可以推断出是在线索极少的情况下破案才令人惊叹。“clues” 是可数名词复数，表否定意义的“几乎没有”用 “few”。",
+          "concept": "可数名词量词的辨析 — Quantifiers — few vs many",
+          "zh": "在几乎没有线索的情况下，侦探们竟然能在创纪录的时间内破案，这让我们感到十分惊讶。",
+          "answer": "1"
+        },
+        "8": {
+          "note": "“Are you thinking of doing something?” 是常用的疑问句结构，用来询问对方“目前是否正在打算/考虑做某事”。",
+          "concept": "现在进行时表打算 — Present Continuous — think of doing",
+          "zh": "“你们在打算走捷径吗？”其中一名选手在继续之前问道，“那会是不明智的。”",
+          "answer": "2"
+        },
+        "9": {
+          "note": "固定搭配 “shut/slam the door in someone's face”，意为“当着某人的面把门关上”或“对某人闭门不理”。",
+          "concept": "介词固定搭配 — Prepositional Phrases — in someone's face",
+          "zh": "苏雷什差点当着美云的面把门关上，因为他不知道她紧跟在自己身后。",
+          "answer": "2"
+        },
+        "10": {
+          "note": "“resulting from” 意为“由于……所导致”，用来引出原因。鞋跟坏了（gave way）是因为日常的磨损（wear and tear）。",
+          "concept": "因果介词短语 — Cause and Effect Phrases — resulting from",
+          "zh": "由于日常的正常磨损，鞋跟断裂了。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Usha had to ________ more responsibilities when she became the leader of the debate team.",
+          "options": {
+            "1": "take in",
+            "2": "take to",
+            "3": "take on",
+            "4": "take after"
+          }
+        },
+        "12": {
+          "stem_plain": "By sharing their ideas with one another, the pupils ________ that there were different ways of looking at the problem to solve it.",
+          "options": {
+            "1": "assumed",
+            "2": "presumed",
+            "3": "discovered",
+            "4": "anticipated"
+          }
+        },
+        "13": {
+          "stem_plain": "The news report provided a short ________ of the incident before going into the details of what happened.",
+          "options": {
+            "1": "draft",
+            "2": "extract",
+            "3": "briefing",
+            "4": "summary"
+          }
+        },
+        "14": {
+          "stem_plain": "Few soccer players can ________ Yong Han in his ability to dribble and score a goal.",
+          "options": {
+            "1": "rival",
+            "2": "defend",
+            "3": "oppose",
+            "4": "obstruct"
+          }
+        },
+        "15": {
+          "stem_plain": "A whale was spotted near the ship, so the passengers ________ their lunch midway and rushed off to see it.",
+          "options": {
+            "1": "abolished",
+            "2": "discarded",
+            "3": "dismissed",
+            "4": "abandoned"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "note": "短语动词“take on”在这里意为“承担（责任或工作）”，与后面的“more responsibilities（更多责任）”是固定搭配。",
+          "zh": "当乌沙成为辩论队队长时，她必须承担更多的责任。",
+          "concept": "短语动词 Phrasal Verbs",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "take in",
+              "zh": "吸收，领会；欺骗（指理解吸收信息，或被某人蒙骗）",
+              "eg": "It took me a few minutes to take in everything he said."
+            },
+            {
+              "opt": "2",
+              "word": "take to",
+              "zh": "开始喜欢，养成……的习惯（指逐渐对某事产生兴趣或适应某环境）",
+              "eg": "He took to swimming every morning after his recovery."
+            },
+            {
+              "opt": "3",
+              "word": "take on",
+              "zh": "承担，接受（常用于承担工作、责任或挑战）",
+              "eg": "She was ready to take on the new challenge at work."
+            },
+            {
+              "opt": "4",
+              "word": "take after",
+              "zh": "（外貌或性格上）长得像，像（通常指像父母或家族长辈）",
+              "eg": "The baby takes after his father with those big blue eyes."
+            }
+          ],
+          "image": "a11.jpeg"
+        },
+        "12": {
+          "zh": "通过互相分享想法，学生们发现有不同的角度来看待并解决这个问题。",
+          "note": "根据前文的“By sharing their ideas（通过分享想法）”，学生们认识到了新情况，所以用“discovered（发现、觉察到）”最符合语境。",
+          "concept": "词汇-语境线索 Vocabulary-Contextual Clues",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "assumed",
+              "zh": "假定，假设（在没有确凿证据的情况下认为某事是真实的）",
+              "eg": "I assumed you knew each other because you arrived together."
+            },
+            {
+              "opt": "2",
+              "word": "presumed",
+              "zh": "推测，假定（基于一定的可能性进行推断，语气比assume更正式）",
+              "eg": "The missing passengers are presumed dead after the long search."
+            },
+            {
+              "opt": "3",
+              "word": "discovered",
+              "zh": "发现，注意到（通过学习、观察或经历了解到了之前不知道的事实）",
+              "eg": "Scientists recently discovered a new species of frog in the rainforest."
+            },
+            {
+              "opt": "4",
+              "word": "anticipated",
+              "zh": "预期，预料（对未来可能发生的事情做好思想准备或预测）",
+              "eg": "The company anticipated a large increase in sales during festive season."
+            }
+          ]
+        },
+        "13": {
+          "zh": "新闻报道在深入探讨事情发生的细节之前，先对该事件做了一个简短的总结。",
+          "note": "由后文的“before going into the details（在深入细节之前）”可以推断，前面提供的是一个总体的概述，即“summary（总结、概要）”。",
+          "concept": "词汇-语境线索 Vocabulary-Contextual Clues",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "draft",
+              "zh": "草稿，草案（文章、计划或法律文件的初步版本）",
+              "eg": "He wrote a rough draft of his speech before making changes."
+            },
+            {
+              "opt": "2",
+              "word": "extract",
+              "zh": "摘录，选录（从书、文章或音乐中摘取出来的一小段）",
+              "eg": "The teacher read a short extract from the novel to the class."
+            },
+            {
+              "opt": "3",
+              "word": "briefing",
+              "zh": "简报，情况介绍会（向某人提供指示或最新基本情况的会议或活动）",
+              "eg": "The pilots attended a safety briefing before taking off."
+            },
+            {
+              "opt": "4",
+              "word": "summary",
+              "zh": "总结，概要（对主要内容、事实的简明扼要的陈述）",
+              "eg": "The manager gave a quick summary of the monthly sales report."
+            }
+          ]
+        },
+        "14": {
+          "zh": "很少有足球运动员能在带球和射门得分的能力上与永汉匹敌。",
+          "note": "“Few soccer players can...（很少有球员能……）”暗示了永汉的技术非常高超，无人能及，因此使用“rival（与……匹敌、比得上）”最为通顺。",
+          "concept": "词汇-语境线索 Vocabulary-Contextual Clues",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rival",
+              "zh": "与……匹敌，比得上（指在质量、能力或技术上达到同等优秀的水平）",
+              "eg": "No other restaurant in town can rival their excellent dessert selection."
+            },
+            {
+              "opt": "2",
+              "word": "defend",
+              "zh": "防守，保护（指保护某人或某物免受攻击、伤害或进球）",
+              "eg": "The team worked hard to defend their goal post in the last minutes."
+            },
+            {
+              "opt": "3",
+              "word": "oppose",
+              "zh": "反对，反抗（指对某种计划、政策或观点持反对态度）",
+              "eg": "Many local residents oppose the plan to build a new highway."
+            },
+            {
+              "opt": "4",
+              "word": "obstruct",
+              "zh": "阻碍，妨碍（指设置障碍物来阻挡道路、视线或事情的进展）",
+              "eg": "A fallen tree branches was blocking the road and obstructing traffic."
+            }
+          ]
+        },
+        "15": {
+          "zh": "有人在船附近发现了鲸鱼，于是乘客们吃到一半就丢下午餐，急忙跑过去看。",
+          "note": "“abandoned their lunch midway”意为“中途丢下了他们的午餐”。“abandon”可指因被其他更吸引人或更紧急的事物打断而离开正在做的事或物品。",
+          "concept": "词汇辨析 Vocabulary-Word Choice",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "abolished",
+              "zh": "废除，取消（通常指法律、制度或习俗的正式废止）",
+              "eg": "Slavery was abolished in many countries during the nineteenth century."
+            },
+            {
+              "opt": "2",
+              "word": "discarded",
+              "zh": "丢弃，抛弃（指扔掉不再需要或不想要的东西，如垃圾或旧观念）",
+              "eg": "Please ensure that used plastic bottles are discarded in the recycling bin."
+            },
+            {
+              "opt": "3",
+              "word": "dismissed",
+              "zh": "不予考虑，解散（指认为某想法不重要而不予理会，或让人员离开）",
+              "eg": "The boss dismissed the suggestion immediately, calling it impractical."
+            },
+            {
+              "opt": "4",
+              "word": "abandoned",
+              "zh": "中途放弃，丢下（指因为紧急情况或不得不离开而未完成某事，或留下某物）",
+              "eg": "The hikers had to abandon their journey when the heavy blizzard started."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "Mike, a professional athlete, crouched on the ground with his feet against the starting blocks, ________ to a panther about to pounce.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "signifying",
+            "2": "illustrating",
+            "3": "suggesting",
+            "4": "resembling"
+          }
+        },
+        "17": {
+          "stem_plain": "He had practised the push-off position ________ times just so his reaction to the starting call would become second nature...",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "numerous",
+            "2": "abundant",
+            "3": "frequent",
+            "4": "various"
+          }
+        },
+        "18": {
+          "stem_plain": "...just so his reaction to the starting call would become ________ and he would not waste precious seconds.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "interior",
+            "2": "urgent",
+            "3": "instinctive",
+            "4": "quickened"
+          }
+        },
+        "19": {
+          "stem_plain": "Earlier that day, he had gone through his usual ________ before a race...",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "plan",
+            "2": "cycle",
+            "3": "routine",
+            "4": "sequence"
+          }
+        },
+        "20": {
+          "stem_plain": "Now in position, Mike calmed his nerves and ________ himself to focus on the race...",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "directed",
+            "2": "managed",
+            "3": "reassured",
+            "4": "organised"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "signifying",
+              "zh": "表示/意味着",
+              "eg": "He nodded his head, signifying his agreement to the proposal."
+            },
+            {
+              "opt": "2",
+              "word": "illustrating",
+              "zh": "说明/阐明",
+              "eg": "The teacher spent an hour illustrating the math concept on the board."
+            },
+            {
+              "opt": "3",
+              "word": "suggesting",
+              "zh": "建议/暗示",
+              "eg": "Are you suggesting that we postpone our weekend camping trip?"
+            },
+            {
+              "opt": "4",
+              "word": "resembling",
+              "zh": "与……相似/像",
+              "eg": "The small gold charm was intricately crafted, resembling a tiny key."
+            }
+          ]
+        },
+        "17": {
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "numerous",
+              "zh": "许多的/无数的",
+              "eg": "She has won numerous awards throughout her successful singing career."
+            },
+            {
+              "opt": "2",
+              "word": "abundant",
+              "zh": "充裕的/丰富的",
+              "eg": "The tropical island provides an abundant supply of fresh water and fruits."
+            },
+            {
+              "opt": "3",
+              "word": "frequent",
+              "zh": "频繁的/经常的",
+              "eg": "The local library is a frequent meeting spot for the student group."
+            },
+            {
+              "opt": "4",
+              "word": "various",
+              "zh": "各种各样的",
+              "eg": "We discussed various topics during our casual weekend conversation."
+            }
+          ]
+        },
+        "18": {
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "interior",
+              "zh": "内部的",
+              "eg": "The interior walls of the old building were painted a light blue."
+            },
+            {
+              "opt": "2",
+              "word": "urgent",
+              "zh": "紧急的",
+              "eg": "The doctor received an urgent phone call from the hospital room."
+            },
+            {
+              "opt": "3",
+              "word": "instinctive",
+              "zh": "本能的/直觉的",
+              "eg": "Her instinctive reaction was to shield her eyes from the bright flash."
+            },
+            {
+              "opt": "4",
+              "word": "quickened",
+              "zh": "加快的",
+              "eg": "His quickened footsteps echoed loudly through the dark alleyway."
+            }
+          ]
+        },
+        "19": {
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "plan",
+              "zh": "计划/打算",
+              "eg": "They drew up a comprehensive plan to expand their business."
+            },
+            {
+              "opt": "2",
+              "word": "cycle",
+              "zh": "循环/周期",
+              "eg": "The lifecycle of a butterfly includes four distinct developmental stages."
+            },
+            {
+              "opt": "3",
+              "word": "routine",
+              "zh": "常规/例行公事",
+              "eg": "Drinking warm water in the morning is part of his healthy routine."
+            },
+            {
+              "opt": "4",
+              "word": "sequence",
+              "zh": "顺序/次序",
+              "eg": "The cards must be arranged in a specific numerical sequence to play."
+            }
+          ]
+        },
+        "20": {
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "directed",
+              "zh": "指导/导演",
+              "eg": "The traffic officer directed the drivers safely around the accident site."
+            },
+            {
+              "opt": "2",
+              "word": "managed",
+              "zh": "设法做到/掌控",
+              "eg": "Despite the heavy traffic, he managed to reach the terminal on time."
+            },
+            {
+              "opt": "3",
+              "word": "reassured",
+              "zh": "使……安心/安慰",
+              "eg": "The guide reassured the nervous travelers that the trail was completely safe."
+            },
+            {
+              "opt": "4",
+              "word": "organised",
+              "zh": "组织/安排",
+              "eg": "She organised a grand charity event to raise funds for the shelter."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The late afternoon sun beat down at the stadium. Mike, a professional athlete, crouched on the ground with his feet against the starting blocks, [Q16 (similar to)] a panther about to pounce. He had practised the push-off position [Q17 (countless)] times just so his reaction to the starting call would become [Q18 (second nature)] and he would not waste precious seconds.",
+          "Earlier that day, he had gone through his usual [Q19 (activities)] before a race – having light meals, resting and chatting with friends on the phone. Before the race, he did his warm-up with some mental preparation, picturing in his head in slow motion how he would run the race.",
+          "Now in position, Mike calmed his nerves and [Q20 (willed himself)] to focus on the race, chanting, \"It's now or never! I can do it!\" The race would be over in less than a minute."
+        ],
+        "zh": [
+          "傍晚的阳光直射在体育场上。专业运动员迈克蹲在地上，双脚抵住起跑器，就像一只准备扑食的豹子。他已经无数次练习过起跑推进动作，只为了让自己对起跑指令的反应成为一种本能，不浪费任何宝贵的时间。",
+          "那天早些时候，他进行赛前的日常准备——吃清淡的食物、休息以及和朋友在电话里聊天。比赛开始前，他做好了热身运动和心理准备，在脑海中慢动作构思着自己将如何跑完这场比赛。",
+          "现在迈克已各就各位，他平复了自己的紧张情绪，强迫自己将注意力集中在比赛上，并反复念叨着：“此时不搏，更待何时！我能做到！”这场比赛在不到一分钟内就会结束。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "连词用法（转折关系）",
+          "note": "‘but no one continues...’ 引导转折句，意为‘我们在学校被教导以特定的方式写字，但没有人会一直完全那样写’。",
+          "answer": "E"
+        },
+        "30": {
+          "concept": "连词用法（时间/方式状语从句）",
+          "note": "‘as we like’ 引导状语从句，在此表示‘按照我们喜欢的方式’或‘正如我们喜欢的那样’改变字母形状。",
+          "answer": "C"
+        },
+        "31": {
+          "concept": "疑问代词/连接代词（引导宾语从句）",
+          "note": "‘whose script it is’ 中 whose 引导宾语从句，作定语修饰名词 script，表示‘认出这是谁的字迹’。",
+          "answer": "Q"
+        },
+        "32": {
+          "concept": "连词用法（并列递进）",
+          "note": "‘and even an expert...’ 这里的 even 用作副词表示递进，意为‘我们的性格影响着我们的书写方式，甚至专家能够通过检查……来辨别一个人的性格’。",
+          "answer": "F"
+        },
+        "33": {
+          "concept": "动词时态与语态（一般过去时被动语态）",
+          "note": "‘how the letters and numbers were formed...’ 描述过去形成字迹的客观事实，主语 letters and numbers 为复数，故被动语态助动词选 were (选项中为 was，需结合上下文看时态。如果是客观规律或指单份样本，但由于选项中只有 (M) was 属于过去式动词，此处主语核心也有可能被视为整体，或该印刷体对应的选项为 was) 。检查选项：有 (B) are, (G) have, (M) was。因为前半句是 ‘is able to’，若为一般现在时的被动语态，复数主语应搭配 are，意为‘它们是如何在纸上被写出来的’。选 B 更符合时态一致性。修正33为 B。",
+          "answer": "B"
+        },
+        "34": {
+          "concept": "动词时态与语态（一般过去时被动语态）",
+          "note": "‘an established way... was developed’，本句核心主语是单数名词 way，且发生在 1870s（19世纪70年代），因此使用一般过去时单数被动语态，选 was。",
+          "answer": "M"
+        },
+        "35": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘In graphology’，介词 in 意为‘在……中’，‘在笔迹学中，至少有300种书写特征需要研究’。",
+          "answer": "J"
+        },
+        "36": {
+          "concept": "副词修饰语（否定句结构）",
+          "note": "‘not all 300...’ 构成部分否定结构，意为‘然而，并非所有300种特征都会同时出现在一份手写样本中’。",
+          "answer": "K"
+        },
+        "37": {
+          "concept": "介词搭配（中心词作状语）",
+          "note": "‘Among the features...’ 介词 among 意为‘在……之中’，位于句首引导倒装结构或状语，表示‘在我们可以研究的特征中，其中一个是手写体的大小’。",
+          "answer": "A"
+        },
+        "38": {
+          "concept": "连词用法（对照/让步状语从句）",
+          "note": "‘while large-sized handwriting suggests... someone who writes small tends to...’ 连词 while 在此表示对比、对照关系，意为‘然而/而大号字体表明作者性格外向，写小字的人则往往害羞内敛’。",
+          "answer": "P"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "among",
+          "B": "are",
+          "C": "as",
+          "D": "been",
+          "E": "but",
+          "F": "even",
+          "G": "have",
+          "H": "if",
+          "J": "in",
+          "K": "not",
+          "L": "so",
+          "M": "was",
+          "N": "what",
+          "P": "while",
+          "Q": "whose"
+        },
+        "cloze": [
+          "Everyone's handwriting looks different. We are taught to write in a certain way at school, [Q29] no one continues to write exactly that way. We will gradually change the shapes and sizes of the letters we write [Q30] we like. When we see enough of a person's handwriting, we will recognise [Q31] script it is, like the way we recognise the works of a well-known artist. Our personality affects the way we write, [Q32] an expert is able to tell a person's character by examining how the letters and numbers [Q33] formed on paper.",
+          "The study of handwriting analysis is known as graphology. Though it originated as far back as 3000 years ago in China, an established way of analysing handwriting [Q34] developed by the French in the 1870s. [Q35] graphology, there are at least 300 handwriting features to investigate. However, [Q36] all 300 of the features may be present in a sample of handwriting.",
+          "[Q37] the features that we can study is the size of the handwriting. [Q38] large-sized handwriting suggests that the writer has an outgoing personality, someone who writes small tends to be shy and introverted.",
+          "Are you keen to find out what your handwriting says about you?"
+        ],
+        "zh": [
+          "每个人的字迹看起来都不同。我们在学校被教导以特定的方式写字，但没有人会一直完全那样写。我们会逐渐根据自己的喜好改变所写字母的形状和大小。当我们看够了一个人的字迹时，我们就能认出这是谁的字迹，就像我们欣赏知名艺术家的作品一样。我们的性格影响着我们的书写方式，甚至专家能够通过检查字母和数字是如何在纸上写出来的，从而辨别一个人的性格。",
+          "字迹分析研究被称为笔迹学。虽然它早在3000年前就起源于中国，但一种成熟的字迹分析方法是由法国人在19世纪70年代发展起来的。在笔迹学中，至少有300种书写特征需要研究。然而，并非所有300种特征都会同时出现在一份手写样本中。",
+          "在我们可以研究的特征中，字迹的大小是其中之一。大号字体表明作者性格外向，而写小字的人则往往害羞、内敛。",
+          "你想知道你的字迹展现了你怎样的性格吗？"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "主谓一致 - Subject-Verb Agreement",
+          "note": "主谓一致：先行词为复数名词 furniture (不确定在此处是否被视为集体，但更重要的是 constraints 属于定语从句修饰 furniture，此处用 general fact 且搭配 furniture，应使用 is 或 are。注意：furniture 是不可数名词，谓语动词应用单数 is)。",
+          "answer": "is"
+        },
+        "40": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰名词 arrangement 应用形容词形式 attractive，而非动词 attract。",
+          "answer": "attractive"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 atmosphere（名词，意为气氛、氛围）。",
+          "answer": "atmosphere"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 beverages（名词，意为饮料）。",
+          "answer": "beverages"
+        },
+        "43": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：此处作主语核心词，应用名词形式 recommendation，而非动词 recommend。",
+          "answer": "recommendation"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 scrumptious（形容词，意为美味的）。",
+          "answer": "scrumptious"
+        },
+        "45": {
+          "concept": "介词 - Prepositions",
+          "note": "介词搭配：表示“烹饪得完美无瑕”，固定搭配为 cooked to perfection，而非 into。",
+          "answer": "to"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 unique（形容词，意为独特的）。",
+          "answer": "unique"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 mechanical（形容词，意为机械的）。",
+          "answer": "mechanical"
+        },
+        "48": {
+          "concept": "现在分词 - Present Participles",
+          "note": "非谓语动词：表示“散落各处”，应用现在分词形式 lying 作后置修饰，构成 lie about 的主动分词形式 lying about。",
+          "answer": "lying"
+        },
+        "49": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处讲述过去发生并开启了爱好的动作，应用过去时 began，而非一般现在时 begin。",
+          "answer": "began"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 appropriately（副词，意为合适地、恰当地）。",
+          "answer": "appropriately"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Tin Tank is an unusual eatery. The café has furniture in bright colours that [Q39(be)] super comfortable for a relaxing meal. With the [Q40(attract)] arrangement of potted plants and warm lighting, the [Q41(atmosfier)] is cosy and friendly.",
+          "The menu offers local cuisine and a good selection of [Q42(bevriges)] and desserts. Our top [Q43(recommend)] is the TT Red Curry, which is simply [Q44(skrumxious)] with tender chicken pieces cooked [Q45(into)] perfection.",
+          "What makes Tin Tank [Q46(yoonik)] is the interesting collection of [Q47(mekanicle)] toys that can be found [Q48(lie)] about. The name of the eatery was inspired by a tin tank wind-up toy from the 1950s that [Q49(begin)] the owner's hobby of collecting toys.",
+          "Tin Tank is situated [Q50(apropraitly)] in the newly-opened Toy Museum."
+        ],
+        "zh": [
+          "Tin Tank 是一家不寻常的小吃店。这家咖啡馆拥有色彩鲜艳的家具，非常舒适，适合享受一顿轻松的餐点。伴随着盆栽植物的迷人摆设和温暖的灯光，这里的氛围温馨而友好。",
+          "菜单提供当地美食以及琳琅满目的饮料和甜点。我们最推荐的是 TT 红咖喱，它简直美味极了，鲜嫩的鸡肉块烹饪得恰到好处、完美无瑕。",
+          "让 Tin Tank 独具一格的是那些随处可见的有趣的机械玩具收藏。这家餐馆的名字灵感来源于一个20世纪50年代的铁皮坦克发条玩具，它开启了老板收集玩具的业余爱好。",
+          "Tin Tank 恰如其分地坐落在新开幕的玩具博物馆内。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "For many people, smartphones have become an inseparable part of their lives. The smartphone has multiple functions. It is a mobile phone equipped [Q51] only with a digital camera, but also features of a computer, all [Q52] into one device. Some people are [Q53] reliant on their smartphones that they find it hard to put them [Q54] even for a little while.",
+          "Step into a restaurant today and you will likely find diners preoccupied with their phones instead of chatting with one another. There is increasing [Q55] that prolonged smartphone usage can affect the development of social skills. Youngsters have been found to chat freely with their friends using messaging applications such as WhatsApp, but [Q56] the confidence to make face-to-face conversations.",
+          "Smartphone usage can also lead to our manners becoming [Q57] than ever. It is quite common to see someone [Q58] off a conversation to check their phone, or answering a call while making a purchase, impolitely [Q59] the salesperson serving them. Some people may also show less restraint when they communicate online, giving harsh criticisms or making rude [Q60] - something they would probably think twice before doing if they were in a face-to-face situation.",
+          "There are other negative effects to note. Excessive smartphone usage has been [Q61] with poorer sleep quality, which can lower our ability to think well and study or work. Experts have also [Q62] against over-relying on the smartphone as it may lead to our brain growing lazy. After all, we no longer need to remember phone numbers when they are stored in our contact list. [Q63] do we need to hold details in our head when we can set a reminder in our phone.",
+          "[Q64] the potential harmful effects, the use of smartphones is likely to grow as it brings about many benefits as [Q65]. What we can do is to be mindful of its possible effects and strive to be a master, not slave, of this technology."
+        ],
+        "zh": [
+          "对许多人来说，智能手机已经成为他们生活中不可分割的一部分。智能手机具有多种功能。它不仅配备了数码相机，还具备计算机的功能，所有这些都融合到了一个设备中。有些人是如此依赖他们的智能手机，以至于他们发现很难把它们放下，哪怕只是那一小会儿。",
+          "今天走进一家餐厅，你很可能会发现食客们都在专心玩手机，而不是互相聊天。越来越多的迹象表明，长时间使用智能手机会影响社交技能的发展。人们发现，年青人可以利用WhatsApp等即时通讯应用与朋友自由聊天，但却缺乏进行面对面交谈的自信。",
+          "智能手机的使用也会导致我们的礼貌变得比以往更糟糕。经常可以看到有人打断谈话去检查手机，或者在购物时接听电话，很不礼貌地无视正在为他们服务的店员。有些人在网上交流时也可能表现出较少的克制，给予严厉的批评或发表粗鲁的言论——如果他们处于面对面的情况下，他们可能会在做这些事情之前三思而后行。",
+          "还有其他负面影响需要注意。过度使用智能手机已与较差的睡眠质量联系在一起，这会降低我们良好思考以及学习或工作的能力。专家们还警告不要过度依赖智能手机，因为这可能会导致我们的大脑变得懒惰。毕竟，当电话号码存储在我们的联系人列表中时，我们不再需要记住它们。当我们在手机中设置提醒时，我们也不需要在大脑中记住细节。",
+          "尽管存在潜在的有害影响，但智能手机的使用仍可能会增长，因为它也带来了许多好处。我们所能做的是要注意它可能产生的影响，并努力成为这项技术的主人，而不是奴隶。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "并列关联句型形式",
+          "note": "后文出现了并列关联词组合 but also。此处完美契合经典递进并列句型结构 not only... but also...（不仅……而且……），用以呈现两个相关的并列特征。",
+          "answer": "not"
+        },
+        "52": {
+          "concept": "过去分词短语形式",
+          "note": "用来形容多种功能完全被容纳、聚合在一个设备里。To be 'packed' 意为被装满或填充了许多事物。",
+          "answer": "packed"
+        },
+        "53": {
+          "concept": "程度副词修饰结构",
+          "note": "后接由连词 that 引导的结果状语从句。副词 'so' 在此处用来表示程度极深、达到了“如此……以至于……”的地步。",
+          "answer": "so"
+        },
+        "54": {
+          "concept": "短语动词固定搭配形式",
+          "note": "与前面的动词原形 put 完美组合。固定短语动词 'put down' 意为停止握住某物并将其放置在某个表面上（放下一会儿）。",
+          "answer": "down"
+        },
+        "55": {
+          "concept": "名词语意与语境匹配",
+          "note": "由逐渐增长的形容词 increasing 引出。根据上下文对智能手机危害的探讨，此处可填入表示“担忧”或“忧虑”的单数名词 concern 或者是 apprehension。",
+          "answer": "concern/apprehension"
+        },
+        "56": {
+          "concept": "动词词义语意辨析",
+          "note": "作为并列转折句的谓语。To 'lack' 意为没有拥有足够数量的某种事物，指代年轻人极度缺乏当面沟通的自信心。",
+          "answer": "lack"
+        },
+        "57": {
+          "concept": "形容词比较级句型形式",
+          "note": "后接明确的比较连词 than ever。To become 'worse than ever' 指情况或日常社交礼仪已经变得比以往任何时候都要糟糕得多。",
+          "answer": "worse"
+        },
+        "58": {
+          "concept": "短语动词搭配与宾补",
+          "note": "跟在感官动词结构 see someone 后面，后接副词 off。可填入以 'off' 结尾的短语动词 cut 或者是 trail（构成 cut off / trail off），用以生动形容人们聊着天突然掐断话题去看手机的普遍现象。",
+          "answer": "cut/trail"
+        },
+        "59": {
+          "concept": "现在分词引导伴随状语",
+          "note": "上文提到人们在买单时忙于接电话。根据这种缺乏面对面正常社交和礼貌的语境，此处可填入现在分词 ignoring 或者是 disregarding，表示无礼地“忽视”或“冷落”服务员。",
+          "answer": "ignoring/disregarding"
+        },
+        "60": {
+          "concept": "名词语意与场景场景搭配",
+          "note": "与前面的并列名词 criticisms 形成并列。'Comments'（言论/评论）是指用来表达某人特定观点或看法的陈述陈辞，在此采用复数形式。",
+          "answer": "comments"
+        },
+        "61": {
+          "concept": "被动语态与动词时态形式",
+          "note": "前面有助动词被动结构 has been，后接过去分词。此处使用过去分词形式 'associated'，用以揭示过度刷手机与睡眠质量变差之间存在的科学强关联性。",
+          "answer": "associated"
+        },
+        "62": {
+          "concept": "完成时短语动词搭配",
+          "note": "前面有完成时助动词 have，后接过去分词，且后有介词 against 连用。固定短语动词 'warned against' 意为告诫或劝人不要去做某事，因为这可能会引来不好的结果。",
+          "answer": "warned"
+        },
+        "63": {
+          "concept": "否定倒装句型连词形式",
+          "note": "置于句首，后面触发了部分倒装语序（do we need...）。固定使用否定连词 'Nor' 用来承接前一句的否定事实，并引出另一个并列的否定陈述。位于句首需大写。",
+          "answer": "Nor"
+        },
+        "64": {
+          "concept": "让步关系复合介词形式",
+          "note": "后接名词短语 the potential harmful effects。固定使用让步介词 'Despite'（尽管），用以说明这种技术上的危害并不妨碍智能手机使用量未来的持续增加。位于句首需大写。",
+          "answer": "Despite"
+        },
+        "65": {
+          "concept": "经典句型固定末尾递进搭配",
+          "note": "与其前置词 as 完美结合，用作整句句尾的副词性修饰。固定搭配短语 'as well' 在此处完全等同于副词 'also'，意为“也/同样”带来了海量好处。",
+          "answer": "well"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Min Yao broke the expensive vase. He admitted it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Min Yao admitted to __________ ."
+        },
+        "67": {
+          "stem_plain": "He can say anything. I will not go.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No matter __________ ."
+        },
+        "68": {
+          "stem_plain": "\"I went to the supermarket to look for you,\" Uncle John said to Aunty Mary.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Uncle John told Aunty Mary that __________ ."
+        },
+        "69": {
+          "stem_plain": "The bird was unable to fly. It was easily caught.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ due to its __________ ."
+        },
+        "70": {
+          "stem_plain": "Fadri was relieved to find out that his wallet was not missing.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Much to __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "非谓语动词 — 介词后接动名词 'admit to doing'",
+          "note": "固定搭配：admit to 中的 to 是介词，后面必须接动名词形式 breaking。也可以使用完成式 having broken。",
+          "zh": "敏瑶承认打破了那个昂贵的花瓶。",
+          "answer": "Min Yao admitted to breaking the expensive vase."
+        },
+        "67": {
+          "concept": "让步状语从句 — 'No matter what'",
+          "zh": "无论他说什么，我都不会去。",
+          "note": "从句连词：anything 转换为由 No matter what 引导的让步状语从句，结构为“No matter what + 主语 + 谓语”。常见的另一种正确写法是 No matter what he says, I will not go.",
+          "answer": "No matter what he can say, I will not go."
+        },
+        "68": {
+          "concept": "间接引语 — 宾语从句的人称与时态转换",
+          "zh": "约翰叔叔告诉玛丽阿姨，他去超市找过她。",
+          "note": "间接引语：由 that 引导陈述句转换的宾语从句。人称 I 变为 he，you 变为 her；时态由过去时 went 变为过去完成时 had gone。",
+          "answer": "Uncle John told Aunty Mary that he had gone to the supermarket to look for her."
+        },
+        "69": {
+          "concept": "词性转换与原因短语 — 形容词变名词",
+          "zh": "由于不会飞，这只鸟很容易就被抓住了。",
+          "note": "综合改写：主句使用后半句。同时，由于 due to its 后面需要接名词短语，必须将形容词短语 unable to fly 转换为名词短语 inability to fly。",
+          "answer": "The bird was easily caught due to its inability to fly."
+        },
+        "70": {
+          "concept": "介词短语作状语 — 'Much to one's + N' 结构",
+          "zh": "让法德里大为松了一口气的是，他发现自己的钱包没有丢。",
+          "note": "固定结构：使用“Much to one's + 名词”表达“令某人极为……的是”。需要将形容词 relieved 转换为名词 relief，并将主语 Fadri 放入所有格中。",
+          "answer": "Much to Fadri's relief, he found out that his wallet was not missing."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did Po let his old shoes go? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "From the first paragraph, pick out a two-word phrase that tells us that Po could not tie his shoelaces. [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Explain clearly why Po's mother's action prevented him from learning how to tie his shoelaces. [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on lines 8-19, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Nanny Choo was a total stranger to Po.",
+                "b) Po's mother did not seem to care about his complaint.",
+                "c) Po was sorry that he had complained about Nanny Choo."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]",
+                "[Q74e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]",
+                "[Q74f]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "\"Po thought Nanny Choo was rather sly\" (line 25).\na) What led Po to think so? [2m]\nb) What personal quality was Nanny Choo trying to encourage Po to have through her \"sly\" act? [1m]",
+          "marks": 3,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word",
+              "reference"
+            ],
+            "word": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "a) that step (line 22)",
+                "b) his proud work (line 24)",
+                "c) occasions (line 27)"
+              ]
+            },
+            "reference": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "What Po liked doing during the visit to the traditional teahouse [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "From lines 27-33, give an example that shows Nanny Choo's \"wealth of knowledge\" (line 32). [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Why did Po's parents exchange \"a look of surprise\" (line 38)? [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Po left Nanny Choo's place with \"a twinge of regret\" (line 39).\na) Pick out a three-word phrase from lines 27-39 that suggests a similar regret. [1m]\nb) What does Po's regret tell us about how he felt about his stay there? [1m]",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Po had to spend a week at Nanny Choo's place as his parents were going overseas",
+          "2": "for a work trip. His mother had been busy preparing for his stay. This included buying him",
+          "3": "shoes to replace the ones he had outgrown. Po was sad to see his old shoes go. The Velcro",
+          "4": "straps on them were easy to fasten, unlike the shoelaces on his new shoes. Po's mother",
+          "5": "tried hard to teach him how to tie his shoelaces. The first loop was easy, but he had difficulty",
+          "6": "whenever he tried to pull the other end of the shoelace to form another loop. After watching",
+          "7": "him try in vain a couple of times, his mother swooped down and settled it in no time.",
+          "8": "During the drive over to Nanny Choo's place, Po grumbled about having to stay with",
+          "9": "the elderly lady. He had only vague memories of his mother's caregiver whom he had met",
+          "10": "at a family event a year ago. \"I'll be bored stiff!\" he said with a dramatic sigh. Shaking her",
+          "11": "head, Po's mother thought the stay would be good for him. Nevertheless, she promised him",
+          "12": "that she would make up for it upon her return.",
+          "13": "Nanny Choo, who was more petite than Po remembered, was clearly waiting for them",
+          "14": "as she appeared as soon as they rang the doorbell to welcome them. That made Po feel a",
+          "15": "little guilty. After his parents left, Nanny Choo suggested that they went to a park nearby. As",
+          "16": "Po struggled to tie his shoelaces, Nanny Choo observed with mild amusement.",
+          "17": "\"Help, please?\" Po pleaded.",
+          "18": "\"You can do it, Boy! I'm too old to bend down to help you,\" said Nanny Choo with a",
+          "19": "wrinkled smile. Then she walked away and disappeared into the kitchen.",
+          "20": "Squaring his shoulders, Po tackled his shoelaces again. Perspiration beaded on his",
+          "21": "forehead as he kept forming one loop and fumbling at the second. Po wondered if he would",
+          "22": "ever get past that step in order to tie his shoelaces. After what seemed like a dozen",
+          "23": "attempts, Po managed to do it and let out a hoot of delight. As he ran in to show Nanny Choo",
+          "24": "his proud work, a gust of wind blew the newspaper onto the floor, and he saw her bend",
+          "25": "down to pick it up. Po thought Nanny Choo was rather sly, but acknowledged that he",
+          "26": "would otherwise not have succeeded in tying his own shoelaces.",
+          "27": "Over the next few days, there were more occasions that allowed Po to practise tying",
+          "28": "his shoelaces. On one day, Nanny Choo took him to a traditional teahouse. They sipped tea",
+          "29": "and enjoyed delicacies while she entertained him with her childhood stories. On another day,",
+          "30": "they watched wayang (or street opera) performed on a makeshift wooden stage. With Nanny",
+          "31": "Choo giving helpful comments, Po learnt about the performers' costumes and props, and",
+          "32": "appreciated the performance better. He was amazed at her wealth of knowledge. Time",
+          "33": "flew past, and all too soon, his parents were at the door to take him home.",
+          "34": "\"How was your stay with Nanny Choo?\" asked Po's mother as she stooped, arms",
+          "35": "outstretched, ready to help him with his shoelaces. Po waved her arms away and confidently",
+          "36": "tied his shoelaces himself.",
+          "37": "\"It was great! I've learnt a lot from Nanny Choo. Can I stay with her again?\" Po asked.",
+          "38": "His parents exchanged a look of surprise but readily agreed with broad smiles. Nanny Choo",
+          "39": "too beamed as Po gave her a farewell hug before he left with a twinge of regret."
+        },
+        "paragraphs": {
+          "1": "由于父母要出国工作，阿宝不得不去朱奶奶家住一个星期。他的母亲一直忙于为他的暂住做准备。这包括给他买新鞋来更换他已经穿不下的旧鞋。阿宝很难过看到自己的旧鞋离开。旧鞋上的魔术贴带很容易系紧，不像他新鞋上的鞋带那样麻烦。阿宝的母亲努力教他如何系鞋带。第一个圈很容易，但他遇到了困难，每当他试图拉鞋带的另一端来形成另一个圈时。在看着他徒劳地尝试了几次后，他的母亲俯下身子，转眼间就帮他系好了。",
+          "8": "在开车去朱奶奶家的路上，阿宝抱怨不得不和这位老妇人住在一起。他对母亲的这位看护人只有模糊的记忆，他们是一年前在一次家庭聚会上见过的。“我会无聊死的！”他带着戏剧性的叹息说道。阿宝的母亲摇了摇头，认为这次暂住对他有好处。尽管如此，她还是向他承诺她回来后会补偿他的。",
+          "13": "朱奶奶比阿宝记忆中还要娇小，显然一直在等待着他们，他们一按门铃，她就开门迎接他们。这让阿宝感到有一点内疚。在他的父母离开后，朱奶奶建议他们去附近的一个公园。当阿宝费力地系鞋带时，朱奶奶带着一丝笑意注视着他。",
+          "17": "“请帮帮我，好吗？”阿宝哀求道。",
+          "18": "“你能做到的，孩子！我太老了，弯不下腰来帮你，”朱奶奶带着慈祥的微笑说道。然后她走开，消失在厨房里。",
+          "20": "阿宝挺起胸膛，再次开始摆弄他的鞋带。汗水打湿了他的额头，因为他一直在打好一个圈后，在第二个圈上笨手笨脚。阿宝怀疑自己是否能熬过那一步从而把鞋带系好。在经过了大约十几次尝试后，阿宝终于做到了，并发出了一声喜悦的欢呼。当他跑进去向朱奶奶展示他骄傲的成果时，一阵风把报纸吹到了地上，他看到她弯下腰去捡报纸。阿宝觉得朱奶奶挺狡黠的，但他也承认，否则他就不可能学会自己系鞋带了。",
+          "27": "在接下来的几天里，阿宝有了更多练习系鞋带的机会。有一天，朱奶奶带他去了一家传统茶馆。他们品着茶，享受着美味佳肴，同时她用自己童年的故事逗他开心。另一天，他们观看了在临时木制舞台上表演的街戏（或街头歌剧）。有朱奶奶在旁提供有益的点评，阿宝了解了演员的服装和道具，并且能更好地欣赏表演了。他对她丰富的知识感到惊叹。时间飞逝，转眼间，他的父母就来到了门口接他回家。",
+          "34": "“在朱奶奶家住得怎么样？”阿宝的母亲问道，同时她弯下腰，张开双臂，准备帮他系鞋带。阿宝挥手推开她的手，自信地自己系好了鞋带。",
+          "37": "“太棒了！我从朱奶奶那里学到了很多东西。我还能再去她家住吗？”阿宝问道。他的父母交换了一个惊讶的眼神，但随即带着欣慰的笑容欣然同意。朱奶奶也在阿宝给她一个告别拥抱时绽放了笑容，随后阿宝带着一丝不舍离开了。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Literal comprehension",
+          "note": "<ol><li><strong>题型：</strong>直接事实检索题（1分）。</li><li><strong>核心依据：</strong>根据官方答案页，答题核心点直接定位第一段中关于他已经穿不下旧鞋的事实（Po had outgrown his old shoes）。</li></ol>",
+          "answer": "Po had outgrown his old shoes.",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "Vocabulary in context",
+          "note": "<ol><li><strong>题型：</strong>词汇理解/特定短语提取题（1分）。</li><li><strong>核心依据：</strong>根据官方答案页，要求理解并在文中提取出“in vain”这一表达徒劳、没有成功的两词短语。</li></ol>",
+          "answer": "in vain",
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "Inference and explanation",
+          "note": "<ol><li><strong>题型：</strong>原因解释与因果推断题（2分）。</li><li><strong>核心依据：</strong>根据官方答案页，母亲在看到他失败几次后就出手帮忙，剥夺了他通过多次尝试攻克第二个困难步骤并学会独立系鞋带的机会。</li></ol>",
+          "answer": "By helping Po tie his shoelaces after watching him fail a couple of times, Po's mother did not give him the chance to make dozens of attempts to get past the difficult second step and learn how to tie his shoelaces by himself.",
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>a行 False：</strong>官方理由指出朱奶奶是其母亲的看护人，且阿宝前一年的家庭聚会上见过她，因此并非完全的陌生人（注：答案图中的 Nanny Po 应为印刷笔误，对应原文中的 Nanny Choo）。</li><li><strong>b行 False：</strong>官方理由指出母亲承诺旅行回来后会向他做出补偿，以此表明她是在意并处理了他的抱怨。</li><li><strong>c行 True：</strong>官方理由说明当阿宝意识到朱奶奶一直在等待着他们的到来时，他内心感到了内疚（felt guilty），对应了他对之前抱怨的反思与抱歉。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "False",
+            "74b": "Nanny Choo was his mother's caregiver whom he had met at a family event the previous year.",
+            "74c": "False",
+            "74d": "Po's mother promised to make up for his stay at Nanny Choo's place after she returned from her trip.",
+            "74e": "True",
+            "74f": "Po felt guilty when he realised that Nanny Choo had been waiting for their arrival."
+          }
+        },
+        "75": {
+          "concept": "Character analysis and inference",
+          "note": "<ol><li><strong>a问（2分）：</strong>根据最新的官方标准答案进行更新。阿宝觉得朱奶奶狡黠是因为她之前借口自己太老弯不下腰拒绝帮他，而后面却能很自然地弯腰捡报纸，使阿宝意识到她之前的“谎言”其实是为了逼他自己练习系鞋带。</li><li><strong>b问（1分）：</strong>官方标准答案指向培养阿宝的“决心/毅力”（determination），通过设置障碍鼓励他在困难面前不轻言放弃。</li></ol>",
+          "answer": "a) Nanny Choo refused to tie his shoelaces, saying that she was too old to bend down to help him. However, he saw her bending down to pick up the newspaper and realised that she had lied in order to force him to practice tying his own shoelaces.\nb) Nanny Choo was trying to help Po to build up his determination.",
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "Pronoun and reference understanding",
+          "note": "<ol><li><strong>a行（1分）：</strong>官方规范答案指代的是“用鞋带的另一端形成另一个圈的动作”。</li><li><strong>b行（1分）：</strong>官方规范答案指代的是“阿宝设法自己系好的鞋带（成果）”。</li><li><strong>c行（1分）：</strong>官方规范答案指代的是“朱奶奶带阿宝出去（游玩/体验）的那些几次经历”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "the act of forming another loop with the other end of the shoelace",
+            "76b": "Po's shoelaces that he managed to tie himself",
+            "76c": "the times that Nanny Choo brought Po out"
+          }
+        },
+        "77": {
+          "concept": "Information extraction",
+          "note": "<ol><li><strong>题型：</strong>分支图填空题（2分）。</li><li><strong>核心依据：</strong>根据最新答案页进行了精简校对，提取出的两点活动分别为品尝美味（eating delicacies）和聆听朱奶奶童年的故事（listening to Nanny Choo's childhood stories）。</li></ol>",
+          "answer": "a) eating delicacies\nb) listening to Nanny Choo's childhood stories",
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "Literal comprehension",
+          "note": "<ol><li><strong>题型：</strong>举例说明题（1分）。</li><li><strong>核心依据：</strong>严格同步官方标准答案，指出在观看街戏表演时，她能对演员的服装和道具给出有建设性的点评。</li></ol>",
+          "answer": "Nanny Choo gave helpful comments about the wayang performers' costumes and props.",
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "Inference and character change",
+          "note": "<ol><li><strong>题型：</strong>因果原因解释题（2分）。</li><li><strong>核心依据：</strong>根据官方最新标准答案更新。父母感到吃惊是因为阿宝的态度发生了戏剧性的转变——去之前强烈抱怨跟老人住会无聊死，而父母来接他时他却主动提出还想再来住。</li></ol>",
+          "answer": "Before Po's stay with Nanny Choo, he had complained to his parents that it would be boring to stay with her. However, when they picked him up, he asked to stay with her again.",
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "Vocabulary and emotional inference",
+          "note": "<ol><li><strong>a问（1分）：</strong>精准对齐官方指定的三词短语答案 'all too soon'。</li><li><strong>b问（1分）：</strong>根据标准答案简化语言，核心在于直接表明“他很享受和朱奶奶在一起度过的这段暂住时光”。</li></ol>",
+          "answer": "a) 'all too soon'\nb) He enjoyed his stay with Nanny Choo.",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Sulin.",
+          "**Write an email to Devi to encourage her to join your team.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the date and venue of the competition",
+          "two reasons you want her to be in your team",
+          "what the winning team can look forward to",
+          "the last day to register for the competition"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Hi Devi,",
+          "How are you? I hope you've been doing well since our last baking class.",
+          "Jim, Rafi and I were at Greenwood Community Club today --when-- we **spotted** a poster for a baking competition! It will be held on 28 November 2020 from 2 p.m. to 5 p.m. at Orchid Bakehouse.",
+          "Participants must have completed the Junior Bakers' Course at Greenwood Community Club. We need to compete in teams of four, --so-- Rafi, Jim and I were wondering if you would like to be the fourth member of our team. Your cake at our last baking class was the best. We think you are a **fantastic baker** and would be a **valuable asset** to our team. I hope you would consider joining us to form a team for the competition. Every participant will get a free baker's hat and the winning team will get a **cash prize** of $1000!",
+          "Registration is to be completed online and the last day for it is 30 October 2020. Do let us know before then --if-- you would be **keen to take part in** this contest with us. Hope to **hear good news** from you soon!",
+          "Yours sincerely,",
+          "Sulin"
+        ],
+        "markdown": [
+          "这个关于邀请朋友 Devi 组队参加烘焙比赛的非正式书信/邮件（Situational Writing）是一篇完全符合 PSLE 满分水准的实用文体范文。主要亮点如下：",
+          "### 1. 任务核心要点完全覆盖 (Complete Task Fulfillment)\n* **比赛日期与地点**：第三段准确给出了时间（2020年11月28日，下午2点至5点）和地点（Orchid Bakehouse）。\n* **邀请的两个原因**：第四段提到 Devi 在上一次课上做的蛋糕是最棒的（“Your cake... was the best”），夸赞她是出色的烘焙师，并能成为团队的宝贵财富（“valuable asset”）。\n* **获胜队伍的奖励**：第四段末尾清晰点出获胜队伍可以获得 1000 美元的现金奖励（“cash prize of $1000”）。\n* **注册截止日期**：第五段明确指出了在线报名的最后一天是 2020 年 10 月 30 日。",
+          "### 2. 恰当的非正式语气与关系拉近 (Perfect Informal Tone & Register)\n* 因为写信对象是好朋友/同学 Devi，作者开篇就亲切地询问近况，并提及她们共同的经历（`\"since our last baking class\"`）。在夸奖对方时，语气真诚且充满热切的期待，非常符合老朋友之间发出组队邀请的心理，拿捏得极其到位。",
+          "### 3. 地道且加分的高级固定搭配 (Strong & Appropriate Vocabulary)\n* 文章所用词汇十分契合“烘焙比赛”与“团队邀请”的场景。例如：用 `\"spotted\"` 代替简单的 \"saw\"；用 `\"valuable asset\"`（宝贵的财富/核心战斗力）来形容对方在团队中的重要性，直接拔高了语言档次；使用 `\"keen to take part in\"`（渴望参与）和 `\"cash prize\"`（现金奖励）使表达极其地道。",
+          "### 4. 逻辑自然，格式无瑕疵 (Smooth Logic & Flawless Format)\n* 叙事逻辑层层递进：通过偶遇海报引出比赛 → 阐述队伍缺人并抛出极具说服力的邀请理由 → 补充截止日期并发出最终呼吁。在逻辑上通过 `when`, `so`, `if` 自然连接。符合非正式书信/邮件的全部格式要求，落款利落得体。"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "\"Roger, go to the nearby shopping centre to help me get some groceries.\" Mother **instructed**. \"Take your little brother Bobby with you too, --as-- Daddy and I are going out. Don't let Bobby out of your sight, he might wander off.\"",
+          "\"Yes, Mum,\" Roger replied. Tucking his book away, Roger headed out with Bobby.",
+          "--The minute-- they stepped into the shopping centre, Bobby **clamoured for** an ice cream. Roger **gave in to** his loud demands and ordered an ice cream cone at the ice cream parlour for Bobby. --After-- paying for the ice cream, Roger **absent-mindedly** put his wallet back into his pocket. **Unbeknownst to** him, his wallet slipped and fell out --while-- they made their way to the supermarket.",
+          "Mother's grocery list was not long and Roger soon managed to find all the items with some assistance from **observant** Bobby. --When-- he was sure they had everything, he pushed the shopping cart to the cashier.",
+          "\"25 dollars, please,\" said the cashier.",
+          "Roger **dug around** his pocket for his wallet. **To his horror**, he was unable to find it. He searched his other pockets and peered into the shopping cart. It was **nowhere to be found**! He resisted the urge to panic and remembered his mother's instructions to go to the information counter whenever he needed help.",
+          "--After-- informing the cashier of the situation, he grabbed Bobby's hand and together they **dashed towards** the information counter. He asked the lady **manning the counter** if she had seen a blue striped wallet. She looked through the **lost-and-found section** and informed him that there was a wallet that **matched his description**. She opened it and found an identity card.",
+          "\"Can I have your name and birth certificate number please? I have to **verify** this is indeed your wallet.\" Roger quickly **rattled off** his full name and birth certificate number.",
+          "\"It's yours then,\" she smiled --as-- she handed it over to him. Roger **sighed with relief**. He could feel his muscles relax --as-- his fear and anxiety **evaporated**.",
+          "Hand in hand, the boys went back to the supermarket to continue their shopping."
+        ],
+        "markdown": [
+          "这个关于“弄丢钱包并前往服务台寻回”的连续写作范文（Continuous Writing）是一篇标准的 PSLE 叙事高分范文。主要亮点如下：",
+          "### 1. 铺垫极其自然且环环相扣 (Seamless Plot Progression & Foreshadowing)\n* **起因合理**：第3段生动地写出了哥哥对弟弟的妥协（`\"gave in to his loud demands\"`），付完钱后“心不在焉地”（`\"absent-mindedly\"`）塞钱包，为钱包掉落埋下完美的伏笔。\n* **临危不乱**：在结账发现丢钱包的危机时刻（`\"To his horror\"`），故事没有陷入无意义的哭闹，而是让主角想起母亲的叮嘱，迅速采取科学行动。这种正面、理智的行为（`\"resisted the urge to panic\"`）非常契合官方高分作文的阳光价值导向。",
+          "### 2. 精准、高频的 PSLE 高级词汇与地道习语 (Impressive Native Vocabulary)\n* 范文中的词汇密度非常扎实且高级：\n  * 用 `\"clamoured for\"`（吵闹着要）代替普通的 \"asked for\"，生动展现了小弟弟无理取闹的形象。\n  * 用 `\"Unbeknownst to him\"`（在某人不知情的情况下）引出意外，极富文学感。\n  * 在服务台核对身份时，用 `\"rattled off\"` 表达由于紧张或熟练而“脱口而出、快速背出”名字和证件号，动作描写极为传神。\n  * 用 `\"evaporated\"`（蒸发、消失殆尽）来形容恐惧与焦虑的散去，比普通的 \"disappeared\" 更有意境。",
+          "### 3. 细腻的心理状态转换与动态刻画 (Vivid Emotional & Physical Description)\n* 随着情节发展，主角的身体和心理变化非常有层次感：从发现丢失时的震惊（`\"horror\"`），到拉着弟弟狂奔的急迫（`\"dashed towards\"`），再到最后找回钱包时的“松了一口气”（`\"sighed with relief\"`）以及“全身肌肉放松”（`\"feel his muscles relax\"`）。这种将心理活动外化为身体感觉的写法，极具画面感。",
+          "### 4. 严密的动作逻辑与首尾闭环 (Tight Narrative Logic & Closure)\n* 全文通过 `--The minute--`, `--After--`, `--When--` 等过渡词将事件的发生、发展、高潮和结局无缝衔接。在服务台找回钱包时，工作人员要求提供信息来“核对/验证”（`\"verify\"`）所有权，这一严谨的现实细节极大地增强了故事的真实性。最后两兄弟手拉手回到超市继续收尾，结构非常完整。"
+        ]
+      }
+    }
+  }
+}

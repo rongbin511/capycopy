@@ -1,0 +1,806 @@
+{
+  "paperid": "p4_english_2024_sa2_rafflesgirls",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The meeting was organised __________ the purpose of discussing the new project.",
+          "options": {
+            "1": "at",
+            "2": "in",
+            "3": "on",
+            "4": "for"
+          }
+        },
+        "2": {
+          "stem_plain": "The teachers __________ at the meeting yesterday to finalise the camp activities.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "The child __________ overjoyed when his parents announced a surprise field trip.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Don't disturb the workers. They __________ the broken pipes in the kitchen,\" said my mother.",
+          "options": {
+            "1": "repair",
+            "2": "repaired",
+            "3": "are repairing",
+            "4": "have repaired"
+          }
+        },
+        "5": {
+          "stem_plain": "Last weekend, Father __________ air tickets for our upcoming trip to Japan.",
+          "options": {
+            "1": "books",
+            "2": "booked",
+            "3": "is booking",
+            "4": "has booked"
+          }
+        },
+        "6": {
+          "stem_plain": "While I __________ an email, the computer suddenly crashed.",
+          "options": {
+            "1": "write",
+            "2": "will write",
+            "3": "was writing",
+            "4": "have written"
+          }
+        },
+        "7": {
+          "stem_plain": "__________ cars parked in front of that house are blocking the entrance to the school.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "8": {
+          "stem_plain": "This whole incident is both unforgettable __________ incredible.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "and",
+            "4": "before"
+          }
+        },
+        "9": {
+          "stem_plain": "Most of the students have collected their books from the shelf, leaving only __________ books behind.",
+          "options": {
+            "1": "many",
+            "2": "much",
+            "3": "a few",
+            "4": "a little"
+          }
+        },
+        "10": {
+          "stem_plain": "Father was busy and he had __________ time to run his errands.",
+          "options": {
+            "1": "little",
+            "2": "much",
+            "3": "many",
+            "4": "some"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "zh": "组织这次会议的目的是为了讨论新项目。",
+          "note": "“for the purpose of” 是固定介词短语搭配，意为“为了……的目的”。",
+          "concept": "介词固定搭配 — Prepositional Phrases — for the purpose of",
+          "answer": "4"
+        },
+        "2": {
+          "zh": "老师们昨天参加了会议，以敲定夏令营的活动内容。",
+          "note": "“yesterday”（昨天）提示过去时间，主语 “The teachers” 是复数，因此动词选用复数过去式 were。",
+          "concept": "主谓一致与一般过去时 — Subject-Verb Agreement & Simple Past Tense",
+          "answer": "4"
+        },
+        "3": {
+          "zh": "当父母宣布一次惊喜的实地考察旅行时，这个孩子欣喜若狂。",
+          "note": "从句动词 “announced” 提示事情发生在过去，主语 “The child” 是单数，因此选用单数过去式系动词 was。",
+          "concept": "系动词过去时与时态一致 — Simple Past Tense of 'be'",
+          "answer": "3"
+        },
+        "4": {
+          "zh": "“不要打扰工人们。他们正在厨房修理破裂的水管，”我母亲说。",
+          "note": "“Don't disturb”（不要打扰）暗示工人们此时此刻正在进行修水管的工作，因此动词使用现在进行时 are repairing。",
+          "concept": "现在进行时 — Present Continuous Tense",
+          "answer": "3"
+        },
+        "5": {
+          "zh": "上周末，父亲预订了我们即将去日本旅行的机票。",
+          "note": "时间状语 “Last weekend”（上周末）明确提示过去时间，谓语动词应选用一般过去式 booked。",
+          "concept": "一般过去时 — Simple Past Tense",
+          "answer": "2"
+        },
+        "6": {
+          "zh": "当我正在写一封电子邮件时，电脑突然崩溃了。",
+          "note": "“While” 引导的时间状语从句通常表示过去某一个正在持续进行的动作被另一个突发动作（电脑崩溃）中断，因此使用过去进行时 was writing。",
+          "concept": "过去进行时 — Past Continuous Tense",
+          "answer": "3"
+        },
+        "7": {
+          "zh": "停在那栋房子前面的那些汽车正堵着学校的入口。",
+          "note": "“cars” 为复数名词，且 “that house”（那栋房子）暗示这些车辆停在距离较远的特定空间位置，因此选用远称复数的指示代词 Those。",
+          "concept": "指示代词 — Demonstrative Pronouns — Those",
+          "answer": "4"
+        },
+        "8": {
+          "zh": "这整件事既令人难忘又不可思议。",
+          "note": "“both ... and ...” 是固定关联并列连词搭配，意为“既……又……”。",
+          "concept": "并列连词固定搭配 — Correlative Conjunctions — both...and",
+          "answer": "3"
+        },
+        "9": {
+          "zh": "大多数学生已经从书架上拿走了他们的书，只留下了几本书。",
+          "note": "“books” 是可数名词复数，且由前面的 “only”（仅仅）修饰，表达剩下很少的数量，故选用 a few。",
+          "concept": "修饰可数名词的量词 — Quantifiers with Countable Nouns — a few",
+          "answer": "3"
+        },
+        "10": {
+          "zh": "父亲很忙，他几乎没有时间去办他的杂事。",
+          "note": "“time”（时间）在这里是不可数名词。前半句提到 “Father was busy”（父亲很忙），暗示他没有多少时间，因而选用表示否定意义“几乎没有”的修饰词 little。",
+          "concept": "修饰不可数名词的量词 — Quantifiers with Uncountable Nouns — little",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "\"No one has __________ the answer to this puzzle correctly,\" the teacher told the disappointed students.",
+          "options": {
+            "1": "ended",
+            "2": "solved",
+            "3": "guessed",
+            "4": "supported"
+          }
+        },
+        "12": {
+          "stem_plain": "Tim __________ the new shopping mall near his house to see what it offered.",
+          "options": {
+            "1": "missed",
+            "2": "avoided",
+            "3": "admired",
+            "4": "explored"
+          }
+        },
+        "13": {
+          "stem_plain": "The __________ was filled with aeroplanes of all sizes, waiting for their next journey.",
+          "options": {
+            "1": "hangar",
+            "2": "garage",
+            "3": "harbour",
+            "4": "interchange"
+          }
+        },
+        "14": {
+          "stem_plain": "David felt __________ when he fell in front of his classmates. Face turning red, he avoided eye contact and rushed to his seat.",
+          "options": {
+            "1": "calm",
+            "2": "jealous",
+            "3": "pleased",
+            "4": "embarrassed"
+          }
+        },
+        "15": {
+          "stem_plain": "Sarah applied some lotion before going to the beach as too much sun __________ would cause sunburn.",
+          "options": {
+            "1": "closure",
+            "2": "pressure",
+            "3": "exposure",
+            "4": "disclosure"
+          }
+        },
+        "16": {
+          "stem_plain": "The zookeeper __________ the bird into the wild, and it eagerly flew straight for the forest.",
+          "options": {
+            "1": "relived",
+            "2": "coerced",
+            "3": "released",
+            "4": "confined"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "“没有人正确解出这个谜题的答案，”老师对失望的学生们说道。",
+          "note": "“puzzle”（谜题）和 “answer”（答案）是核心线索，与之最标准的动词搭配是 “solved”（解决、解出）。虽然 guessed 也常接答案，但在表达完全正规解出谜题时，用 solve the puzzle/answer 语义最强，且符合学生“失望”的语境。",
+          "concept": "动词固定搭配 — Collocations — solve a puzzle",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "ended",
+              "zh": "结束",
+              "eg": "The football match ended in a tie after ninety minutes of intense play."
+            },
+            {
+              "opt": "2",
+              "word": "solved",
+              "zh": "解决，解开",
+              "eg": "The detective finally solved the mystery that had puzzled everyone for years."
+            },
+            {
+              "opt": "3",
+              "word": "guessed",
+              "zh": "猜测",
+              "eg": "She guessed the price of the dress correctly and won a special voucher."
+            },
+            {
+              "opt": "4",
+              "word": "supported",
+              "zh": "支持",
+              "eg": "The local community supported the project to build a new neighborhood library."
+            }
+          ]
+        },
+        "12": {
+          "zh": "蒂姆考察/逛了家附近的新商场，看看里面都有什么。",
+          "note": "后文的 “to see what it offered”（去看看它有什么供应）表明蒂姆去进行了实地查看、探索，因此选用 “explored”（探索、考察、逛）。",
+          "concept": "动词词义辨析 — Vocabulary (Verbs) — explored",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "missed",
+              "zh": "错过，想念",
+              "eg": "He woke up late and unfortunately missed the last bus to the town center."
+            },
+            {
+              "opt": "2",
+              "word": "avoided",
+              "zh": "避免，躲避",
+              "eg": "She avoided walking through the dark alley alone at late night for safety."
+            },
+            {
+              "opt": "3",
+              "word": "admired",
+              "zh": "赞赏，钦佩",
+              "eg": "The tourists stopped and admired the exquisite architectural design of the palace."
+            },
+            {
+              "opt": "4",
+              "word": "explored",
+              "zh": "探索，考察，四处走动查看",
+              "eg": "We spent the weekend exploring the ancient streets and local shops of Kyoto."
+            }
+          ]
+        },
+        "13": {
+          "zh": "机库里停满了大小各异的飞机，等待着下一次航程。",
+          "note": "“aeroplanes”（飞机）是核心线索。停放飞机的专用建筑空间被称为 “hangar”（机库）。",
+          "concept": "名词专有名词辨析 — Vocabulary (Nouns) — hangar",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hangar",
+              "zh": "机库，飞机库",
+              "eg": "The damaged plane was towed into the massive hangar for urgent repairs."
+            },
+            {
+              "opt": "2",
+              "word": "garage",
+              "zh": "汽车库，修车厂",
+              "eg": "He parks his classic sports car in the garage every evening after work."
+            },
+            {
+              "opt": "3",
+              "word": "harbour",
+              "zh": "海港，港口",
+              "eg": "Several large container ships were docked at the bustling cargo harbour."
+            },
+            {
+              "opt": "4",
+              "word": "interchange",
+              "zh": "立体交叉道，交通枢纽（如巴士转换站）",
+              "eg": "Passengers can easily transfer to different subway lines at this grand interchange."
+            }
+          ]
+        },
+        "14": {
+          "zh": "当大卫在同学面前摔倒时，他感到非常尴尬。他脸都红了，避开眼神接触，急忙跑回座位。",
+          "note": "“Face turning red”（脸红）以及 “avoided eye contact”（避免眼神接触）都是典型的心理窘迫反应，选用形容词 “embarrassed”（尴尬的、难堪的）。",
+          "concept": "形容词词义辨析与细节提示 — Vocabulary (Adjectives) — embarrassed",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "calm",
+              "zh": "冷静的，镇定的",
+              "eg": "The teacher remained calm and guided the students out during the fire drill."
+            },
+            {
+              "opt": "2",
+              "word": "jealous",
+              "zh": "嫉妒的，吃醋的",
+              "eg": "He felt extremely jealous when his younger brother received a brand new laptop."
+            },
+            {
+              "opt": "3",
+              "word": "pleased",
+              "zh": "高兴的，满意的",
+              "eg": "The chef was pleased to see that the guests finished every dish on the table."
+            },
+            {
+              "opt": "4",
+              "word": "embarrassed",
+              "zh": "尴尬的，难堪的",
+              "eg": "She felt deeply embarrassed when her phone rang loudly in the middle of the quiet meeting."
+            }
+          ]
+        },
+        "15": {
+          "zh": "莎拉去海滩前涂抹了一些防晒霜，因为过多暴露在阳光下会导致晒伤。",
+          "note": "“sun exposure” 是固定搭配，表示“阳光照射、暴露于阳光中”，是导致晒伤（sunburn）的原因。",
+          "concept": "名词固定搭配 — Collocations — sun exposure",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "closure",
+              "zh": "关闭，终止",
+              "eg": "The unexpected closure of the local factory left many people unemployed."
+            },
+            {
+              "opt": "2",
+              "word": "pressure",
+              "zh": "压力",
+              "eg": "Deep-sea divers must handle the intense water pressure at the ocean floor."
+            },
+            {
+              "opt": "3",
+              "word": "exposure",
+              "zh": "暴露，显露，照射",
+              "eg": "Prolonged exposure to freezing temperatures can cause severe frostbite."
+            },
+            {
+              "opt": "4",
+              "word": "disclosure",
+              "zh": "透露，公开",
+              "eg": "The sudden disclosure of confidential military plans shocked the entire country."
+            }
+          ]
+        },
+        "16": {
+          "zh": "饲养员将鸟放归了大自然，它急切地直奔森林飞去。",
+          "note": "“into the wild”（放归大自然）以及后文 “flew straight for the forest”（直飞向森林）表明这只鸟重获了自由，因此选用动词 “released”（释放、放生）。",
+          "concept": "动词词义辨析 — Vocabulary (Verbs) — released",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "relived",
+              "zh": "重温，再体验",
+              "eg": "Looking through old school yearbooks made her relive her happy childhood memories."
+            },
+            {
+              "opt": "2",
+              "word": "coerced",
+              "zh": "强迫，胁迫",
+              "eg": "The witness claimed that he was coerced into signing the false statement by suspects."
+            },
+            {
+              "opt": "3",
+              "word": "released",
+              "zh": "释放，放开，放生",
+              "eg": "After treating its broken wing, the volunteer released the eagle back to nature."
+            },
+            {
+              "opt": "4",
+              "word": "confined",
+              "zh": "限制，禁闭，关押",
+              "eg": "The ferocious wild animal was confined to a secure steel cage for public safety."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "24": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "25": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "24": {
+          "concept": "词汇题",
+          "note": "句意为“她们的愿望实现了”。搭配动词短语came true（实现），且前有Their修饰，需填入名词单数。M选项wish意为“愿望”，符合语境。",
+          "answer": "M"
+        },
+        "25": {
+          "concept": "词汇题",
+          "note": "句意为“她们没有和父母共用一个帐篷”。后接宾语a tent with their parents，在助动词did not后需填入原形动词。G选项share意为“分享/共用”，符合搭配。",
+          "answer": "G"
+        },
+        "26": {
+          "concept": "词汇题",
+          "note": "句意为“在辽阔的区域里自己睡觉”。修饰名词expanse（广阔的区域），需填入形容词。L选项vast意为“辽阔的/巨大的”，符合语境。",
+          "answer": "L"
+        },
+        "27": {
+          "concept": "词汇题",
+          "note": "句意为“凯特取笑总是很胆小的里娜”。后文提到容易被吓到（easily frighten），说明里娜性格胆小，需填入形容词。K选项timid意为“胆小的/羞怯的”，符合语境。",
+          "answer": "K"
+        },
+        "28": {
+          "concept": "词汇题",
+          "note": "句意为“（那些怪异的故事）吓到了里娜并使她发抖”。需填入现在分词/动名词作主语或伴随状语，表示“让...害怕”。F选项scaring意为“惊吓”，符合语境。",
+          "answer": "F"
+        },
+        "29": {
+          "concept": "词汇题",
+          "note": "句意为“接着，听到了沙沙声，两个女孩都吓了一跳”。在前有不定冠词a、后有was heard（被听到）的语境下，需填入一个表示声音的可数名词单数或以辅音音素开头的名词。E选项rustle意为“沙沙声”，符合语境。",
+          "answer": "E"
+        },
+        "30": {
+          "concept": "词汇题",
+          "note": "句意为“恐惧加速了她们的心跳”。fear在此处作主语，后面需要填入谓语动词或分词修饰。结合后文“the beat of their hearts（心跳）”，C选项quickening意为“加速”，符合语境。",
+          "answer": "C"
+        },
+        "31": {
+          "concept": "词汇题",
+          "note": "句意为“她热切地希望父亲能听到”。后接宾语从句且前面有副词fervently修饰，需填入动词过去式以符合全文的过去时态。B选项hoped意为“希望”，符合语境。",
+          "answer": "B"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "courageous",
+          "B": "hoped",
+          "C": "quickening",
+          "D": "requirement",
+          "E": "rustle",
+          "F": "scaring",
+          "G": "share",
+          "H": "silhouette",
+          "J": "supplying",
+          "K": "timid",
+          "L": "vast",
+          "M": "wish"
+        },
+        "cloze": [
+          "Kate and Rina had always wanted to camp out in the wild. Their [Q24] came true, and they found themselves in a sprawling forest, huddling in a small tent under a moonless sky. They did not [Q25] a tent with their parents as they wanted to experience sleeping by themselves in the [Q26] expanse. Kate teased Rina, who was always [Q27], about the forest being haunted. She knew that it would easily frighten Rina.",
+          "As they lay under the blankets, Kate spun eerie tales about owls and bats, [Q28] Rina and caused her to tremble. Then, a [Q29] was heard and both girls jumped. When a twig snapped nearby, they froze, their eyes wide. They huddled closer under the blankets, fear [Q30] the beat of their hearts.",
+          "\"Dad!\" Rina called out in a hushed voice. She fervently [Q31] their father would hear her over the short distance between them.",
+          "In the dark of the night, only the shrill chirping of the crickets answered them."
+        ],
+        "zh": [
+          "凯特和里娜一直想去野外露营。它们的愿望实现了，她们发现自己置身于一片绵延的森林中，在没有月光的夜空下挤在一个小帐篷里。她们没有和父母共用一个帐篷，因为她们想体验独自在辽阔的区域里睡觉的感觉。凯特取笑总是很胆小的里娜，说这片森林常有鬼魂出没。她知道这很容易吓到里娜。",
+          "当她们躺在毯子下面时，凯特编造了关于猫头鹰和蝙蝠的怪异故事，吓到了里娜并使她发抖。接着，传来了一声沙沙声，两个女孩都吓了一跳。当附近的一根树枝折断时，它们僵住了，眼睛睁得大大的。它们在毯子下缩得更紧了，恐惧加速了它们的心跳。",
+          "“爸爸！”里娜低声喊道。她热切地希望父亲能在他们之间这么短的距离内听到她的声音。",
+          "在漆黑的夜里，只有蟋蟀尖锐的叫声回应着她们。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "24": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "25": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "24": {
+          "concept": "词汇题",
+          "note": "句意为“她们的愿望实现了”。搭配动词短语came true（实现），且前有Their修饰，需填入名词单数。M选项wish意为“愿望”，符合语境。",
+          "answer": "M"
+        },
+        "25": {
+          "concept": "词汇题",
+          "note": "句意为“她们没有和父母共用一个帐篷”。后接宾语a tent with their parents，在助动词did not后需填入原形动词。G选项share意为“分享/共用”，符合搭配。",
+          "answer": "G"
+        },
+        "26": {
+          "concept": "词汇题",
+          "note": "句意为“在辽阔的区域里自己睡觉”。修饰名词expanse（广阔的区域），需填入形容词。L选项vast意为“辽阔的/巨大的”，符合语境。",
+          "answer": "L"
+        },
+        "27": {
+          "concept": "词汇题",
+          "note": "句意为“凯特取笑总是很胆小的里娜”。后文提到容易被吓到（easily frighten），说明里娜性格胆小，需填入形容词。K选项timid意为“胆小的/羞怯的”，符合语境。",
+          "answer": "K"
+        },
+        "28": {
+          "concept": "词汇题",
+          "note": "句意为“（那些怪异的故事）吓到了里娜并使她发抖”。需填入现在分词/动名词作主语或伴随状语，表示“让...害怕”。F选项scaring意为“惊吓”，符合语境。",
+          "answer": "F"
+        },
+        "29": {
+          "concept": "词汇题",
+          "note": "句意为“接着，听到了沙沙声，两个女孩都吓了一跳”。在前有不定冠词a、后有was heard（被听到）的语境下，需填入一个表示声音的可数名词单数或以辅音音素开头的名词。E选项rustle意为“沙沙声”，符合语境。",
+          "answer": "E"
+        },
+        "30": {
+          "concept": "词汇题",
+          "note": "句意为“恐惧加速了她们的心跳”。fear在此处作主语，后面需要填入谓语动词或分词修饰。结合后文“the beat of their hearts（心跳）”，C选项quickening意为“加速”，符合语境。",
+          "answer": "C"
+        },
+        "31": {
+          "concept": "词汇题",
+          "note": "句意为“她热切地希望父亲能听到”。后接宾语从句且前面有副词fervently修饰，需填入动词过去式以符合全文的过去时态。B选项hoped意为“希望”，符合语境。",
+          "answer": "B"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "courageous",
+          "B": "hoped",
+          "C": "quickening",
+          "D": "requirement",
+          "E": "rustle",
+          "F": "scaring",
+          "G": "share",
+          "H": "silhouette",
+          "J": "supplying",
+          "K": "timid",
+          "L": "vast",
+          "M": "wish"
+        },
+        "cloze": [
+          "Kate and Rina had always wanted to camp out in the wild. Their [Q24] came true, and they found themselves in a sprawling forest, huddling in a small tent under a moonless sky. They did not [Q25] a tent with their parents as they wanted to experience sleeping by themselves in the [Q26] expanse. Kate teased Rina, who was always [Q27], about the forest being haunted. She knew that it would easily frighten Rina.",
+          "As they lay under the blankets, Kate spun eerie tales about owls and bats, [Q28] Rina and caused her to tremble. Then, a [Q29] was heard and both girls jumped. When a twig snapped nearby, they froze, their eyes wide. They huddled closer under the blankets, fear [Q30] the beat of their hearts.",
+          "\"Dad!\" Rina called out in a hushed voice. She fervently [Q31] their father would hear her over the short distance between them.",
+          "In the dark of the night, only the shrill chirping of the crickets answered them."
+        ],
+        "zh": [
+          "凯特和里娜一直想去野外露营。它们的愿望实现了，她们发现自己置身于一片绵延的森林中，在没有月光的夜空下挤在一个小帐篷里。她们没有和父母共用一个帐篷，因为她们想体验独自在辽阔的区域里睡觉的感觉。凯特取笑总是很胆小的里娜，说这片森林常有鬼魂出没。她知道这很容易吓到里娜。",
+          "当她们躺在毯子下面时，凯特编造了关于猫头鹰和蝙蝠的怪异故事，吓到了里娜并使她发抖。接着，传来了一声沙沙声，两个女孩都吓了一跳。当附近的一根树枝折断时，它们僵住了，眼睛睁得大大的。它们在毯子下缩得更紧了，恐惧加速了它们的心跳。",
+          "“爸爸！”里娜低声喊道。她热切地希望父亲能在他们之间这么短的距离内听到她的声音。",
+          "在漆黑的夜里，只有蟋蟀尖锐的叫声回应着她们。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

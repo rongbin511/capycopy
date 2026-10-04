@@ -1,0 +1,1595 @@
+{
+  "paperid": "p6_english_2021_sa2_scgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The newscaster announced that cleaners would see their wages go up each year _________ six years.",
+          "options": {
+            "1": "into",
+            "2": "over",
+            "3": "towards",
+            "4": "beneath"
+          }
+        },
+        "2": {
+          "stem_plain": "\"Muthu's completed his homework, _________?\" asked Mdm Devi.",
+          "options": {
+            "1": "isn't he",
+            "2": "won't he",
+            "3": "hasn't he",
+            "4": "doesn't he"
+          }
+        },
+        "3": {
+          "stem_plain": "Kelly could see the fight from the bookshop, but she did not see _________ attempting to help the victim.",
+          "options": {
+            "1": "nobody",
+            "2": "anybody",
+            "3": "somebody",
+            "4": "everybody"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Thirty dollars _________ too much to pay for the shirt. I will not buy it,\" said James.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "5": {
+          "stem_plain": "Aminah was the girl who witnessed the man _________ the purse from the store.",
+          "options": {
+            "1": "stole",
+            "2": "steal",
+            "3": "steals",
+            "4": "was stealing"
+          }
+        },
+        "6": {
+          "stem_plain": "Participation in high-element activities by the students _________ parental consent.",
+          "options": {
+            "1": "require",
+            "2": "requires",
+            "3": "is requiring",
+            "4": "are requiring"
+          }
+        },
+        "7": {
+          "stem_plain": "Mrs Lim was surprised that her husband blurted out about the surprise birthday party to their daughter _________ they had agreed to keep it a secret from her.",
+          "options": {
+            "1": "until",
+            "2": "since",
+            "3": "unless",
+            "4": "whether"
+          }
+        },
+        "8": {
+          "stem_plain": "\"Two trains carrying hundreds of passengers _________ in the city, killing nineteen people,\" declared the reporter.",
+          "options": {
+            "1": "is colliding",
+            "2": "has collided",
+            "3": "are colliding",
+            "4": "have collided"
+          }
+        },
+        "9": {
+          "stem_plain": "The Bala family tidied their house swiftly as their guests _________ in thirty minutes' time.",
+          "options": {
+            "1": "arrive",
+            "2": "have arrived",
+            "3": "would be arriving",
+            "4": "had been arriving"
+          }
+        },
+        "10": {
+          "stem_plain": "The year-end Southeast Asian Games in Vietnam may be postponed _________ a worrying surge of COVID-19 cases in the region.",
+          "options": {
+            "1": "amid",
+            "2": "since",
+            "3": "despite",
+            "4": "beyond"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "介词 — Preposition (period — over)",
+          "zh": "播音员宣布，清洁工的工资在六年内每年都会上涨。",
+          "note": "介词：<em>over</em> 表在一段时间之内、贯穿六年。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "反意疑问句 — Question tag (present perfect)",
+          "zh": "“穆图已经完成家庭作业了，不是吗？”德维老师问。",
+          "note": "附加问句 (Question tag)：完成时 <em>has completed</em> → <em>hasn't he</em>。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "代词 — Pronoun (negative — anybody)",
+          "zh": "凯莉在书店能看见打斗，但没看见任何人在试图帮助受害者。",
+          "note": "否定句中用 <em>anybody</em>，避免与 <em>not</em> 叠成双重否定。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "主谓一致 — Subject–verb agreement (amount)",
+          "zh": "詹姆斯说：“三十美元买这件衬衫太贵了，我不买。”",
+          "note": "主谓一致：金额作主语时常用单数动词 <em>is</em>。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "不定式 — Perception verb + bare infinitive",
+          "zh": "阿米娜是目击那名男子从店里偷钱包的女孩。",
+          "note": "感官动词 <em>witness</em> 后接宾语 + 动词原形。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "主谓一致 — Subject–verb agreement (singular subject)",
+          "zh": "学生参加高元素活动需要家长同意。",
+          "note": "主语 <em>Participation</em> 为单数概念 → 单数谓语 <em>requires</em>。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "推理 — Subordinator (since — reason)",
+          "zh": "林太太很惊讶，因为丈夫竟把惊喜生日派对的事告诉了女儿，而他们明明说好要保密。",
+          "note": "从属连词 <em>since</em> 表原因“既然/因为”。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "现在完成时 — Subject–verb agreement (plural + present perfect)",
+          "zh": "记者宣称，两列载有数百名乘客的列车在城市相撞，造成十九人死亡。",
+          "note": "复数主语 + 现在完成时 <em>have collided</em> 报道已发生事件。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "过去将来时 — Future in the past (would be arriving)",
+          "zh": "巴拉一家迅速打扫屋子，因为客人三十分钟后就要到了。",
+          "note": "过去将来进行时 <em>would be arriving</em> 表从过去看即将发生。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "介词 — Preposition (amid)",
+          "zh": "东南亚运动会在越南举行，因该地区新冠病例令人担忧的激增，可能会延期。",
+          "note": "介词 <em>amid</em> 表“在……之中/当……时”。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Multiple collection points are set up around the neighbourhood for residents to _________ drop off their recyclables.",
+          "options": {
+            "1": "woefully",
+            "2": "discreetly",
+            "3": "impulsively",
+            "4": "conveniently"
+          }
+        },
+        "12": {
+          "stem_plain": "Everyone was stunned when the politician suddenly _________ in the middle of his speech and left the stage.",
+          "options": {
+            "1": "broke in",
+            "2": "broke up",
+            "3": "broke off",
+            "4": "broke out"
+          }
+        },
+        "13": {
+          "stem_plain": "I was so embarrassed that I tried to _________ out of the room before anyone could ask me about the terrible blunder that I had made.",
+          "options": {
+            "1": "slink",
+            "2": "ramble",
+            "3": "wander",
+            "4": "meander"
+          }
+        },
+        "14": {
+          "stem_plain": "The badminton players were so stressed by the _________ standards laid down by their coach that they decided to call it quits.",
+          "options": {
+            "1": "exacting",
+            "2": "acceptable",
+            "3": "reasonable",
+            "4": "conventional"
+          }
+        },
+        "15": {
+          "stem_plain": "The Botanic Gardens offers a tranquil _________ from the hustle and bustle of Singapore's city centre.",
+          "options": {
+            "1": "effect",
+            "2": "delight",
+            "3": "respite",
+            "4": "distraction"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "社区多处设有回收点，方便居民投放可回收物。",
+          "note": "选4：<em>conveniently</em> 方便地。",
+          "concept": "词汇辨析 — conveniently（方便地）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "woefully",
+              "zh": "悲惨地",
+              "eg": "The charity was <strong>woefully</strong> underfunded and could not replace the broken equipment."
+            },
+            {
+              "opt": "2",
+              "word": "discreetly",
+              "zh": "谨慎地；不张扬地",
+              "eg": "He <strong>discreetly</strong> slipped a note across the table to her."
+            },
+            {
+              "opt": "3",
+              "word": "impulsively",
+              "zh": "冲动地",
+              "eg": "She <strong>impulsively</strong> bought three tubs of ice cream even though she was saving money."
+            },
+            {
+              "opt": "4",
+              "word": "conveniently",
+              "zh": "方便地",
+              "eg": "With collection points on every block, residents can <strong>conveniently</strong> drop off their recyclables."
+            }
+          ]
+        },
+        "12": {
+          "zh": "政客演讲到一半突然停下并离开舞台，众人都惊呆了。",
+          "note": "选3：<em>break off</em> 中断讲话。",
+          "concept": "词汇辨析 — broke off（突然停止；中断）",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "broke in",
+              "zh": "插嘴",
+              "eg": "A protester <strong>broke in</strong> on the minister's speech and was escorted out."
+            },
+            {
+              "opt": "2",
+              "word": "broke up",
+              "zh": "分手；拆散",
+              "eg": "The couple <strong>broke up</strong> after months of bitter arguments."
+            },
+            {
+              "opt": "3",
+              "word": "broke off",
+              "zh": "突然停止；中断",
+              "eg": "The politician suddenly <strong>broke off</strong> in the middle of his speech and left the stage."
+            },
+            {
+              "opt": "4",
+              "word": "broke out",
+              "zh": "爆发（战争等）",
+              "eg": "Fighting <strong>broke out</strong> near the border before dawn."
+            }
+          ],
+          "image": "a12.jpeg"
+        },
+        "13": {
+          "zh": "我太尴尬了，想趁没人问起我犯的大错之前悄悄溜出房间。",
+          "note": "选1：<em>slink</em> 偷偷溜走。",
+          "concept": "词汇辨析 — slink（悄悄溜走；潜行）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "slink",
+              "zh": "悄悄溜走；潜行",
+              "eg": "Embarrassed, he tried to <strong>slink</strong> out of the hall before the teacher called his name."
+            },
+            {
+              "opt": "2",
+              "word": "ramble",
+              "zh": "漫谈",
+              "eg": "My grandfather tends to <strong>ramble</strong> on about his army days for hours."
+            },
+            {
+              "opt": "3",
+              "word": "wander",
+              "zh": "漫步",
+              "eg": "Visitors like to <strong>wander</strong> through the sculpture garden on cool evenings."
+            },
+            {
+              "opt": "4",
+              "word": "meander",
+              "zh": "蜿蜒前行",
+              "eg": "The stream <strong>meanders</strong> slowly through the valley behind the school."
+            }
+          ]
+        },
+        "14": {
+          "zh": "羽毛球选手被教练苛刻的标准压得喘不过气，决定放弃。",
+          "note": "选1：<em>exacting</em> 要求极高的。",
+          "concept": "词汇辨析 — exacting（苛刻的；严格的）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "exacting",
+              "zh": "苛刻的；严格的",
+              "eg": "The coach is known for his <strong>exacting</strong> standards during training."
+            },
+            {
+              "opt": "2",
+              "word": "acceptable",
+              "zh": "可接受的",
+              "eg": "Your essay is <strong>acceptable</strong>, but you can still improve the conclusion."
+            },
+            {
+              "opt": "3",
+              "word": "reasonable",
+              "zh": "合理的",
+              "eg": "The shopkeeper offered a <strong>reasonable</strong> price for the second-hand bicycle."
+            },
+            {
+              "opt": "4",
+              "word": "conventional",
+              "zh": "传统的；常规的",
+              "eg": "She chose a <strong>conventional</strong> layout for her Science fair poster."
+            }
+          ]
+        },
+        "15": {
+          "zh": "植物园让人从新加坡市中心的喧嚣中获得宁静的调剂。",
+          "note": "选3：<em>respite</em> 暂时的放松、喘息。",
+          "concept": "词汇辨析 — respite（喘息；调剂）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "effect",
+              "zh": "效果，结果，影响（名词，指由于某种行为或原因所带来的物理改变、社会后果或脑海中产生的深刻印象）",
+              "eg": "The new medicine had an immediate effect on the pain, allowing the patient to fall asleep comfortably."
+            },
+            {
+              "opt": "2",
+              "word": "delight",
+              "zh": "高兴，乐趣，令人高兴的事（名词，指给人带来巨大愉悦、满足感或极度快乐情绪的人、动物或事物）",
+              "eg": "The playful puppy was a constant source of delight to the young children throughout the long afternoon."
+            },
+            {
+              "opt": "3",
+              "word": "respite",
+              "zh": "喘息，短暂的休息/缓和（名词，指从痛苦、繁重工作或喧嚣环境中获得的片刻安宁、放松或调剂）",
+              "eg": "The Botanic Gardens offers a tranquil respite from the constant hustle and bustle of Singapore's busy city centre."
+            },
+            {
+              "opt": "4",
+              "word": "distraction",
+              "zh": "分心物，干扰（名词，指分散人们注意力、让人无法把心思集中在当前核心工作或学习上的各种外界干扰）",
+              "eg": "His constantly buzzing phone proved to be a major distraction during the critical end-of-year examination."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "likely",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "keen",
+            "2": "frequent",
+            "3": "potential",
+            "4": "impossible"
+          }
+        },
+        "17": {
+          "stem_plain": "pose",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "take",
+            "2": "reduce",
+            "3": "present",
+            "4": "encounter"
+          }
+        },
+        "18": {
+          "stem_plain": "physical touch",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "contact",
+            "2": "connection",
+            "3": "association",
+            "4": "acquaintance"
+          }
+        },
+        "19": {
+          "stem_plain": "attempt",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "task",
+            "2": "effort",
+            "3": "survey",
+            "4": "episode"
+          }
+        },
+        "20": {
+          "stem_plain": "repeated",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "stern",
+            "2": "similar",
+            "3": "recurrent",
+            "4": "redundant"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Pigeon feeding is not allowed in Singapore, and feeders can be fined up to $10000. Leftover food from feeding pigeons can attract pests like rats, which are also [Q16 (likely)] disease carriers.",
+          "Not only do their droppings dirty the environment, pigeons also [Q17 (pose)] a health risk. Humans could contract diseases from droppings of diseased birds or carcasses through [Q18 (physical touch)]. This could cause diseases to spread.",
+          "In a recent [Q19 (attempt)] to keep residents safe from such health risks, the Town Council went the extra mile to stop the unknown pigeon feeders at Changi Village Hawker Centre. These errant culprits had been feeding pigeons in the wee hours of the morning despite [Q20 (repeated)] warnings. By the time stalls opened, the hawker centre would be dirty again with leftover food and pigeon droppings."
+        ],
+        "zh": [
+          "新加坡禁止喂鸽子，喂鸽者最高可被罚款一万元。喂鸽留下的食物会吸引老鼠等害虫，它们也可能是疾病携带者。",
+          "鸽子不仅用粪便弄脏环境，还会带来健康风险。人类可能因接触病鸟粪便或尸体而感染疾病，进而导致疾病传播。",
+          "市镇理事会最近为让居民远离这类健康风险而格外努力，制止 Changi Village Hawker Centre 身份不明的喂鸽者。这些违规者在凌晨喂鸽，尽管已多次警告。等摊位开门时，熟食中心又会因残留食物和鸽粪再次变脏。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — likely（潜在的）",
+          "note": "应选（3）'potential'：短文划线的 <em>likely</em> 在此语境下与此义最接近。'keen'：与题干语境或搭配要求不一致。'frequent'：与题干语境或搭配要求不一致。'impossible'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "喂鸽留下的食物会吸引老鼠等害虫，它们也可能是潜在的疾病携带者。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "keen",
+              "zh": "敏锐的，渴望的；强烈的（形容词，指头脑、五官感觉非常灵敏，或对某事充满强烈的兴趣和渴望，也可指某种痛苦极其剧烈）",
+              "eg": "The detective possessed a remarkably keen eye for identifying tiny forensic details that others overlooked at the crime scene."
+            },
+            {
+              "opt": "2",
+              "word": "frequent",
+              "zh": "频繁的，经常的（形容词，指某件事情在一段时间内多次、接连不断地发生，发生频率非常高）",
+              "eg": "The prolonged drought was interrupted by frequent but short thunderstorms that failed to adequately refill the reservoir."
+            },
+            {
+              "opt": "3",
+              "word": "potential",
+              "zh": "潜在的，可能性的（形容词，指目前虽然尚未完全表现或显现出来，但未来有很大可能性会发展或演变成特定状态的）",
+              "eg": "The primary school pupils found the word potential useful in their composition to describe the hidden talents of the main character."
+            },
+            {
+              "opt": "4",
+              "word": "impossible",
+              "zh": "不可能的，办不到的（形容词，指违背客观规律、缺乏必要条件，因而完全无法实现、无法存在或极难让人忍受的）",
+              "eg": "Finishing the extensive science research project within a single afternoon proved to be an impossible task for the student."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — pose（构成；呈现）",
+          "note": "应选（3）'present'：短文划线的 <em>pose</em> 在此语境下与此义最接近。'take'：与题干语境或搭配要求不一致。'reduce'：与题干语境或搭配要求不一致。'encounter'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "鸽子不仅用粪便弄脏环境，还会带来健康风险。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "take",
+              "zh": "拿，取；花费，消耗（动词，指用手去拿某物，或指某项活动需要消耗特定的时间、精力或资源）",
+              "eg": "It will take several long weeks of dedicated practice to master the intricate steps of the traditional dance."
+            },
+            {
+              "opt": "2",
+              "word": "reduce",
+              "zh": "减少，降低（动词，指使事物的数量、尺寸、程度、价格或分量在原有的基础上变小或变低）",
+              "eg": "The school implemented new recycling habits to successfully reduce the amount of daily household refuse."
+            },
+            {
+              "opt": "3",
+              "word": "present",
+              "zh": "呈现，带来，构成（危险等）（动词，常与 challenge, hazard, problem 或 risk 搭配，指客观上造成或引发某种特定的局面）",
+              "eg": "Faulty electrical wiring in an old building can <strong>present</strong> a severe fire hazard to all its residents if left unattended."
+            },
+            {
+              "opt": "4",
+              "word": "encounter",
+              "zh": "遇到，遭遇（动词，指在没有预料到的情况下，偶然碰见某人，或者中途遭遇困难、阻碍与危险）",
+              "eg": "The young travelers were warned that they might encounter severe weather conditions while hiking through the high mountain pass."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — physical touch（接触）",
+          "note": "应选（1）'contact'：短文划线的 <em>physical touch</em> 在此语境下与此义最接近。'connection'：与题干语境或搭配要求不一致。'association'：与题干语境或搭配要求不一致。'acquaintance'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "人类可能因接触病鸟粪便或尸体而感染疾病。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "contact",
+              "zh": "接触，联系（指通过见面、电话、写信或触摸等方式进行的信息沟通或实际碰触）",
+              "eg": "The teacher managed to establish contact with the student's parents to discuss his academic progress."
+            },
+            {
+              "opt": "2",
+              "word": "connection",
+              "zh": "连接，关联（指两件事物、想法或人之间存在的逻辑关系、因果联结或交通联系）",
+              "eg": "The police discovered a clear connection between the two separate housebreaking incidents."
+            },
+            {
+              "opt": "3",
+              "word": "association",
+              "zh": "关联，交往；协会（指人或事物之间的某种因工作、利益产生的松散联合、社会关系或组织）",
+              "eg": "She denied having any business association with the company that was involved in the financial scandal."
+            },
+            {
+              "opt": "4",
+              "word": "acquaintance",
+              "zh": "熟人，相识（指认识但交情不深的人，或者对某事物的初步了解与认识）",
+              "eg": "He is not a close friend of mine, but merely a casual acquaintance I met at the community sports clinic."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — attempt（努力；尝试）",
+          "note": "应选（2）'effort'：短文划线的 <em>attempt</em> 在此语境下与此义最接近。'task'：与题干语境或搭配要求不一致。'survey'：义为'勘察；调查'，与短文语境或搭配要求不一致。'episode'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "市镇理事会最近为让居民远离这类健康风险而格外努力，制止身份不明的喂鸽者。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "task",
+              "zh": "任务，差事（名词，指一项通常由他人分配的、必须在特定时间内完成的艰巨或繁琐的工作）",
+              "eg": "Finishing the extensive vocabulary worksheet within a single afternoon proved to be a challenging task for the student."
+            },
+            {
+              "opt": "2",
+              "word": "effort",
+              "zh": "努力，尝试（名词，指为了达到某个特定目标、克服某种困难而主动付出的身体、脑力或精力上的巨大尝试）",
+              "eg": "The city council made a collective <strong>effort</strong> to reduce public littering by installing more recycling bins across the neighborhood."
+            },
+            {
+              "opt": "3",
+              "word": "survey",
+              "zh": "勘察，调查，测量（名词/动词，指为了获取全面信息而进行的民意调查，或工程上对土地、建筑结构进行的专业测量与评估）",
+              "eg": "A team of expert engineers was sent to <strong>survey</strong> the rugged plot of land thoroughly before the foundation construction work began."
+            },
+            {
+              "opt": "4",
+              "word": "episode",
+              "zh": "片段，一集；插曲，发作（名词，指电视连续剧或广播节目中的单集，或指人一生中发生的一段独特经历，亦指疾病的一次突然发作）",
+              "eg": "The fainting incident was a frightening episode in her life, but medical tests later confirmed that she was entirely healthy."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — repeated（经常性的）",
+          "note": "应选（3）'recurrent'：短文划线的 <em>repeated</em> 在此语境下与此义最接近。'stern'：与题干语境或搭配要求不一致。'similar'：与题干语境或搭配要求不一致。'redundant'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这些违规者在凌晨喂鸽，尽管已多次警告。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stern",
+              "zh": "严厉的，严格的；船尾（形容词指人的面容、态度或规矩严肃苛刻；名词指船只或舰艇的尾部）",
+              "eg": "The headmaster gave the misbehaving students a stern warning before ordering them back to their classrooms."
+            },
+            {
+              "opt": "2",
+              "word": "similar",
+              "zh": "相似的，类似的（指两个或多个事物在外貌、特征、性质或功能上非常接近但并非完全相同）",
+              "eg": "The twin sisters have very similar tastes in clothing, often picking out identical outfits without planning it."
+            },
+            {
+              "opt": "3",
+              "word": "recurrent",
+              "zh": "周期性发生的，经常性的（指某种疾病、问题、噩梦或事件在一段时间内反复、多次发生）",
+              "eg": "The mechanic warned the car owner that the engine failure was a recurrent problem that required a major repair."
+            },
+            {
+              "opt": "4",
+              "word": "redundant",
+              "zh": "多余的，被裁员的（指因为不再需要、重复存在而显得没有必要，或员工因公司缩减规模而下岗）",
+              "eg": "The introduction of modern automated machinery made several manual sorting positions in the factory redundant."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following descriptions is the **least** likely reason for the island being called **'a tropical paradise'**?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "a haven for wildlife",
+            "2": "a delicate balance of nature",
+            "3": "the home of popular attractions",
+            "4": "a well-known and convenient travel location"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the Gems Island website, why is the Islander bus **'unique'**?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It carries passengers from one place to another.",
+            "2": "It guides passengers through every part of the island.",
+            "3": "It lets passengers learn about the attractions on the island.",
+            "4": "It takes passengers to the places they express an interest in seeing."
+          }
+        },
+        "23": {
+          "stem_plain": "Mr Poon is planning to visit Gems Island. What must he do to pay the least amount for the Islander bus ticket?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "buy one from the guide on board the Islander bus during his visit",
+            "2": "visit the Gems Island website to book one six weeks before his visit",
+            "3": "buy one from the machine on board the Islander bus during his visit",
+            "4": "visit the Gems Island website to book one two weeks before his visit"
+          }
+        },
+        "24": {
+          "stem_plain": "Coupons are given to Islander bus passengers for the following possible reasons **except** to _________",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "attract people to take the Islander bus",
+            "2": "get people to visit the island's attractions",
+            "3": "teach people about the interesting facts of the island",
+            "4": "entice people to spend money at the island's attractions"
+          }
+        },
+        "25": {
+          "stem_plain": "Why is the colon (:) used in **'Main Attractions:'**?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to introduce a series of main attractions",
+            "2": "to describe the main attractions in detail",
+            "3": "to rank a set of main attractions according to popularity",
+            "4": "to propose an itinerary that includes visits to the main attractions"
+          }
+        },
+        "26": {
+          "stem_plain": "Henry was in a rush. He decided to grab a bite before exploring the island. Which bus stop should he alight at first?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Bus Stop 1",
+            "2": "Bus Stop 2",
+            "3": "Bus Stop 3",
+            "4": "Bus Stop 6"
+          }
+        },
+        "27": {
+          "stem_plain": "Eunice is keen on thrilling rides. What should she do?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "contact Zipaline Adventures to make a reservation",
+            "2": "contact Zipaline Adventures when she is at Bus Stop 4",
+            "3": "go to Emerald Bay and take a walk to Zipaline Adventures",
+            "4": "go to Bus Stop 4 and take the Islander bus to Zipaline Adventures"
+          }
+        },
+        "28": {
+          "stem_plain": "Which of the following visitors taking the Islander bus would reach Topaz Beach first?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Marcus who just had tea",
+            "2": "Nadia who had just eaten a lavish meal",
+            "3": "Winnie who had just alighted from the ferry",
+            "4": "Vincent who had just shopped for souvenirs"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "推理 — Visual inference (least likely)（推理考点）",
+          "note": "<p><p>‘Tropical paradise’ suggests nature and escape; being a <span class=\"hl-bad\">well-known, convenient travel hub</span> is the <span class=\"hl-good\">least</span> direct reason for that label → option 4.</p></p>",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "视觉文本 — Visual detail (Islander bus)（视觉文本考点）",
+          "note": "<p><p>The bus is ‘unique’ because it <span class=\"hl-good\">lets passengers learn about attractions</span> on the island (guided commentary), not merely transport.</p></p>",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "视觉文本 — Visual detail (best price)（视觉文本考点）",
+          "note": "<p><p>Lowest fare → book on the website <span class=\"hl-good\">six weeks before</span> the visit.</p></p>",
+          "answer": "2"
+        },
+        "24": {
+          "concept": "判断 — Visual NOT-true (coupons)（找出错误项）",
+          "note": "<p><p>Coupons encourage visits and spending; they are <span class=\"hl-bad\">not</span> mainly to <span class=\"hl-good\">teach interesting facts</span> → option 3 is the exception.</p></p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "题型 — Punctuation (colon)（题型考点）",
+          "note": "<p><p><span class=\"hl-good\">Main Attractions:</span> introduces the list that follows.</p></p>",
+          "answer": "1"
+        },
+        "26": {
+          "concept": "应用 — Visual application (bus stop)（图文应用）",
+          "note": "<p><p>Henry wants food first → alight at <span class=\"hl-good\">Bus Stop 2</span> (food stop on the route).</p></p>",
+          "answer": "2"
+        },
+        "27": {
+          "concept": "应用 — Visual application (thrill rides)（图文应用）",
+          "note": "<p><p>Thrilling rides at Zipaline → go to <span class=\"hl-good\">Emerald Bay and walk</span> to Zipaline Adventures.</p></p>",
+          "answer": "3"
+        },
+        "28": {
+          "concept": "推理 — Visual inference (route order)（推理考点）",
+          "note": "<p><p>Visitor who has <span class=\"hl-good\">just eaten a lavish meal</span> (Nadia) is likely to head to the beach next on the route → reaches Topaz Beach first.</p></p>",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "after",
+          "B": "although",
+          "C": "as",
+          "D": "between",
+          "E": "each",
+          "F": "from",
+          "G": "had",
+          "H": "however",
+          "J": "in",
+          "K": "is",
+          "L": "meanwhile",
+          "M": "none",
+          "N": "on",
+          "P": "to",
+          "Q": "was"
+        },
+        "cloze": [
+          "Plant protein is found in plants only, not from fish or animals. [Q29] plant proteins are mainly found in nuts, legumes, seeds and beans, potatoes and some other vegetables contain protein too.",
+          "Processed foods such as tempeh and tofu also contain protein and are often used [Q30] a substitute for meat. These are made with soy beans, which boast [Q31] 22 and 68 grams of protein per cup. Seitan is another protein-packed processed food which is made [Q32] spiced wheat gluten.",
+          "We can utilise plant proteins in many ways, all depending on which plant protein [Q33] being featured. For processed foods such as tofu, tempeh and seitan, make sure to cook them with plenty of other flavours. [Q34] of these ingredients has much taste on their own but they are great for soaking in sauces and spices.",
+          "Individual vegetables, seeds, nuts and beans have more natural flavours. [Q35] that does not mean they should not be cooked well or paired with other ingredients and spices. Most of these work well [Q36] soups and stews. Seeds and nuts offer a protein boost too and can be sprinkled [Q37] or combined with just about any food.",
+          "Many vegetables contain protein too. Corn, mushroom, spinach and asparagus are the ones with the highest amount of protein. Any vegetable can be cooked [Q38] one's liking. Combine high-protein vegetables with beans or legumes for a fulfilling meal!"
+        ],
+        "zh": [
+          "植物蛋白只存在于植物中，不来自鱼类或动物。植物蛋白主要在坚果、豆类、种子和豆科植物中，土豆等蔬菜也含蛋白质。",
+          "天贝、豆腐等加工食品也含蛋白质，常作肉类替代品。它们由大豆制成，每杯含二十二至六十八克蛋白质。面筋是另一种高蛋白加工食品，由调味小麦面筋制成。",
+          "我们可以多种方式利用植物蛋白，取决于选用哪一种。对豆腐、天贝、面筋等，烹饪时要加足调味。这些食材本身味道不浓，但很适合吸收酱汁与香料。",
+          "蔬菜、种子、坚果和豆类天然风味更足。这并不意味着不必好好烹饪或搭配其他食材与香料。它们大多适合做汤和炖菜。种子和坚果也能补充蛋白质，可撒在或混入几乎任何食物。",
+          "许多蔬菜也含蛋白质。玉米、蘑菇、菠菜和芦笋含量较高。任何蔬菜都可按个人喜好烹饪。将高蛋白蔬菜与豆类搭配，就是一顿饱腹的餐食！"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "让步 — although",
+          "note": "although plant proteins are mainly found = 结合句意选 although。",
+          "answer": "B — although"
+        },
+        "30": {
+          "concept": "时间 — as",
+          "note": "protein and are often used as a substitute for meat. = 时间/从属 → as。",
+          "answer": "C — as"
+        },
+        "31": {
+          "concept": "介词 — between",
+          "note": "with soy beans, which boast between 22 and 68 grams of = 看前后搭配，选 between。",
+          "answer": "D — between"
+        },
+        "32": {
+          "concept": "介词 — from",
+          "note": "processed food which is made from spiced wheat gluten. = 看前后搭配，选 from。",
+          "answer": "F — from"
+        },
+        "33": {
+          "concept": "主谓 — 时态/一致",
+          "note": "depending on which plant protein is being featured. = 主谓一致 → is。",
+          "answer": "K — is"
+        },
+        "34": {
+          "concept": "数量词",
+          "note": "none of these ingredients has much = 结合句意选 none。",
+          "answer": "M — none"
+        },
+        "35": {
+          "concept": "Connector",
+          "note": "however that does not mean they = 结合句意选 however。",
+          "answer": "H — however"
+        },
+        "36": {
+          "concept": "介词 — in",
+          "note": "Most of these work well in soups and stews. = 看前后搭配，选 in。",
+          "answer": "J — in"
+        },
+        "37": {
+          "concept": "介词 — on",
+          "note": "too and can be sprinkled on or combined with just about = 看前后搭配，选 on。",
+          "answer": "N — on"
+        },
+        "38": {
+          "concept": "介词 — to",
+          "note": "Any vegetable can be cooked to one's liking. = 看前后搭配，选 to。",
+          "answer": "P — to"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It is difficult to determine exactly when face masks began being used as a protective measure. One of the [Q39(early)] recorded face mask-like objects in history dates back to the 6th century BC.",
+          "In China during the Yuan [Q40(dinesty)] , a scarf woven with silk and gold threads is thought to be one of the first face masks. According to the 13th-century travelogue, *The Travels of Marco Polo*, these scarves covered the mouths and noses of servants, and were [Q41(beleeved)] to stop the servant's breath [Q42(against)] affecting the smell and taste of food served to the emperor.",
+          "One of the most [Q43(promenent)] early uses of face mask-like objects was during the Black Death, the deadliest [Q44(pendemic)] recorded in human history, in the 14th century. The Black Death spread like wildfire in Europe, [Q45(peak)] from 1347 to 1351.",
+          "In the 16th century, a French doctor invented a beak-like mask, which was worn by doctors who travelled to towns to treat [Q46(viktims)] of the plague. To ensure visibility, the bird-like beak masks [Q47(features)] glass in the eye sockets. Perfume, scented spices or [Q48(medicenes)] would be placed in the beak section of the mask in an attempt to filter out the disease. In addition to the mask, these doctors wore a [Q49(drama)] 'beak doctor' costume. They would also carry a cane so they could [Q50(examining)] and direct patients without the need to make direct contact with them. The mask and the costume eventually evolved into a terrifying symbol of death."
+        ],
+        "zh": [
+          "很难确定口罩究竟从何时起被用作防护用品。历史上最早有记载的类似口罩之物之一可追溯到公元前六世纪。",
+          "中国元朝时期，一种用丝线与金线织成的围巾被认为是早期口罩之一。据十三世纪游记《马可·波罗游记》，这些围巾遮住仆人的口鼻；人们相信能防止仆人的气息影响呈给皇帝的食物的气味与味道。",
+          "类似口罩之物最突出的早期用途之一是在黑死病期间——人类历史上最致命的大流行，发生在十四世纪。黑死病像野火一样在欧洲蔓延，在1347至1351年间达到高峰。",
+          "十六世纪，一位法国医生发明了一种鸟喙形口罩，出诊城镇治疗瘟疫患者的医生会佩戴。为确保视线，鸟喙形口罩的眼窝镶嵌玻璃。香水、香料或药物放在口罩的鸟喙部分，试图过滤疾病。除口罩外，这些医生还穿着夸张的“鸟嘴医生”服装。他们还拿着手杖，以便无需直接接触就能检查并指挥病人。口罩和服装最终演变成可怕的死亡象征。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling",
+          "note": "<p>Superlative of <em>early</em> → <span class=\"hl-good\">Earliest</span> recorded.</p>",
+          "answer": "earliest"
+        },
+        "40": {
+          "concept": "Spelling",
+          "note": "<p>Historical period → <span class=\"hl-good\">Dynasty</span> (not <em>dinesty</em>).</p>",
+          "answer": "dynasty"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<p>Past passive → <span class=\"hl-good\">Believed</span> (not <em>beleeved</em>).</p>",
+          "answer": "believed"
+        },
+        "42": {
+          "concept": "Preposition",
+          "note": "<p>Stop breath <span class=\"hl-good\">from</span> affecting smell/taste (not <em>against</em>).</p>",
+          "answer": "from"
+        },
+        "43": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">Prominent</span> early uses (not <em>promenent</em>).</p>",
+          "answer": "prominent"
+        },
+        "44": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">Pandemic</span> (not <em>pendemic</em>).</p>",
+          "answer": "pandemic"
+        },
+        "45": {
+          "concept": "Word form",
+          "note": "<p>Past continuous description → <span class=\"hl-good\">Peaking</span> from 1347 to 1351.</p>",
+          "answer": "peaking"
+        },
+        "46": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">Victims</span> of the plague (not <em>viktims</em>).</p>",
+          "answer": "victims"
+        },
+        "47": {
+          "concept": "Grammar",
+          "note": "<p>Masks <span class=\"hl-good\">featured</span> glass (past tense, not <em>features</em>).</p>",
+          "answer": "featured"
+        },
+        "48": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">Medicines</span> in the beak (not <em>medicenes</em>).</p>",
+          "answer": "medicines"
+        },
+        "49": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">Dramatic</span> costume (not <em>drama</em>).</p>",
+          "answer": "dramatic"
+        },
+        "50": {
+          "concept": "Word form",
+          "note": "<p>Would <span class=\"hl-good\">examine</span> patients (base verb after modal <em>could</em>).</p>",
+          "answer": "examine"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "In our modern hectic life, having a hobby is essential. Due to our busy lifestyles, it is easy to forget to take some time out [Q51] juggling our studies and other commitments. Hobbies help us relax and break the monotony of our daily [Q52]. Research has shown that having a healthy mind may help us achieve a healthy body.",
+          "Having a hobby is [Q53] to a healthier mind, body and social life. It gives us better physical and mental health, more sleep, better social connections and increased happiness. Some people do not pursue hobbies [Q54] they feel they have no time to spare. However, hobbies allow you to take a break from your day-to-day stresses and carve out time to devote yourself to [Q55] in an activity that you enjoy.",
+          "Some hobbies such as reading, writing, and learning a new language can help instil a sense of purpose in life while having fun. The [Q56] time you devote to your hobby, the more satisfaction you will derive from [Q57].",
+          "Hobbies can also help you [Q58] your mind away from stressful thought patterns and focusing on an activity you enjoy. While [Q59] all hobbies offer the same level of mental or physical engagement, they help you inadvertently practise mindfulness techniques without you realising it. Such mindfulness activities [Q60] one to experience calmness and stillness.",
+          "Physical hobbies can be a great way to keep in [Q61] and maintain a healthy weight. Hobbies such as gardening and dancing can keep us healthy without having to make an obligatory trip to the gym. [Q62] exercise into a hobby will also have other benefits from increased confidence [Q63] an overall increase in your physical health.",
+          "One thing is for certain, having a hobby can be incredibly important and [Q64] to our mental health and well-being. It is great to have an [Q65] for us to express and challenge ourselves in a healthy way. Thus, everyone should have a hobby to unwind."
+        ],
+        "zh": [
+          "在现代忙碌的生活中，培养一项爱好至关重要。由于生活节奏紧张，我们很容易在应付学业和其他事务时忘记抽身休息。爱好帮助我们放松身心，打破日常生活的单调。研究表明，心理健康有助于身体健康。",
+          "爱好有益于更健康的身心和社交生活，带来更好的体魄与心理状态、更多睡眠、更佳的人际联系和更高的幸福感。有些人因为觉得抽不出时间而不培养爱好。然而，爱好能让人从日常压力中解脱出来，腾出时间全身心投入自己喜欢的活动。",
+          "阅读、写作、学习新语言等爱好能在享受乐趣的同时培养人生目标感。投入爱好的时间越多，从中获得的满足感也越大。",
+          "爱好还能帮助你摆脱压力重重的思绪，专注于喜欢的活动。虽然并非所有爱好都能带来同等程度的身心投入，它们仍会不知不觉地让你练习正念。这样的正念活动使人体验平静与安宁。",
+          "体力型爱好是保持健康体重的好办法。园艺、跳舞等爱好能让我们不必非去健身房也能保持健康。把锻炼融入爱好还能提升自信，并全面促进身体健康。",
+          "可以肯定的是，爱好对我们的心理健康和幸福极其重要。有一个健康的渠道来表达和挑战自我是件好事。因此，每个人都应该有一项爱好来放松身心。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "动词与介词特定搭配",
+          "note": "与前面的动词短语 take some time out 完美组合，后接动名词短语 juggling...。表示从忙碌于学业和琐事的重压中“抽身出来/提取时间”，固定使用介词 from。",
+          "answer": "from"
+        },
+        "52": {
+          "concept": "名词固定习惯搭配",
+          "note": "由形容词 daily（日常的）进行修饰。完美契合高频核心叙事专属搭配 break the monotony of daily life 或者是 daily routine / schedule，意在打破“日常生活”或“常规轨迹”的单调沉闷。",
+          "answer": "life/routine/schedule"
+        },
+        "53": {
+          "concept": "被动语态与介词固定搭配",
+          "note": "作为系动词 is 之后的表语过去分词，后接介词短语 to a healthier mind...。在阐述身心平衡的医学心理学场景下，指有爱好被证实与更健康的社交、心理“紧密相连”，固定搭配 be linked/associated/connected to 结构。",
+          "answer": "linked/associated/connected"
+        },
+        "54": {
+          "concept": "从属原因连词形式",
+          "note": "引导原因状语从句。用来连接前后两句，指代有些人之所以不培养爱好，“是因为（as/because/since）”他们主观觉得挤不出多余的时间，故填入表示原因的连词。",
+          "answer": "as/because/since"
+        },
+        "55": {
+          "concept": "介词后的动名词与功能搭配",
+          "note": "紧跟在经典习语 devote yourself to... 中的 to 后面（此处的 to 为介词），后接方位介词 in。指让自己全身心地“投入到/参与进”一项能够享受的活动中，填入动名词 participating / engaging / sharing 均可，其中 participating 最佳。",
+          "answer": "participating/engaging/sharing"
+        },
+        "56": {
+          "concept": "比较级双重对照句型形式",
+          "note": "后文出现了明确的对应比较级结构 the more satisfaction you will derive...。完美契合 classic 句型 the + 比较级，the + 比较级（越……就越……），指你投入到爱好里的时间“越多（the more time）”，斩获的满足感就越大。位于句首需大写。",
+          "answer": "More"
+        },
+        "57": {
+          "concept": "指代代词视角承接",
+          "note": "作为介词 from 的宾语。用来回指和指代前文反复在极力赞美和探讨的核心单数对象 your hobby（你的爱好），表示从“它（it）”身上汲取源源不断的满足感。",
+          "answer": "it"
+        },
+        "58": {
+          "concept": "动词与副词特定搭配形式",
+          "note": "使役结构 help you... 后面接动词原形。与后面的名词宾语 your mind 以及副词 away 完美组合，指把注意力从压力山大的思维模式中“转移开”、“拉开”或“飘离”，填入动词原形 take / drift / direct / guide 均通顺（此处 take/drift/direct 最佳）。",
+          "answer": "take/drift/direct/guide"
+        },
+        "59": {
+          "concept": "部分否定句型结构",
+          "note": "修饰后面的限定代词/限定形容词 all hobbies。结合后文“每种爱好的身心参与度不同，但皆有裨益”的辩证逻辑，在句首构成经典的“部分否定”句式（Not all...），意为“并非所有”爱好都能提供等同的参与感。位于句首需大写。",
+          "answer": "Not"
+        },
+        "60": {
+          "concept": "动词与不定式核心句型形式",
+          "note": "主语为复数名词短语 Such mindfulness activities（这些正念活动），后接代词宾语 one 和不定式符号 to experience...。指这些活动能“使人能够（enable/allow）”或“促使人”体会到内心的宁静，故填入动词原形，填入单三变体则不符复数主语结构。",
+          "answer": "enable/allow"
+        },
+        "61": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的介词短语 keep in 完美结合。在探讨体育锻炼与形体健康的特定健美场景下，完美契合极高频考查的经典专属体态习语 keep in shape 或者是 keep in condition，意为“保持身材/保持体型”。",
+          "answer": "shape/condition"
+        },
+        "62": {
+          "concept": "动名词短语充当主语的主谓一致",
+          "note": "后面紧跟动词专属搭配 exercise into a hobby（把锻炼转化为一种爱好），整个短语在句中充当主语，后接复数谓语 will also have。指将运动“变作（turning/making/converting）”一种爱好，在句首充当主语需使用动名词形式。位于句首需大写。",
+          "answer": "Turning/Making/Converting"
+        },
+        "63": {
+          "concept": "空间与范围介词固定搭配",
+          "note": "与前置的介词短语 from increased confidence 完美组合。构成形容范围、益处不断辐射和跨越的经典标志性两置双介词对照结构 from... to...，意为从信心的建立“到”身体素质的全面提升。",
+          "answer": "to"
+        },
+        "64": {
+          "concept": "并列形容词成分表语平行",
+          "note": "与前面的形容词 important（重要的）通过并列连词 and 保持平行的表语形容词结构。指有爱好对心理健康是非常“有益的（beneficial/helpful/valuable）”。若由于特定名校错位键异动将 64、65 空答案发生互换干扰，则在此同步校对变体以 activity 或者是 beneficial 保持系统一致。",
+          "answer": "beneficial/helpful/valuable/activity"
+        },
+        "65": {
+          "concept": "名词与不定式固定句型形式",
+          "note": "前面有不定冠词 an（提示后接元音开头的名词），后接不定式符号 to express...。指爱好为我们提供了一个能让自己在健康方式下表达和挑战自我的绝佳“途径”、“渠道”或“机会”，完美契合专属搭配 an alternative 或者是 an outlet / opportunity 结构（根据特定校方键错位异动锁定为 alternative）。",
+          "answer": "alternative/outlet/opportunity"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "In our class of forty students, Muthu knows the most about spiders.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Muthu is the most __________"
+        },
+        "67": {
+          "stem_plain": "\"Who is the boy at the playground?\" Sam asked me.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Sam asked me __________"
+        },
+        "68": {
+          "stem_plain": "The dessert will be served only after the guests have finished the main course.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It is only after __________"
+        },
+        "69": {
+          "stem_plain": "My puppy was chewing my shoes.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "My shoes __________"
+        },
+        "70": {
+          "stem_plain": "Tom was apprehensive about entering the dark room.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "With __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "句型转换 — Superlative rewrite",
+          "zh": "在我们四十人的班里，穆图最了解蜘蛛。",
+          "note": "最高级结构：the most + 形容词 + 范围。",
+          "answer": "Muthu is the most knowledgeable about spiders in our class of forty students."
+        },
+        "67": {
+          "concept": "间接引语 — Reported speech",
+          "zh": "萨姆问我操场上的那个男孩是谁。",
+          "note": "间接引语：疑问词保留，语序改为陈述句，时态后移。",
+          "answer": "Sam asked me who the boy at the playground was."
+        },
+        "68": {
+          "concept": "强调句 — Cleft (only after)",
+          "zh": "只有在客人吃完主菜之后，甜点才会上桌。",
+          "note": "强调句型 It is only after … that …。",
+          "answer": "It is only after the guests have finished the main course that the dessert will be served."
+        },
+        "69": {
+          "concept": "被动语态 — Passive (past continuous)",
+          "zh": "我的鞋子正在被小狗咬着。",
+          "note": "过去进行时被动：were being + 过去分词。",
+          "answer": "My shoes were being chewed by my puppy."
+        },
+        "70": {
+          "concept": "句型转换 — With regard to",
+          "zh": "至于进入那间暗室，汤姆感到害怕。",
+          "note": "With regard to + 动名词，合并为一句。",
+          "answer": "With regard to entering the dark room, Tom was apprehensive."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "From paragraph one, how do we know that Grandmother had many achievements?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "From paragraph two, pick out the two-word phrase which tells us that there was a change of mood in the house.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right. The first one has been done for you.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "her skills (line 5)",
+                "(a) **them** (line 8)",
+                "(b) **That** (line 15)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "Grandmother's ability to cook well",
+                "[Q73a]",
+                "[Q73b]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Based on lines 15–33, fill in the following table to show the differing ideas behind Jim's and Father's selections of food for the dinner that Father would be hosting.",
+          "marks": 4,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "Characters",
+              "rows": [
+                "Jim",
+                "Father"
+              ]
+            },
+            "col_2": {
+              "header": "Choice of food",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]"
+              ]
+            },
+            "col_3": {
+              "header": "State the **main** reason they thought that their selection was suitable for the occasion.",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "What does the nickname **\"the environmental crusader\"** tell you about Min? Based on lines 6–25, give one reason why this nickname was appropriate for her.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Based on lines 6–17, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Jim came out of his room looking very neat and tidy.",
+                "(b) Father's initial plan was to invite his guest over to their house for a meal.",
+                "(c) Jim was thrilled to have a guest over at his house."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]",
+                "[Q76e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]",
+                "[Q76f]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "From lines 18–23, why did Min think that eating shark fin was cruel?",
+          "marks": 3,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q77a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q77b]"
+            },
+            {
+              "stem_plain": "(c)",
+              "question": "[Q77c]"
+            }
+          ]
+        },
+        "78": {
+          "stem_plain": "Write **1**, **2** and **3** in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Grandmother started cooking sweet potato porridge.",
+            "Jim emerged from his room.",
+            "Grandmother retired from her job."
+          ]
+        },
+        "79": {
+          "stem_plain": "How do we know that Mr Robertson, Father's client, had a hearty appetite during the dinner?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Based on lines 42–43, Mr Robertson informed Mr Lee that he had made a decision. What was the decision? Give one reason why Mr Robertson made that decision.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "The house was quiet except for the sound of Grandmother chopping sweet potatoes.",
+          "2": "Before Grandmother retired, she used to work at the residences of royalties. Hanging on the",
+          "3": "walls were awards from various culinary competitions. Now, the family gets to enjoy dishes from",
+          "4": "all over the world. Everyone calls her a versatile chef. She often tells her grandchildren to pick",
+          "5": "up her skills.",
+          "6": "The atmosphere within the house livened up when Min's parents came through the main",
+          "7": "door. \"Mum and Dad are home!\" announced Min. \"Min, here is a stack of recyclable papers that",
+          "8": "you requested for,\" said Father as he handed **them** to Min. The papers were printed single-",
+          "9": "sided. Min thanked her father for them. Just then, Min's brother, Jim, came out of his room. With",
+          "10": "his messy hair and crumpled clothes, he greeted his parents.",
+          "11": "\"Kids, a very important American client will be coming to our house for dinner tomorrow.",
+          "12": "We have to sign a deal with his company. I had wanted to take him out to a restaurant for a",
+          "13": "meal. But due to the Covid-19 heightened alert situation, I am unable to do so now. What should",
+          "14": "we prepare for him?\" asked Father.",
+          "15": "\"I think Grandmother's shark fin soup is savoury. **That** would definitely impress him and",
+          "16": "you will cut the deal! I can't wait to meet him!\" replied Jim with gusto and enthusiasm as the",
+          "17": "family rarely had guests over.",
+          "18": "\"Grandma, please do not cook. Don't you know how cruel the process of finning sharks",
+          "19": "is? Once the poachers get their hands on a shark, they ruthlessly sever its fin off before throwing",
+          "20": "the finless shark back into the ocean without a thought. Just imagine that, Jim! The poor shark",
+          "21": "helplessly writhing in pain, alone, on the seabed just for a predator to swim by and eat an easy",
+          "22": "meal! All that just for us humans to enjoy a nice bowl of shark fin soup. What will the client think",
+          "23": "of us and our culture?\" Min rattled on.",
+          "24": "Jim smirked, \"Huh, I never thought that my little sis would be all grown up and mature into",
+          "25": "a full-fledged environmental crusader. Since when did you care about the environment?\"",
+          "26": "Grandmother walked slowly to the kitchen to check on the food that was boiling in the",
+          "27": "pot. Father followed Grandmother into the kitchen and asked, \"Mum, what are you cooking for",
+          "28": "dinner?\"",
+          "29": "\"Something simple and nutritious: sweet potato porridge with a few side dishes,\"",
+          "30": "Grandmother replied as she passed Father a tablespoon of porridge. As soon as he swallowed",
+          "31": "the piping hot porridge, he realised that it is such a humble dish but it warmed his stomach.",
+          "32": "\"Mum, this is it! This is what I think we should prepare for the client! It is a dish that can be easily",
+          "33": "prepared, while being able to showcase the different ingredients used in our local dishes.\"",
+          "34": "The next day, at the dining table, the family and their guest tucked into bowls of sweet",
+          "35": "potato porridge, savoury omelette, green and preserved vegetables, braised duck and a fish that",
+          "36": "was steamed to perfection. Mr Robertson, Mr Lee's client, was so impressed by how",
+          "37": "scrumptious and delicious the meal was. He requested for refills thrice. Most importantly, as he",
+          "38": "glanced around and noticed how the family interacted at the table, he felt the warmth and",
+          "39": "sincerity in the family. It was then he made the decision. Before Mr Robertson left, he turned to",
+          "40": "Grandmother and complimented her. \"After taking a few mouthfuls from your dishes, I could truly",
+          "41": "taste the love for your family. Thank you so much for allowing me to eat such wholesome and",
+          "42": "delectable local dishes.\" Then, he turned and faced Mr Lee, \"Mr Lee, I have made my decision",
+          "43": "and it should make you very happy.\""
+        },
+        "paragraphs": {
+          "1": "屋里很安静，只听见祖母在切红薯。祖母退休前曾在王室府邸工作；墙上挂着各种厨艺比赛的奖项。如今全家能尝到各国菜肴；大家都称她为多才多艺的厨师，常让孙辈学她的手艺。",
+          "6": "闵的父母从大门进来，屋里气氛顿时活跃起来。“爸妈回来了！”闵喊道。父亲说：“闵，你要的那叠可回收纸来了”，一边把纸递给她（纸是单面印刷的）。闵向父亲道谢。吉姆从房间出来，头发乱、衣服皱，向父母打招呼。",
+          "11": "父亲说，明天有一位重要的美国客户来家里吃晚饭，要签公司合同；他本想带客户去餐馆，但因新冠高警戒不能外出，问该准备什么饭菜。",
+          "15": "吉姆兴致勃勃地说，祖母的鱼翅汤很鲜美，一定能打动客户、签下合同，他迫不及待想见这位客人。",
+          "18": "闵劝祖母别煮鱼翅，说割鳍很残忍：偷猎者割下鱼鳍后就把鲨鱼扔回海里；她想象鲨鱼在海底痛苦扭动、等着被路过的掠食者吃掉，而人类只为喝一碗鱼翅汤。她还问客户会如何看待自家文化。她说个不停。",
+          "24": "吉姆笑道，没想到妹妹长大了，成了“环保斗士”；还问闵什么时候开始关心环境。",
+          "26": "祖母慢慢走向厨房看锅里煮的食物；父亲跟进去问：“妈妈，晚饭煮什么？”",
+          "29": "祖母说是红薯粥加几样小菜，递给父亲一勺。父亲一喝下热粥，虽简朴却暖胃，说就用这个招待客户——既容易准备，又能展示本地食材。",
+          "34": "第二天餐桌上，家人与客人享用红薯粥、煎蛋、腌菜、卤鸭和蒸鱼。罗伯逊先生（李先生的客户）觉得美味，三次添饭；更被桌上家人互动的温情打动，当场做了决定。临走前他称赞祖母的菜里有对家庭的爱；转身对李先生说，他已做出决定，一定让对方很高兴。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>第一段：如何知道祖母成就很多。</li><li><strong>范围：</strong>第 1 段（行 1–5）。</li><li><strong>证据：</strong>墙上挂着 <em>awards from various culinary competitions</em>（行 3）。</li><li><strong>答案要点：</strong>各种厨艺比赛的奖项挂满墙。</li></ol>",
+          "answer": [
+            "There were many awards from various culinary competitions hanging on the walls."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>第二段找<strong>两个词</strong>的短语，说明屋里气氛变化。</li><li><strong>范围：</strong>第 2 段（行 6–10）。</li><li><strong>证据：</strong>行 6：<span class=\"hl-good\"><em>livened up</em></span>（父母进门，气氛活跃）。</li><li><strong>注意：</strong>官方键误作 <em>Lived up</em>；正文为 <em>livened up</em>，照抄两词。</li></ol>",
+          "answer": [
+            "livened up"
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>左栏词在文中的指称。</li><li><strong>(a) them (行 8)：</strong>父亲递给闵的那叠<strong>可回收纸</strong>。</li><li><strong>(b) That (行 15)：</strong>吉姆所说的<strong>祖母的鱼翅汤</strong>（<em>Grandmother's shark fin soup</em>）。</li><li><strong>书写：</strong>右栏空格按行填写完整指称。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "the stack of recyclable papers Min requested for",
+            "73b": "Grandmother's shark fin soup"
+          }
+        },
+        "74": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>范围：</strong>行 15–33。</li><li><strong>吉姆：</strong>鱼翅汤；鲜美、能打动美国客户、签成合同。</li><li><strong>父亲：</strong>红薯粥加小菜；暖胃、能展示本地食材。</li><li><strong>表格：</strong>按行填 Jim / Father 两行的食物与理由。</li></ol>",
+          "answer": {
+            "74a": "Grandmother's shark fin soup",
+            "74b": "Grandmother's shark fin soup was savoury and the American client would be impressed.",
+            "74c": "Sweet potato porridge with a few side dishes.",
+            "74d": "The piping hot sweet potato porridge warmed his stomach and it would be able to showcase the different ingredients used in their local dishes."
+          },
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>问法：</strong>绰号含义 + 行 6–25 中一个理由（2 分，须答清两点）。</li><li><strong>绰号：</strong>Min 关心环保、反对鱼翅等。</li><li><strong>理由：</strong>向父亲要 <em>recyclable papers</em>（行 7–8）等。</li><li><strong>书写：</strong>可写两句或一句含两点。</li></ol>",
+          "answer": [
+            "The nickname suggests that Min wanted to protect the environment she requested for recyclable paper from her father."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>范围：</strong>行 6–17。</li><li><strong>(a) FALSE：</strong>吉姆头发乱、衣服皱（行 9–10），并非 neat and tidy。</li><li><strong>(b) FALSE：</strong>父亲本想带客人去<strong>餐馆</strong>（行 12–13），不是一开始就请回家。</li><li><strong>(c) TRUE：</strong>吉姆 <em>can't wait to meet him</em>（行 16–17）。</li><li><strong>表格：</strong>每行 T/F + 一句依据。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "False",
+            "76b": "Jim came out of his room with his messy hair and crumpled clothes",
+            "76c": "False",
+            "76d": "Father's initial plan was to take him out to a restaurant for a meal",
+            "76e": "True",
+            "76f": "Jim could not wait to meet the client"
+          }
+        },
+        "77": {
+          "concept": "分项简答题",
+          "note": "<ol><li><strong>范围：</strong>行 18–23，三个原因。</li><li><strong>(a)：</strong>偷猎者割鳍后把鲨鱼扔回海里（行 19–20）。</li><li><strong>(b)：</strong>无鳍鲨鱼在海底痛苦扭动（行 20–21；键 <em>writing</em> 应为 <em>writhing</em>）。</li><li><strong>(c)：</strong>掠食者轻易吃掉它（行 21–22）。</li></ol>",
+          "answer": {
+            "77a": "The poaches sever the shark's fin off before throwing the finless shark back into the ocean without a thought.",
+            "77b": "The finless shark will be writhing in pain, alone on the sea bed.",
+            "77c": "The finless shark will be an easy meal for a predator who swims by."
+          }
+        },
+        "78": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>题型：</strong>三事件按故事发生先后标 1、2、3。</li><li><strong>时间线：</strong>祖母退休（行 2）最早 → 吉姆出房（行 9）→ 祖母煮红薯粥（行 26–27）最晚。</li><li><strong>答案：</strong>煮粥 <strong>2</strong>；吉姆出房 <strong>3</strong>；退休 <strong>1</strong> → <span class=\"hl-good\">2, 3, 1</span>。</li></ol>",
+          "answer": [
+            "2, 3, 1"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>问法：</strong>如何知道 Robertson 胃口好。</li><li><strong>范围：</strong>行 34–37。</li><li><strong>证据：</strong>饭菜美味；<em>requested for refills thrice</em>（三次添饭）。</li></ol>",
+          "answer": [
+            "Mr Robertson had a hearty appetite as he was impressed by how scrumptious and delicious the meal was; he requested for refills thrice."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>行 42–43。</li><li><strong>决定：</strong>与公司<strong>签合同</strong>（sign the deal）。</li><li><strong>理由：</strong>感受到家庭的<strong>温情与真诚</strong>（桌上互动、菜肴）。</li><li><strong>书写：</strong>决定 + 一个理由，各写清楚。</li></ol>",
+          "answer": [
+            "The decision was to sign the deal with the company. Mr Roberson felt the warmth and sincerity of the family by the food and how the family interacted."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

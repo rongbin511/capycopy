@@ -1,0 +1,1540 @@
+{
+  "paperid": "p6_english_2025_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Neither Jaspal nor his brother ________ present at the hockey practice earlier.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "Construction of the new classrooms ________ soon and is scheduled to end in March next year.",
+          "options": {
+            "1": "begin",
+            "2": "began",
+            "3": "begins",
+            "4": "has begun"
+          }
+        },
+        "3": {
+          "stem_plain": "She ought to clear up the mess before leaving the classroom for her recess, ________ she?",
+          "options": {
+            "1": "hasn't",
+            "2": "shan't",
+            "3": "couldn't",
+            "4": "shouldn't"
+          }
+        },
+        "4": {
+          "stem_plain": "Had Peter ________ for the briefing yesterday, he would not have missed the talk by the teacher.",
+          "options": {
+            "1": "come",
+            "2": "came",
+            "3": "comes",
+            "4": "coming"
+          }
+        },
+        "5": {
+          "stem_plain": "Angry words passed ________ Shuhui and her angry neighbour as Shuhui had denied breaking the flowerpot.",
+          "options": {
+            "1": "on",
+            "2": "over",
+            "3": "among",
+            "4": "between"
+          }
+        },
+        "6": {
+          "stem_plain": "Please return the Science notes to Caleb and ________ punctually because we need them for our revision.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "mine",
+            "4": "myself"
+          }
+        },
+        "7": {
+          "stem_plain": "________ he win, he will go down in history as the youngest ever world chess master.",
+          "options": {
+            "1": "If",
+            "2": "Since",
+            "3": "Should",
+            "4": "Unless"
+          }
+        },
+        "8": {
+          "stem_plain": "Judging by the football team's outstanding performance last week, there is ________ doubt that they would advance to the semi-finals.",
+          "options": {
+            "1": "any",
+            "2": "few",
+            "3": "little",
+            "4": "much"
+          }
+        },
+        "9": {
+          "stem_plain": "My parents and I were gazing ________ awe at the majestic waterfall.",
+          "options": {
+            "1": "at",
+            "2": "in",
+            "3": "by",
+            "4": "with"
+          }
+        },
+        "10": {
+          "stem_plain": "No sooner had I turned my back on my pet puppy ________ it started chewing on the sofa again.",
+          "options": {
+            "1": "than",
+            "2": "then",
+            "3": "when",
+            "4": "while"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — Neither...nor agreement",
+          "zh": "Jaspal 和他的哥哥都没有出席较早的曲棍球训练。",
+          "note": "Neither...nor 结构中，谓语常与较近的主语一致；较近主语是单数 his brother。",
+          "answer": "3"
+        },
+        "2": {
+          "concept": "主谓一致 — Singular subject + scheduled event",
+          "zh": "新教室的建设很快开始，并计划在明年三月结束。",
+          "note": "主语核心词是 Construction，单数；预定安排可用一般现在时。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "反意疑问句 — Question tag",
+          "zh": "她应该在离开教室去休息前收拾好这团乱，对吗？",
+          "note": "前半句是肯定意义，反意疑问句用否定形式。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "虚拟语气 — third conditional inversion",
+          "zh": "如果 Peter 昨天来了简报会，他就不会错过老师的谈话。",
+          "note": "Had Peter come = If Peter had come，是第三条件句的倒装。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "介词 — Preposition for two parties",
+          "zh": "由于 Shuhui 否认打破花盆，她和愤怒的邻居之间发生了争吵。",
+          "note": "between 用于两方之间；as 引导原因状语从句。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "代词 — Object pronoun",
+          "zh": "请准时把科学笔记还给 Caleb 和我，因为我们复习需要它们。",
+          "note": "介词 to 后用宾格 me。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "条件句 — Conditional inversion",
+          "zh": "如果他赢了，他将作为有史以来最年轻的世界象棋大师载入史册。",
+          "note": "Should he win 是 If he should win 的正式倒装形式。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "量词 — Quantifier in fixed expression",
+          "zh": "从足球队上周的出色表现来看，几乎毫无疑问他们会晋级半决赛。",
+          "note": "little doubt 表示“几乎没有疑问”。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "固定搭配 — Preposition collocation — in + emotion (awe / wonder / horror)",
+          "zh": "我和父母正敬畏地凝视着壮丽的瀑布。",
+          "note": "in awe 是固定搭配，表示带着敬畏或惊叹。",
+          "answer": "2"
+        },
+        "10": {
+          "concept": "固定句型 — No sooner...than",
+          "zh": "我刚背过身离开小狗，它就又开始啃沙发。",
+          "note": "No sooner...than... 表示“一……就……”。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The Ministry of Environment officers shut down that restaurant when it was found to be ________ with cockroaches.",
+          "options": {
+            "1": "inflated",
+            "2": "inflicted",
+            "3": "infected",
+            "4": "infested"
+          }
+        },
+        "12": {
+          "stem_plain": "The passers-by ________ how the accident could have happened since they did not witness it.",
+          "options": {
+            "1": "reflected",
+            "2": "estimated",
+            "3": "concluded",
+            "4": "speculated"
+          }
+        },
+        "13": {
+          "stem_plain": "Although he is the chairman's son, his dishonest act should not be ________ .",
+          "options": {
+            "1": "endorsed",
+            "2": "instigated",
+            "3": "condoned",
+            "4": "prohibited"
+          }
+        },
+        "14": {
+          "stem_plain": "I have decided to ________ my grandparents who are living in Johor to surprise them before I continue my drive to Malacca.",
+          "options": {
+            "1": "call in",
+            "2": "call on",
+            "3": "call over",
+            "4": "call upon"
+          }
+        },
+        "15": {
+          "stem_plain": "After the fire at the shopping mall, most of the shops were ________ beyond recognition.",
+          "options": {
+            "1": "sizzled",
+            "2": "charred",
+            "3": "scalded",
+            "4": "incinerated"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "环境部官员在发现那家餐馆蟑螂成灾后关闭了它。",
+          "note": "应选（4）'infested'：题干语境最宜表达'（有害动物）大量出没；滋生'。'inflated'义为'充气；夸大（价格／数字）'：释义侧重与空格处逻辑不符。'inflicted'义为'造成（伤害、痛苦）'：释义侧重与空格处逻辑不符。'infected'义为'感染（病菌、病毒）'：多用于解析中所述的典型搭配（如疾病、感染等），与本句描写重点不同。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — infested（（有害动物）大量出没；滋生）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "inflated",
+              "zh": "充气；夸大（价格／数字）",
+              "eg": "Stallholders sometimes have <strong>inflated</strong> prices for tourists who do not bargain."
+            },
+            {
+              "opt": "2",
+              "word": "inflicted",
+              "zh": "造成（伤害、痛苦）",
+              "eg": "The cruel words he shouted <strong>inflicted</strong> deep emotional pain on his sister."
+            },
+            {
+              "opt": "3",
+              "word": "infected",
+              "zh": "感染（病菌、病毒）",
+              "eg": "If you touch the wound with dirty hands, it can quickly become <strong>infected</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "infested",
+              "zh": "（有害动物）大量出没；滋生",
+              "eg": "The old shophouse was so <strong>infested</strong> with rats that the owner had to call pest control."
+            }
+          ]
+        },
+        "12": {
+          "zh": "路人没有目睹事故，所以只能推测事故是如何发生的。",
+          "note": "应选（4）'speculated'：题干语境最宜表达'（无确凿证据地）猜测；推测'。解析中强调的关键形式为'speculate'，与正确项一致。'reflected'义为'反射；反映；反思'：释义侧重与空格处逻辑不符。'estimated'义为'估计；估算'：释义侧重与空格处逻辑不符。'concluded'义为'断定；得出结论'：释义侧重与空格处逻辑不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — speculated（（无确凿证据地）猜测；推测）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reflected",
+              "zh": "反射；反映；反思",
+              "eg": "The calm lake <strong>reflected</strong> the snow-capped mountains like a giant mirror."
+            },
+            {
+              "opt": "2",
+              "word": "estimated",
+              "zh": "估计；估算",
+              "eg": "The contractor <strong>estimated</strong> that the renovation would take about three months."
+            },
+            {
+              "opt": "3",
+              "word": "concluded",
+              "zh": "断定；得出结论",
+              "eg": "After examining the evidence, the detective <strong>concluded</strong> that the maid was innocent."
+            },
+            {
+              "opt": "4",
+              "word": "speculated",
+              "zh": "（无确凿证据地）猜测；推测",
+              "eg": "Reporters <strong>speculated</strong> about the cause of the power outage, although no official statement had been made."
+            }
+          ]
+        },
+        "13": {
+          "zh": "虽然他是主席的儿子，他的不诚实行为也不应被纵容。",
+          "note": "应选（3）'condoned'：题干语境最宜表达'宽恕；默许（不当行为）'。解析中强调的关键形式为'condone'，与正确项一致。'endorsed'义为'公开支持；赞同'：释义侧重与空格处逻辑不符。'instigated'义为'煽动；唆使'：释义侧重与空格处逻辑不符。'prohibited'义为'禁止'：语义方向与句意相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — condoned（宽恕；默许（不当行为））",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "endorsed",
+              "zh": "公开支持；赞同",
+              "eg": "The famous footballer <strong>endorsed</strong> a new brand of running shoes in the advertisement."
+            },
+            {
+              "opt": "2",
+              "word": "instigated",
+              "zh": "煽动；唆使",
+              "eg": "The boy <strong>instigated</strong> the quarrel by spreading rumours about his classmate."
+            },
+            {
+              "opt": "3",
+              "word": "condoned",
+              "zh": "宽恕；默许（不当行为）",
+              "eg": "Cheating in examinations cannot be <strong>condoned</strong>, no matter how good a student's results are."
+            },
+            {
+              "opt": "4",
+              "word": "prohibited",
+              "zh": "禁止",
+              "eg": "Eating and drinking are <strong>prohibited</strong> inside the science laboratory at all times."
+            }
+          ]
+        },
+        "14": {
+          "zh": "我决定去探望住在柔佛的祖父母，给他们一个惊喜，然后再继续开车去马六甲。",
+          "note": "应选（2）'call on'：题干语境最宜表达'短暂拜访；登门探望'。'call in'义为'请来（专家／警察）；打电话告知（缺席）'：英语解析已说明其与句意或搭配不符；此处从略。'call over'义为'（大声）叫过来'：释义侧重与空格处逻辑不符。'call upon'义为'正式请求；要求（某人做某事）'：语体、习语或搭配限制使该词不宜填入本空。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — call on（短暂拜访；登门探望）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "call in",
+              "zh": "请来（专家／警察）；打电话告知（缺席）",
+              "eg": "The school had to <strong>call in</strong> a plumber when the burst pipe flooded the toilet."
+            },
+            {
+              "opt": "2",
+              "word": "call on",
+              "zh": "短暂拜访；登门探望",
+              "eg": "We always <strong>call on</strong> our grandmother on the first day of Chinese New Year."
+            },
+            {
+              "opt": "3",
+              "word": "call over",
+              "zh": "（大声）叫过来",
+              "eg": "The coach <strong>called</strong> the captain <strong>over</strong> to discuss the new game plan."
+            },
+            {
+              "opt": "4",
+              "word": "call upon",
+              "zh": "正式请求；要求（某人做某事）",
+              "eg": "The principal <strong>called upon</strong> all teachers to attend the urgent staff meeting."
+            }
+          ],
+          "image": "a14.jpeg"
+        },
+        "15": {
+          "zh": "购物中心火灾后，大多数商店都被烧得面目全非。",
+          "note": "应选（2）'charred'：题干语境最宜表达'烧焦；变成焦黑'。'sizzled'义为'（食物在油里）发出嘶嘶声；煎得发响'：与题干逻辑及英语解析中的辨析不一致。'scalded'义为'（被热水／蒸气）烫伤'：释义侧重与空格处逻辑不符。'incinerated'义为'（彻底）焚烧；化为灰烬'：释义侧重与空格处逻辑不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — charred（烧焦；变成焦黑）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sizzled",
+              "zh": "（食物在油里）发出嘶嘶声；煎得发响",
+              "eg": "The bacon <strong>sizzled</strong> in the hot pan, filling the kitchen with a wonderful smell."
+            },
+            {
+              "opt": "2",
+              "word": "charred",
+              "zh": "烧焦；变成焦黑",
+              "eg": "The forgotten loaf of bread came out of the oven completely <strong>charred</strong> and inedible."
+            },
+            {
+              "opt": "3",
+              "word": "scalded",
+              "zh": "（被热水／蒸气）烫伤",
+              "eg": "He <strong>scalded</strong> his hand on the kettle and had to soak it in cool water."
+            },
+            {
+              "opt": "4",
+              "word": "incinerated",
+              "zh": "（彻底）焚烧；化为灰烬",
+              "eg": "All the contaminated rubbish was <strong>incinerated</strong> at a high temperature to kill any germs."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "spurred",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "compelled",
+            "2": "persuaded",
+            "3": "encouraged",
+            "4": "commanded"
+          }
+        },
+        "17": {
+          "stem_plain": "drift away",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "lose",
+            "2": "stray",
+            "3": "leave",
+            "4": "depart"
+          }
+        },
+        "18": {
+          "stem_plain": "wavered",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "thought",
+            "2": "decided",
+            "3": "trembled",
+            "4": "hesitated"
+          }
+        },
+        "19": {
+          "stem_plain": "utter",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "huge",
+            "2": "great",
+            "3": "entire",
+            "4": "complete"
+          }
+        },
+        "20": {
+          "stem_plain": "fittingly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fittingly",
+            "2": "honestly",
+            "3": "peculiarly",
+            "4": "surprisingly"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "With a twinkle in his eye, Father declared that the most worthy of us all would get a spot in the spectator's seat for the upcoming Liverstool versus Manpester City football friendly match. That [Q16 (spurred)] us to put on our best behaviour that week.",
+          "As the week drew to a close, my two brothers began to [Q17 (drift away)] from their goal. I kept up my good behaviour and went to dispose the rubbish into the big bin outside our house. As I began to replace the lid on the bin, a flash of white on the back of the black lid caught my attention. I [Q18 (wavered)] for a moment, unsure of what to make of it. Then, I lifted the flap of the envelope.",
+          "To my [Q19 (utter)] disbelief, I saw a ticket to the dream match; my hard work had been [Q20 (fittingly)] rewarded! This was a life lesson in responsibility that had stuck with me till today."
+        ],
+        "zh": [
+          "父亲眼里闪着笑意，宣布我们当中表现最值得称赞的人，将获得即将举行的 Liverstool 对 Manpester City 足球友谊赛的观众席位置。这激励我们那一周都拿出最好的表现。",
+          "随着这一周接近尾声，我的两个兄弟开始偏离他们的目标。我继续保持良好行为，并去把垃圾倒进屋外的大垃圾桶。当我正要把垃圾桶盖盖回去时，黑色盖子背面的一道白色闪光吸引了我的注意。我犹豫了一会儿，不知道该如何看待它。",
+          "然后，我掀开信封的封口。令我完全不敢相信的是，我看到了一张梦寐以求的比赛门票；我的努力得到了恰如其分的回报！这是关于责任感的人生一课，一直留在我心中直到今天。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — spurred（鼓励）",
+          "zh": "这激励我们那一周都拿出最好的表现。",
+          "note": "应选（3）'encouraged'：短文划线的 <em>spurred</em> 在此指父亲的话激励大家那一周表现最好。'compelled'义为'迫使'，语气过强，与“激励”不同。'persuaded'义为'说服'，需反复劝说，与父亲宣布奖励的语境不符。'commanded'义为'命令'，过于生硬。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "compelled",
+              "zh": "迫使",
+              "eg": "The coach <strong>compelled</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "persuaded",
+              "zh": "说服",
+              "eg": "The coach <strong>persuaded</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "encouraged",
+              "zh": "鼓励",
+              "eg": "The coach <strong>encouraged</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "commanded",
+              "zh": "命令",
+              "eg": "The coach <strong>commanded</strong> the players after the match."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — drift away（流浪）",
+          "zh": "随着这一周接近尾声，我的两个兄弟开始偏离他们的目标。",
+          "note": "应选（2）'stray'：短文划线的 <em>drift away from their goal</em> 指逐渐偏离目标。'lose'义为'失去'，不强调慢慢偏离的过程。'leave'义为'离开'，与“偏离目标”搭配不当。'depart'义为'出发；离去'，语义不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lose",
+              "zh": "失去",
+              "eg": "In class we discussed how <strong>lose</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "stray",
+              "zh": "流浪",
+              "eg": "In class we discussed how <strong>stray</strong> fits everyday English."
+            },
+            {
+              "opt": "3",
+              "word": "leave",
+              "zh": "离开",
+              "eg": "Her essay used <strong>leave</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "4",
+              "word": "depart",
+              "zh": "出发；启程",
+              "eg": "The flight will <strong>depart</strong> from Changi Airport in fifteen minutes."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — wavered（犹豫）",
+          "zh": "我犹豫了一会儿，不知道该如何看待它。",
+          "note": "应选（4）'hesitated'：短文划线的 <em>wavered</em> 指看到信封后一时拿不定主意。'vacillated'义为'犹豫不决'，与 wavered 接近但非选项；'stumbled''faltered'均侧重身体或说话结巴，与“对白色闪光的疑惑”不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "thought",
+              "zh": "想法",
+              "eg": "In class we discussed how <strong>thought</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "decided",
+              "zh": "决定",
+              "eg": "The coach <strong>decided</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "trembled",
+              "zh": "颤抖",
+              "eg": "The coach <strong>trembled</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "hesitated",
+              "zh": "犹豫",
+              "eg": "The coach <strong>hesitated</strong> the players after the match."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — utter（完全的）",
+          "zh": "令我完全不敢相信的是，我看到了一张梦寐以求的比赛门票。",
+          "note": "应选（4）'complete'：短文划线的 <em>utter</em> 在此强调“完全、彻底”的不敢相信。'absolute''total'义近但非选项；'sheer'侧重“纯粹”，与 utter disbelief 的常见搭配不如 complete。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "huge",
+              "zh": "巨大的",
+              "eg": "Her essay used <strong>huge</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "2",
+              "word": "great",
+              "zh": "伟大的",
+              "eg": "In class we discussed how <strong>great</strong> fits everyday English."
+            },
+            {
+              "opt": "3",
+              "word": "entire",
+              "zh": "全部的",
+              "eg": "In class we discussed how <strong>entire</strong> fits everyday English."
+            },
+            {
+              "opt": "4",
+              "word": "complete",
+              "zh": "完全的",
+              "eg": "Her essay used <strong>complete</strong> in a clear, natural sentence."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — fittingly（配件地）",
+          "zh": "我的努力得到了恰如其分的回报！",
+          "note": "应选（1）'fittingly'：短文划线的 <em>fittingly</em> 指努力得到恰如其分的回报。'honestly'义为'诚实地'，与“回报是否相称”无关。'peculiarly'义为'奇怪地'，与语境相反。'surprisingly'义为'令人惊讶地'，未突出“相称、合适”。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fittingly",
+              "zh": "配件地",
+              "eg": "She answered <strong>fittingly</strong> before the bell rang."
+            },
+            {
+              "opt": "2",
+              "word": "honestly",
+              "zh": "诚实地",
+              "eg": "She answered <strong>honestly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "peculiarly",
+              "zh": "奇特地",
+              "eg": "She answered <strong>peculiarly</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "surprisingly",
+              "zh": "奇怪地",
+              "eg": "She answered <strong>surprisingly</strong> before the bell rang."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "\"Do you sleep enough?\" The question in Text 1 aims to",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "make readers reflect on their sleeping habits",
+            "2": "persuade readers to improve their sleep schedule",
+            "3": "warn the reader about the dangers of sleep deprivation",
+            "4": "emphasise to the reader the importance of sleeping well"
+          }
+        },
+        "22": {
+          "stem_plain": "Why do you think the image in Text 1 is being used in this poster? It is to",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "evoke emotions",
+            "2": "convey a clearer message",
+            "3": "replace the need for words",
+            "4": "introduce Dr Christine Lee"
+          }
+        },
+        "23": {
+          "stem_plain": "According to Text 1, which of the following statements is true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It is natural for teens to be impulsive.",
+            "2": "Teens only need 7 hours of sleep a day.",
+            "3": "A small percentage of teens have sleep-related issues.",
+            "4": "Well-rested teens are more likely to remember what they learn."
+          }
+        },
+        "24": {
+          "stem_plain": "To address our sleep issues, we cannot trust Text 1 because Text 2 states that",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "only doctors can help to fix the problem",
+            "2": "we can manage our sleep issues on our own",
+            "3": "our bodies can repair our tissues throughout the day",
+            "4": "exposure to lights may help our bodies to adapt to a better sleep-wake cycle"
+          }
+        },
+        "25": {
+          "stem_plain": "Both Text 1 and Text 2 agree that",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "sleep is important for our mental health",
+            "2": "keeping to a relaxing bedtime routine is essential",
+            "3": "everyone should have a consistent sleep schedule",
+            "4": "getting enough sleep strengthens our immune system"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "目的 — Purpose of headline question（目的考点）",
+          "breakdown": {
+            "zh": "Text 1 中的问题旨在让读者反思自己的睡眠习惯。",
+            "note": "海报开头用问题直接把读者带入自己的生活。"
+          },
+          "note": "The question <code>Do you sleep enough?</code> directly prompts readers to think about whether their own sleep habits are healthy.",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "题型 — Use of image（题型考点）",
+          "breakdown": {
+            "zh": "Text 1 中的图片用于更清楚地传达信息。",
+            "note": "图片能帮助读者快速理解睡眠不足的状态。"
+          },
+          "note": "The image of a sleep-deprived teenager helps viewers quickly understand the poster's message about lack of sleep.",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "推理 — Detail inference（推理考点）",
+          "breakdown": {
+            "zh": "休息充足的青少年更可能记住所学内容。",
+            "note": "由“sleep-deprived adolescents are less likely to retain new information”反推。"
+          },
+          "note": "Text 1 says sleep-deprived adolescents are less likely to retain new information. Therefore, well-rested teens are more likely to remember what they learn.",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "题型 — Comparing texts（题型考点）",
+          "breakdown": {
+            "zh": "Text 2 表明我们可以自己管理睡眠问题。",
+            "note": "Text 2 给出可自行实践的睡眠习惯建议。"
+          },
+          "note": "Text 1 promotes speaking to a doctor at the clinic, but Text 2 says readers can manage sleep habits through routines and environmental changes.",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "题型 — Common idea（题型考点）",
+          "breakdown": {
+            "zh": "Text 1 和 Text 2 都同意睡眠对心理健康很重要。",
+            "note": "两篇文本都把睡眠与 mental health 联系起来。"
+          },
+          "note": "Text 1 links poor sleep to mental health problems, while Text 2 calls sleep a foundation for physical and mental health.",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "are",
+          "D": "but",
+          "G": "most",
+          "K": "was",
+          "N": "where",
+          "B": "as",
+          "E": "however",
+          "H": "off",
+          "L": "were",
+          "P": "which",
+          "C": "between",
+          "F": "more",
+          "J": "under",
+          "M": "when",
+          "Q": "who"
+        },
+        "cloze": [
+          "Many of you might have played with the popular children's toy, Play-doh, but did you know that it was not originally meant to be a toy? It all began [Q26] Cleo McVicker took over the soap company, Kutol, which was about to go [Q27] in the late 1920s. Together with his brother, Noah, they managed to keep the company afloat. [Q28] Cleo continued to head the company, he managed to close a business deal with the representatives from Kroger, a grocery chain, [Q29] was looking for a wallpaper cleaner to be sold in their stores. Back then, families commonly burned coals to heat up their homes [Q30] it left soot that was difficult to clean off the wallpapers.",
+          "Noah set about to come up with the product and ended up inventing a version of the dough-like substance that children all over the world [Q31] familiar with today. The product was a success as it was easy to use — consumers only needed to roll the dough-like substance across their dirty walls to clean [Q32] the soot and dirt!",
+          "[Q33], it was only much later that it was reinvented as a children's toy. Detergent from the dough [Q34] removed and it was originally only available in white. With the intention to make it [Q35] marketable, it was soon made in red, yellow and blue. Initially named as \"Kutol's Rainbow Modeling Compound\", it was later rebranded into the \"Play-doh\" that we know today."
+        ],
+        "zh": [
+          "你们许多人可能都玩过受欢迎的儿童玩具 Play-doh，但你知道它原本并不是一种玩具吗？ 一切始于 Cleo McVicker 接手肥皂公司 Kutol 的时候，这家公司在 1920 年代末即将倒闭。 他和哥哥 Noah 一起设法让公司维持下去。 当 Cleo 继续领导公司时，他成功与 Kroger 的代表达成一项商业协议；Kroger 是一家杂货连锁店，正在寻找一种可在店内销售的墙纸清洁剂。 当时，家庭通常燃烧煤炭取暖，但煤炭会留下难以从墙纸上清除的煤烟。",
+          "Noah 开始研发这种产品，最终发明了一种像面团一样的物质，也就是今天全世界孩子们都熟悉的东西。 这个产品很成功，因为它使用方便；消费者只需要把这种面团状物质在脏墙上滚动，就能把煤烟和污垢清除掉。",
+          "然而，直到很久以后，它才被重新发明成儿童玩具。 面团里的清洁剂被去除，它最初只有白色。 为了让它更有市场，很快它被做成红、黄、蓝三种颜色。 它最初名为“Kutol 的彩虹塑形混合物”，后来重新命名为我们今天熟知的“Play-doh”。"
+        ]
+      },
+      "answers": {
+        "26": {
+          "concept": "时间连词 — when",
+          "note": "when + 从句：克莱奥接手公司之时。",
+          "answer": "M"
+        },
+        "27": {
+          "concept": "固定短语 — go under",
+          "note": "go under = 倒闭、破产。",
+          "answer": "J — under"
+        },
+        "28": {
+          "concept": "连词 — as",
+          "note": "as he continued = 在他继续掌舵期间。",
+          "answer": "B — as"
+        },
+        "29": {
+          "concept": "关系代词 — which",
+          "note": "修饰 Kroger，which was looking for …",
+          "answer": "P — which"
+        },
+        "30": {
+          "concept": "转折 — but",
+          "note": "烧煤取暖，但会留下煤灰——前后对比。",
+          "answer": "D — but"
+        },
+        "31": {
+          "concept": "主谓一致 — are",
+          "note": "children … are familiar，复数主语用 are。",
+          "answer": "A — are"
+        },
+        "32": {
+          "concept": "短语动词 — off",
+          "note": "clean off = 清除、擦掉。",
+          "answer": "H — off"
+        },
+        "33": {
+          "concept": "转折副词 — however",
+          "note": "然而、不过，引出新情况。",
+          "answer": "E — however"
+        },
+        "34": {
+          "concept": "过去时 — was",
+          "note": "单数主语 + 过去 was。",
+          "answer": "K — was"
+        },
+        "35": {
+          "concept": "比较 — more",
+          "note": "make it more marketable = 更便于营销。",
+          "answer": "F — more"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "I was spring-cleaning one morning and my son was helping. As he [Q36(ramaged)] through boxes and bags, he came across a knotted [Q37(hankecheif)] with an old, dark brown coin nestled inside. \"Mum, can I have this?\" I took one look and was immediately [Q38(transport)] to another time. \"You can play with all your coins, but not this one,\" I said slowly. \"This one's special. I will never see the woman who gave this to me again.\" As I fingered the coin [Q39(gentle)] , a wave of [Q40(nostalgic)] swept over me. \"This coin is worth much more than its [Q41(moniterv)] value.\" My son looked at me strangely and I explained.",
+          "I went on a trip to Nigeria in 1991 and my wallet was pickpocketed on the very first day. With not much cash left, I had to be careful with my [Q42(spent)] .",
+          "One day, an old woman beggar approached me and [Q43(thrast)] her hand in my face. I snapped and vented my frustration on her, screaming at the top of my lungs that my money had been stolen.",
+          "The woman listened attentively and pondered [Q44(through)] my words. Then her face [Q45(krummbled)] into a toothless grin as she reached into the folds of her dress.",
+          "\"Then I will give you money,\" she announced. Kindly, she placed an old, dark brown coin in my palm. I was dumbfounded."
+        ],
+        "zh": [
+          "一天早上我在大扫除，儿子在帮忙。当他在箱子和袋子里翻找时，发现了一条打结的手帕，里面包着一枚旧的深褐色硬币。“妈妈，我可以要这个吗？”我看了一眼，立刻仿佛被带回另一个时代。“你可以玩你所有的硬币，但这枚不行，”我慢慢说道。“这枚很特别。我再也见不到把它给我的那位女人了。”当我轻轻地抚摸那枚硬币时，一阵怀旧之情涌上心头。“这枚硬币的价值远远超过它的金钱价值。”儿子奇怪地看着我，于是我解释起来。",
+          "1991 年，我去尼日利亚旅行，第一天钱包就被扒走了。身上剩下的现金不多，我必须谨慎花钱。",
+          "一天，一位老妇乞丐走向我，把手伸到我面前。我突然发火，把自己的沮丧发泄在她身上，大声尖叫说我的钱被偷了。",
+          "那位女人专心听着，并仔细思考我的话。然后，她的脸皱成一个没牙的笑容，同时把手伸进衣服的褶皱里。",
+          "“那我给你钱，”她宣布。她善良地把一枚旧的深褐色硬币放在我的掌心。我惊呆了。"
+        ]
+      },
+      "answers": {
+        "36": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">ramaged</span> is misspelt. The correct spelling is <span class=\"hl-good\">rummaged</span>.",
+          "answer": "rummaged"
+        },
+        "37": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">hankecheif</span> is misspelt. The correct spelling is <span class=\"hl-good\">handkerchief</span>.",
+          "answer": "handkerchief"
+        },
+        "38": {
+          "concept": "Passive voice",
+          "note": "The subject <code>I</code> was moved back in memory, so use the passive form <span class=\"hl-good\">was transported</span>.",
+          "answer": "transported"
+        },
+        "39": {
+          "concept": "Adverb form",
+          "note": "The word describes how the narrator fingered the coin, so the adverb <span class=\"hl-good\">gently</span> is needed.",
+          "answer": "gently"
+        },
+        "40": {
+          "concept": "Noun form",
+          "note": "After <code>a wave of</code>, a noun is needed: <span class=\"hl-good\">nostalgia</span>.",
+          "answer": "nostalgia"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">moniterv</span> is misspelt. The correct word is <span class=\"hl-good\">monetary</span>, meaning related to money.",
+          "answer": "monetary"
+        },
+        "42": {
+          "concept": "Noun / gerund form",
+          "note": "The phrase is <code>be careful with my <span class=\"hl-good\">spending</span></code>, meaning how much money I used.",
+          "answer": "spending"
+        },
+        "43": {
+          "concept": "Spelling / past tense",
+          "note": "<span class=\"hl-bad\">thrast</span> is misspelt. The correct past-tense form is <span class=\"hl-good\">thrust</span>.",
+          "answer": "thrust"
+        },
+        "44": {
+          "concept": "Phrasal verb",
+          "note": "Fixed phrase: <code>pondered <span class=\"hl-good\">over</span> my words</code>, meaning thought carefully about them.",
+          "answer": "over"
+        },
+        "45": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">krummbled</span> is misspelt. The correct spelling is <span class=\"hl-good\">crumbled</span>.",
+          "answer": "crumbled"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "We all want to get things quickly. We feel that the [Q46] we get them, the better it is for us, because waiting makes us feel impatient. This [Q47] often happens when we want others to do things for us. But if we do these things ourselves, we will find that delays are [Q48].",
+          "When something great is achieved, we only see the success [Q49] makes it special. We do not think about the many years or [Q50] centuries of hard work that led to it. We forget the many failures and the patient effort put in before the [Q51] of the great work.",
+          "Rome became a powerful empire, and its capital city was one of the most famous places in the ancient [Q52]. Even today, it is a well-known city. It is [Q53] to have been built by Remus and Romulus. So many generations helped build the city that by the [Q54] it became rich and powerful, people had forgotten who these brothers were.",
+          "This is not only true for Rome but [Q55] for all of mankind's achievements. When we see a finished product, we may think it is amazing. However, a [Q56] study of all parts of it shows us that there was a lot of patient effort [Q57] it. Poetry or music may seem like it came from sudden inspiration, but a poet needs to observe life and a singer has to train his [Q58]. A painter and a sculptor also need to work hard on their art pieces.",
+          "When we look at the Taj Mahal, we may say it is a dream made of marble. But it was not [Q59] in a day. It took twenty long years to build it, and thousands of workers were [Q60] in its construction.",
+          "So, let's always put effort in everything we do, and never be too impatient when we are working towards our goals."
+        ],
+        "zh": [
+          "我们都想很快得到东西。我们觉得越快得到它们，对我们越有利，因为等待会让我们不耐烦。当我们想要别人替我们做这件事时，这种不耐烦常常出现。但如果我们自己动手，就会发现延误是可以预料的。",
+          "当某项伟大成就出现时，我们只看到那项令人瞩目的成功。我们不会去想为此付出努力的许多年乃至数个世纪的辛勤劳动。我们忘了伟大作品取得成功（51）之前所经历的无数次失败和持之以恒的努力。",
+          "罗马成为一个强大的帝国，其首都曾是古代世界最著名的城市之一。即使今天，它仍是一座知名之城。据说这座城市由瑞摩斯与罗慕路斯所建。许多代人为建设这座城市出力，到它变得富裕强大之时，人们早已忘记了这两位兄弟是谁。",
+          "这不仅适用于罗马，也适用于人类一切成就。当我们看到成品时，可能会觉得它令人惊叹。然而，若仔细研究其各个部分，就会发现背后有大量持之以恒的努力。诗歌或音乐看似源于突如其来的灵感，但诗人需要观察生活，歌手必须训练自己的嗓音。画家和雕塑家也要在艺术品的创作上付出艰辛劳动。",
+          "当我们仰望泰姬陵时，可能会说那是一座大理石铸就的梦。但它并非一日建成。建造它花了整整二十年，成千上万名工人在施工过程中参与其中。",
+          "因此，让我们在做每一件事时都全力以赴，朝着目标努力时切勿过于急躁。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "比较级句型结构",
+          "note": "构成 classical 句型 the + 比较级，the + 比较级，表示“越……就越……”。前文强调现代人凡事都渴望追求速度，故填 faster 或者是 sooner（越快越好）。",
+          "answer": "faster/sooner"
+        },
+        "47": {
+          "concept": "抽象名词语境呼应",
+          "note": "指示代词 This 后面需要接单数名词。前文提到 waiting makes us feel impatient（等待让我们感到不耐烦），此处填入名词形式 impatience 来代指“不耐烦/急躁”这一现象。",
+          "answer": "impatience"
+        },
+        "48": {
+          "concept": "形容词语意对比",
+          "note": "作为表语形容词。前文提到要求别人做事时容易不耐烦，但后面转折指出如果是亲手去做，就会发现延迟其实是“可以预料的”、“正常的”或“不可避免的”（expected / normal / common / inevitable）。",
+          "answer": "expected/normal/common/inevitable"
+        },
+        "49": {
+          "concept": "定语从句关系代词",
+          "note": "限定性定语从句修饰先行词 success（物）。从句中缺少主语，故填入关系代词 that 或 which。",
+          "answer": "that/which"
+        },
+        "50": {
+          "concept": "定冠词并列结构",
+          "note": "与前半句的 the many years 属于平行的并列结构，在 centuries 前面同样需要填入定冠词 the 来特指伴随其间的那些世纪。",
+          "answer": "the"
+        },
+        "51": {
+          "concept": "名词语意承接",
+          "note": "修饰结构 the... of the great work。指在一项伟大作品彻底获得“成功”、“诞生”或“完成”之前，需要付出耐心的努力（success / completion / birth / creation）。",
+          "answer": "success/completion/birth/creation"
+        },
+        "52": {
+          "concept": "名词语意修饰",
+          "note": "与形容词 ancient（古代的）搭配。罗马是古代“世界”、“时代”或“王国”中最著名的地方之一，故填 world / times / empire / kingdom。",
+          "answer": "world/times/empire/kingdom"
+        },
+        "53": {
+          "concept": "被动语态固定报道句型",
+          "note": "属于固定被动句型 It is said to have been... 或 It is believed to have been...，意思是“据说”或“据信”这座城市是由双胞胎兄弟所建。",
+          "answer": "said/believed"
+        },
+        "54": {
+          "concept": "时间复合介词搭配",
+          "note": "完美契合高频时间引导词短语 by the time，意思是“到……的时候”，用以引出后文罗马变得富强的时间线。",
+          "answer": "time"
+        },
+        "55": {
+          "concept": "并列关联词搭配",
+          "note": "与前文的 not only 完美呼应，构成经典关联词短语 not only... but also...（不仅……而且……），用以加强语气。",
+          "answer": "also"
+        },
+        "56": {
+          "concept": "形容词修饰搭配",
+          "note": "修饰名词 study。要看清事物的各个组成部分，必须通过“仔细的”、“深入的”或“认真的”研究，构成 a close/careful/thorough study 结构。",
+          "answer": "close/careful/thorough"
+        },
+        "57": {
+          "concept": "空间与抽象介词搭配",
+          "note": "指无数耐心的努力都蕴藏在最终面世的成品“背后”，填入介词 behind 来揭示成功背后的付出。",
+          "answer": "behind"
+        },
+        "58": {
+          "concept": "名词语境场景搭配",
+          "note": "修饰名词宾语。结合主语 a singer（歌手），说明他必须日复一日地训练他自己的“嗓音”或“技能”（voice / vocals / skills）。",
+          "answer": "voice/vocals/skills"
+        },
+        "59": {
+          "concept": "经典谚语与习语搭配",
+          "note": "完美契合全篇的核心谚语 Rome was not built in a day（罗马非一日建成）。此处主语虽然变成了泰姬陵，但同样使用过去分词 built 来表达“非一日建成”的语意。",
+          "answer": "built"
+        },
+        "60": {
+          "concept": "短语动词被动搭配",
+          "note": "系动词 were 后接过去分词。与后面的介词 in 组合，构成固定短语 be involved in 或 be engaged in，表示成千上万的工人“参与”了它的建造。",
+          "answer": "involved/engaged"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "Peter is the only student in the class who is not going for the excursion.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "All __________"
+        },
+        "62": {
+          "stem_plain": "Alex was considered an accomplice as he had helped to cover up for his friend.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "In __________"
+        },
+        "63": {
+          "stem_plain": "\"Don't worry,\" said Tommy, \"I'll get the work done by tomorrow.\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Tommy told me __________"
+        },
+        "64": {
+          "stem_plain": "The robotic wheelchairs are designed for the elderly folks. The elderly folks come from the welfare homes.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ for whom __________"
+        },
+        "65": {
+          "stem_plain": "I was annoyed when my brother broke my phone.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Much to __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "61": {
+          "concept": "句型转换 — Only → all...other than",
+          "zh": "除了 Peter 之外，班上所有学生都会去远足。",
+          "note": "<code>other than Peter</code> 表示“除了 Peter 以外”。",
+          "answer": "All the students in the class, other than Peter, will be going for the excursion."
+        },
+        "62": {
+          "concept": "句型转换 — In + gerund phrase",
+          "zh": "由于帮助朋友掩盖事实，Alex 被视为同谋。",
+          "note": "<code>In helping...</code> 可表示“在做这件事的过程中 / 因为这样做”。",
+          "answer": "In helping to cover up for his friend, Alex was considered an accomplice."
+        },
+        "63": {
+          "concept": "间接引语 — Reported speech",
+          "zh": "Tommy 告诉我不要担心，因为他会在第二天之前把工作完成。",
+          "note": "直接引语改间接引语时，祈使句用 <code>told + object + not to</code>。",
+          "answer": "Tommy told me not to worry as he would get the work done by the next day."
+        },
+        "64": {
+          "concept": "定语从句 — Relative clause with preposition",
+          "zh": "这些机器人轮椅所服务的老人来自福利院。",
+          "note": "<code>for whom</code> = “为这些人”，用于正式定语从句。",
+          "answer": "The elderly folks for whom the robotic wheelchairs are designed come from the welfare homes."
+        },
+        "65": {
+          "concept": "句型转换 — Much to + noun",
+          "zh": "令我非常恼火的是，我弟弟弄坏了我的手机。",
+          "note": "<code>Much to my + noun</code> 表示“令我非常……的是”。",
+          "answer": "Much to my annoyance, my brother broke my phone."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "How did the author perform in the class test for the first term?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "67": {
+          "stem_plain": "Which four-word phrase in Paragraph 2 shows Mr Soon's impression of the author?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "68": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word",
+              "rows": [
+                "(a) **it** (line 3)",
+                "(b) **it** (line 17)",
+                "(c) **one** (line 26)"
+              ]
+            },
+            "refers_to": {
+              "header": "What it refers to",
+              "rows": [
+                "[Q68a]",
+                "[Q68b]",
+                "[Q68c]"
+              ]
+            }
+          }
+        },
+        "69": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "The author was sent to the principal's office.",
+            "The principal looked through selected report books.",
+            "The principal became angry."
+          ]
+        },
+        "70": {
+          "stem_plain": "Explain what the author meant by **'so I took a risk'** (line 22) when he was choosing the cane.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "71": {
+          "stem_plain": "For each situation below, state how the author felt at that moment.",
+          "marks": 3,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "situation",
+              "authors_emotion",
+              "evidence_from_passage"
+            ],
+            "situation": {
+              "header": "Situation",
+              "rows": [
+                "(a) The author was walking back to the class with the cane in his hand.",
+                "(b) The author heard his principal call, **'Next'**.",
+                "(c) The author received his Preliminary Examination results."
+              ]
+            },
+            "authors_emotion": {
+              "header": "The author's emotion (in a word)",
+              "rows": [
+                "[Q71a]",
+                "[Q71c]",
+                "[Q71e]"
+              ]
+            },
+            "evidence_from_passage": {
+              "header": "Evidence from the passage",
+              "rows": [
+                "[Q71b]",
+                "[Q71d]",
+                "[Q71f]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "State two examples from the passage that showed that the pain on the author's buttocks was unbearable.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "Example 1: [Q72a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "Example 2: [Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The principal looked through all the students' report books termly.",
+                "(b) The author was the only student punished that day.",
+                "(c) The boys feared the principal the moment they saw him."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]",
+                "[Q73e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]",
+                "[Q73f]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Explain clearly what you can tell about Major John from the way he described the cane as a **'magic wand'**.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Explain how the author's life changed after he was given one stroke of the cane.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "It was soon after the results of the class test for the first term had been compiled. I did badly in",
+          "2": "the test, not unexpectedly. During the December holidays, my family shifted home to Pasir Ris.",
+          "3": "**It** was somewhat a disaster that affected my education, especially when I was taking the PSLE at",
+          "4": "the end of the year. There was too much fun for boys of my age there, from swimming, catching",
+          "5": "spiders, cycling to mischievous exploits of one sort or another.",
+          "6": "My teacher, Mr Soon, was a genial person who was not very keen to use the rod. However, he",
+          "7": "wrote four words in my report book and they told it all: \"Can work but lazy.\" It was the system then",
+          "8": "that principals would go round to each class and randomly take a look at the report books. The",
+          "9": "principal, Major John, was a retired army officer. He was about 1.8 metres tall, slim, slightly hunched",
+          "10": "and wore a thick moustache that seemed to cover his entire lip. His appearance would send shivers",
+          "11": "down the students' spines; especially if they did not meet his expectations.",
+          "12": "On that fateful afternoon, Major John sat on the teacher's chair and went through the report books",
+          "13": "of the 'lucky ones' in the class. For some odd reason, my report book was on top of the pile. Then",
+          "14": "I heard my name. His voice boomed across the room, \"So, you can work, but you are lazy?\" That",
+          "15": "question did not call for a reply. \"My boy,\" the principal bawled, \"go to my office. Next to my desk is",
+          "16": "a wooden cabinet. Open it. Hanging on the cabinet door, find the magic wand you like best and",
+          "17": "bring **it** back to me.\"",
+          "18": "I did not need any prodding. I stepped out of my class and headed to his office with my heart in",
+          "19": "my mouth. In the wooden cabinet, I found six canes of various thickness, from the width of one's",
+          "20": "smallest finger to one's fat thumb. What a decision to make. How I wished the ground would open",
+          "21": "that very moment and gobble up the whole school. I had heard from other mischievous boys that the",
+          "22": "thicker the cane, the less the pain, **so I took a risk**. I walked back to class, stroking the cane which",
+          "23": "I knew would soon whip my buttocks, but what I could not guess was the number of strokes I would",
+          "24": "be given.",
+          "25": "By the time I returned to class, there were about seven others who had formed a line, all having",
+          "26": "'qualified' to experience the 'magic wand'. I was the **one** invited to take the dreaded spot first, bend",
+          "27": "down and touch my toes. Then like a first-rate magician, the principal brought the cane down on my",
+          "28": "buttocks. I almost fainted though I held back the beady tears.",
+          "29": "At that instance, Major John called, \"Next.\" It was music to my ears. I walked back to my desk.",
+          "30": "When I sat on the hard wooden chair, I shot back up into the air. Instinctively, I pressed my hands",
+          "31": "on the seat and pretended to sit, remaining in that position till the pain subsided.",
+          "32": "That one stroke of the 'magic wand' changed my life. All my extracurricular activities around the",
+          "33": "neighbourhood were put on hold. It was study, study, study, homework, homework and homework",
+          "34": "almost round the clock.",
+          "35": "When the results of the Preliminary Examination came in, there was nothing in it to make me",
+          "36": "qualify for another stroke. If Major John had not used the wand on me, I would have ended up as a",
+          "37": "dropout and my life would have been ruined. Deep in my heart, I am totally grateful to him for",
+          "38": "performing his magic."
+        },
+        "paragraphs": {
+          "1": "第一学期测验结果公布后不久，我不出所料地考砸了。十二月假期期间，我们家搬到了巴西立。搬家对我的学业来说简直是一场灾难，尤其是当时我正面临年末的小六会考（PSLE）。那里对像我这个年纪的男孩子来说诱惑太多了，从游泳、捉蜘蛛到骑车出游，还有各种各样的顽皮捣蛋。",
+          "6": "我的老师孙先生（Mr Soon）为人友善，不太喜欢体罚。然而，他在我的成绩册上写下了四个字，说明了一切：“能做但懒”。当时的制度规定，校长会巡视各班并随机查看成绩册。校长约翰少校（Major John）是一名退伍军官。他身高约1.8米，身材瘦削，略微驼背，留着浓密的胡须，似乎盖住了整个嘴唇。他的外表会让学生们不寒而栗，尤其是如果他们没有达到他的期望时。",
+          "12": "在那个决定命运的下午，约翰少校坐在老师的椅子上，翻阅着班里那些“幸运儿”的成绩册。出于某种奇怪的原因，我的成绩册正好在最上面。接着我听到了我的名字。他的声音响彻整个教室：“所以，你是有能力做，但你偷懒？” 这个问题并不需要回答。“孩子，”校长吼道，“去我办公室。我办公桌旁有一个木柜。打开它。在柜门上找一根你最喜欢的‘魔法棒’，带回来给我。”",
+          "18": "我不需要任何催促。我走出教室，心惊胆战地走向他的办公室。在那个木柜里，我发现了六根粗细不一的长藤条，从指头粗到大拇指粗都有。这真是一个艰难的决定。那一刻我真希望地面能裂开，把整座学校吞没。我听其他调皮的男生说过，藤条越粗痛感越轻，于是我冒险选了粗的那根。我走回教室，抚摸着这根很快就会落在我屁股上的藤条，但我无法预料自己会被打多少下。",
+          "25": "当我回到教室时，已经有另外大约七个人排成了队，他们都“够格”体验这根“魔法棒”了。我被要求排在第一个害怕的位置，弯下腰，手碰脚趾。接着，校长像一位一流的魔术师一样，挥动藤条重重地落在我的屁股上。虽然我忍住了泪水，但还是差点晕过去。",
+          "29": "就在那一瞬间，约翰少校喊道：“下一个。” 这对我来说简直是天籁之音。我走回座位，当我坐在坚硬的木椅上时，我立刻弹了起来。我下意识地用手撑住座位假装坐着，保持那个姿势直到疼痛消退。",
+          "32": "那一下“魔法棒”改变了我的人生。我所有在邻里间的课外活动都停止了。取而代之的是没完没了的学习、学习、学习，还有几乎全天候的家庭作业。",
+          "35": "当预考结果出来时，我的成绩再也不需要挨那一棍子了。如果约翰少校当时没有对我使用那根“魔法棒”，我可能最终会辍学，人生也会毁掉。在我内心深处，我非常感激他施展的这份“魔法”。"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>直接细节题——问第一学期班级测验表现，用完整句回答（1 分）。</li><li><strong>段落范围：</strong>开篇行 <strong>1–2</strong>（成绩公布、作者自评）。</li><li><strong>关键词：</strong>题干 <em>perform</em>、<em>class test for the first term</em>。</li><li><strong>证据：</strong>行 1 <em>results … had been compiled</em>；行 1–2 <span class=\"hl-good\">I did badly in the test, not unexpectedly</span>——考得差，且不出所料。</li><li><strong>组织答案：</strong>The author performed badly …（可照抄 <em>did badly</em> + <em>not unexpectedly</em>）。</li><li><strong>失分点：</strong>写搬家、藤条或 PSLE 结果（尚未写到）；只写 <em>bad</em> 未点明是 class test。</li></ol>",
+          "answer": [
+            "The author performed badly in the class test, not unexpectedly."
+          ],
+          "type": "comprehension"
+        },
+        "67": {
+          "concept": "词汇摘取题",
+          "note": "<ol><li><strong>题型：</strong>在<strong>第二段</strong>找<strong>四个词</strong>的短语，体现 Mr Soon 对作者的印象（1 分）。</li><li><strong>段落范围：</strong>Paragraph 2 = 行 <strong>6–11</strong>（Mr Soon 评语与 Major John 外貌）；评语在行 7–8。</li><li><strong>定位：</strong>行 7–8 <em>wrote four words in my report book</em> → 四字评语即印象。</li><li><strong>答案：</strong><span class=\"hl-good\">Can work but lazy</span>（能读书但懒惰）——恰好四个词，须按原文抄写（含引号与否依卷面）。</li><li><strong>失分点：</strong>抄 <em>magic wand</em>、<em>shivers</em> 等校长相关句；抄超过四个词的句子。</li><li><strong>书写提示：</strong>只写该四字短语，勿加解释。</li></ol>",
+          "answer": [
+            "\"Can work but lazy.\""
+          ],
+          "type": "comprehension"
+        },
+        "68": {
+          "concept": "指代题",
+          "note": "<ol><li><strong>题型：</strong>指代表——左栏词在文中指什么；右栏用短语概括（3 分）。</li><li><strong>填表顺序：</strong>(a)→(b)→(c)，与 <code>answer</code> 三行一致。</li><li><strong>(a) it（行 3）：</strong>行 2–4 <em>my family shifted home to Pasir Ris</em>；行 3–4 <em>It was somewhat a disaster that affected my education</em> → <em>it</em> = <strong>搬家到 Pasir Ris</strong>这件事。</li><li><strong>(b) it（行 17）：</strong>行 15–17 去办公室、<em>next to my desk is a wooden cabinet. Open it</em> → <em>it</em> = <strong>校长桌旁的木柜</strong>。</li><li><strong>(c) one（行 26）：</strong>行 25–26 <em>I was the one invited to take the dreaded spot first</em> → <em>one</em> 指<strong>第一个受罚的位置 / the dreaded spot</strong>（卷面答案亦接受指'第一个被点名的学生'若与句意紧扣）。</li><li><strong>失分点：</strong>两个 <em>it</em> 答混；把 <em>one</em> 写成'一根藤条'。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "68a": "(a) The family's shifting of home to Pasir Ris.",
+            "68b": "(b) The wooden cabinet next to the principal's desk.",
+            "68c": "(c) The dreaded spot / the first position to be caned."
+          }
+        },
+        "69": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>题型：</strong>在三句前填 <strong>1、2、3</strong>，表示事件在故事中的<strong>发生先后</strong>（1 分）。</li><li><strong>段落范围：</strong>行 <strong>12–17</strong>（校长查成绩册 → 质问 → 派去办公室取藤条）。</li><li><strong>时间线：</strong>① 校长翻看被选中的成绩册（行 12–13）；② 看到评语后生气、质问（行 14–15）；③ 作者被派去办公室取'魔杖'（行 15–17）。</li><li><strong>对应填空：</strong>'The principal looked through …'→ <span class=\"hl-good\">1</span>；'The principal became angry'→ <span class=\"hl-good\">2</span>；'The author was sent to the principal's office'→ <span class=\"hl-good\">3</span>；故答案串为 <strong>3, 1, 2</strong>（按卷面三行顺序填写）。</li><li><strong>失分点：</strong>把'去办公室'排在'查册'之前；与 Q68 指代题混淆。</li></ol>",
+          "answer": [
+            "3, 1, 2"
+          ],
+          "type": "comprehension"
+        },
+        "70": {
+          "concept": "短语释义题",
+          "note": "<ol><li><strong>题型：</strong>解释作者说 <em>so I took a risk</em> 的含义（2 分）——须说明<strong>冒了什么险</strong>。</li><li><strong>段落范围：</strong>行 <strong>19–23</strong>（在柜中选藤条）。</li><li><strong>背景：</strong>须选一根藤条让校长打自己；行 21–22 听其他男生说<strong>藤条越粗越不痛</strong>。</li><li><strong>含义：</strong><em>took a risk</em> = 在<strong>不确定</strong>传闻是否属实的情况下，仍<strong>冒险选较粗</strong>的藤条，希望少痛一些。</li><li><strong>组织答案：</strong>须含：要选 cane + 听说 thick = less pain + 故选粗的但不知真假。</li><li><strong>失分点：</strong>只写'害怕'未解释 risk；写成搬家或预考。</li></ol>",
+          "answer": [
+            "The author had to choose a cane and had heard that the thicker cane would hurt less, so he chose the thicker cane even though he was unsure whether that claim was true."
+          ],
+          "type": "comprehension"
+        },
+        "71": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>题型：</strong>表格——每行写<strong>一词</strong>概括情绪 + <strong>文中证据</strong>（3 行 × 1 分）。</li><li><strong>填表顺序：</strong>行优先：每行先填 Emotion，再填 Evidence；<code>answer</code> 为六段字符串交替。</li><li><strong>(a) 持藤条回班（行 24–26）：</strong>情绪 <span class=\"hl-good\">Terrified</span>（害怕）；依据：知即将挨打、不知挨几下（行 22–23、25–26）。</li><li><strong>(b) 听见 “Next”（行 28）：</strong><span class=\"hl-good\">Relieved</span> / Happy；依据：<em>It was music to my ears</em>——自己的鞭打结束。</li><li><strong>(c) 收到预考成绩（行 34–35）：</strong><span class=\"hl-good\">Relieved</span>；依据：<em>nothing in it to make me qualify for another stroke</em>——不会再挨打。</li><li><strong>失分点：</strong>证据与情绪不对应；证据过长未引用关键词。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "Terrified",
+            "71b": "The author knew the cane would soon whip his buttocks, but what he could not guess was the number of strokes he would be given.",
+            "71c": "Relieved / Happy",
+            "71d": "\"It was music to my ears.\" His own caning was over.",
+            "71e": "Relieved",
+            "71f": "\"There was nothing in it to make me qualify for another stroke.\""
+          }
+        },
+        "72": {
+          "concept": "列举题",
+          "note": "<ol><li><strong>题型：</strong>摘录<strong>两个</strong>例子，说明臀部疼痛<strong>难以忍受</strong>（2 分）。</li><li><strong>段落范围：</strong>行 <strong>27–30</strong>（挨打当下与回座）。</li><li><strong>例一：</strong>行 27 <em>I almost fainted though I held back the beady tears</em>——几乎晕倒仍强忍眼泪。</li><li><strong>例二：</strong>行 29–30 坐硬木椅 <em>shot back up into the air</em>，只能双手撑椅'假坐'——因臀部剧痛无法落座。</li><li><strong>失分点：</strong>写'Next'或学习改变（非疼痛）；两个例子同义重复。</li><li><strong>书写提示：</strong>尽量引用原句或关键分句。</li></ol>",
+          "answer": {
+            "72a": "I almost fainted though I held back the beady tears.",
+            "72b": "When I sat on the hard wooden chair, I shot back up into the air."
+          }
+        },
+        "73": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误 + 一句依据（3 行）。</li><li><strong>(a) False：</strong>题干 <em>all … termly</em> 夸大；行 8–9 校长是到各班<strong>随机</strong>翻看（<em>randomly take a look</em>），非每学期全体成绩册。</li><li><strong>(b) False：</strong>行 24–25 回班时约 <em>seven others</em> 也排队等候'魔杖'——非仅作者一人受罚。</li><li><strong>(c) True：</strong>行 10–11 <em>His appearance would send shivers down the students' spines</em>——男生一见校长就害怕。</li><li><strong>书写提示：</strong>理由须含 <em>randomly</em> / <em>seven others</em> / <em>shivers</em> 等可核对词。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "False",
+            "73b": "It was the system then that principals would go round to each class and randomly take a look at the report books",
+            "73c": "False",
+            "73d": "By the time the author returned to class, there were about seven others who had formed a line, all having 'qualified' to experience the 'magic wand'",
+            "73e": "True",
+            "73f": "His appearance would send shivers down the students' spines"
+          }
+        },
+        "74": {
+          "concept": "推断题",
+          "note": "<ol><li><strong>题型：</strong>根据校长把藤条称为 <em>magic wand</em>，推断 Major John 是怎样的人（2 分，可多面）。</li><li><strong>段落范围：</strong>行 <strong>15–17</strong>（吩咐取藤条）、结合全文体罚语气。</li><li><strong>幽默一面：</strong>把惩罚工具说成'魔杖'，带<strong>玩笑/讽刺</strong>口吻（<span class=\"hl-good\">sense of humour</span>）。</li><li><strong>严厉一面：</strong>实则用以鞭打学生，且下文疼痛剧烈——对体罚<strong>态度轻率或冷酷</strong>（<span class=\"hl-good\">stern / cold-hearted</span>）。</li><li><strong>组织答案：</strong>至少写两面（幽默 + 严厉/冷酷），各用一句支撑。</li><li><strong>失分点：</strong>只写'凶'未扣 <em>magic wand</em> 措辞；只写幽默忽略体罚后果。</li></ol>",
+          "answer": [
+            "Major John had a sense of humour because he jokingly called the cane a \"magic wand\". He also seemed stern or cold-hearted because he treated caning lightly even though it caused great pain."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "变化说明题",
+          "note": "<ol><li><strong>题型：</strong>说明挨<strong>一鞭</strong>后作者生活如何改变（2 分）——行为 + 结果。</li><li><strong>段落范围：</strong>行 <strong>31–37</strong>（鞭后专心读书 → 预考 → 感激）。</li><li><strong>行为改变：</strong>行 31–33 邻里课外活动 <em>put on hold</em>，几乎 <em>study, study, study</em> 与 homework 连轴转。</li><li><strong>结果：</strong>行 34–36 预考成绩<strong>不会再</strong>让他'达标'挨第二顿；作者认为否则可能辍学，人生被毁掉。</li><li><strong>组织答案：</strong>先写停玩乐、拼命读书；再写成绩好转、避免辍学。</li><li><strong>失分点：</strong>只写挨打过程；未写鞭<strong>之后</strong>的改变。</li></ol>",
+          "answer": [
+            "After the caning, the author stopped his extracurricular activities around the neighbourhood and focused almost entirely on studying and homework. His results improved and he avoided becoming a dropout."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

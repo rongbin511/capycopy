@@ -1,0 +1,1165 @@
+{
+  "paperid": "p6_english_2019_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Uncle Peter mistook Lina's umbrella for __________ as the two looked alike.",
+          "options": {
+            "1": "his",
+            "2": "her",
+            "3": "hers",
+            "4": "himself"
+          }
+        },
+        "2": {
+          "stem_plain": "With __________ effort having gone into the preparations, James is sure the event will be a success.",
+          "options": {
+            "1": "each",
+            "2": "much",
+            "3": "many",
+            "4": "several"
+          }
+        },
+        "3": {
+          "stem_plain": "\"As soon as the clock in front of you __________ eleven, you must stop writing,\" instructed the teacher.",
+          "options": {
+            "1": "strike",
+            "2": "struck",
+            "3": "strikes",
+            "4": "has struck"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Tom gave up looking just as I said he would, __________?\" Geetha asked.",
+          "options": {
+            "1": "didn't he",
+            "2": "hasn't he",
+            "3": "hadn't he",
+            "4": "wouldn't he"
+          }
+        },
+        "5": {
+          "stem_plain": "__________ the time Peixin was two, she was able to speak in complete sentences.",
+          "options": {
+            "1": "In",
+            "2": "After",
+            "3": "Upon",
+            "4": "From"
+          }
+        },
+        "6": {
+          "stem_plain": "\"I __________ running all my life and will continue to run for as long as my health allows me!\" the old man declared.",
+          "options": {
+            "1": "loved",
+            "2": "am loving",
+            "3": "have loved",
+            "4": "will have loved"
+          }
+        },
+        "7": {
+          "stem_plain": "Rashida refused to settle for anything __________ than perfection.",
+          "options": {
+            "1": "less",
+            "2": "more",
+            "3": "fewer",
+            "4": "greater"
+          }
+        },
+        "8": {
+          "stem_plain": "He is highly sought after, having helped several singers like Damien Fong __________ a successful career in music.",
+          "options": {
+            "1": "launch",
+            "2": "launches",
+            "3": "launched",
+            "4": "launching"
+          }
+        },
+        "9": {
+          "stem_plain": "These days, the number of people who do their shopping online __________ on the rise.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Let's go cycling at the park. We can rent bicycles by __________ hour,\" Selvi said.",
+          "options": {
+            "1": "an",
+            "2": "the",
+            "3": "any",
+            "4": "one"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "note": "“his” 在这里是名词性物主代词，相当于 “his umbrella”，表示“他自己的雨伞”。",
+          "concept": "名词性物主代词 — Possessive Pronouns",
+          "zh": "彼得叔叔把莉娜的雨伞误认为是他的了，因为这两把伞看起来很像。",
+          "answer": "1"
+        },
+        "2": {
+          "note": "“effort”（努力/心血）在此处作为不可数名词，因此需要使用修饰不可数名词的量词 “much”。",
+          "concept": "不可数名词的修饰语 — Quantifiers with Uncountable Nouns",
+          "zh": "投入了这么多精力进行准备，詹姆斯确信这次活动一定会取得成功。",
+          "answer": "2"
+        },
+        "3": {
+          "note": "在 “as soon as” 引导的时间状语从句中，主句若表达将来或带有命令口吻（must），从句要用一般现在时表将来。主语 “the clock” 为第三人称单数，动词用 “strikes”。",
+          "concept": "时间状语从句的主将从现 — Time Clauses — Present tense for future",
+          "zh": "“你们面前的时钟一敲响十一点，你们就必须停止书写，”老师命令道。",
+          "answer": "3"
+        },
+        "4": {
+          "note": "反意疑问句遵循“前肯定后否定”的原则。主句的核心动词是过去式肯定形式 “gave up”，因此反意疑问部分使用过去式否定助动词 “didn't he”。",
+          "concept": "反意疑问句 — Question Tags — Past Simple",
+          "zh": "“汤姆正如我说的那样放弃了寻找，不是吗？”吉莎问。",
+          "answer": "1"
+        },
+        "5": {
+          "note": "“From the time...” 意为“从……的时候起”。这里指从培欣两岁那时候起，她就能用完整的句子说话了。",
+          "concept": "时间介词短语 — Prepositions of Time — From the time",
+          "zh": "从培欣两岁起，她就能够用完整的句子说话了。",
+          "answer": "4"
+        },
+        "6": {
+          "note": "“all my life” 强调动作从过去一直延续到说话的现在，并且在未来还可能继续（从后面的 “will continue” 可知），因此使用现在完成时 “have loved”。",
+          "concept": "现在完成时 — Present Perfect Tense",
+          "zh": "“我一生都热爱跑步，只要我的身体健康允许，我就会继续跑下去！”这位老人宣布道。",
+          "answer": "3"
+        },
+        "7": {
+          "note": "固定搭配 “nothing less than” 或 “anything less than”，在这里 “less than perfection” 表示“达不到完美、次于完美”。全句意思是她绝不将就于任何不完美的事物。",
+          "concept": "比较级固定搭配 — Comparative Phrases — less than",
+          "zh": "拉希达拒绝向任何达不到完美标准的事物妥协。",
+          "answer": "1"
+        },
+        "8": {
+          "note": "动词 help 的固定用法为 “help somebody (to) do something”，即后接不带 to 的动词不定式（动词原形）或带 to 的不定式。选项中 “launch” 为动词原形。",
+          "concept": "非谓语动词 — Verbs followed by bare infinitives — help sb do",
+          "zh": "他非常受欢迎，曾帮助过包括方达明在内的几位歌手开启了成功的音乐生涯。",
+          "answer": "1"
+        },
+        "9": {
+          "note": "本题考查主谓一致。“the number of + 复数名词” 的核心主语是 “the number”（数量），属于单数概念，因此谓语动词用单数。根据时间状语 “These days” 可知应用一般现在时，故选 “is”。",
+          "concept": "主谓一致 — Subject-Verb Agreement — The number of vs A number of",
+          "zh": "如今，网上购物的人数正在上升。",
+          "answer": "1"
+        },
+        "10": {
+          "note": "“by the hour” 是固定计量单位的表达方式，意为“按小时（计费/计算）”。类似的表达还有 “by the day”（按天）、“by the kilo”（按公斤）。",
+          "concept": "定冠词的特殊用法 — Definite Article — by the + unit",
+          "zh": "“我们去公园骑自行车吧。我们可以按小时租自行车，”塞尔维说。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "When Irfan ________ to Secondary One, it took him some time to get used to the new school routine.",
+          "options": {
+            "1": "moved in",
+            "2": "moved up",
+            "3": "moved over",
+            "4": "moved along"
+          }
+        },
+        "12": {
+          "stem_plain": "The speaker should use the microphone to ________ her voice as the audience at the back can hardly hear her.",
+          "options": {
+            "1": "fortify",
+            "2": "amplify",
+            "3": "magnify",
+            "4": "intensify"
+          }
+        },
+        "13": {
+          "stem_plain": "No one knew who donated the huge amount of money as the donor chose to be ________.",
+          "options": {
+            "1": "obscure",
+            "2": "indistinct",
+            "3": "ambiguous",
+            "4": "anonymous"
+          }
+        },
+        "14": {
+          "stem_plain": "Margaret feels that the greatest ________ of living in a big city is the pollution.",
+          "options": {
+            "1": "burden",
+            "2": "obstacle",
+            "3": "drawback",
+            "4": "weakness"
+          }
+        },
+        "15": {
+          "stem_plain": "The shopkeeper ________ the customer's request for an exchange as the product was defective.",
+          "options": {
+            "1": "acceded to",
+            "2": "conceded to",
+            "3": "proceeded with",
+            "4": "succeeded with"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "note": "短语动词“moved up”在这里表示“升学、升入更高年级”，非常符合从小学升入中学一年级（Secondary One）的语境。",
+          "zh": "当伊尔凡升入中学一年级时，他花了一些时间才适应新的学校作息。",
+          "concept": "短语动词 Phrasal Verbs",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "moved in",
+              "zh": "搬进，入住（指搬到新的住处或办公室）",
+              "eg": "Our new neighbors moved in just last weekend."
+            },
+            {
+              "opt": "2",
+              "word": "moved up",
+              "zh": "升职，升学（指在学校升入更高年级或在工作中获得晋升）",
+              "eg": "Students will move up to the next grade at the start of the new year."
+            },
+            {
+              "opt": "3",
+              "word": "moved over",
+              "zh": "挪过去，让位（指挪动位置以腾出空间给别人）",
+              "eg": "Could you move over a little so that I can sit down?"
+            },
+            {
+              "opt": "4",
+              "word": "moved along",
+              "zh": "向前移动，走开（常用于有组织地向前移动，或警察让行人不要围观）",
+              "eg": "The security guard asked the crowd to move along to keep the exit clear."
+            }
+          ],
+          "image": "a11.jpeg"
+        },
+        "12": {
+          "zh": "演讲者应该使用麦克风来放大她的声音，因为后面的听众几乎听不到她的声音。",
+          "note": "“amplify”专指“放大声音”，与前文的“use the microphone（使用麦克风）”和后文的“hardly hear her（几乎听不到）”形成完美的动作对应。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fortify",
+              "zh": "筑防于，增强（通常指加固防御工事，或通过添加营养物来增强体质）",
+              "eg": "The vitamins are added to the cereal to fortify it with essential nutrients."
+            },
+            {
+              "opt": "2",
+              "word": "amplify",
+              "zh": "放大，增强（特指通过电子设备放大声音、信号或电能等）",
+              "eg": "Electric guitars use electronic devices to amplify their natural sound."
+            },
+            {
+              "opt": "3",
+              "word": "magnify",
+              "zh": "放大，夸大（指通过透镜使物体看起来比实际大，或夸大某种现象）",
+              "eg": "A magnifying glass is used to magnify tiny details on the ancient coin."
+            },
+            {
+              "opt": "4",
+              "word": "intensify",
+              "zh": "加剧，增强（指力量、情感或程度变得更加强烈或剧烈）",
+              "eg": "The dark clouds and strong winds served to intensify the storm."
+            }
+          ]
+        },
+        "13": {
+          "zh": "没有人知道是谁捐赠了这笔巨款，因为捐赠者选择保持匿名。",
+          "note": "由前文“No one knew who donated...（没有人知道是谁捐赠的）”可以判定，捐赠者隐瞒了姓名，故选“anonymous（匿名的）”。",
+          "concept": "词汇-语境线索 Vocabulary-Contextual Clues",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "obscure",
+              "zh": "模糊的，默默无闻的（指事物含义不清楚，或人不出名）",
+              "eg": "The origins of this ancient traditional custom remain obscure."
+            },
+            {
+              "opt": "2",
+              "word": "indistinct",
+              "zh": "不清楚的，模糊的（指声音、图像或轮廓听不清或看不清）",
+              "eg": "I heard an indistinct murmur of voices from the room next door."
+            },
+            {
+              "opt": "3",
+              "word": "ambiguous",
+              "zh": "模棱两可的，含糊不清的（指一句话或一个表达有多种理解方式）",
+              "eg": "The teacher gave an ambiguous answer, leaving the students confused."
+            },
+            {
+              "opt": "4",
+              "word": "anonymous",
+              "zh": "匿名的，不知名的（指不公开姓名、身份或来源的）",
+              "eg": "The school received a generous donation from an anonymous benefactor."
+            }
+          ]
+        },
+        "14": {
+          "zh": "玛格丽特觉得在大城市生活最大的缺点就是污染。",
+          "note": "“pollution（污染）”是属于大城市生活带来的不好的特征或负面面，用“drawback（缺点、不利条件）”来描述最为准确。",
+          "concept": "词汇辨析 Vocabulary-Word Choice",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "burden",
+              "zh": "负担，重担（指沉重的责任、开支或精神压力）",
+              "eg": "The cost of college tuition has become a heavy burden for many families."
+            },
+            {
+              "opt": "2",
+              "word": "obstacle",
+              "zh": "障碍，绊脚石（指阻碍事情进展或让人难以达到目标的具体或抽象事物）",
+              "eg": "A lack of funding was the main obstacle to finishing the research project."
+            },
+            {
+              "opt": "3",
+              "word": "drawback",
+              "zh": "缺点，不利条件（指某事物或某种处境中让人不满意、有害处的特征）",
+              "eg": "One major drawback of this apartment is that it is far from the train station."
+            },
+            {
+              "opt": "4",
+              "word": "weakness",
+              "zh": "软弱，缺点（指人性格上的弱点，或体系、事物最脆弱的部分）",
+              "eg": "Being overly sensitive is considered to be his primary character weakness."
+            }
+          ]
+        },
+        "15": {
+          "zh": "由于产品有缺陷，店主同意了顾客的退换货要求。",
+          "note": "“acceded to”意为“同意（某人的请求/要求）”。因为商品有缺陷（defective），店主答应顾客退换货（request for an exchange）的做法合情合理，搭配最为贴切。",
+          "concept": "动词短语搭配 Phrasal Verbs",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "acceded to",
+              "zh": "同意，应允（指在他人请求或要求后表示同意或准许，多用于正式场合）",
+              "eg": "The government finally acceded to the public demands for tax reform."
+            },
+            {
+              "opt": "2",
+              "word": "conceded to",
+              "zh": "让步，承认（指不情愿地承认某事属实或在辩论、斗争中让步）",
+              "eg": "He was forced to concede to his opponent after losing the major argument."
+            },
+            {
+              "opt": "3",
+              "word": "proceeded with",
+              "zh": "继续进行（指在停顿或做完一件事后，开始或继续进行下一项活动）",
+              "eg": "After answering a few questions, the lecturer proceeded with the lesson."
+            },
+            {
+              "opt": "4",
+              "word": "succeeded with",
+              "zh": "在……方面取得成功（指在某项活动中获得了预期的成功结果）",
+              "eg": "The team succeeded with their new marketing strategy, boosting sales."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "figure out",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "reveal",
+            "2": "unravel",
+            "3": "interpret",
+            "4": "recognise"
+          }
+        },
+        "17": {
+          "stem_plain": "sceptical",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "wary",
+            "2": "doubtful",
+            "3": "suspicious",
+            "4": "incredulous"
+          }
+        },
+        "18": {
+          "stem_plain": "daunted",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "baffled",
+            "2": "defeated",
+            "3": "distressed",
+            "4": "intimidated"
+          }
+        },
+        "19": {
+          "stem_plain": "facing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "tackling",
+            "2": "addressing",
+            "3": "approaching",
+            "4": "encountering"
+          }
+        },
+        "20": {
+          "stem_plain": "at least",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "slightly",
+            "2": "closely",
+            "3": "scarcely",
+            "4": "minimally"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “figure out”表示想出、理解或弄明白某物是什么，此处与“interpret（理解、诠释、说明）”意思最接近。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reveal",
+              "zh": "揭露，展现",
+              "eg": "The thick curtains pulled back to reveal a beautiful hidden garden."
+            },
+            {
+              "opt": "2",
+              "word": "unravel",
+              "zh": "解开，阐明（复杂问题）",
+              "eg": "Detectives are working tirelessly to unravel the complex mystery."
+            },
+            {
+              "opt": "3",
+              "word": "interpret",
+              "zh": "理解，领会，诠释",
+              "eg": "It can be quite difficult to interpret his true intentions."
+            },
+            {
+              "opt": "4",
+              "word": "recognise",
+              "zh": "认出，辨认出",
+              "eg": "I could barely recognise my childhood friend after twenty years."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “sceptical that it was of any use”表示怀疑这个设备是否有用，与“doubtful（怀疑的、不确定的）”意思完全相符。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "wary",
+              "zh": "警惕的，小心的",
+              "eg": "Be wary of clicking on unknown link strings in emails."
+            },
+            {
+              "opt": "2",
+              "word": "doubtful",
+              "zh": "怀疑的，不确定的",
+              "eg": "The manager felt doubtful about the success of the project."
+            },
+            {
+              "opt": "3",
+              "word": "suspicious",
+              "zh": "可疑的，多疑的",
+              "eg": "The security guards grew suspicious of his strange behavior."
+            },
+            {
+              "opt": "4",
+              "word": "incredulous",
+              "zh": "不相信的，表示怀疑的（侧重极度惊讶而无法相信）",
+              "eg": "She gave an incredulous laugh when she heard the wild rumor."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “daunted by technology”表示被科技吓倒、感到气馁，与“intimidated（感到害怕的、受到恐吓或威胁的）”语义最为贴合。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "baffled",
+              "zh": "困惑的，难倒的",
+              "eg": "The complex puzzle left the entire group completely baffled."
+            },
+            {
+              "opt": "2",
+              "word": "defeated",
+              "zh": "感到挫败的，被击败的",
+              "eg": "He felt defeated after failing his driver's test again."
+            },
+            {
+              "opt": "3",
+              "word": "distressed",
+              "zh": "痛苦的，极其忧虑的",
+              "eg": "She was deeply distressed by the bad news about her health."
+            },
+            {
+              "opt": "4",
+              "word": "intimidated",
+              "zh": "受到惊吓的，感到气馁的",
+              "eg": "The shy boy felt intimidated by the large group of strangers."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “facing trouble”意为面临、遇到困难，与表示“遭遇、遇到（困难/危险等）”之“encountering”意思完全一致。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tackling",
+              "zh": "应对，处理（着手解决）",
+              "eg": "The government is tackling the severe problem of pollution."
+            },
+            {
+              "opt": "2",
+              "word": "addressing",
+              "zh": "设法解决，致辞",
+              "eg": "We need to focus on addressing our customers' needs first."
+            },
+            {
+              "opt": "3",
+              "word": "approaching",
+              "zh": "靠近，接近",
+              "eg": "The heavy dark clouds indicate that a storm is approaching."
+            },
+            {
+              "opt": "4",
+              "word": "encountering",
+              "zh": "遭遇，遇到（困难、阻碍等）",
+              "eg": "Our team is encountering unexpected tech issues with the site."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “at least a few thousands”表示至少有几千张，在否定或修饰额度时，与副词“scarcely（几乎不，勉强，足足/至少）”在修饰“勉强达到或不少于该数量”的极少数特定文书表达中相合，此题四个选项用于替换“不少于/仅仅达到”语境下选“scarcely”作为其反向语义替换（意为足足有/勉强有几千张）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "slightly",
+              "zh": "稍微，略微",
+              "eg": "The temperature today is slightly higher than it was yesterday."
+            },
+            {
+              "opt": "2",
+              "word": "closely",
+              "zh": "紧密地，仔细地",
+              "eg": "The security team monitored the entrance gate closely."
+            },
+            {
+              "opt": "3",
+              "word": "scarcely",
+              "zh": "仅仅，几乎不（此处用来强调数量勉强达到其下限）",
+              "eg": "He had scarcely any money left in his bank account."
+            },
+            {
+              "opt": "4",
+              "word": "minimally",
+              "zh": "最低限度地，极少地",
+              "eg": "The injured foot was only minimally swollen this morning."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mrs Li stared at the gift from her grandson. She could not [Q16(figure out)] what it was. It was the size of her thumb, black and rectangular. Handling it gingerly, Mrs Li tried to no avail to open it. She placed the device back on the table, [Q17(sceptical)] that it was of any use.",
+          "Mrs Li was once [Q18(daunted)] by technology, but ever since she found out how she could use her mobile phone to take photos, she had been snapping away. A few days ago, Mrs Li told her grandson that she was [Q19(facing)] trouble storing her many photos which added up to [Q20(at least)] a few thousands.",
+          "“Grandma, let me show you what this is!” Peter plugged the device into his laptop, and with a few clicks, Mrs Li's photos appeared on the screen. Mrs Li's eyes widened."
+        ],
+        "zh": [
+          "李太太盯着孙子送的礼物。她琢磨不透这到底是什么。它只有大拇指那么大，呈黑色长方形。李太太小心翼翼地摆弄着它，试图把它打开，但无济于事。她把这个设备放回桌上，怀疑它是否有什么用处。",
+          "李太太曾经被科技吓倒，但自从她学会了如何用手机拍照后，她就一直在拍个不停。几天前，李太太告诉孙子，她在储存自己的许多照片时遇到了困难，这些照片加起来至少有几千张。",
+          "“奶奶，让我给你看看这是什么！”彼得把这个设备插进他的笔记本电脑里，只需点击几下，李太太的照片就出现在了屏幕上。李太太惊讶地睁大了眼睛。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "after",
+          "B": "before",
+          "C": "during",
+          "D": "since"
+        },
+        "cloze": [
+          "Prototype grammar cloze: We arrived [Q29] the show had already started."
+        ],
+        "zh": [
+          "示例语法填空段落。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰人的主观感受应用以 -ed 结尾的形容词 bored（感到无聊的），而非原形/动词形式 bore。",
+          "answer": "bored"
+        },
+        "40": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：感官动词 felt 后面表达“发烧”应用名词形式 a fever（或形容词 feverish），此处划线为 fever，结合主谓宾应改为名词短语 feverish 或名词 a fever。通常小升初此类考点为 felt feverish（感到发烧的、发热的）。",
+          "answer": "feverish"
+        },
+        "41": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：表示“患上（某种疾病）”应用固定短语 be down with，而非 be down to。",
+          "answer": "with"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 immediately（副词，意为立刻、马上）。",
+          "answer": "immediately"
+        },
+        "43": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：整段日记基于过去叙述发生的事情（如 told, called），学校当时“很可能担心”，因此 be 动词应用过去时单数形式 was。",
+          "answer": "was"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 contagious（形容词，意为有传染性的）。",
+          "answer": "contagious"
+        },
+        "45": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：作句子主语的核心词，前面有形容词性物主代词 my main 修饰，应用名词形式 entertainment（消遣、娱乐），而非动词 entertain。",
+          "answer": "entertainment"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 fluid（名词，意为液体、流体）。",
+          "answer": "fluid"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 scratching（动词 scratch 的现在分词，这里用在 cannot stop 后面表示“无法停止抓挠”）。",
+          "answer": "scratching"
+        },
+        "48": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 recuperate（动词，意为康复、恢复健康）。",
+          "answer": "recuperate"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 lethargic（形容词，意为无精打采的、昏昏欲睡的）。",
+          "answer": "lethargic"
+        },
+        "50": {
+          "concept": "现在完成时中的过去分词 - Past Participles in Present Perfect",
+          "note": "语态与时态错误：现在完成时结构为 has + 过去分词，forbid的过去分词是 forbidden，而非过去式 forbid。",
+          "answer": "forbidden"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Dear Diary, This is the fourth day I've been stuck at home. I feel so [Q39(bore)]! On Monday, when I told Mrs Chan that I felt [Q40(fever)], she suspected that [Q41(I was down to)] chickenpox as she had noticed red spots on my body. She [Q42(immideatly)] called Mum to take me home. The school [Q43(be)] probably worried that I would infect others as the disease is highly [Q44(contaigeous)].",
+          "For the past few days, my main [Q45(entertain)] has been to count the number of spots that have appeared all over my body. Some have turned into blisters which look like bubbles with [Q46(floowid)] in them. They are small, red and really itchy. Mum has applied lotion to soothe my skin, but I still cannot stop [Q47(scracithng)] myself.",
+          "I suppose resting at home should help me [Q48(rikuperate)] faster. However, I feel more [Q49(lertahgic)] now than ever. Mum has [Q50(forbid)] me to step out of our apartment. I can't wait to get back to school!"
+        ],
+        "zh": [
+          "亲爱的日记，这是我被困在家里的第四天。我感到太[Q39(无聊)]了！周一，当我告诉陈老师我[Q40(发烧)]时，她怀疑我[Q41(患上)]了水痘，因为她注意到了我身上的红点。她[Q42(立刻)]打电话给妈妈让我带我回家。学校当时可能[Q43(很担心)]我会传染给别人，因为这种病极具[Q44(传染性)]。",
+          "在过去的几天里，我主要的[Q45(消遣)]就是数身上长出来的红点数量。有些已经变成了水泡，看起来里面有[Q46(液体)]。它们又小又红，而且非常痒。妈妈已经涂了润肤露来舒缓我的皮肤，但我还是无法停止[Q47(抓挠)]自己。",
+          "我想在家里休息应该能帮我更快[Q48(康复)]。然而，我现在感觉比以往任何时候都更加[Q49(无精打采)]。妈妈已经[Q50(禁止)]我迈出公寓半步。我迫不及待地想回到学校！"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "上下文语境名词",
+          "answer": "lyrics / words / lines / verses",
+          "note": "可以从前文出现的‘folk song（民歌）’一词中推断出填入歌词‘lyrics’。"
+        },
+        "52": {
+          "concept": "名词",
+          "answer": "labour / effort / time / work",
+          "note": "‘labour’在这里的意思是指艰苦的身体劳动或体力付出。"
+        },
+        "53": {
+          "concept": "固定搭配 / 介词",
+          "answer": "hesitation / thinking / remorse",
+          "note": "‘hesitate’意为在做某事之前产生停顿、犹疑或思考（毫无犹豫地扔掉大米）。"
+        },
+        "54": {
+          "concept": "动词 (一般现在时复数)",
+          "answer": "suffer / starved / die",
+          "note": "‘suffer’表示经历、遭受身体或精神上的痛苦（饱受饥饿之苦）。"
+        },
+        "55": {
+          "concept": "动词 (一般现在时单数)",
+          "answer": "occurs / happens / prevalent",
+          "note": "‘occur’在这里的含义等同于发生‘happen’。"
+        },
+        "56": {
+          "concept": "固定搭配 / 形容词",
+          "answer": "exception",
+          "note": "‘exception’指例外，即某种没有按照预期或常规表现的事物（新加坡也不例外）。"
+        },
+        "57": {
+          "concept": "名词 / 语境代词",
+          "answer": "amount / total / quantity / mass",
+          "note": "答案可以从前文提供的具体数据‘more than 790 million kilogrammes’中推断出来。"
+        },
+        "58": {
+          "concept": "动词 (现在分词作后置定语/被动含义分词)",
+          "answer": "becoming / getting / being",
+          "note": "‘become’意味着开始成为或变成某种状态（变质、损坏）。"
+        },
+        "59": {
+          "concept": "形容词",
+          "answer": "edible / fresh / good / safe",
+          "note": "‘edible’指的是可以被安全食用的、可食的。"
+        },
+        "60": {
+          "concept": "形容词",
+          "answer": "generous / hospitable / lavish",
+          "note": "答案可以从后文搭配的提示性解释短语‘often providing more food than necessary（经常提供超过需要的食物）’中推断出来。"
+        },
+        "61": {
+          "concept": "动词原形",
+          "answer": "change / alter / adjust / modify",
+          "note": "答案可以从后文并列的中心词‘attitudes and habits（态度和习惯）’中结合语境推断出来。"
+        },
+        "62": {
+          "concept": "动词 (一般现在时单数)",
+          "answer": "treats / takes / manages",
+          "note": "‘treat’在这里的含义是指以某种特定的、严肃的方式来对待或处理某事。"
+        },
+        "63": {
+          "concept": "固定搭配 / 介词",
+          "answer": "upon / on",
+          "note": "‘frown upon’为固定短语搭配，意思是持反对意见、不赞成、不许可。"
+        },
+        "64": {
+          "concept": "动词 (一般现在时复数)",
+          "answer": "place / throw / toss / drop",
+          "note": "‘place’在这里的含义是指将某物放置、投入到一个特定的位置（分类后投入垃圾箱）。"
+        },
+        "65": {
+          "concept": "逻辑连接词 (让步连词/句首大写)",
+          "answer": "Although / While / Though",
+          "note": "位于句首且首字母大写。连词‘although’在此处用于引出让步从句，用以指明前后事实具有对比和转折关系。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "\"Planting rice is never fun. Bent from morn till the set of sun...\" These are the [Q51] of a folk song about the laborious process of rice planting. Farmers in some parts of Asia still sow seeds by hand. When we take into account the hours of [Q52] spent on producing rice, it is a wonder how some people can throw away rice without [Q53]. It is an even greater crime to waste food when we think of the millions of people who [Q54] from hunger worldwide.",
+          "About one-third of the food in the world gets lost or wasted every year. Not surprisingly, a lot of food wastage [Q55] in rich countries where people can easily afford food. Singapore is no [Q56]. In one year, Singapore can generate more than 790 million kilogrammes of food waste, an [Q57] equivalent to two bowls of food per person a day. In fact, the problem is expected to grow with our increasing population and economic activities.",
+          "Food wastage can be due to many reasons. Improper storage can lead to food [Q58] spoilt and therefore discarded. People also prefer to buy food that looks appealing, so vegetables with slightly yellowed leaves are thrown away even though they are still [Q59]. In many cultures, people like to be nice hosts, so they tend to be [Q60] when serving guests, often providing more food than necessary. Therefore, we should [Q61] our attitudes and habits to prevent food wastage from happening, and if we cannot do so, to recycle food.",
+          "One country that [Q62] food seriously is Sweden, where there is a tradition of storing food for the long winter. The culture frowns [Q63] throwing food away and has invented creative recipes for reusing leftover food. Many Swedes separate their food waste at home and [Q64] it into bins located nearby. Food waste can then be recycled and turned into a kind of fertiliser or fuel.",
+          "[Q65] we can strive to turn food waste into a resource, it is impossible to gather every bit of waste. Perhaps to tackle the problem at its roots is simply for all to first cherish food."
+        ],
+        "zh": [
+          "“种稻从来不轻松，面朝黄土背朝天……”这些是一首关于水稻种植艰苦过程的民歌歌词。亚洲一些地区的农民至今仍在用手播种。当我们考虑到生产大米所付出的劳动时，真不可思议为什么有些人可以毫无顾忌地把大米扔掉。当我们想到世界上有数百万人在遭受饥饿时，浪费食物就更是滔天大罪了。",
+          "全球大约三分之一的食物每年都会流失或被浪费。不足为奇的是，许多食物浪费发生在人们能轻松负担得起食物的富裕国家。新加坡也不例外。在一年里，新加坡可以产生超过7.9亿公斤的食物垃圾，这一数量相当于每人每天两碗饭。事实上，随着我们人口和经济活动的增加，这个问题预计还会加剧。",
+          "食物浪费可能归结于许多原因。储藏不当会导致食物变质，从而被丢弃。人们也更喜欢购买看起来吸引人的食物，因此叶子稍微发黄的蔬菜即使依然可以食用也会被扔掉。在许多文化中，人们喜欢扮演热情的款待者，因此在招待客人时往往会很慷慨，经常提供超过需要的食物。因此，我们应该改变我们的态度和习惯，以防止食物浪费的发生，如果无法做到这一点，也要回收食物。",
+          "一个严肃对待食物问题的国家是瑞典，那里有着为漫长冬季储存食物的传统。当地的文化反对扔掉食物，并发明了重复利用剩饭菜的创意食谱。许多瑞典人在家对食物垃圾进行分类，并将其扔进位于附近的垃圾箱。然后，食物垃圾可以被回收并转化为一种肥料或燃料。",
+          "虽然我们可以努力将食物垃圾转化为资源，但要收集每一片垃圾是不可能的。也许，从根本上解决这个问题，仅仅需要所有人首先去珍惜食物。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Hamid kept quiet as he was too shy to join in the conversation.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Being __________ ."
+        },
+        "67": {
+          "stem_plain": "If you listen hard, you will hear the bird chirping.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________ ."
+        },
+        "68": {
+          "stem_plain": "Paul asked Amy, \"Why did you sing this song?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Paul wanted to know __________ ."
+        },
+        "69": {
+          "stem_plain": "The winner was humble. It moved the viewers.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ the winner's __________ ."
+        },
+        "70": {
+          "stem_plain": "Despite her young age, Malar does not rely on others.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Malar is not __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "分词短语作状语 — 原因状语 'Being + Adj.'",
+          "note": "非谓语动词：使用现在分词短语 Being... 置于句首作原因状语，后面接主句，注意主语 Hamid 的位置。",
+          "zh": "因为太害羞而无法加入对话，哈米德保持了沉默。",
+          "answer": "Being too shy to join in the conversation, Hamid kept quiet."
+        },
+        "67": {
+          "concept": "条件状语从句 — 连词 'unless' 的主从句转换",
+          "zh": "除非你仔细听，否则你听不到鸟叫声。",
+          "note": "从句连词：unless 相当于 if... not，因此主句需要改为否定形式 'will not hear'，以保持句意前后一致。",
+          "answer": "You will not hear the bird chirping unless you listen hard."
+        },
+        "68": {
+          "concept": "间接引语 — 特殊疑问句语序与时态转换",
+          "zh": "保罗想知道艾米为什么要唱那首歌。",
+          "note": "间接引语：由 wanted to know 引导宾语从句，语序须改为陈述语序，时态由过去时 did sing 变为过去完成时 had sung，指示代词 this 变为 that。",
+          "answer": "Paul wanted to know why Amy had sung that song."
+        },
+        "69": {
+          "concept": "词性转换与被动语态 — 形容词变名词",
+          "zh": "观众们被赢家的谦逊所感动。",
+          "note": "综合改写：将形容词 humble 转换为名词 humility 放在所有格后，同时将后一句转换为被动语态 'were moved by' 充当主干。",
+          "answer": "The viewers were moved by the winner's humility."
+        },
+        "70": {
+          "concept": "词性转换 — 动词短语变形容词结构 'be dependent on'",
+          "zh": "尽管年轻，玛拉并不依赖他人。",
+          "note": "词性转换：结合否定词 not，将动词短语 does not rely on 替换为形容词结构 is not dependent on（或者使用 reliant on），后接状语部分。",
+          "answer": "Malar is not dependent on others despite her young age."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "On Friday morning, there was a ruckus in the dance room of Singa Primary School.",
+          "2": "The backdrop* that the Star Dance Club members had spent an entire week painting had",
+          "3": "strangely disappeared. After a frantic hour of searching, the dejected dancers returned to",
+          "4": "the room. Mr Tay, the instructor, asked who the last person was to leave the dance room",
+          "5": "the day before.",
+          "6": "\"It's probably Dan. Aida and I saw him walking back to the dance room when we",
+          "7": "left,\" said Limei almost accusingly, as if he should know what had happened.",
+          "8": "Dan quickly replied, \"I forgot my water bottle and went back to get it, but...but I didn't",
+          "9": "notice anything amiss.\"",
+          "10": "Mr Tay reminded the dancers that it was not the time for **finger-pointing**. He said,",
+          "11": "\"Where's your Star spirit? We should be working together on the problem. The performance",
+          "12": "is taking place tonight!\"",
+          "13": "As usual, Bryan, nicknamed The Brain, spoke up. \"We won't be able to paint another",
+          "14": "Angsana tree in time. How about projecting its image onto a white screen instead? It will",
+          "15": "take just a few minutes to find a suitable picture.\"",
+          "16": "\"But won't the light be shining on our faces when we dance?\" asked Shanthi.",
+          "17": "Bryan pondered a while before replying, \"What if we place the projector behind the",
+          "18": "screen? This way, the dancers who are in front of the screen will not be affected.\"",
+          "19": "\"That might just work,\" Mr Tay smiled. \"Of course, we may need to dim the lights in",
+          "20": "the hall so the projection will appear more clearly.\"",
+          "21": "**That** night, the hall was in darkness, drawing the audience to the projection of a",
+          "22": "majestic Angsana tree onstage. After the show, the performance received many positive",
+          "23": "comments, so did the stunning projection. The dancers beamed with joy. Some thought",
+          "24": "that the backdrop incident had turned out to be **a blessing in disguise**.",
+          "25": "At practice the following week, the dancers were still chatting excitedly about their",
+          "26": "success. It was therefore a great **surprise** when Mr Tay walked into the dance room looking",
+          "27": "solemn. He said, \"We should celebrate Friday's wonderful performance, but there's",
+          "28": "**something** I thought you should know.\" Mr Tay stepped aside to reveal Dan behind him.",
+          "29": "\"I'm...so, so sorry,\" Dan croaked emotionally. \"I spilled water on the canvas cloth",
+          "30": "when I wanted to drink from my water bottle. But when I was reaching out for the rag nearby,",
+          "31": "I accidentally toppled a tin of paint and made an even greater mess. I could wipe the spilled",
+          "32": "water but not the paint. I knew you'd all be furious, so I hid the canvas cloth away.\"",
+          "33": "Everyone looked at Dan, not knowing what to say nor how to react. A gentle voice",
+          "34": "finally broke the tension when Aida spoke, \"It's over and fortunately we managed to turn",
+          "35": "the situation around with the grand projection on the screen. But having spent such a long",
+          "36": "time painting the backdrop, I feel attached to it. Where is it?\"",
+          "37": "Dan led the dancers to the storeroom where the rolled up canvas cloth was tucked",
+          "38": "behind some dusty old props. The canvas cloth was unfurled on the floor, displaying an",
+          "39": "ugly blotch of paint near the bottom of the cloth. Gasps of dismay echoed in the room as",
+          "40": "the dancers looked at the disastrous end to their hard labour.",
+          "41": "\"Hmm, can anyone see in that blotch the shape of someone jumping?\" Bryan",
+          "42": "wondered aloud. Shanthi grinned. She found a paint brush and with a few strokes painted",
+          "43": "over the blotch to draw a boy leaping into mid-air. True to the club spirit, the others chipped",
+          "44": "in and added a few more dancing figures.",
+          "45": "To this day, the backdrop showing the Angsana tree with dancing figures still hangs",
+          "46": "in the dance room, reminding all of the sparkling Star spirit."
+        },
+        "paragraphs": {
+          "1": "周五早上，新加小学的舞蹈室里发生了一场骚动。明星舞蹈社成员花了一整周时间绘制的背景幕布竟然神秘失踪了。经过一个小时的疯狂搜寻后，沮丧的舞者们回到了房间。指导老师郑老师询问前一天谁是最后一个离开舞蹈室的人。",
+          "6": "“很可能是丹。我和艾达离开时看到他正走回舞蹈室，”丽美几乎带着指责的口吻说道，仿佛他应该知道发生了什么事。",
+          "8": "丹赶紧回答：“我忘了拿水壶，所以折回去拿，但是……但是我没有注意到有什么不对劲的地方。”",
+          "10": "郑老师提醒舞者们，现在不是互相指责的时候。他说：“你们的明星精神去哪儿了？我们应该共同解决这个问题。演出今晚就要举行了！”",
+          "13": "像往常一样，绰号为“智多星”的布莱恩开口了。“我们不可能及时再画一棵青龙木树了。不如把它的图像投影到白幕上怎么样？只需花几分钟就能找到一张合适的图片。”",
+          "16": "“但我们跳舞的时候，光线不会照在我们的脸上吗？”珊蒂问道。",
+          "17": "布莱恩沉思了一会儿才回答：“如果我们把投影仪放在屏幕后面呢？这样的话，在屏幕前面跳舞的舞者就不会受到影响了。”",
+          "19": "“这主意说不定真行，”郑老师笑着说。“当然，我们可能需要把大厅里的灯光调暗，这样投影才会更清晰地呈现出来。”",
+          "21": "那天晚上，大厅里一片漆黑，将观众的注意力完全吸引到了舞台上雄伟的青龙木树投影上。演出结束后，这场表演获得了许多好评，精美的投影也是如此。舞者们喜笑颜开。有些人认为，背景幕布丢失事件最终变成了一件因祸得福的幸事。",
+          "25": "在接下来一周的排练中，舞者们仍然在兴奋地聊着他们的成功。因此，当郑老师面色凝重地走进舞蹈室时，大家都感到非常意外。他说：“我们应该庆祝周五的精彩演出，但有一件事我觉得你们应该知道。”郑老师走到一边，露出了他身后的丹。",
+          "29": "“我……非常非常抱歉，”丹情绪激动、声音沙哑地说道。“我想从水壶里喝水时，把水洒在了画布幕布上。但当我伸手去拿附近的抹布时，我不小心碰倒了一罐油漆，把事情搞得更糟了。我可以擦掉洒出来的水，但擦不掉油漆。我知道大家都会非常愤怒，所以我把画布幕布藏了起来。”",
+          "33": "大家都看着丹，不知道该说什么，也不知道该作何反应。当艾达开口时，一个温柔的声音终于打破了紧张的气氛：“事情已经过去了，幸运的是，我们通过屏幕上的宏大投影扭转了局面。但花了这么长时间绘制这个背景幕布，我对它已经有感情了。它在哪里呢？”",
+          "37": "丹带着舞者们来到储藏室，那块卷起来的画布幕布就塞在一些布满灰尘的旧道具后面。画布幕布在地上铺展开来，靠近布料底部的地方有一大块难看的油漆污渍。当舞者们看到他们辛勤劳动的灾难性结局时，房间里响起了沮丧的倒吸气声。",
+          "41": "“嗯，有人能在那块污渍里看出一个人在跳跃的形状吗？”布莱恩大声猜测。珊蒂咧嘴笑了。她找到了一把画笔，寥寥几笔就在污渍上画出了一个跃入半空中的男孩。出于社团精神，其他人也纷纷加入，又增添了几个跳舞的人物形象。",
+          "45": "直到今天，这幅展现了带有跳舞人物的青龙木树背景幕布依然挂在舞蹈室里，提醒着每一个人那闪耀的明星精神。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Jane.",
+          "**Write an email to your best friend, Linda, to invite her to watch the movie with you.**",
+          "You are to refer to the pictures and information on page 2 for your email."
+        ],
+        "info": [
+          "the title of the movie",
+          "where the movie will be shown",
+          "the date of the movie",
+          "why you can no longer watch the movie with your uncle",
+          "two details to encourage her to watch the movie"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Hi Linda,\n\nHow are you? Hope you had a wonderful weekend last week.\n\nI am writing this email to invite you to watch a movie with me. The title of the movie is Dragon Island and it will be shown at Diamond Cinema. The date of the movie is 4 October 2019, at 5 p.m.",
+          "I --originally-- planned to watch the movie with my Uncle Tim --but-- his company needs him to travel overseas next week --so-- he is no longer able to watch it with me. --Hence--, I am asking you to **accompany** me instead. You do not have to pay for the ticket as my uncle has kindly offered to pay for it. --Furthermore--, --since-- you like action movies, I am sure you will enjoy watching it.",
+          "Do let me know if you will be able to join me as soon as possible. Hope to hear from you soon!\n\nCheers,\nJane"
+        ],
+        "markdown": [
+          "根据新加坡小学离校考试(PSLE)的 Situational Writing(情境写作)评分标准,这篇书信**完全具备了获得满分的条件(Content 满分,Language 达到优秀水平)**。但在词汇的多样性与创意上,如果想要展现出绝对统治力的 **AL1 顶尖水准**,它目前的语言略显朴实。以下是基于 PSLE 阅卷标准的深度解析:",
+          "### 1. 关键信息完整度 (Content Points - Perfect Score)\n* **满分完成度**:文章逐一且精准地交代了题目要求的所有五个关键信息:电影名称(Dragon Island)、放映地点(Diamond Cinema)、放映日期时间(4 October 2019, 5 p.m.)、叔叔无法前来的原因(海外出差),以及两个吸引朋友的细节(免费请客、对方喜欢的动作片类型)。在情境写作中,内容点不遗漏是拿高分的第一步。",
+          "### 2. 结构与逻辑衔接 (Organization & Cohesion)\n* **句式流畅**:文章使用了大量的连词和过渡词(如 `--originally--`, `--but--`, `--so--`, `--Hence--`, `--Furthermore--`, `--since--`),将叔叔取消、邀请 Linda、解释门票以及迎合 Linda 喜好的逻辑链条紧密缝合,读起来毫无突兀感。\n* **格式正确**:采用了正确的非正式书信/电邮格式,有亲切的问候语(Hi Linda)和合乎身份的结语(Cheers, Jane)。",
+          "### 3. 语言与词汇分析 (Vocabulary & Tone)\n* **语气恰当**:文章非常好地把握了写给“闺蜜/好朋友(best friend)”的语调,自然且热络。\n* **词汇精准但偏向稳健**:使用了 **accompany**(陪伴)这样比较得体的词汇。但整体用词(如 \"wonderful\", \"enjoy\", \"travel overseas\")属于高频安全词汇。虽然在 PSLE 情境写作中,这种“零语法错误且信息准确”的表达完全可以拿满分,但若想达到像 Continuous Writing(长篇作文)那样惊艳的 AL1 华丽文采,可以尝试将 \"enjoy watching it\" 升级为 **be absolutely localized by the edge-of-your-seat action** 等更具画面感的短语。",
+          "### 4. 满分微调建议 (AL1 Perfection Tips)\n* 为了让文章在不丢分的前提下更具文学色彩,可以将首句的 \"Hope you had a wonderful weekend\" 改为更为生动的 **Hope you are flying high after a stellar weekend!**;将叔叔因工作出国改为 **his business commitments require him to jet off overseas**。这样能在保证信息完全正确的同时,瞬间拉高语言的档次。"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Last Saturday, our family held a **special celebration** at home and it was one of the happiest days of the year. The reason for the celebration was my baby sister's one-month old celebration. My parents said a child only turns one-month old once, --so-- they wanted to make the day **meaningful**. --Three weeks earlier--, they sent out **colourful invitation cards** to our relatives and close friends, inviting them to join the celebration.",
+          "--On the big day--, our house was decorated with bright balloons, ribbons and a banner that said 'Happy One Month Old!'. I helped arrange the tables and prepare simple games for the younger children. --When the guests arrived--, everyone greeted my baby sister with warm smiles. She looked **adorable** in her tiny pink dress --even though-- she was **sound asleep**.",
+          "We celebrated by playing games and taking many family photographs. The adults **chatted happily** --while-- the children ran around the garden. The best moment came --when-- my parents brought out a beautiful birthday cake shaped like a rabbit. Everyone **gathered around** as we sang loudly. --By this time--, my baby sister was also awake.",
+          "--Before the guests left--, each family received a small **thank-you gift**. The celebration ended with laughter, **full bellies** and **fond memories**. It was a simple but meaningful way to **show love** for our newest family member."
+        ],
+        "markdown": [
+          "这个关于“妹妹满月宴”的续写范文之所以能获得高分，主要原因可以归纳为以下四个核心亮点：",
+          "### 1. 完美契合图片线索 (Seamless Integration of Pictures)\n* **精准还原画面**：文章完美地把之前提到的三张图片细节自然地融入到了故事发展中，没有任何生硬感。\n  * **第三张图（邀请函）**：在第一段点出（“Three weeks earlier, they sent out colourful invitation cards...”）。\n  * **第一张图（舞台与游戏表演）**：在第二、三段转化为“布置桌椅、为小孩子们准备并一起玩简单的游戏”（“prepare simple games for the younger children”）。\n  * **第二张图（全家福相框）**：在第三段转化为全家人在派对上拍了许多合影（“taking many family photographs”），为日后把照片放进相框里埋下了完美的伏笔。",
+          "### 2. 结构层层递进，时间线极其清晰 (Clear Chronological Structure)\n* 故事的发展脉络符合典型的高分记叙文逻辑：**活动背景（第一段） → 派对前的准备与宾客到来（第二段） → 派对的高潮切蛋糕（第三段） → 依依惜别与温情总结（第四段）**。\n* 使用了非常顺畅的时间过渡词（如 `\"Three weeks earlier\"`, `\"On the big day\"`, `\"When the guests arrived\"`, `\"By this time\"`, `\"Before the guests left\"`），让阅卷老师读起来毫不费力。",
+          "### 3. 细节生动，画面感与温情兼具 (Vivid Details & Warm Tone)\n* **人物形象鲜活**：描写妹妹时，抓住了她“穿着粉色小裙子正香甜地熟睡”（“adorable in her tiny pink dress even though she was sound asleep”）的动态细节，非常符合刚满月婴儿的真实状态。\n* **烘托欢乐气氛**：通过大人的愉快聊天、小孩子在花园里奔跑、全家人围在一起大声唱歌，以及兔子造型的精美蛋糕（“beautiful birthday cake shaped like a rabbit”），把一个温馨、热闹的家庭聚会写得栩栩如生。",
+          "### 4. 结尾首尾呼应，情感真挚 (Meaningful Conclusion)\n* 文章的开头提到父母想让这一天变得“富有意义（meaningful）”；结尾则用“这是一个虽然简单却充满意义（meaningful）的方式来表达我们对新成员的爱”来进行**首尾呼应**。\n* 最后的总结句句精炼，用 `\"laughter, full bellies and fond memories\"`（欢笑、饱腹与美好的回忆）高度概括，充满了浓浓的家庭凝聚力和幸福感，非常符合 PSLE 考试对积极、温情主题的青睐。"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1573 @@
+{
+  "paperid": "p6_english_2021_sa2_mgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "We were completely dependent __________ the villager to lead us out of the jungle. Without him, we would have been lost.",
+          "options": {
+            "1": "on",
+            "2": "to",
+            "3": "for",
+            "4": "with"
+          }
+        },
+        "2": {
+          "stem_plain": "\"It'll be great if Uncle Joe comes to stay with us during the school holidays, __________?\" asked my younger brother.",
+          "options": {
+            "1": "won't it",
+            "2": "didn't it",
+            "3": "hadn't it",
+            "4": "wouldn't it"
+          }
+        },
+        "3": {
+          "stem_plain": "The teacher told the student that the number of spelling and punctuation errors in her previous essay __________ unacceptable.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "Little did my mother __________ that the food on the dining table was prepared by me.",
+          "options": {
+            "1": "know",
+            "2": "knew",
+            "3": "knows",
+            "4": "known"
+          }
+        },
+        "5": {
+          "stem_plain": "Many of our relatives __________ we had not seen in years attended my sister's wedding.",
+          "options": {
+            "1": "which",
+            "2": "whom",
+            "3": "whoever",
+            "4": "whichever"
+          }
+        },
+        "6": {
+          "stem_plain": "__________ the continuous drizzle, the hike around Coney Island went on as planned.",
+          "options": {
+            "1": "Since",
+            "2": "Though",
+            "3": "Against",
+            "4": "Despite"
+          }
+        },
+        "7": {
+          "stem_plain": "The toddler __________ from choking if the young man had not dislodged the fish ball from his throat.",
+          "options": {
+            "1": "will die",
+            "2": "would die",
+            "3": "will have died",
+            "4": "would have died"
+          }
+        },
+        "8": {
+          "stem_plain": "Yanti was cycling along the pavement when she saw a man __________ into a lamp post.",
+          "options": {
+            "1": "collide",
+            "2": "collides",
+            "3": "collided",
+            "4": "colliding"
+          }
+        },
+        "9": {
+          "stem_plain": "After __________ deliberation, the judge finally arrived at a decision to sentence the man to two years' imprisonment.",
+          "options": {
+            "1": "little",
+            "2": "many",
+            "3": "much",
+            "4": "several"
+          }
+        },
+        "10": {
+          "stem_plain": "It was Amy and not Philip who washed the car all by __________.",
+          "options": {
+            "1": "herself",
+            "2": "himself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "介词 — Preposition — dependent on",
+          "zh": "我们完全依靠那位村民带我们走出丛林；没有他，我们就会迷路。",
+          "note": "固定搭配 dependent on；陈述句，一般过去时 were dependent。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "反意疑问句 — Question tag — positive future",
+          "zh": "“要是乔叔叔假期来住就太好了，不是吗？”弟弟问。",
+          "note": "附加问句：肯定将来义用 won't it。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "主谓一致 — Subject–verb — number of … was",
+          "zh": "老师告诉学生，她上一篇作文里拼写和标点错误的数量是不可接受的。",
+          "note": "the number of 作主语，动词用单数 was；间接引语用过去时。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "倒装句 — Inversion — Little did … know",
+          "zh": "母亲万万没想到，餐桌上的饭菜是我准备的。",
+          "note": "否定副词前置倒装 Little did + 原形 know。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "关系词 — Relative pronoun — whom (object)",
+          "zh": "许多多年未见的亲戚参加了姐姐的婚礼。",
+          "note": "关系代词 whom 指人作 seen 的宾语；陈述句一般过去时。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "让步 — Concession — Despite + noun",
+          "zh": "尽管细雨不停，科尼岛徒步仍按原计划进行。",
+          "note": "让步 Despite + 名词；Though 后接从句。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "虚拟语气 — Third conditional",
+          "zh": "若不是年轻人把鱼丸取出，幼儿本会噎死。",
+          "note": "第三条件句：从句 had not dislodged，主句 would have died。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "不定式 — Perception verb — bare infinitive",
+          "zh": "延蒂在人行道上骑车时，看见一名男子撞上了灯柱。",
+          "note": "感官动词 see + 宾语 + 原形 collide。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "量词 — Quantifier — much + uncountable",
+          "zh": "经过再三斟酌，法官终于作出判决，判处该男子两年监禁。",
+          "note": "much + 不可数 deliberation；陈述句一般过去时。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "语法 — Reflexive — by herself",
+          "zh": "洗车的是艾米而不是菲利普，全是她一个人洗的。",
+          "note": "强调句 It was … who；反身代词 herself 与 Amy 一致。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Ali found working on his laptop __________ as it kept shutting down. He had never felt so frustrated before.",
+          "options": {
+            "1": "unnerving",
+            "2": "exasperating",
+            "3": "demoralising",
+            "4": "discouraging"
+          }
+        },
+        "12": {
+          "stem_plain": "The thick smoke from the burning lift was so __________ that some residents from the flat had to evacuate from their homes.",
+          "options": {
+            "1": "overflowing",
+            "2": "overarching",
+            "3": "overpowering",
+            "4": "overshadowing"
+          }
+        },
+        "13": {
+          "stem_plain": "My aunt started a home-based business last year and it really __________. She made a huge sum of profit within a month.",
+          "options": {
+            "1": "took on",
+            "2": "took up",
+            "3": "took off",
+            "4": "took away"
+          }
+        },
+        "14": {
+          "stem_plain": "Many patrons at a hawker centre were __________ for Covid-19 since there was a cluster of cases identified recently.",
+          "options": {
+            "1": "shielded",
+            "2": "screened",
+            "3": "segregated",
+            "4": "safeguarded"
+          }
+        },
+        "15": {
+          "stem_plain": "The pupils could not pay attention in class as the noise from the construction site was a source of __________.",
+          "options": {
+            "1": "dispute",
+            "2": "distortion",
+            "3": "distraction",
+            "4": "disturbance"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "阿里觉得用笔记本电脑工作令人恼火，因为它老是关机。他从未如此沮丧。",
+          "note": "选（2）exasperating：反复故障带来的极度烦躁。",
+          "concept": "词汇辨析 — exasperating（令人极其恼火的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unnerving",
+              "zh": "令人不安的，使人紧张的（形容词，指某种事物、环境或声音让人内心感到缺乏安全感、失去信心或产生不祥的预感）",
+              "eg": "Walking down the dark, narrow alleyway alone at night was an unnerving experience that made his heart race."
+            },
+            {
+              "opt": "2",
+              "word": "exasperating",
+              "zh": "令人极其恼火的，让人忍无可忍的（形容词，特指由于某种令人不快的情况、设备故障或他人的不配合反复发生，从而引发强烈的愤怒与不耐烦）",
+              "eg": "The glitchy laptop kept shutting down unexpectedly, proving to be an exasperating problem during his critical assignment."
+            },
+            {
+              "opt": "3",
+              "word": "demoralising",
+              "zh": "令人士气低落的，使人丧失斗志的（形容词，指团队或个人在遭遇接二连三的重大打击或否定后，内心的自信、斗志与希望被彻底摧毁的状态）",
+              "eg": "Receiving a severe loss in the opening match of the season felt deeply demoralising to the young soccer players."
+            },
+            {
+              "opt": "4",
+              "word": "discouraging",
+              "zh": "令人泄气的，使人沮丧的（形容词，指由于道路艰难、延迟或缺乏进展，导致人们原本的热情、积极性或信心受到了一定程度的打击）",
+              "eg": "The long delay in receiving the science test results was discouraging to the students who had spent weeks revising."
+            }
+          ]
+        },
+        "12": {
+          "zh": "电梯起火产生的浓烟浓烈逼人，一些住户不得不撤离。",
+          "note": "选（3）overpowering：烟雾浓烈到无法承受。",
+          "concept": "词汇辨析 — overpowering（压倒性的；浓烈的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "overflowing",
+              "zh": "溢出的，容纳不下的（形容词，指液体因数量过多而从容器边缘漫出来，或引申形容某种强烈的情感满溢、无从掩饰）",
+              "eg": "The recycling bin was overflowing with discarded cardboard boxes and empty plastic bottles after the holiday party."
+            },
+            {
+              "opt": "2",
+              "word": "overarching",
+              "zh": "包罗万象的，首要的，总括性的（形容词，指某一核心理念、方针、原则或主题具有全局性的支配地位，能够涵盖并解释所有其余的细微部分）",
+              "eg": "An overarching theme of teamwork and social responsibility emerged clearly during the principal's morning assembly speech."
+            },
+            {
+              "opt": "3",
+              "word": "overpowering",
+              "zh": "压倒性的，不可抗拒的；浓烈的（形容词，特指气味、味道浓烈得令人难以忍受，或者指某种强烈的情感、力量全面击垮并完全支配了人的心智）",
+              "eg": "The thick smoke from the burning chemical compound inside the science laboratory was completely overpowering, forcing everyone to evacuate immediately."
+            },
+            {
+              "opt": "4",
+              "word": "overshadowing",
+              "zh": "使黯然失色的，遮蔽的（形容词/动词现在分词，指某人卓越的能力或某种事物的巨大光芒，使得周围的其他同类存在显得微不足道、不值一提）",
+              "eg": "Her brilliant talent on the stage completely overshadowed the rest of the amateur theater performers during the national competition."
+            }
+          ]
+        },
+        "13": {
+          "zh": "姑姑去年开了居家生意，真的做得很成功，一个月内就赚了一大笔。",
+          "note": "选（3）took off：事业腾飞。",
+          "concept": "词汇辨析 — took off（迅速成功；起飞）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "took on",
+              "zh": "承担，接受；呈现（指承担工作、职责，或事物呈现某种面貌）",
+              "eg": "She was ready to take on more work when her colleague resigned."
+            },
+            {
+              "opt": "2",
+              "word": "took up",
+              "zh": "开始从事，占用（常指开始培养某种新兴趣、爱好或占用时间空间）",
+              "eg": "He took up jogging in the evenings to improve his physical fitness."
+            },
+            {
+              "opt": "3",
+              "word": "took off",
+              "zh": "迅速成功；起飞（特指商业、事业在短时间内迅速发展起来，或飞机起飞）",
+              "eg": "Her business took off within a month after she launched the website."
+            },
+            {
+              "opt": "4",
+              "word": "took away",
+              "zh": "拿走，带走（指将某物或某人从某个位置移开、移走）",
+              "eg": "Please take away the empty tray once the guests are done eating."
+            }
+          ]
+        },
+        "14": {
+          "zh": "食阁许多食客因近期出现感染群而接受新冠检测。",
+          "note": "选（2）screened：医学筛查。",
+          "concept": "词汇辨析 — screened（被筛查/检测）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "shielded",
+              "zh": "被保护的，被遮挡的（形容词/动词过去分词，指通过设置具体的物理屏障或提供庇护，使人或物体免受强光、暴风雨、危险或负面批评的伤害）",
+              "eg": "The young children were carefully shielded from the harsh afternoon sun by the thick foliage of the ancient banyan trees."
+            },
+            {
+              "opt": "2",
+              "word": "screened",
+              "zh": "被筛查的，被检查的（形容词/动词过去分词，指通过一系列专门的测试、体检、问卷或安全安检，从大群体中检测并选拔出符合特定特征、携带特定疾病或存在安全隐患的个体）",
+              "eg": "All patrons were rigorously screened for high temperatures and other symptoms at the entrance before they were allowed into the sports clinic."
+            },
+            {
+              "opt": "3",
+              "word": "segregated",
+              "zh": "被隔离分开的（形容词/动词过去分词，指根据种族、性别、宗教、健康状况或某种属性差异，将特定人群与主体人群强制、完全断绝接触地划分开来）",
+              "eg": "The highly infectious medical cases were immediately segregated from the general wards to prevent the disease from spreading across the hospital."
+            },
+            {
+              "opt": "4",
+              "word": "safeguarded",
+              "zh": "被保障安全的，被捍卫的（形容词/动词过去分词，指通过法律、规章制度、加密系统或安全防范措施，来确保财产、机密数据、合法权益或他人安全免受潜在侵犯或损失）",
+              "eg": "Confidential customer data must be stringently safeguarded using advanced cybersecurity encryption codes to stop hackers from accessing the bank accounts."
+            }
+          ]
+        },
+        "15": {
+          "zh": "工地噪音让学生无法专心上课。",
+          "note": "选（3）distraction：分心源。",
+          "concept": "词汇辨析 — distraction（使人分心的事物）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dispute",
+              "zh": "争端，争执（名词，指人与人、团体或国家之间因为利益、土地、所有权或观点严重不合而产生的长期官方争吵或法律冲突）",
+              "eg": "The two neighboring countries finally settled their border dispute by signing a peaceful international treaty after years of negotiation."
+            },
+            {
+              "opt": "2",
+              "word": "distortion",
+              "zh": "扭曲，歪曲（名词，指图像、声音信号出现原本形状的变形走样，或者指对客观事实、真相进行故意的改变和曲解）",
+              "eg": "The dishonest report was a total distortion of the facts, making it look as though the worker was entirely to blame for the mishap."
+            },
+            {
+              "opt": "3",
+              "word": "distraction",
+              "zh": "使人分心的事物，干扰（名词，指把人们的视线、脑力或注意力从当前正在进行的核心工作、学习或考试中强制吸引走、让人无法专注的外界事物）",
+              "eg": "The constant drilling noise from the nearby renovation site proved to be a severe distraction during the morning vocabulary examination."
+            },
+            {
+              "opt": "4",
+              "word": "disturbance",
+              "zh": "干扰，打扰；公共骚动（名词，指破坏正常秩序、平静状态的突发吵闹、混乱，或者指身体、精神以及生态平衡受到的破坏和干扰）",
+              "eg": "A loud public disturbance broke out in the shopping mall, forcing the local security guards to step in and restore order immediately."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "unsteadily",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "strolled",
+            "2": "strutted",
+            "3": "staggered",
+            "4": "scampered"
+          }
+        },
+        "17": {
+          "stem_plain": "faint",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "sharp",
+            "2": "feeble",
+            "3": "distinct",
+            "4": "inaudible"
+          }
+        },
+        "18": {
+          "stem_plain": "shocked",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "jolt",
+            "2": "thump",
+            "3": "collision",
+            "4": "vibration"
+          }
+        },
+        "19": {
+          "stem_plain": "Instinctively",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Instantly",
+            "2": "Naturally",
+            "3": "Habitually",
+            "4": "Consciously"
+          }
+        },
+        "20": {
+          "stem_plain": "eyeing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "viewing",
+            "2": "guarding",
+            "3": "checking",
+            "4": "observing"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "One morning, Ravi was awakened by a strange noise coming from his bedroom window. Feeling sleepy, he walked [Q16 (unsteadily)] to the window and looked out.",
+          "The noise was coming from the old mango tree in front of his house. He heard [Q17 (faint)] chirping coming from the tree. To his delight, he spotted a nest with a mother bird and her chicks.",
+          "Suddenly, the thin branch on which the nest was resting moved. A crow had perched on the branch. This sudden movement [Q18 (shocked)] the chicks and they started to chirp loudly. [Q19 (Instinctively)], the mother bird calmed the chicks by keeping them close to her.",
+          "The famished crow was [Q20 (eyeing)] the chicks. Ravi had to do something to care for the birds. Immediately, he grabbed a tennis ball from his room and threw it towards the tree. The impact of the ball hitting the tree startled the crow and it flew away. Ravi was relieved."
+        ],
+        "zh": [
+          "一天早上，拉维被卧室窗外一阵奇怪的声音吵醒。他睡眼惺忪、摇摇晃晃地走向窗边向外看。",
+          "声音来自屋前那棵老芒果树。他听到树上微弱的鸟鸣，惊喜地发现一个鸟巢，里面有母鸟和雏鸟。",
+          "突然，鸟巢所在的细枝动了。一只乌鸦落在枝上。这突如其来的动静吓了雏鸟一跳。母鸟本能地把雏鸟护在身边。",
+          "饥饿的乌鸦盯着雏鸟。拉维必须保护小鸟，立刻从房间抓起网球朝树扔去，球击中树干惊走乌鸦，他松了口气。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — unsteadily（蹒跚；摇摇晃晃地走）",
+          "zh": "他睡眼惺忪、摇摇晃晃地走向窗边。",
+          "note": "应选（3）staggered：与 unsteadily 近义。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "strolled",
+              "zh": "漫步",
+              "eg": "They <strong>strolled</strong> in the park."
+            },
+            {
+              "opt": "2",
+              "word": "strutted",
+              "zh": "趾高气扬地走",
+              "eg": "He <strong>strutted</strong> on stage."
+            },
+            {
+              "opt": "3",
+              "word": "staggered",
+              "zh": "蹒跚；摇摇晃晃地走",
+              "eg": "She <strong>staggered</strong> after waking."
+            },
+            {
+              "opt": "4",
+              "word": "scampered",
+              "zh": "小跑",
+              "eg": "Mice <strong>scampered</strong> away."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — faint（微弱的）",
+          "zh": "他听到树上微弱的鸟鸣。",
+          "note": "应选（2）feeble：声音微弱。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sharp",
+              "zh": "尖锐的",
+              "eg": "A <strong>sharp</strong> cry."
+            },
+            {
+              "opt": "2",
+              "word": "feeble",
+              "zh": "微弱的",
+              "eg": "A <strong>feeble</strong> sound."
+            },
+            {
+              "opt": "3",
+              "word": "distinct",
+              "zh": "清晰的",
+              "eg": "A <strong>distinct</strong> outline."
+            },
+            {
+              "opt": "4",
+              "word": "inaudible",
+              "zh": "听不见的",
+              "eg": "The whisper was <strong>inaudible</strong>."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — shocked（震动；惊吓）",
+          "zh": "树枝突然一动，吓了雏鸟一跳。",
+          "note": "应选（1）jolt：突然震动/惊吓。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "jolt",
+              "zh": "震动；惊吓",
+              "eg": "The crash gave a <strong>jolt</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "thump",
+              "zh": "重击声",
+              "eg": "A loud <strong>thump</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "collision",
+              "zh": "碰撞",
+              "eg": "A <strong>collision</strong> on the road."
+            },
+            {
+              "opt": "4",
+              "word": "vibration",
+              "zh": "振动",
+              "eg": "Feel the <strong>vibration</strong>."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — Instinctively（自然地）",
+          "zh": "母鸟本能地把雏鸟护在身边安抚。",
+          "note": "应选（2）Naturally：本能地、自然而然地。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Instantly",
+              "zh": "立刻",
+              "eg": "He replied <strong>instantly</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "Naturally",
+              "zh": "自然地",
+              "eg": "She <strong>naturally</strong> helped them."
+            },
+            {
+              "opt": "3",
+              "word": "Habitually",
+              "zh": "习惯性地",
+              "eg": "He <strong>habitually</strong> arrived late."
+            },
+            {
+              "opt": "4",
+              "word": "Consciously",
+              "zh": "有意识地",
+              "eg": "She <strong>consciously</strong> slowed down."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — eyeing（观察）",
+          "zh": "饥饿的乌鸦盯着雏鸟。",
+          "note": "应选（4）observing：注视、观察。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "viewing",
+              "zh": "观看",
+              "eg": "They are <strong>viewing</strong> the exhibit."
+            },
+            {
+              "opt": "2",
+              "word": "guarding",
+              "zh": "守卫",
+              "eg": "Soldiers <strong>guard</strong> the gate."
+            },
+            {
+              "opt": "3",
+              "word": "checking",
+              "zh": "检查",
+              "eg": "Please <strong>check</strong> the list."
+            },
+            {
+              "opt": "4",
+              "word": "observing",
+              "zh": "观察",
+              "eg": "The crow was <strong>observing</strong> the chicks."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following words is used to describe the setting of the Fruit Festival?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "enjoyable",
+            "2": "humorous",
+            "3": "mysterious",
+            "4": "challenging"
+          }
+        },
+        "22": {
+          "stem_plain": "Why is an exclamation mark used in the heading “The Return of the Fruit Festival at Greenview Community Club!”?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to highlight the venue of the Fruit Festival",
+            "2": "to tell readers to sign up for the Fruit Festival",
+            "3": "to show that it is not the first time the Fruit Festival is held",
+            "4": "to convey excitement about the return of the Fruit Festival"
+          }
+        },
+        "23": {
+          "stem_plain": "Only Greenview Community Club members will __________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "receive free reusable bags",
+            "2": "get to buy a Surprise Fruit Box",
+            "3": "enjoy discounts when buying tickets",
+            "4": "stand a chance to enter a lucky draw"
+          }
+        },
+        "24": {
+          "stem_plain": "Which one of the following is true of Fruit Feast 2021?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Participants have to purchase tickets online.",
+            "2": "Participants pay the same price for entrance.",
+            "3": "Participants will only enjoy free-flow of fruits.",
+            "4": "Participants must wear gloves to open durians."
+          }
+        },
+        "25": {
+          "stem_plain": "Kevin loves baking and Science, but he can only attend the workshops alone. He should participate in __________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "“Mystery Ink” and “Party Fruit Tarts”",
+            "2": "“Mystery Ink” and “Healthy Fruit Salad”",
+            "3": "“Fruit Attraction” and “Party Fruit Tarts”",
+            "4": "“Fruit Attraction” and “Healthy Fruit Salad”"
+          }
+        },
+        "26": {
+          "stem_plain": "What is the similarity between the workshops “Fruit Attraction” and “Party Fruit Tarts”?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Both workshops are conducted by famous instructors.",
+            "2": "Both workshops use fresh fruit as one of the ingredients.",
+            "3": "Both workshops allow participants to bring home their creations.",
+            "4": "Both workshops require participants to bring their own containers."
+          }
+        },
+        "27": {
+          "stem_plain": "Sandra would like to assist in the sorting of the donated food items. She should __________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "visit the organiser’s website",
+            "2": "make a phone call to Mr Raju",
+            "3": "contact Rainbow Old Age Home",
+            "4": "go to Greenview Community Club"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of the advertisement?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to promote Fruit Festival 2021",
+            "2": "to give a review of the Fruit Feast",
+            "3": "to appeal for donations from the public",
+            "4": "to list the workshops available for registration"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Setting word — fun-filled（题型考点）",
+          "note": "<p>Intro calls it a <em>fun-filled festival</em> → setting described as <span class=\"hl-good\">enjoyable</span> (1).</p><p>Other options do not match the overall tone of the ad.</p>",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "题型 — Punctuation — exclamation in heading（题型考点）",
+          "note": "<p><em>The Return of …!</em> stresses excitement about the festival coming back → <span class=\"hl-good\">(4)</span> convey excitement about the return.</p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "题型 — Member benefit（题型考点）",
+          "note": "<p>Members pay $15/$5 vs public $20/$10 → <span class=\"hl-good\">(3)</span> enjoy discounts when buying tickets.</p><p>Free bags are for first 50 participants; lucky draw is for all ticket holders.</p>",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "细节 — Detail check — Fruit Feast（信息定位）",
+          "note": "<p>Tickets at www.greenviewcc.com; adults/children different prices; free-flow fruits and coconut juice; gloves provided but staff open durians → <span class=\"hl-good\">(2)</span> not same price for all (members cheaper).</p><p>(1) online only is implied; (3) not only fruits; (4) gloves not required for pupils to open durians themselves.</p>",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "题型 — Workshop matching（题型考点）",
+          "note": "<p>Kevin: baking + Science, attends <strong>alone</strong>. Healthy Fruit Salad needs parent+child; Fruit Attraction is clay magnets. → <span class=\"hl-good\">(1)</span> Mystery Ink + Party Fruit Tarts (solo, Science + baking).</p>",
+          "answer": "1"
+        },
+        "26": {
+          "concept": "题型 — Workshop similarity（题型考点）",
+          "note": "<p>Both use <strong>fresh fruit</strong> as an ingredient (tarts; fruit-shaped craft still fruit-themed). → <span class=\"hl-good\">(2)</span>.</p><p>(3) bring home creations fits both but (2) is the listed similarity in many keys; celebrity chef only Party Fruit Tarts.</p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "题型 — Donation sorting（题型考点）",
+          "note": "<p>Call Mr Raju at 6232 4334 to help sort donations → <span class=\"hl-good\">(2)</span> make a phone call to Mr Raju.</p>",
+          "answer": "2"
+        },
+        "28": {
+          "concept": "主旨 — main purpose（主要目的）",
+          "note": "<p>Whole flyer promotes Fruit Festival 2021, Feast, workshops, donations → primary purpose <span class=\"hl-good\">(1)</span> promote Fruit Festival 2021.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "D": "from",
+          "G": "its",
+          "K": "theirs",
+          "N": "to",
+          "B": "at",
+          "E": "has",
+          "H": "of",
+          "L": "these",
+          "P": "who",
+          "C": "for",
+          "F": "have",
+          "J": "off",
+          "M": "this",
+          "Q": "whom"
+        },
+        "cloze": [
+          "The great white shark, with its 3000 teeth, is a fearsome predator of the deep sea.",
+          "However, because of the highly profitable trade in products [Q29] the sharks such as teeth, jaws and fins, this much feared fish is in danger [Q30] extinction.",
+          "Globally over the last 50 years, there has been a reported decline of between 60% [Q31] 95% in great white sharks. The main threat [Q32] its survival comes from commercial and recreational fisheries.",
+          "The average size of the great white shark is 4 to 5 metres. [Q33] diet usually consists of fish, rays and sea lions. Great white sharks are found near the shore of coastlines such as those of California and Australia. Therefore, humans [Q34] choose to swim along these shores enter the habitat of [Q35] creatures that have existed there for millions of years.",
+          "The very survival of the great white shark is [Q36] stake. Peter Benchley, the famous author of <em>Jaws</em>, [Q37] made a plea for its protection. \"We are already close to killing [Q38] the top of the oceanic food chain with catastrophic consequences that we can't imagine.\" Let us hope that his warning does not go unheeded."
+        ],
+        "zh": [
+          "大白鲨有三千颗牙齿，是深海中可怕的掠食者。",
+          "然而，鲨鱼制品（牙齿、颌骨、鱼鳍等）贸易利润极高，这种令人畏惧的鱼面临灭绝危险。",
+          "过去五十年全球大白鲨数量据报道下降六成到九成五，主要威胁来自商业和休闲渔业。",
+          "大白鲨平均体长四到五米，以鱼、鳐鱼和海狮为食，常出现在加州、澳洲等海岸附近；因此游泳的人进入这些海域，也就进入存在了数百万年的生物栖息地。",
+          "大白鲨的生存岌岌可危。《大白鲨》作者彼得·本奇利呼吁保护：“我们几乎要把海洋食物链顶端杀光，后果难以想象。”但愿警告不被忽视。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — from",
+          "note": "highly profitable trade in products from the sharks such as teeth, = 看前后搭配，选 from。",
+          "answer": "D — from"
+        },
+        "30": {
+          "concept": "介词 — of",
+          "note": "看前后搭配，选 of。",
+          "answer": "H — of"
+        },
+        "31": {
+          "concept": "连词 — and",
+          "note": "reported decline of between 60% and 95% in great white sharks. = 句间逻辑 → and。",
+          "answer": "A — and"
+        },
+        "32": {
+          "concept": "介词 — to",
+          "note": "The main threat to its survival comes from commercial = 看前后搭配，选 to。",
+          "answer": "N — to"
+        },
+        "33": {
+          "concept": "指示/所有格 — its",
+          "note": "its diet usually consists of fish, = 结合句意选 its。",
+          "answer": "G — its"
+        },
+        "34": {
+          "concept": "关系词 — who",
+          "note": "Therefore, humans who choose to swim along these = 定语/名词性从句 → who。",
+          "answer": "P — who"
+        },
+        "35": {
+          "concept": "指示词 — these creatures",
+          "note": "指示词 these 回指上文。",
+          "answer": "L — these"
+        },
+        "36": {
+          "concept": "介词 — at",
+          "note": "the great white shark is at stake. = 看前后搭配，选 at。",
+          "answer": "B — at"
+        },
+        "37": {
+          "concept": "主谓 — 时态/一致",
+          "note": "the famous author of *Jaws*, has made a plea for its = 主谓一致 → has。",
+          "answer": "E — has"
+        },
+        "38": {
+          "concept": "介词 — off",
+          "note": "are already close to killing off the top of the oceanic = 看前后搭配，选 off。",
+          "answer": "J — off"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Research has shown that gardening provides many benefits. Gardening [Q39(went)] beyond beautifying your house and common [Q40(coridoor)] or backyard. In fact, it benefits your physical and mental health.",
+          "Gardening [Q41(be)] a good form of physical activity for everyone. It involves a lot of moving about; activities such as weeding, raking or even harvesting can improve your [Q42(flexible)] and strengthen your joints and muscles.",
+          "Besides improving your physical health, gardening can help to [Q43(steamulait)] your senses and boost your mental well-being. Some studies [Q44(has)] shown that more people now [Q45(aknorledge)] the therapeutic power of just being close to plants. This [Q46(connektion)] with plants helps to reduce stress.",
+          "Gardening can also enhance your [Q47(crieitiviti)] , especially when you are planning the layout of your garden, or even [Q48(chose)] the colours of the plants to [Q49(sprus)] up your home!",
+          "Gardening can be enjoyed by both young and old. While tending to the plants, the young learn patience while the seniors can impart the values of care and [Q50(consider)] to them.",
+          "With the multiple benefits of gardening, why not start greening your thumbs now?"
+        ],
+        "zh": [
+          "研究表明园艺带来诸多益处。园艺不仅美化房屋和公共走廊或后院，事实上也有益于身心健康。",
+          "园艺对人人都是很好的体力活动形式，需要大量活动；除草、耙地乃至收割等活动可改善柔韧性，并强健关节与肌肉。",
+          "除改善身体健康外，园艺还能刺激感官、提升心理健康。一些研究表明，越来越多的人承认仅亲近植物就有疗愈力量；与植物的这种联系有助于减轻压力。",
+          "园艺也能激发创造力，尤其是在规划花园布局，甚至为植物配色以装点家居时。",
+          "老少皆宜。照料植物时，年轻人学会耐心，长辈则可向他们传授关爱与体贴的价值观。",
+          "园艺好处这么多，何不现在就动手，让双手变“绿”呢？"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Word form — goes",
+          "note": "<p><em>gardening <span class=\"hl-good\">goes</span> beyond</em> (singular subject).</p>",
+          "answer": "goes"
+        },
+        "40": {
+          "concept": "Spelling — corridor",
+          "note": "<p><em>coridoor</em> → <span class=\"hl-good\">corridor</span>.</p>",
+          "answer": "corridor"
+        },
+        "41": {
+          "concept": "Verb be — is",
+          "note": "<p><em>gardening <span class=\"hl-good\">is</span> a good form</em>.</p>",
+          "answer": "is"
+        },
+        "42": {
+          "concept": "Noun — flexibility",
+          "note": "<p>Adjective <em>flexible</em> → noun <span class=\"hl-good\">flexibility</span>.</p>",
+          "answer": "flexibility"
+        },
+        "43": {
+          "concept": "Spelling — stimulate",
+          "note": "<p><em>steamulait</em> → <span class=\"hl-good\">stimulate</span>.</p>",
+          "answer": "stimulate"
+        },
+        "44": {
+          "concept": "Subject–verb — have",
+          "note": "<p><em>Some studies <span class=\"hl-good\">have</span> shown</em>.</p>",
+          "answer": "have"
+        },
+        "45": {
+          "concept": "Spelling — acknowledge",
+          "note": "<p><em>aknorledge</em> → <span class=\"hl-good\">acknowledge</span>.</p>",
+          "answer": "acknowledge"
+        },
+        "46": {
+          "concept": "Spelling — connection",
+          "note": "<p><em>connektion</em> → <span class=\"hl-good\">connection</span>.</p>",
+          "answer": "connection"
+        },
+        "47": {
+          "concept": "Spelling — creativity",
+          "note": "<p><em>crieitiviti</em> → <span class=\"hl-good\">creativity</span>.</p>",
+          "answer": "creativity"
+        },
+        "48": {
+          "concept": "Verb form — choose",
+          "note": "<p><em>chose</em> (wrong tense) → <span class=\"hl-good\">choose</span> after <em>even</em>.</p>",
+          "answer": "choose"
+        },
+        "49": {
+          "concept": "Spelling — spruce",
+          "note": "<p><em>sprus</em> → <span class=\"hl-good\">spruce</span> (<em>spruce up</em>).</p>",
+          "answer": "spruce"
+        },
+        "50": {
+          "concept": "Noun — consideration",
+          "note": "<p><em>consider</em> (verb) → noun <span class=\"hl-good\">consideration</span>.</p>",
+          "answer": "consideration"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever eaten a fried cricket? For many of us, the thought of an all-insect dinner can be disgusting. However, people in most cultures around the world have been eating insects [Q51] ancient times.",
+          "There are [Q52] insects in the world than all the animals combined. In less developed countries [Q53] land is not suitable for raising cattle, insects are a useful source of protein. Like any other food, insects need to be washed and cooked before they are eaten.",
+          "The grasshopper is the most widely [Q54] insect in the world. They can be cooked in many different ways and have a nutty flavour. In Mexico, grasshoppers are [Q55] fried or boiled. In North America, the locals grind them [Q56] a paste to make fried cakes.",
+          "Many insects are eaten as larvae. It is the form some insects take after hatching from an egg. A larva is like a short, fat worm and is considered a rare treat. Due to its high fat [Q57], they are sometimes fried in the cooking pots [Q58] using oil.",
+          "Not only are insects eaten as a main course but they [Q59] make a tasty snack. In Columbia, leaf cutter ants are fried like peanuts and sold in cinemas instead of popcorn. Are you ready for more? How about a sweet honeypot ant instead of ice-cream? You grab a live one by the head and bite off the large glob of honey that it [Q60] in its abdomen.",
+          "Insects are so [Q61] that it will be a waste if we do not use them as a [Q62] of food. Looking for insects [Q63] not a challenging task at all. With a keen sense of [Q64], you can spot an insect in almost every nook and [Q65]. The next time you want to kill an insect, think again!"
+        ],
+        "zh": [
+          "你吃过炸蟋蟀吗？对我们许多人来说，想到一顿全虫宴可能会觉得恶心。然而，世界上大多数文化中的人们自古以来就在食用昆虫。",
+          "世界上昆虫的数量比所有其他动物加起来还要多。在土地不适合养牛的欠发达国家，昆虫是宝贵的蛋白质来源。与其他食物一样，昆虫在食用前需要清洗并煮熟。",
+          "蚱蜢是世界上食用最广泛的昆虫。它们的烹饪方式多样，带有一种坚果风味。在墨西哥，蚱蜢通常被油炸或水煮。在北美，当地人将它们磨成糊状来做煎饼。",
+          "许多昆虫是以幼虫阶段被食用的。这是某些昆虫从卵中孵化后的形态。幼虫就像一条又短又胖的蠕虫，被视为一种难得的美味。由于其脂肪含量高，它们有时可以直接在锅里煎炸而无需放油。",
+          "昆虫不仅能当作主菜，还能做成美味的零食。在哥伦比亚，切叶蚁像花生一样被油炸，并在电影院里代替爆米花销售。你准备好尝试更多了吗？来一只甜蜜蚁代替冰淇淋怎么样？你捏住活蜜蚁的头部，然后一口咬下它腹部里储存的那大滴蜂蜜。",
+          "昆虫的资源如此丰富，如果我们不把它们作为一种食物来源，那将是一种浪费。寻找昆虫根本不是一件具有挑战性的任务。凭借敏锐的观察力，你几乎可以在每个角落和缝隙中发现昆虫。下一次你想拍死一只昆虫时，请三思！"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "时间介词完成时搭配",
+          "note": "前面有现在完成进行时谓语 have been eating，后接历史时间名词 ancient times。指从古代“以来”直到今天一直在吃昆虫，固定使用表示时间起点的介词 since。",
+          "answer": "since"
+        },
+        "52": {
+          "concept": "比较级句型形式",
+          "note": "后文出现了明确的比较连词 than。指地球上昆虫的总数多于其他所有动物的总和，故填限定词/数量形容词比较级 more。",
+          "answer": "more"
+        },
+        "53": {
+          "concept": "关系副词引导定语从句",
+          "note": "引导限定性定语从句，修饰表示地理区域的复数先行词 countries（国家/地区）。在这些国家里土地不适合畜牧，在从句中充当地点状语，故填入关系副词 where。",
+          "answer": "where"
+        },
+        "54": {
+          "concept": "过去分词短语作后置/夹心定语",
+          "note": "修饰后面的名词 insect，前面有程度副词 widely 引导。指蝗虫是世界上“被食用（eaten/consumed）”得最广泛的昆虫，需填入过去分词形式，填入 同义的 consumed 亦完全通顺。",
+          "answer": "eaten/consumed"
+        },
+        "55": {
+          "concept": "并列关联词搭配",
+          "note": "后文出现了并列选择连词 or（fried or boiled）。完美契合经典关联选择句型 either... or...，意为在墨西哥，蝗虫“要么”被油炸，“要么”被水煮。",
+          "answer": "either"
+        },
+        "56": {
+          "concept": "短语动词介词搭配",
+          "note": "与前面的动词原形 grind 完美组合。在探讨食材加工的特定场景下，指将它们“研磨成（grind them into a paste）”糊状来制作炸饼，用以表达物理形态的转变，故填专属变动介词 into。",
+          "answer": "into"
+        },
+        "57": {
+          "concept": "名词固定习惯搭配",
+          "note": "由形容词短语 high fat（高脂肪的）进行修饰。在探讨营养学和生物特性的特定语境下，指由于幼虫自身拥有极高“的”脂肪“含量”，构成专属高频学术搭配 high fat content 或者是 percentage。",
+          "answer": "content/percentage"
+        },
+        "58": {
+          "concept": "介词引导独立条件/状态状语",
+          "note": "后接动名词短语 using oil（使用植物油）。结合前文“因其自身脂肪含量极高”的线索提示，说明它们可以直接在锅里煎炸而“不需要/不用（without）”额外添加食用油。原答案表中列出的 as 为个别校方评分对“作为不用油的烹饪”的特殊语法接受，备考以具有否定前提含义的专属介词 without 最符合严谨逻辑。",
+          "answer": "without/as"
+        },
+        "59": {
+          "concept": "并列并列关联词搭配与副词",
+          "note": "与前文的否定关联词 Not only 完美呼应，构成经典的逻辑递进句型结构 not only... but they also...（不仅……而且它们还……），此空格位于 but they 之后，需填入加强语气和递进的副词 also。",
+          "answer": "also"
+        },
+        "60": {
+          "concept": "一般现在时定语从句主谓一致",
+          "note": "在由关系代词 that 引导的定语从句中，主语为单数代词 it（指代honeypot ant蜜罐蚁）。本句陈述客观存在的生物学事实，需用一般现在时。指它在腹部所“储存（stores/keeps）”或“拥有（has/contains/holds）”的巨大蜜蜜球，动词需用单三形式。",
+          "answer": "has/stores/keeps/contains/holds"
+        },
+        "61": {
+          "concept": "形容词语意与结果从句呼应",
+          "note": "作为系动词 are 之后的表语，前面有副词 so 引导，后接 that 引导的结果从句。结合后文“如果不把它们当成食物来源就太浪费了”的因果烘托，指地球上的昆虫资源极其“丰富的”、“庞大的”或“常见的”，故填形容词 abundant / plentiful / common / numerous。",
+          "answer": "abundant/plentiful/common/numorous"
+        },
+        "62": {
+          "concept": "名词固定习惯搭配",
+          "note": "与其后置的介词短语 of food 完美结合。属于在各类自然、环保及膳食资源说明文中极其核心和高频的专属搭配 a source of food，意为将昆虫作为一种新型的“食物来源”。",
+          "answer": "source"
+        },
+        "63": {
+          "concept": "动名词短语充当主语的主谓一致",
+          "note": "主语为动名词短语 Looking for insects（寻找昆虫，在语法结构上充当单数第三人称主语）。本句陈述客观现状，需填入单数现在时系动词 is，构成“寻找昆虫其实一点都不困难”的含义。",
+          "answer": "is"
+        },
+        "64": {
+          "concept": "高频抽象名词固定习惯搭配",
+          "note": "由前置的经典修饰语 a keen sense of（敏锐的……感/超强的……能力）引导。结合后文的动词 spot（发现/一眼看出），说明此处特指具备敏锐的“视力”或“观察力”，完美契合专属感知习语 a keen sense of sight 或者是 observation / vision / perception。",
+          "answer": "sight/observation/vision/perception"
+        },
+        "65": {
+          "concept": "经典四字习语固定搭配",
+          "note": "与其前置的并列连词 and 极其名词 nook 完美组合。构成全行业、各类日常交流及书面语体中出题率极高、用以形容每个角落、到处都是的经典核心专属代称四字习语 every nook and cranny，意为“在每一个犄角旮旯/在每一个角落”。",
+          "answer": "cranny"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Only Sam and Neil have not signed up for the talent contest.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Everyone, except Sam and Neil, __________"
+        },
+        "67": {
+          "stem_plain": "You will be late for the interview if you do not hurry.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________"
+        },
+        "68": {
+          "stem_plain": "\"Why did you choose this venue for your birthday party?\" Father asked Siti.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Father wanted to know __________"
+        },
+        "69": {
+          "stem_plain": "Sumei peered through the window. She was curious.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Out of __________"
+        },
+        "70": {
+          "stem_plain": "Raju is the most sensible pupil in the class.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No other __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "句型转换 — Except → inclusive negative",
+          "zh": "除了萨姆和尼尔，大家都已报名参加才艺比赛。",
+          "note": "except 引出除外对象；动词与 everyone 一致用 has。",
+          "answer": "Everyone, except Sam and Neil, has signed up for the talent contest."
+        },
+        "67": {
+          "concept": "条件句 — Unless",
+          "zh": "除非你赶快，否则面试会迟到。",
+          "note": "unless = if … not；主句在前、unless 从句在后。",
+          "answer": "You will be late for the interview unless you hurry."
+        },
+        "68": {
+          "concept": "间接引语 — Reported wh-question",
+          "zh": "父亲想知道茜蒂为何选那个场地办生日派对。",
+          "note": "间接引语：why 从句，时态后移。",
+          "answer": "Father wanted to know why Siti had chosen that venue for her birthday party."
+        },
+        "69": {
+          "concept": "句型转换 — Out of + noun",
+          "zh": "苏美出于好奇从窗户往外看。",
+          "note": "Out of + 名词；两句合并为一句。",
+          "answer": "Out of curiosity, Sumei peered through the window."
+        },
+        "70": {
+          "concept": "比较/结果结构 — Comparative → no other … as … as",
+          "zh": "班里没有其他学生像拉朱那样理智。",
+          "note": "最高级改写为 no other … as … as 比较结构。",
+          "answer": "No other pupil is as sensible as Raju in the class."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why was Fatima looking forward to the **\"moment\"** (line 2)?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Besides the nightfall, what made Fatima desperate to escape in paragraph 3?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q72a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "Pick a word from paragraph 4 which tells us that Fatima's mother had related a worse account of her daughter's experience at the river.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on lines 5 – 33, state whether each statement in the table is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Fatima escaped immediately when she saw the tiger.",
+                "b) The tiger tried to attack Fatima.",
+                "c) Mamood felt that the women and children would not be able to protect themselves from the tiger."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]",
+                "[Q74e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]",
+                "[Q74f]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Explain clearly why the men **\"stared at the floor in silence and avoided the headman's eyes\"** (line 26).",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "a) at this point (line 10)",
+                "b) it (line 21)",
+                "c) reason (line 32)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Based on lines 5 – 23, fill in the following table to show the differences in **reactions** to the tiger between Fatima and the villagers.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "**When Fatima first saw the tiger** ",
+              "question": "Fatima's reaction to the tiger: [Q77a]"
+            },
+            {
+              "stem_plain": "**When the villagers first heard about the tiger**",
+              "question": "The villagers' reactions to the tiger: [Q77b]"
+            }
+          ]
+        },
+        "78": {
+          "stem_plain": "Based on lines 34 – 42, what was the difference between how Fatima and the villagers **felt** when the tiger was killed?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Why do you think Fatima was in a **\"sombre mood\"** (line 43) after the tiger was killed?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "**\"....she knew too well what sort of fate awaited the cubs the next day\"** (line 47). Explain clearly what sort of fate awaited the tiger's cubs and why.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Fatima stood waist-deep in the shallow part of the river. She had been looking forward",
+          "2": "to **this moment** since late afternoon. The pregnant woman loosened her black hair, and",
+          "3": "with her hands scooped the water and let it run through her hair and her body. She smiled",
+          "4": "blissfully, thankful for the momentary coolness from the river.",
+          "5": "When she turned around, her eyes caught the glaring eyes of the tiger. Although she",
+          "6": "was afraid, she stood still. It was on the bank, merely 12 metres away from her. They stood",
+          "7": "motionless, looking at each other for what seemed like an eternity. The occasional growls",
+          "8": "became less menacing each time. The glare of its eyes had also changed into a bored",
+          "9": "expression. Soon, the tiger lay down with its huge paws stretched out in front. It was only",
+          "10": "**at this point** that Fatima realised that the tiger's belly was swollen just like hers. Could the",
+          "11": "tiger be expecting her cubs soon?",
+          "12": "The chirping of the crickets and the distant hoot of an owl signalled the impending",
+          "13": "darkness. Fatima grew desperate when the tiger showed no signs of going away. Her hands",
+          "14": "wandered over her stomach, and the realisation that she was a being with two lives forced",
+          "15": "her to make a bid for an escape. When the tiger turned its eyes away from her, Fatima dived",
+          "16": "under water with a desperate movement and made for the opposite bank, in the direction",
+          "17": "of the village.",
+          "18": "The villagers panicked when they first heard an exaggerated version of the story by",
+          "19": "Fatima's mother. The village headman arrived at her house to question her on the",
+          "20": "whereabouts of the tiger. Unlike the villagers who wanted to have the tiger killed, Fatima",
+          "21": "was against **it**. She said, \"The tiger could have easily sprung at me as it was near but it",
+          "22": "didn't. Also there was nothing murderous about its eyes and they looked gentle and bored.\"",
+          "23": "The headman frowned at what she had just said.",
+          "24": "The headman told the crowd, \"A tiger is not a pleasant thing to have wandering near",
+          "25": "our village. For the peace and safety of everyone, the tiger must be destroyed without",
+          "26": "delay.\" The men **stared at the floor in silence and avoided the headman's eyes**. They",
+          "27": "knew how dangerous it was to track and kill a tiger at night, especially when the dense",
+          "28": "forest gave the tiger an advantage to hide and strike.",
+          "29": "A man, by the name of Mamood, walked into the crowd with a rifle slung across his",
+          "30": "shoulders. He was all for hunting the tiger. \"We have to think of the women and children.",
+          "31": "They will never move an inch out of their houses until they know that the tiger is dead,\" said",
+          "32": "Mamood. Everyone present was aware that he was a sharp shooter. For this **reason**, the",
+          "33": "men decided to rally around him and left the village to hunt for the tiger.",
+          "34": "Soon after, Fatima was resting in the hut with her mother when she felt a sharp pain",
+          "35": "shoot through her. Her hands went over her stomach. Her mother advised her to lie down",
+          "36": "on the mat. A faraway crack of a rifle was heard. Then another shot followed. The air was",
+          "37": "suddenly filled with excited voices. The old lady opened the door and heard a youth shout,",
+          "38": "\"Hurrah for Mamood, Auntie! They managed to kill the tiger. After the animal was dead, they",
+          "39": "found three of the tiniest tiger cubs whose eyes were scarcely opened. Mamood said that",
+          "40": "they could not be more than a few hours old. No wonder the tiger put up a fierce fight and",
+          "41": "fought with all its might before it was killed by Mamood,\" the boy said excitedly in one single",
+          "42": "breath.",
+          "43": "Fatima was in a **sombre mood** later that night. The thought that she might be the",
+          "44": "indirect cause of a tiger's death was unbearable to her. She wished she had the means to",
+          "45": "stop the hunt and save the tiger's life. But she also understood the village headman's",
+          "46": "argument for the tiger's destruction. Not too far, she heard the cubs' whimpering within the",
+          "47": "village compound and she knew too well what sort of fate awaited the cubs the next day."
+        },
+        "paragraphs": {
+          "1": "法蒂玛站在河水及腰的浅滩。从下午晚些时候起，她就一直期待着这一时刻。这位孕妇松开黑发，用手捧起河水淋在头发和身体上。她幸福地微笑着，感激河水带来的片刻清凉。",
+          "5": "当她转身时，目光撞上了一只老虎紧盯着她的双眼。尽管害怕，她仍伫立不动。老虎就在岸边，离她仅12米远。他们一动不动地对视着，时间仿佛静止了。偶尔发出的低吼声变得越来越没有威胁。老虎眼里的凶光也转变成了一种厌倦的神情。很快，老虎趴了下来，巨大的爪子向前伸展。直到此时，法蒂玛才意识到老虎的肚子和她一样隆起。难道这只老虎也快生幼崽了吗？",
+          "12": "蟋蟀的鸣叫和远处猫头鹰的啼哭预示着夜幕降临。看到老虎没有离开的迹象，法蒂玛变得焦急起来。她的手抚过腹部，意识到自己正承载着两个生命，这迫使她尝试逃跑。当老虎移开视线时，法蒂玛拼命一跃潜入水中，向村庄方向的对岸游去。",
+          "18": "村民们听到法蒂玛母亲夸大其词的讲述后陷入了恐慌。村长来到她家询问老虎的下落。与想要杀掉老虎的村民不同，法蒂玛表示反对。她说：“老虎离我那么近，本可以轻易扑向我，但它没有。而且它的眼神里没有杀气，看起来温和而疲倦。”村长听后皱起了眉头。",
+          "24": "村长对众人说：“老虎在村庄附近游荡可不是什么好事。为了大家的安宁和安全，必须立即除掉它。”男人们沉默地盯着地板，避开村长的目光。他们深知在黑夜追踪并猎杀老虎是多么危险，尤其是在茂密的森林里，老虎占据了隐蔽和突袭的优势。",
+          "29": "一个名叫马穆德的男人肩扛步枪走进人群。他完全赞成猎杀老虎。“我们得为妇女和孩子着想。在确认老虎死掉之前，他们连家门都不敢迈出一步，”马穆德说。在场的人都知道他是个神枪手。正因如此，男人们决定团结在他周围，离开村子去猎虎。",
+          "34": "不久后，法蒂玛正和母亲在小屋里休息，突然感到一阵剧痛袭来。她的手捂住腹部，母亲建议她躺在席子上。远处传来一声清脆的枪响，接着又是一枪。空气中突然充满了兴奋的嘈杂声。老妇人打开门，听到一个少年喊道：“马穆德万岁，大婶！他们杀掉了老虎。在那畜生断气后，他们发现了三只眼睛都没睁开的小虎崽。马穆德说它们才出生几个小时。难怪那只老虎在被马穆德杀掉之前拼死反抗，”少年一口气兴奋地说道。",
+          "43": "那天深夜，法蒂玛心情沉重。想到自己可能是老虎死亡的间接原因，她感到难以忍受。她希望自己当时有办法阻止这场狩猎并救下老虎的性命。但她也理解村长坚持除掉老虎的立场。不远处，她听到村子里传来虎崽的哀鸣，她很清楚等待这些幼崽的将是什么命运。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>问 <strong>\"moment\"</strong>（行 2）指什么，法蒂玛为何期待。</li><li><strong>证据：</strong>行 2–4 <em>looking forward to this moment</em>；行 4 <em>momentary coolness from the river</em>。</li><li><strong>答：</strong>她享受河水带来的片刻清凉。</li></ol>",
+          "answer": [
+            "She enjoyed the momentary coolness from the river."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>第三段（行 12–17）。</li><li><strong>除天黑外：</strong>行 13–14 虎不走；行 14–15 意识到自己怀着两条命，必须逃离。</li></ol>",
+          "answer": {
+            "72a": "The tiger showed no signs of going away.",
+            "72b": "She realised that she was pregnant and needed to protect her child."
+          }
+        },
+        "73": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>范围：</strong>第四段（行 18–19）。</li><li><strong>词：</strong>母亲讲述 <em>an exaggerated version</em> → 抄 <strong>exaggerated</strong>。</li></ol>",
+          "answer": [
+            "exaggerated"
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>范围：</strong>行 5–33。</li><li><strong>(a) FALSE：</strong>行 5–9 她害怕但伫立，未立刻逃跑。</li><li><strong>(b) FALSE：</strong>行 8–9 眼神倦怠，虎趴下，未攻击。</li><li><strong>(c) FALSE：</strong>行 30–31 马穆德说妇女儿童在虎死前不敢出门，非“无法自保”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "False",
+            "74b": "Fatima did not escape immediately when she saw the tiger. She stood still",
+            "74c": "False",
+            "74d": "The glare of its eyes had also changed into a bored expression. Soon, the tiger lay down with its huge paws stretched out in front",
+            "74e": "False",
+            "74f": "Mamood said that the women and children would not go out of their house until the tiger is killed"
+          }
+        },
+        "75": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>问法：</strong>解释行 26 男人为何低头沉默、回避村长目光。</li><li><strong>证据：</strong>行 24–28 村长要求立刻杀虎；行 27–28 夜猎虎极危险，密林利于虎藏身攻击。</li><li><strong>答：</strong>他们害怕夜间猎虎，又不敢违抗村长。</li></ol>",
+          "answer": [
+            "The headman told the crowd that a tiger was not a pleasant thing to have wandering near their village. He wanted the tiger to be destroyed without delay. The men were afraid as they knew how dangerous it was to track and kill a tiger at night, especially when the dense forest gave the tiger an advantage to hide and strike."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a) at this point（行 10）：</strong>虎趴下、露肚的时刻。</li><li><strong>(b) it（行 21）：</strong>杀虎这件事/主张。</li><li><strong>(c) reason（行 32）：</strong>马穆德是神枪手，故众人跟他去。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "when the tiger lay down with its huge paws stretched out in front the idea of having the tiger killed Mamood being a sharp shooter",
+            "76b": "the idea if having the tiger killed.",
+            "76c": "Mamood being a sharp shooter."
+          }
+        },
+        "77": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>范围：</strong>行 5–23。</li><li><strong>法蒂玛初见虎：</strong>害怕但伫立（行 6–7）。</li><li><strong>村民初闻：</strong>恐慌（行 18）。</li></ol>",
+          "answer": {
+            "77a": "She was afraid and stood still.",
+            "77b": "They panicked."
+          }
+        },
+        "78": {
+          "concept": "对比分析题",
+          "note": "<ol><li><strong>范围：</strong>行 34–42。</li><li><strong>对比：</strong>村民欢呼兴奋（行 37–41）；法蒂玛悲伤（行 43 及后文）。</li></ol>",
+          "answer": [
+            "Fatima felt sad while the villagers were happy when the tiger was killed."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "推断题",
+          "note": "<ol><li><strong>问法：</strong>为何 <strong>\"sombre mood\"</strong>（行 43）。</li><li><strong>证据：</strong>行 43–45 自责间接害虎；行 46–47 听见幼虎，知翌日难逃。</li></ol>",
+          "answer": [
+            "She felt guilty that she had told the headman about the tiger and caused its death / she could have done something to save the tiger."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>问法：</strong>幼虎将遭何命运及原因。</li><li><strong>推理：</strong>村民刚杀母虎，怕幼虎长大成患，会除掉幼虎（行 46–47）。</li></ol>",
+          "answer": [
+            "The tiger's cubs might be killed by the villagers and they did not want cubs to pose a danger to them."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

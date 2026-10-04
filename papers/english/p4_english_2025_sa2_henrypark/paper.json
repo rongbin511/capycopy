@@ -1,0 +1,709 @@
+{
+  "paperid": "p4_english_2025_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "7": {
+          "stem_plain": "James took part in a challenge and jogged every day ________ a week.",
+          "options": {
+            "1": "at",
+            "2": "on",
+            "3": "for",
+            "4": "during"
+          }
+        },
+        "8": {
+          "stem_plain": "Last night, I ________ woken up by a loud clap of thunder.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "9": {
+          "stem_plain": "Sarah and Jane ________ thrilled when they heard about the learning journey to the Singapore Zoo.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "\"We ________ now. Please come and join us,\" said Mr Ali.",
+          "options": {
+            "1": "ate",
+            "2": "eat",
+            "3": "are eating",
+            "4": "have eaten"
+          }
+        },
+        "11": {
+          "stem_plain": "Last night, Kim ________ a loaf of bread before going home for dinner.",
+          "options": {
+            "1": "buys",
+            "2": "bought",
+            "3": "has bought",
+            "4": "was buying"
+          }
+        },
+        "12": {
+          "stem_plain": "When Julia ________ to the toilet, she spotted a beehive on the tree.",
+          "options": {
+            "1": "walks",
+            "2": "walked",
+            "3": "will walk",
+            "4": "was walking"
+          }
+        },
+        "13": {
+          "stem_plain": "________ seat here in front of the stage is reserved for the Guest of Honour.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "14": {
+          "stem_plain": "Susan lost her favourite pen ________ she did not cry.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "since",
+            "4": "because"
+          }
+        },
+        "15": {
+          "stem_plain": "We need to prepare more food as we have invited ________ friends to our party.",
+          "options": {
+            "1": "no",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "16": {
+          "stem_plain": "\"May I go to the water cooler? There's not ________ water left in my water bottle,\" Lila asked her teacher.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        }
+      },
+      "answers": {
+        "7": {
+          "note": "表示动作持续了一段时间，后面接一段时间（a week），应该用介词 “for”。",
+          "concept": "介词辨析 — Prepositions — time duration",
+          "zh": "詹姆斯参加了一个挑战，连续一个星期每天都去跑步。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "句首有明确的过去时间状语 “Last night”（昨晚），且主语为 “I”（第一人称单数），被动语态中表示被吵醒应用 “was woken up”。",
+          "concept": "被动语态与时态 — Passive Voice & Tense — Past Tense (Singular)",
+          "zh": "昨晚，我被一声响亮的雷鸣惊醒了。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "“when” 引导的时间状语从句使用的是过去时（heard），主句也应使用过去时；主语是 “Sarah and Jane”（复数），因此用 “were”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Plural)",
+          "zh": "当萨拉和珍听到去新加坡动物园的学习之旅时，她们兴奋不已。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "句中有时间副词 “now”（现在），表明说话人正在进行的动作，需用现在进行时 “are eating”。",
+          "concept": "动词时态 — Verb Tenses — Present Continuous Tense",
+          "zh": "“我们现在正在吃东西。请过来加入我们吧，”阿里先生说。",
+          "answer": "3"
+        },
+        "11": {
+          "note": "句首有明确的过去时间状语 “Last night”（昨晚），表示过去发生的动作，需用一般过去时，buy 的过去式为 bought。",
+          "concept": "动词时态 — Verb Tenses — Simple Past Tense",
+          "zh": "昨晚，金在回家吃晚饭前买了一长条面包。",
+          "answer": "2"
+        },
+        "12": {
+          "note": "“When” 引导的从句在此处表示一个正在持续的背景动作（在去厕所的路上），中途发生了一个瞬间动作（spotted），因此从句需用过去进行时 “was walking”。",
+          "concept": "动词时态 — Verb Tenses — Past Continuous Tense",
+          "zh": "当朱莉娅走向厕所时，她发现树上有一个马蜂窝。",
+          "answer": "4"
+        },
+        "13": {
+          "note": "句中有空间近指词 “here”（这里），且修饰的对象 “seat” 是单数可数名词，因此选用近指单数指示代词 “This”。",
+          "concept": "指示代词 — Demonstrative Pronouns — this",
+          "zh": "舞台前方的这个座位是为贵宾预留的。",
+          "answer": "1"
+        },
+        "14": {
+          "note": "前半句“丢了最喜欢的笔”和后半句“没有哭”之间是转折关系，故选表示转折的连词 “but”。",
+          "concept": "连词辨析 — Conjunctions — but",
+          "zh": "苏珊丢 distributed 了她最喜欢的笔，但她没有哭。",
+          "answer": "2"
+        },
+        "15": {
+          "note": "“friends” 是可数名词复数，不能用 little 或 much 修饰；结合前文 “prepare more food”（准备更多食物），说明邀请的朋友“很多”，故选 many。",
+          "concept": "数量词修饰 — Quantifiers — countable nouns",
+          "zh": "我们需要准备更多的食物，因为我们邀请了许多朋友来参加我们的派对。",
+          "answer": "3"
+        },
+        "16": {
+          "note": "“water” 是不可数名词，不能用 few 或 many 修饰；在否定句 “There's not...” 中，表示水“不多”，通常用 much 修饰。",
+          "concept": "数量词修饰 — Quantifiers — uncountable nouns",
+          "zh": "“我可以去饮水机那儿吗？我的水瓶里没剩多少水了，”莉拉问她的老师。",
+          "answer": "4"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "1": {
+          "stem_plain": "Vicky squealed with delight. She was ____________ to see the shiny new bicycle that her parents have bought for her.",
+          "options": {
+            "1": "upset",
+            "2": "confident",
+            "3": "overjoyed",
+            "4": "disappointed"
+          }
+        },
+        "2": {
+          "stem_plain": "Alison wrote a note in her diary to ____________ herself to revise for her spelling test on Thursday.",
+          "options": {
+            "1": "warn",
+            "2": "advise",
+            "3": "remind",
+            "4": "question"
+          }
+        },
+        "3": {
+          "stem_plain": "The eagle's ____________ to see clearly from far helps it find food from high up in the sky.",
+          "options": {
+            "1": "ability",
+            "2": "power",
+            "3": "control",
+            "4": "energy"
+          }
+        },
+        "4": {
+          "stem_plain": "Grandfather's 80th birthday was the perfect ____________ to gather the whole family together for dinner.",
+          "options": {
+            "1": "situation",
+            "2": "invitation",
+            "3": "occasion",
+            "4": "explanation"
+          }
+        },
+        "5": {
+          "stem_plain": "\"Mum, we need to fix this leaking tap. Little drops of water are ____________ from it,\" said Alex.",
+          "options": {
+            "1": "oozing",
+            "2": "gushing",
+            "3": "dripping",
+            "4": "sloshing"
+          }
+        },
+        "6": {
+          "stem_plain": "Wearing ____________ gear like a helmet or kneepads keeps us safe when cycling.",
+          "options": {
+            "1": "proactive",
+            "2": "protective",
+            "3": "productive",
+            "4": "preservative"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "zh": "维琪高兴得叫了起来。看到父母给她买的崭新闪亮的自行车，她欣喜若狂。",
+          "note": "“overjoyed”意思是“欣喜若狂的”，与前文的“高兴得叫了起来（squealed with delight）”完美呼应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "upset",
+              "zh": "难过的、生气的",
+              "eg": "She was upset when she lost her favorite watch at the park."
+            },
+            {
+              "opt": "2",
+              "word": "confident",
+              "zh": "自信的",
+              "eg": "He felt confident that he would pass the driving test easily."
+            },
+            {
+              "opt": "3",
+              "word": "overjoyed",
+              "zh": "欣喜若狂的",
+              "eg": "The team was overjoyed after winning the championship match."
+            },
+            {
+              "opt": "4",
+              "word": "disappointed",
+              "zh": "失望的",
+              "eg": "They were disappointed that the outdoor concert was canceled due to rain."
+            }
+          ]
+        },
+        "2": {
+          "zh": "艾莉森在日记里写了一条便签，以提醒自己复习周四的拼写测试。",
+          "note": "“remind”意思是“提醒（某人）”，常用于“remind oneself to do something”结构，符合写便签备忘的场景。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "warn",
+              "zh": "警告",
+              "eg": "The sign was put up to warn people about the deep water."
+            },
+            {
+              "opt": "2",
+              "word": "advise",
+              "zh": "建议",
+              "eg": "The teacher will advise the students on how to choose their project topics."
+            },
+            {
+              "opt": "3",
+              "word": "remind",
+              "zh": "提醒",
+              "eg": "Please remind me to buy some milk on our way home."
+            },
+            {
+              "opt": "4",
+              "word": "question",
+              "zh": "质问、询问",
+              "eg": "The detective began to question the suspect about his whereabouts."
+            }
+          ]
+        },
+        "3": {
+          "zh": "老鹰从远处清晰看物的能力有助于它在天空高处寻找食物。",
+          "note": "“ability”意思是“能力”，后面常接动词不定式（ability to see），形容老鹰天生的生理本能。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "ability",
+              "zh": "能力",
+              "eg": "Birds have the amazing ability to fly long distances across the ocean."
+            },
+            {
+              "opt": "2",
+              "word": "power",
+              "zh": "力量、权力",
+              "eg": "The engine has enough power to pull the heavy cargo train."
+            },
+            {
+              "opt": "3",
+              "word": "control",
+              "zh": "控制",
+              "eg": "The driver lost control of the vehicle on the icy road."
+            },
+            {
+              "opt": "4",
+              "word": "energy",
+              "zh": "能量、精力",
+              "eg": "Children have plenty of energy to run around all day."
+            }
+          ]
+        },
+        "4": {
+          "zh": "祖父的80岁生日是让全家人聚在一起吃晚饭的绝佳时机。",
+          "note": "“occasion”意思是“时机、重大活动、场合”，通常用来指代生日、婚礼等庆祝活动。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "situation",
+              "zh": "情况、处境",
+              "eg": "The police are monitoring the traffic situation on the expressway."
+            },
+            {
+              "opt": "2",
+              "word": "invitation",
+              "zh": "邀请、邀请函",
+              "eg": "She sent out an invitation to her friends for her housewarming party."
+            },
+            {
+              "opt": "3",
+              "word": "occasion",
+              "zh": "时刻、特殊场合",
+              "eg": "A graduation ceremony is a memorable occasion for all students."
+            },
+            {
+              "opt": "4",
+              "word": "explanation",
+              "zh": "解释",
+              "eg": "The boy gave a long explanation for why he was late for school."
+            }
+          ]
+        },
+        "5": {
+          "zh": "“妈妈，我们需要修理这个漏水的水龙头。小水滴正从里面滴下来，”亚历克斯说。",
+          "note": "“dripping”意思是“滴下、滴水”，由漏水（leaking）以及前文的“小水滴（little drops of water）”可以准确锁定该词。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "oozing",
+              "zh": "渗出、慢慢流出（多指粘稠液体）",
+              "eg": "Sticky sap was oozing from the cut on the tree trunk."
+            },
+            {
+              "opt": "2",
+              "word": "gushing",
+              "zh": "涌出、喷涌",
+              "eg": "Water was gushing out from the broken underground pipe."
+            },
+            {
+              "opt": "3",
+              "word": "dripping",
+              "zh": "滴落",
+              "eg": "Rainwater was dripping from the roof into the bucket below."
+            },
+            {
+              "opt": "4",
+              "word": "sloshing",
+              "zh": "泼溅、晃荡",
+              "eg": "The water was sloshing around in the bucket as he carried it."
+            }
+          ]
+        },
+        "6": {
+          "zh": "骑自行车时佩戴头盔或护膝等防护装备可以让我们保持安全。",
+          "note": "“protective”意思是“保护性的、防护的”，常与“gear（装备）”搭配，指头盔、护膝等安全用品。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "proactive",
+              "zh": "积极主动的",
+              "eg": "The school took proactive measures to prevent bullying among students."
+            },
+            {
+              "opt": "2",
+              "word": "protective",
+              "zh": "保护性的、防护的",
+              "eg": "Workers on the construction site must wear protective clothing at all times."
+            },
+            {
+              "opt": "3",
+              "word": "productive",
+              "zh": "富有成效的、高产的",
+              "eg": "The team had a highly productive meeting and finalized the plan."
+            },
+            {
+              "opt": "4",
+              "word": "preservative",
+              "zh": "防腐的（通常作名词指防腐剂）",
+              "eg": "Salt has been used for centuries as a natural preservative for meat."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "代词（主格）",
+          "note": "作句子主语，指代上文提到的物‘小组项目（group project）’，单数中性代词用 it，故选 it。",
+          "answer": "C"
+        },
+        "18": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词短语 group members，指代 Emma 的组员们，用女性单数物主代词 her，故选 her。",
+          "answer": "B"
+        },
+        "19": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词短语 teamwork and creativity，表示‘他们的’团队合作与创意，故选 their。",
+          "answer": "D"
+        },
+        "20": {
+          "concept": "代词（主格）",
+          "note": "作从句主语，后面有 together（一起），结合前文‘老师表扬了他们’，说明是指代‘他们’共同取得的成就，故选 they。",
+          "answer": "E"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "he",
+          "B": "her",
+          "C": "it",
+          "D": "their",
+          "E": "they",
+          "F": "your"
+        },
+        "cloze": [
+          "Emma was excited to present her group project to the class. [Q17] was a model of the solar system, carefully made with colourful planets. She made the sun while [Q18] group members worked on the planets, making sure the sizes were accurate. Everyone admired [Q19] teamwork and creativity. The teacher praised them and she felt proud of what [Q20] had achieved together. It was a moment she would always remember."
+        ],
+        "zh": [
+          "埃玛很兴奋能向全班展示她的核心小组项目。它是一个太阳系的模型，是用色彩斑斓的行星精心制作而成的。她制作了太阳，而她的组员们则负责制作行星，以确保尺寸准确。每个人都赞赏他们的团队合作和创造力。老师表扬了他们，她为他们共同取得的成就感到自豪。这是一个她会永远铭记的时刻。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {},
+      "answers": {},
+      "passages": {}
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "29": {
+          "stem_plain": "Peter was listening to music. Peter's sister was talking on the phone.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... while ..."
+        },
+        "30": {
+          "stem_plain": "Sarah was tired. Sarah stayed up late to finish her work.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Although ..."
+        },
+        "31": {
+          "stem_plain": "The students arrive on time. We will start the lesson.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "If ..."
+        },
+        "32": {
+          "stem_plain": "We can play soccer during recess. We can go to the library during recess.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... either ..."
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "时间状语从句 — Temporal Clause ('while')",
+          "zh": "皮特在听音乐，而他的妹妹在接电话。",
+          "note": "while 引导时间状语从句，用于连接两个同时发生且具有对比或并行性质的过去进行时动作。",
+          "answer": "Peter was listening to music while his sister was talking on the phone."
+        },
+        "30": {
+          "concept": "让步状语从补 — Concessive Clause ('Although')",
+          "zh": "虽然萨拉很累，但她还是熬夜完成了工作。",
+          "note": "Although 引导让步状语从句。连接时需注意主句和从句使用同一个名词时，后出现的用代词（Sarah -> she）替换，且主从句间用逗号隔开，句中不能再出现 but。",
+          "answer": "Although Sarah was tired, she stayed up late to finish her work."
+        },
+        "31": {
+          "concept": "条件状语从句 — Conditional Clause ('If')",
+          "zh": "如果学生们按时到达，我们就会开始上课。",
+          "note": "If 引导条件从句。主句使用一般将来时（will start），if 从句使用一般现在时（arrive），主从句之间用逗号隔开。",
+          "answer": "If the students arrive on time, we will start the lesson."
+        },
+        "32": {
+          "concept": "选择连词 — Correlative Conjunction ('either ... or ...')",
+          "zh": "我们在课间休息时要么踢足球，要么去图书馆。",
+          "note": "用 either ... or ... 连接两个选择项。合并时应省略第二句中重复的成分 'We can' 和 'during recess'，保持句子精炼。",
+          "answer": "We can either play soccer or go to the library during recess."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

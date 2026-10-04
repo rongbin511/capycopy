@@ -1,0 +1,1601 @@
+{
+  "paperid": "p6_english_2023_sa2_nanhua",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Practically every member of my family _________ when they sleep.",
+          "options": {
+            "1": "snore",
+            "2": "snores",
+            "3": "snored",
+            "4": "snoring"
+          }
+        },
+        "2": {
+          "stem_plain": "The man told the tourist, \"I'm afraid there is _________ information that I can give you about this place. I have not visited the place myself either.\"",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "3": {
+          "stem_plain": "The judges made _________ unanimous decision to give Mark _________ honorary award.",
+          "options": {
+            "1": "a … a",
+            "2": "a … an",
+            "3": "an … a",
+            "4": "an … an"
+          }
+        },
+        "4": {
+          "stem_plain": "Mary's mother is very strict. She will not be allowed to attend the picnic _________ she finishes her homework.",
+          "options": {
+            "1": "if",
+            "2": "while",
+            "3": "unless",
+            "4": "because"
+          }
+        },
+        "5": {
+          "stem_plain": "Melody's father prefers _________ books to watching television in his free time.",
+          "options": {
+            "1": "read",
+            "2": "reading",
+            "3": "has read",
+            "4": "having read"
+          }
+        },
+        "6": {
+          "stem_plain": "After completing the marathon, Henry congratulated _________ on a job well done.",
+          "options": {
+            "1": "itself",
+            "2": "myself",
+            "3": "himself",
+            "4": "themselves"
+          }
+        },
+        "7": {
+          "stem_plain": "The restaurant is only open _________ the day.",
+          "options": {
+            "1": "at",
+            "2": "from",
+            "3": "during",
+            "4": "between"
+          }
+        },
+        "8": {
+          "stem_plain": "\"She's been studying Mandarin for years, _________?\" asked John.",
+          "options": {
+            "1": "is she",
+            "2": "has she",
+            "3": "isn't she",
+            "4": "hasn't she"
+          }
+        },
+        "9": {
+          "stem_plain": "Although the weather forecast has predicted heavy rains, the group of friends _________ still going to the park.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "I _________ to reach the internet company all morning but I cannot seem to get through. I will try again later.",
+          "options": {
+            "1": "shall try",
+            "2": "am trying",
+            "3": "has been trying",
+            "4": "have been trying"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — every + singular verb",
+          "zh": "我家里几乎每个人睡觉时都会打鼾。",
+          "note": "应选（2）snores：every member 作主语，谓语用单数 snores。snore 缺第三人称 -s；snored 为过去；snoring 不能作谓语。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "不可数名词 — little（几乎没有）",
+          "zh": "恐怕关于这地方我能给你的信息很少，我自己也没去过。",
+          "note": "应选（2）little：information 不可数，表'几乎没有'用 little。few 修饰可数名词；many/much 与'没有可提供'矛盾。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "冠词 — a … an",
+          "zh": "评委一致决定授予马克一项荣誉奖。",
+          "note": "应选（2）a … an：unanimous 以辅音音开头用 a；honorary 以元音音用 an。an…a 顺序错误。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "连词 — unless（除非）",
+          "zh": "除非她完成作业，否则不许去参加野餐。",
+          "note": "应选（3）unless：unless = if not，表'若不……则不能'。if 只表条件；while/because 逻辑不符。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "动名词 — prefer + -ing",
+          "zh": "梅洛迪的父亲空闲时更喜欢看书，而不是看电视。",
+          "note": "应选（2）reading：prefer 后接动名词 reading。read 为原形；has read/having read 不符合 prefer…to 结构。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "反身代词 — himself",
+          "zh": "跑完马拉松后，亨利为自己出色完成而祝贺自己。",
+          "note": "应选（3）himself：主语 Henry 与宾语同一人，用反身代词 himself。itself/myself/themselves 指代错误。",
+          "answer": "3"
+        },
+        "7": {
+          "concept": "介词 — during（在……期间）",
+          "zh": "这家餐厅只在白天营业。",
+          "note": "应选（3）during：during the day 表'在白天期间'。at/from/between the day 搭配不当。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "反意疑问句 — Present perfect tag",
+          "zh": "'她学普通话很多年了，不是吗？'约翰问。",
+          "note": "应选（4）hasn't she：陈述为现在完成时 has been studying，附加问句用 hasn't she。isn't she 对应进行时；is she/has she 极性不对。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "主谓一致 — collective singular (is)",
+          "zh": "尽管天气预报有大雨，这群朋友仍打算去公园。",
+          "note": "应选（1）is：the group of friends 作整体，谓语用单数 is。are/were 强调成员个体；was 为过去时。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "现在完成进行时 — Present perfect continuous",
+          "zh": "整个上午我都在试着联系那家公司，但似乎打不通；我稍后再试。",
+          "note": "应选（4）have been trying：all morning 表从今早持续到现在的动作，用现在完成进行时。am trying 无持续跨度；has been trying 主语应为 I 不能用 has。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The birthday planner organized a party which matched the _________ status of the affluent family.",
+          "marks": null,
+          "options": {
+            "1": "vivacious",
+            "2": "delectable",
+            "3": "sumptuous",
+            "4": "scrumptious"
+          }
+        },
+        "12": {
+          "stem_plain": "Despite having lived in Japan for five years, my aunt still encounters difficulty communicating with the locals _________.",
+          "marks": null,
+          "options": {
+            "1": "informally",
+            "2": "effectively",
+            "3": "exclusively",
+            "4": "interestingly"
+          }
+        },
+        "13": {
+          "stem_plain": "The shoes are the perfect _________ to the entire outfit. Now she is ready for the ball.",
+          "marks": null,
+          "options": {
+            "1": "compliant",
+            "2": "completion",
+            "3": "compliment",
+            "4": "complement"
+          }
+        },
+        "14": {
+          "stem_plain": "Philip was clearly wrong but he refused to _________ and apologise.",
+          "marks": null,
+          "options": {
+            "1": "backup",
+            "2": "back out",
+            "3": "back away",
+            "4": "back down"
+          }
+        },
+        "15": {
+          "stem_plain": "On National Day, I enjoyed watching the _________ display of fireworks from my room window.",
+          "marks": null,
+          "options": {
+            "1": "radiant",
+            "2": "shocking",
+            "3": "mediocre",
+            "4": "exemplary"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "concept": "词汇辨析 — sumptuous（词义选择）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "vivacious",
+              "zh": "活泼的",
+              "eg": "During morning assembly, our principal used <strong>vivacious</strong> in a sentence about teamwork and responsibility."
+            },
+            {
+              "opt": "2",
+              "word": "delectable",
+              "zh": "美味的；可口的",
+              "eg": "The reporter wrote that the rescue team had to act <strong>delectable</strong> before the storm grew worse."
+            },
+            {
+              "opt": "3",
+              "word": "sumptuous",
+              "zh": "奢华的；豪华的",
+              "eg": "The birthday planner organized a party which matched the <strong>sumptuous</strong> status of the affluent family."
+            },
+            {
+              "opt": "4",
+              "word": "scrumptious",
+              "zh": "美味可口的",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>scrumptious</strong> when reading historical plaques."
+            }
+          ]
+        },
+        "12": {
+          "concept": "词汇辨析 — effectively（词义选择）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "informally",
+              "zh": "非正式",
+              "eg": "The reporter wrote that the rescue team had to act <strong>informally</strong> before the storm grew worse."
+            },
+            {
+              "opt": "2",
+              "word": "effectively",
+              "zh": "有效地",
+              "eg": "Despite having lived in Japan for five years, my aunt still encounters difficulty communicating with the locals <strong>effectively</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "exclusively",
+              "zh": "专门地；独占地",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>exclusively</strong> when reading historical plaques."
+            },
+            {
+              "opt": "4",
+              "word": "interestingly",
+              "zh": "有趣地",
+              "eg": "After the experiment, the science teacher asked us to use <strong>interestingly</strong> in a complete sentence of our own."
+            }
+          ]
+        },
+        "13": {
+          "concept": "词汇辨析 — complement（词义选择）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "compliant",
+              "zh": "顺从的",
+              "eg": "In her composition, Mei Ling showed how the word <strong>compliant</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "2",
+              "word": "completion",
+              "zh": "完成",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>completion</strong> when reading historical plaques."
+            },
+            {
+              "opt": "3",
+              "word": "compliment",
+              "zh": "赞美；问候",
+              "eg": "She accepted the <strong>compliment</strong> about her speech with a shy smile."
+            },
+            {
+              "opt": "4",
+              "word": "complement",
+              "zh": "补充物；补足物",
+              "eg": "This cushion is the perfect <strong>complement</strong> to the grey sofa in your living room."
+            }
+          ]
+        },
+        "14": {
+          "concept": "词汇辨析 — back down（词义选择）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "backup",
+              "zh": "备份；后援",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>backup</strong> when reading historical plaques."
+            },
+            {
+              "opt": "2",
+              "word": "back out",
+              "zh": "退出；反悔",
+              "eg": "After the experiment, the science teacher asked us to use <strong>back out</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "3",
+              "word": "back away",
+              "zh": "后退；退缩",
+              "eg": "The coach reminded the players that <strong>back away</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "4",
+              "word": "back down",
+              "zh": "退让；放弃立场",
+              "eg": "Even when the older boys teased him, he refused to <strong>back down</strong> from his point of view."
+            }
+          ]
+        },
+        "15": {
+          "concept": "词汇辨析 — radiant（词义选择）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "radiant",
+              "zh": "灿烂的；光芒四射的",
+              "eg": "On National Day, I enjoyed watching the <strong>radiant</strong> display of fireworks from my room window."
+            },
+            {
+              "opt": "2",
+              "word": "shocking",
+              "zh": "令人震惊的",
+              "eg": "The coach reminded the players that <strong>shocking</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "3",
+              "word": "mediocre",
+              "zh": "平庸的",
+              "eg": "During morning assembly, our principal used <strong>mediocre</strong> in a sentence about teamwork and responsibility."
+            },
+            {
+              "opt": "4",
+              "word": "exemplary",
+              "zh": "模范的；典范的",
+              "eg": "The reporter wrote that the rescue team had to act <strong>exemplary</strong> before the storm grew worse."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "come up with",
+          "marks": null,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "devise",
+            "2": "construct",
+            "3": "reproduce",
+            "4": "implement"
+          }
+        },
+        "17": {
+          "stem_plain": "foolproof",
+          "marks": null,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "infallible",
+            "2": "invincible",
+            "3": "incredible",
+            "4": "indescribable"
+          }
+        },
+        "18": {
+          "stem_plain": "Taken aback",
+          "marks": null,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "infuriated",
+            "2": "dismayed",
+            "3": "aggravated",
+            "4": "flabbergasted"
+          }
+        },
+        "19": {
+          "stem_plain": "plan",
+          "marks": null,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "ambition",
+            "2": "intention",
+            "3": "resolution",
+            "4": "proposition"
+          }
+        },
+        "20": {
+          "stem_plain": "gravity",
+          "marks": null,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "foolishness",
+            "2": "seriousness",
+            "3": "recklessness",
+            "4": "inappropriateness"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Tommy was a mischievous boy who loved to play pranks on his friends and family. One day, his aunt, who was easily startled, paid him a visit. That gave him a perfect opportunity to [Q16 (come up with)] a prank. The plan was going to be [Q17 (foolproof)].",
+          "Crouched in a dark corner of the house, he lay in wait for his aunt to stroll past. As his unsuspecting aunt passed by, Tommy jumped out, shouting at the top of his lungs. [Q18 (Taken aback)], his aunt stumbled and fell, letting out a sharp cry. She was then taken to the hospital for treatment.",
+          "Tommy felt an overwhelming sense of guilt and regret. His [Q19 (plan)] to make his aunt laugh had backfired, causing her harm. Realising the [Q20 (gravity)] of his actions, he promised to change his ways and never play a prank again. It was a painful lesson learnt."
+        ],
+        "zh": [
+          "汤米是一个调皮的孩子，喜欢对朋友和家人搞恶作剧。一天，他那容易受惊的姨妈来拜访他。这给了他一个设计恶作剧的绝佳机会。这个计划原本应该是万无一失的。",
+          "他潜伏在房子黑暗的角落里，等待姨妈经过。当他的姨妈毫无防备地经过时，汤米突然跳出来，大声喊叫。姨妈被吓了一跳，摔倒在地，发出一声尖叫。她被送到医院接受治疗。",
+          "汤米感到强烈的内疚和后悔。他设计让姨妈发笑的计划失败了，伤害了她。意识到自己行为的严重性，他发誓改变自己的行为，再也不搞恶作剧了。这是一个痛苦的教训。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — come up with（近义辨析）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "devise",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "construct",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "reproduce",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "implement",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — foolproof（近义辨析）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "infallible",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "invincible",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "incredible",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "indescribable",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — Taken aback（近义辨析）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "infuriated",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "dismayed",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "aggravated",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "flabbergasted",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — plan（近义辨析）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "ambition",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "intention",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "resolution",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "proposition",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — gravity（近义辨析）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "foolishness",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "seriousness",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "recklessness",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "inappropriateness",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Why is an exclamation mark (!) used in the heading: \"Join us at our 1st Chess Fair at Riverville Community Club!\"?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to show enthusiasm for the fair",
+            "2": "to emphasise the venue of the fair",
+            "3": "to highlight the importance of the fair",
+            "4": "to stress that the club is organising the fair"
+          }
+        },
+        "22": {
+          "stem_plain": "Wei Xiong wants to attend the Advanced Workshop as well as play a friendly match with a Grand Master. He should be at the fair on _________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "16 Nov at 10 a.m. and 17 Nov at 10 a.m.",
+            "2": "16 Nov at 11 a.m. and 18 Nov at 12 p.m.",
+            "3": "16 Nov at 11 a.m. and 19 Nov at 10 a.m.",
+            "4": "16 Nov at 1.30 p.m. and 19 Nov at 10 a.m."
+          }
+        },
+        "23": {
+          "stem_plain": "Linda does not know how to play chess at all. Which of the following activities would suit her the most?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Beginner Workshop and Free play",
+            "2": "Intermediate Workshop and Open boards",
+            "3": "Advanced Workshop and Chess matches",
+            "4": "Special Workshop and Friendly match with a Grand Master"
+          }
+        },
+        "24": {
+          "stem_plain": "Which of the following statements is true about the Chess Fair?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "All visitors have to pay a small entrance fee.",
+            "2": "Workshops will be conducted in the Main Hall.",
+            "3": "There is no age restriction for the chess matches.",
+            "4": "It will start and end at the same time for the 4 days."
+          }
+        },
+        "25": {
+          "stem_plain": "Which of the following shows that chess has become a popular game?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Many brilliant players enjoy playing the game.",
+            "2": "It requires many different strategies and skills.",
+            "3": "The rules of the game have evolved over the years.",
+            "4": "There are many chess competitions held worldwide."
+          }
+        },
+        "26": {
+          "stem_plain": "What is the most important benefit of playing chess for 7- to 9-year-olds?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It helps to boost their brain development.",
+            "2": "It enhances their object recognition skills.",
+            "3": "It helps with the rehabilitation and therapy",
+            "4": "It improves their test scores in all subjects."
+          }
+        },
+        "27": {
+          "stem_plain": "According to the flyer, patients recovering from an accident play chess to _________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "heighten their senses",
+            "2": "improve their motor skills",
+            "3": "enhance their reading ability",
+            "4": "develop their pattern recognition skill"
+          }
+        },
+        "28": {
+          "stem_plain": "The main purpose of the flyer is to _________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "introduce people to the history of chess",
+            "2": "educate people on the many benefits of chess",
+            "3": "encourage people to participate in the chess fair",
+            "4": "get people to play with their friends during the chess fair"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "24": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "27": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        },
+        "28": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "by",
+          "D": "how",
+          "E": "in",
+          "F": "its",
+          "G": "might",
+          "H": "more",
+          "J": "should",
+          "K": "some",
+          "L": "still",
+          "M": "the",
+          "N": "their",
+          "P": "while",
+          "Q": "who"
+        },
+        "cloze": [
+          "Dreams remain a mystery that sleep experts are determined to solve. Different cultures have developed [Q29] own ways of understanding what our dreams mean. [Q30] psychology, the process of assigning meaning to dreams is referred to as dream interpretation. It is seen as a helpful way to learn about [Q31] our minds work. Dreams are thought to show our deepest wants, fears, and worries. By looking at our dreams, we can learn about our hidden thoughts and feelings.",
+          "There are many ways to interpret dreams. [Q32] are traditional, like looking at the symbols in the dream, while others are [Q33] modern, like keeping a dream journal or trying to control your dreams. Some people think that dreams are [Q34] way for our unconscious mind which contains feelings and thoughts we are unaware of, to talk to us and show us [Q35] we really are.",
+          "Even though lots of people are interested in interpreting dreams, there is [Q36] a debate about whether it is a scientifically valid practice. Some studies have shown that certain symbols in dreams [Q37] be connected to specific feelings or experiences, [Q38] others have not found any proof that dreams have a definite meaning.",
+          "No matter what the outcome of the debate is, it is fun to explore the meanings of dreams."
+        ],
+        "zh": [
+          "梦仍是睡眠专家决心要解开的谜团。不同文化发展出自己的方式来理解梦的含义。在心理学中，将意义赋予梦境的过程称为释梦，被视为了解头脑如何运作的有用途径。梦被认为展示我们最深的欲望、恐惧与担忧；通过审视梦境，我们可以了解隐藏的想法与感受。",
+          "释梦方法很多。有些较传统，例如解读梦中的符号；另一些较现代，例如写梦日记或试图控制梦境。有些人认为梦是潜意识与我们沟通的途径，潜意识包含我们未觉察的感受与想法，梦向我们展示真实的自我。",
+          "尽管许多人对释梦感兴趣，关于它是否科学有效仍有争论。一些研究显示梦中某些符号可能与特定感受或经历有关，而另一些研究则未找到梦有确定含义的证据。",
+          "无论辩论结果如何，探索梦的含义都是有趣的。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "Grammar cloze blank (29)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "N — their"
+        },
+        "30": {
+          "concept": "Grammar cloze blank (30)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "E — in"
+        },
+        "31": {
+          "concept": "Grammar cloze blank (31)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "D — how"
+        },
+        "32": {
+          "concept": "Grammar cloze blank (32)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "K — some"
+        },
+        "33": {
+          "concept": "Grammar cloze blank (33)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "H — more"
+        },
+        "34": {
+          "concept": "Grammar cloze blank (34)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "A — a"
+        },
+        "35": {
+          "concept": "Grammar cloze blank (35)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "Q — who"
+        },
+        "36": {
+          "concept": "Grammar cloze blank (36)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "L — still"
+        },
+        "37": {
+          "concept": "Grammar cloze blank (37)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "G — might"
+        },
+        "38": {
+          "concept": "Grammar cloze blank (38)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "P — while"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Ms. Lui has an incredible story to share. When she was a child, she faced [Q39(diskriminasion)] because she has a disability. People would bully, tease, and stare at her because she was different. But something [Q40(amaze)] happened. With the support of her family and a [Q41(charity)] organisation, she was able to follow her interests and grow into the talented, artistic, and [Q42(passhunate)] individual she is today.",
+          "Ms. Lui has a deep love [Q43(of)] singing, but that's not all. She also has a keen interest in drawing, writing, and dancing. Her heart-warming [Q44(jurney)] is now being featured in a new film created by Community Chest. This film [Q45(tell)] the stories of individuals who have [Q46(overcoming)] challenges in their lives and are shining [Q47(bright)] . It calls upon the public to join in supporting and championing the [Q48(potenshual)] of people with disabilities.",
+          "In addition to her creative [Q49(pursoots)] , Ms. Lui also has a part-time job as a retail assistant. She [Q50(recived)] support from a job placement programme funded by Community Chest. This programme helps individuals with disabilities find suitable employment opportunities that match their aspirations and capabilities."
+        ],
+        "zh": [
+          "吕女士有一段令人难以置信的故事。童年时，她因残障遭遇歧视；别人欺负、取笑、盯着她，只因她与众不同。但奇迹发生了——在家人的一家慈善机构支持下，她得以追随兴趣，成长为今日这位有才华、有艺术气质且充满热情的人。",
+          "吕女士深爱唱歌，也不乏其他爱好：绘画、写作与舞蹈。她暖心的历程如今被社区腾飞计划摄制成新电影。电影讲述人们如何克服人生挑战并绽放光芒，呼吁公众一同支持、推崇残障人士的潜能。",
+          "除创意追求外，吕女士也在零售业担任兼职助理。她得到社区腾飞计划资助的职位配对项目支援；该项目帮助残障人士找到符合其志向与能力的工作机会。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "discrimination"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "amazing"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "charitable"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "passionate"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "for"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "journey"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "tells"
+        },
+        "46": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "overcome"
+        },
+        "47": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "brighter"
+        },
+        "48": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "potential"
+        },
+        "49": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "pursuits"
+        },
+        "50": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "received"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Gaming addiction affects people of all ages, particularly young people. Symptoms of gaming addiction include obsessive thinking about the game, [Q51] of interest in other activities, poor concentration and work performance, strained relationships, social isolation, and decline in physical health and hygiene. [Q52] to scientific research, addiction is brought about by psychological, social, and environmental factors.",
+          "One major cause of any kind of addiction [Q53] a brain chemical called dopamine, also [Q54] as the 'feel-good' hormone. It is released in response [Q55] a pleasurable experience. It also makes a person develop a strong [Q56] to seek out that same pleasure again and again. When gamers [Q57] a goal or a new level, dopamine is released, motivating them to keep [Q58]. Eventually, they get stuck in a cycle in which they are increasingly engrossed in gaming while [Q59] other important tasks.",
+          "[Q60] factor that contributes to gaming addiction is socialization. Many online games allow players to interact with one another. This develops a [Q61] of belonging to their online communities. However, in extreme cases, shy and introverted individuals may [Q62] to gaming as their main source of social life, resulting in addiction.",
+          "The home environment is a key factor in gaming addiction too. Children and teens who have [Q63] access to gaming devices and little supervision from their parents are more [Q64] to form an addiction.",
+          "Gaming addiction is no laughing [Q65]. By understanding its contributing factors, we may prevent its formation among our friends and loved ones."
+        ],
+        "zh": [
+          "网络游戏成瘾影响着所有年龄段的人，尤其是年轻人。游戏成瘾的症状包括对游戏产生强迫性思维、对其他活动失去兴趣、注意力集中困难与工作表现不佳、人际关系紧张、社交孤立，以及身体健康和个人卫生状况下降。根据科学研究，成瘾是由心理、社交和环境因素共同引起的。",
+          "任何形式成瘾的一个主要原因都与一种名为多巴胺的大脑化学物质有关，它也被称为“快乐”荷尔蒙。当人产生愉悦的体验时，大脑就会释放多巴胺。它还会让人产生强烈的渴望，去一次又一次地寻求同样的快乐。当游戏玩家达成目标或升到新等级时，多巴胺就会释放，从而激励他们继续玩下去。最终，他们会陷入一种恶性循环：越来越沉迷于游戏，同时忽略了其他重要任务。",
+          "导致游戏成瘾的另一个因素是社交。许多网络游戏允许玩家之间进行互动。这使他们对自己的网络社区产生了一种归属感。然而，在极端情况下，害羞和内向的人可能会把游戏作为他们社交生活的主要来源，从而导致成瘾。",
+          "家庭环境也是游戏成瘾的一个关键因素。如果儿童和青少年能够不受限制地接触游戏设备，且很少受到父母的监督，他们就更容易形成网瘾。",
+          "游戏成瘾绝非儿戏。通过了解其成因，我们可以防止我们的朋友和亲人形成这种网瘾。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "名词与介词搭配",
+          "note": "后接介词短语 of interest in other activities。此处作为网络成瘾的负面症状之一，指对其他活动“缺乏”或“丧失”兴趣，故填名词 lack 或者是 loss。",
+          "answer": "lack/loss"
+        },
+        "52": {
+          "concept": "固定习惯搭配",
+          "note": "后接介词短语 to scientific research。属于极其高频的科普文开头引入句式 According to...，意为“根据科学研究表明”。位于句首需大写。",
+          "answer": "According"
+        },
+        "53": {
+          "concept": "主谓一致与动词语意",
+          "note": "主语为单数名词短语 One major cause（一个主要原因），本句陈述客观存在的医学事实，需用一般现在时。指任何成瘾的核心原因“是”或“涉及”一种大脑化学物质，故填单数动词 is 或者是 involves。",
+          "answer": "is/involves"
+        },
+        "54": {
+          "concept": "过去分词短语作后置定语",
+          "note": "修饰前面的名词多巴胺（dopamine）。构成固定常考定语搭配 also known as...（也被称为……）、also termed as 或 also named as，其中原答案表写为 know 应为过去分词 known 的笔误，备考时以规范被动分词为准。",
+          "answer": "known/termed/named"
+        },
+        "55": {
+          "concept": "固定习惯短语搭配",
+          "note": "与前面的名词短语 in response 完美组合。构成在各类科学说明文中极其核心和高频的专属介词搭配 in response to...，意思是“作为对……的回应/因……而释放”。",
+          "answer": "to"
+        },
+        "56": {
+          "concept": "名词语意与后置不定式",
+          "note": "前面有形容词 strong（强烈的）修饰，后接动词不定式 to seek out。用来形容多巴胺会促使人产生一种再次体验快乐的强烈“冲动”、“渴望”、“需求”或“意愿”（大量考查近义词：urge / need / drive / will / determination / temptation）。",
+          "answer": "urge/need/drive/will/determination/temptation"
+        },
+        "57": {
+          "concept": "时间从句动词原形搭配",
+          "note": "在 when 引导的时间状语从句中，主语为复数名词 gamers，谓语动词用原形。结合后面的宾语 a goal or a new level，指当玩家“达到”、“完成”或“实现”目标时，故填 reach / complete / achieve。",
+          "answer": "reach/complete/achieve"
+        },
+        "58": {
+          "concept": "动词后的动名词宾语",
+          "note": "与前面的动词 keep 完美组合，构成固定句型 keep doing something，表示“持续做某事”。指多巴胺会激励玩家不知疲倦地“继续玩/继续努力/继续滑行”（playing / trying / going / gaming）。",
+          "answer": "playing/trying/going/gaming"
+        },
+        "59": {
+          "concept": "对比时间从句现在分词",
+          "note": "连词 while 引导伴随状语从句的省略形式，后面直接接现在分词。指玩家在深陷游戏世界的同时，却“忽视”、“忘却”或“荒废”了现实生活中的其他重要任务，故填入现在分词形式 ignoring / forgetting / neglecting。",
+          "answer": "ignoring/forgeting/neglecting"
+        },
+        "60": {
+          "concept": "限定词/限定形容词",
+          "note": "修饰单数名词 factor。前文已经阐述了多巴胺这个“第一个”生理原因，此处用于承上启下引入“另一个”促成上瘾的社会学因素。位于句首需大写。",
+          "answer": "Another"
+        },
+        "61": {
+          "concept": "固定习惯搭配",
+          "note": "与后文的 of belonging to 完美组合。属于在探讨心理、社区及人际关系等主题时极高频考查的经典标志性专属习语 a sense of belonging，意为“归属感”。",
+          "answer": "sense"
+        },
+        "62": {
+          "concept": "动词与介词特定搭配",
+          "note": "情态动词 may 后面接动词原形。与后面的介词短语 to gaming 组合，指内向孤僻的人可能会将网络世界当作避风港，转而“求助于”或“诉诸于”游戏（turn to / resort to / stick to / take to）。",
+          "answer": "turn/resort/stick/take"
+        },
+        "63": {
+          "concept": "形容词修饰",
+          "note": "修饰不可数名词 access。用来形容孩子们在缺乏管教的情况下，拥有了“更多的”、“自由的”或“轻易的”方式去接触和使用电子设备（more / free / easy / ready / complete）。",
+          "answer": "more/free/easy/ready/complete"
+        },
+        "64": {
+          "concept": "形容词固定句型搭配",
+          "note": "系动词 are 之后，后接不定式符号 to form an addiction。指缺乏管教的青少年更容易“倾向于”或“极有可能”形成网瘾，完美契合高频能力句型 be more likely to do something。",
+          "answer": "likely"
+        },
+        "65": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的否定句式 no laughing 完美组合。构成英语中用于形容事态严峻、绝对不可掉以轻心的经典核心专属习语 no laughing matter，意为“绝非儿戏/不是开玩笑的事情”。",
+          "answer": "matter"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "All the pupils in class 6J are attending the party. Mr Tan is also attending the party.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ together with __________"
+        },
+        "67": {
+          "stem_plain": "Cindy asked Jack, \"Where can I pass you the book later?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Cindy asked Jack __________"
+        },
+        "68": {
+          "stem_plain": "The manager amended the plan before presenting it to his client.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The manager made __________"
+        },
+        "69": {
+          "stem_plain": "Her parents shook their heads. They disapproved of her decision.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ in __________"
+        },
+        "70": {
+          "stem_plain": "John did not do his part for the group project. Ken was annoyed.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Much to __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "合并句 — Together with",
+          "zh": "6J班的所有学生以及陈老师都将参加聚会。",
+          "note": "合并句：用 <em>together with Mr Tan</em> 把两句合并；谓语与主语 <em>All the pupils</em> 一致。",
+          "answer": "All the pupils in class 6J, together with Mr Tan, are attending the party."
+        },
+        "67": {
+          "concept": "间接引语 — Reported wh-question",
+          "zh": "辛迪问杰克她稍后可以在哪里把书交给他。",
+          "note": "间接引语：wh- 问句变陈述语序 <em>where she could pass him the book later</em>；情态 <em>can → could</em>。",
+          "answer": "Cindy asked Jack where she could pass him the book later."
+        },
+        "68": {
+          "concept": "名词化 — Verb → noun (amendments)",
+          "zh": "经理在向客户展示计划之前对计划作了修改。",
+          "note": "名词化：<em>amended</em> → <em>made amendments to</em>；保留 <em>before presenting it to his client</em>。",
+          "answer": "The manager made amendments to the plan before presenting it to his client."
+        },
+        "69": {
+          "concept": "介词短语 — In + noun (disapproval)",
+          "zh": "她的父母摇头表示不赞成她的决定。",
+          "note": "介词短语：<em>disapproved</em> → <em>in disapproval of her decision</em>，与 <em>shook their heads</em> 合并。",
+          "answer": "Her parents shook their heads in disapproval of her decision."
+        },
+        "70": {
+          "concept": "介词短语 — Much to + noun",
+          "zh": "令肯非常恼火的是，约翰没有在小组项目中尽自己的本分。",
+          "note": "固定结构：<em>Much to Ken's annoyance</em> 置于句首表“令肯恼火的是”；后接完整主句。",
+          "answer": "Much to Ken's annoyance, John did not do his part in the group project."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Which **two** words in paragraph 1 tell us that Pepper was indeed **'weary'** (line 1)? BOTH WORDS ARE FOUND IN SEPARATE SENTENCES.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q71a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q71b]"
+            }
+          ]
+        },
+        "72": {
+          "stem_plain": "Give two reasons why Cooper was **'anxious'** (line 2) to seek shelter somewhere.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q72a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "How did Gus spot the dogs on the highway in the heavy snow?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on lines 9–21, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The dogs were afraid of Gus.",
+                "(b) Gus did not manage to speak to the dogs' owner when he was outside his truck.",
+                "(c) The dogs snuggled at the place where Gus had placed them in the truck."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]",
+                "[Q74e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]",
+                "[Q74f]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Which **two** of the following words correctly describe how Marc felt when Gus called him in lines 22 to 30? Put a tick ✓ in the box beside each of your answers.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "annoyed",
+            "remorseful",
+            "hesitant",
+            "disgusted",
+            "impatient",
+            "concerned"
+          ],
+          "max_selections": 2
+        },
+        "76": {
+          "stem_plain": "The table below shows Gus's actions in lines 31–35. Fill in the blanks to show the reasons for his actions using information from the passage.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Action",
+              "rows": [
+                "called an animal shelter",
+                "called Katie"
+              ]
+            },
+            "col_2": {
+              "header": "Reason for action",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "What Katie provided to create **'a haven of comfort'** against the chilly night air (line 37)",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q77a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q77b]"
+            }
+          ]
+        },
+        "78": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **them** (line 16)",
+                "(b) **This scene** (line 40)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q78a]",
+                "[Q78b]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Why do you think Katie **\"phoned the shelter repeatedly\"** (line 46)?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "**\"The dogs had experienced a miracle in which kindness triumphed over cruelty.\"** (lines 48–49) With reference to the story, explain clearly what the writer meant in the above statement.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "It was a freezing night. The weary couple trudged through the snow",
+          "2": "against the bitter winds, seeking shelter. The anxious father-to-be scanned",
+          "3": "the roadside for a home, an inn or a stable. He looked over at his struggling",
+          "4": "companion frequently. She laboured along without complaint, her way made",
+          "5": "heavier by the new life growing inside her. They needed a warm, dry place for",
+          "6": "the night, safe from the elements. When the time for her delivery came, it must",
+          "7": "not be out here along the road. The couple was a pair of dogs, on a rural",
+          "8": "highway.",
+          "9": "Gus, a wildlife officer, was driving home from work when he spotted the",
+          "10": "dogs. The snowstorm made it difficult to see, but Gus's keen eyes detected the",
+          "11": "reflection of their collar tags in the flash of his headlights. What were they doing",
+          "12": "out on this stretch of road in this harsh weather? Gus parked his truck and",
+          "13": "approached the animals. He squatted and stretched out his hands to the dogs,",
+          "14": "which made no effort to escape. He read their tags by his truck's headlights:",
+          "15": "The female was named Pepper, and the male was Cooper. He pulled out his",
+          "16": "phone to call the number listed on **them**, but it was snowing so hard that his",
+          "17": "screen blurred. He would have to make the call from his truck.",
+          "18": "He placed the dogs in his truck, below the passenger seat. By the time",
+          "19": "he came around to the driver's side, they had climbed onto the fabric seat",
+          "20": "where it was warm. Gus dried his phone, snapped a picture of the pair",
+          "21": "snuggling, and sent it to his wife, Katie.",
+          "22": "Then he called the number again. A man who identified himself as Marc",
+          "23": "answered and immediately grew defensive when Gus told him why he was",
+          "24": "calling.",
+          "25": "\"Those dogs aren't mine anymore. I've given them away,\" Marc replied",
+          "26": "in an irritated tone.",
+          "27": "\"Well, who did you give them to?\" Gus asked hopefully.",
+          "28": "\"I don't know,\" came the curt reply.",
+          "29": "\"Well, do you want them back?\" Gus probed.",
+          "30": "\"No. I can't take care of them.\" With that, Marc hung up abruptly.",
+          "31": "Thus, these dogs were abandoned, left with no place to call home. The",
+          "32": "dogs, known for their intelligence, gazed at Gus with pleading eyes. Gus called",
+          "33": "an animal shelter, but it was too late in the night. So, he left a message. Then",
+          "34": "he called Katie. \"You cannot put them back out in the snowstorm,\" she said.",
+          "35": "\"Bring them home.\"",
+          "36": "Katie prepared a bed for the dogs in the study room. Soft blankets were",
+          "37": "arranged with care, providing a haven of comfort against the chilly night air.",
+          "38": "Katie, then lovingly placed bowls of food and water where the exhausted",
+          "39": "animals lay together. Every now and then, Cooper lifted his head to check on",
+          "40": "Pepper. **This scene** stirred within Katie a desire to adopt them.",
+          "41": "When she told Gus about it, he shook his head. Keeping this pair was",
+          "42": "out of the question — they already had a family dog. The next day, he called",
+          "43": "the animal shelter again. Katie took the dogs to the shelter to drop them off on",
+          "44": "one condition. \"I'm not signing the dogs over to you if you're going to separate",
+          "45": "them,\" she said. The staff promised her that the couple would stay together.",
+          "46": "In the days following, Katie phoned the shelter repeatedly. Soon after",
+          "47": "Christmas, the dogs were adopted by a loving family, much to the relief of",
+          "48": "Gus and Katie. The dogs had experienced a miracle in which kindness",
+          "49": "triumphed over cruelty."
+        },
+        "paragraphs": {
+          "1": "在一个寒冷的冬夜，一对疲惫的伴侣在没膝的深雪和凛冽的寒风中艰难前行。焦虑的准父亲四处寻找住所或马厩，他不时看向身旁正怀着新生命的伴侣，她虽步履沉重却毫无怨言。他们急需一个温暖干燥的避风港，因为孩子绝不能出生在路边。实际上，这对伴侣是两只在乡间公路上流浪的狗。",
+          "9": "野生动物官员格斯在开车回家途中发现了它们。尽管暴风雪模糊了视线，但他敏锐地察觉到了车灯照射下项圈标签的反光。格斯停下车，蹲下身向它们伸出手，两只狗并未逃跑。通过车灯，他读出了它们的名字：母狗叫“胡椒”，公狗叫“库珀”。他掏出手机想拨打标签上的电话，但屏幕被雪花打湿模糊了，他只好回车里拨打。",
+          "18": "格斯把狗安顿在卡车副驾驶座下方，但当他绕到驾驶位时，它们已爬上了暖和的织物座椅。格斯擦干手机，拍下它们依偎在一起的照片发给了妻子凯蒂。",
+          "22": "随后他再次拨通电话。一名自称马克的人接了电话，得知来意后，语气立刻变得充满戒备。",
+          "25": "“那些狗已经不是我的了。我把它们送人了，”马克烦躁地回答道。",
+          "27": "“那您把它们送给谁了？”格斯满怀希望地追问。",
+          "28": "“不知道，”对方简短地答道。",
+          "29": "“那您还想要回它们吗？”格斯试探性地问。",
+          "30": "“不想要，我养不起。”说完，马克猛地挂断了电话。",
+          "31": "这两只聪明的狗就这样被遗弃了，它们用恳求的眼神望着格斯。格斯联系了动物收容所，但因深夜只能留言。接着他打电话给凯蒂，凯蒂坚决表示不能把它们丢回雪地，让他带它们回家。",
+          "36": "凯蒂在书房为它们准备了铺有软毯的舒适小窝，并摆放了食物和水。虚弱的动物并排躺着，库珀不时抬头查看“胡椒”的情况。这一幕让凯蒂动了领养它们的心思。",
+          "41": "当她向格斯提议时，格斯摇了摇头，表示家里已有宠物狗，不能再收养它们。第二天，格斯再次联系收容所。凯蒂带它们去收容所时提出了一个条件：“如果你们要拆散它们，我就不签字。”工作人员承诺会让它们在一起。",
+          "46": "接下来的几天里，凯蒂反复致电收容所询问。圣诞节后不久，这两只狗被一个充满爱的家庭领养了，格斯和凯蒂也终于放了心。在善良战胜残酷的奇迹中，这两只狗重获新生。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": {
+            "71a": "struggling",
+            "71b": "laboured"
+          }
+        },
+        "72": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": {
+            "72a": "They needed a warm, dry place to stay for the night, safe from the elements",
+            "72b": "Pepper was going to deliver soon and it must be away from the road."
+          }
+        },
+        "73": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "Gus's keen eyes detected the reflection of the dog's collar tags in the flash of his headlights."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "False",
+            "74b": "The dog made no effort to escape when Gus squatted and stretched out his hands to them",
+            "74c": "True",
+            "74d": "It was snowing very hard so his screen blurred. He could only make the call from inside his truck",
+            "74e": "False",
+            "74f": "They climbed from the place below the passenger seat where Gus had placed them onto the fabric seat where it was warm and snuggled"
+          }
+        },
+        "75": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "annoyed",
+            "impatient"
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "He wanted to put the dogs there as they were abandoned, with no place to call home / to inform them about the homeless dogs.",
+            "76b": "It was too late at night to put the dogs at the animal shelter, so he called Katie to ask her what to do with the dogs."
+          }
+        },
+        "77": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": {
+            "77a": "a bed with soft blankets arranged with care",
+            "77b": "soft blankets"
+          }
+        },
+        "78": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "Pepper and Cooper's collar tags",
+            "78b": "Cooper lifting his head to check on Pepper"
+          }
+        },
+        "79": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "Katie was worried about the dogs and wanted to make sure they were kept together and they were safe."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "It was cruel for the dogs to be abandoned, with no place to call home, but they met Gus and Katie who drove them to the animal shelter out of kindness, where they were adopted by a loving family. They experienced a miracle and the dogs were safe in the end."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

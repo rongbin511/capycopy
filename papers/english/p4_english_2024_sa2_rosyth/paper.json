@@ -1,0 +1,708 @@
+{
+  "paperid": "p4_english_2024_sa2_rosyth",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Due to the heavy rain yesterday, there __________ a flood along Tanglin Road.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "My parents __________ proud of me when I helped the old lady cross the road.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Do not disturb your brother. He __________ for his examination now,\" Mother reminded me.",
+          "options": {
+            "1": "studies",
+            "2": "studied",
+            "3": "is studying",
+            "4": "has studied"
+          }
+        },
+        "4": {
+          "stem_plain": "The boy stared in awe as __________ eagle from the far end of the park flew towards him.",
+          "options": {
+            "1": "that",
+            "2": "this",
+            "3": "these",
+            "4": "those"
+          }
+        },
+        "5": {
+          "stem_plain": "Last week, the pupils __________ an enrichment programme on how to develop good study habits.",
+          "options": {
+            "1": "attend",
+            "2": "attended",
+            "3": "have attended",
+            "4": "were attending"
+          }
+        },
+        "6": {
+          "stem_plain": "When we __________ the stadium after the football match, it started to rain.",
+          "options": {
+            "1": "leave",
+            "2": "will leave",
+            "3": "have left",
+            "4": "were leaving"
+          }
+        },
+        "7": {
+          "stem_plain": "The burglar entered the house __________ the window.",
+          "options": {
+            "1": "into",
+            "2": "over",
+            "3": "through",
+            "4": "around"
+          }
+        },
+        "8": {
+          "stem_plain": "I decided not to see the doctor as there were __________ people waiting in the clinic.",
+          "options": {
+            "1": "few",
+            "2": "much",
+            "3": "many",
+            "4": "some"
+          }
+        },
+        "9": {
+          "stem_plain": "This poster is both colourful __________ interesting. It caught my eye the moment I saw it.",
+          "options": {
+            "1": "or",
+            "2": "and",
+            "3": "but",
+            "4": "because"
+          }
+        },
+        "10": {
+          "stem_plain": "The dessert is too sweet, it has too __________ sugar in it.",
+          "options": {
+            "1": "much",
+            "2": "few",
+            "3": "many",
+            "4": "little"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "zh": "由于昨天的大雨，东陵路沿线发生了洪水。",
+          "note": "“yesterday”（昨天）提示过去时间，且 “a flood”（一场洪水）为单数名词，因此系动词使用单数过去式 was。",
+          "concept": "There be 句型与一般过去时 — There be Structure & Simple Past Tense",
+          "answer": "3"
+        },
+        "2": {
+          "zh": "当我帮助那位老奶奶过马路时，我的父母为我感到自豪。",
+          "note": "“helped” 提示时间为过去，“My parents”（我的父母）是复数主语，因此使用复数过去式系动词 were。",
+          "concept": "主谓一致与一般过去时 — Subject-Verb Agreement & Simple Past Tense",
+          "answer": "4"
+        },
+        "3": {
+          "zh": "“不要打扰你哥哥。他现在正在为考试复习，”母亲提醒我。",
+          "note": "时间状语 “now”（现在）明确提示动作正在进行，因此动词使用现在进行时 is studying。",
+          "concept": "现在进行时 — Present Continuous Tense",
+          "answer": "3"
+        },
+        "4": {
+          "zh": "当那只来自公园远端的鹰向他飞来时，小男孩惊叹地注视着。",
+          "note": "“eagle” 是单数名词，且 “from the far end of the park”（从公园的远端）提示空间距离较远，因此使用表示单数远称的指示代词 that。",
+          "concept": "指示代词 — Demonstrative Pronouns — that",
+          "answer": "1"
+        },
+        "5": {
+          "zh": "上周，学生们参加了一项关于如何养成良好学习习惯的拓展课程。",
+          "note": "“Last week”（上周）明确提示过去时间，因此谓语动词使用一般过去式 attended。",
+          "concept": "一般过去时 — Simple Past Tense",
+          "answer": "2"
+        },
+        "6": {
+          "zh": "当我们离开体育场时，天开始下雨了。",
+          "note": "这里描述一个过去正在进行的背景动作（离开体育场时）被另一个突发动作（开始下雨）所中断，因此使用过去进行时 were leaving。",
+          "concept": "过去进行时 — Past Continuous Tense",
+          "answer": "4"
+        },
+        "7": {
+          "zh": "窃贼穿过窗户进入了房子。",
+          "note": "“through” 表示“穿过、通过”某个立体的空间（如窗户、森林、隧道等）。",
+          "concept": "空间介词 — Prepositions of Place — through",
+          "answer": "3"
+        },
+        "8": {
+          "zh": "我决定不看医生了，因为诊所里有很多人在等待。",
+          "note": "“decided not to see the doctor”（决定不看医生）说明人太多不想排队，“people” 是可数名词复数，因此选用 many 修饰。",
+          "concept": "修饰可数名词的量词 — Quantifiers with Countable Nouns — many",
+          "answer": "3"
+        },
+        "9": {
+          "zh": "这张海报既色彩鲜艳又有趣。我一看到它就被吸引住了。",
+          "note": "“both ... and ...” 是固定关联连词搭配，意为“既……又……”。",
+          "concept": "并列连词固定搭配 — Correlative Conjunctions — both...and",
+          "answer": "2"
+        },
+        "10": {
+          "zh": "这道甜点太甜了，里面的糖太多了。",
+          "note": "“sugar”（糖）是不可数名词，且根据前面“太甜了”的语境，表示“太多”时要用 “too much” 来修饰。",
+          "concept": "修饰不可数名词的量词 — Quantifiers with Uncountable Nouns — too much",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The sailors abandoned the ship when it started to __________ in the heavy storm.",
+          "options": {
+            "1": "fall",
+            "2": "drop",
+            "3": "sink",
+            "4": "hang"
+          }
+        },
+        "12": {
+          "stem_plain": "The main __________ for making ice cream are sugar, cream and vanilla essence.",
+          "options": {
+            "1": "instructions",
+            "2": "ingredients",
+            "3": "accessories",
+            "4": "equipment"
+          }
+        },
+        "13": {
+          "stem_plain": "\"Stop taking my stationery without my permission!\" Andy __________ angrily.",
+          "options": {
+            "1": "yelled",
+            "2": "croaked",
+            "3": "mumbled",
+            "4": "whispered"
+          }
+        },
+        "14": {
+          "stem_plain": "The two men who jumped into the water to save the child were given an award for their __________ act.",
+          "options": {
+            "1": "brave",
+            "2": "honest",
+            "3": "diligent",
+            "4": "intelligent"
+          }
+        },
+        "15": {
+          "stem_plain": "Before the start of the race, the __________ did some warm-up exercises.",
+          "options": {
+            "1": "audience",
+            "2": "opponents",
+            "3": "spectators",
+            "4": "competitors"
+          }
+        },
+        "16": {
+          "stem_plain": "Jack was __________ when he spotted a snake slithering in the garden.",
+          "options": {
+            "1": "annoyed",
+            "2": "shocked",
+            "3": "ashamed",
+            "4": "disappointed"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "当船在强暴风雨中开始下沉时，海员们遗弃了这艘船。",
+          "note": "“ship”（船）在暴风雨中面临的危险是下沉，选用动词 “sink”（下沉、沉没）。",
+          "concept": "动词词义辨析 — Vocabulary (Verbs) — sink",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fall",
+              "zh": "落下，跌倒",
+              "eg": "The autumn leaves fall from the trees and cover the green lawn."
+            },
+            {
+              "opt": "2",
+              "word": "drop",
+              "zh": "掉落，下降",
+              "eg": "Be careful not to drop the fragile porcelain plates on the floor."
+            },
+            {
+              "opt": "3",
+              "word": "sink",
+              "zh": "下沉，沉没",
+              "eg": "The heavy stone managed to sink quickly straight to the bottom of the lake."
+            },
+            {
+              "opt": "4",
+              "word": "hang",
+              "zh": "悬挂，挂起",
+              "eg": "They plan to hang the new family painting in the living room."
+            }
+          ]
+        },
+        "12": {
+          "zh": "制作冰淇淋的主要原料是糖、奶油和香草精。",
+          "note": "后文列出的糖（sugar）、奶油（cream）等都是制作食品所需的材料，选用名词 “ingredients”（原料、配料）。",
+          "concept": "名词词义辨析 — Vocabulary (Nouns) — ingredients",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "instructions",
+              "zh": "指示，用法说明",
+              "eg": "Please read the operating instructions carefully before using the microwave."
+            },
+            {
+              "opt": "2",
+              "word": "ingredients",
+              "zh": "原料，配料",
+              "eg": "Mix all the ingredients thoroughly in a large bowl before baking."
+            },
+            {
+              "opt": "3",
+              "word": "accessories",
+              "zh": "配件，饰品",
+              "eg": "The shop sells mobile phone accessories such as leather cases and chargers."
+            },
+            {
+              "opt": "4",
+              "word": "equipment",
+              "zh": "设备，器材",
+              "eg": "The athletes brought their own sports equipment for the training session."
+            }
+          ]
+        },
+        "13": {
+          "zh": "“别不经我允许就拿我的文具！”安迪愤怒地吼道。",
+          "note": "带有感叹号的直接引语以及副词 “angrily”（愤怒地）都提示说活的声音非常大，选用动词 “yelled”（大喊、吼叫）。",
+          "concept": "说话类动词辨析 — Vocabulary (Verbs) — yelled",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "yelled",
+              "zh": "大喊，吼叫",
+              "eg": "The coach yelled instructions to his players from the sidelines."
+            },
+            {
+              "opt": "2",
+              "word": "croaked",
+              "zh": "发出沙哑的声音",
+              "eg": "With a sore throat, he croaked a faint hello into the telephone."
+            },
+            {
+              "opt": "3",
+              "word": "mumbled",
+              "zh": "咕哝，嘟囔",
+              "eg": "She mumbled an apology and walked away quickly with her head down."
+            },
+            {
+              "opt": "4",
+              "word": "whispered",
+              "zh": "低语，耳语",
+              "eg": "The library visitors whispered quietly to avoid disturbing other readers."
+            }
+          ]
+        },
+        "14": {
+          "zh": "那两个跳进水里救孩子的男子因他们的勇敢行为而获得了表彰。",
+          "note": "“jumped into the water to save the child”（跳水救人）属于典型的见义勇为，选用形容词 “brave”（勇敢的）来修饰行为（act）。",
+          "concept": "形容词词义辨析 — Vocabulary (Adjectives) — brave",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "brave",
+              "zh": "勇敢的，大胆的",
+              "eg": "The brave firefighter rushed into the burning house to save the baby."
+            },
+            {
+              "opt": "2",
+              "word": "honest",
+              "zh": "诚实的，正直的",
+              "eg": "An honest boy returned the wallet he found on the street to the police."
+            },
+            {
+              "opt": "3",
+              "word": "diligent",
+              "zh": "勤奋的，用功的",
+              "eg": "Thanks to her diligent study habits, she topped the national examinations."
+            },
+            {
+              "opt": "4",
+              "word": "intelligent",
+              "zh": "聪明的，有才智的",
+              "eg": "The intelligent student solved the complex puzzle within a few seconds."
+            }
+          ]
+        },
+        "15": {
+          "zh": "在比赛开始前，参赛选手们做了一些热身运动。",
+          "note": "“start of the race”（比赛开始）以及 “warm-up exercises”（热身运动）的执行者一定是亲自参加比赛的人，选用名词 “competitors”（参赛者）。",
+          "concept": "名词词义辨析与场景对应 — Vocabulary (Nouns) — competitors",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "audience",
+              "zh": "观众",
+              "eg": "The enthusiastic audience clapped loudly at the end of the concert."
+            },
+            {
+              "opt": "2",
+              "word": "opponents",
+              "zh": "对手",
+              "eg": "The tennis star respected his opponents and always shook hands after matches."
+            },
+            {
+              "opt": "3",
+              "word": "spectators",
+              "zh": "（体育场馆的）观众",
+              "eg": "Thousands of spectators packed the stadium to watch the final football match."
+            },
+            {
+              "opt": "4",
+              "word": "competitors",
+              "zh": "竞争者，参赛选手",
+              "eg": "All competitors must report to the registry counter before the race starts."
+            }
+          ]
+        },
+        "16": {
+          "zh": "当杰克发现一条蛇在花园里爬行时，他吓了一跳。",
+          "note": "看到蛇（snake slithering）通常会引发意外的惊吓或恐惧感，选用形容词 “shocked”（震惊的、受惊吓的）。",
+          "concept": "形容词词义辨析与常理推断 — Vocabulary (Adjectives) — shocked",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "annoyed",
+              "zh": "恼怒的，生气的",
+              "eg": "He was highly annoyed by the loud barking of the neighbor's dog all night."
+            },
+            {
+              "opt": "2",
+              "word": "shocked",
+              "zh": "震惊的，受惊吓的",
+              "eg": "She was shocked to hear the unexpected news of her friend's sudden departure."
+            },
+            {
+              "opt": "3",
+              "word": "ashamed",
+              "zh": "羞愧的，惭愧的",
+              "eg": "The boy felt ashamed for telling a lie to his parents about the test score."
+            },
+            {
+              "opt": "4",
+              "word": "disappointed",
+              "zh": "失望的",
+              "eg": "They were deeply disappointed when their holiday trip was postponed due to bad weather."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "语法题",
+          "note": "指代“李夫人（Mrs Lee）的手”。Mrs Lee是女性，修饰名词hands，故使用女性形容词性物主代词“her”（她的）。",
+          "answer": "D"
+        },
+        "18": {
+          "concept": "语法题",
+          "note": "指代“学生们（The students）”。在句中作had done well的主语，由于是复数概念，故使用人称代词主格“they”（他们）。",
+          "answer": "E"
+        },
+        "19": {
+          "concept": "语法题",
+          "note": "指代“学生们（The students）的成绩”。修饰名词results，因为是指代复数群体的所有物，故使用复数形容词性物主代词“their”（他们的）。",
+          "answer": "F"
+        },
+        "20": {
+          "concept": "语法题",
+          "note": "这是李夫人对全班学生（The class）说的话：“你们应该为你们的努力付出得到回报而感到自豪。”修饰名词短语hard work，故使用第二人称形容词性物主代词“your”（你们的）。",
+          "answer": "C"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "his",
+          "B": "we",
+          "C": "your",
+          "D": "her",
+          "E": "they",
+          "F": "their"
+        },
+        "cloze": [
+          "The students greeted Mrs Lee when she stepped into the classroom. She was holding a stack of test papers in [Q17] hands. Mrs Lee told the class that [Q18] had done well in the recent test. The students were overjoyed upon receiving [Q19] results. \"You should be proud that [Q20] hard work has paid off,\" Mrs Lee said with a smile."
+        ],
+        "zh": [
+          "当李夫人走进教室时，学生们向她问好。她手里拿着一叠试卷。李夫人告诉全班同学，他们在最近的测试中表现得很好。学生们在收到他们的成绩时欣喜若狂。“你们应该为你们的努力付出得到回报而感到自豪，”李夫人笑着说。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "28": {
+          "stem_plain": "Justin was selected for the contest. Jane was selected for the contest too.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Both ..."
+        },
+        "29": {
+          "stem_plain": "Check your work carefully. You do not want to make careless mistakes.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... if ...."
+        }
+      },
+      "answers": {
+        "28": {
+          "concept": "Conjunctions — Both ... and ...",
+          "zh": "贾斯汀和珍都被选中参加比赛。",
+          "note": "‘Both ... and ...’ 连接两个单数主语时，谓语动词要用复数形式（was 变为 were）。",
+          "answer": "Both Justin and Jane were selected for the contest."
+        },
+        "29": {
+          "concept": "Conditionals — Adverbial clause of condition ('if')",
+          "zh": "如果你不想犯粗心的错误，请仔细检查你的工作。",
+          "note": "使用‘if’引导条件状语从句，将两个句子连接起来，注意‘if’在句中的大小写和位置。",
+          "answer": "Check your work carefully if you do not want to make careless mistakes."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

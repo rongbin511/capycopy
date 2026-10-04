@@ -1,0 +1,1159 @@
+{
+  "paperid": "p6_english_2018_sa2_rafflesgirls",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "She was surprised that neither Bala nor the boys _________ informed of the birthday party yesterday.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "If we continue to deplete our natural resources, we _________ cause serious damage to the environment.",
+          "options": {
+            "1": "will",
+            "2": "must",
+            "3": "should",
+            "4": "ought to"
+          }
+        },
+        "3": {
+          "stem_plain": "\"If the volunteers are still not here, we will have to do the job _________,\" Mr Lim told his children.",
+          "options": {
+            "1": "myself",
+            "2": "himself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "4": {
+          "stem_plain": "One of the biggest and most difficult problems we faced then _________ the lack of funds for future expansion.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "5": {
+          "stem_plain": "Deanna and _________ were told to complete our work by noon.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "mine",
+            "4": "myself"
+          }
+        },
+        "6": {
+          "stem_plain": "My mother's knowledge of the different languages _________ her in her work since she joined the company.",
+          "options": {
+            "1": "helps",
+            "2": "helped",
+            "3": "has helped",
+            "4": "have helped"
+          }
+        },
+        "7": {
+          "stem_plain": "Let's organise a class party after our graduation, _________?",
+          "options": {
+            "1": "shall we",
+            "2": "would we",
+            "3": "shan't we",
+            "4": "wouldn't we"
+          }
+        },
+        "8": {
+          "stem_plain": "_________ your work has improved greatly, there are still some areas that concern me.",
+          "options": {
+            "1": "If",
+            "2": "As",
+            "3": "While",
+            "4": "However"
+          }
+        },
+        "9": {
+          "stem_plain": "Our team has worked really hard. The final score does not do justice _________ our team's performance.",
+          "options": {
+            "1": "in",
+            "2": "to",
+            "3": "with",
+            "4": "over"
+          }
+        },
+        "10": {
+          "stem_plain": "It was indeed _________ honour to be nominated by _________ university lecturer.",
+          "options": {
+            "1": "a ...... a",
+            "2": "a ...... an",
+            "3": "an ...... a",
+            "4": "an ...... an"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "由 “neither... nor...” 连接并列主语时，谓语动词遵循“就近原则”，与靠近它的主语 “the boys”（复数）保持一致；时间状语 “yesterday” 提示应用一般过去时，故选 “were”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — Correlative Conjunctions",
+          "zh": "她感到很惊讶，因为昨天巴拉和那些男孩子们都没有收到生日聚会的通知。",
+          "answer": "4"
+        },
+        "2": {
+          "note": "这是一个真实条件句（第一条件句），if 从句使用了一般现在时 “continue”，主句用来预测必然发生的结果，应使用情态动词 “will” 表达将来的客观事实。",
+          "concept": "条件状语从句 — Conditionals — First Conditional",
+          "zh": "如果我们继续消耗自然资源，我们将对环境造成严重的破坏。",
+          "answer": "1"
+        },
+        "3": {
+          "note": "引述语中的主语是 “we”，表示说话者林先生和孩子们这个群体，因此在句末需要填入与之呼应的反身代词 “ourselves”（我们自己）。",
+          "concept": "代词 — Pronouns — Reflexive Pronouns",
+          "zh": "林先生对他的孩子们说：“如果志愿者还没来，我们必须自己来做这项工作。”",
+          "answer": "3"
+        },
+        "4": {
+          "note": "句子的核心主语是 “One of...”（其中之一），为单数概念。根据定语从句中的过去式动词 “faced” 以及时间副词 “then”，全句处于过去语境，因此谓语动词应选用过去时单数形式 “was”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — One of the plural nouns",
+          "zh": "我们当时面临的最大、最困难的问题之一，是缺乏未来扩张的资金。",
+          "answer": "3"
+        },
+        "5": {
+          "note": "空格处在句子中与 “Deanna” 共同充当并列主语，因此必须使用人称代词的主格形式 “I”。此外，后文的 “our work” 也间接印证了主语包含“我”。",
+          "concept": "代词格的选择 — Pronouns — Subject Pronouns",
+          "zh": "迪安娜和我在中午前被告知要完成我们的工作。",
+          "answer": "1"
+        },
+        "6": {
+          "note": "主语的核心词是不可数名词 “knowledge”（知识），谓语动词需用单数形式。句中的时间状语从句 “since she joined the company” 提示主句动作从过去持续至今，应用现在完成时，故选 “has helped”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — Present Perfect with Since",
+          "zh": "自妈妈加入公司以来，她对不同语言的了解在工作中对她大有帮助。",
+          "answer": "3"
+        },
+        "7": {
+          "note": "以 “Let's...”（让我们……，包含听话者在内）开头的祈使句，其反意疑问句部分通常使用固定的语气助动词标签 “shall we”。",
+          "concept": "反意疑问句 — Question Tags — Imperatives with Let's",
+          "zh": "毕业后我们组织一次班级聚会，好吗？",
+          "answer": "1"
+        },
+        "8": {
+          "note": "“While” 在此处用作连词，引导让步状语从句，意为“尽管”或“虽然”，用以连接两个在语意上存在轻微转折或对比的条款。",
+          "concept": "让步状语从句 — Conjunctions — Concession while",
+          "zh": "虽然你的工作有了长足的进步，但仍有一些地方让我感到担心。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "“do justice to” 或者是 “do somebody/something justice” 是一个固定的短语搭配，意思是“公平对待”或“充分展现出……的价值/真实水平”。",
+          "concept": "习语与介词搭配 — Idioms — Do justice to",
+          "zh": "我们队真的非常努力。最后的比分并不能真实反映出我们队的表现。",
+          "answer": "2"
+        },
+        "10": {
+          "note": "第一个空格后面的名词 “honour” 以元音音素 /ɒ/ 开头（其中的 h 不发音），前面应用不定冠词 “an”；第二个空格后面的 “university” 虽然以元音字母 u 开头，但其发音为半元音音素 /j/，属于辅音发音，前面应用不定冠词 “a”。",
+          "concept": "冠词用法 — Articles — An before silent H / A before university",
+          "zh": "能获得大学讲师的提名确实是一件很荣幸的事。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Due to the extremely hot weather in the past few weeks, the number of flu cases in class has ________. Teachers will have to be prepared for more absentees in the coming week.",
+          "options": {
+            "1": "surged",
+            "2": "hurtled",
+            "3": "plunged",
+            "4": "advanced"
+          }
+        },
+        "12": {
+          "stem_plain": "John is not ________ to be a pilot as he suffers from severe short-sightedness.",
+          "options": {
+            "1": "cut in",
+            "2": "cut up",
+            "3": "cut off",
+            "4": "cut out"
+          }
+        },
+        "13": {
+          "stem_plain": "There were many reporters at Sentosa to provide full ________ of the Trump-Kim summit in June.",
+          "options": {
+            "1": "media",
+            "2": "coverage",
+            "3": "screenings",
+            "4": "photography"
+          }
+        },
+        "14": {
+          "stem_plain": "Joan was such a ________ speaker that she won the hearts of many students during the head prefect election campaign.",
+          "options": {
+            "1": "vigorous",
+            "2": "disdainful",
+            "3": "charismatic",
+            "4": "monotonous"
+          }
+        },
+        "15": {
+          "stem_plain": "For years, the sea has provided us with a/an ________ supply of seafood. We should protect it so that our future generations will continue to have this never-ending source of food.",
+          "options": {
+            "1": "scarce",
+            "2": "luxurious",
+            "3": "abundant",
+            "4": "exorbitant"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "由于过去几周天气极其炎热，班里患流感的人数急剧上升。老师们必须为接下来一周出现更多的缺席学生做好准备。",
+          "note": "‘surged’ 意为‘急剧上升，激增’。后半句中 “more absentees”（更多的缺席者）提示流感病例的数量正在大幅增加，因此应选择表示数量猛增的词汇。",
+          "concept": "动词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "surged",
+              "zh": "急剧上升，激增（动词，指数量、价格、价格或某种情感在极短的时间内发生极其迅猛、大幅度的增长或暴涨）",
+              "eg": "The demand for air conditioners surged as the summer heatwave hit the city."
+            },
+            {
+              "opt": "2",
+              "word": "hurtled",
+              "zh": "猛冲，疾飞（动词，指人、车辆或物体以极其惊人的速度、往往带着危险或无法控制的势头向某个方向快速移动或猛冲过去）",
+              "eg": "The runaway car hurtled down the steep hill and crashed into a thick wooden fence."
+            },
+            {
+              "opt": "3",
+              "word": "plunged",
+              "zh": "暴跌，猛跌（动词，指数量、价格、气温等极其迅速地出现大幅度下降，或者指人或物突然用力跳入或坠入水中、深谷中）",
+              "eg": "The temperature plunged overnight, turning the rainwater on the streets into solid ice."
+            },
+            {
+              "opt": "4",
+              "word": "advanced",
+              "zh": "前进，发展（动词，指军队、队伍在地理空间上向前推进，或者指技术、科学、系统等朝着更高级、更成熟的阶段发展和进步）",
+              "eg": "The troops advanced stealthily through the dense forest under the cover of night."
+            }
+          ]
+        },
+        "12": {
+          "zh": "约翰不适合当飞行员，因为他患有严重的近视。",
+          "note": "‘cut out’ 是短语动词，‘be cut out for/to be something’ 是固定搭配，意为‘天生适合担任某种职位或从事某种职业’。后文提及他有严重近视，因此“不适合（not cut out）”当飞行员。",
+          "concept": "短语动词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cut in",
+              "zh": "插嘴，超车（动词短语，指在他人说话时毫无礼貌地突然打断，或者指驾驶车辆时突然强行切入前方车辆的行驶车道）",
+              "eg": "It is highly impolite to cut in when two elder people are having a serious conversation."
+            },
+            {
+              "opt": "2",
+              "word": "cut up",
+              "zh": "切碎，使难过（动词短语，指用刀、剪刀等工具将食物、布料或纸张剪碎切成小块，或者在被动语态中表示某人因噩耗而极度伤心难过）",
+              "eg": "The chef began to cut up the fresh vegetables and toss them into the boiling soup."
+            },
+            {
+              "opt": "3",
+              "word": "cut off",
+              "zh": "切断，隔绝（动词短语，指通过关闭阀门、断开线路等手段停止供应电力、水、燃气或电话信号，或指地理上使某地与外界完全隔绝）",
+              "eg": "The heavy snowstorm cut off the remote mountain village from the rest of the country."
+            },
+            {
+              "opt": "4",
+              "word": "cut out",
+              "zh": "适合，裁剪（动词短语，常用被动或否定式表示某人的性格、才能或身体条件是否天生适合从事某种特定职业或高难度工作）",
+              "eg": "With her patience and deep love for children, Mary is definitely cut out to be a kindergarten teacher."
+            }
+          ]
+        },
+        "13": {
+          "zh": "许多记者聚集在圣淘沙，对六月份举行的特金会进行全面的新闻报道。",
+          "note": "‘coverage’ 意为‘（新闻、电视、广播等的）报道’。前文提到 “many reporters”（许多记者），其主要职责和工作内容就是为重大事件提供全面的新闻报道（full coverage）。",
+          "concept": "名词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "media",
+              "zh": "媒体，媒介（名词，是个集体名词，指报纸、电视、广播、网络等向大众传播信息和娱乐的所有新闻和大众传播媒介的总称）",
+              "eg": "The celebrity's private wedding attracted a large amount of attention from the national media."
+            },
+            {
+              "opt": "2",
+              "word": "coverage",
+              "zh": "新闻报道（名词，特指报纸、电视台、电台或网络媒体对某一特定新闻事件、体育赛事或政治会议所进行的持续、深入的信息报道）",
+              "eg": "The sports channel provided live coverage of the Olympic Games throughout the month."
+            },
+            {
+              "opt": "3",
+              "word": "screenings",
+              "zh": "放映，筛查（名词，指电影、电视节目等在电影院或公共场合的正式播放，或指医院对某种疾病、机构对人员资质进行的大规模健康或安全筛查）",
+              "eg": "The film festival features continuous screenings of independent movies from around the world."
+            },
+            {
+              "opt": "4",
+              "word": "photography",
+              "zh": "摄影，照相（名词，指使用照相机捕捉光线、记录影像，从而制作照片的专业技能、艺术创作过程或相关的工作职业）",
+              "eg": "She decided to take a professional course to improve her skills in landscape photography."
+            }
+          ]
+        },
+        "14": {
+          "zh": "乔安是一位如此有魅力的演讲者，以至于她在总学长竞选活动中赢得了许多学生的心。",
+          "note": "‘charismatic’ 意为‘有魅力的，自带领导气质的’。后文 “won the hearts of many students”（赢得了许多学生的心）证明乔安的演讲极具感染力和个人魅力。",
+          "concept": "形容词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "vigorous",
+              "zh": "精力充沛的，激烈的（形容词，指人充满活力、体健神旺，或形容某种动作、运动、辩论方式极其猛烈、强有力且充满干劲）",
+              "eg": "The elderly man stays healthy and fit by taking a vigorous walk in the park every single morning."
+            },
+            {
+              "opt": "2",
+              "word": "disdainful",
+              "zh": "轻蔑的，鄙视的（形容词，指对待他人或某种事物时，表现出一种自以为是、傲慢无礼、认为对方毫无价值或不屑一顾的鄙夷态度）",
+              "eg": "He gave a disdainful glance at the cheap clothes and walked out of the store without a word."
+            },
+            {
+              "opt": "3",
+              "word": "charismatic",
+              "zh": "有魅力的（形容词，指某人拥有一种极具吸引力的个人特质、领袖气质或强烈的感染力，能够轻易赢得大众的爱戴、信任与支持）",
+              "eg": "The charismatic leader inspired thousands of citizens to join the environmental protection campaign."
+            },
+            {
+              "opt": "4",
+              "word": "monotonous",
+              "zh": "单调乏味的（形容词，指声音、工作、生活节奏等长期没有任何起伏、变化或新意，显得极其机械、枯燥无聊，令人容易产生疲劳）",
+              "eg": "The lecturer spoke in a monotonous voice that made half of the students in the hall fall asleep."
+            }
+          ]
+        },
+        "15": {
+          "zh": "多年来，大海为我们提供了丰富的海鲜供应。我们应该保护它，以便我们的后代继续拥有这源源不断的数据流（食物来源）。",
+          "note": "‘abundant’ 意为‘丰富的，充足的’。后文的 “never-ending source of food”（永不枯竭的食物来源）直接与“丰富的（abundant）”供应形成完美的前后呼应。",
+          "concept": "形容词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "scarce",
+              "zh": "缺乏的，罕见的（形容词，指某种生活必需品如食物、水、资源等在市场上或自然界中数量极少、供不应求，或者指某种现象很难见到）",
+              "eg": "Fresh drinking water became extremely scarce in the region after months of severe drought."
+            },
+            {
+              "opt": "2",
+              "word": "luxurious",
+              "zh": "奢侈的，豪华的（形容词，指某物如酒店、住宅、服饰等用料极其昂贵、品质上乘，能给人带来极大感官享受或极高舒适度的舒适生活条件）",
+              "eg": "They spent their annual summer vacation staying at a luxurious five-star resort by the private beach."
+            },
+            {
+              "opt": "3",
+              "word": "abundant",
+              "zh": "丰富的，充足的（形容词，指某种物资、资源、机会或证据在数量上极其巨大、非常充裕，完全能够充分甚至过剩地满足人们的各种实际需要）",
+              "eg": "The country is blessed with an abundant supply of natural resources like timber and oil."
+            },
+            {
+              "opt": "4",
+              "word": "exorbitant",
+              "zh": "（价格、收费等）过高的，勒索性的（形容词，特指商品的售价、服务收费、租金或利息高得完全超出了合理的、正常的或合法的界限）",
+              "eg": "The hotel charged an exorbitant price for a simple bottle of mineral water in the room."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "relished",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "tasted",
+            "2": "loathed",
+            "3": "enjoyed",
+            "4": "favoured"
+          }
+        },
+        "17": {
+          "stem_plain": "Signalling",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "waving",
+            "2": "notifying",
+            "3": "indicating",
+            "4": "announcing"
+          }
+        },
+        "18": {
+          "stem_plain": "consume",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "hog",
+            "2": "cover",
+            "3": "gobble",
+            "4": "dominate"
+          }
+        },
+        "19": {
+          "stem_plain": "held on",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "pivoted",
+            "2": "prevailed",
+            "3": "prolonged",
+            "4": "persevered"
+          }
+        },
+        "20": {
+          "stem_plain": "friendly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "amiable",
+            "2": "animated",
+            "3": "ambiguous",
+            "4": "antagonistic"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “relished”意为享受、喜爱某种体验，与“enjoyed”意思最接近。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tasted",
+              "zh": "尝，品尝",
+              "eg": "He tasted the soup to see if it needed more salt."
+            },
+            {
+              "opt": "2",
+              "word": "loathed",
+              "zh": "憎恨，厌恶",
+              "eg": "She absolutely loathed washing the dirty dishes."
+            },
+            {
+              "opt": "3",
+              "word": "enjoyed",
+              "zh": "享受，喜欢",
+              "eg": "The children enjoyed their time at the amusement park."
+            },
+            {
+              "opt": "4",
+              "word": "favoured",
+              "zh": "偏爱，支持",
+              "eg": "The manager favoured the most experienced candidate."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “Signalling”指通过动作表达或传达某种情绪或信号，与“indicating（表明、显示）”同义。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "waving",
+              "zh": "挥手，挥舞",
+              "eg": "She stood by the gate, waving goodbye to her friends."
+            },
+            {
+              "opt": "2",
+              "word": "notifying",
+              "zh": "通知，告知",
+              "eg": "The office is notifying all candidates about the interview results."
+            },
+            {
+              "opt": "3",
+              "word": "indicating",
+              "zh": "表明，指示，显示",
+              "eg": "A red light is indicating that the battery is low."
+            },
+            {
+              "opt": "4",
+              "word": "announcing",
+              "zh": "宣布，宣告",
+              "eg": "The company is announcing its new product line tomorrow."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — 语境中“Rage threatened to consume him”形容愤怒的情绪快要吞噬、完全控制他，与“dominate（统治、支配、控制）”最为契合。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hog",
+              "zh": "独占，贪婪地据为己有",
+              "eg": "Don't hog the computer; let others have a turn."
+            },
+            {
+              "opt": "2",
+              "word": "cover",
+              "zh": "覆盖，掩盖",
+              "eg": "They used a large canvas to cover the outdoor equipment."
+            },
+            {
+              "opt": "3",
+              "word": "gobble",
+              "zh": "狼吞虎咽，贪婪地吃",
+              "eg": "The hungry dog began to gobble down its food."
+            },
+            {
+              "opt": "4",
+              "word": "dominate",
+              "zh": "支配，控制，主导",
+              "eg": "Fear began to dominate his thoughts during the storm."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “held on”指顶住压力、坚持住，在面对愤怒时克制住自己，与“persevered（坚持不懈、坚忍）”语境最接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pivoted",
+              "zh": "在枢轴上转动，围绕……旋转",
+              "eg": "The dancer pivoted smoothly on one foot."
+            },
+            {
+              "opt": "2",
+              "word": "prevailed",
+              "zh": "战胜，普遍存在，占上风",
+              "eg": "Justice finally prevailed after a long and fair trial."
+            },
+            {
+              "opt": "3",
+              "word": "prolonged",
+              "zh": "延长，拉长",
+              "eg": "The heavy traffic prolonged our journey by two hours."
+            },
+            {
+              "opt": "4",
+              "word": "persevered",
+              "zh": "坚持，坚忍不拔",
+              "eg": "Despite the difficulties, he persevered and finished the race."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “friendly”指友好的、和蔼可亲的，与“amiable”意思完全相同。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "amiable",
+              "zh": "和蔼可亲的，友好的",
+              "eg": "The new neighbors are exceptionally amiable and helpful."
+            },
+            {
+              "opt": "2",
+              "word": "animated",
+              "zh": "生气的，活跃的，栩栩如生的",
+              "eg": "They had an animated discussion about their favorite movie."
+            },
+            {
+              "opt": "3",
+              "word": "ambiguous",
+              "zh": "模棱两可的，含糊不清的",
+              "eg": "The ending of the story was ambiguous and left us guessing."
+            },
+            {
+              "opt": "4",
+              "word": "antagonistic",
+              "zh": "敌对的，对抗的",
+              "eg": "His antagonistic attitude made teamwork very difficult."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was a new and delightful experience for Sly, the monkey. Sliding his hands over the clay, Sly [Q16(relished)] the moisture oozing around his fingers. The clay matted down the hair on the back of his hands making them look almost human. [Q17(Signalling)] his pleasure, he smiled in contentment as he shaped the perfect vase.",
+          "Someone banged on the window of his pen. Sly jumped and then screamed as the vase collapsed under its own weight. Rage threatened to [Q18(consume)] him as his lips drew back in a grimace. However, he [Q19(held on)]. He knew he must appear [Q20(friendly)]. If not, he would suffer severe consequences from his trainer, Vern."
+        ],
+        "zh": [
+          "对于猴子斯莱来说，这是一次新奇而愉快的体验。斯莱把手滑过黏土，享受着手指周围渗出的湿气。黏土将他手背上的毛发压平，使它们看起来几乎像人类的手一样。他微笑着露出满足的神情，表明内心的喜悦，同时塑造着一个完美的花瓶。",
+          "有人猛敲他圈舍的窗户。斯莱吓了一跳，随后眼看着花瓶在自身重量下塌陷，他尖叫起来。愤怒几乎要吞噬他，他的嘴唇向后咧开，露出痛苦而愤怒的面部扭曲。然而，他坚持住了。他知道自己必须显得友好。否则，他将受到教练维恩的严厉惩罚。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "动词时态与主谓一致（一般现在时）",
+          "note": "本句主语为动名词短语 asking the right questions，在语法上视为单数核心概念，且本段在客观阐述科学研究中的规律与看法，因此使用一般现在时，系动词选 is。",
+          "answer": "G"
+        },
+        "30": {
+          "concept": "介词用法（表示原因、理由或目的）",
+          "note": "‘were rewarded for their inquisitiveness’ 构成被动语态中的固定搭配 ‘be rewarded for sth.’，用介词 for 引入受奖赏或惩罚的具体原因，意为‘因他们的好奇心而获得奖赏’。",
+          "answer": "D"
+        },
+        "31": {
+          "concept": "副词搭配（动副短语固定搭配）",
+          "note": "‘It gave out its first prizes...’，动词短语 give out 在此表示‘分发、颁发’，意为‘该奖项于2008年首次颁发’。",
+          "answer": "L"
+        },
+        "32": {
+          "concept": "动词时态与主谓一致（一般过去时复数）",
+          "note": "‘Both were among ten...’，主语 Both（两者都）在语义和语法上皆为复数。由于后文明确提及颁奖活动发生在 ‘last month’（上个月），故使用一般过去时复数形式的系动词 were。",
+          "answer": "P"
+        },
+        "33": {
+          "concept": "介词搭配（名介固定搭配）",
+          "note": "‘spirit of inquiry’ 是固定学术词组搭配，意为‘探究精神’、‘钻研精神’。",
+          "answer": "H"
+        },
+        "34": {
+          "concept": "代词（形容词性物主代词）",
+          "note": "‘Both students said their love for science...’，此处需要形容词性物主代词来修饰后面的名词 love，指代前文复数的两位学生（Both students），意为‘他们对科学的热爱’。",
+          "answer": "M"
+        },
+        "35": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘stems from...’ 是固定动词短语搭配，意为‘源于……’、‘发端于……’，用来阐述热情的来源。",
+          "answer": "E"
+        },
+        "36": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘be hooked on sth.’ 是固定短语，意为‘对……着迷’、‘迷上……’，此处介词 on 位于被动语态结构的末尾。",
+          "answer": "J"
+        },
+        "37": {
+          "concept": "介词搭配（定语从句末尾介词省写或悬空）",
+          "note": "‘the world we live in’，本句包含一个省略了关系代词的定语从句，动词 live 后必须搭配介词 in，表示‘我们生活其中的世界’。",
+          "answer": "F"
+        },
+        "38": {
+          "concept": "连词用法（转折关系）",
+          "note": "‘Singapore students often shy away... but that has never been the case...’ 位于新分句首，引导前后两句话之间的强烈对比与转折，意为‘新加坡学生往往羞于提问，但这对迪凡什和娜塔莎来说却从未发生过’。",
+          "answer": "C"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "B": "are",
+          "C": "but",
+          "D": "for",
+          "E": "from",
+          "F": "in",
+          "G": "is",
+          "H": "of",
+          "J": "on",
+          "K": "our",
+          "L": "out",
+          "M": "their",
+          "N": "was",
+          "P": "were",
+          "Q": "who"
+        },
+        "cloze": [
+          "Having the right answers might get you top marks in school examinations. However, in scientific research, many believe that asking the right questions [Q29] equally important. As Albert Einstein once said, 'The important thing is not to stop questioning.'",
+          "Two years ago, two Singaporean students were rewarded [Q30] their inquisitiveness. Natasha Kowshik and Devansh Shah received the Molecular Frontiers Inquiry Prize. This is the world's first prize that rewards questions rather than answers. It gave [Q31] its first prizes in 2008. Both [Q32] among ten young people from around the world who got their spirit [Q33] inquiry recognised at a symposium in Tokyo last month.",
+          "Natasha won with her question on positive and negative charges while Devansh won with a question on adenosine triphosphate. Both students said [Q34] love for science taught them to keep asking questions. Natasha said her passion for science stems [Q35] its ability to provide plausible explanations for phenomena that may not be well understood. For Devansh, who has been hooked [Q36] science since primary school, it is about \"learning about the world we live [Q37]\".",
+          "Singapore students often shy away from asking questions [Q38] that has never been the case for Devansh and Natasha. They realised that there was much more value in seeking answers than suppressing curiosity."
+        ],
+        "zh": [
+          "拥有正确的答案可能会让你在学校考试中获得高分。然而，在科学研究中，许多人认为提出正确的问题同样重要。正如阿尔伯特·爱因斯坦曾经说过的那样：‘重要的事情是不要停止提问。’",
+          "两年前，两名新加坡学生因他们的探索好奇心而获得了奖赏。娜塔莎·考希克（Natasha Kowshik）和迪凡什·沙阿（Devansh Shah）荣获了分子前沿探究奖（Molecular Frontiers Inquiry Prize）。这是世界上第一个奖励‘提问’而非‘答案’的奖项。该奖项于2008年首次颁发。上个月在东京举行的一次研讨会上，这两位学生双双跻身全球十位因‘探究精神’获得认可的年轻人的行列。",
+          "娜塔莎凭借她关于正负电荷的问题获奖，而迪凡什则凭借一个关于三磷酸腺苷（ATP）的问题获奖。两位学生都表示，他们对科学的热爱教会了他们不断提出问题。娜塔莎说，她对科学的热情源于科学能够为那些可能无法被很好理解的现象提供合理的解释。对于自小学起就迷上科学的迪凡什来说，科学的核心在于“去了解我们生活其中的这个世界”。",
+          "新加坡学生往往羞于提出问题，但这对迪凡什和娜塔莎来说却从未如此。他们意识到，寻找答案的价值远比压抑好奇心要大得多。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 symbol（名词，意为象征、标志）。",
+          "answer": "symbol"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 brochures（名词复数，意为宣传册）。",
+          "answer": "brochures"
+        },
+        "41": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：“近距离地、亲身体验地”应使用固定短语 up close and personal，而非 out close。",
+          "answer": "up"
+        },
+        "42": {
+          "concept": "代词 - Pronouns",
+          "note": "代词单复数不一致：前面的先行词是单数 the Merlion statue，对应其喷水的口应用单数物主代词 its，而非复数 their。",
+          "answer": "its"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 definitely（副词，意为明确地、肯定地）。",
+          "answer": "definitely"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 leisurely（形容词/副词，意为从容不迫的、悠闲的）。",
+          "answer": "leisurely"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 nostalgic（形容词，意为怀旧的、引起乡愁的）。",
+          "answer": "nostalgic"
+        },
+        "46": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处描述“多年前起源于……”这一过去发生的事实，应用过去时形式 sprang，而非一般现在时单数形式 springs。",
+          "answer": "sprang"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 envision（动词，意为展望、想象）。",
+          "answer": "envision"
+        },
+        "48": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处描述对于我们的祖先来说曾经“是”什么，表示过去的状态，应用过去时形式 was，而非一般现在时 is。",
+          "answer": "was"
+        },
+        "49": {
+          "concept": "现在分词 - Present Participles",
+          "note": "非谓语动词/被动含义：作后置定语修饰复数名词 rich experiences，此处表示“正在等待着我们的丰富体验”，应用现在分词形式 awaiting 作定语，而非第三人称单数动词形式 awaits。",
+          "answer": "awaiting"
+        },
+        "50": {
+          "concept": "动词原形平行结构 - Parallel Structure",
+          "note": "平行结构：与连词 and 前面的情态动词 can 搭配的动词原形 smell 相并列，后面的 hears 也必须使用动词原形 hear，保持并列结构一致。",
+          "answer": "hear"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Hello my fellow classmates, I would like to propose Merlion Park as the most ideal site for us to have our learning journey next month. The Merlion Park houses the iconic national [Q39(simbol)] of Singapore, the Merlion statue. We can have a good look at the statue that we see in our textbooks and [Q40(travel broshures)]. Not only will we be able to see firsthand the majestic statue of the half-lion, half-fish chimeric creature [Q41(out)] close and personal, but we will also be able to take pictures with our classmates against the backdrop of the Merlion spouting water from [Q42(their)] mouth. I believe that would [Q43(defenetely)] be an awesome learning experience with large doses of fun!",
+          "The learning will continue as we take a [Q44(liesurely)] walk to the mouth of the Singapore River. This is the [Q45(nostelllgic)] birthplace of the old Port of Singapore, from which the historic city centre of Singapore [Q46(springs)] years ago.",
+          "We will be able to look upon the modern landscape and [Q47(enveesion)] the busy commercial district that this once [Q48(is)] for our forefathers. With all these rich [Q49(experiences awaits)] us at this historic site, I think you can smell the tang of river water and [Q50(hears)] the echoes of history. I hope that you will support my suggestion of Merlion Park as the historic site for our learning journey."
+        ],
+        "zh": [
+          "同学们好，我想提议将鱼尾狮公园作为我们下个月学习之旅最理想的地点。鱼尾狮公园内坐落着新加坡标志性的国家象征——鱼尾狮雕像。我们可以近距离观赏到那些我们在教科书和旅游宣传册上看到的雕像。我们不仅能够亲身体验、近距离感受这座半狮半鱼的雄伟神话生物雕像，还能以鱼尾狮从口中喷水的景观为背景，与同学们一起合影留念。我相信这绝对会是一次充满无限乐趣的绝佳学习体验！",
+          "随着我们悠闲地漫步走到新加坡河口，学习之旅仍将继续。这里是古老的新加坡港口那令人充满怀旧色彩的诞生地，新加坡的历史中心在多年前正是从这里起源的。",
+          "我们将能够瞻仰现代景观，并展望这片曾几何时是我们的祖辈赖以生存的繁华商业区。伴随着这些在这处历史遗迹中正在等待着我们的丰富体验，我想你们一定能闻到河水那浓郁的气息，并听到历史的回响。我希望大家能支持我的建议，将鱼尾狮公园作为我们学习之旅的历史选址。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "上下文语境名词",
+          "answer": "problem / threat / issue / crisis",
+          "note": "作动词‘combat’的宾语，指代前句提到的全球变暖及其带来的蔬菜稀缺危机。"
+        },
+        "52": {
+          "concept": "固定搭配 / 名词",
+          "answer": "warnings",
+          "note": "与动词‘gave’和形容词‘stern’搭配，构成‘give stern warnings’，意为‘发出严厉警告’。"
+        },
+        "53": {
+          "concept": "动词",
+          "answer": "reduce / decrease / cut",
+          "note": "位于‘combine to’结构后作不定式动词原形，表示水少气热带来的共同‘导致、减少’蔬菜供应的客观后果。"
+        },
+        "54": {
+          "concept": "名词",
+          "answer": "temperature",
+          "note": "跟在‘4-degree Celsius increase in’后面，表示‘摄氏度’所指代的物理计量属性，即‘气温’。"
+        },
+        "55": {
+          "concept": "连词 / 条件从句引导词",
+          "answer": "if",
+          "note": "引导条件状语从句，连接科学家预期与‘全球变暖沿当前路径持续发展’的假设前提条件。"
+        },
+        "56": {
+          "concept": "动词",
+          "answer": "shows / indicates / reveals / found",
+          "note": "主语为‘Our study’，此空填入一般现在时单数动词表示研究‘表明、发现’的客观结论。"
+        },
+        "57": {
+          "concept": "固定搭配 / 动词",
+          "answer": "pose / present",
+          "note": "与情态动词‘may’及后文名词‘a real threat’搭配，‘pose a threat’为固定词组，意为‘构成威胁’。"
+        },
+        "58": {
+          "concept": "名词",
+          "answer": "impacts / effects / consequences / implications",
+          "note": "与前文‘have’及后文介词‘on’连用，‘have impacts/effects on’表示‘对……产生负面影响/后果’。"
+        },
+        "59": {
+          "concept": "介词",
+          "answer": "in",
+          "note": "与名词‘increase’搭配，‘increase in crop supply’为常见语境搭配，表示‘在作物供应方面的增加’。"
+        },
+        "60": {
+          "concept": "逻辑连接词 (转折)",
+          "answer": "However / Nonetheless / Nevertheless",
+          "note": "位于句首且后有逗号，引出与前句‘作物产量可能增加’相反的‘实际会被抵消’的转折事实。"
+        },
+        "61": {
+          "concept": "介词 (被动语态)",
+          "answer": "by",
+          "note": "位于被动语态‘be offset’之后，引出施加抵消影响的动作发出者或原因因素。"
+        },
+        "62": {
+          "concept": "形容词",
+          "answer": "rising / higher / soaring / increased",
+          "note": "修饰名词‘temperatures’，与前文‘温室气体变高、可用水变少’并列，指代‘变暖/上升的’气温。"
+        },
+        "63": {
+          "concept": "代词 (形式主语)",
+          "answer": "it",
+          "note": "在此句型中充当形式主语，真正的主语是后半部分的动词不定式短语‘to experience major crop losses’。"
+        },
+        "64": {
+          "concept": "动词",
+          "answer": "experience / suffer / face / encounter",
+          "note": "位于‘for different countries to’结构中，接动词原形，与‘crop losses（作物损失）’搭配表示‘遭受/面临损失’。"
+        },
+        "65": {
+          "concept": "固定搭配 / 名词",
+          "answer": "action",
+          "note": "与形容词‘Urgent’及动词‘needs to be taken’搭配，‘urgent action needs to be taken’为固定表达，意为‘需要采取紧急行动’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Global warming is expected to make vegetables significantly scarcer around the world. To combat the [Q51], farmers need to adopt new growing practices and resilient crop species should be used. Researchers gave numerous stern [Q52] in a recent World Environment Congress that more should be done before it is too late.",
+          "By the end of this century, less water and hotter air will combine to [Q53] the supply of vegetables by nearly one-third. A 4-degree Celsius increase in [Q54] will reduce supply by 31.5 percent. This is what scientists expect by 2100 [Q55] global warming continues on its current path.",
+          "\"Our study [Q56] that environmental changes such as increased temperature and water scarcity may [Q57] a real threat to global agricultural production. This will have [Q58] on food security and population health,\" said Pauline Scheelbeek of the London School of Hygiene and Tropical Medicine (LSHTM).",
+          "Some previous research has pointed to a likely increase [Q59] crop supply as carbon dioxide rises. [Q60], the current review found that any such boost would be offset [Q61] higher greenhouse gases, reduced water availability for irrigation and [Q62] temperatures.",
+          "\"We find that as the planet warms, [Q63] becomes more likely for different countries to [Q64] major crop losses. This has big implications for food prices.\"",
+          "\"Urgent [Q65] needs to be taken, including working to support the agricultural sector to increase its resilience to environmental changes. This must be a priority for all governments.\""
+        ],
+        "zh": [
+          "全球变暖预计将使世界各地的蔬菜变得明显稀缺。为了应对这一问题，农民需要采用新的种植方法，并且应该使用具有强适应力的作物品种。学者们在最近的世界环境大会上提出了无数严厉的警告，认为必须在为时已晚之前采取更多行动。",
+          "到本世纪末，水分减少和空气变热将共同导致蔬菜供应减少近三分之一。温度上升4摄氏度将使供应量减少31.5%。这就是科学家们预计到2100年将会发生的情况，如果全球变暖按目前的路径持续发展的话。",
+          "“我们的研究表明，气温上升和水资源短缺等环境变化可能会对全球农业生产构成真正威胁。这将对粮食安全和人口健康产生影响，”伦敦卫生与热带医学院（LSHTM）的保琳·谢尔贝克表示。",
+          "此前的一些研究指出，随着二氧化碳的增加，作物供应量可能会有所增加。然而，当前的这项评估发现，任何此类增长都会被更高的温室气体、用于灌溉的可用水资源减少以及上升的气温所抵消。",
+          "“我们发现，随着地球变暖，不同国家遭受重大作物损失变得更有可能。这对食品价格有着重大的潜在影响。”",
+          "“需要采取紧急行动，包括努力支持农业部门，以增强其对环境变化的适应能力。这必须成为所有政府的当务之急。”"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

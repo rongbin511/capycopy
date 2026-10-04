@@ -1,0 +1,1490 @@
+{
+  "paperid": "p6_english_2023_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"Let's play a game of hide-and-seek, _________?\" my sister suggested.",
+          "options": {
+            "1": "shall we",
+            "2": "may we",
+            "3": "can we",
+            "4": "will we"
+          }
+        },
+        "2": {
+          "stem_plain": "Li Shan does not eat seafood. _________ that, she will eat just about anything.",
+          "options": {
+            "1": "In addition to",
+            "2": "Contrary to",
+            "3": "Other than",
+            "4": "In spite of"
+          }
+        },
+        "3": {
+          "stem_plain": "Mohan seems _________ a lot of weight since I last saw him. He looks fitter and healthier now.",
+          "options": {
+            "1": "losing",
+            "2": "has lost",
+            "3": "to be losing",
+            "4": "to have lost"
+          }
+        },
+        "4": {
+          "stem_plain": "Mrs Phua is someone _________ opinions I truly value.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "5": {
+          "stem_plain": "He must have _________ luck as he has won the top prize in the annual lucky draw for the past two years.",
+          "options": {
+            "1": "many",
+            "2": "enough",
+            "3": "a great deal of",
+            "4": "a large number of"
+          }
+        },
+        "6": {
+          "stem_plain": "\"It was Mary, and not Peter, who ate the cupcakes all by _________,\" I said.",
+          "options": {
+            "1": "herself",
+            "2": "himself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "7": {
+          "stem_plain": "I believe that reading different types of books _________ me improve my vocabulary.",
+          "options": {
+            "1": "help",
+            "2": "helps",
+            "3": "helping",
+            "4": "have helped"
+          }
+        },
+        "8": {
+          "stem_plain": "The host congratulated the young singer _________ his excellent performance.",
+          "options": {
+            "1": "at",
+            "2": "of",
+            "3": "on",
+            "4": "over"
+          }
+        },
+        "9": {
+          "stem_plain": "I pointed at the window display behind the salesgirl and asked her to get me _________ pair of blue shoes.",
+          "options": {
+            "1": "this",
+            "2": "that",
+            "3": "those",
+            "4": "these"
+          }
+        },
+        "10": {
+          "stem_plain": "The hotel guests are facing much inconvenience as all their luggage _________ missing up to now.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "has been",
+            "4": "have been"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "Question Tags — shall we",
+          "zh": "“我们来玩捉迷藏，好吗？”我姐姐提议道。",
+          "note": "以 Let's 开头的祈使句，疑问部分用 shall we；应选（1）。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "Connectors — Other than",
+          "zh": "丽珊不吃海鲜。除此之外，她几乎什么都吃。",
+          "note": "Other than 表示“除了……之外”，符合句意排除海鲜的情况；应选（3）。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "Perfect Infinitive — to have lost",
+          "zh": "自上次见面以来，莫汉似乎瘦了很多。他现在看起来更健美、更健康了。",
+          "note": "seem 后接动词不定式，由于体重减轻发生在“看起来”之前且持续到现在，用完成式 to have lost；应选（4）。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "Relative Pronouns — whose",
+          "zh": "潘太太是我非常看重其意见的人。",
+          "note": "whose 引导定语从句，表示所属关系（潘太太的意见）；应选（4）。",
+          "answer": "4"
+        },
+        "5": {
+          "concept": "Quantifiers — a great deal of",
+          "zh": "他的运气一定非常好，因为他在过去两年的年度抽奖中都获得了头奖。",
+          "note": "luck 是不可数名词，需用 a great deal of 修饰；many 和 a large number of 用于可数名词；应选（3）。",
+          "answer": "3"
+        },
+        "6": {
+          "concept": "Reflexive Pronouns — herself",
+          "zh": "我说：“是玛丽，而不是彼得，一个人吃光了所有的纸杯蛋糕。”",
+          "note": "强调动作发出者是玛丽（女性单数），反身代词用 herself；应选（1）。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "Subject-Verb Agreement — helps",
+          "zh": "我相信阅读不同类型的书籍能帮助我增加词汇量。",
+          "note": "动名词短语作主语，谓语动词用单数形式；应选（2）。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "Prepositions — on",
+          "zh": "主持人祝贺那位年轻歌手的出色表演。",
+          "note": "固定搭配 congratulate someone on something；应选（3）。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "Demonstrative Determiners — that",
+          "zh": "我指着女店员身后的橱窗展示，请她给我拿那双蓝色的鞋子。",
+          "note": "pair 是单数，且指代稍远处的物体，用 that；应选（2）。",
+          "answer": "2"
+        },
+        "10": {
+          "concept": "Subject-Verb Agreement / Tense — has been",
+          "zh": "酒店客人们面临着诸多不便，因为到目前为止他们所有的行李都丢了。",
+          "note": "luggage 是不可数名词，谓语用单数；up to now 提示用现在完成时；应选（3）。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The expiry date on the carton tells people if the milk is still safe for ___________.",
+          "options": {
+            "1": "digestion",
+            "2": "preservation",
+            "3": "conservation",
+            "4": "consumption"
+          }
+        },
+        "12": {
+          "stem_plain": "My plans for overseas travel ___________ when I became ill.",
+          "options": {
+            "1": "blew up",
+            "2": "fell through",
+            "3": "broke down",
+            "4": "dropped out"
+          }
+        },
+        "13": {
+          "stem_plain": "Aminah bought a blouse to ___________ the skirt she was planning to wear to the party.",
+          "options": {
+            "1": "partner",
+            "2": "complete",
+            "3": "supplement",
+            "4": "complement"
+          }
+        },
+        "14": {
+          "stem_plain": "\"You should avoid strenuous exercises for the next few weeks so as not to ___________ your injury,\" said the doctor.",
+          "options": {
+            "1": "aggravate",
+            "2": "intensify",
+            "3": "agitate",
+            "4": "stress"
+          }
+        },
+        "15": {
+          "stem_plain": "My brother's lack of confidence ___________ his ability to speak well in front of the audience.",
+          "options": {
+            "1": "discouraged",
+            "2": "prevented",
+            "3": "impeded",
+            "4": "ceased"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "盒上的过期日期告诉人们牛奶是否仍可安全食用。",
+          "note": "应选（4）'consumption'：指（食物或饮料的）消耗、食用。'digestion'指'消化'过程，不符合句意。'preservation'指'保存'，通常指保存食物不腐坏或保护古迹。'conservation'常用于'环境保护'或'资源节约'。",
+          "concept": "词汇辨析 — consumption（食用）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "digestion",
+              "zh": "消化",
+              "eg": "Walking after a meal can aid <strong>digestion</strong> and prevent you from feeling too full."
+            },
+            {
+              "opt": "2",
+              "word": "preservation",
+              "zh": "保存",
+              "eg": "The <strong>preservation</strong> of old buildings is important for maintaining a city's history."
+            },
+            {
+              "opt": "3",
+              "word": "conservation",
+              "zh": "保育；节约",
+              "eg": "Water <strong>conservation</strong> is vital during the dry season to ensure we have enough to use."
+            },
+            {
+              "opt": "4",
+              "word": "consumption",
+              "zh": "食用；消耗",
+              "eg": "The expiry date on the carton tells people if the milk is still safe for <strong>consumption</strong>."
+            }
+          ]
+        },
+        "12": {
+          "zh": "当我生病时，我的海外旅游计划落空了。",
+          "note": "应选（2）'fell through'：专指计划、协议等未能实现或失败。'blew up'指爆炸或事情突然闹大。'broke down'指机器坏了或谈话破裂。'dropped out'指退出比赛或辍学。",
+          "concept": "短语动词 — fell through（落空）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "blew up",
+              "zh": "爆炸；勃然大怒",
+              "eg": "The scandal <strong>blew up</strong> in the media just days before the election."
+            },
+            {
+              "opt": "2",
+              "word": "fell through",
+              "zh": "（计划等）落空；失败",
+              "eg": "My plans for overseas travel <strong>fell through</strong> when I became ill."
+            },
+            {
+              "opt": "3",
+              "word": "broke down",
+              "zh": "（机器等）故障；（感情）失控",
+              "eg": "Our old car <strong>broke down</strong> on the way to the airport, so we missed our flight."
+            },
+            {
+              "opt": "4",
+              "word": "dropped out",
+              "zh": "退出；辍学",
+              "eg": "Several runners <strong>dropped out</strong> of the marathon because of the intense heat."
+            }
+          ]
+        },
+        "13": {
+          "zh": "阿米娜买了一件衬衫来搭配她打算穿去派对的那条裙子。",
+          "note": "应选（4）'complement'：指两个事物互相补充、互相衬托使其更完美，常用于服装、颜色或味道的搭配。'complete'指完成。'supplement'指增加、增补。'partner'作为动词指与人合作。",
+          "concept": "词汇辨析 — complement（相配；补充）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "partner",
+              "zh": "合作；搭档",
+              "eg": "The school decided to <strong>partner</strong> with a local charity to raise funds."
+            },
+            {
+              "opt": "2",
+              "word": "complete",
+              "zh": "完成；使完整",
+              "eg": "You need to <strong>complete</strong> the form before you can join the club."
+            },
+            {
+              "opt": "3",
+              "word": "supplement",
+              "zh": "补充；增补",
+              "eg": "He took a part-time job to <strong>supplement</strong> his monthly income."
+            },
+            {
+              "opt": "4",
+              "word": "complement",
+              "zh": "补充；辅佐；（颜色/服饰）相配",
+              "eg": "Aminah bought a blouse to <strong>complement</strong> the skirt she was planning to wear to the party."
+            }
+          ]
+        },
+        "14": {
+          "zh": "医生说：“在接下来的几周内，你应该避免剧烈运动，以免加重伤势。”",
+          "note": "应选（1）'aggravate'：使（伤势、病情、问题等）恶化、加重。'intensify'指程度的增强。'agitate'指使不安或摇动。'stress'指强调或施加压力。",
+          "concept": "词汇辨析 — aggravate（使恶化；加重）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "aggravate",
+              "zh": "加重；恶化",
+              "eg": "Playing football with a sprained ankle will only <strong>aggravate</strong> the injury."
+            },
+            {
+              "opt": "2",
+              "word": "intensify",
+              "zh": "加强；增强",
+              "eg": "The rescue efforts will <strong>intensify</strong> as soon as the weather improves."
+            },
+            {
+              "opt": "3",
+              "word": "agitate",
+              "zh": "搅动；煽动；使焦虑",
+              "eg": "The loud noise seemed to <strong>agitate</strong> the already nervous dog."
+            },
+            {
+              "opt": "4",
+              "word": "stress",
+              "zh": "强调；重读；使紧张",
+              "eg": "The teacher wanted to <strong>stress</strong> the importance of being punctual for the exam."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我弟弟缺乏自信阻碍了他当众说话的能力。",
+          "note": "应选（3）'impeded'：指阻碍、妨碍某人的能力或进展。'prevented'指防止、阻止某事发生。'discouraged'指使泄气、失去信心。'ceased'指停止、结束。",
+          "concept": "词汇辨析 — impeded（阻碍；妨碍）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "discouraged",
+              "zh": "使泄气",
+              "eg": "Failure in the first attempt <strong>discouraged</strong> the team from trying again."
+            },
+            {
+              "opt": "2",
+              "word": "prevented",
+              "zh": "预防；防止",
+              "eg": "The heavy rain <strong>prevented</strong> us from going to the beach as planned."
+            },
+            {
+              "opt": "3",
+              "word": "impeded",
+              "zh": "阻碍；妨碍",
+              "eg": "My brother's lack of confidence <strong>impeded</strong> his ability to speak well in front of the audience."
+            },
+            {
+              "opt": "4",
+              "word": "ceased",
+              "zh": "停止；结束",
+              "eg": "The factory <strong>ceased</strong> production after the fire damaged the main machines."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "small bites",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "nibbled",
+            "2": "chewed",
+            "3": "sampled",
+            "4": "savoured"
+          }
+        },
+        "17": {
+          "stem_plain": "drew my hand back",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "lugged",
+            "2": "yanked",
+            "3": "retreated",
+            "4": "extracted"
+          }
+        },
+        "18": {
+          "stem_plain": "got the better of me",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "overtook",
+            "2": "outwitted",
+            "3": "outweighed",
+            "4": "overwhelmed"
+          }
+        },
+        "19": {
+          "stem_plain": "feverishly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "heatedly",
+            "2": "excitedly",
+            "3": "hysterically",
+            "4": "desperately"
+          }
+        },
+        "20": {
+          "stem_plain": "melted my heart",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "calmed",
+            "2": "touched",
+            "3": "changed",
+            "4": "lightened"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — small bites（咬一小口）",
+          "note": "“nibbled” 意为“小口咬”或“啃”，完美对应 “small bites” 的语意。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "nibbled",
+              "zh": "小口咬；一点一点地啃",
+              "eg": "The little mouse nibbled the cheese nervously."
+            },
+            {
+              "opt": "2",
+              "word": "chewed",
+              "zh": "咀嚼；咬碎",
+              "eg": "He chewed his food thoroughly before swallowing."
+            },
+            {
+              "opt": "3",
+              "word": "sampled",
+              "zh": "品尝；抽样检查",
+              "eg": "We sampled different cheeses at the food fair."
+            },
+            {
+              "opt": "4",
+              "word": "savoured",
+              "zh": "细细品尝；享受（享受时间、食物等）",
+              "eg": "She savoured every moment of her hard-earned holiday."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — drew my hand back（抽回手）",
+          "note": "“retreated” 意为“后退”或“缩回”，在描述手部动作或身体部位时，常用来替代 “drew back”。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lugged",
+              "zh": "费力地拖或拉（沉重物品）",
+              "eg": "He lugged the heavy suitcase up three flights of stairs."
+            },
+            {
+              "opt": "2",
+              "word": "yanked",
+              "zh": "猛拉；猛拽",
+              "eg": "She yanked the cord to turn on the light."
+            },
+            {
+              "opt": "3",
+              "word": "retreated",
+              "zh": "后退；缩回；撤退",
+              "eg": "The cat retreated its paw when the floor felt hot."
+            },
+            {
+              "opt": "4",
+              "word": "extracted",
+              "zh": "提取；拔出；榨出",
+              "eg": "The dentist extracted the decayed tooth painlessly."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — got the better of me（战胜了理智/压倒）",
+          "note": "短语 “got the better of me” 通常指某种情感、欲望战胜了理智或压倒了某人，“overwhelmed”（压倒/使经受不住）与其含义最为接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "overtook",
+              "zh": "超过；（不好的情绪、状态）突然袭来并压倒",
+              "eg": "A sudden feeling of panic overtook him during the fire."
+            },
+            {
+              "opt": "2",
+              "word": "outwitted",
+              "zh": "智取；以智谋战胜",
+              "eg": "The clever fox easily outwitted the hunters."
+            },
+            {
+              "opt": "3",
+              "word": "outweighed",
+              "zh": "重于；超过；价值大于",
+              "eg": "The long-term benefits clearly outweighed the initial risks."
+            },
+            {
+              "opt": "4",
+              "word": "overwhelmed",
+              "zh": "压倒；使受不了；情绪上经受不住",
+              "eg": "Curiosity overwhelmed her and she opened the confidential letter."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — feverishly（狂热地；极度地）",
+          "note": "“feverishly” 可以形容拼命地、极度忙碌或情绪极度激动的状态，“desperately”（拼命地/极度地）在表达不顾一切、极度努力的语境中是绝佳的近义词。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "heatedly",
+              "zh": "激烈地；愤怒地",
+              "eg": "They argued heatedly about the new budget proposal."
+            },
+            {
+              "opt": "2",
+              "word": "excitedly",
+              "zh": "兴奋地；激动地",
+              "eg": "The fans cheered excitedly when the pop star appeared."
+            },
+            {
+              "opt": "3",
+              "word": "hysterically",
+              "zh": "歇斯底里地；狂躁地",
+              "eg": "The anxious crowd laughed hysterically at the strange joke."
+            },
+            {
+              "opt": "4",
+              "word": "desperately",
+              "zh": "拼命地；不顾一切地；极度地",
+              "eg": "He worked desperately to meet the tight deadline."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — melted my heart（触动了我的心）",
+          "note": "短语 “melted my heart” 指内心被软化、受到深深的触动或感动，“touched” 作为形容词或过去分词，常用来表达“受感动的”。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "calmed",
+              "zh": "使冷静；平息",
+              "eg": "The gentle mother calmed her crying baby quickly."
+            },
+            {
+              "opt": "2",
+              "word": "touched",
+              "zh": "被感动的；触动的",
+              "eg": "I was deeply touched by their kind and unexpected gesture."
+            },
+            {
+              "opt": "3",
+              "word": "changed",
+              "zh": "改变；转变",
+              "eg": "The weather changed suddenly from sunny to rainy afternoon."
+            },
+            {
+              "opt": "4",
+              "word": "lightened",
+              "zh": "减轻；变亮；变轻松",
+              "eg": "The dark sky lightened after the thunderstorm passed."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "I was alone at the bus stop. While sitting on a bench, I took [Q16 (small bites)] of a candy bar. Suddenly, I heard a soft whining sound coming from beneath the bench. I looked under the bench and saw a box. As I reached for it, the box moved suddenly. Startled, I quickly [Q17 (drew my hand back)] and stared at the box for a while. My curiosity soon [Q18 (got the better of me)]. Cautiously, I reached for it again. \"Is it an animal or...a baby inside?\" My mind was racing [Q19 (feverishly)] as I lifted the flaps of the box gingerly.",
+          "It stared at me with big bright eyes that [Q20 (melted my heart)]. Tucked next to it was a note appealing to whoever that found it to look after it. A year has passed since the day I found it. Mochi, my pet cat, is now the joy of my life."
+        ],
+        "zh": [
+          "我独自一人在巴士站。坐在长凳上时，我小口咬着一块糖果棒。突然，我听到长凳下方传来微弱的哀鸣声。我往凳子下面看去，发现了一个盒子。当我伸手去拿时，盒子突然动了一下。我吓了一跳，迅速缩回了手，盯着盒子看了一会儿。很快，我的好奇心战胜了理智。我小心翼翼地再次伸手。“里面是动物还是……婴儿？”当我轻手轻脚地掀开盒盖时，脑海中极度焦虑地思索着。",
+          "它睁着明亮的大眼睛盯着我看，那眼神触动了我的心。塞在它旁边的是一张纸条，恳请发现它的人能够照顾它。自从发现它的那天起，一年已经过去了。我的宠物猫 Mochi 现在是我生活的乐趣。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "concept": "PSLE sample",
+          "note": "<p><em>Dummy PSLE sample paper — content placeholder. Replace with real items when ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "about",
+          "B": "but",
+          "C": "by",
+          "D": "if",
+          "E": "in",
+          "F": "off",
+          "G": "only",
+          "H": "since",
+          "J": "still",
+          "K": "then",
+          "L": "until",
+          "M": "what",
+          "N": "when",
+          "P": "which",
+          "Q": "while"
+        },
+        "cloze": [
+          "Fire is important for our survival in this world. Our ability to control and use fire is [Q29] separates humans from animals. Scientists believe the first creation of fire by humans was likely due to nothing [Q30] sheer luck. However, till now, they are [Q31] unable to reach a convincing conclusion [Q32] the first discovery and use of fire by early humans.",
+          "[Q33] early humans learnt to start and manage fire, it became a significant step [Q34] the development of humankind. Not only was fire a source of heat on cold days, but it also helped to ward [Q35] predatory animals. Furthermore, fire enabled early humans to cook food, an important progress [Q36] scientists believe has contributed to greater brain development.",
+          "Additionally, fire has played a vital role in farming [Q37] ancient times. The first farmers would clear a forest by burning the trees, resulting in a layer of ash that served as fertilisers to make the soil fertile. [Q38] this farming method is harmful to the environment, it continues to be practised in many countries today."
+        ],
+        "zh": [
+          "火对我们在世界上的生存至关重要。我们控制和使用火的能力是将人类与动物区分开来的标志。科学家认为，人类最早创造火可能仅仅是出于纯粹的运气。然而，直到现在，他们仍然无法就早期人类最早发现和使用火的情况得出令人信服的结论。",
+          "当早期人类学会生火和管理火时，这成为了人类发展过程中意义重大的一步。火不仅是寒冷天气的热源，还有助于驱赶掠食动物。此外，火使早期人类能够烹饪食物，科学家认为这一重要进展促进了大脑的进一步发育。",
+          "此外，自古以来，火在农业中一直发挥着至关重要的作用。最早的农民会通过焚烧树木来清理森林，从而产生一层草木灰作为肥料使土壤肥沃。虽然这种耕作方法对环境有害，但今天许多国家仍在使用。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "关系代词 — what",
+          "note": "what separates humans from animals = 引导表语从句，指代“……的东西”。",
+          "answer": "M — what"
+        },
+        "30": {
+          "concept": "固定搭配 — nothing but",
+          "note": "nothing but sheer luck = 意为“仅仅；只不过是”。",
+          "answer": "B — but"
+        },
+        "31": {
+          "concept": "副词用法 — still",
+          "note": "they are still unable = 意为“仍然”，表示状态的持续。",
+          "answer": "J — still"
+        },
+        "32": {
+          "concept": "介词搭配 — conclusion about",
+          "note": "conclusion about the first discovery = 意为“关于……的结论”。",
+          "answer": "A — about"
+        },
+        "33": {
+          "concept": "时间状语从句 — when",
+          "note": "When early humans learnt = 引导时间状语从句，意为“当……时”。",
+          "answer": "N — when"
+        },
+        "34": {
+          "concept": "介词用法 — in",
+          "note": "step in the development = 意为“在……过程中的一步”。",
+          "answer": "E — in"
+        },
+        "35": {
+          "concept": "动词短语 — ward off",
+          "note": "ward off predatory animals = 固定搭配，意为“驱赶；防止”。",
+          "answer": "F — off"
+        },
+        "36": {
+          "concept": "关系代词 — which",
+          "note": "progress which scientists believe = 引导定语从句，指代前面的 progress。",
+          "answer": "P — which"
+        },
+        "37": {
+          "concept": "介词用法 — since",
+          "note": "since ancient times = 意为“自……以来”，常接时间点。",
+          "answer": "H — since"
+        },
+        "38": {
+          "concept": "连词用法 — while",
+          "note": "While this farming method is harmful = 引导让步状语从句，意为“虽然；尽管”。",
+          "answer": "Q — while"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Grandma had a pair of old glasses which she had worn for over a [Q39(deckaide.)] However, her eyesight had weakened over time. [Q40(Though)] with her glasses, she could hardly make out the [Q41(feechers)] on my face when I stood in front of her. If [Q42(give)] a choice, she would rather not step out of the house.",
+          "In spite of Grandma's [Q43(rilarktence,)] I insisted she should get her eyes checked. Grandma was [Q44(vezeebli)] upset as I held her hand and slowly led her to the bus stop. On the bus, I took the window seat and told her about the [Q45(seeneri)] outside. With every [Q46(describe)] , Grandma's spirits lifted.",
+          "At the eye clinic, the doctor saw Grandma's glasses and said [Q47(joking)] that he could send them to a museum. Grandma gave an [Q48(orkuard)] smile upon hearing that. Sensing her discomfort, the doctor gave her the [Q49(reassured)] that she would see better with her new glasses.",
+          "A week later, we returned to the clinic to collect her new glasses. Grandma was [Q50(delight)] with her new glasses. On our way to the bus stop, she asked, \"May I take the window seat?\""
+        ],
+        "zh": [
+          "奶奶有一副戴了超过十年的旧眼镜。然而，随着时间的推移，她的视力下降了。尽管戴着眼镜，当我站在她面前时，她也几乎看不清我脸上的特征。如果有得选择，她宁愿不踏出门一步。",
+          "尽管奶奶很犹豫，但我坚持她应该去检查眼睛。当我握着她的手慢慢走向巴士站时，奶奶明显地很不高兴。在巴士上，我坐在靠窗的位子，给她讲述窗外的风景。随着每一次的描述，奶奶的心情好转了。",
+          "在眼科诊所，医生看到奶奶的眼镜，开玩笑地说可以把它们送进博物馆。奶奶听了，露出了尴尬的微笑。察觉到她的不安，医生向她保证，戴上新眼镜后她会看得更清楚。",
+          "一周后，我们回到诊所取她的新眼镜。奶奶对她的新眼镜感到很高兴。在去巴士站的路上，她问：“我可以坐靠窗的位子吗？”"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "拼写检查 — decade（十年）",
+          "note": "<p>原词中的拼写是错误的。单词 <span class=\"hl-good\">decade</span> 意为“十年”，正确的拼写不含 'k' 或多余的 'i'。</p>",
+          "answer": "decade"
+        },
+        "40": {
+          "concept": "语法纠错 — 让步状语连词",
+          "note": "此处与 with 搭配，应使用 <span class=\"hl-good\">Even</span> 构成 \"Even with...\"（即便戴着……），用于引导让步状语，强调尽管有眼镜帮助但视力依然不佳。",
+          "answer": "Even"
+        },
+        "41": {
+          "concept": "拼写检查 — features（特征/五官）",
+          "note": "<p>此处应为 <span class=\"hl-good\">features</span>，指代人脸上的五官或特征。原拼写采用了错误的语音拼写方式。</p>",
+          "answer": "features"
+        },
+        "42": {
+          "concept": "语法纠错 — 分词短语",
+          "note": "固定短语 <span class=\"hl-good\">Given a choice</span> 意为“如果有选择的话”，此处需使用过去分词形式。",
+          "answer": "given"
+        },
+        "43": {
+          "concept": "拼写检查 — reluctance（不情愿）",
+          "note": "<p>正确拼写为 <span class=\"hl-good\">reluctance</span>。该词由形容词 reluctant 演变而来，表示奶奶对去诊所的抵触情绪。</p>",
+          "answer": "reluctance"
+        },
+        "44": {
+          "concept": "拼写检查 — visibly（显而易见地）",
+          "note": "<p>正确拼写应为 <span class=\"hl-good\">visibly</span>。此处修饰形容词 upset，表示奶奶的不悦是肉眼可见的。</p>",
+          "answer": "visibly"
+        },
+        "45": {
+          "concept": "拼写检查 — scenery（风景）",
+          "note": "<p>正确拼写为 <span class=\"hl-good\">scenery</span>。指窗外的景色。</p>",
+          "answer": "scenery"
+        },
+        "46": {
+          "concept": "语法纠错 — 词性转换",
+          "note": "在 every 之后应使用名词形式。动词 describe 的名词形式是 <span class=\"hl-good\">description</span>。",
+          "answer": "description"
+        },
+        "47": {
+          "concept": "语法纠错 — 副词修饰动词",
+          "note": "此处应用副词 <span class=\"hl-good\">jokingly</span> 来修饰动词 said，描述说话时的语气和方式。",
+          "answer": "jokingly"
+        },
+        "48": {
+          "concept": "拼写检查 — awkward（尴尬的）",
+          "note": "<p>正确拼写为 <span class=\"hl-good\">awkward</span>。形容奶奶听到医生玩笑后的局促表情。</p>",
+          "answer": "awkward"
+        },
+        "49": {
+          "concept": "语法纠错 — 词性转换",
+          "note": "在定冠词 the 之后应使用名词。动词 reassure 的名词形式是 <span class=\"hl-good\">reassurance</span>（保证/安慰）。",
+          "answer": "reassurance"
+        },
+        "50": {
+          "concept": "语法纠错 — 形容词作表语",
+          "note": "此处应用形容词 <span class=\"hl-good\">delighted</span> 作为系动词 was 的表语，描述奶奶对新眼镜感到非常喜悦的心情。",
+          "answer": "delighted"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "One travel company offers unusual and meaningful travelling experiences. Traveleyes, a British travel company, was set up with the [Q51] of helping visually impaired travellers visit different parts of the world by pairing them with guides who have [Q52] sight. The guides who can see well therefore [Q53] the \"eyes\" of the travellers with visual impairment. [Q54] the help of these guides, exploring new countries is no [Q55] as challenging for this special group of travellers who can get to enjoy the experiences available at different destinations.",
+          "How do travellers with visual impairment \"see\" a place? Well, [Q56] it takes is teamwork between them and the sighted guides. Thanks to their guides who describe the views in great [Q57], these travellers often get a much [Q58] idea of the views than sighted people who are more likely to take for [Q59] things that they can see. [Q60] describing the picturesque views as vividly as they possibly can, the sighted guides also have to be creative at times. One visually impaired traveller shared that his guide [Q61] a miniature marble model of the Taj Mahal in India in his hands [Q62] that he could feel what he could not see.",
+          "For the sighted guides, such travels are very meaningful too. One of them mentioned that she had learnt important [Q63] such as humility and determination from partnering the visually impaired travellers. Although they may not all share the [Q64] experiences, one thing they agree on is that they have gained a greater [Q65] for their senses. In fact, they develop a different perspective of the world."
+        ],
+        "zh": [
+          "一家旅行公司提供独特且有意义的旅行体验。Traveleyes 是一间英国旅行公司，其成立的宗旨是帮助视障旅行者通过与拥有完美视力的导游配对，前往世界各地。视力良好的导游因此充当了视障旅行者的“眼睛”。在这些导游的帮助下，对于这群特殊的旅行者来说，探索新的国家不再那么具有挑战性，他们也可以享受各地的旅行体验。",
+          "视障旅行者是如何“看”一个地方的呢？嗯，这需要他们与有视力导游之间的团队协作。感谢那些能够用极大的细节来描述景色的导游，这些旅行者通常比那些更容易将所见之物视为理所当然的正常人，对景色有更好的了解。除了尽可能生动地描述如画的风景外，有视力的导游有时也必须具备创造力。一位视障旅行者分享说，他的导游将印度泰姬陵的大理石微缩模型放在他的手中，以便他能感受到自己看不见的东西。",
+          "对于有视力的导游来说，这样的旅行也很有意义。其中一位提到，她从与视障旅行者的合作中学习到了重要的价值观/品质，如谦虚和毅力。虽然他们可能并不都拥有相同的经历，但他们一致认为，他们对自己的感官有了更深的认识。事实上，他们对世界产生了一种不同的看法。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "名词语意与目的表达",
+          "note": "指创办该旅行公司的初衷、宗旨或核心设立目标，完美契合目的专属名词结构 was set up with the aim/purpose/objective of doing something。",
+          "answer": "aim/purpose/objective"
+        },
+        "52": {
+          "concept": "形容词修饰与生理特征描述",
+          "note": "修饰不可数名词 sight。用来形容那些拥有完整、健全、未受损视力的向导，填入形容词 perfect / full / normal / healthy 均能精准契合语境。",
+          "answer": "perfect/full/normal/healthy"
+        },
+        "53": {
+          "concept": "主谓一致与状态系动词",
+          "note": "主语为复数名词 The guides，陈述长期存在的客观事实，谓语动词用原形。指能够看见东西的向导借此“充当”或“成为”了视障旅行者的眼睛，故填 become / serve / form / act（充当角色需构成 serve as 或 act as，此空原句直接后接名词短语 the eyes，故填 become 最严谨地道）。",
+          "answer": "become"
+        },
+        "54": {
+          "concept": "介词引导背景/条件状语",
+          "note": "在句首用于修饰名词短语 the help of these guides。相当于“在……的帮助下”或“有了……的协助”，在逻辑上引出后文探索国家不再困难的结果，使用背景介词 With。位于句首需大写。",
+          "answer": "With"
+        },
+        "55": {
+          "concept": "经典习语固定搭配",
+          "note": "与前面的否定词 no 完美组合，构成在各类英语试卷中高频考查的经典特定时态习语 no longer 或者是 no more，表示过去极度困难、但现在“不再”那么具有挑战性的状态。",
+          "answer": "longer/more"
+        },
+        "56": {
+          "concept": "习语与从句主语搭配",
+          "note": "修饰并引导主语从句 it takes is teamwork。完美契合英语中用于形容某项任务全部必要核心前提的经典专属倒装习语 All it takes is...，意为“所需要的全部不过是……”。位于句首需大写。",
+          "answer": "All"
+        },
+        "57": {
+          "concept": "介词固定习惯搭配",
+          "note": "与前置的介词短语 in great 完美结合。属于在各类写景、写人叙事文里极高频考查的经典描述词组 in great detail，意思是向导会极其“详细地/精细地”去描绘眼前的风景。",
+          "answer": "detail"
+        },
+        "58": {
+          "concept": "形容词修饰比较级形式",
+          "note": "后文出现了明确的比较连词 than。指由于向导细致入微的口头描述，这些视障旅行者在脑海中反而能够对风景勾勒出一个“更清晰的”、“更好的”或“更生动的”画面，故填形容词比较级 clearer / better / grander / sharper / lived-in 变体（此处 clearer / better 最佳）。",
+          "answer": "clearer/better"
+        },
+        "59": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的动词短语 take for 完美结合，构成在各大主流名校考卷中屡次重复考核的核心比喻习语 take things for granted，意为能看见东西的人反而更容易把一切“视作理所当然”。",
+          "answer": "granted"
+        },
+        "60": {
+          "concept": "篇章逻辑转折递进连词",
+          "note": "后接动名词短语 describing the picturesque views...。前文讲向导详细描述风景，后文指出他们有时还需要极具创造力，前后属于明显的平行递进关系。可填入复合介词/连词 Besides / Apart / Aside（除了……之外还）。位于句首需大写。",
+          "answer": "Besides/Apart/Aside"
+        },
+        "61": {
+          "concept": "一般过去时动词语意搭配",
+          "note": "由于整段在回忆过去某位旅行者的具体经历（one visually impaired traveller shared...），谓语动词需采用一般过去时。指他的向导拿出一个泰姬陵的微缩大理石模型并“放”、“塞”或“交”到他的双手中，故填过去时动词 placed / put / laid / handed。",
+          "answer": "placed/put/laid/handed"
+        },
+        "62": {
+          "concept": "表目的的连词搭配",
+          "note": "与后面的代词 that 完美组合，引导目的状语从句（后有情态动词 could feel）。完美契合高频核心句型 so that 或者是 order（构成 in order that），表示把模型塞给他是“以便/为了”让他能触摸感知那份无法看见的美。",
+          "answer": "so"
+        },
+        "63": {
+          "concept": "名词语意与后文呼应",
+          "note": "前面有形容词 important（重要的）引导修饰，后接 such as 举例。后文具体列举了 humility（谦逊）和 determination（坚韧），说明这些都属于精神层面的重要“品质”、“价值观”、“美德”或“课程”，故填复数名词 values / virtues / lessons / qualities。",
+          "answer": "values/virtues/lessons/qualities"
+        },
+        "64": {
+          "concept": "形容词语意对比修饰",
+          "note": "修饰复数名词 experiences。前面有定冠词 the。由于向导和视障者的体验视角截然相反（一个靠看，一个靠听/摸），指虽然他们可能无法共享“相同的（same）”感官体验，但他们达成共识的收获却是一致的。",
+          "answer": "same"
+        },
+        "65": {
+          "concept": "心理情感名词专属介词搭配",
+          "note": "前面有形容词比较级限制短语 gained a greater，后接介词短语 for their senses。完美契合抽象名词固定专属句式 gain an appreciation for something，意为让他们对自己的各种感官产生了一种前所未有的更深切的“体悟”、“感激”或“珍惜”（填入度量名词 respect / awareness 表达对感官的尊重与觉察在语境中亦完全通顺）。",
+          "answer": "appreciation/respect/awareness"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Rita decided to keep quiet. She did not want to argue with her sister.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ instead of __________"
+        },
+        "67": {
+          "stem_plain": "My brother cannot borrow the book. He does not have a library card.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________"
+        },
+        "68": {
+          "stem_plain": "Henry ran as fast as he could. He still missed the bus.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "However __________"
+        },
+        "69": {
+          "stem_plain": "If Mr Ahmad had not advised us, we would have submitted the project late.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Without Mr Ahmad's __________"
+        },
+        "70": {
+          "stem_plain": "\"What are your plans after school?\" Mrs Sim asked her students.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mrs Sim asked her students what __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "介词搭配 — instead of",
+          "zh": "丽塔决定保持安静，而不是和她姐姐争吵。",
+          "note": "介词短语 <span class=\"hl-good\">instead of</span> 之后通常接动名词形式。此处将“不想要争吵”简化为 <span class=\"hl-good\">arguing</span>，表示用“保持安静”代替了“争吵”。",
+          "answer": "Rita decided to keep quiet instead of arguing with her sister."
+        },
+        "67": {
+          "concept": "条件状语从句 — unless",
+          "zh": "我的哥哥不能借书，因为他没有图书馆卡。",
+          "note": "<span class=\"hl-good\">unless</span> 意为“除非”，相当于 <em>if... not</em>。当使用 <span class=\"hl-good\">unless</span> 时，从句应由否定式变为肯定式（does not have → <span class=\"hl-good\">has</span>）。",
+          "answer": "My brother cannot borrow the book unless he has a library card."
+        },
+        "68": {
+          "concept": "让步状语从句 — However + adj./adv.",
+          "zh": "无论亨利跑得多快，他还是错过了巴士。",
+          "note": "<span class=\"hl-good\">However fast</span> 在此引导让步状语从句，表示“无论跑得多快”。原句中的 <em>as fast as he could</em> 被改写为这一结构以保持句意一致。",
+          "answer": "However fast Henry ran, he still missed the bus."
+        },
+        "69": {
+          "concept": "介词短语 — Without + 名词所有格",
+          "zh": "如果没有阿扎姆的建议，我们就会提交项目晚了。",
+          "note": "将 <em>If</em> 引导的虚拟条件句改写为 <span class=\"hl-good\">Without</span> 引导的介词短语。动词 <em>advised</em> 需转换为其名词形式 <span class=\"hl-good\">advice</span>。",
+          "answer": "Without Mr Ahmad's advice, we would have submitted the project late."
+        },
+        "70": {
+          "concept": "间接引语 — 宾语从句",
+          "zh": "西姆女士问她的学生放学后有什么计划。",
+          "note": "在转述疑问句时，需将疑问句语序改为陈述句语序（are your plans → <span class=\"hl-good\">their plans... were</span>）。同时，代词 <em>your</em> 改为 <span class=\"hl-good\">their</span>，时态由一般现在时转为一般过去时。",
+          "answer": "Mrs Sim asked her students what their plans after school were."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer's parents arrange for her to go to Aunt Lily's house after school? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "\"That must be the reason why Aunt Lily takes such great care of it,\" I concluded. (lines 9-10) [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) What did the writer think was the \"reason\"?",
+              "question": "[Q72a]"
+            },
+            {
+              "stem_plain": "(b) What was Aunt Lily's \"reason\"?",
+              "question": "[Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "What inspired the writer to \"want to be a seamstress\" (line 14)? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on lines 16-21, how can you tell that the writer shared a close relationship with Aunt Lily? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Explain fully why Aunt Lily was \"dejected\" (line 19). [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Based on lines 22-34, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "The writer had planned to share her idea with Aunt Lily in the park.",
+                "Aunt Lily sold the first patchwork blanket she made.",
+                "The neighbours really liked Aunt Lily's patchwork blankets."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]",
+                "[Q76e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]",
+                "[Q76f]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Based on information from lines 22-34, fill in the following table. [4m]",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "(a) How Aunt Lily acted on the \"good idea\" (line 26)",
+                "[Q77a]",
+                "(c) What Aunt Lily thought of the \"idea\" (line 30)",
+                "[Q77c]"
+              ]
+            },
+            "col_2": {
+              "header": "",
+              "rows": [
+                "(b) How the writer responded to what Aunt Lily did in (a)",
+                "[Q77b]",
+                "(d) How the writer responded to what Aunt Lily said in line 30",
+                "[Q77d]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word from the passage",
+              "rows": [
+                "**that** (line 32)",
+                "**handiwork** (line 36)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refers to",
+              "rows": [
+                "[Q78a]",
+                "[Q78b]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "How people around Aunt Lily helped to promote her business [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q79a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q79b]"
+            }
+          ]
+        },
+        "80": {
+          "stem_plain": "Explain clearly how the writer applied \"Aunt Lily's words of wisdom\" (line 42) in her job? [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Aunt Lily and the Sewing Machine",
+        "lines": {
+          "1": "Aunt Lily was my neighbour. When I was young, I would spend time after school in",
+          "2": "her house, an arrangement my parents made to put their minds at ease while they were",
+          "3": "at work. I really enjoyed having lunch with her for she was a great cook. Aunt Lily also",
+          "4": "loved having me around to keep her company while she sewed clothes as a seamstress.",
+          "5": "She repeatedly told me not to play with the sewing machine which had belonged to her",
+          "6": "mother. Her constant reminder did not make me steer clear of it - if anything, it made me",
+          "7": "more curious. I was fascinated watching her step on the foot pedal of the sewing machine",
+          "8": "and listening to its rattling cloc cloc cloc sound as the foot pedal went up and down. In my",
+          "9": "young mind, I used to think it had magic that could transform cloths into clothes. **\"That**",
+          "10": "**must be the reason why Aunt Lily takes such great care of it,\" I concluded.**",
+          "11": "Aunt Lily would tell me her stories as she sewed using her prized possession the",
+          "12": "clothes that her customers ordered. I was particularly impressed by those about how some",
+          "13": "famous actresses had engaged her services. One day, after listening to one such story, I",
+          "14": "declared to Aunt Lily, \"When I grow up, I **want to be a seamstress** too!\" Hearing that,",
+          "15": "Aunt Lily smiled as she patted my head.",
+          "16": "Going to Aunt Lily's house after school was a routine even after I moved on to",
+          "17": "secondary school. However, visits to her house became less frequent due to schoolwork",
+          "18": "and co-curricular activities. One rainy day, I decided to visit her after school. She was at",
+          "19": "her sewing machine, staring into space. When she saw me, she said in a **dejected** voice,",
+          "20": "\"I'd looked forward to my retirement, but it has come sooner than I'd like it to be. Well, I",
+          "21": "can't help it if my customers are buying ready-made clothes from shopping centres.\"",
+          "22": "Sensing her sadness, I invited her to go for a walk with me when the rain stopped.",
+          "23": "While strolling in the park, we caught sight of a rainbow in the sky. Gazing at the colours",
+          "24": "of the rainbow, I was struck by a thought. \"Aunt Lily, you often throw away leftover strips",
+          "25": "of fabric that you have cut from different cloths. Can you sew them together to make",
+          "26": "something as colourful as the rainbow?\" She smiled and said it was a **good idea**. That",
+          "27": "very night, I heard the familiar cloc cloc cloc sound when I walked past her house.",
+          "28": "Days later, Aunt Lily gave me a patchwork blanket made using leftover fabrics from",
+          "29": "different cloths. \"Wow, you should make more and sell them!\" I exclaimed.",
+          "30": "She chuckled, \"There's nothing special about my blanket, but thanks for the **idea**.\"",
+          "31": "After much persuasion, she decided to give it a try. Soon, I was helping her sell her",
+          "32": "patchwork blankets to our neighbours. I doubted they supported her out of pity. If **that** were",
+          "33": "true, their interest would have faded away. Yet, they continued to rave about her patchwork",
+          "34": "blankets.",
+          "35": "More people knew about her business by word of mouth, thanks to our neighbours.",
+          "36": "Even more orders started pouring in after I posted pictures of Aunt Lily's **handiwork** on",
+          "37": "Instagram. As her business grew, she went on to sew more patchwork blankets by popular",
+          "38": "demand. One day, I asked her if she knew why her business was doing so well. She said,",
+          "39": "\"When you love your work, your customers will love your work just as much.\"",
+          "40": "Contrary to what I declared years ago, I have not become a seamstress. Pursuing a",
+          "41": "new interest, I am now a nurse working in a hospital. Each time the patients thank me for",
+          "42": "taking good care of them, I know **Aunt Lily's words of wisdom** have served me well."
+        },
+        "paragraphs": {
+          "1": "莉莉阿姨是我的邻居。我小时候放学后常待在她家，这是我父母为了在他们上班时能安心而做的安排。我非常喜欢和她一起吃午饭，因为她厨艺很好。莉莉阿姨也喜欢我在身边陪伴，当时她是一名裁缝，正忙着缝制衣服。她反复叮嘱我不要玩那台属于她母亲的缝纫机。她的不断提醒并没有让我避开——反而让我更加好奇。我着迷地看着她踩缝纫机踏板，听着踏板上下起伏时发出的“咔哒、咔哒、咔哒”声。在我幼小的心里，我曾以为它有魔法，能把布料变成衣服。“那一定是莉莉阿姨如此细心照看它的原因，”我断定道。",
+          "11": "莉莉阿姨一边用她珍爱的缝纫机缝制客户订购的衣服，一边给我讲故事。那些关于著名女演员如何聘请她服务的故事让我印象尤为深刻。有一天，听完这样一个故事后，我对莉莉阿姨宣布：“等我长大了，我也要当一名裁缝！”听到这话，莉莉阿姨笑着摸了摸我的头。",
+          "16": "放学后去莉莉阿姨家成了我的习惯，即使我上中学后也是如此。然而，由于学业和课外活动，我去她家的次数变少了。一个雨天，我决定放学后去看她。她正坐在缝纫机前发呆。看到我时，她沮丧地说：“我本期待着退休，但它来得比我想要的要早。唉，如果顾客都去商场买成衣，我也没办法。”",
+          "22": "察觉到她的悲伤，我邀请她在雨停后和我一起散步。在公园散步时，我们看到了天空中的彩虹。注视着彩虹的颜色，我突然有了一个想法。“莉莉阿姨，你经常丢掉从不同布料上剪下来的边角料。你能把它们缝在一起，做成像彩虹一样五彩缤纷的东西吗？”她笑了笑，说这是个好主意。那天晚上，当我经过她家门口时，又听到了熟悉的“咔哒、咔哒、咔哒”声。",
+          "28": "几天后，莉莉阿姨送给我一条用不同布料边角料缝制的拼布毯。“哇，你应该多做一些拿去卖！”我惊呼道。她轻笑着说：“我的毯子没什么特别的，不过谢谢你的主意。”在我的再三劝说下，她决定试一试。很快，我就开始帮她把拼布毯卖给邻居们。我怀疑他们并非出于怜悯才支持她——如果是那样，他们的兴趣早就淡了。然而，他们继续对她的拼布毯赞不绝口。",
+          "35": "多亏了邻居们的口口相传，更多的人知道了她的生意。在我把莉莉阿姨作品的照片发到 Instagram 后，更多订单纷至沓来。随着生意的发展，应大家要求她又缝制了更多拼布毯。有一天，我问她是否知道生意为什么这么好。她说：“当你热爱你的工作时，你的客户也会同样热爱你的工作。”",
+          "40": "与我多年前的宣言相反，我并没有成为一名裁缝。我追求新的兴趣，现在是一名在医院工作的护士。每当病人感谢我悉心照顾他们时，我知道莉莉阿姨的人生智慧让我受益匪浅。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "原因分析题",
+          "zh": "作者的父母希望在工作时能感到安心。",
+          "note": "紧扣 <em>put their minds at ease while they were at work</em>。",
+          "answer": "The writer's parents wanted to work whilst having a peace of mind.",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "zh": "a) 作者认为缝纫机有魔力。b) 缝纫机是她母亲留下的。",
+          "note": "(a) 看行 8–9；(b) 回看行 5–6，勿与 (a) 混淆。",
+          "answer": {
+            "72a": "The writer thought that Aunt Lily's sewing machine was magical.",
+            "72b": "The sewing machine belonged to her mother."
+          }
+        },
+        "73": {
+          "concept": "原因分析题",
+          "zh": "莉莉阿姨讲述的关于一些著名女演员曾聘请她服务的故事鼓舞了作者。",
+          "note": "须点出 <em>famous actresses</em> 与 <em>engaged her services</em>。",
+          "answer": "The writer was inspired by Aunt Lily's stories about famous actresses who engaged her services.",
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "推理与证据题",
+          "zh": "即使作者长大、不再需要大人密切看管，她仍常去莉莉阿姨家。",
+          "note": "答案须落在行 16–21；勿写察觉悲伤（行 22）。",
+          "answer": "Even when the writer grew older and did not need close supervision by an adult figure, she still frequented Aunt Lily's house.",
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "原因分析题",
+          "zh": "她的顾客改去商场买成衣，缝纫服务不再被需要，她不得不比预期更早退休。",
+          "note": "2 分题须含<strong>提早退休</strong>与<strong>客户买成衣</strong>两层因果。",
+          "answer": "Her customers were switching over buying ready-made clothes from shopping centres, which made her sewing services irrelevant.",
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "判断正误表+依据",
+          "zh": "a) 错：主意是公园见彩虹时才突然想到的。b) 错：第一条毯子送给了作者。c) 对：邻居一直很喜欢她的拼布毯。",
+          "note": "分别对应行 23–24、28、33–34。",
+          "type": "comprehension",
+          "answer": {
+            "76a": "False",
+            "76b": "The idea only dawned upon the writer when she chanced upon a rainbow in the park.",
+            "76c": "False",
+            "76d": "Aunt Lily gave the first patchwork blanket that she made to the writer.",
+            "76e": "True",
+            "76f": "The neighbours had a sustained interest in Aunt Lily's patchwork blankets."
+          }
+        },
+        "77": {
+          "concept": "文中信息归纳表",
+          "zh": "a) 她用边角料缝制拼布毯。b) 作者建议多做并出售。c) 她认为毯子没什么特别、难盈利。d) 作者再三劝说并帮她向邻居推销。",
+          "note": "左列多为莉莉阿姨，右列为作者反应；按 (a)(b)(c)(d) 顺序填。",
+          "type": "comprehension",
+          "answer": {
+            "77a": "She created a patchwork blanket made using leftover fabrics.",
+            "77b": "The writer suggested that Aunt Lily should make more patchwork blankets and sell them.",
+            "77c": "Aunt Lily thought that her patchwork blankets would not generate profits.",
+            "77d": "The writer persuaded Aunt Lily to try out the idea and helped her sell her patchwork blankets to their neighbours."
+          }
+        },
+        "78": {
+          "concept": "指代表",
+          "zh": "a) 指邻居出于同情/怜悯而支持她。b) 指莉莉阿姨制作的拼布毯（手工艺品）。",
+          "note": "<em>that</em> 看行 31–32 整句假设；<em>handiwork</em> 即 patchwork blankets。",
+          "type": "comprehension",
+          "answer": {
+            "78a": "It refers to supporting Aunt Lily out of pity.",
+            "78b": "It refers to Aunt Lily's patchwork blankets."
+          }
+        },
+        "79": {
+          "concept": "双要点简答题",
+          "zh": "a) 邻居们口头向别人介绍她的拼布毯生意。b) 作者在 Instagram 上发布莉莉阿姨作品的照片。",
+          "note": "须区分<strong>邻居口碑</strong>与<strong>作者社交媒体</strong>两种渠道。",
+          "answer": {
+            "79a": "The neighbours talked about her patchwork blanket business to others.",
+            "79b": "The writer posted pictures of Aunt Lily's handiwork on Instagram."
+          }
+        },
+        "80": {
+          "concept": "解释说明题",
+          "zh": "莉莉阿姨认为热爱工作的人，客户也会同样喜爱其成果。作者将此用于护理工作：她学会热爱护士职业，病人也因此感激她的照顾。",
+          "note": "须链式回答：名言 → 热爱护士工作 → 病人感谢。",
+          "answer": "Aunt Lily believed that if one was passionate about their work, customers would equally enjoy the product created. Applying this wisdom to her work as a nurse, the writer learnt to love her job, which in turn led to her patients also appreciating her care.",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Amy.",
+          "**Write an email to your classmate, Gary, to persuade him to join your group.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the date and time of the school event",
+          "two things your group will do at the event to get a new book for the library",
+          "one reason why Gary will be keen to join the event",
+          "why he needs to get back to you soon"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Hi Gary,",
+          "How are you? I hope you are doing well!",
+          "--When-- I was browsing the school website, I **came across** an event called 'Read for Books', which is open to all Primary Six students. The event will be held on 11 October 2023, in the school hall, at 2 p.m. **By participating in** the event, Glory Bookstore will donate new books to the school library.",
+          "Nora and I are interested to join this book event, --as-- we feel that our school library truly needs a **greater diversity** of reading materials. It will be **extremely meaningful** --if-- we can do our part in **contributing to** the school library, --as-- I believe that we are doing a **big service** to our **fellow schoolmates**. Remember when you complained about the school library needing more books? Now is the **perfect chance** to increase the number and variety of books in the school library! --If-- you join our group in this event, I am sure that we can add many **new additions** to the school library.",
+          "To participate in the event, we just have to complete two easy steps. --Before the day of the event--, we would have to sign up as a group of three by scanning the QR code on the webpage. --On the day of the event--, each group has to read silently for 20 minutes. --After that--, all we have to do is to **pen down** our personal feelings about the joy of reading on a piece of paper. --Next--, we will have to submit our comment to any teacher in the hall, who will upload our **inputs** onto the event page. For every comment uploaded, Glory Bookstore will donate a new book to the school library.",
+          "With only 50 slots available, we should sign up quickly. I hope you can join us for this meaningful event.",
+          "Regards,\nAmy"
+        ],
+        "markdown": [
+          "这个关于邀请朋友组队参加“Read for Books”活动的非正式书信/邮件（Situational Writing）是一篇非常标准且优秀的 PSLE 实用文体范文。主要亮点如下：",
+          "### 1. 完美把握非正式书信的语气 (Appropriate Informal Tone)\n* **语气亲切自然**：因为是写给同学/朋友 Gary 的信，文章开头的问候 `\"How are you? I hope you are doing well!\"` 以及中间幽默的提醒 `\"Remember when you complained...\"`（还记得你之前抱怨过吗？），非常符合朋友之间交谈的口吻（Informal Register），完全没有生硬的说教感。",
+          "### 2. 信息提取与整合能力极强 (Excellent Information Integration)\n* **核心要点无缝串联**：文章准确地从题目图表中提取了所有关键信息：活动名称、时间、地点、参与对象、赞助商的捐赠机制等。\n* **说服力极强**：作者没有干巴巴地罗列数据，而是把“Gary 曾抱怨图书馆藏书少”和“这次活动能为学校增加新书”紧密结合起来，给出了极具说服力的组队理由，充分展现了高级的论证逻辑。",
+          "### 3. 高级词汇与实用短语搭配 (Strong Vocabulary & Collocations)\n* 文章使用了很多地道、高级的固定搭配。例如：用 `\"came across\"` 代替 \"saw\"，用 `\"greater diversity\"` 代替 \"more types of\"，用 `\"contributing to\"`（为……做贡献）和 `\"fellow schoolmates\"`（学校里的伙伴们）提升句子的学术感。同时，用 `\"pen down\"` 代替简单的 \"write\"，用 `\"inputs\"` 代替 \"comments\"，都非常符合高分标准。",
+          "### 4. 步骤性与时间逻辑极其清晰 (Clear Step-by-Step Transition)\n* 在解释如何参与活动时，作者展现了完美的条理。通过使用时间过渡词（如 `--Before the day of the event--`, `--On the day of the event--`, `--After that--`, `--Next--`），把复杂的“活动前”与“活动当天”的规则和步骤梳理得清清楚楚，完全不会让读者感到混乱。结尾处直接点出由于座位有限（50个组），呼吁尽快报名，表达直接且有力。"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "In the small town of Sunnyhill, there lived a boy named Tommy. Tommy had always been known for his love of video games, and it seemed like he spent every waking moment **glued to** his mobile phone. He was **disorganised**, lazy and rarely spent any time outdoors. His room was a **chaotic mess**, and his grades were **slipping**. --However--, one day, everything changed for him.",
+          "It all started --when-- Tommy's teacher, Mrs Lim, **assigned** a project that required researching local history. Tommy groaned --as-- he realised that he would have to **tear himself away from** his beloved games and actually do some work.",
+          "\"Tommy, this project is a great opportunity to learn about the history of our town,\" Mrs Lim said with a kind smile. \"You might even discover something interesting about Sunnyhill that you did not know before.\"",
+          "Tommy was not **convinced**, but he had to give it a try. --As-- he started his research, he **stumbled upon** an old article about Sunnyhill's annual charity run. The run was organised to raise money for the local animal shelter, and it had been a tradition in the town for years.",
+          "Tommy read about how the run **brought the community together** and helped the shelter provide **lodging** and medical care for **abandoned** animals. His heart was touched by the stories of rescued dogs and cats finding **forever homes**, thanks to the run. He could not help but think about his own pet dog, Max, and how much he loved him.",
+          "Tommy **approached** his parents that evening and said, \"Mum, Dad, I want to participate in the charity run this year.\"",
+          "His parents were surprised but pleased to hear their son **express an interest in** something beyond his video games. \"That is a great idea, Tommy,\" his dad said. \"It is wonderful that you want to **get involved in** such a meaningful event.\"",
+          "The next day, Tommy **dusted off** his running shoes and started his training. He knew he had a long way to go, --but-- he was **determined** to improve. He began by taking short jogs around the neighbourhood, **gradually** increasing his distance. He even started cleaning his room, organising his schoolwork and **managing his time better**. His grades began to improve, and his teacher, Mrs Lim, noticed the **positive change** in him.",
+          "--Through-- training, Tommy developed **discipline**, responsibility, and better time management, **resulting in** improved grades and a more organized life."
+        ],
+        "markdown": [
+          "这个关于“沉迷游戏的小男孩通过义跑改变自我”的故事是一篇非常优秀的 PSLE 记叙文（Continuous Writing）高分范文。主要亮点如下：",
+          "### 1. 鲜明的人物前后对比 (Powerful Character Contrast)\n* **前期铺垫到位**：第一段用 `\"glued to his mobile phone\"`（紧盯着手机）、`\"disorganised\"`（毫无条理）和 `\"chaotic mess\"`（一团糟）生动地刻画了一个网瘾、懒散的少年形象，为后文的彻底转变（Transformation）蓄足了势。\n* **后期蜕变自然**：通过训练，他不仅身体得到了锻炼，还培养了 `\"discipline\"`（自律）和 `\"responsibility\"`（责任感），房间变整洁、成绩也提高了。这种前后判若两人的强烈对比，让故事的主题非常深刻。",
+          "### 2. 精准、地道的高级词汇与短语 (Precise & Native Vocabulary)\n* 文章避开了低级词汇，运用了许多极具画面感的高级短语。例如：用 `\"tear himself away from\"` 代替 \"stop playing\"，生动写出戒掉游戏的痛苦；用 `\"stumbled upon\"`（偶然发现）代替 \"found\"；用 `\"dusted off\"`（掸去……的灰尘）描写他重新拿出跑鞋的动作，细节感拉满。",
+          "### 3. 情感转折细腻且合情合理 (Logical Emotional Turning Point)\n* Tommy 的转变不是突兀的，而是有情感驱动的（Empathy-driven）。当他读到流浪动物的故事时，联想到了自己的宠物狗 Max，从而触发了内心的共鸣（`\"His heart was touched\"`）。这种以“爱心”为契机的心理描写，让整个故事的转折显得非常真实、感人。",
+          "### 4. 严密的因果逻辑与结构闭环 (Tight Coherence & Resultative Ending)\n* 叙事逻辑非常严密，使用 `--However--`, `--As--`, `--Through--` 等过渡词将“做作业 → 发现义跑 → 受到触动 → 开始训练 → 改变生活”这一因果链条紧紧扣在一起。\n* 结尾段作为高分点题段（Reflection），使用 `\"resulting in\"` 引出最终的积极成果，高度概括了这次经历带给他的成长，给阅卷老师留下极佳的整体印象。"
+        ]
+      }
+    }
+  }
+}

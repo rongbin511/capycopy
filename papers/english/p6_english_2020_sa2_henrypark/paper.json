@@ -1,0 +1,1418 @@
+{
+  "paperid": "p6_english_2020_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "__________ I was exhausted after a long day at school, I stayed up late to complete the project.",
+          "options": {
+            "1": "As",
+            "2": "Yet",
+            "3": "Since",
+            "4": "Although"
+          }
+        },
+        "2": {
+          "stem_plain": "When I was at the shopping centre yesterday, I saw the police __________ after a shoplifter.",
+          "options": {
+            "1": "chased",
+            "2": "chasing",
+            "3": "was chasing",
+            "4": "had been chasing"
+          }
+        },
+        "3": {
+          "stem_plain": "\"You won't tell anyone about my mistake, __________?\" Alfred asked worriedly.",
+          "options": {
+            "1": "will you",
+            "2": "are you",
+            "3": "have you",
+            "4": "would you"
+          }
+        },
+        "4": {
+          "stem_plain": "If we __________ our revisions earlier, we would have done better in the exams.",
+          "options": {
+            "1": "begin",
+            "2": "began",
+            "3": "had begun",
+            "4": "have begun"
+          }
+        },
+        "5": {
+          "stem_plain": "All the members of George's family __________ excited about going to the cinema after the easing of the Covid-19 safety management measures next month.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "6": {
+          "stem_plain": "\"You __________ television since nine this morning. You should stop now and read a book instead,\" Mr. Lee told his daughter.",
+          "options": {
+            "1": "were watching",
+            "2": "will be watching",
+            "3": "had been watching",
+            "4": "have been watching"
+          }
+        },
+        "7": {
+          "stem_plain": "\"I will be taking the end-of-year examinations __________ a week's time,\" said Agnes confidently.",
+          "options": {
+            "1": "in",
+            "2": "for",
+            "3": "from",
+            "4": "about"
+          }
+        },
+        "8": {
+          "stem_plain": "\"Let's walk more quickly or we'll miss our connecting flight to Hong Kong. There isn't __________ time to waste,\" Mrs Tan told her children.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "9": {
+          "stem_plain": "Based on the laws in Singapore, you __________ have a license issued by the Traffic Police before you are allowed to drive a car.",
+          "options": {
+            "1": "can",
+            "2": "must",
+            "3": "might",
+            "4": "should"
+          }
+        },
+        "10": {
+          "stem_plain": "My teacher praised my friends and __________ for helping the younger students.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "mine",
+            "4": "myself"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "前半句“我很累”与后半句“我熬夜完成项目”在逻辑上存在让步、转折关系（虽然……但是），使用连词 Although 最符合语境。",
+          "concept": "让步状语从句 — Concession Clauses — Although",
+          "zh": "虽然在学校度过了漫长的一天后我很累，但我还是熬夜完成了这个项目。",
+          "answer": "4"
+        },
+        "2": {
+          "note": "感官动词的固定搭配：see somebody doing something 强调看到某人正在进行某个动作。此处指看到警察正在追捕扒手。",
+          "concept": "感官动词固定搭配 — Verbs of Perception — see sb doing sth",
+          "zh": "昨天我在购物中心时，看到警察正在追捕一个扒手。",
+          "answer": "2"
+        },
+        "3": {
+          "note": "反义疑问句遵循“前否后肯”原则。陈述部分含有否定词 won't（will not），因此疑问尾句必须使用肯定形式 will you。",
+          "concept": "反义疑问句 — Question Tags — Negative Statement to Positive Tag",
+          "zh": "“你不会把我的错误告诉任何人的，对吗？”阿尔弗雷德担忧地问。",
+          "answer": "1"
+        },
+        "4": {
+          "note": "本句是对过去发生事情的虚拟假设（第三类条件句）。主句使用了 “would have done”，则 if 条件句中必须使用过去完成时（had + 过去分词）had begun。",
+          "concept": "虚拟语气（与过去事实相反）— Conditional Type 3 — Past Unreal Conditional",
+          "zh": "如果我们早点开始复习，我们在考试中就会考得更好。",
+          "answer": "3"
+        },
+        "5": {
+          "note": "主语为 “All the members of George's family”，核心词是复数名词 members，故谓语动词需用复数。时间状语为 “next month”（下个月），表明该时间还未发生，且这里强调未来的状态，使用一般现在时复数 are 表达安排或既定未来的状态最为恰当。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Future/Present Context",
+          "zh": "在下个月放宽 Covid-19 安全管理措施后，乔治家的所有成员都对去电影院感到很兴奋。",
+          "answer": "2"
+        },
+        "6": {
+          "note": "时间状语 “since nine this morning” 意为“从今天早上九点开始”，与之搭配的动作 “watch” 持续到现在，并对现在产生影响，应当使用现在完成进行时 have been watching。",
+          "concept": "现在完成进行时 — Present Perfect Continuous Tense — since clauses",
+          "zh": "“你从今天早上九点起就一直在看电视。你现在应该停下来，去读本书。”李先生对他的女儿说。",
+          "answer": "4"
+        },
+        "7": {
+          "note": "固定搭配 “in a week's time” 或 “in [时间段] time”，表示“在……时间之后”，常用于将来时态的句子中。",
+          "concept": "时间介词短语 — Prepositions of Time — in ... time",
+          "zh": "“我将在一周后参加期末考试，”艾格尼丝自信地说。",
+          "answer": "1"
+        },
+        "8": {
+          "note": "不可数名词 “time” 用于否定句 “there isn't...” 时，表示“没有很多时间”，应当用 much 修饰。few 和 many 只能修饰可数名词复数。",
+          "concept": "限定词与名词修饰 — Quantifiers — much with uncountable nouns",
+          "zh": "“我们走快点，否则就会错过飞往香港的衔接航班了。没有多少时间可以浪费了，”谭夫人对他的孩子们说。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "根据前置语境 “Based on the laws in Singapore”（根据新加坡法律），说明后文是在阐述一项法律层面的强制性义务，因此应使用表“必须、强制”的情态动词 must。",
+          "concept": "情态动词表义务 — Modal Verbs — must for obligation",
+          "zh": "根据新加坡法律，你必须在获得交通警察颁发的驾照后才被允许开车。",
+          "answer": "2"
+        },
+        "10": {
+          "note": "及物动词 “praised” 后面需要接宾语。在这个并列宾语结构中，“my friends and __________” 整体充当宾语，因此空格处需填入人称代词的宾格形式 me。",
+          "concept": "代词的格 — Pronoun Case — Object Pronouns in Compound Objects",
+          "zh": "我的老师表扬了我的朋友们和我，因为我们帮助了年幼的学生。",
+          "answer": "2"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Mrs Tan __________ when her son, Cecil, lost his water bottle for the third time this year.",
+          "options": {
+            "1": "hit the roof",
+            "2": "bit the bullet",
+            "3": "forced her hand",
+            "4": "beat around the bush"
+          }
+        },
+        "12": {
+          "stem_plain": "The pandemic has caused many companies to __________ on their spending during the lockdown.",
+          "options": {
+            "1": "cut up",
+            "2": "cut off",
+            "3": "cut out",
+            "4": "cut back"
+          }
+        },
+        "13": {
+          "stem_plain": "The school informed the students that their graduation certificates would be __________ in an envelope with a congratulatory letter next week.",
+          "options": {
+            "1": "enrolled",
+            "2": "encased",
+            "3": "enclosed",
+            "4": "entrapped"
+          }
+        },
+        "14": {
+          "stem_plain": "Please make sure that you email the submission to the school immediately. It is __________.",
+          "options": {
+            "1": "brisk",
+            "2": "hasty",
+            "3": "urgent",
+            "4": "abrupt"
+          }
+        },
+        "15": {
+          "stem_plain": "The earthquake hit the city and its habitants without __________.",
+          "options": {
+            "1": "notice",
+            "2": "warning",
+            "3": "hesitation",
+            "4": "interruption"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "当陈太太的儿子塞西尔今年第三次丢掉水壶时，她气炸了。",
+          "note": "hit the roof 是一个固定习语，意为“勃然大怒、气炸了”，符合母亲因儿子屡次丢东西而极度愤怒的语境。",
+          "concept": "习语辨析与语境匹配 — Idiomatic Expressions — hit the roof",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hit the roof",
+              "zh": "勃然大怒，大发雷霆，气炸了（习语，形容人因某事突然变得极其愤怒，大声斥责）",
+              "eg": "My father will **hit the roof** if he finds out that I have scratched his brand new car."
+            },
+            {
+              "opt": "2",
+              "word": "bit the bullet",
+              "zh": "咬紧牙关，硬着头皮，咬牙挺住（习语，指面对无法逃避的痛苦或艰难处境时，下定决心去面对）",
+              "eg": "She finally **bit the bullet** and went to the dentist to get her decayed tooth extracted."
+            },
+            {
+              "opt": "3",
+              "word": "forced her hand",
+              "zh": "逼她表态，迫使她提前行动（习语，指由于外界某种压力或事态发展，迫使某人做出了原本不想做或不想这么早做的事）",
+              "eg": "The sudden leak of the corporate secret **forced her hand** to announce the product launch early."
+            },
+            {
+              "opt": "4",
+              "word": "beat around the bush",
+              "zh": "说话拐弯抹角，绕圈子，不切入正题（习语，指说话时故意回避核心问题，不直接表明意图）",
+              "eg": "Stop **beating around the bush** and tell me exactly how much money you need to borrow."
+            }
+          ]
+        },
+        "12": {
+          "zh": "在封锁期间，这场流行病导致许多公司缩减了开支。",
+          "note": "cut back on spending 为固定短语搭配，意为“削减、缩减（开支、预算等）”，符合公司在经济困难时期开源节流的语境。",
+          "concept": "短语动词辨析与固定搭配 — Vocabulary — Phrasal Verbs with 'cut'",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cut up",
+              "zh": "切碎，剪碎；（在公共场所）胡闹（动词短语，指用刀或剪刀把物体分成许多小块）",
+              "eg": "The mother carefully **cut up** the juicy steak into small pieces for her toddler."
+            },
+            {
+              "opt": "2",
+              "word": "cut off",
+              "zh": "切断，断绝，使隔绝（动词短语，指中断电力、水源、电话等供应，或切断两地之间的交通往来）",
+              "eg": "The electricity supply to the building was **cut off** because the bill had not been paid."
+            },
+            {
+              "opt": "3",
+              "word": "cut out",
+              "zh": "裁剪出；停止，戒掉（动词短语，指从报刊等纸张上剪下特定图形，或指停止某种不健康的行为、饮食）",
+              "eg": "The doctor advised the patient to **cut out** sugary snacks from his daily diet."
+            },
+            {
+              "opt": "4",
+              "word": "cut back",
+              "zh": "削减，缩减，减少（动词短语，后常接 on，指为了省钱或控制总量而减少某物的消耗或花费）",
+              "eg": "Due to the economic recession, the family had to **cut back** on luxury holidays and dining out."
+            }
+          ]
+        },
+        "13": {
+          "zh": "学校通知学生，他们的毕业证书下周将和一封祝贺信一起随信封附上。",
+          "note": "be enclosed in an envelope 意为“随信封附上/装在信封内”，属于信件往来或正式公文寄送时的标准词汇搭配。",
+          "concept": "动词辨析与书信场景搭配 — Vocabulary — Verbs",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "enrolled",
+              "zh": "注册，招收，入学（动词，指正式登记加入学校、课程或某个官方组织团体）",
+              "eg": "My parents **enrolled** me in a reputable swimming academy during the school holidays."
+            },
+            {
+              "opt": "2",
+              "word": "encased",
+              "zh": "把……装入箱内，把……包住（动词，指用坚固的外壳或保护套将某件珍贵、易碎的物品紧紧包裹起来）",
+              "eg": "The museum's ancient gold coins were securely **encased** in thick bulletproof glass cases."
+            },
+            {
+              "opt": "3",
+              "word": "enclosed",
+              "zh": "随信附上，附入，把……围起来（动词，指在信件、包裹里顺便放入其他文件，或用围栏将一片土地封闭）",
+              "eg": "Please find **enclosed** a copy of my official resume for your corporate reference."
+            },
+            {
+              "opt": "4",
+              "word": "entrapped",
+              "zh": "诱骗，使落入陷阱（动词，常指设计圈套欺骗某人或动物，使其陷入无法逃脱的困境或犯错）",
+              "eg": "The small woodland animals were **entrapped** by the heavy nets laid out by the illegal poachers."
+            }
+          ]
+        },
+        "14": {
+          "zh": "请务必立即将提交的文件发邮件给学校。这件事情很紧急。",
+          "note": "由前半句的 immediately（立即、马上）可知，这件事情的时效性极强，属于“紧急的、十万火急的”，故选 urgent。",
+          "concept": "形容词辨析与逻辑关联 — Vocabulary — Adjectives",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "brisk",
+              "zh": "轻快的，生机勃勃的，寒冷而清爽的（形容词，形容走路步伐迅速轻快，或生意兴隆、天气凉爽）",
+              "eg": "The doctor recommended taking a **brisk** thirty-minute walk every single morning."
+            },
+            {
+              "opt": "2",
+              "word": "hasty",
+              "zh": "草率的，仓促的，轻率的（形容词，常带有贬义，指由于时间不够或没过脑子，做出的决定过于急忙和粗心）",
+              "eg": "She later regretted her **hasty** decision to resign from the firm without finding a backup."
+            },
+            {
+              "opt": "3",
+              "word": "urgent",
+              "zh": "紧急的，急迫的，迫切的（形容词，指某项任务或情况非常危急，必须立刻予以关注和处理，不容拖延）",
+              "eg": "The surgeon was called to the operating theatre to handle an **urgent** emergency case."
+            },
+            {
+              "opt": "4",
+              "word": "abrupt",
+              "zh": "突然的，唐突的，生硬的（形容词，指某种变化、转折在毫无预兆的情况下发生，或形容人说话粗鲁不客气）",
+              "eg": "The interview came to an **abrupt** end when the candidate suddenly stood up and walked away."
+            }
+          ]
+        },
+        "15": {
+          "zh": "地震在毫无预兆的情况下袭击了这座城市及其居民。",
+          "note": "without warning 是固定搭配，意为“毫无预兆地、在没有得到任何警告/前兆的情况下”，符合地震这类自然灾害突然爆发的特点。",
+          "concept": "名词辨析与固定搭配 — Vocabulary — Collocations with 'without'",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "notice",
+              "zh": "通知，布告，注意（名词，指书面或口头的正式通知、告示，或被公众注意到的状态）",
+              "eg": "The landlord gave us a one-month **notice** before raising the monthly house rent."
+            },
+            {
+              "opt": "2",
+              "word": "warning",
+              "zh": "警告，预兆，前兆（名词，指对即将发生的危险、惩罚或糟糕状况提前发出的信号、口头警告）",
+              "eg": "The severe storm struck the coastal fishing village without any prior **warning**."
+            },
+            {
+              "opt": "3",
+              "word": "hesitation",
+              "zh": "犹豫，踌躇（名词，指在做某事、说话或决定之前，因不确定或害怕而产生的短暂迟疑）",
+              "eg": "When she saw the toddler falling into the pool, she jumped in without a moment's **hesitation**."
+            },
+            {
+              "opt": "4",
+              "word": "interruption",
+              "zh": "打断，中断，干扰（名词，指某项活动、进程或讲话被外界因素强行停止、打扰的状态）",
+              "eg": "The teacher requested the children to read their books quietly without any **interruption**."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "get their creative juices flowing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "think profitably",
+            "2": "think ingeniously",
+            "3": "think productively",
+            "4": "think constructively"
+          }
+        },
+        "17": {
+          "stem_plain": "capture",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "take",
+            "2": "hook",
+            "3": "catch",
+            "4": "seize"
+          }
+        },
+        "18": {
+          "stem_plain": "very good knowledge and experience",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "the agility",
+            "2": "the aptitude",
+            "3": "the potential",
+            "4": "the proficiency"
+          }
+        },
+        "19": {
+          "stem_plain": "appetising",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "edible",
+            "2": "likeable",
+            "3": "agreeable",
+            "4": "delectable"
+          }
+        },
+        "20": {
+          "stem_plain": "typically",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "commonly",
+            "2": "continually",
+            "3": "persistently",
+            "4": "occasionally"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — 习语“get their creative juices flowing”意为使文思泉涌、激发创造力或灵感，与“think ingeniously（别出心裁地、充满创意地思考）”最为贴合。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "think profitably",
+              "zh": "能赚钱地/划算地思考",
+              "eg": "He spent hours figuring out how to think profitably in business."
+            },
+            {
+              "opt": "2",
+              "word": "think ingeniously",
+              "zh": "充满创意地/别出心裁地思考",
+              "eg": "The team needs to think ingeniously to design a completely unique logo."
+            },
+            {
+              "opt": "3",
+              "word": "think productively",
+              "zh": "富有成效地思考",
+              "eg": "A morning walk helps her clear her mind and think productively."
+            },
+            {
+              "opt": "4",
+              "word": "think constructively",
+              "zh": "建设性地思考",
+              "eg": "Instead of arguing, we should focus on trying to think constructively."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — 在摄影语境下，“capture these beautiful images”意为抓拍、拍摄下这些画面，与动词“take（拍摄、捕捉画面）”最为对应。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "take",
+              "zh": "拍摄，抓拍，捕捉（照片/画面）",
+              "eg": "The photographer stepped forward to take a quick photo of the bird."
+            },
+            {
+              "opt": "2",
+              "word": "hook",
+              "zh": "钩住，吸引住",
+              "eg": "The opening scene of the exciting movie managed to hook the audience."
+            },
+            {
+              "opt": "3",
+              "word": "catch",
+              "zh": "抓住，接住",
+              "eg": "The little boy managed to catch the ball with one hand."
+            },
+            {
+              "opt": "4",
+              "word": "seize",
+              "zh": "抓住，夺取（机会/控制权）",
+              "eg": "You should seize the opportunity to study overseas."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “very good knowledge and experience”指在某种技能上拥有极高的熟练度、精通程度，与名词“the proficiency（熟练、精通）”意思最接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "the agility",
+              "zh": "敏捷度，灵活性",
+              "eg": "The gymnasts performed the complex moves with extreme agility."
+            },
+            {
+              "opt": "2",
+              "word": "the aptitude",
+              "zh": "天资，天赋（常接for）",
+              "eg": "From a very young age, she showed a natural aptitude for music."
+            },
+            {
+              "opt": "3",
+              "word": "the potential",
+              "zh": "潜力，潜能",
+              "eg": "The coach believes that the young athlete has great potential."
+            },
+            {
+              "opt": "4",
+              "word": "the proficiency",
+              "zh": "熟练度，精通，通晓",
+              "eg": "The job description requires high proficiency in data processing software."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “appetising”形容食物看起来美味可口、引人食欲的，与“delectable（美味的、怡人的）”意思完全一致。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "edible",
+              "zh": "可食用的（指能吃、无毒）",
+              "eg": "These wild mushrooms look colorful but they are completely edible."
+            },
+            {
+              "opt": "2",
+              "word": "likeable",
+              "zh": "讨人喜欢的，可爱的",
+              "eg": "The main character in the story is friendly and very likeable."
+            },
+            {
+              "opt": "3",
+              "word": "agreeable",
+              "zh": "令人愉快的，欣然同意的",
+              "eg": "We spent a highly agreeable afternoon strolling near the river bank."
+            },
+            {
+              "opt": "4",
+              "word": "delectable",
+              "zh": "美味可口的，引人食欲的",
+              "eg": "The local bakery makes delectable pies filled with fresh berries."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “typically”指通常情况下、一般而言，与副词“commonly（通常、普遍）”意思相符。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "commonly",
+              "zh": "通常地，普遍地，一般情况下",
+              "eg": "This specific plant is commonly found in tropical rain forests."
+            },
+            {
+              "opt": "2",
+              "word": "continually",
+              "zh": "连续不断地，频繁地",
+              "eg": "The old machine continually breaks down and requires repairs."
+            },
+            {
+              "opt": "3",
+              "word": "persistently",
+              "zh": "坚持不懈地，固执地",
+              "eg": "She persistently pursued her academic dream despite all challenges."
+            },
+            {
+              "opt": "4",
+              "word": "occasionally",
+              "zh": "偶尔，有时",
+              "eg": "They occasionally go to the theatre to watch a classical drama."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever seen a photograph of a steak, salad or slice of strawberry shortcake that made your mouth water? Images like these are the creations of skilled food photographers with an eye for details. These artists [Q16(get their creative juices flowing)] to make their audience crave a dish without the help of the food's actual presence, taste, aroma and texture. Food photographers work to create and [Q17(capture)] these beautiful and enticing images of food for magazines, menus, cookbooks and other types of media. They must have [Q18(very good knowledge and experience)] in using a digital camera and related technologies.",
+          "They work with food stylists to make the food look as [Q19(appetising)] and appealing as possible. There are approximately 1,000 photographers employed in Singapore. Only a small percentage of these professionals specialise in food photography. Such jobs are [Q20(typically)] freelance-based and highly competitive. Some photographers join the International Association of Culinary Professionals - Food Photographer and Stylist Division in hopes of landing more jobs."
+        ],
+        "zh": [
+          "你有没有见过牛排、沙拉或一片草莓短蛋糕的照片，让你垂涎三尺？像这样的画面都是由注重细节的专业食品摄影师创作的。这些艺术家通过别出心裁的创意思考，让他们的受众在没有食物实际呈现、味道、香气和质感的情况下，也对某道菜产生渴望。食品摄影师致力于为杂志、菜单、食谱和其他类型的媒体创作并拍摄下这些美丽动人的食物图像。他们必须在使用数码相机和相关技术方面拥有极好的知识和丰富经验。",
+          "他们与食品造型师密切合作，让食物看起来尽可能美味可口和吸引人。新加坡大约雇用了1000名摄影师。这些专业人士中只有一小部分人专门从事食品摄影。这类工作通常是自由职业性质的，而且竞争异常激烈。一些摄影师加入了国际烹饪专业人士协会——食品摄影师与造型师分会，希望能获得更多的录用机会。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘clouds the water surface’ 或者是与修饰语连用。结合语境‘晨雾笼罩了麦里芝蓄水池的水面’，此处名词作动词 clouds 意为笼罩，其前面常有定冠词 the 修饰整个名词短语，或者是与整个水面有关。检查选项，由于横线处在 clouds 后面，水面 water surface 前面，特指该蓄水池的水面，应用定冠词 the。",
+          "answer": "N"
+        },
+        "30": {
+          "concept": "介词用法（表示方向或归属）",
+          "note": "‘A gateway to Singapore’s nature reserves’，gateway 后常接介词 to，表示‘通往……的门户’。",
+          "answer": "M"
+        },
+        "31": {
+          "concept": "介词用法（表示对象或目的）",
+          "note": "‘a popular spot for nature lovers...’，介词 for 引入对象，意为‘深受大自然爱好者欢迎的去处’。",
+          "answer": "G"
+        },
+        "32": {
+          "concept": "动词时态与语态（一般过去时被动语态）",
+          "note": "‘the MacRitchie Reservoir Park was opened in 1868’，句子主语是公园单数，且有明确的过去时间状语 in 1868，故使用一般过去时单数被动语态，选 was。",
+          "answer": "P"
+        },
+        "33": {
+          "concept": "情态动词（表示可能性或允许）",
+          "note": "‘Visitors can take a morning or evening stroll...’，情态动词 can 在此表示具备某种可能或条件，意为‘游客们可以在水边散步’。",
+          "answer": "E"
+        },
+        "34": {
+          "concept": "并列连词/副词（并列顺承）",
+          "note": "‘admire the beauty and serenity...’，连词 and 连接两个并列的抽象名词名词 beauty（美景）与 serenity（宁静）。",
+          "answer": "B"
+        },
+        "35": {
+          "concept": "动词时态与主谓一致（一般现在时）",
+          "note": "‘The MacRitchie Reservoir Park is also a popular venue...’，本句是在陈述一个客观事实，主语为单数名词，全篇用一般现在时，故系动词选 is。",
+          "answer": "K"
+        },
+        "36": {
+          "concept": "连词用法（时间/伴随状语从句）",
+          "note": "‘while embracing the wonders...’ 连词 while 在此引导省略主语的状语从句（分词结构伴随），意为‘同时去拥抱我们本土生物多样性的奇迹’。",
+          "answer": "Q"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "and",
+          "C": "as",
+          "D": "but",
+          "E": "can",
+          "F": "from",
+          "G": "for",
+          "H": "in",
+          "J": "into",
+          "K": "is",
+          "L": "must",
+          "M": "to",
+          "N": "the",
+          "P": "was",
+          "Q": "while"
+        },
+        "cloze": [
+          "The gentle splash of a lone kayaker scudding across the water breaks the silence. A few metres away, a family of otters dives into the water as the early morning mist clouds [Q29] water surface of the MacRitchie Reservoir.",
+          "A gateway [Q30] Singapore's nature reserves, the MacRitchie Reservoir Park is a popular spot [Q31] nature lovers and exercise enthusiasts. Surrounded by lush forest, the MacRitchie Reservoir Park [Q32] opened in 1868 and is the oldest of Singapore's seventeen reservoirs. Visitors [Q33] take a morning or evening stroll along the water's edge to admire the beauty [Q34] serenity of the reservoir.",
+          "The MacRitchie Reservoir Park [Q35] also a popular venue for cross-country events. The carefully planned routes allow participants to run through designated trails [Q36] embracing the wonders of our native biodiversity."
+        ],
+        "zh": [
+          "独行皮划艇划过水面的轻柔拍击声打破了宁静。几米开外，一个水獭家族跃入水中，此时清晨的薄雾正笼罩着麦里芝蓄水池的水面。",
+          "作为通往新加坡自然保护区的门户，麦里芝蓄水池公园是大自然爱好者和健身爱好者的热门去处。麦里芝蓄水池公园四周环绕着茂密的森林，它于1868年开放，是新加坡17个蓄水池中最古老的一个。游客们可以在水边清晨或傍晚漫步，欣赏蓄水池的美丽与宁静。",
+          "麦里芝蓄水池公园也是越野赛的热门举办地。精心规划的路线允许参赛者穿过指定的步道，同时去亲身拥抱我们本土生物多样性的奇迹。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "冠词 - Articles",
+          "note": "冠词错误：此处指“一份时间表”，应用不定冠词 a 代替定冠词 the。",
+          "answer": "a"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 consistent（形容词，意为始终如一的、连续的）。",
+          "answer": "consistent"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 accomplished（形容词/过去分词，意为完成的）。",
+          "answer": "accomplished"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 overwhelming（形容词，意为令人不知所措的）。",
+          "answer": "overwhelming"
+        },
+        "43": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：will have 后面需接动词的过去分词 completed，构成将来完成时。",
+          "answer": "completed"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 technique（名词，意为技巧、技术）。",
+          "answer": "technique"
+        },
+        "45": {
+          "concept": "动名词 - Gerunds",
+          "note": "动名词作主语：此处 lay them one at a time 是句子的主语，应使用动名词形式 laying。",
+          "answer": "laying"
+        },
+        "46": {
+          "concept": "连词 - Conjunctions",
+          "note": "连词逻辑错误：前半句为正面条件，应用 if 引导条件状语从句，而非表示否定的 unless。",
+          "answer": "if"
+        },
+        "47": {
+          "concept": "平行结构 - Parallel Structure",
+          "note": "平行结构：not only... but also... 结构中前后成分应保持一致，此处应用动词原形 develop 与前面的 help 对应。",
+          "answer": "develop"
+        },
+        "48": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 procrastination（名词，意为拖延症）。",
+          "answer": "procrastination"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "易混淆词拼写：此处表示“有效的利用”，应使用 effective，而非 affective（情感的）。",
+          "answer": "effective"
+        },
+        "50": {
+          "concept": "副词 - Adverbs",
+          "note": "词性错误：修饰动态动词 living 应用副词形式 productively，而非形容词 productive。",
+          "answer": "productively"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "One of the most practical ways of getting important tasks done is by doing them a little at a time. Create [Q39(the)] timetable by setting aside the same time each day or blocking out specific periods in your daily schedule to complete a task or a piece of work.",
+          "The key is to be [Q40(consitant)] and slowly foster a habit. Once this happens, you will get used to doing it and a part of the task will be [Q41(acompleashed)] each day. Let's use writing a book as an example. At first it will seem like an [Q42(overwelming)] task. But if you set your goal to writing one page a day, even if you take a break during the weekends, you will have [Q43(complete)] a 260-page book at the end of the year. We can also compare this [Q44(technik)] to building a brick house. The individual bricks can be small and [Q45(lay)] them",
+          "one at a time can be painfully slow. However, when those bricks are constantly placed on top of each other, a strong wall or pillar is created. Therefore, [Q46(unless)] we plan our time well, it not only helps us to get more work done but also [Q47(developing)] self-discipline. This ultimately helps us to overcome our habit of [Q48(procratinasion)].",
+          "Successful time management is the result of hard work done daily through the [Q49(affactive)] use of time. If you are achieving your daily goals, you are living [Q50(productive)]. Such daily achievements are the building blocks of a successful life."
+        ],
+        "zh": [
+          "完成重要任务最实用的方法之一就是一点一点地去执行。你可以通过每天固定抽出相同的时间，或者在日常日程中留出特定的时间段来完成一项任务或一件工作，以此来制定一份时间表。",
+          "关键在于保持始终如一，并慢慢培养出一种习惯。一旦习惯成自然，你就会习惯于去执行它，而且每天都会完成该任务的一部分。让我们以写一本书为例：刚开始时它看起来可能是一项艰巨而令人不知所措的任务。但如果你把目标设定为每天写一页，即使你在周末休息，到年底你也将会完成一本260页的书。我们也可以把这种技巧比作建造砖房。单块的砖头可能很小，而且把它们",
+          "一块接一块地砌上去可能会慢得令人痛苦。然而，当这些砖块不断地叠加在彼此之上时，一堵坚固的墙壁或柱子就建立起来了。因此，如果我们好好规划我们的时间，它不仅能帮助我们完成更多的工作，还能培养我们的自律能力。这最终会帮助我们克服拖延的习惯。",
+          "成功的的时间管理是每天通过高效利用时间并付出艰苦努力的结果。如果你正在实现你的每日目标，那么你的生活就过得很有效率。而这些日常的成就，正是一个成功人生的基石。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "固定搭配 / 连词",
+          "answer": "to / over",
+          "note": "与前文的动词搭配，‘prefer A to B’为固定搭配，意为‘相比于B，更喜欢A’。"
+        },
+        "52": {
+          "concept": "上下文语境名词",
+          "answer": "end / finish / completion",
+          "note": "结合后文大量塑料垃圾被丢弃的场景，指代在马拉松的‘终点（end）’通常会发现一片塑料垃圾汪洋。"
+        },
+        "53": {
+          "concept": "固定搭配 / 介词",
+          "answer": "by",
+          "note": "与后文的动名词连用，‘by drinking from...’表示‘通过（by）’从……中饮水的方式来保持水分。"
+        },
+        "54": {
+          "concept": "上下文语境名词",
+          "answer": "sponsors / organisers / organizers / hosts / planners",
+          "note": "根据标准答案，此处优先指代出资及筹备活动的‘赞助商/主办方（sponsors）’安排了选手分发可食用荚舱。"
+        },
+        "55": {
+          "concept": "动词 (一般过去时)",
+          "answer": "ran / moved / raced / traveled",
+          "note": "结合马拉松的跑步语境，指代选手们沿着艰难的42公里路线‘奔跑（ran）’的同时争取跑出最快时间。"
+        },
+        "56": {
+          "concept": "关系代词引导定语从句",
+          "answer": "that / which",
+          "note": "根据标准答案优先选择‘that’。引导限制性定语从句修饰先行词‘a common ingredient’，并在从句中充当宾语。"
+        },
+        "57": {
+          "concept": "动词 (一般过去时复数)",
+          "answer": "chose / decided / preferred / opted",
+          "note": "位于条件从句中，主语为复数‘runners’。结合后文‘not to swallow’，表示如果选手们‘选择（chose）’不吞下外层包装壳。"
+        },
+        "58": {
+          "concept": "代词",
+          "answer": "it / them",
+          "note": "根据标准答案优先选择单数代词‘it’。充当动词‘throw’的宾语，指代前文提到的单数中心词‘the outer covering’，将其扔在地上。"
+        },
+        "59": {
+          "concept": "名词 / 固定搭配",
+          "answer": "contrast / comparison",
+          "note": "与前后的介词构成固定短语‘In contrast’，意为‘相反地/相比之下’，引出塑料瓶需要450年才能降解的对比事实。"
+        },
+        "60": {
+          "concept": "固定搭配 / 介词",
+          "answer": "on",
+          "note": "与后文连用组成固定短语‘on a much larger scale’，意为‘在（on）更大规模上’。"
+        },
+        "61": {
+          "concept": "固定搭配 / 连词成分",
+          "answer": "such / as",
+          "note": "与后文的‘as’搭配组成‘such as’结构，用以引出后面的例子。"
+        },
+        "62": {
+          "concept": "固定搭配 / 介词 (句首大写)",
+          "answer": "Despite / Notwithstanding",
+          "note": "位于句首且首字母大写。后接名词短语‘these efforts’，‘Despite these efforts’意为‘尽管（Despite）付出了这些努力’。"
+        },
+        "63": {
+          "concept": "逻辑连接词 (原因连词)",
+          "answer": "as / because / for / since",
+          "note": "根据标准答案，此处首选填入‘as’引导原因状语从句，解释为什么说没有做到完全无塑料，‘因为（as）’沿途商店依然有卖塑料瓶装水。"
+        },
+        "64": {
+          "concept": "动词 (过去分词短语作后置定语/被动含义)",
+          "answer": "handed / sold / distributed / provided / supplied",
+          "note": "根据标准答案优先选择‘handed’。修饰前面的名词短语‘all water bottles’，构成被动语义，指代所有在马拉松期间被‘分发/发放（handed）’的塑料瓶。"
+        },
+        "65": {
+          "concept": "过去分词 (被动语态/固定搭配)",
+          "answer": "gathered / collected / picked",
+          "note": "与后面的‘up’搭配，‘gathered up’为标准答案首选，意为‘被收拾干净、被集中收集（gathered）起来’并进行回收利用。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Thousands of edible water bottles were handed out at the 2019 London Marathon in an attempt to reduce plastic waste.",
+          "Runners generally prefer plastic water bottles [Q51] paper cups of water as they are more convenient to drink from when running. Therefore, at the [Q52] of a marathon, a sea of plastic waste is usually found as thirsty runners attempt to stay hydrated [Q53] drinking from, then discarding, bottles of water as they run.",
+          "However, this time, [Q54] of the event had arranged for all runners to be handed edible pods filled with a sports drink as they [Q55] along the grueling 42-km route while trying to clock the fastest time.",
+          "These 'Ooho!' pods, designed by a London-based company, were made using a common ingredient [Q56] many may be familiar with - seaweed. The pods could be bitten to release the liquid inside and the outer covering could also be swallowed. However, if runners [Q57] not to swallow the outer covering, they could throw [Q58] on the ground. This was perfectly fine as the pods were designed to break apart within four to six weeks - a relatively short time period. In [Q59], it would take 450 years for plastic bottles to disintegrate.",
+          "\"The marathon is just a stepping stone. We are hoping that the 'Ooho!' pods can be used [Q60] a much larger scale in the future [Q61] as during music festivals,\" said Rodrigo Gonzalez, one of the company's founders.",
+          "[Q62] these efforts, the 2019 marathon was still not entirely plastic-free [Q63] water bottles were available in shops along the route.",
+          "With the goal of reducing unnecessary plastic waste, the main sponsors of the event had also guaranteed that all water bottles [Q64] during the marathon would be made partly from recycled plastic. In addition, all these plastic bottles that the runners had used would be [Q65] up and recycled.",
+          "All in all, this 'Ooho!' pod campaign had helped to reduce the use of hundreds of thousands of plastic bottles."
+        ],
+        "zh": [
+          "2019年伦敦马拉松赛上分发了数千个可食用“水瓶”，试图以此减少塑料垃圾。",
+          "跑步者通常更喜欢塑料水瓶，而不是纸杯装的水，因为在跑步时从塑料瓶里喝水更方便。因此，在马拉松结束时，通常会发现一片塑料垃圾的汪洋，因为口渴的跑者们试图通过从水瓶中饮水然后将其丢弃的方式来保持水分。",
+          "然而，这一次，活动的赞助商已经安排在所有跑者沿着艰难的42公里路线奔跑时，向他们分发装有运动饮料的可食用荚舱，以便他们争取跑出最快时间。",
+          "这些名为“Ooho!”的荚舱由一家总部位于伦敦的公司设计，是用一种许多人可能都很熟悉的常见原料——海藻制成的。咬开这些荚舱就能释放出里面的液体，外层包装壳也可以被吞下。然而，如果跑者选择不吞下外层包装壳，他们也可以把它们扔在地上。这完全没有问题，因为这些荚舱被设计在四到六周内分解——这是一个相对较短的时间周期。相比之下，塑料瓶需要450年才能降解。",
+          "“马拉松只是一个跳板。我们希望‘Ooho!’荚舱在未来可以应用在更大的规模上，比如在音乐节期间，”该公司创始人之一罗德里戈·冈萨雷斯说。",
+          "尽管付出了这些努力，2019年的马拉松依然未能完全摆脱塑料，因为沿途的商店里仍有出售瓶装水。",
+          "本着减少不必要塑料垃圾的目标，活动的主要赞助商还保证，在马拉松期间分发的所有水瓶都将部分由再生塑料制成。此外，跑者们使用过的所有这些塑料瓶都将被集中收集起来并进行回收利用。",
+          "总而言之，这次“Ooho!”荚舱活动帮助减少了数十万个塑料瓶的使用。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining, so ________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "名词化 — happiness（Nominalisation）",
+          "note": "因果：Out of + 名词短语；须保留主语 <em>I</em>。"
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Which word in the first paragraph tells us that Clara was facing difficulties? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "What was the \"answer\" (line 10) to Clara's financial problem? [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on the passage, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "The countryside was experiencing a drought.",
+                "Clara decided to start a bed and breakfast business after hearing stories about city people wanting a countryside experience.",
+                "Clara was not confident that the family would succeed in their business at first."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]",
+                "[Q73e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]",
+                "[Q73f]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "With reference to Line 15 - 23, give two reasons why John was not in favour of Clara's idea at first. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "events": [
+            "Sarah announced that she had found a huge honeydew.",
+            "Most of the children lost interest in what Sarah was saying.",
+            "Sarah was scolded by the teacher."
+          ],
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "Reason 1: [Q74a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "Reason 2: [Q74b]"
+            }
+          ]
+        },
+        "75": {
+          "stem_plain": "What did Clara mean when she said \"the ones left aren't that far behind\" (line 18 -19)? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Tick one quality that best describes Clara. [1m]\nSupport your answer with information from the passage. [1m]",
+          "marks": 2,
+          "interaction": "radio_comp",
+          "options": [
+            "hurried",
+            "worried",
+            "surprised",
+            "excited"
+          ]
+        },
+        "77": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story. [1m]",
+          "marks": 1,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "order",
+              "event"
+            ],
+            "order": {
+              "header": "Order",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]",
+                "[Q77c]"
+              ]
+            },
+            "event": {
+              "header": "Event",
+              "rows": [
+                "Clara's business improved as a result of word-of-mouth.",
+                "Clara put up an advertisement offering bed and breakfast.",
+                "Clara convinced her parents to accept paying guests at their farm house."
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Based on the passage, state the corresponding cause and effect listed in the table below. [4m]",
+          "marks": 4,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "cause",
+              "effect"
+            ],
+            "cause": {
+              "header": "Cause",
+              "rows": [
+                "People were leaving the countryside as jobs in the city paid more.",
+                "[Q78b]",
+                "The bank balance was starting to look better / The farm business started to improve.",
+                "[Q78c]"
+              ]
+            },
+            "effect": {
+              "header": "Effect",
+              "rows": [
+                "[Q78a]",
+                "The first group of guests went home happy.",
+                "Scott returned to the farm.",
+                "[Q78d]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Which two words from lines 45–55 show John’s feelings towards Scott? The two words are separate. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "When John saw that Scott had returned home: [Q79a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "When John found out that Scott had taken money from the farm account: [Q79b]"
+            }
+          ]
+        },
+        "80": {
+          "stem_plain": "Explain what Clara's mom meant when she said \"Scott can do no wrong in his eyes.\" (line 48) [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "The river was dry. Clara could not remember the last time water had flowed along",
+          "2": "it. It had not rained for a long time and the tanks were almost dry. She would have to",
+          "3": "order water in again and that cost money, something she did not have a lot of. How",
+          "4": "much longer could they hang on? Ever since her brother, Scott, decided he wanted",
+          "5": "nothing more to do with the farm and left, she had been struggling. Her parents were too",
+          "6": "old for farm work and it was difficult to hire help. People were leaving the countryside as",
+          "7": "jobs in the city paid more. Clara had no solution.",
+          "8": "The following week, Clara drove to a town to run some errands. On the way back,",
+          "9": "she saw a sign on the side of the road advertising a bed and breakfast. She knew that",
+          "10": "was the **answer**. She had read many stories about people living in the city wanting a",
+          "11": "countryside experience. Her family could offer accommodation and meals at their farm",
+          "12": "at a reasonable price. \"Maybe I can also charge an additional fee if guests are keen to",
+          "13": "experience farming activities,\" she wondered. Now all she had to do was to convince her",
+          "14": "parents.",
+          "15": "\"No,\" Dad objected. \"This is a working farm, not a farm stay for people who can't",
+          "16": "differentiate a horse from a cow.\"",
+          "17": "\"Considering we don't have any cows on the farm, that shouldn't be a problem,\"",
+          "18": "Clara said. \"I really don't think we have a choice, Dad. Half the sheep are dead and the",
+          "19": "**ones left aren't that far behind**. If we get paying guests, we can buy more feed and get",
+          "20": "more water brought in.\"",
+          "21": "\"But it won't feel like a home with strangers around the house,\" Dad said.",
+          "22": "\"Yes, it will. This will still be our house and the rooms you built will still be here,\"",
+          "23": "Clara assured him.",
+          "24": "\"If we don't do this, John, we may not be able to keep this place running for much",
+          "25": "longer,\" Anna, Clara's mum said.",
+          "26": "\"And it will only be during the weekends,\" Clara pleaded.",
+          "27": "John nodded. \"Just one condition – if the guests mess up my farm, this will have",
+          "28": "to stop immediately.\"",
+          "29": "Hence, the three of them prepared the house for guests. Clara got all the",
+          "30": "approvals and placed the first advertisement. The day the advertisement appeared, they",
+          "31": "received three reservations. Then, Clara began worrying about their decision. What if",
+          "32": "the guests were unreasonable and demanding and the food was not good enough?",
+          "33": "Clara had prepared as much as she could. She just hoped the first guests would be",
+          "34": "nice.",
+          "35": "Soon, the first group of guests from the city arrived. They had never stayed in a",
+          "36": "farm house before. All it took was for a kangaroo to hop across the paddock in front of",
+          "37": "the house to make their weekend unforgettable. The guests were captivated by the",
+          "38": "animal and went home happy.",
+          "39": "The next guests were a different story. Nothing was good enough. The scenery",
+          "40": "was not beautiful enough. They did not see enough animals. The bed was too hard. The",
+          "41": "meal portions were not enough and they had no interest in seeing how the farm worked.",
+          "42": "However in the end, they still paid their money and that was what Clara needed.",
+          "43": "By the end of the third month, the bank balance was starting to look better – not",
+          "44": "good enough that they could stop worrying but a lot better than it was. Clara's dad was",
+          "45": "more comfortable with what they were doing. The minute things started to improve,",
+          "46": "Scott returned. He wanted everything for nothing. Clara was furious but her dad was",
+          "47": "thrilled to have him home.",
+          "48": "\"You know what he's like,\" Mum said. \"Scott can do no wrong in his eyes.\"",
+          "49": "After lazing around the farm for a few months, Scott finally decided to go back to",
+          "50": "the city to work. That morning when he left, Clara was in high spirits. It was not until her",
+          "51": "bank card was rejected because of insufficient funds when buying food for their next",
+          "52": "guests that she discovered Scott's incorrigible act. She recalled that Scott had access to",
+          "53": "the farm account and her parents would never take money out without telling her. All",
+          "54": "their hard work was for nothing.",
+          "55": "\"He is not welcome in this house ever again,\" Dad said in a disheartened manner.",
+          "56": "Thankfully, their business picked up with the help of the guests they had",
+          "57": "accommodated in the first few months. Word-of-mouth brought them more business",
+          "58": "than any of their advertisements. It took them a year before they could stop worrying",
+          "59": "about the farm."
+        },
+        "paragraphs": {
+          "1": "这条河干涸了。克拉拉已经不记得上一次有水流过是什么时候了。很久没有下雨，储水箱也快干了。她必须再次订购水，而这需要花钱，可她并没有多少钱。他们还能坚持多久？自从她的哥哥斯科特决定不再和农场有任何关系并离开后，她就一直在苦苦挣扎。恢复她的父母年纪太大，无法干农活，而且很难雇到帮手。由于城市的工薪更高，人们纷纷离开农村。克拉拉束手无策。",
+          "8": "接ucionales一个星期，克拉拉开车去镇上办些杂事。在回来的路上，她看到路边有一个广告牌，上面写着提供住宿和早餐（民宿）。她知道这就是解决办法。她读过很多关于生活在城市里的人渴望体验乡村生活的故事。他们家可以以合理的价格在农场提供住宿和餐饮。“如果客人热衷于体验农活，也许我还可以收取额外的费用，”她想道。现在她唯一要做的就是说服她的父母。",
+          "15": "“不行，”父亲反对道。“这是一个正在运转的农场，不是给那些连马和牛都分不清的人准备的农场住宿。”",
+          "17": "“考虑到我们农场上根本没有牛，那应该不是问题，”克拉拉说。“爸爸，我真的觉得我们别无选择。一半的绵羊已经死了，剩下的也活不了多久。如果我们有了付费的客人，我们就可以买更多的饲料，并运进更多的水。”",
+          "21": "“但是家里有陌生人走动，就不会有家的感觉了，”父亲说。",
+          "22": "“不，会有家的感觉。这仍然是我们的房子，你盖的那些房间也依然会在这里，”克拉拉向他保证。",
+          "24": "“约翰，如果我们不这样做，我们可能无法让这个地方再维持多久了，”克拉拉的妈妈安娜说。",
+          "26": "“而且这只会是在周末，”克拉拉恳求道。",
+          "27": "约翰点了点头。“只有一个条件——如果客人把我的农场搞得一团糟，这必须立即停止。”",
+          "29": "于是，他们三个人为迎接客人准备了房子。克拉拉获得了所有的批准并投放了第一则广告。广告刊登的那天，他们收到了三份预订。然后，克拉拉开始为他们的决定感到担心。万一客人们蛮不讲理、要求苛刻，而且食物不够好怎么办？克拉拉已经尽其所能做好了准备。她只希望第一批客人能和蔼可亲。",
+          "35": "不久，第一批来自城市的客人到了。他们以前从未住过农场房屋。只要有一只袋鼠跳过房子前方的围场，就足以让他们的周末变得终生难忘。客人们被这种动物深深吸引，高兴地回家了。",
+          "39": "接下来的客人则是另外一回事了。没有什么事情能让他们满意。风景不够优美。他们没有看到足够多的动物。床太硬了。饭菜分量不够，而且他们对农场如何运转毫无兴趣。然而最终，他们还是付了钱，而这正是克拉拉所需要的。",
+          "43": "到了第三个月底，银行余额开始好看了一些——虽然还没有好到让他们可以停止担心，但比以前好多了。克拉拉的父亲对他们正在做的事情感到更舒心了。就在事情开始好转的那一刻，斯科特回来了。他想白占一切便宜。克拉拉很愤怒，但她父亲为他能回家而感到欣喜若狂。",
+          "48": "“你知道他是什​​么样的人，”妈妈说。“在约翰眼里，斯科特是不会犯错的。”",
+          "49": "在农场里无所事事地混了几个月后，斯科特终于决定回城市工作。他离开的那天早上，克拉拉情绪高涨。直到在为下一批客人购买食物时，她的银行卡因余额不足而被拒绝，她才发现了斯科特不可救药的恶行。她回想起斯科特有权使用农场账户，而她的父母在没有告诉她的情况下绝不会拿钱。他们所有的辛苦努力都白费了。",
+          "55": "“这个家再也不欢迎他了，”父亲沮丧地说道。",
+          "56": "值得庆幸的是，在最初几个月里接待的客人的帮助下，他们的生意好转了。口碑给他们带来的业务比他们的任何广告都多。他们花了一年的时间才能够不再为农场担心。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Vocabulary in context",
+          "note": "<ol><li><strong>题型：</strong>特定词汇提取题（1分）。</li><li><strong>核心依据：</strong>根据官方答案页，精准提取出对应第5行中的首字母大写规范词汇（Struggling）。</li></ol>",
+          "answer": "Struggling",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "Literal comprehension",
+          "note": "<ol><li><strong>题型：</strong>核心信息检索与归纳题（2分）。</li><li><strong>核心依据：</strong>完全严格同步官方答案页的原文表述与拼写（包括其中的 form/change 印刷及语法细节）。</li></ol>",
+          "answer": "Clara's could offer accommodation and meals at her form at a reasonable price to made a profit and change an additional fee if guests.",
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "判断正误表+依据说明",
+          "note": "<ol><li><strong>第一行 True（1分）：</strong>同步官方理由，因为长时间没有下雨，甚至连河流也干涸了。</li><li><strong>第二行 False（1分）：</strong>同步官方理由，克拉拉是在路边看到民宿广告牌后决定创办的。</li><li><strong>第三行 True（1分）：</strong>同步官方理由，说明她一开始十分担心客人会蛮不讲理以及准备的食物不够好。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "True",
+            "73b": "It had not rained for a long time and even the river was also dry.",
+            "73c": "False",
+            "73d": "Clara decided to start a bed and breakfast business after seeing a road sign advertising a bed and breakfast.",
+            "73e": "True",
+            "73f": "Clara was worried that the guests were unreasonable and demanding and the food prepared was not good enough at first."
+          }
+        },
+        "74": {
+          "concept": "提取关键论据与因果分析",
+          "note": "<ol><li><strong>第一点（1分）：</strong>同步官方答案，约翰认为那只是个干活的农场，不适合城里人。</li><li><strong>第二点（1分）：</strong>同步官方答案，他认为家里围绕着陌生人就没有家的感觉了。</li></ol>",
+          "answer": {
+            "74a": "It was a working farm not meant for city people.",
+            "74b": "It would not feel like a home with strangers around the house."
+          }
+        },
+        "75": {
+          "concept": "Contextual meaning of phrases",
+          "note": "<ol><li><strong>题型：</strong>语境含义理解题（1分）。</li><li><strong>核心依据：</strong>同步官方答案，意思指农场上那些还活着的绵羊也快要死去了。</li></ol>",
+          "answer": "Clara meant that the sheep that remained alive were about to die.",
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "Character trait analysis and evidence matching",
+          "note": "<ol><li><strong>互动结构转换：</strong>已根据要求将此题转换为 <strong>`radio_comp`</strong> 单选组合交互格式。</li></ol>",
+          "answer": [
+            "excited"
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "情节发展先后顺序梳理",
+          "note": "<ol><li><strong>排序逻辑（1分）：</strong>完全对齐官方标答指定的先后顺序：3, 2, 1。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "3",
+            "77b": "2",
+            "77c": "1"
+          }
+        },
+        "78": {
+          "concept": "文本因果逻辑网络梳理",
+          "note": "<ol><li><strong>第一行 Effect（1分）：</strong>同步官方标答，导致克拉拉很难雇到帮手。</li><li><strong>第二行 Cause（1分）：</strong>同步官方标答，第一批客人被一只袋鼠迷住了。</li><li><strong>第三行 因果判定：</strong>由于官方答案页此行留空，故沿用农场账面及生意好转触发斯科特回家的系统核心逻辑。</li><li><strong>第四行 Effect（1分）：</strong>同步官方标答，导致克拉拉无法为下一批客人购买食物，因为她的银行卡因余额不足而被拒绝。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "It was difficult for Clara to hire help.",
+            "78b": "The first group of guests were captivated by a kangaroo.",
+            "78c": "Scott stole money from the farm account.",
+            "78d": "Clara could not buy food for their next guests as her bank card was rejected due to insufficient funds."
+          }
+        },
+        "79": {
+          "concept": "角色情感心理词汇提取",
+          "note": "<ol><li><strong>第一空（1分）：</strong>完全对齐官方标答：thrilled。</li><li><strong>第二空（1分）：</strong>完全对齐官方标答：disheartened。</li></ol>",
+          "answer": {
+            "79a": "thrilled",
+            "79b": "disheartened"
+          }
+        },
+        "80": {
+          "concept": "Interpretation of character perspectives and idioms",
+          "note": "<ol><li><strong>题型：</strong>含义释义题（2分）。</li><li><strong>核心依据：</strong>完全采用并同步官方答案页的精炼表述：克拉拉的父亲认为斯科特不会做出任何错事（Clara's father believed that Scott could not do anything wrong）。</li></ol>",
+          "answer": "Clara's father believed that Scott could not do anything wrong.",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

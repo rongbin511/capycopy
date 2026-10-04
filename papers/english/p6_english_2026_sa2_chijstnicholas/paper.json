@@ -1,0 +1,1496 @@
+{
+  "paperid": "p6_english_2026_sa2_chijstnicholas",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"They've never been to the theatres in Singapore, ________?\" Aunt Mona asked.",
+          "options": {
+            "1": "did they",
+            "2": "have they",
+            "3": "didn't they",
+            "4": "haven't they"
+          }
+        },
+        "2": {
+          "stem_plain": "The detective was ________ the verge of giving up when he discovered the hidden clue in a dusty diary.",
+          "options": {
+            "1": "in",
+            "2": "by",
+            "3": "on",
+            "4": "with"
+          }
+        },
+        "3": {
+          "stem_plain": "When the old man dropped his groceries, several kind strangers helped him ________ them up from the pavement.",
+          "options": {
+            "1": "pick",
+            "2": "picks",
+            "3": "picked",
+            "4": "picking"
+          }
+        },
+        "4": {
+          "stem_plain": "Paul giggled softly when he saw his grandmother talking to ________ while watching her favourite drama on television.",
+          "options": {
+            "1": "her",
+            "2": "him",
+            "3": "herself",
+            "4": "himself"
+          }
+        },
+        "5": {
+          "stem_plain": "________ the noise from the construction work nearby, the children managed to concentrate on their lessons.",
+          "options": {
+            "1": "Owing to",
+            "2": "In spite of",
+            "3": "Contrary to",
+            "4": "As a result of"
+          }
+        },
+        "6": {
+          "stem_plain": "Even though he practised for weeks before the school concert, Marcus still had ________ confidence when he walked onto the stage to perform his solo.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "some",
+            "4": "much"
+          }
+        },
+        "7": {
+          "stem_plain": "By the time the school bell rang, all the students ________ their art projects and placed them on display.",
+          "options": {
+            "1": "finish",
+            "2": "finished",
+            "3": "had finished",
+            "4": "have finished"
+          }
+        },
+        "8": {
+          "stem_plain": "Jenna could not help ________ upon seeing her little brother trying to pull his hand out of the cookie jar.",
+          "options": {
+            "1": "laugh",
+            "2": "to laugh",
+            "3": "laughing",
+            "4": "having laughed"
+          }
+        },
+        "9": {
+          "stem_plain": "This mystery novel is by far ________ one I have read this year.",
+          "options": {
+            "1": "an exciting",
+            "2": "a very exciting",
+            "3": "the most exciting",
+            "4": "the more exciting"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Where ________ the pair of glasses that I placed on the desk this morning?\" wondered Mrs Lim.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "前半句 They've never been 中含有否定词 never，因此反义疑问句后半部分应用肯定形式。They've 是 They have 的缩写，助动词为 have，故选 have they。",
+          "concept": "反义疑问句 — Tag Questions — negative words (never)",
+          "zh": "“他们从没去过新加坡的剧院，不是吗？”莫娜阿姨问。",
+          "answer": "2"
+        },
+        "2": {
+          "note": "on the verge of 是固定搭配，意为“濒临于、在……的边缘”，后接名词或动名词，故选 on。",
+          "concept": "固定搭配与介词 — Prepositions — on the verge of",
+          "zh": "当侦探在一本日记本里发现隐藏的线索时，他正濒临放弃的边缘。",
+          "answer": "3"
+        },
+        "3": {
+          "note": "help sb. (to) do sth. 是固定用法，表示“帮助某人做某事”，后接动词原形或带 to 的不定式。选项中只有动词原形 pick 符合，故选 pick。",
+          "concept": "非谓语动词 — Bare Infinitives — help someone do something",
+          "zh": "当老人弄丢了他的杂货时，几位好心的陌生人帮他从人行道上捡了起来。",
+          "answer": "1"
+        },
+        "4": {
+          "note": "说话的动作发出者是 his grandmother（女性单数），当动作的发出者和承受者为同一个人时，宾语必须使用对应的反身代词 herself（她自己），表示“自言自语”。",
+          "concept": "反身代词 — Reflexive Pronouns — herself",
+          "zh": "保罗看到祖母在看她最喜欢的电视连续剧时自言自语，便轻声笑了起来。",
+          "answer": "3"
+        },
+        "5": {
+          "note": "前半句是“附近的施工噪音（让步）”，后半句是“孩子们还是集中注意力上课”。In spite of 意为“尽管、虽然”，表示让步关系，最符合语境。",
+          "concept": "介词短语辨析 — Prepositional Phrases — concession (in spite of)",
+          "zh": "尽管附近有施工的噪音，孩子们还是设法集中注意力上课。",
+          "answer": "2"
+        },
+        "6": {
+          "note": "confidence（信心）是不可数名词，不能用 few 修饰。根据前半句的 Even though（尽管他练习了几个星期），转折后说明他走上舞台时“几乎没有”信心，用表示否定含义的 little 最符合语境。",
+          "concept": "量词与名词修饰 — Quantifiers — little with uncountable nouns",
+          "zh": "尽管在学校音乐会前练习了几个星期，马库斯走上舞台进行独奏时仍然几乎没有信心。",
+          "answer": "2"
+        },
+        "7": {
+          "note": "By the time 引导的时间状语从句使用了一般过去时（rang），主句动作“完成项目”发生在过去之过去，因此主句需要使用过去完成时（had + 过去分词），故选 had finished。",
+          "concept": "时态综合 — Tense — past perfect tense with 'by the time'",
+          "zh": "到学校下课铃响的时候，所有的学生都已经完成了他们的艺术项目并将它们展示了出来。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "cannot help doing something 是固定句型，意为“忍不住做某事、情不自禁做某事”，后面必须接动名词形式，故选 laughing。",
+          "concept": "动名词固定句型 — Gerunds — cannot help doing something",
+          "zh": "看到小弟弟试图把手从饼干罐里拔出来，珍娜忍不住笑了起来。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "修饰语 by far（……得多、最最）通常与形容词最高级连用，用来强调程度之深。结构为 by far the + 最高级，故选 the most exciting。",
+          "concept": "最高级与修饰语 — Superlatives — by far with superlatives",
+          "zh": "这部悬疑小说绝对是我今年读过的最刺激的一本。",
+          "answer": "3"
+        },
+        "10": {
+          "note": "本句的主语是 the pair of glasses（这一双眼镜），核心主语是单数词 pair，而不是 glasses。结合后文的时间状语 this morning 可知应当使用一般过去时的单数形式 was。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — 'a pair of' singular rule",
+          "zh": "“我今天早上放在桌子上的那副眼镜在哪儿呢？”林太太纳闷道。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "A fight ________ on the football field when two students started quarrelling over the yellow card issued by the referee.",
+          "options": {
+            "1": "broke up",
+            "2": "broke off",
+            "3": "broke out",
+            "4": "broke down"
+          }
+        },
+        "12": {
+          "stem_plain": "After months of hard work, Maria became ________ playing the piano and could perform complex pieces without making mistakes.",
+          "options": {
+            "1": "certified in",
+            "2": "inspired by",
+            "3": "proficient at",
+            "4": "familiar with"
+          }
+        },
+        "13": {
+          "stem_plain": "Sarah looked ________ at the tall diving board, worried about jumping into the deep water for the first time.",
+          "options": {
+            "1": "cynically",
+            "2": "quizzically",
+            "3": "reproachfully",
+            "4": "apprehensively"
+          }
+        },
+        "14": {
+          "stem_plain": "Siti could hardly ________ her emotions upon hearing the devastating news.",
+          "options": {
+            "1": "omit",
+            "2": "reduce",
+            "3": "restrict",
+            "4": "suppress"
+          }
+        },
+        "15": {
+          "stem_plain": "The storm began to ________ as the wind grew stronger and the rain became heavier throughout the afternoon.",
+          "options": {
+            "1": "intensify",
+            "2": "advance",
+            "3": "maximise",
+            "4": "accelerate"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "当两名学生因裁判出示的黄牌开始争吵时，足球场上爆发了一场打斗。",
+          "note": "‘broke out’是短语动词，意思是（战争、打斗、火灾或疾病等）突然爆发。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "broke up",
+              "zh": "分手，解散，破碎",
+              "eg": "The crowd began to break up after the outdoor concert ended."
+            },
+            {
+              "opt": "2",
+              "word": "broke off",
+              "zh": "折断，突然停止讲话",
+              "eg": "She broke off in the middle of her sentence when she heard a knock."
+            },
+            {
+              "opt": "3",
+              "word": "broke out",
+              "zh": "突然爆发",
+              "eg": "A huge fire broke out in the old warehouse last night."
+            },
+            {
+              "opt": "4",
+              "word": "broke down",
+              "zh": "发生故障，情绪失控崩溃",
+              "eg": "The car broke down on the expressway, and we had to call a tow truck."
+            }
+          ]
+        },
+        "12": {
+          "zh": "经过几个月的努力，玛丽亚弹钢琴变得非常熟练，能够毫无错误地演奏复杂的曲目。",
+          "note": "‘proficient at’是固定搭配，意思是精通于、熟练于，侧重于高水平的技能。",
+          "concept": "Vocabulary Collocation MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "certified in",
+              "zh": "获得……的认证",
+              "eg": "He is certified in scuba diving and can swim in deep water."
+            },
+            {
+              "opt": "2",
+              "word": "inspired by",
+              "zh": "受……的启发/鼓舞",
+              "eg": "The young artist was inspired by the beautiful mountain scenery."
+            },
+            {
+              "opt": "3",
+              "word": "proficient at",
+              "zh": "熟练于，精通于",
+              "eg": "She is proficient at coding and can design computer games easily."
+            },
+            {
+              "opt": "4",
+              "word": "familiar with",
+              "zh": "对……熟悉 (指知晓，但未必是高技能水平)",
+              "eg": "I am familiar with the city map, so I can find the museum."
+            }
+          ]
+        },
+        "13": {
+          "zh": "莎拉忧心忡忡地看着高高的跳水台，担心这是她第一次跳进深水里。",
+          "note": "‘apprehensively’意思是忧虑地、担心地，与后文的“worried about jumping”完美呼应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cynically",
+              "zh": "愤世嫉俗地，冷嘲热讽地",
+              "eg": "He smiled cynically, doubting the honesty of the politician's statement."
+            },
+            {
+              "opt": "2",
+              "word": "quizzically",
+              "zh": "诧异地，古怪地 (通常形容疑惑的眼神)",
+              "eg": "The puppy tilted its head and looked quizzically at the television screen."
+            },
+            {
+              "opt": "3",
+              "word": "reproachfully",
+              "zh": "责备地，谴责地",
+              "eg": "The mother looked reproachfully at her child for tracking mud into the room."
+            },
+            {
+              "opt": "4",
+              "word": "apprehensively",
+              "zh": "忧虑地，担心地",
+              "eg": "The patient looked apprehensively at the large needle in the clinic."
+            }
+          ]
+        },
+        "14": {
+          "zh": "西蒂听到这个毁灭性的消息时，几乎无法压抑住自己的情感。",
+          "note": "‘suppress’意思是克制、压抑（感情、哭笑或愤怒）。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "omit",
+              "zh": "省略，遗漏",
+              "eg": "Please do not omit any important details when filling out the form."
+            },
+            {
+              "opt": "2",
+              "word": "reduce",
+              "zh": "减少，降低",
+              "eg": "The factory managed to reduce waste by recycling more materials."
+            },
+            {
+              "opt": "3",
+              "word": "restrict",
+              "zh": "限制，限定",
+              "eg": "The doctor told him to restrict his intake of sugary foods."
+            },
+            {
+              "opt": "4",
+              "word": "suppress",
+              "zh": "压抑，克制",
+              "eg": "She tried hard to suppress a giggle during the serious lecture."
+            }
+          ]
+        },
+        "15": {
+          "zh": "随着整个下午风力变强、雨势变大，暴风雨开始加剧。",
+          "note": "‘intensify’意思是增强、加剧，用于形容风雨、冲突等程度变大变强。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intensify",
+              "zh": "加剧，增强",
+              "eg": "The heat will intensify as we approach the desert area."
+            },
+            {
+              "opt": "2",
+              "word": "advance",
+              "zh": "前进，发展",
+              "eg": "The soldiers began to advance slowly toward the enemy lines."
+            },
+            {
+              "opt": "3",
+              "word": "maximise",
+              "zh": "最大化，充分利用",
+              "eg": "Companies always look for ways to maximise their business profits."
+            },
+            {
+              "opt": "4",
+              "word": "accelerate",
+              "zh": "加速，加快 (通常用于速度)",
+              "eg": "The car started to accelerate as it entered the highway lane."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "conscientiously",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "diligently",
+            "2": "precisely",
+            "3": "frantically",
+            "4": "haphazardly"
+          }
+        },
+        "17": {
+          "stem_plain": "formidable",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fiery",
+            "2": "tough",
+            "3": "frightening",
+            "4": "tremendous"
+          }
+        },
+        "18": {
+          "stem_plain": "resilience",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "stamina",
+            "2": "efficiency",
+            "3": "resistance",
+            "4": "persistence"
+          }
+        },
+        "19": {
+          "stem_plain": "caught sight of",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "noticed",
+            "2": "scanned",
+            "3": "guessed",
+            "4": "concluded"
+          }
+        },
+        "20": {
+          "stem_plain": "going for",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "faking",
+            "2": "planning",
+            "3": "pursuing",
+            "4": "executing"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "近义词替换 — 勤奋地/认真地",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "diligently",
+              "zh": "勤奋地；坚持不懈地",
+              "eg": "She worked diligently on her assignment until it was completed."
+            },
+            {
+              "opt": "2",
+              "word": "precisely",
+              "zh": "精确地",
+              "eg": "The meeting will begin precisely at nine o'clock tomorrow morning."
+            },
+            {
+              "opt": "3",
+              "word": "frantically",
+              "zh": "手忙脚乱地；疯狂地",
+              "eg": "He searched frantically for his missing car keys before work."
+            },
+            {
+              "opt": "4",
+              "word": "haphazardly",
+              "zh": "杂乱无章地；随意地",
+              "eg": "Books were scattered haphazardly all over the bedroom floor."
+            }
+          ]
+        },
+        "17": {
+          "note": "近义词替换 — 强大的/棘手的（防守）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fiery",
+              "zh": "火爆的；激烈的",
+              "eg": "The politician delivered a fiery speech to rally the supporters."
+            },
+            {
+              "opt": "2",
+              "word": "tough",
+              "zh": "强硬的；棘手的；坚固的",
+              "eg": "Breaking through their opponent's tough defense was very difficult."
+            },
+            {
+              "opt": "3",
+              "word": "frightening",
+              "zh": "令人恐惧的",
+              "eg": "The sudden loud thunder was a frightening experience for the child."
+            },
+            {
+              "opt": "4",
+              "word": "tremendous",
+              "zh": "巨大的；极好的",
+              "eg": "The team put a tremendous amount of effort into the tournament."
+            }
+          ]
+        },
+        "18": {
+          "note": "近义词替换 — 韧性/坚持不懈",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stamina",
+              "zh": "耐力；持久力",
+              "eg": "Marathon runners need incredible stamina to finish the race."
+            },
+            {
+              "opt": "2",
+              "word": "efficiency",
+              "zh": "效率；效能",
+              "eg": "The new machinery significantly improved the factory's production efficiency."
+            },
+            {
+              "opt": "3",
+              "word": "resistance",
+              "zh": "抵抗；阻力",
+              "eg": "The soldiers put up a strong resistance against the invaders."
+            },
+            {
+              "opt": "4",
+              "word": "persistence",
+              "zh": "坚持不懈；执着",
+              "eg": "His persistence finally paid off when he landed his dream job."
+            }
+          ]
+        },
+        "19": {
+          "note": "近义词替换 — 看到/注意到",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "noticed",
+              "zh": "注意到；看到",
+              "eg": "She noticed a small scratch on the surface of her new phone."
+            },
+            {
+              "opt": "2",
+              "word": "scanned",
+              "zh": "细看；浏览",
+              "eg": "He scanned the crowd looking for his sister's bright red hat."
+            },
+            {
+              "opt": "3",
+              "word": "guessed",
+              "zh": "猜测",
+              "eg": "She guessed the correct answer to the riddle on her first try."
+            },
+            {
+              "opt": "4",
+              "word": "concluded",
+              "zh": "断定；总结",
+              "eg": "The police concluded that the fire was caused by an electrical fault."
+            }
+          ]
+        },
+        "20": {
+          "note": "上下文语境 — 佯装/虚晃一枪",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "faking",
+              "zh": "伪装；假装",
+              "eg": "The soccer player was faking an injury to slow down the match."
+            },
+            {
+              "opt": "2",
+              "word": "planning",
+              "zh": "计划；筹划",
+              "eg": "They are planning a surprise birthday party for their grandmother."
+            },
+            {
+              "opt": "3",
+              "word": "pursuing",
+              "zh": "追求；追赶",
+              "eg": "He decided to study abroad to continue pursuing his medical career."
+            },
+            {
+              "opt": "4",
+              "word": "executing",
+              "zh": "执行；实施",
+              "eg": "The dancers did a wonderful job executing the complex routine."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The sports hall hummed with tension as the final minutes of the inter-school floorball championships ticked away. Wei Han had [Q16 (conscientiously)] practised his shots every afternoon under the scorching sun at the school's floorball court, and now all those hours of training were about to be put to the test. Facing a [Q17 (formidable)] defence from the opposing team, whose exceptional skills had helped them remain undefeated all season, he refused to back down.",
+          "Despite his aching limbs, Wei Han's [Q18 (resilience)] kept him sprinting towards the goal.",
+          "With seconds left, he [Q19 (caught sight of)] the goalkeeper leaning slightly to the left. He made a shrewd move, pretending he was [Q20 (going for)] a high shot before sliding the ball into the opposite corner. Wei Han cheered elatedly as the whistle blew and his teammates swarmed around him in jubilant celebration. It was a victory that proved determination was the key to success."
+        ],
+        "zh": [
+          "校际地板球锦标赛的最后几分钟渐渐流逝，体育馆内弥漫着紧张的气氛。伟汉每天下午都在烈日下认真地在学校地板球场上练习射门，现在这无数小时的训练即将接受检验。面对本赛季保持全胜且技术出众的对手所组成的强大防守，他拒绝退缩。",
+          "尽管四肢酸痛，伟汉的韧性仍支撑着他向球门全速冲刺。",
+          "在只剩几秒钟的时候，他注意到守门员身体微微向左倾斜。他使出了精明的一招，佯装要高球射门，然后将球滑入相反的角落。当哨声响起，队友们围着他欢呼庆祝时，伟汉兴奋地欢呼起来。这是一场证明决心是成功关键的胜利。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "The purpose of the statement \"Carry Everything in Style\" in Text 1 is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "emphasise the bag's storage capacity",
+            "2": "highlight that the bag is useful and trendy",
+            "3": "command students to care about how they look",
+            "4": "remind students about what they must bring to school"
+          }
+        },
+        "22": {
+          "stem_plain": "Ansel was quoted in Text 1 because ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "he appears to be a good student",
+            "2": "all school bag users are around his age",
+            "3": "his review was short enough to fit into the poster",
+            "4": "what he said supports the claims made in the poster"
+          }
+        },
+        "23": {
+          "stem_plain": "Based on Text 1, which of the following statements are true about the Peaks school bag?\n\nA. The bag is small and light.\nB. The bag comes in different colours.\nC. The bag has multiple compartments.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A and B",
+            "2": "A and C",
+            "3": "B and C",
+            "4": "A, B and C"
+          }
+        },
+        "24": {
+          "stem_plain": "What is the main message of Text 2?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Students should take measures to protect their backs.",
+            "2": "Students should choose school bags with padded backs.",
+            "3": "Students should fit everything into one bag for convenience.",
+            "4": "Students should use lockers and desks to store their belongings"
+          }
+        },
+        "25": {
+          "stem_plain": "Text 1 and Text 2 express differing views on whether ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "students should store certain items in school",
+            "2": "school bags should look appealing to students",
+            "3": "students should fit everything into their school bags",
+            "4": "school bags should be designed with students in mind"
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "“Carry Everything”强调了包包大容量的实用性，“in Style”强调了其时髦和具有美感的外观，将两者结合旨在突显书包既实用又时尚。因此选择选项2。",
+          "concept": "理解句意与意图",
+          "answer": "2"
+        },
+        "22": {
+          "note": "学生安塞尔（Ansel）的评价提到所有上学用品都可以舒适地装下，并且能够轻松找到、拿取，这印证了海报上方宣称的“大容量”、“专区收纳、井井有条”等特色。因此选择选项4。",
+          "concept": "分析人物评价的作用",
+          "answer": "4"
+        },
+        "23": {
+          "note": "海报明确提到“Wide range of colours to choose from”（说明B正确）以及“specific space for everything”（暗示有多个分层/隔层，C正确）；海报未提及书包“轻小”（A错误）。因此选择选项3。",
+          "concept": "信息细节比对与筛选",
+          "answer": "3"
+        },
+        "24": {
+          "note": "文本2首段点明通过合理选择和整理书包来“protect your back”（保护背部），后文同样围绕如何减少背部压力、保护脊椎健康展开，因此其主要核心信息是呼吁学生采取措施保护背部。选择选项1。",
+          "concept": "文章主旨题型",
+          "answer": "1"
+        },
+        "25": {
+          "note": "文本1（广告海报）鼓励学生“把一整天的学校用品都装进一个包里”；而文本2（信息类文本）则提出质疑并劝阻，指出“把所有东西塞进一个包里会导致重量过重而损伤背部”。两文在“学生是否应该把所有东西装进书包”上持有不同的看法。因此选择选项3。",
+          "concept": "跨文本观点对比与辨析",
+          "answer": "3"
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "主谓一致",
+          "note": "本句主语核心词是单数名词“mystery”（The mystery behind fruit ripening），表示客观规律和事实应用一般现在时，故系动词用is。",
+          "answer": "J"
+        },
+        "27": {
+          "concept": "条件状语从句连词",
+          "note": "“if left to ripen fully...” 为省略主语和系动词的条件状语从句（if they are left），意为“如果留在树上完全成熟，它们很容易碰伤”。",
+          "answer": "G"
+        },
+        "28": {
+          "concept": "现在完成时助动词与主谓一致",
+          "note": "主语是“The flesh of these fruits”（这些水果的果肉），flesh为不可数名词，结合后文的been known，此处构成现在完成时，助动词用has，置于句首需大写。",
+          "answer": "E"
+        },
+        "29": {
+          "concept": "定冠词",
+          "note": "“the ripening process” 特指前文提到过的“催熟/成熟过程”，所以加定冠词the。",
+          "answer": "L"
+        },
+        "30": {
+          "concept": "定语从句关系副词",
+          "note": "先行词是表示地点的“the parts”，在定语从句中作地点状语，指代“在这些（种子发育的）部位”，故用where引导。",
+          "answer": "P"
+        },
+        "31": {
+          "concept": "情态动词",
+          "note": "“workers can slow down...” 意为“工人们可以/能够减缓这一成熟过程”，填入情态动词can表示能力或可能性。",
+          "answer": "D"
+        },
+        "32": {
+          "concept": "介词搭配/非谓语动词伴随",
+          "note": "“by keeping the fruits cool...” 意为“通过保持水果阴凉……”，用介词by接动名词短语表示手段和方法，置于句首需大写。",
+          "answer": "C"
+        },
+        "33": {
+          "concept": "定语从句关系代词",
+          "note": "这是一个非限制性定语从句，先行词是“a few ripe bananas”，指物且在从句中作主语，故用which引导。",
+          "answer": "Q"
+        },
+        "34": {
+          "concept": "不定冠词",
+          "note": "“an unripe mango” 意为“一个未成熟的芒果”，unripe以元音音素开头，故用an形式的不定冠词修饰单数可数名词。",
+          "answer": "B"
+        },
+        "35": {
+          "concept": "介词搭配",
+          "note": "“in the hope of doing something” 为固定搭配，意为“怀着……的希望”。",
+          "answer": "K"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "by",
+          "D": "can",
+          "E": "has",
+          "F": "have",
+          "G": "if",
+          "H": "into",
+          "J": "is",
+          "K": "of",
+          "L": "the",
+          "M": "this",
+          "N": "was",
+          "P": "where",
+          "Q": "which"
+        },
+        "cloze": [
+          "Every day, we enjoy fruit without realising how many quiet changes have taken place inside them. The mystery behind fruit ripening [Q26] still not fully understood by scientists and farmers. Most fruits are picked when they are still firm and green, as they bruise easily [Q27] left to ripen fully on the tree. [Q28] been known to contain a gas called ethylene which acts as a signal to begin [Q29] ripening process. Ethylene spreads through the cells and reaches the parts [Q30] the seeds develop. As the level of ethylene rises, the fruit softens, turns sweeter and changes colour.",
+          "In storage rooms, workers [Q31] slow down the ripening process. [Q32] keeping the fruits cool and reducing the amount of ethylene in the air. Later, to speed up the ripening process, they may place unripe fruits into closed boxes with a few ripe bananas [Q33] have already released a lot of ethylene. Similarly, people sometimes put [Q34] unripe mango in a paper bag with a ripe banana because this simple trick speeds up the ripening process. Scientists are still studying the process of fruit ripening in the hope [Q35] using this knowledge to reduce food waste and to keep fruit fresh for a longer period.",
+          "The next time you watch a hard, green fruit slowly turn soft and sweet, you are witnessing this hidden ripening process at work."
+        ],
+        "zh": [
+          "每天，我们在享用美味水果的同时，却很少意识到它们内部发生了多少悄无声息的变化。水果成熟背后的奥秘，至今仍未被科学家和果农完全理解。大多数水果在依然坚硬和青绿时就被采摘了，因为如果让它们留在树上完全成熟，就会很容易碰伤。人们已经知道，这些水果的果肉中含有一种名为乙烯的气体，它就像一个信号，用来启动成熟过程。乙烯在细胞间扩散，并到达种子发育的部位。随着乙烯含量的上升，水果会变软、变甜，颜色也会发生改变。",
+          "在储藏室里，工人们可以通过保持水果冷凉和减少空气中乙烯含量的方式，来减缓其成熟过程。随后，为了加速这一成熟过程，他们可能会将未成熟的水果放进封闭的盒子里，并放入几根已经释放出大量乙烯的熟香蕉。同样，人们有时也会把一个未成熟的芒果和一根熟香蕉一起放进纸袋里，因为这个简单的小窍门可以加速成熟。科学家们目前仍在研究水果成熟的过程，希望能利用这些知识来减少食物浪费，并延长水果的保鲜期。",
+          "下一次当你看到一个坚硬、青绿的水果慢慢变得柔软而甜美时，你便正在见证这一隐藏的成熟过程在发挥作用。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“自愿、志愿做某事”的动词ing形式，应将 volentiering 纠正为 volunteering。",
+          "answer": "volunteering"
+        },
+        "37": {
+          "concept": "介词搭配",
+          "note": "固定短语搭配错误，表示“被分派做某事”通常用 be tasked with doing something，应将 by 改为 with。",
+          "answer": "with"
+        },
+        "38": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“环境的”形容词应将 enviromantle 纠正为 environmental。",
+          "answer": "environmental"
+        },
+        "39": {
+          "concept": "词形变化 (主谓一致)",
+          "note": "主语为不定代词 everyone，谓语动词应用单数形式，故应将 are 改为 is。",
+          "answer": "is"
+        },
+        "40": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“翻阅、浏览”的动词过去式，应将 skrold 纠正为 scrolled。",
+          "answer": "scrolled"
+        },
+        "41": {
+          "concept": "词形变化 (时态)",
+          "note": "此处为过去完成时 had + 过去分词结构，动词 begin 应当改为过去分词形式 begun。",
+          "answer": "begun"
+        },
+        "42": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“向四周蔓延的、无计划扩展的”形容词，应将 sprauling 纠正为 sprawling。",
+          "answer": "sprawling"
+        },
+        "43": {
+          "concept": "词义连词误用",
+          "note": "语境逻辑转折错误。此处引导让步状语从句，表示“尽管他的朋友们更有兴趣……”，原句中 Although 后加逗号且独立成句错误，应改为 However（然而）来连接两个句子表转折。",
+          "answer": "However"
+        },
+        "44": {
+          "concept": "单词拼写",
+          "note": "拼写错误，形容词“感兴趣的”应将 intherested 纠正为 interested。",
+          "answer": "interested"
+        },
+        "45": {
+          "concept": "词性转换",
+          "note": "语境逻辑错误。这里指佳伟意识到一个城市的记忆是“多么容易”在玻璃和混凝土下消失，应用副词 easily 修饰后面的动词 disappear，原划线词 what 错误，应改为 how。",
+          "answer": "how"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was Jia Wei's first day back in school. He had already regretted [Q36(volentiering)] for the student council project. He and three classmates were tasked [Q37(by)] planning an exhibition on Singapore's [Q38(enviromantle)] efforts. The principal also made it clear that everyone [Q39(are)] expected to do a good job. As Jia Wei [Q40(skrold)] through old photographs of the Singapore Harbour, he noticed one depicting a coastline that looked nothing like the present one. The caption said it was taken before land reclamation had [Q41(begin)] in the area.",
+          "He felt a sudden urge to find out what the town might lose if people only cared about [Q42(sprauling)] shopping malls and new MRT lines. [Q43(Although)], his friends were far more [Q44(intherested)] in designing beautiful posters instead of checking their facts. After a long discussion, the group still had no clear concept. Walking home, Jia Wei realised [Q45(what)] easily a city's memories could disappear beneath glass and concrete. The thought stayed with him long after he reached home."
+        ],
+        "zh": [
+          "这是佳伟回学校的第一天。他已经后悔自愿参加学生会的项目了。他和三位同学被分配去筹划一个关于新加坡环保工作的展览。校长也明确表示，希望每个人都能做好。当佳伟翻阅新加坡港的老照片时，他注意到其中一张描绘的海岸线与现在的完全不同。标题上说，这是在该地区开始填海造地之前拍摄的。",
+          "他突然有一种冲动，想弄清楚如果人们只关心散乱扩张的购物中心和新的地铁线，小镇可能会失去什么。然而，他的朋友们对设计漂亮的海报更感兴趣，而不是核对事实。经过长时间的讨论，小组仍然没有明确的概念。在回家的路上，佳伟意识到一个城市的记忆是多么容易消失在玻璃和混凝土之下。这个想法在他回到家后过了很久依然萦绕在心头。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "副词修饰语/否定搭配",
+          "note": "money was always scarce / barely enough，但后半句有 enough，且前面有 always，故填 scarce（稀缺的）或 short（短缺的）；或者使用否定副词 not，构成 not always enough（不总是充足的）。结合语境，scarce 或 not 最为常见。",
+          "answer": "not"
+        },
+        "47": {
+          "concept": "时间连词/介词结构",
+          "note": "As a teenager 意为“作为一个青少年/在青少年时期”，句首大写，也可以用 When 构成 When a teenager（省略句）。",
+          "answer": "As"
+        },
+        "48": {
+          "concept": "名词词义辨析",
+          "note": "His dream/ambition from childhood was to... 意为他自幼的“梦想/抱负”是成为一名职业音乐家。",
+          "answer": "dream"
+        },
+        "49": {
+          "concept": "名词词义辨析",
+          "note": "The first job/work/employment he had 意为他拥有的第一份“工作”，后面提到在无声电影院拉小提琴和弹钢琴。",
+          "answer": "job"
+        },
+        "50": {
+          "concept": "动词固定短语/词义辨析",
+          "note": "bring the film to life 意为用音乐让电影“生动起来/赋予电影生命”，这是英语中的经典固定搭配。",
+          "answer": "life"
+        },
+        "51": {
+          "concept": "动词短语固定搭配",
+          "note": "come up with... 为固定短语，意为“想出/创作出（一首特殊的歌）”。",
+          "answer": "up"
+        },
+        "52": {
+          "concept": "动词词义辨析/过去式",
+          "note": "He accepted/took the task readily 意为他欣然“接受/承担”了这项任务，叙述过去发生的事，用过去式。此外也可用 patterns like began/started the task，这里 accepted 或 took 最地道。",
+          "answer": "accepted"
+        },
+        "53": {
+          "concept": "动词短语与分词作状语/过去式",
+          "note": "seeking/searching for inspiration 意为“寻找”完美歌曲的灵感，此处与前句顺承，亦可填 seeking/looking（作伴随状语），若作为并列谓语则用 past tense 形式如 sought/looked。结合句意，seeking 最优。",
+          "answer": "seeking"
+        },
+        "54": {
+          "concept": "动词词义辨析与过去式",
+          "note": "He wanted/intended/designed the song to capture... 意为他“希望/打算”这首歌能捕捉到一个年轻国家的抱负，不定式复合结构，填过去式形式。",
+          "answer": "wanted"
+        },
+        "55": {
+          "concept": "名词词义辨析",
+          "note": "composed a rousing song/tune/melody 意为创作了一首充满激情的“歌曲/曲调/旋律”，与后文的 sing 呼应。",
+          "answer": "song"
+        },
+        "56": {
+          "concept": "被动语态/动词词义辨析",
+          "note": "the song was adopted/chosen/accepted by the government 意为这首歌被政府“采纳/选用”作为新加坡的国歌，使用过去分词形式。",
+          "answer": "adopted"
+        },
+        "57": {
+          "concept": "代词/反身代词",
+          "note": "striving to be a better composer than before / than he was before 意为努力成为一个比“以前的自己”更好的作曲家，填 he 最地道，构成比较状语从句的省略形式；填 ever 亦可，意为 than ever before（比以往任何时候）。",
+          "answer": "ever"
+        },
+        "58": {
+          "concept": "情态动词/动词辨析",
+          "note": "not only should sound grand but also encourage... 意为国歌不仅“应该/应当”听起来雄壮，而且应当鼓励……，后面接动词原形 sound，故填情态动词 should 或 must。",
+          "answer": "should"
+        },
+        "59": {
+          "concept": "名词固定搭配",
+          "note": "during assemblies and at national events/occasions 意为在集会和国家“盛事/重要场合”上，events 与前面的 assemblies 呼应，需用复数形式。",
+          "answer": "events"
+        },
+        "60": {
+          "concept": "名词固定搭配/表达感激",
+          "note": "show their appreciation/respect/gratitude for the sacrifices 意为对那些帮助建设新加坡的付出与梦想表示“感激/尊重”，show appreciation for 为固定搭配。",
+          "answer": "appreciation"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Zubir Said was the composer who wrote Majulah Singapura, the national anthem of Singapore. Born in 1907 in Sumatra, Zubir grew up in a poor household where money was always [Q46(not)] enough but music was always present. [Q47(As)] a teenager, he left home and sailed to Singapore. His [Q48(dream)] from childhood was to become a professional musician. The first [Q49(job)] he had was playing the violin and piano in silent movie theatres, bringing the film to [Q50(life)] with his music. The work was tiring and the pay was low, but these early experiences honed his skills and confidence as a composer.",
+          "In 1958, the City Council of Singapore invited him to come [Q51(up)] with a special song for a civic celebration. He [Q52(accepted)] the task readily. He walked along crowded streets and quiet kampungs, [Q53(seeking)] inspiration for the perfect song. He [Q54(wanted)] the song to capture the aspirations of a young nation - its courage, unity and hope. After many revisions, he composed a rousing [Q55(song)] that ordinary people could remember and sing with pride. After Singapore became independent, the song was [Q56(adopted)] by the government as the national anthem of Singapore.",
+          "Although he did not study at prestigious music schools, Zubir kept improving his musical technique, striving to be a better composer than [Q57(ever)] before. He believed that a national anthem [Q58(should)] not only sound grand but also encourage citizens to serve their country and care for one another.",
+          "Today, students sing Majulah Singapura during assemblies and at national [Q59(events)] like the Primary 5 National Education (NE) Show so that they show their [Q60(appreciation)] for the sacrifices and dreams that helped build Singapore. His creation continues to spur young people to contribute in their own ways to the nation."
+        ],
+        "zh": [
+          "朱比尔·萨伊德（Zubir Said）是新加坡国歌《前进吧，新加坡》（Majulah Singapura）的作曲家。朱比尔于1907年出生于苏门答腊，在一个贫困的家庭中长大，那里的钱财总是并不充裕，但音乐却无处不在。作为一个青少年，他离开了家，乘船前往新加坡。他自幼的梦想就是成为一名职业音乐家。他的第一份工作是在无声电影院里拉小提琴和弹钢琴，用他的音乐让电影变得栩栩如生。这份工作很累，薪水也很低，但这些早期的经历磨炼了他作为作曲家的技能和信心。",
+          "1958年，新加坡市议会邀请他为一项公民庆祝活动创作一首特殊的歌曲。他欣然接受了这项任务。他漫步在拥挤的街道和宁静的甘榜中，为这首完美的歌曲寻找灵感。他希望这首歌曲能够捕捉到一个年轻国家的抱负——它的勇气、团结与希望。经过多次修改，他谱写了一首充满激情的歌曲，让普通人都能记住并自豪地传唱。新加坡独立后，这首歌曲被政府采纳为新加坡国歌。",
+          "虽然他没有在著名的音乐学院学习过，但朱比尔不断提高自己的音乐技巧，努力成为一个比以往任何时候都更好的作曲家。他认为，一首国歌不仅应该听起来雄壮，还应该鼓励公民为国服务、互相照顾。",
+          "今天，学生们在集会和像小学五年级国民教育（NE）演出这样的国家盛事中齐唱《前进吧，新加坡》，以此来表达他们对帮助建设新加坡的付出与梦想的感激之情。他的创作继续激励着年轻人们以自己的方式为国家做出贡献。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "None of the plates in the sink is clean.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "All"
+        },
+        "62": {
+          "stem_plain": "The chef works very hard but he cannot perfect the new recipe.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "However"
+        },
+        "63": {
+          "stem_plain": "Father reminded Lisa, \"Do your homework before meeting your friends.\"",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Lisa was reminded"
+        },
+        "64": {
+          "stem_plain": "Children can benefit from regular exercise.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Exercising ... for children."
+        },
+        "65": {
+          "stem_plain": "You can place the ice cubes in the container after you break them up.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "It is only after breaking up the ice cubes"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "反义词与代词转换 — None 转换为 All 的否定表达",
+          "zh": "水槽里的所有盘子都是脏的。",
+          "note": "改写要点：原句意为“水槽里没有一个盘子是干净的”，即全是脏的。当主语改为 All of the plates in the sink（复数）时，需要将形容词 clean 替换为反义词 dirty，且谓语动词需改为复数形式 are。",
+          "answer": "All the plates in the sink are dirty."
+        },
+        "62": {
+          "concept": "让步状语从句 — However + 副词 结构引导的让步倒装",
+          "zh": "无论这位厨师多么努力工作，他都无法完善这个新配方。",
+          "note": "改写要点：将 but 连接的并列句转换为 However 引导的让步状语从句。结构为“However + 副词（hard）+ 主语（the chef）+ 动词（works）”，后半部分主句顺接，需去掉原句中的连词 but。",
+          "answer": "However hard the chef works, he cannot perfect the new recipe."
+        },
+        "63": {
+          "concept": "间接引语与被动语态 — 祈使句的转述 (reminded to do)",
+          "zh": "丽莎受到父亲的提醒，要在见朋友之前做功课。",
+          "note": "改写要点：1. 结构转换为被动语态 Lisa was reminded by her father...；2. 直接引语中的肯定祈使句转化为动词不定式 to do...；3. 对应的人称代词变化：your -> her。",
+          "answer": "Lisa was reminded by her father to do her homework before meeting her friends."
+        },
+        "64": {
+          "concept": "主谓搭配与词性转换 — 动名次作主语及动词变名词 (benefit -> beneficial)",
+          "zh": "定期锻炼对儿童是有益的。",
+          "note": "改写要点：句首给出了动名词短语 Exercising regularly（定期锻炼）作为主语，原句中的动词短语 benefit from 需转换为与其搭配的形容词短语 is beneficial for / to。",
+          "answer": "Exercising regularly is beneficial for children."
+        },
+        "65": {
+          "concept": "强调句型 — It is... that... 结构强调时间状语",
+          "zh": "只有在把冰块弄碎之后，你才能把它们放进容器里。",
+          "note": "改写要点：本句为强调句型，被强调部分是时间状语 only after breaking up the ice cubes。强调句的固定搭配要求在被强调的内容后面加上连接词 that，随后紧跟句子剩余的主谓部分（that you can place them in the container）。",
+          "answer": "It is only after breaking up the ice cubes that you can place them in the container."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "Pick out a four-word phrase from the first paragraph which tells us that Maya's grandfather cherished the lettuce garden. [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "67": {
+          "stem_plain": "Circle one word that best describes how Maya felt when she saw her grandfather's plants wilting. DO NOT CIRCLE MORE THAN ONE WORD. [1m]",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "frustrated",
+            "guilty",
+            "dismayed",
+            "anxious"
+          ]
+        },
+        "68": {
+          "stem_plain": "In paragraph 2, give two reasons why Maya's mother said it would be \"an uphill task\" when Maya asked to take care of the garden. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "69": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story. [1m]",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Maya's grandfather fell ill and was hospitalised.",
+            "Mrs Chen taught Maya how to take care of plants.",
+            "Maya decided to take care of her grandfather's plants."
+          ]
+        },
+        "70": {
+          "stem_plain": "Based on the information from lines 10-26, complete the following table. [4m]",
+          "marks": 4,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "How Maya felt when she saw the droopy lettuce leaves: [Q70a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "How Sandie responded upon hearing the problem: [Q70b]"
+            },
+            {
+              "stem_plain": "(c)",
+              "question": "What Mrs Chen taught Maya about watering plants: [Q70c]"
+            },
+            {
+              "stem_plain": "(d)",
+              "question": "How Maya responded: [Q70d]"
+            }
+          ]
+        },
+        "71": {
+          "stem_plain": "Explain clearly what Mrs Chen meant when she said that \"Rome wasn't built in a day, and neither is a beautiful garden.\" (line 22) [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "72": {
+          "stem_plain": "Look at the table below. What do the word(s) in the left column refer(s) to in the passage? Write your answers in the column on the right. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "a) it (line 26)",
+                "b) that treatment (line 30)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refer(s) to",
+              "rows": [
+                "[Q72a]",
+                "[Q72b]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Based on lines 10-31, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Maya had no experience taking care of plants before her grandfather was hospitalised.",
+                "b) Mrs Chen praised Maya for her efforts.",
+                "c) Maya solved the aphid problem with help from Sandie and Mrs Chen."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]",
+                "[Q73e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]",
+                "[Q73f]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Maya's grandfather told her that she had done \"something wonderful\" (lines 34-35). What did Maya do that was wonderful? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "75": {
+          "stem_plain": "How had Mother's opinion of Maya changed by the end of the story? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "Phrase Matching",
+          "note": "<ol><li><strong>题型：</strong>限定字数词组提取题——考查从指定段落中精准锁定符合含义的“四个单词”习语（1分）。</li><li><strong>得分点：</strong>必须是第一段中的精准短语：<span class='hl-good'>apple of his eye</span>（掌上明珠/心头肉）。</li><li><strong>失分点：</strong>多抄或漏抄单词，如写成“truly the apple of his eye”导致字数变成六个而不得分。</li></ol>",
+          "type": "comprehension",
+          "answer": "apple of his eye"
+        },
+        "67": {
+          "concept": "Vocabulary / Emotion Identification",
+          "note": "<ol><li><strong>题型：</strong>情感词汇单选题——考查通过文中描述的心理状态映射出最佳对应性格特征或情感词汇的能力（1分）。</li><li><strong>得分点：</strong>文中提到“Maya's heart sank”（心里一沉），这在选项中对应的最佳描述是 <span class='hl-good'>dismayed</span>（沮丧、灰心、失望）。</li><li><strong>失分点：</strong>错选为 anxious（焦虑通常对应后文她浇完水依然垂头丧气时感到的 deeply worried）或多选。</li></ol>",
+          "type": "comprehension",
+          "answer": "dismayed"
+        },
+        "68": {
+          "concept": "Literal Retrieval",
+          "note": "<ol><li><strong>题型：</strong>多原因提取题——精准定位在第2段中母亲给出的两条并列理由（2分）。</li><li><strong>得分点：</strong>1分归于指出<span class='hl-good'>it would be a big responsibility</span>（这是一份很大的责任）；另1分归于指出<span class='hl-good'>plants need daily attention</span>（植物需要每天照顾）。</li><li><strong>失分点：</strong>偏离第2段的对话区域，或者将理由概括不全。</li></ol>",
+          "type": "comprehension",
+          "answer": "It would be a big responsibility for Maya and plants need daily attention."
+        },
+        "69": {
+          "concept": "Sequencing / Chronological Order",
+          "note": "<ol><li><strong>题型：</strong>事件排序题——还原故事发展的先后时间线（1分）。</li><li><strong>得分点：</strong>1 对应祖父生病住院（第4行）；2 对应玛雅决定帮祖父照顾花园（第7-8行）；3 对应陈太太来指导并教她照顾植物（第20-22行）。</li><li><strong>失分点：</strong>顺序必须完全正确。此格式下的对应答案数组需要与原文事件出现的先后完美对齐。</li></ol>",
+          "type": "comprehension",
+          "answer": [
+            1,
+            3,
+            2
+          ]
+        },
+        "70": {
+          "concept": "Plot Mapping / Grid Completion",
+          "note": "<ol><li><strong>题型：</strong>情节发展信息填空题——考查通过梳理指定区域（行10-26）中的起因、反应与后续行动，完整还原情节互动链条的能力（4分）。</li><li><li><strong>(a) 玛雅看见生菜垂头丧气时的心情：</strong>精准抓取行15的描述，填入 <span class='hl-good'>deeply worried / discouraged</span>。</li><li><li><strong>(b) 桑迪听到问题后的反应：</strong>抓取行16-18，指出她<span class='hl-good'>offered without hesitation to ask her grandmother for advice and brought her to the garden within an hour</span>（毫不犹豫地提议请教祖母，并在一小时内带她赶来）。</li><li><li><strong>(c) 陈太太传授的浇水知识：</strong>定位行20-21，指出<span class='hl-good'>different plants need different amounts of water / soil for lettuce should not be too wet</span>（不同的植物需要不同的水量/生菜的土壤不能太湿）。</li><li><li><strong>(d) 玛雅的反应与做法：</strong>定位行23-24，指出她<span class='hl-good'>took the advice to heart and took special care not to overwater the lettuce</span>（牢记建议，特别注意不浇水过多）。</li><li><strong>失分点：</strong>回答流于笼统、信息提炼不全。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "70a": "deeply worried / discouraged",
+            "70b": "offered without hesitation to ask her grandmother for her opinion and arrived breathlessly with her within an hour",
+            "70c": "different plants need different amounts of water, and the soil for lettuce should not be too wet",
+            "70d": "took her advice to heart and took special care not to overwater the lettuce"
+          }
+        },
+        "71": {
+          "concept": "Idiom Interpretation",
+          "note": "<ol><li><strong>题型：</strong>熟语/谚语隐喻释义题——考查结合园艺背景深度剖析经典谚语潜台词的能力（2分）。</li><li><strong>得分点：</strong>必须清晰翻译和转化其隐喻。1分归于指出<span class='hl-good'>creating a beautiful garden takes time, patience, and continuous dedication</span>（建造美丽的植物园需要时间和耐心）；另1分归于指出<span class='hl-good'>it cannot be achieved instantly or overnight</span>（它不可能一蹴而就或在短时间内轻易完成）。</li><li><strong>失分点：</strong>仅仅按字面翻译“罗马不是一天建成的”，完全没有将其投射到“园艺/付出长久耐心与承诺”的上下文含义中。</li></ol>",
+          "type": "comprehension",
+          "answer": "She meant that creating a beautiful garden requires a great deal of time, continuous dedication, and patience, and that it is a gradual process that cannot be accomplished overnight or instantly."
+        },
+        "72": {
+          "concept": "Contextual Referencing",
+          "note": "<ol><li><strong>题型：</strong>代词/指代还原题——考查返回原文锁定前置具体事件或名词核心内容的能力（2分）。</li><li><li><strong>a) it (行 26)：</strong>指代桑迪发现并提出来的现象，即 <span class='hl-good'>the plants growing faster after they talked to them</span>（在她们对植物说话后，植物长得更快了）。</li><li><li><strong>b) that treatment (行 30)：</strong>往前看行28-29，指的是玛雅自己上网查方法并配制喷洒的过程，即 <span class='hl-good'>sprinkling the soap solution / natural remedy onto the affected leaves</span>（将肥皂水溶液/天然制剂喷洒到受害叶片上）。</li><li><strong>失分点：</strong>指代不清或范围过宽。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "The plants growing faster after they talked to them",
+            "72b": "Sprinkling the soap solution onto the affected leaves to get rid of the aphids"
+          }
+        },
+        "73": {
+          "concept": "True/False with Justification",
+          "note": "<ol><li><strong>题型：</strong>判断正误并说明理由题——考查对文本表述的真实性进行核对及提供精准依据的能力（3分）。</li><li><li><strong>a) 小题：</strong><span class='hl-good'>True</span>。理由：文章明确提及“doing it herself the first time felt like an arduous task”以及“she was not sure how much water each plant actually needed”，这表明她之前从未独立操作、毫无经验。</li><li><li><strong>b) 小题：</strong><span class='hl-good'>True</span>。理由：第20行陈太太一见面就微笑着表扬了她：“You're doing remarkably well, dear!”。</li><li><li><strong>c) 小题：</strong><span class='hl-good'>False</span>。理由：第27-29行明确提及，面对蚜虫突袭，是玛雅自己拒绝放弃，并在网上查资料（researched online）、自己配制和喷洒肥皂水，全过程是她独立解决的，没有提到桑迪和陈太太此时的协助。</li><li><strong>失分点：</strong>判断错误则该小题全分皆无；理由若混淆了前后情节或错抄不相干文本则不给分。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "True",
+            "73b": "Doing it herself for the first time felt like an arduous task and she was not sure how much water each plant needed.",
+            "73c": "True",
+            "73d": "Mrs Chen smiled at her and said, \"You're doing remarkably well, dear!\"",
+            "73e": "False",
+            "73f": "Maya researched natural remedies online and prepared and applied the soap solution by herself to eliminate the aphids."
+          }
+        },
+        "74": {
+          "concept": "Text Comprehension / Inference",
+          "note": "<ol><li><strong>题型：</strong>细节归纳总结题——考查对主人公在两周期间付出的所有成功努力进行提炼和概括的能力（2m）。</li><li><strong>得分点：</strong>需要归纳出两个核心成果。1分归于指出她<span class='hl-good'>kept the lettuce garden alive, thriving, and making it even more beautiful</span>（在祖父住院期间成功让花园变得比以往更美丽/蓬勃生长）；另1分归于指出她<span class='hl-good'>kept a detailed notebook filled with careful observations</span>（记录了一个写满仔细观察的详细笔记本）。</li><li><strong>失分点：</strong>回答过于单一，或者只照抄祖父的原话，未能写出具体的“wonderful”事情是什么。</li></ol>",
+          "type": "comprehension",
+          "answer": "Maya successfully took care of her grandfather's lettuce garden during his two-week hospital stay, transforming it from wilting to thriving so it was more beautiful than ever, and she kept a detailed notebook filled with her careful observations."
+        },
+        "75": {
+          "concept": "Character Change / Opinion Transformation",
+          "note": "<ol><li><strong>题型：</strong>态度对比转变题——考查抓取故事开头与结尾处人物态度的变化链条（2分）。</li><li><strong>得分点：</strong>必须进行清晰的前后对比。1分归于指出**起初**母亲充满担忧，认为这是一项艰巨的任务和巨大的责任（concerned, thought it would be a big responsibility / an uphill task）；另1分归于指出**结尾**时母亲被她的奉献精神和成果所打动，充满了自豪与赞许（proud, supportive, as shown when she nodded and gave her a thumbs-up）。</li><li><strong>失分点：</strong>只写了结尾母亲竖起大拇指，缺失了开头母亲不放心的态度对比，从而未能体现出“changed（改变）”。</li></ol>",
+          "type": "comprehension",
+          "answer": "At first, Mother was concerned and doubted Maya's ability, believing that managing the garden would be too big a responsibility and an \"uphill task\" for her. By the end of the story, her opinion shifted to complete pride and approval, as she smiled, nodded, and gave Maya a thumbs-up to support her becoming Grandfather's gardening partner."
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Maya had always admired her grandfather's magnificent lettuce garden, which was truly the apple",
+          "2": "of his eye. It stretched across the entire back corner of their family property. Every morning at precisely six",
+          "3": "o'clock, she watched him tend to his prized lettuce with meticulous care, treating each plant with the gentle",
+          "4": "attention of a devoted parent nurturing his child. When her grandfather fell ill and had to stay in hospital for",
+          "5": "two weeks, Maya's heart sank as she saw her dear grandfather's plants beginning to wilt under the",
+          "6": "relentless scorching sun.",
+          "7": "\"Mum, can I take care of Grandfather's garden while he's away?\" Maya asked earnestly, her voice",
+          "8": "trembling with emotion. Her mother gave her a concerned look. \"Are you sure you want to do it? This would",
+          "9": "be a big responsibility, Maya. Plants need daily attention, you know? It'll be an uphill task for you.\"",
+          "10": "The next morning, Maya woke up early and rushed eagerly to the garden with nervous excitement",
+          "11": "fluttering wildly in her stomach like trapped butterflies. Although she had watched her grandfather's",
+          "12": "practised movements countless times, doing it herself the first time felt like an arduous task. The metal",
+          "13": "watering can was heavier than expected, and she was not sure how much water each plant actually",
+          "14": "needed. After soaking the thirsty plants thoroughly, she noticed the lettuce leaves looking droopy despite",
+          "15": "her efforts, making her feel deeply worried.",
+          "16": "Feeling extremely discouraged, Maya called her best friend, Sandie, for advice. \"My grandmother",
+          "17": "grows vegetables too! Let me ask her for her opinion,\" Sandie offered without hesitation. Within an hour,",
+          "18": "Sandie arrived breathlessly with her elderly grandmother, Mrs Chen, who began to examine the struggling",
+          "19": "garden with the sharp, keen eye of an experienced gardener.",
+          "20": "\"You're doing remarkably well, dear! However, different plants need different amounts of water,\"",
+          "21": "Mrs Chen said with a smile. \"For example, the soil for lettuce should not be too wet. Gardening requires",
+          "22": "patience. Rome wasn't built in a day, and neither is a beautiful garden.\"",
+          "23": "Over the next few days, Maya took Sandie's grandmother's advice to heart, taking special care not",
+          "24": "to overwater the lettuce. Sandie often joined her, and together, they removed stubborn weeds and dead",
+          "25": "leaves, making the demanding work considerably easier and much more enjoyable. Sandie discovered",
+          "26": "that the plants grew faster after they talked to them, though Maya suspected it was just coincidence.",
+          "27": "When some destructive aphids suddenly attacked the vulnerable lettuce plants, Maya's heart raced",
+          "28": "frantically. However, she refused to give up. Instead, she researched for natural remedies online and",
+          "29": "prepared a soap solution. Then she sprinkled the treatment onto the affected leaves. She felt immensely",
+          "30": "proud watching the tiny green invaders disappear completely after that treatment. The garden slowly",
+          "31": "transformed from wilting to thriving under her dedicated care, flourishing beautifully once again.",
+          "32": "Two weeks later, Maya's grandfather returned home to find his lettuce garden more beautiful than",
+          "33": "ever, a truly wonderful sight after his hospital stay. Tears of joy streamed down his cheeks as he saw the",
+          "34": "healthy plants and Maya's detailed notebook filled with careful observations. \"You've done something",
+          "35": "wonderful here,\" he said, pointing at the garden.",
+          "36": "\"Sandie helped me a lot, and Mrs Chen taught us so much,\" Maya replied modestly, her cheeks",
+          "37": "glowing with pride. \"I never knew gardening required such dedication.\"",
+          "38": "Her grandfather smiled knowingly, his eyes sparkling with happiness. \"The best gardens grow from",
+          "39": "love and commitment, not just water and sunshine. Would you like to be my gardening partner from now",
+          "40": "on?\" Maya's face lit up with pure joy as she nodded enthusiastically. Her mother nodded and gave her a",
+          "41": "thumbs-up."
+        },
+        "paragraphs": {
+          "1": "玛雅一直都很赞赏她祖父那片生机勃勃的生菜园，这确实是他的心头肉。它延伸到他们家族房产的整个后角。每天清晨六点整，她都会看着他带着极度细致的心思照料他珍贵的生菜，对待每一株植物都像慈爱的父母抚育孩子一样充满温柔。当她的祖父生病并不得不在医院住两周时，玛雅看到亲爱的祖父的植物开始在无情烈日的暴晒下枯萎，她的心随之沉了下去。",
+          "7": "“妈妈，祖父不在的时候，我可以帮他照顾花园吗？”玛雅恳切地问道，声音因激动而微微颤抖。她的母亲投来关切的目光。“玛雅，你确定要这么做吗？这可是一份很大的责任。你要知道，植物需要每天照顾。对你来说，这将是一项艰巨的任务。”",
+          "10": "第二天早上，玛雅早早醒来，急切地奔向花园，紧张与兴奋交织在胃里，就像一双双乱飞的蝴蝶。虽然她曾无数次观看过祖父熟练的动作，幕前第一次亲自去干却觉得像是一项艰巨的苦活。金属浇水壶比预期的要沉，而且她不确定每株植物究竟需要多少水。在把干渴的植物彻底浇透后，她注意到生菜叶子尽管经过了她的努力依然显得垂头丧气，这让她感到深深的忧虑。",
+          "16": "感到极度气馁的玛雅打电话给最好的朋友桑迪寻求建议。“我的祖母也种蔬菜！让我去问问她的意见吧，”桑迪毫不犹豫地提议道。不到一个小时，桑迪就喘着粗气带着她年迈的祖母陈太太赶到了，陈太太开始用经验丰富的园丁那敏锐而犀利的目光审视起这片陷入困境的花园。",
+          "20": "“亲爱的，你做得非常出色！然而，不同的植物需要不同的水量，”陈太太微笑着说道。“例如，生菜的土壤不能太湿。园艺需要耐心。罗马不是一天建成的，美丽的的花园也不是。”",
+          "23": "在接下来的几天里，玛雅把桑迪祖母的建议牢记在心，特别注意不给生菜浇过多的水。桑迪也经常加入她的行列，她们一起拔除顽固的杂草和枯叶，使这份劳累的工作变得轻松了许多，也更加令人享受。桑迪发现，在她们和植物说话后，植物长得更快了，尽管玛雅怀疑这只是巧合。",
+          "27": "当一些具有破坏性的蚜虫突然袭击脆弱的生菜时，玛雅的心疯狂地跳动起来。然而，她拒绝放弃。相反，她在网上寻找天然的治疗方法，并配制了一种肥皂水溶液。然后，她将这种制剂喷洒在受影响的叶子上。看到那些绿色的小入侵者在治疗后完全消失，她感到无比自豪。在她的悉心照料下，花园慢慢从枯萎转为生机盎然，再次绽放出美丽的生机。",
+          "32": "两周后，玛雅的祖父回到家，发现他的生菜园比以往任何时候都更加美丽，这是他住院后看到的真正美妙的景象。当他看到健康的植物和玛雅写满仔细观察记录的详细笔记本时，幸福的泪水顺着他的脸颊流了下来。“你在这里做了一件了不起的事，”他指着花园说道。",
+          "36": "“桑迪帮了我很多忙，陈太太也教了我们很多，”玛雅谦虚地回答，脸颊因自豪而泛起红晕。“我以前从不知道园艺需要付出如此多的奉献。”",
+          "38": "她的祖父会心地笑了，眼睛里闪烁着幸福的光芒。“最好的花园源于爱和承诺，而不仅仅是水和阳光。从现在起，你愿意做我的园艺伙伴吗？”玛雅的脸因纯粹的喜悦而亮了起来，她热情地了点头。她的母亲也微笑着点了点头，并给他竖起了大拇指。"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4fc3f7"/>
+      <stop offset="100%" stop-color="#0288d1"/>
+    </linearGradient>
+    
+    <!-- Capybara Fur Gradient -->
+    <linearGradient id="furGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#df9b6d"/>
+      <stop offset="100%" stop-color="#b06d3b"/>
+    </linearGradient>
+
+    <!-- Snout Gradient -->
+    <linearGradient id="snoutGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#91532b"/>
+      <stop offset="100%" stop-color="#6d3816"/>
+    </linearGradient>
+
+    <!-- Paper Gradient -->
+    <linearGradient id="paperGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e0f7fa"/>
+    </linearGradient>
+    
+    <!-- Shadow Filter for Depth -->
+    <filter id="dropShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- Smooth Rounded Icon Container Base -->
+  <rect x="16" y="16" width="480" height="480" rx="120" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle Inner White Border Frame -->
+  <rect x="28" y="28" width="456" height="456" rx="108" fill="none" stroke="#ffffff" stroke-width="10" stroke-opacity="0.9"/>
+
+  <!-- MAIN CHARACTER GROUP -->
+  <g id="capybaraCharacter" filter="url(#dropShadow)">
+    
+    <!-- Left Ear -->
+    <path d="M 185,155 C 170,155 160,170 165,185 C 170,195 185,195 195,190 Z" fill="#91532b" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/>
+    
+    <!-- Right Ear -->
+    <path d="M 325,155 C 340,155 350,170 345,185 C 340,195 325,195 315,190 Z" fill="#91532b" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/>
+
+    <!-- Head and Body Combined Silhouette -->
+    <path d="M 210,165 
+             C 170,175 165,220 165,250 
+             C 165,280 150,340 170,390 
+             C 185,420 220,430 256,430 
+             C 292,430 327,420 342,390 
+             C 362,340 347,280 347,250 
+             C 347,220 342,175 302,165 
+             Z" 
+          fill="url(#furGrad)" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+
+    <!-- Happy Eyes (Closed Curves) -->
+    <path d="M 195,225 Q 205,215 215,225" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 297,225 Q 307,215 317,225" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+
+    <!-- Prominent Cute Snout -->
+    <path d="M 215,245 
+             C 215,235 235,230 256,230 
+             C 277,230 297,235 297,245 
+             C 297,275 290,305 256,305 
+             C 222,305 215,275 215,245 Z" 
+          fill="url(#snoutGrad)" stroke="#ffffff" stroke-width="5"/>
+
+    <!-- Soft Cheeks (Blush) -->
+    <ellipse cx="185" cy="255" rx="14" ry="10" fill="#ff8a80" opacity="0.7" />
+    <ellipse cx="327" cy="255" rx="14" ry="10" fill="#ff8a80" opacity="0.7" />
+
+    <!-- Cute Nose and Smile Centerpiece -->
+    <path d="M 244,245 Q 256,252 268,245" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+    <path d="M 256,250 L 256,270" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 242,275 Q 256,285 270,275" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+
+  </g>
+
+  <!-- WORK_PAGES / TEST PAPERS (Held in front) -->
+  <g id="testPapers" filter="url(#dropShadow)">
+    <!-- Back Sheet (Tilted) -->
+    <rect x="205" y="275" width="110" height="135" rx="10" transform="rotate(-6 260 340)" fill="#b2ebf2" stroke="#ffffff" stroke-width="5"/>
+    
+    <!-- Front Sheet (Straight and Featured) -->
+    <rect x="200" y="280" width="112" height="135" rx="10" fill="url(#paperGrad)" stroke="#ffffff" stroke-width="6"/>
+    
+    <!-- Top-Tier Grade "A+" -->
+    <text x="256" y="335" font-family="'Fredoka One', 'Nunito', 'Arial Round', sans-serif" font-weight="900" font-size="38" fill="#ff1744" text-anchor="middle">A+</text>
+    
+    <!-- Document Checklist Marks / Lines -->
+    <line x1="225" y1="365" x2="285" y2="365" stroke="#00bcd4" stroke-width="5" stroke-linecap="round"/>
+    <line x1="225" y1="382" x2="270" y2="382" stroke="#00bcd4" stroke-width="5" stroke-linecap="round"/>
+    
+    <!-- Little Accent Completion Checkmark -->
+    <path d="M 278,382 L 283,387 L 293,375" fill="none" stroke="#00e676" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- FRONT ARMS/PAWS CLASPING THE WORKSHEETS -->
+  <g id="paws">
+    <path d="M 175,325 C 190,325 205,335 205,350 C 205,360 190,365 175,360 Z" fill="#b06d3b" stroke="#ffffff" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M 337,325 C 322,325 307,335 307,350 C 307,360 322,365 337,360 Z" fill="#b06d3b" stroke="#ffffff" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+
+  <!-- CLEAN BRANDING TYPOGRAPHY BASE -->
+  <text x="256" y="470" font-family="'Fredoka One', 'Nunito', 'Comfortaa', 'Arial Round', sans-serif" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle" letter-spacing="2">CAPYCOPY</text>
+</svg>

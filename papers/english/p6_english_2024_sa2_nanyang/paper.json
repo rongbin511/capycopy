@@ -1,0 +1,1636 @@
+{
+  "paperid": "p6_english_2024_sa2_nanyang",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Andrew prefers to have his dinner earlier, ________ he?",
+          "options": {
+            "1": "has",
+            "2": "does",
+            "3": "hasn't",
+            "4": "doesn't"
+          }
+        },
+        "2": {
+          "stem_plain": "Neither of the girls ________ looking forward to the gruelling five-kilometre run next Sunday.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "Timothy did not have ________ cash left to pay the bills as he had impulsively spent the bulk of his salary on the expensive watch.",
+          "options": {
+            "1": "little",
+            "2": "none",
+            "3": "much",
+            "4": "several"
+          }
+        },
+        "4": {
+          "stem_plain": "If we ________ you were going to be late, we would have left the house later.",
+          "options": {
+            "1": "know",
+            "2": "known",
+            "3": "had known",
+            "4": "were knowing"
+          }
+        },
+        "5": {
+          "stem_plain": "Janice has been awarded the role model award for four years in a row. ________ , everyone is confident that she will make a good prefect this year.",
+          "options": {
+            "1": "Since",
+            "2": "Hence",
+            "3": "Despite",
+            "4": "Although"
+          }
+        },
+        "6": {
+          "stem_plain": "Winning the basketball championship ________ Sam and his team's goal next year.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "There is a shortage ________ eggs this year owing to the bird flu.",
+          "options": {
+            "1": "in",
+            "2": "of",
+            "3": "with",
+            "4": "from"
+          }
+        },
+        "8": {
+          "stem_plain": "The reporter interviewed the artist ________ sculpture won the first prize at the prestigious National Art Competition.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "9": {
+          "stem_plain": "Based on his team's poor performance this year, the soccer coach knows that he should not ________ too much for next year's match.",
+          "options": {
+            "1": "expect",
+            "2": "expects",
+            "3": "expected",
+            "4": "expecting"
+          }
+        },
+        "10": {
+          "stem_plain": "The good Samaritan rushed forward to help when he heard the injured elderly lady ________ for help.",
+          "options": {
+            "1": "calls",
+            "2": "called",
+            "3": "calling",
+            "4": "had called"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "反意疑问句 — Question tag (simple present)",
+          "zh": "Andrew 比较喜欢早一点吃晚饭，是吧？",
+          "note": "陈述句为肯定的简单现在时（<em>prefers</em>），反意疑问句要用否定的助动词 <em>doesn't</em> + 主语 <em>he</em>。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "主谓一致 — Subject–verb agreement (Neither of …)",
+          "zh": "两个女孩都不期待下周日那场艰苦的五公里跑。",
+          "note": "<em>Neither of + 复数名词</em> 在正式英语中视作单数，所以用 <em>is</em>；<em>next Sunday</em> 表示未来计划，搭配现在进行时表打算。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "量词 — Quantifier with uncountable noun (negative)",
+          "zh": "Timothy 因为冲动地把大部分薪水花在那块昂贵的手表上，几乎没剩下什么现金来付账单。",
+          "note": "<em>cash</em> 是不可数名词，否定句中用 <em>much</em> = 很多。<em>little / none / several</em> 都不能与 <em>did not have</em> 搭配。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "虚拟语气 — Third conditional (past unreal)",
+          "zh": "假如当初知道你会迟到，我们就晚一点离开家了。",
+          "note": "第三条件句（与过去事实相反）：<code>If + S + had + V3, S + would have + V3</code>。这里前后都是过去未实现的情况。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "原因连接 — Cause connector linking two complete sentences",
+          "zh": "Janice 已经连续四年被评为榜样学生奖。因此，大家都相信她今年一定能当好班长。",
+          "note": "“Hence” 在这里的意思是“因此”，表示因为 Janice 连续四年获奖，所以大家才对她有信心。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "动名词 — Gerund subject + singular verb",
+          "zh": "赢得篮球冠军是 Sam 和他队友们明年的目标。",
+          "note": "动名词短语 <em>Winning the basketball championship</em> 作主语，视为单数，谓语用 <em>is</em>；<em>next year</em> 提示现在时态。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "固定搭配 — Preposition collocation (a shortage of)",
+          "zh": "由于禽流感，今年鸡蛋出现短缺。",
+          "note": "<em>a shortage of + N</em> 是固定搭配，意思是'…的短缺'。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "关系词 — Possessive relative pronoun",
+          "zh": "记者采访了那位作品在著名的全国艺术比赛中夺得一等奖的艺术家。",
+          "note": "<em>whose</em> 引导关系从句修饰 artist，表示'他的雕塑'属于这位艺术家；<em>who/whom/which</em> 都不能用作所有格关系代词。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "情态动词 — Verb form after a modal (should not)",
+          "zh": "鉴于球队今年表现不佳，足球教练知道他不该对明年的比赛抱太大期望。",
+          "note": "情态动词 <em>should</em>（及其否定 <em>should not</em>）后接动词原形 <em>expect</em>。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "分词 — Perception verb + object + present participle (action in progress)",
+          "zh": "听到那位受伤的老太太在呼救，那位好心的撒玛利亚人立刻冲上前帮忙。",
+          "note": "感官动词 <em>hear + O + V-ing</em> 表示听到正在进行的动作；<em>called</em> 暗示动作已结束，<em>had called</em> 是过去完成时，都不合此处语境。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Human activities such as deforestation and ________ on natural habitats have driven wild animals into the urban areas.",
+          "options": {
+            "1": "insights",
+            "2": "limitation",
+            "3": "restriction",
+            "4": "encroachment"
+          }
+        },
+        "12": {
+          "stem_plain": "Not wanting to disrupt the speech by the guest of honour, Sheila left the auditorium ________ by the side door.",
+          "options": {
+            "1": "visibly",
+            "2": "obviously",
+            "3": "discreetly",
+            "4": "boisterously"
+          }
+        },
+        "13": {
+          "stem_plain": "Although Meng had a heavy lunch, he could not ________ eating another big slice of chocolate cake for dessert.",
+          "options": {
+            "1": "deny",
+            "2": "resist",
+            "3": "ignore",
+            "4": "cancel"
+          }
+        },
+        "14": {
+          "stem_plain": "I think it is a bad idea to ________ these complicated issues for discussion when everyone is so busy and tired.",
+          "options": {
+            "1": "bring up",
+            "2": "bring off",
+            "3": "bring along",
+            "4": "bring about"
+          }
+        },
+        "15": {
+          "stem_plain": "Unlike her brother who is defiant and believes that rules are meant to be broken, Yuming is a ________ girl.",
+          "options": {
+            "1": "brash",
+            "2": "carefree",
+            "3": "compliant",
+            "4": "boisterous"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "诸如砍伐森林和侵占自然栖息地等人类活动，已迫使野生动物进入城市地区。",
+          "note": "应选（4）'encroachment'：题干语境最宜表达'侵占（土地）；侵犯'。'insights'义为'深刻理解；洞察'：与题干语境或搭配要求不一致。'limitation'义为'限制；局限'：与题干语境或搭配要求不一致。'restriction'义为'限制；约束'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — encroachment（侵占（土地）；侵犯）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "insights",
+              "zh": "深刻理解；洞察",
+              "eg": "The book offers fresh <strong>insights</strong> into how memory works."
+            },
+            {
+              "opt": "2",
+              "word": "limitation",
+              "zh": "限制；局限",
+              "eg": "The main <strong>limitation</strong> of the survey was its small sample size."
+            },
+            {
+              "opt": "3",
+              "word": "restriction",
+              "zh": "限制；约束",
+              "eg": "Strict <strong>restrictions</strong> were placed on water use during the drought."
+            },
+            {
+              "opt": "4",
+              "word": "encroachment",
+              "zh": "侵占（土地）；侵犯",
+              "eg": "The villagers protested against the <strong>encroachment</strong> of the forest by illegal loggers."
+            }
+          ]
+        },
+        "12": {
+          "zh": "为了不打扰主宾的演讲，Sheila 悄悄地从侧门离开了礼堂。",
+          "note": "应选（3）'discreetly'：题干语境最宜表达'谨慎地；不引人注意地'。'visibly'义为'显眼地；明显地'：与题干语境或搭配要求不一致。'obviously'义为'明显地'：与题干语境或搭配要求不一致。'boisterously'义为'喧闹地；吵闹地'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — discreetly（谨慎地；不引人注意地）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "visibly",
+              "zh": "显眼地；明显地",
+              "eg": "She was <strong>visibly</strong> shaken after hearing the bad news."
+            },
+            {
+              "opt": "2",
+              "word": "obviously",
+              "zh": "明显地",
+              "eg": "He was <strong>obviously</strong> tired after the long flight."
+            },
+            {
+              "opt": "3",
+              "word": "discreetly",
+              "zh": "谨慎地；不引人注意地",
+              "eg": "He <strong>discreetly</strong> slipped a note across the table to her."
+            },
+            {
+              "opt": "4",
+              "word": "boisterously",
+              "zh": "喧闹地；吵闹地",
+              "eg": "The children laughed <strong>boisterously</strong> in the park."
+            }
+          ]
+        },
+        "13": {
+          "zh": "虽然孟午饭吃得很饱，但仍然忍不住又吃了一大块巧克力蛋糕作甜点。",
+          "note": "应选（2）'resist'：题干语境最宜表达'抵抗；克制（诱惑）'。'deny'义为'否认；拒绝给予'：与题干语境或搭配要求不一致。'ignore'义为'忽视；无视'：与题干语境或搭配要求不一致。'cancel'义为'取消'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — resist（抵抗；克制（诱惑））",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "deny",
+              "zh": "否认；拒绝给予",
+              "eg": "He continued to <strong>deny</strong> any involvement in the prank."
+            },
+            {
+              "opt": "2",
+              "word": "resist",
+              "zh": "抵抗；克制（诱惑）",
+              "eg": "She could not <strong>resist</strong> taking another scoop of ice cream."
+            },
+            {
+              "opt": "3",
+              "word": "ignore",
+              "zh": "忽视；无视",
+              "eg": "Don't <strong>ignore</strong> the early warning signs of fatigue."
+            },
+            {
+              "opt": "4",
+              "word": "cancel",
+              "zh": "取消",
+              "eg": "They had to <strong>cancel</strong> the picnic because of the rain."
+            }
+          ]
+        },
+        "14": {
+          "zh": "我觉得在大家都又忙又累的时候，把这些复杂问题提出来讨论是不合适的。",
+          "note": "应选（1）'bring up'：题干语境最宜表达'提出（话题）；养育（孩子）'。'bring off'义为'成功完成；办成'：与题干语境或搭配要求不一致。'bring along'义为'随身带来；一起带着'：与题干语境或搭配要求不一致。'bring about'义为'引起；导致'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — bring up（提出（话题）；养育（孩子））",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "bring up",
+              "zh": "提出（话题）；养育（孩子）",
+              "eg": "He hesitated to <strong>bring up</strong> the question of money during dinner."
+            },
+            {
+              "opt": "2",
+              "word": "bring off",
+              "zh": "成功完成；办成",
+              "eg": "Against all odds, the team <strong>brought off</strong> a stunning victory."
+            },
+            {
+              "opt": "3",
+              "word": "bring along",
+              "zh": "随身带来；一起带着",
+              "eg": "Remember to <strong>bring along</strong> your lunch and water bottle for the field trip."
+            },
+            {
+              "opt": "4",
+              "word": "bring about",
+              "zh": "引起；导致",
+              "eg": "The new policy <strong>brought about</strong> significant changes in the workplace."
+            }
+          ]
+        },
+        "15": {
+          "zh": "与她那个叛逆、认为规矩是用来打破的弟弟不同，玉明是一个守规矩的女孩。",
+          "note": "应选（3）'compliant'：题干语境最宜表达'顺从的；遵守规矩的'。'brash'义为'鲁莽的；粗鲁自信的'：与题干语境或搭配要求不一致。'carefree'义为'无忧无虑的'：与题干语境或搭配要求不一致。'boisterous'义为'吵闹的；喧腾的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — compliant（顺从的；遵守规矩的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "brash",
+              "zh": "鲁莽的；粗鲁自信的",
+              "eg": "His <strong>brash</strong> remarks at the meeting offended several colleagues."
+            },
+            {
+              "opt": "2",
+              "word": "carefree",
+              "zh": "无忧无虑的",
+              "eg": "The children spent a <strong>carefree</strong> afternoon at the beach."
+            },
+            {
+              "opt": "3",
+              "word": "compliant",
+              "zh": "顺从的；遵守规矩的",
+              "eg": "The <strong>compliant</strong> students sat quietly during the safety briefing."
+            },
+            {
+              "opt": "4",
+              "word": "boisterous",
+              "zh": "吵闹的；喧腾的",
+              "eg": "A <strong>boisterous</strong> cheer rose from the crowd when the team scored."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "infect",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "affect",
+            "2": "effect",
+            "3": "distort",
+            "4": "destroy"
+          }
+        },
+        "17": {
+          "stem_plain": "malicious",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "benign",
+            "2": "hostile",
+            "3": "harmful",
+            "4": "believable"
+          }
+        },
+        "18": {
+          "stem_plain": "inadvertently",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "hastily",
+            "2": "deliberately",
+            "3": "accidentally",
+            "4": "unfortunately"
+          }
+        },
+        "19": {
+          "stem_plain": "restrict",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "limit",
+            "2": "object",
+            "3": "impose",
+            "4": "monitor"
+          }
+        },
+        "20": {
+          "stem_plain": "verified",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fallible",
+            "2": "popular",
+            "3": "dubious",
+            "4": "established"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Malware, short for malicious software, refers to any intrusive software developed by cyber criminals. The purpose is to [Q16 (infect)] computers or devices with viruses, delete files, steal personal information or spy on a victim.",
+          "Malware is often downloaded from [Q17 (malicious)] websites, created to serve the purpose of cyber criminals with bad intentions. Children who visit these websites might [Q18 (inadvertently)] download malware while trying to install games or apps on their devices.",
+          "To protect against malware, parents can [Q19 (restrict)] their children's access to the internet. They can also ensure that their children seek their permission before downloading files from [Q20 (verified)] sources. To add an extra layer of protection, everyone should install antivirus software from official sites."
+        ],
+        "zh": [
+          "恶意软件指网络罪犯开发的任何侵入性软件，目的是感染计算机或设备病毒、删除文件、窃取个人信息或监视受害者。",
+          "恶意软件常从恶意网站下载，这些网站为网络罪犯的不轨目的而设。儿童访问这些网站时，可能在安装游戏或应用时不经意下载恶意软件。",
+          "为防范恶意软件，父母可限制孩子上网，也可确保孩子在从可信来源下载文件前先征得同意。为增加一层保护，每个人都应从官方网站安装杀毒软件。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — infect（影响）",
+          "zh": "目的是感染计算机或设备病毒、删除文件、窃取个人信息或监视受害者。",
+          "note": "应选（1）'affect'：短文划线的 <em>infect</em> 在此语境下与此义最接近。'effect'：义为'效果'，与短文语境或搭配要求不一致。'distort'：与英语解析中的辨析不一致。'destroy'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "affect",
+              "zh": "影响（动词，指某人或某物对另一个事物产生改变、作用或带来某种结果）",
+              "eg": "The heavy traffic congestion during the rush hour will severely affect our arrival time at the school."
+            },
+            {
+              "opt": "2",
+              "word": "effect",
+              "zh": "影响，结果（名词，指由于某种原因或行为所产生的改变、后果或深刻印象）",
+              "eg": "The teacher explained the negative effect of excessive screen time on a child's eyes and concentration."
+            },
+            {
+              "opt": "3",
+              "word": "distort",
+              "zh": "歪曲，扭曲（动词，指改变声音、图像的原本形状，或故意曲解事实、真相）",
+              "eg": "The dishonest witness tried to distort the truth of the accident to protect his friend from the police."
+            },
+            {
+              "opt": "4",
+              "word": "destroy",
+              "zh": "破坏，毁灭（动词，指对某物造成极其严重的损坏，使其彻底失去作用或不复存在）",
+              "eg": "The fierce forest fire managed to completely destroy several wooden houses near the foot of the hill."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — malicious（有害）",
+          "zh": "恶意软件常从恶意网站下载，这些网站为网络罪犯的不轨目的而设。",
+          "note": "应选（3）'harmful'：短文划线的 <em>malicious</em> 在此语境下与此义最接近。'benign'：与英语解析中的辨析不一致。'hostile'：义为'敌对的；有敌意的'，与短文语境或搭配要求不一致。'believable'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "benign",
+              "zh": "良性的，无害的；和蔼的（指疾病是不致命的，或者人/环境是温和友善的）",
+              "eg": "The medical report confirmed that the tumor was benign, relieving the patient and her family."
+            },
+            {
+              "opt": "2",
+              "word": "hostile",
+              "zh": "敌对的，不友好的（指人表现出强烈的反感，或者环境极其恶劣、不适宜生存）",
+              "eg": "The two rival gangs gave each other hostile stares across the basketball court before the match started."
+            },
+            {
+              "opt": "3",
+              "word": "harmful",
+              "zh": "有害的，致伤的（指某种物质、行为或环境会对健康、社会或自然造成破坏和损伤）",
+              "eg": "The teacher warned the young pupils that eating too much sugar can have harmful effects on their teeth."
+            },
+            {
+              "opt": "4",
+              "word": "believable",
+              "zh": "可信的，真实的（指某种解释、借口、故事或表现因为合理而让人愿意相信）",
+              "eg": "Although his excuse for the late homework sounded strange, the teacher found it believable because of his honesty."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — inadvertently（偶然地）",
+          "zh": "儿童访问这些网站时，可能在安装游戏或应用时不经意下载恶意软件。",
+          "note": "应选（3）'accidentally'：短文划线的 <em>inadvertently</em> 在此语境下与此义最接近。'hastily'：义为'匆忙地；草率地'，与短文语境或搭配要求不一致。'deliberately'：义为'故意地；有意地'，与短文语境或搭配要求不一致。'unfortunately'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hastily",
+              "zh": "匆忙地；草率地",
+              "eg": "She <strong>hastily</strong> packed her bag because the bus was already at the stop."
+            },
+            {
+              "opt": "2",
+              "word": "deliberately",
+              "zh": "故意地；有意地",
+              "eg": "He <strong>deliberately</strong> left the back door open so the cat could come back in."
+            },
+            {
+              "opt": "3",
+              "word": "accidentally",
+              "zh": "偶然地",
+              "eg": "She answered <strong>accidentally</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "unfortunately",
+              "zh": "不幸地",
+              "eg": "She answered <strong>unfortunately</strong> before the bell rang."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — restrict（限制）",
+          "zh": "为防范恶意软件，父母可限制孩子上网。",
+          "note": "应选（1）'limit'：短文划线的 <em>restrict</em> 在此语境下与此义最接近。'object'：与英语解析中的辨析不一致。'impose'：与英语解析中的辨析不一致。'monitor'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "limit",
+              "zh": "限制",
+              "eg": "In class we discussed how <strong>limit</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "object",
+              "zh": "目的",
+              "eg": "In class we discussed how <strong>object</strong> fits everyday English."
+            },
+            {
+              "opt": "3",
+              "word": "impose",
+              "zh": "强加",
+              "eg": "Her essay used <strong>impose</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "4",
+              "word": "monitor",
+              "zh": "监视器",
+              "eg": "The pupils found the word <strong>monitor</strong> useful in their composition."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — verified（建立）",
+          "zh": "他们也可确保孩子在从经核实的来源下载文件前先征得同意。",
+          "note": "应选（4）'established'：短文划线的 <em>verified</em> 在此语境下与此义最接近。'fallible'：与英语解析中的辨析不一致。'popular'：与英语解析中的辨析不一致。'dubious'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fallible",
+              "zh": "易犯错误的",
+              "eg": "In class we discussed how <strong>fallible</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "popular",
+              "zh": "受欢迎的",
+              "eg": "In class we discussed how <strong>popular</strong> fits everyday English."
+            },
+            {
+              "opt": "3",
+              "word": "dubious",
+              "zh": "杜比乌",
+              "eg": "In class we discussed how <strong>dubious</strong> fits everyday English."
+            },
+            {
+              "opt": "4",
+              "word": "established",
+              "zh": "建立",
+              "eg": "The coach <strong>established</strong> the players after the match."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Why is an exclamation mark used in the heading, \"Explore our playground of discoveries!\"?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to create excitement and attract people to visit",
+            "2": "to highlight the Singapore Aquarium's 25th anniversary",
+            "3": "to draw attention to the importance of caring for marine life",
+            "4": "to state the urgency of participating in the new programmes"
+          }
+        },
+        "22": {
+          "stem_plain": "Which of the following statements about the Singapore Aquarium is true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "All the activities are suitable for all ages.",
+            "2": "All the marine animals in the world are housed there.",
+            "3": "All entrance fees collected are used for marine conservation.",
+            "4": "All participants of Glamping with Manatees get to sleep over at the aquarium."
+          }
+        },
+        "23": {
+          "stem_plain": "Mrs Ng is keen to sign her daughter, Kim, up for the Junior Marine Explorer Workshop. What can Kim expect from the workshop?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "bring home a matching game set",
+            "2": "win a Junior Marine Explorer membership",
+            "3": "see marine creatures in their natural habitats",
+            "4": "attend a talk on caring for a marine creature as a pet"
+          }
+        },
+        "24": {
+          "stem_plain": "Mr Lee and his twelve-year-old son are both swimmers. Which two activities can they participate in together?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Dolphin Paradise and Munch Time",
+            "2": "Marine Lagoon and Trash to Treasure Workshop",
+            "3": "Junior Marine Explorer Workshop and Munch Time",
+            "4": "Glamping with Manatees and Trash to Treasure Workshop"
+          }
+        },
+        "25": {
+          "stem_plain": "Which of the following is the most likely reason for Clara's testimonial to be included under the Junior Marine Explorer Workshop section?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to educate children on marine conservation",
+            "2": "to highlight how beautiful all animals are",
+            "3": "to inform visitors the work of a marine biologist",
+            "4": "to share the unique learning experience with readers"
+          }
+        },
+        "26": {
+          "stem_plain": "Based on Samuel's testimonial, he enjoyed the Dolphin Paradise experience because he ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "had the rare opportunity to interact with dolphins",
+            "2": "was thrilled that he had the chance to stay in Dolphin Paradise",
+            "3": "formed a closer bond swimming with his family and the aquarium animals",
+            "4": "developed a better understanding of the dolphin's anatomy by studying them"
+          }
+        },
+        "27": {
+          "stem_plain": "Mr Tan is taking his father, wife and their three children of ages five to seven years old to the Singapore Aquarium. What should he do to enjoy the 25% anniversary ticket discount?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "He should purchase a family package.",
+            "2": "He should call the marketing department to book his tickets.",
+            "3": "He should buy the tickets in person before 31 December 2024.",
+            "4": "He should purchase the tickets online during the promotion period."
+          }
+        },
+        "28": {
+          "stem_plain": "What's the main aim of this brochure?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to promote the Singapore Aquarium",
+            "2": "to showcase the diversity of marine animals",
+            "3": "to encourage families to sign up for the activities",
+            "4": "to convince visitors about the importance of marine life conservation"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Function of punctuation (exclamation mark)（题型考点）",
+          "breakdown": {
+            "zh": "感叹号被用来制造兴奋感，吸引游客前来参观。",
+            "note": "感叹号在标题中通常用于增强情绪、传达兴奋；与'Discover…wonders'一起增强宣传气氛。"
+          },
+          "note": "An exclamation mark amplifies emotion. The heading <em>Explore our playground of discoveries!</em> uses lively, friendly language to invite visitors → its purpose is to <span class=\"hl-good\">create excitement and attract people to visit</span>. (2) the anniversary is mentioned only in the body, not signalled by the punctuation; (3) marine conservation is one sub-message; (4) the heading is enthusiastic, not urgent.",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "题型 — Locate true detail（题型考点）",
+          "breakdown": {
+            "zh": "所有参加'Glamping with Manatees'项目的人，都可以在水族馆里过夜。",
+            "note": "原文写明该项目是'two-day-one-night adventure … sleep in the comfort of your own air-conditioned tents'。其他选项与原文不符。"
+          },
+          "note": "The Glamping description says: <em>a magical two-day-one-night adventure … sleep in the comfort of your own air-conditioned tents</em>. So all participants do sleep over at the aquarium → (4) is true. (1) FALSE — many activities have age limits (e.g. Trash to Treasure 4–8, JMEW 10–14, Marine Lagoon 10+); (2) FALSE — only 100,000 marine animals across 88 habitats, not all in the world; (3) FALSE — only Munch Time proceeds fund conservation, not all entrance fees.",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "题型 — Locate true expectation（题型考点）",
+          "breakdown": {
+            "zh": "Kim 可以期待在海洋生物的自然栖息地观察它们。",
+            "note": "对应文中'Spot, discover and appreciate nature and marine life in their natural habitats at the nearby Sunrise Beach'。"
+          },
+          "note": "The Programme Outline lists: <em>Spot, discover and appreciate nature and marine life in their natural habitats at the nearby Sunrise Beach</em> — exactly (3). (1) the matching game is INTERACTIVE on site, not a take-home set; (2) participants earn a CERTIFICATE and BADGE, not a membership; (4) there is a talk on conservation, not on caring for marine creatures as PETS.",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "题型 — Apply rules — age + ability for father (adult, swimmer) and 12-year-old son (swimmer)（题型考点）",
+          "breakdown": {
+            "zh": "李先生和他 12 岁的儿子可以一起参加 Dolphin Paradise 和 Munch Time。",
+            "note": "Dolphin Paradise 要求会游泳（两人都符合），无年龄上限；Munch Time 适合所有年龄。其他选项要么有年龄不符（Trash to Treasure 仅 4–8 岁），要么排斥成人（JMEW 仅 10–14 岁）。"
+          },
+          "note": "<strong>Dolphin Paradise</strong> requires both child and adult to swim ✓; no upper age limit. <strong>Munch Time</strong> is suitable for all ages ✓. So (1) works. (2) Trash to Treasure is for ages 4–8 only — excludes the 12-year-old. (3) JMEW is for ages 10–14 — excludes Mr Lee (an adult). (4) Trash to Treasure again excludes the 12-year-old.",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "目的 — Author's purpose — function of a testimonial（目的考点）",
+          "breakdown": {
+            "zh": "Clara 的体验文章被放在该项目下方，是为了和读者分享这种独特的学习体验。",
+            "note": "证言（testimonial）的功能是让读者透过亲历者的视角感受体验，从而吸引报名。"
+          },
+          "note": "Clara's testimonial describes what she personally enjoyed and learnt at the workshop — direct testimony of the experience. The aquarium includes it to <span class=\"hl-good\">share that learning experience with readers</span> (so they imagine themselves in her place). (1) is too narrow (conservation is one part); (2) the testimonial is about marine life, not 'all animals'; (3) the marine biologist is mentioned but isn't the focus.",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "推理 — Reason for enjoyment — direct quote（推理考点）",
+          "breakdown": {
+            "zh": "Samuel 之所以喜欢 Dolphin Paradise 这次体验，是因为他难得有机会近距离与海豚互动。",
+            "note": "原文：'a once-in-a-lifetime experience to swim and interact with these amazing creatures'直接说明这是一次罕见的互动机会。"
+          },
+          "note": "Samuel says: <em>It was a <strong>once-in-a-lifetime</strong> experience to swim and <strong>interact</strong> with these amazing creatures!</em> → (1) restates this exactly. (2) Dolphin Paradise is a snorkelling activity, not a stay; (3) family bonding is implied but not the reason he singles out; (4) anatomy is part of the talk, but not what made HIM enjoy the experience.",
+          "answer": "1"
+        },
+        "27": {
+          "concept": "题型 — Apply the discount rule（题型考点）",
+          "breakdown": {
+            "zh": "陈先生应该在促销期间通过官网购票，才能享受 25% 的折扣。",
+            "note": "促销说明：'To enjoy 25% off … purchase your tickets online at www.singmarine.tics.com by 31 December 2024'。家庭套票本身是常规价，没有折扣。"
+          },
+          "note": "Promotion: <em>To enjoy 25% off … purchase your tickets online at www.singmarine.tics.com by 31 December 2024.</em> → (4) directly matches. (1) the family package is the regular family rate, not the 25% promo; (2) the call line is for GROUP TICKET queries, not booking the promo; (3) the promo is online, not in-person.",
+          "answer": "4"
+        },
+        "28": {
+          "concept": "目的 — Author's overall purpose（目的考点）",
+          "breakdown": {
+            "zh": "这份宣传册的主要目的是推广新加坡水族馆。",
+            "note": "整份宣传册围绕'来水族馆游玩'展开：节目介绍、嘉宾证言、票价折扣等都是手段，最终目的是宣传水族馆本身。"
+          },
+          "note": "The brochure highlights the aquarium's anniversary, programmes, testimonials and promo — all to encourage visits to <span class=\"hl-good\">the Singapore Aquarium</span>. (3) signing up for activities is one means, but the umbrella aim is the aquarium itself; (2) showcasing diversity is a sub-point in paragraph 1; (4) marine conservation is mentioned in passing (Munch Time).",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "D": "but",
+          "G": "from",
+          "K": "on",
+          "N": "the",
+          "B": "and",
+          "E": "each",
+          "H": "into",
+          "L": "or",
+          "P": "through",
+          "C": "between",
+          "F": "for",
+          "J": "of",
+          "M": "since",
+          "Q": "while"
+        },
+        "cloze": [
+          "Yip Yew Chong is a renowned Singaporean artist who brings our streets to life with his vibrant murals. [Q29] of his murals narrates tales of Singapore's rich cultural heritage and history. With his meticulous strokes [Q30] keen eye for detail, Yip transforms ordinary walls [Q31] captivating storytelling canvases.",
+          "Yip's murals not only adorn the streets but also serve as his interpretations [Q32] Singapore's past, present and future. [Q33] depicting scenes of traditional trades like street hawkers and laundry ladies to showcasing iconic landmarks and everyday life, Yip's art encapsulates [Q34] essence of Singaporean identity.",
+          "Beyond mere aesthetics, Yip's murals evoke [Q35] sense of nostalgia and belonging among locals [Q36] fascinating and delighting visitors from around the world. His dedication to preserving and sharing Singapore's cultural legacy [Q37] art has earned him widespread acclaim and admiration.",
+          "Yip's murals serve as more than just visual treats, fostering a deeper connection [Q38] people and their surroundings. Next time you spot one of his artworks, take a moment to appreciate the talent and passion of Yip Yew Chong!"
+        ],
+        "zh": [
+          "叶耀宗是新加坡一位著名的艺术家，他用色彩鲜艳的壁画让街道焕发生气。他的每一幅壁画都讲述着新加坡丰富的文化遗产与历史故事。凭借细腻的笔触与敏锐的细节观察力，叶耀宗把寻常的墙壁变成了引人入胜的故事画卷。",
+          "他的壁画不仅装点了街道，也是他对新加坡过去、现在与未来的诠释。无论是描绘街头小贩、洗衣妇等传统行业的场景，还是展现地标建筑与日常生活，叶耀宗的作品都凝聚着新加坡人的身份精髓。",
+          "他的壁画不止是审美装饰，更能在当地人心中唤起怀旧与归属感，同时也让来自世界各地的游客深深着迷。他通过艺术保存与传承新加坡文化遗产的执着，为他赢得了广泛的赞誉与敬仰。",
+          "叶耀宗的壁画远不只是视觉享受，它们让人与周遭环境之间建立起更深的联系。下次你看到他的作品时，不妨停下来，细细品味叶耀宗的才华与热忱！"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "限定词 + singular noun)",
+          "note": "each of his murals narrates tales = 结合句意选 each。",
+          "answer": "E — each"
+        },
+        "30": {
+          "concept": "连词 — and",
+          "note": "With his meticulous strokes and keen eye for detail, Yip = 句间逻辑 → and。",
+          "answer": "B — and"
+        },
+        "31": {
+          "concept": "介词 — into",
+          "note": "看前后搭配，选 into。",
+          "answer": "H — into"
+        },
+        "32": {
+          "concept": "介词 — of",
+          "note": "also serve as his interpretations of Singapore's past, present and future. = 看前后搭配，选 of。",
+          "answer": "J — of"
+        },
+        "33": {
+          "concept": "介词 — from",
+          "note": "from depicting scenes of traditional trades = 看前后搭配，选 from。",
+          "answer": "G — from"
+        },
+        "34": {
+          "concept": "冠词 + abstract noun",
+          "note": "冠词/限定词 the。",
+          "answer": "N — the"
+        },
+        "35": {
+          "concept": "冠词 + countable noun",
+          "note": "mere aesthetics, Yip's murals evoke a sense of nostalgia and belonging = 冠词/限定词 a。",
+          "answer": "A — a"
+        },
+        "36": {
+          "concept": "让步 — while",
+          "note": "结合句意选 while。",
+          "answer": "Q — while"
+        },
+        "37": {
+          "concept": "介词 — through",
+          "note": "and sharing Singapore's cultural legacy through art has earned him widespread = 看前后搭配，选 through。",
+          "answer": "P — through"
+        },
+        "38": {
+          "concept": "介词 — between",
+          "note": "treats, fostering a deeper connection between people and their surroundings. = 看前后搭配，选 between。",
+          "answer": "C — between"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Kopi luwak, or Civet coffee, is considered an exotic and expensive drink. A unique and [Q39(intreging)] beverage, it is brewed from coffee beans extracted from the faeces of the Asian palm civet, a small animal native [Q40(of)] Southeast Asia.",
+          "The civets selectively eat ripe coffee cherries, digesting the fruity pulp while leaving the coffee beans intact. These then [Q41(passes)] through the civet's digestive system [Q42(where)] supposedly enhances their flavour by reducing bitterness and acidity while imparting a unique [Q43(aeromatik)] scent.",
+          "After being excreted, the beans are collected, [Q44(thourou)] washed, and then roasted to perfection. Despite its [Q45(unnushual)] production method, kopi luwak enthusiasts love its flavour. It is [Q46(notisabli)] not bitter and has a complex flavour that is smooth, earthy and sweet with [Q47(the)] hint of chocolate. Due to the [Q48(popular)] of kopi luwak, several plantation farms raise palm civets, sometimes in [Q49(unfaverabel)] conditions. As such, controversy surrounds the production of kopi luwak, with some producers [Q50(confines)] civets in cramped cages. Despite this unethical practice, kopi luwak remains a popular beverage."
+        ],
+        "zh": [
+          "猫屎咖啡（又称麝香猫咖啡）被认为是一种珍稀昂贵的饮品。这种独特而引人入胜的饮料，是用从亚洲棕榈麝香的粪便中提取的咖啡豆冲泡而成，这种小动物原产于东南亚。",
+          "麝香猫会挑选成熟的咖啡樱桃食用，消化果肉而留下完整的咖啡豆。这些豆子随后通过麝香猫的消化系统，据说能增强风味、减少苦涩和酸度，并赋予独特的芳香气息。",
+          "排出后，豆子被收集、彻底清洗，再烘焙至完美。尽管生产方式不同寻常，猫屎咖啡爱好者仍钟爱其风味。它明显不苦，口感顺滑、醇厚、甘甜，略带巧克力余韵。由于猫屎咖啡大受欢迎，多个种植园饲养棕榈麝香，有时条件恶劣。因此，其生产引发争议，一些生产商将麝香猫关在狭小的笼中。尽管这种做法不道德，猫屎咖啡仍是热门饮品。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">intreging</span> is misspelt. The correct spelling is <span class=\"hl-good\">intriguing</span> — extremely interesting, arousing curiosity.",
+          "answer": "intriguing"
+        },
+        "40": {
+          "concept": "Preposition collocation (native to)",
+          "note": "Fixed collocation: <em>native <span class=\"hl-good\">to</span> + place</em> = originally from / belonging to a place. <span class=\"hl-bad\">of</span> is the wrong preposition here — we say <em>a small animal native to Southeast Asia</em>.",
+          "answer": "to"
+        },
+        "41": {
+          "concept": "Subject–verb agreement (plural subject)",
+          "note": "Subject = <em>These</em> (= the coffee beans, plural). Plural subject + present tense → bare verb. <span class=\"hl-bad\">passes</span> (3rd-person singular) → <span class=\"hl-good\">pass</span>.",
+          "answer": "pass"
+        },
+        "42": {
+          "concept": "Relative pronoun (referring to a thing)",
+          "note": "<em>… the civet's digestive system, <span class=\"hl-good\">which</span> supposedly enhances their flavour …</em> — the relative pronoun refers back to the digestive system (a thing). <span class=\"hl-bad\">where</span> would refer to a place / action site, but here we need the agent that enhances flavour. <em>that</em> is also acceptable.",
+          "answer": "which"
+        },
+        "43": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">aeromatik</span> is misspelt. The correct spelling is <span class=\"hl-good\">aromatic</span> — having a pleasant, distinctive smell.",
+          "answer": "aromatic"
+        },
+        "44": {
+          "concept": "Adverb form + spelling",
+          "note": "<span class=\"hl-bad\">thourou</span> is both misspelt and the wrong word form. The correct adverb is <span class=\"hl-good\">thoroughly</span> — completely, in a careful and detailed way; modifies the participle <em>washed</em>.",
+          "answer": "thoroughly"
+        },
+        "45": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">unnushual</span> is misspelt. The correct spelling is <span class=\"hl-good\">unusual</span> — not common, out of the ordinary.",
+          "answer": "unusual"
+        },
+        "46": {
+          "concept": "Spelling + adverb form",
+          "note": "<span class=\"hl-bad\">notisabli</span> is misspelt. The correct adverb is <span class=\"hl-good\">noticeably</span> — to a noticeable degree; modifies the adjective <em>not bitter</em>.",
+          "answer": "noticeably"
+        },
+        "47": {
+          "concept": "Indefinite article",
+          "note": "<span class=\"hl-bad\">q</span> is a typo / wrong letter. We need the indefinite article <span class=\"hl-good\">a</span> before the singular noun phrase <em>complex flavour</em> (article begins a consonant sound).",
+          "answer": "a"
+        },
+        "48": {
+          "concept": "Word form (adjective → noun)",
+          "note": "<span class=\"hl-bad\">popular</span> is an adjective, but the article <em>the</em> + <em>of</em> require a noun. Use <span class=\"hl-good\">popularity</span> — the noun form meaning 'the state of being popular'.",
+          "answer": "popularity"
+        },
+        "49": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">unfaverabel</span> is misspelt. The correct spelling is <span class=\"hl-good\">unfavourable</span> — bad / not suitable (British spelling with <em>-our-</em> and <em>-able</em>).",
+          "answer": "unfavourable"
+        },
+        "50": {
+          "concept": "Verb form (preposition + V-ing)",
+          "note": "After the preposition <em>with</em>, use a present participle (V-ing): <em>with some producers <span class=\"hl-good\">confining</span> civets …</em>. <span class=\"hl-bad\">confines</span> is a finite present-tense form and cannot follow <em>with + N</em> directly.",
+          "answer": "confining"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Adaptations are like nature's survival kit, equipped with tools and tricks that help plants and animals thrive in their environments. These specialised traits help organisms obtain food, avoid predators and [Q51] with changing conditions, ensuring their continued existence in the natural world. [Q52] these adaptations, organisms would certainly face a higher risk of extinction as they struggle to compete [Q53] resources.",
+          "Consider the humble moth, for [Q54]. Its wings are adorned with patterns that [Q55] the eyes of larger predators to scare off would-be attackers and keep [Q56] safe from harm. If an insect looks like a leaf, it is not easily [Q57] by hungry birds. This explains why numerous insects [Q58] evolved to look like leaves over the last several thousand years.",
+          "Another animal, the chameleon, has an incredible [Q59] to change its colour to match the surroundings. This clever camouflage helps it blend in with tree bark or leaves, making it nearly invisible to predators and allowing it to sneak [Q60] on unsuspecting prey. In fact, certain prey species have bright-coloured or distinctive markings on their bodies to keep predators away.",
+          "Like animals, adaptations in plants are just as [Q61] for their survival in diverse environments. Cacti adapt to survive in arid environments by storing water in their thick stems. [Q62] from their stems, their shallow but wide-reaching root systems [Q63] them to quickly absorb water from rain or dew. The spines of the cacti also help them to [Q64] water loss. These features help them to survive in deserts.",
+          "As plants and animals adapt to their environment, they can protect [Q65] and ensure their continuity. Those that cannot will become extinct."
+        ],
+        "zh": [
+          "适应就像大自然的生存工具箱，帮助动植物获取食物、躲避捕食者并应对环境变化，确保在自然界继续存在。若无这些适应，生物在争夺资源时将面临更高灭绝风险。",
+          "以飞蛾为例：翅膀上的图案像更大捕食者的眼睛，用以吓退攻击者，保护自身安全；若昆虫看起来像叶子，饥饿的鸟就不易发现它，这也解释为何数千年来许多昆虫演化得像叶子。",
+          "变色龙能不可思议地改变体色以融入环境，这种伪装使它几乎对捕食者隐形，也能悄悄接近毫无防备的猎物；某些猎物则以鲜艳或醒目的斑纹吓退捕食者。",
+          "植物的适应同样对其在多样环境中的生存至关重要。仙人掌在干旱环境把水分储存在粗茎中；茎上浅而广的根系使其迅速吸收雨水或露水，刺也有助于减少水分流失，这些特征帮助它们在沙漠存活。",
+          "动植物随环境适应，便能保护自己并确保延续；不能适应者终将灭绝。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "短语动词固定搭配",
+          "note": "后接介词 with 组合。完美契合高频常考地道短语 cope with，表示这些特性能帮助生物更好地“应对”或“处理”环境的变化（填入 deal 构成 deal with 亦完全通顺）。",
+          "answer": "cope/deal"
+        },
+        "52": {
+          "concept": "介词引导假设否定状语",
+          "note": "修饰名词短语 these adaptations。后文指出生物会面临更高的灭绝风险，说明此处是在逻辑上假设“如果没有”这些适应性特征，填入介词 Without。位于句首需大写。",
+          "answer": "Without"
+        },
+        "53": {
+          "concept": "动词与介词固定搭配",
+          "note": "与前面的动词 compete 组合，构成在自然科学科普文中极其核心和高频的习惯搭配 compete for resources，意为让生物去“竞争”或“争夺”生存资源。",
+          "answer": "for"
+        },
+        "54": {
+          "concept": "固定习惯搭配",
+          "note": "与前面的介词 for 完美组合，构成最经典的高频例证引导标记语 For instance 或者是 For example（例如），用来引出飞蛾的例子。",
+          "answer": "instance/example"
+        },
+        "55": {
+          "concept": "定语从句与动词语意",
+          "note": "由关系代词 that 引导的定语从句修饰复数名词 patterns，从句谓语动词用原形。指它的翅膀图案“类似于”、“模仿”或“看起来像”大型捕食者的大眼睛，填入 resemble / mimic / match / look 均可（填入 look 需与后文的 like 组合，此处原句为 the eyes，填入 resemble 最佳）。",
+          "answer": "resemble/mimic/match"
+        },
+        "56": {
+          "concept": "代词呼应与人称视角",
+          "note": "作动词 keep 的宾语。根据前文的 The humble moth（单数名词，指代物），此处需用单数第三人称宾格代词 it，表示模拟大眼睛来保护它“自身”免受伤害。",
+          "answer": "it"
+        },
+        "57": {
+          "concept": "被动语态动词语意",
+          "note": "前面有助动词 is not easily，后面接过去分词构成被动语态。指如果昆虫长得像树叶，它们就不容易被饥饿的鸟类所“发现”、“注意到”或“看见”（spotted / noticed / seen / detected）。",
+          "answer": "spotted/noticed/seen/detected"
+        },
+        "58": {
+          "concept": "现在完成时助动词",
+          "note": "后接过去分词 evolved，且后文有明确的时间状语 over the last several thousand years。主语为复数名词 numerous insects，需填入复数现在完成时助动词 have。",
+          "answer": "have"
+        },
+        "59": {
+          "concept": "名词固定句型结构",
+          "note": "前面有形容词 incredible 引导修饰，后接不定式符号 to change。完美契合高频核心结构 have an incredible ability to do something，表示变色龙具有惊人的“能力”。",
+          "answer": "ability"
+        },
+        "60": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词 sneak 极其后文的介词 on 完美组合。构成极高频常考地道短语 sneak up on someone/something，意思是方便它“悄悄接近”或“潜行至”毫无防备的猎物身边。",
+          "answer": "up"
+        },
+        "61": {
+          "concept": "形容词语意修饰搭配",
+          "note": "构成比较结构 just as... for their survival（对它们的生存同样……）。用来指代植物的适应性特征在不同环境中同样是“必要的”、“重要的”或“关键的”（essential / important / crucial / vital）。",
+          "answer": "essential/important/crucial/vital"
+        },
+        "62": {
+          "concept": "复合介词衔接短语",
+          "note": "后接介词短语 from their stems。前文提到了仙人掌用茎储水，此处引导逻辑递进，构成 Apart from... 或 Aside from...，表示“除了”它们的茎之外，其广阔的根系也能高效吸水。位于句首需大写。",
+          "answer": "Apart/Aside"
+        },
+        "63": {
+          "concept": "动词固定句型结构",
+          "note": "主语为复数名词 systems，谓语动词用原形。后接代词 them 和不定式 to quickly absorb，构成经典结构 enable/allow someone to do something，意思是“使它们能够”或“允许它们”快速吸收雨水。",
+          "answer": "enable/allow"
+        },
+        "64": {
+          "concept": "动词与宾语搭配",
+          "note": "不定式符号 to 后接动词原形。与后面的名词短语 water loss（水分流失）组合，指仙人掌的刺能够帮助它“减少”、“防止”或“限制”水分蒸发流失（reduce / prevent / limit / stop）。",
+          "answer": "reduce/prevent/limit/stop"
+        },
+        "65": {
+          "concept": "反身代词视角一致",
+          "note": "与前文的复数并列主语 plants and animals（它们）在人称和单复数上保持视角一致。作动词 protect 的宾语，构成 protect themselves 结构，表示保护“它们自己”。",
+          "answer": "themselves"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "\"Did you bake the cake yourself last week?\" Jane asked me.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Jane asked me __________"
+        },
+        "67": {
+          "stem_plain": "John felt that it was not necessary to buy the book.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "John felt that there __________"
+        },
+        "68": {
+          "stem_plain": "The boy crept into the house stealthily so that he would not be noticed.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ to avoid __________"
+        },
+        "69": {
+          "stem_plain": "Audrey is writing an essay on the importance of preserving our heritage sites.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "An essay __________"
+        },
+        "70": {
+          "stem_plain": "The boys persevered. They won the race.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Had it not been for the boys' __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "间接引语 — Reported question → direct speech",
+          "zh": "Jane 问我：'你上周自己烤了那个蛋糕吗？'",
+          "note": "间接引语改回直接引语：<br>1. 去掉 <em>if / whether</em>；2. 还原疑问句语序：<em>I had baked → did you bake</em>（过去完成 → 一般过去）；3. 代词 <em>I → you</em>；4. 时间状语 <em>the previous week → last week</em>；5. 加上引号''。",
+          "answer": "Jane asked me \"Did you bake the cake yourself last week?\""
+        },
+        "67": {
+          "concept": "句型转换 — Adjective → noun phrase (it is not necessary → there is no necessity)",
+          "zh": "John 觉得没有必要买那本书。",
+          "note": "<code>it is not necessary to V</code> → <code>there is no necessity to V</code>：<br>1. 形容词 <em>necessary</em> → 名词 <em>necessity</em>；2. <em>it is not</em> → <em>there is no</em>；3. 时态需与主句保持一致：主句是 <em>felt</em>（过去时），所以从句也用 <em>was</em>。",
+          "answer": "John felt that there was no necessity to buy the book."
+        },
+        "68": {
+          "concept": "句型转换 — Purpose clause (so that he would not be noticed) → to avoid + V-ing",
+          "zh": "那个男孩偷偷溜进屋里，以免被发现。",
+          "note": "<code>so that S would not + V</code> → <code>to avoid + V-ing</code>：<br>1. <em>avoid</em> 后接 <em>动名词</em>（不能用 to V 不定式）；2. 原句的被动 <em>be noticed</em> 改为动名词被动 <em>being noticed</em>。",
+          "answer": "The boy crept into the house stealthily to avoid being noticed."
+        },
+        "69": {
+          "concept": "被动语态 — Active → passive (present continuous)",
+          "zh": "一篇关于保护我们历史遗址重要性的文章正由 Audrey 在写。",
+          "note": "现在进行时的主动改被动：<code>S + is/are V-ing + O</code> → <code>O + is/are <strong>being</strong> + V3 + by S</code>：<br>1. 宾语提前作主语；2. <em>is writing → is being written</em>（被动进行式）；3. 原主语用 <em>by</em> 引出。",
+          "answer": "An essay on the importance of preserving our heritage sites is being written by Audrey."
+        },
+        "70": {
+          "concept": "倒装 — Convert verb to noun + 3rd conditional with inversion",
+          "zh": "要不是男孩们的坚持不懈，他们不会赢得这场比赛。",
+          "note": "<code>Had it not been for + N, S + would (not) have + V3</code>：<br>1. <em>persevered（动词）→ perseverance（名词）</em>，前面加所有格 <em>the boys'</em>；2. 这是'If it had not been for…'的倒装写法，表示\"要不是…\"；3. 主句用 <em>would not have won</em>（虚拟过去 = 实际上他们 won 了，因为坚持不懈）。",
+          "answer": "Had it not been for the boys' perseverance, they would not have won the race."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "What event was Alex headed for?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Pick out a three-word phrase from paragraph 2 that tells us that everything would change for the better for Alex's family.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the word(s) in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **It** (line 5)",
+                "(b) **her plea** (line 15)",
+                "(c) **his slot** (line 31)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]",
+                "[Q73c]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Based on paragraph 3, which one of the following words best describes Alex's character?",
+          "marks": 1,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) Put a tick in the box next to the word.",
+              "question_type": "radio",
+              "options": [
+                "selfless",
+                "loving",
+                "brave"
+              ],
+              "max_selections": 1
+            },
+            {
+              "stem_plain": "(b) Support your answer with evidence from the text.",
+              "question": "[Q74b]"
+            }
+          ]
+        },
+        "75": {
+          "stem_plain": "Which two words from paragraph 3 show that Alex comforted the elderly woman? The words are found in two separate sentences.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q75a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q75b]"
+            }
+          ]
+        },
+        "76": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is **true** or **false**, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Alex felt a sense of responsibility towards his family.",
+                "(b) The elderly lady was grateful towards Alex.",
+                "(c) The officials ignored Alex's explanation for being late."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]",
+                "[Q76e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]",
+                "[Q76f]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Based on the information from paragraphs 3 to 5, fill in the blanks in the following table.",
+          "marks": 3,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "How Alex felt",
+              "rows": [
+                "[Q77a]",
+                "despair",
+                "nervous"
+              ]
+            },
+            "col_2": {
+              "header": "What made Alex feel this way",
+              "rows": [
+                "Alex saw a confused elderly woman standing dangerously on the kerb of a busy junction.",
+                "[Q77b]",
+                "[Q77d]"
+              ]
+            },
+            "col_3": {
+              "header": "How Alex reacted",
+              "rows": [
+                "Alex helped the elderly woman cross the junction.",
+                "[Q77c]",
+                "Alex apologised profusely."
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Write **1, 2 and 3** in the blanks below to indicate the order in which the events occurred in the passage.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Alex compared his attire with the other participants.",
+            "Alex arrived at the basketball court.",
+            "Alex started his trial."
+          ]
+        },
+        "79": {
+          "stem_plain": "**(i)** What was the most important trait that the officials were looking out for in the players? **(ii)** Provide an example of how Alex demonstrated this trait.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Explain clearly how Alex's \"hard work had finally paid off\". (lines 47–48)",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — *Hard Work Pays Off*",
+        "lines": {
+          "1": "Large, heavy raindrops began falling from the sky. Alex looked up in dismay. Trust it to rain on the",
+          "2": "very day of his trial for the national basketball team. Alex's hopes of arriving dry and composed at the court",
+          "3": "were dashed by the change in weather. Clutching his sports bag tightly, he rushed towards the bus stop.",
+          "4": "The umbrella he had in hand barely shielded him from the rain and the bus was nowhere in sight.",
+          "5": "Alex's father, the sole breadwinner, was suffering from chronic pain. **It** had left him without a job for",
+          "6": "months. The family was going through a difficult time. As the eldest son, Alex was determined to put an end",
+          "7": "to their financial struggles. If he made it through to the team, it would **turn the tables** for his family. He would",
+          "8": "have a stable source of income while living his biggest dream of being a professional basketball player.",
+          "9": "Alex finally alighted a walking distance away from the indoor basketball court. His heart pounded as",
+          "10": "he hurried down the bustling street. The trial of a lifetime awaited Alex, but life had other plans in store for",
+          "11": "him. An elderly woman, frail and confused, stood precariously on the kerb of a busy junction. Cars honked",
+          "12": "and swerved around her, and panic flickered in her eyes. Alex shuddered to think what could happen to her",
+          "13": "if she was left alone. With a **reassuring** smile, Alex approached her. The woman's eyes, clouded with anxiety,",
+          "14": "met Alex's. \"I-I can't find the bus stop,\" she stammered. Alex knew every precious minute counted, yet he",
+          "15": "could not ignore **her plea**. \"Don't worry. Let me help you,\" Alex **soothed**. He took the woman's arm in his",
+          "16": "and guided her across the chaotic junction. The pair weaved slowly through a sea of impatient commuters",
+          "17": "to the bus stop. Time ticked away. Eventually, the elderly woman boarded her bus and found a seat,",
+          "18": "mouthing words of thanks to Alex as the bus pulled away. Although the trial awaited, Alex was glad to have",
+          "19": "chosen to answer a more urgent call for kindness.",
+          "20": "Alex resumed his journey to the basketball court. Just then, a car hurtled past a puddle, sending a",
+          "21": "torrent of dirty water splashing across his pair of shoes. He gasped, his heart sinking as the grimy liquid",
+          "22": "soaked through his shoes and socks. For a moment, he felt a wave of despair wash over him due to this",
+          "23": "unexpected situation. However, he could not afford to wallow in self-pity. With no time to lose, he quickened",
+          "24": "his pace towards his destination. He reminded himself about the value of resilience—and that no splash of",
+          "25": "water could dampen his spirit.",
+          "26": "Fifteen minutes after his scheduled time for the trial, Alex made it to the court. His heart sank even",
+          "27": "further at the sight of the other participants, who were putting on their best game. They were also visibly",
+          "28": "more presentable in their pristine jerseys and basketball shoes. Alex stood out like a sore thumb. Much as",
+          "29": "he knew that the chances were slim, he braced himself for the impossible. He would not give up just yet.",
+          "30": "He summoned his courage and approached the trial officials for a chance at the tryout despite missing",
+          "31": "**his slot**. With trembling hands, Alex explained his situation, apologising profusely for his tardiness. Instead",
+          "32": "of turning him away, the officials listened with empathy. Their expressions softened as they heard his story.",
+          "33": "In a remarkable display of compassion, they acceded to his plea. Seizing the golden opportunity, Alex",
+          "34": "warmed up and took to the court, pushing the fact that his shoes were all squishy out of his mind. His full",
+          "35": "concentration was on the game and how badly he wanted to prove himself worthy of the national team.",
+          "36": "The first few tests were a series of drills. Alex cleared those with ease, having trained rigorously over",
+          "37": "countless hours of practices through the years. The match that was to take place was the true test for the",
+          "38": "participants. Besides attacking and defensive skills, being an effective team player was the key trait that",
+          "39": "officials were looking out for in players. To that effect, Alex communicated well with those who were on his",
+          "40": "team and created opportunities for his team to score. Seeing his energetic and spectacular play, the officials",
+          "41": "observing by the sidelines knew without a doubt that it was the result of countless hours of blood, sweat and",
+          "42": "tears put in.",
+          "43": "When Alex walked out of the basketball court later that afternoon, he could not help but wonder",
+          "44": "about how different things would have turned out had it not rained earlier that day. Despite that, he still",
+          "45": "concluded that he would not have done things any differently if he was caught in the same situation again.",
+          "46": "Just as he was about to cross the junction to the bus stop, his mobile phone rang. He received news that",
+          "47": "he had made it. As the saying goes, **\"Hard work always pays off.\"** Alex was delighted that his hard work had",
+          "48": "finally paid off."
+        },
+        "paragraphs": {
+          "1": "大雨滴纷纷落下，Alex抬头沮丧——偏偏在国家篮球队选拔试训这天下雨。他本想干爽从容赶到球场，天气一变希望落空；他攥紧运动包冲向公交站，手中雨伞几乎遮不住雨，公交车迟迟不来。",
+          "5": "父亲是唯一养家的人，受慢性疼痛折磨，数月失业。家里日子艰难；长子Alex决心终结经济困境。若入选球队，全家命运将扭转，他还能实现成为职业篮球运动员的梦想。",
+          "9": "他在离室内篮球场不远处下车，沿繁忙街道赶去，心怦怦直跳。人生头一次试训在望，却另有安排：一位年迈妇人颤巍巍站在路口路边，车辆鸣笛闪避，她眼中闪过恐慌。Alex想到她若独自留下可能出事，便带安抚的微笑上前。妇人眼蒙焦虑与他对视，结巴说找不到公交站。每分钟都宝贵，他仍无法忽视她的恳求。“别担心，我来帮您，”他温言安抚，挽着她的手臂引她穿过混乱路口，在不耐烦的人潮中缓行到公交站。时间一分一秒过去。妇人上车落座，车开走时向他口型道谢。试训仍在等他，但Alex庆幸自己回应了更迫切的善意呼唤。",
+          "20": "他继续赶往球场。一辆车疾驰溅过水坑，脏水泼了他一脚。他倒吸一口气，心一沉——鞋袜湿透。一度绝望涌上心头，但他不能自怜；时间不等人，他加快脚步，提醒自己要有韧性——没有什么水花能浇灭他的斗志。",
+          "26": "试训时间已过十五分钟，他才到球场。见其他参赛者状态正佳，衣着光鲜，他更觉格格不入。明知机会渺茫，他仍咬牙不放弃，鼓起勇气向官员争取，尽管已错过自己的时段。他颤抖着解释并再三道歉。官员没有赶走他，反而倾听，神情渐缓。他们同情地同意了他的请求。Alex抓住机会热身上场，把鞋里湿漉漉的感觉抛诸脑后，全神贯注只想证明自己配得上国家队。",
+          "36": "先是系列基本功测试，他轻松过关——多年刻苦训练使然。接下来的比赛才是真考验。除攻防技术外，官员最看重的是能否成为有效队友。Alex与队友沟通顺畅，为队友创造得分机会。他活力四射的表现让场边官员确信，那是无数汗水换来的成果。",
+          "43": "当天下午走出球场，他忍不住想：若没下雨，一切会否不同。即便如此，若再遇同样处境，他仍会做相同选择。快到路口要去公交站时，手机响了——他入选了。常言道“努力终有回报”，Alex欣喜多年付出终于开花结果。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>要点直答——写出 Alex 要去参加的活动；须含“国家队篮球队选拔/试训”之意。</li><li><strong>范围：</strong>开篇第 1–2 行（第 1 段）。</li><li><strong>关键词：</strong><em>headed for</em>、<em>trial</em>、<em>national basketball team</em>。</li><li><strong>证据：</strong>第 2 行 <em>Trust it to rain on the very day of his trial for the national basketball team.</em> → 他正赶往<strong>国家队篮球队选拔试训</strong>。</li><li><strong>书写：</strong>可写 <em>He was headed/heading for his/the trial for the national basketball team.</em>；勿只写“打篮球”而不提试训/国家队。</li></ol>",
+          "answer": [
+            "He was headed for his / the trial for the national basketball team."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>从第 2 段摘<strong>恰好三个词</strong>的短语，表“全家境况会好转”。</li><li><strong>范围：</strong>第 2 段，第 5–8 行。</li><li><strong>关键词：</strong><em>three-word phrase</em>、<em>change for the better</em>。</li><li><strong>证据：</strong>第 7 行 <em>If he made it through to the team, it would <strong>turn the tables</strong> for his family.</em> —— 入选则局势逆转、家境改善。</li><li><strong>排除：</strong>勿摘整句；勿选 <em>made it through</em>（四字以上）或只抄 <em>his family</em>。</li><li><strong>书写：</strong>照抄 <span class=\"hl-good\">turn the tables</span>（三个词）。</li></ol>",
+          "answer": [
+            "turn the tables"
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左栏加粗词在文中的所指，写入右栏；三格各 1 分。</li><li><strong>范围：</strong>(a) 第 5 行；(b) 第 9–15 行；(c) 第 26、31 行。</li><li><strong>(a) It（第 5 行）：</strong>上文第 5 行父亲 <em>suffering from chronic pain</em>；<em>It had left him without a job</em> → <strong>慢性疼痛</strong>。</li><li><strong>(b) her plea（第 15 行）：</strong>妇人结巴说 <em>I can't find the bus stop</em>，向 Alex <strong>求助找公交站</strong>。</li><li><strong>(c) his slot（第 31 行）：</strong>第 26 行 <em>scheduled time for the trial</em> → <strong>试训排定的时段/轮次/机会</strong>。</li><li><strong>书写：</strong>右栏用完整句，常以 <em>It refers to …</em> 开头；按 (a)(b)(c) 自上而下填表。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "It refers to the chronic pain Alex's father was suffering from.",
+            "73b": "It refers to the elderly lady asking Alex for help in locating the bus stop.",
+            "73c": "It refers to Alex's scheduled time / turn / chance for the trial."
+          }
+        },
+        "74": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>题型：</strong>圈选+简答——(i) 勾一词形容性格；(ii) 用文中证据支持（通常 1+1 分）。</li><li><strong>范围：</strong>第 3 段，约第 9–18 行。</li><li><strong>(i) 判词：</strong>明知每分钟宝贵仍帮老人过马路 → 把他人需要置于自己试训之前 → 勾 <span class=\"hl-good\">selfless</span>。<span class=\"hl-bad\">loving</span> 偏亲情；<span class=\"hl-bad\">brave</span> 非“面对危险”。</li><li><strong>(ii) 证据：</strong>第 14–18 行：他带老人穿过路口，明知会<strong>耽误试训</strong>仍坚持帮助。</li><li><strong>失分：</strong>只勾词无证据，或证据未体现“牺牲自己时间帮人”。</li></ol>",
+          "answer": {
+            "74a": "selfless",
+            "74b": "Alex helped the elderly woman cross the junction even though he knew that doing so would make him late for his basketball trial."
+          }
+        },
+        "75": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点——从第 3 段<strong>两个不同句子</strong>各摘一词，表 Alex 安抚老人。</li><li><strong>范围：</strong>第 3 段（首行约第 9 行）。</li><li><strong>证据 1：</strong>第 13 行 <em>With a <strong>reassuring</strong> smile, Alex approached her.</em></li><li><strong>证据 2：</strong>第 15 行 <em>'Don't worry. Let me help you,' Alex <strong>soothed</strong>.</em></li><li><strong>失分：</strong>两词出自同一句；或抄 <em>comforted</em> 等非原文用词。</li><li><strong>书写：</strong>各写一词：<strong>reassuring</strong>、<strong>soothed</strong>。</li></ol>",
+          "answer": {
+            "75a": "reassuring",
+            "75b": "soothed"
+          }
+        },
+        "76": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——每行先 True/False，再一句理由。</li><li><strong>(a) True：</strong>第 6–7 行 <em>determined to put an end to their financial struggles</em> → 对家有<strong>责任感</strong>。</li><li><strong>(b) True：</strong>第 17–18 行 <em>mouthing words of thanks</em> → 老人<strong>感激</strong>他。</li><li><strong>(c) False：</strong>第 31–33 行官员<strong>倾听并同情</strong>，还同意让他参加试训——并非忽视解释。若选 True 须无“倾听/给机会”类证据。</li><li><strong>书写：</strong>理由用一句英文，动词与原文对齐；按表从上到下填三行。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "True",
+            "76b": "Alex was determined to put an end to the family's financial struggles, showing he felt responsible for them",
+            "76c": "True",
+            "76d": "The elderly lady mouthed words of thanks to Alex as her bus pulled away",
+            "76e": "False",
+            "76f": "The officials listened to Alex's explanation with empathy and offered him a chance to take part in the trial"
+          }
+        },
+        "77": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>题型：</strong>表格简答——据第 3–5 段填“感受 / 原因 / 反应”三列；空白按行从左到右填。</li><li><strong>范围：</strong>第 3 段至第 5 段（约第 9–33 行）。</li><li><strong>(a) 感受：</strong>第 11–12 行见老人险境 <em>shuddered to think what could happen</em> → worried/scared/anxious/concerned 等。</li><li><strong>(b)(c) despair 行：</strong>第 20–21 行脏水溅鞋；(c) 第 23–24 行 <em>quickened his pace</em> 赶往球场。</li><li><strong>(d) nervous 行：</strong>第 30–31 行迟到后仍 <em>approached the trial officials for a chance</em> → 须向官员争取试训机会。</li><li><strong>失分：</strong>原因与感受不对应；或 (d) 只写“道歉”未写“争取机会”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "worried / scared / frightened / afraid / anxious / concerned",
+            "77b": "Dirty water splashed across Alex's shoes.",
+            "77c": "Alex quickened his pace towards his destination / the indoor basketball court.",
+            "77d": "Alex had to ask the officials for a chance to take part in the trial as he was late."
+          }
+        },
+        "78": {
+          "answer": [
+            "2, 1, 3"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "分项简答题",
+          "note": "<ol><li><strong>题型：</strong>分项简答——(i) 官员最看重的特质；(ii) Alex 如何体现（各 1 分）。</li><li><strong>范围：</strong>第 6 段，第 38–40 行。</li><li><strong>(i)：</strong><em>being an effective team player was the key trait</em> → 有效<strong>团队合作</strong>。</li><li><strong>(ii)：</strong>第 39–40 行：与队友沟通顺畅 / 为队友创造得分机会——任举一例即可。</li><li><strong>失分：</strong>(ii) 只写“打得好”未写团队行为；或 (i) 写成个人技术而非 teamwork。</li></ol>",
+          "answer": [
+            "(i) being an effective team player. (ii) Alex communicated well with those who were on his team and created opportunities for his team to score."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>题型：</strong>解释说明——结合全文说明 <em>hard work had finally paid off</em>（努力终有回报）；通常“多年付出 + 入选”各 1 分。</li><li><strong>范围：</strong>题干指向第 47–48 行；证据可回溯第 36–37、41、46–47 行。</li><li><strong>努力：</strong>第 36 行 <em>trained rigorously over countless hours … through the years</em>；第 41 行 <em>blood, sweat and tears</em>。</li><li><strong>回报：</strong>第 46–47 行电话得知 <em>he had made it</em>（入选国家队）；与开篇梦想呼应。</li><li><strong>失分：</strong>只写入选不写多年训练，或只写训练不写结果。</li><li><strong>书写：</strong>用一两句英文连贯说明“多年刻苦 → 终于入选”。</li></ol>",
+          "answer": [
+            "Alex worked extremely hard for many years (lines 36–37 — '… having trained rigorously over countless hours of practices through the years') and his efforts finally paid off when he received news, while walking home from the court, that he had made it through to the national basketball team — exactly the goal he had been working towards."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

@@ -1,0 +1,1293 @@
+{
+  "paperid": "p6_english_2016_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The boys continued with the game __________ being tired.",
+          "options": {
+            "1": "until",
+            "2": "despite",
+            "3": "although",
+            "4": "because"
+          }
+        },
+        "2": {
+          "stem_plain": "Ted mentioned __________ his colleagues a treat but he soon forgot.",
+          "options": {
+            "1": "gave",
+            "2": "giving",
+            "3": "would give",
+            "4": "would be giving"
+          }
+        },
+        "3": {
+          "stem_plain": "The scientist is well-known __________ his expertise in designing and building robots.",
+          "options": {
+            "1": "about",
+            "2": "from",
+            "3": "for",
+            "4": "by"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Wen Xi arranged the flowers on the table, __________?\" her father asked.",
+          "options": {
+            "1": "won't she",
+            "2": "didn't she",
+            "3": "hasn't she",
+            "4": "wasn't she"
+          }
+        },
+        "5": {
+          "stem_plain": "\"Could Vanessa __________ her keys behind?\" wondered Mrs Cheng when she saw a bunch of keys on the table.",
+          "options": {
+            "1": "left",
+            "2": "leave",
+            "3": "had left",
+            "4": "have left"
+          }
+        },
+        "6": {
+          "stem_plain": "Uncle Azman recounted how his mother would watch him __________ the bus for school every morning.",
+          "options": {
+            "1": "board",
+            "2": "boards",
+            "3": "boarded",
+            "4": "boarding"
+          }
+        },
+        "7": {
+          "stem_plain": "I was ahead __________ time for my appointment with my friends and decided to wait for them in the nearby bookshop.",
+          "options": {
+            "1": "in",
+            "2": "of",
+            "3": "on",
+            "4": "before"
+          }
+        },
+        "8": {
+          "stem_plain": "\"All the furniture __________ moved to another room just now,\" Linda said.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "9": {
+          "stem_plain": "\"Won't Dad be pleased when he __________ that we were both selected to act in the school play?\" Nurul asked her brother.",
+          "options": {
+            "1": "hears",
+            "2": "heard",
+            "3": "has heard",
+            "4": "had heard"
+          }
+        },
+        "10": {
+          "stem_plain": "If she __________ the dentist earlier, she would not have lost her tooth.",
+          "options": {
+            "1": "visit",
+            "2": "visited",
+            "3": "had visited",
+            "4": "have visited"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "动名词作宾语 — Verb + Gerund — mention doing",
+          "zh": "泰德提到要请他的同事们吃一顿，但他很快就忘了。",
+          "note": "动词 “mention” 后面固定接动名词（doing）作为宾语，表示提及做某事。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "介词固定搭配 — Prepositional phrase — be well-known for",
+          "zh": "这位科学家因其在设计和建造机器人方面的专业知识而闻名。",
+          "note": "固定短语 “be well-known for...” 表示“因……而闻名”，后面接闻名的原因或特征。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "反意疑问句 — Question tag — General past tense",
+          "zh": "“文熙把桌上的花插好了，不是吗？”她的父亲问。",
+          "note": "陈述句部分使用的是一般过去时的肯定形式（arranged），因此附加问句部分需要用过去时的否定助动词 “didn't” 加上主语代词。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "情态动词对过去的推测 — Modal verb + Perfect infinitive — could have done",
+          "zh": "“瓦妮莎会不会把钥匙落下了？”当郑太太看到桌上的一串钥匙时，心里想道。",
+          "note": "“could have + 过去分词（left）” 用于表示对过去可能发生的事情进行推测或疑问。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "感官动词的用法 — Verbs of perception — watch someone do",
+          "zh": "阿兹曼叔叔讲述了每到早晨，他的母亲是如何看着他坐上上学公交车的。",
+          "note": "感官动词 “watch” 后面接宾语和不带 to 的动词不定式（watch someone do sth.），表示看到或注意到一个动作发生的完整过程。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "固定介词短语 — Prepositional phrase — ahead of time",
+          "zh": "我和朋友的约会提前到了，所以决定在附近的书店里等他们。",
+          "note": "固定短语 “ahead of time” 意为“提前”或“提早”。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "主谓一致与一般过去时被动语态 — Subject-verb agreement & Past passive — Uncountable noun",
+          "zh": "琳达说：“刚才所有的家具都被搬到另一个房间去了。”",
+          "note": "“furniture” 是不可数名词，谓语动词需用单数形式；时间状语为 “just now”（刚才），表示过去的时间，因此选用过去式单数助动词 “was”。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "时间状语从句的主将从现 — Time clause — Present tense for future meaning",
+          "zh": "努鲁问她的哥哥：“当爸爸听说我们俩都被选上参加学校话剧演出时，他难道不会很高兴吗？”",
+          "note": "在由 “when” 引导的时间状语从句中，主句如果使用将来时（Won't Dad be...），从句需要用一般现在时（hears）来表示将来的动作。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "虚拟语气（与过去事实相反） — Conditional Clause — Third conditional",
+          "zh": "如果她早点去看牙医，她的牙齿就不会掉了。",
+          "note": "主句使用了 “would not have lost”，表示与过去事实相反的虚拟语气。因此，If 引导的条件从句中谓语动词需要使用过去完成时（had + 过去分词）。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Granny Wong's top ________ is to look after her grandchildren well because she loves them dearly.",
+          "options": {
+            "1": "priority",
+            "2": "urgency",
+            "3": "importance",
+            "4": "requirement"
+          }
+        },
+        "12": {
+          "stem_plain": "The response to the charity event was ________, with many people turning up to support it.",
+          "options": {
+            "1": "excessive",
+            "2": "extravagant",
+            "3": "overpowering",
+            "4": "overwhelming"
+          }
+        },
+        "13": {
+          "stem_plain": "\"I rarely see Charles so ________. He's usually in a happy mood,\" Gopal observed.",
+          "options": {
+            "1": "jovial",
+            "2": "obstinate",
+            "3": "optimistic",
+            "4": "downcast"
+          }
+        },
+        "14": {
+          "stem_plain": "The soldiers ________ the enemy and won the battle.",
+          "options": {
+            "1": "subdued",
+            "2": "impeded",
+            "3": "hindered",
+            "4": "suppressed"
+          }
+        },
+        "15": {
+          "stem_plain": "The heavy rain did not ________ even after two hours.",
+          "options": {
+            "1": "let up",
+            "2": "let off",
+            "3": "let out",
+            "4": "let down"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "王奶奶的首要任务就是照顾好她的孙子孙女们，因为她深爱着他们。",
+          "note": "“top priority”是一个固定常用的名词搭配，意为“首要任务、当务之急”，完美契合后文表达的“最重要、最关心的事”。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "priority",
+              "zh": "优先事项，首要任务（指最重要、最需要先处理的事情）",
+              "eg": "Safety is our top priority during this outdoor leadership camp."
+            },
+            {
+              "opt": "2",
+              "word": "urgency",
+              "zh": "紧急，迫切（指情况紧急，需要立刻、马上处理的状态）",
+              "eg": "The matter was treated with great urgency by the emergency medical team."
+            },
+            {
+              "opt": "3",
+              "word": "importance",
+              "zh": "重要性（指事物具有重大价值或重大影响的性质）",
+              "eg": "The teacher emphasized the importance of completing the revision on time."
+            },
+            {
+              "opt": "4",
+              "word": "requirement",
+              "zh": "要求，必要条件（指规定、法律或某项工作所必须满足的条件）",
+              "eg": "A master's degree is a basic requirement for applying for this research job."
+            }
+          ]
+        },
+        "12": {
+          "zh": "人们对这次慈善活动的反应非常热烈，许多人都前来支持。",
+          "note": "“overwhelming response”是固定搭配，意为“压倒性的/极其热烈的反响”。后文“many people turning up to support it（许多人到场支持）”证明了反响巨大。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "excessive",
+              "zh": "过多的，过度的（指数量或程度超过了合理的限度，带有负面语气）",
+              "eg": "The driver used excessive speed on the narrow and slippery road."
+            },
+            {
+              "opt": "2",
+              "word": "extravagant",
+              "zh": "奢侈的，铺张浪费的（指花钱过多、追求华丽或不切实际的）",
+              "eg": "The actress wore an extravagant diamond necklace to the awards ceremony."
+            },
+            {
+              "opt": "3",
+              "word": "overpowering",
+              "zh": "强烈的，压倒性的（主要指气味、味道或情感浓烈得让人无法忍受）",
+              "eg": "There was an overpowering smell of heavy perfume inside the small elevator."
+            },
+            {
+              "opt": "4",
+              "word": "overwhelming",
+              "zh": "压倒性的，势不可挡的（常用来修饰公众的反应、支持或数量极其巨大）",
+              "eg": "The public response to the charity appeal was truly overwhelming."
+            }
+          ]
+        },
+        "13": {
+          "zh": "“我很少看到查尔斯这么沮丧。他平时心情都很愉快的，”戈帕尔观察道。",
+          "note": "由前文“rarely see（很少见到）”以及后文“usually in a happy mood（平时心情都很好）”可推断，此处填写的形容词应与“happy（高兴）”形成强烈的反义对比，故选 downcast（沮丧的）。",
+          "concept": "词汇-语境线索 Vocabulary-Contextual Clues",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "jovial",
+              "zh": "欢快的，高兴的（指人性格或心情非常愉快、充满幽默感）",
+              "eg": "The festive party was filled with laughter and jovial conversation."
+            },
+            {
+              "opt": "2",
+              "word": "obstinate",
+              "zh": "固执的，顽固的（指不听劝阻、拒绝改变想法或态度的）",
+              "eg": "The obstinate boy refused to admit his mistake despite the clear evidence."
+            },
+            {
+              "opt": "3",
+              "word": "optimistic",
+              "zh": "乐观的（指对未来的发展或者事情的结果充满信心和希望的）",
+              "eg": "Despite the temporary setback, the coach remained optimistic about winning."
+            },
+            {
+              "opt": "4",
+              "word": "downcast",
+              "zh": "沮丧的，垂头丧气的（指因为遭遇失败或不如意而情绪低落、不开心）",
+              "eg": "The losing team members looked downcast as they walked back to the dugout."
+            }
+          ]
+        },
+        "14": {
+          "zh": "士兵们制服了敌人，赢得了战斗。",
+          "note": "后文的“won the battle（赢得了战斗）”表明士兵们取得了彻底控制对手的彻底胜利，使用“subdued（制服、击败）”最契合战争语境。",
+          "concept": "词汇辨析 Vocabulary-Word Choice",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "subdued",
+              "zh": "制服，征服（指用武力或强权击败、控制住对手或敌人）",
+              "eg": "The local police quickly subdued the armed suspect before anyone was hurt."
+            },
+            {
+              "opt": "2",
+              "word": "impeded",
+              "zh": "阻碍，妨碍（指减缓、拖延某人或某事的进展，使其行动变得困难）",
+              "eg": "The heavy snowstorms seriously impeded the rescue team's operations."
+            },
+            {
+              "opt": "3",
+              "word": "hindered",
+              "zh": "阻碍，妨碍（指给别人制造困难、障碍，导致事情无法顺利进行）",
+              "eg": "A lack of formal training hindered her progress in her new office career."
+            },
+            {
+              "opt": "4",
+              "word": "suppressed",
+              "zh": "镇压，压制（指武力平息暴动，或者抑制、强忍住情绪、哈欠等）",
+              "eg": "The strict laws were successfully implemented to suppress illegal trading."
+            }
+          ]
+        },
+        "15": {
+          "zh": "即使过了两个小时，大雨也丝毫没有减弱的迹象。",
+          "note": "短语动词“let up”专指暴雨（heavy rain）等恶劣天气的“变小、减弱、停歇”，是英语中的惯用语。",
+          "concept": "短语动词 Phrasal Verbs",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "let up",
+              "zh": "减弱，变小，停止（专门指暴雨、狂风、恶劣天气或疼痛变弱、停歇）",
+              "eg": "We decided to wait inside the shopping mall until the heavy storm let up."
+            },
+            {
+              "opt": "2",
+              "word": "let off",
+              "zh": "放过，宽恕；放（炮等）（指免受惩罚、从轻发落，或释放气体等）",
+              "eg": "The kind police officer decided to let the speeding driver off with just a warning."
+            },
+            {
+              "opt": "3",
+              "word": "let out",
+              "zh": "发出声音；放走，释放（指发出哭声/笑声，或放走囚犯/学生下课）",
+              "eg": "The school will let the students out early on the eve of the holiday."
+            },
+            {
+              "opt": "4",
+              "word": "let down",
+              "zh": "使失望，辜负（指未能履行承诺或未达到期望而让某人伤心）",
+              "eg": "I promised my parents that I would study hard and not let them down."
+            }
+          ],
+          "image": "a15.jpeg"
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "covered up",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "protected",
+            "2": "disguised",
+            "3": "concealed",
+            "4": "camouflaged"
+          }
+        },
+        "17": {
+          "stem_plain": "worried and anxious",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "troubled",
+            "2": "annoyed",
+            "3": "sorrowful",
+            "4": "discouraged"
+          }
+        },
+        "18": {
+          "stem_plain": "determined",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "chose",
+            "2": "aspired",
+            "3": "decided",
+            "4": "resolved"
+          }
+        },
+        "19": {
+          "stem_plain": "gingerly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "thoughtfully",
+            "2": "cautiously",
+            "3": "gradually",
+            "4": "seriously"
+          }
+        },
+        "20": {
+          "stem_plain": "thrive",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "succeed",
+            "2": "develop",
+            "3": "flourish",
+            "4": "bloom"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “covered up”在这里指叶子被密密麻麻的花朵遮盖、掩盖住了，与“concealed（隐藏、遮掩）”意思最接近。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "protected",
+              "zh": "受保护的",
+              "eg": "The rare animals are well protected in this nature reserve."
+            },
+            {
+              "opt": "2",
+              "word": "disguised",
+              "zh": "伪装的，乔装的",
+              "eg": "The king travelled through the village disguised as a poor farmer."
+            },
+            {
+              "opt": "3",
+              "word": "concealed",
+              "zh": "隐藏的，遮蔽的",
+              "eg": "The micro camera was carefully concealed inside a book."
+            },
+            {
+              "opt": "4",
+              "word": "camouflaged",
+              "zh": "迷彩的，具有保护色的",
+              "eg": "The green lizard stayed perfectly still, camouflaged against the leaves."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “worried and anxious”形容人内心感到担忧、焦虑和困扰，与“troubled（忧虑的、苦恼的）”意思最契合。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "troubled",
+              "zh": "忧虑的，苦恼的，不安的",
+              "eg": "She looked troubled after hearing the news about the accident."
+            },
+            {
+              "opt": "2",
+              "word": "annoyed",
+              "zh": "颇为生气的，恼怒的",
+              "eg": "He felt annoyed by the constant loud noise from next door."
+            },
+            {
+              "opt": "3",
+              "word": "sorrowful",
+              "zh": "悲伤的，伤心的",
+              "eg": "The children let out a sorrowful sigh when their pet ran away."
+            },
+            {
+              "opt": "4",
+              "word": "discouraged",
+              "zh": "气馁的，沮丧的",
+              "eg": "Don't feel discouraged even if you fail the initial trial."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “determined”指下定决心的，固定搭配“be resolved to do something”表示下定决心做某事，语境完全一致。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "chose",
+              "zh": "选择（choose的过去式）",
+              "eg": "She chose a beautiful silk dress for the upcoming dinner."
+            },
+            {
+              "opt": "2",
+              "word": "aspired",
+              "zh": "渴望，追求（常接to/after）",
+              "eg": "The young musician aspired to play in the national orchestra."
+            },
+            {
+              "opt": "3",
+              "word": "decided",
+              "zh": "决定",
+              "eg": "They decided to cancel the outdoor picnic due to heavy rain."
+            },
+            {
+              "opt": "4",
+              "word": "resolved",
+              "zh": "下定决心的，决意的",
+              "eg": "He was firmly resolved to complete the task before midnight."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “gingerly”意为小心翼翼地，生怕弄坏或弄疼，与“cautiously（谨慎地、小心地）”完全同义。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "thoughtfully",
+              "zh": "深思熟虑地，贴心地",
+              "eg": "He thoughtfully brought an extra jacket for his teammate."
+            },
+            {
+              "opt": "2",
+              "word": "cautiously",
+              "zh": "谨慎地，小心翼翼地",
+              "eg": "The rescue team cautiously stepped into the damaged building."
+            },
+            {
+              "opt": "3",
+              "word": "gradually",
+              "zh": "逐渐地",
+              "eg": "The water temperature gradually became warmer in the afternoon."
+            },
+            {
+              "opt": "4",
+              "word": "seriously",
+              "zh": "严肃地，严重地",
+              "eg": "The manager spoke seriously about the importance of safety rules."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “thrive”指植物茁壮成长、繁茂，与动词“flourish（繁荣、植物长势茂盛）”意思完全相符。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "succeed",
+              "zh": "成功",
+              "eg": "If you keep practicing, you will succeed in passing the test."
+            },
+            {
+              "opt": "2",
+              "word": "develop",
+              "zh": "发展，显影",
+              "eg": "The small company developed into a worldwide enterprise."
+            },
+            {
+              "opt": "3",
+              "word": "flourish",
+              "zh": "茁壮成长，繁茂，繁荣",
+              "eg": "These wild flowers flourish best in warm, sunny climates."
+            },
+            {
+              "opt": "4",
+              "word": "bloom",
+              "zh": "开花",
+              "eg": "The rose bushes will bloom beautifully early next spring."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "One day, Cindy's father brought home a plant. It had so many white flowers that most of the leaves were [Q16(covered up)]. Cindy loved the fragrant scent of the flowers. Noticing that every day some flowers would fall from the plant, she became [Q17(worried and anxious)]. Looking closely at the plant, Cindy saw that it was growing in a pot of filthy soil. “How unhygienic! No wonder the plant is ill!” she thought in alarm. She was [Q18(determined)] to save the plant from its unhealthy environment.",
+          "Cindy [Q19(gingerly)] pulled out the plant, making sure she did not injure it. Then, she washed its roots before placing it in a clean pot filled with pebbles. To her surprise, the plant failed to [Q20(thrive)]. Almost all the flowers fell and the leaves looked wilted. Realising her mistake, she quickly restored the plant to its original environment."
+        ],
+        "zh": [
+          "一天，辛迪的父亲带回家一株植物。它开了那么多白色的花，以至于大部分叶子都被遮盖住了。辛迪非常喜欢花朵散发出的清香。注意到每天都会有一些花从植物上掉落，她变得十分忧虑和焦急。仔细观察这株植物后，辛迪看到它生长在一个装满污秽泥土的花盆里。“太不卫生了！难怪这株植物生病了！”她惊恐地想。她下定决心要把这株植物从不健康的环境中拯救出来。",
+          "辛迪小心翼翼地把植物拔了出来，确保没有伤到它。然后，她洗净了它的根部，再把它放进一个装满鹅卵石的干净花盆里。令她惊讶的是，这株植物并没能茁壮成长。几乎所有的花都谢了，叶子看起来也枯萎了。意识到自己的错误后，她迅速将植物放回了原来的生长环境中。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "代词（指示代词指代前文）",
+          "note": "‘have done just that’ 是固定习惯表达，指示代词 that 在此指代前文提到的“去太空度假”这一整件事。",
+          "answer": "J"
+        },
+        "30": {
+          "concept": "介词惯用法（表示具体时间段或时期）",
+          "note": "‘From the time that...’ 构成 ‘From the time...’ 结构，介词 from 表示时间起点的源头，意为‘自从太空旅行被认为对人类安全的那时起’。",
+          "answer": "E"
+        },
+        "31": {
+          "concept": "代词（主格人称代词作主语）",
+          "note": "‘a day when they too could blast off...’ 引导定语从句，在从句中需要主格人称代词 they 指代前文复数的普通人（people other than astronauts）。",
+          "answer": "L"
+        },
+        "32": {
+          "concept": "介词用法（表示身份、作为）",
+          "note": "‘made history as the first space tourist...’，介词 as 意为‘作为’，在此表示以第一位太空游客的身份创造了历史。",
+          "answer": "C"
+        },
+        "33": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘Hopping on board’ 或 ‘hopping onto board’，在所给选项中通常与介词 on 连用，构成短语 ‘on board’，意为‘登上（宇宙飞船等交通工具）’。",
+          "answer": "H"
+        },
+        "34": {
+          "concept": "介词惯用法（With复合结构引导伴随原因）",
+          "note": "‘with each of these trips costing...’ 属于经典的 ‘with + 名词/代词 + 现在分词’ 复合独立主格结构，在句中作伴随原因状语，选 with。",
+          "answer": "Q"
+        },
+        "35": {
+          "concept": "冠词用法（定冠词特指极少数群体）",
+          "note": "‘available to the fortunate few’ 属于 ‘the + 形容词 + 名词’ 的固定特指结构，意为‘仅对那幸运的少数人开放’。",
+          "answer": "M"
+        },
+        "36": {
+          "concept": "副词修饰语（并列递进或连词转折）",
+          "note": "‘Space travel agencies have thus come up with...’ 或者是表示递进。检查上下文逻辑，这里是顺承前文“高昂的票价使少数人能去”，因此旅行社‘于是/从而（thus）’想出了更便宜的替代方案，故选 thus 充当状语修饰动词短语。",
+          "answer": "M"
+        },
+        "37": {
+          "concept": "介词用法（表示方向、终点或目的地）",
+          "note": "‘rather than to a faraway space station’，介词 to 与前面的 ‘travelling just a hundred kilometres out into space’ 形成平行对称结构，均表示旅行的目的地。",
+          "answer": "N"
+        },
+        "38": {
+          "concept": "连词用法（让步状语从句）",
+          "note": "‘Although this is a cheaper alternative, it is still...’，连词 although 位于句首引导让步状语从句，意为‘尽管这是一个更便宜的替代方案，但对普通人来说依然太贵了’。",
+          "answer": "B"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "although",
+          "C": "as",
+          "D": "because",
+          "E": "from",
+          "F": "in",
+          "G": "moreover",
+          "H": "on",
+          "J": "that",
+          "K": "them",
+          "L": "they",
+          "M": "thus",
+          "N": "to",
+          "P": "when",
+          "Q": "with"
+        },
+        "cloze": [
+          "Have you ever wondered about travelling to space for a holiday? Some people have done just [Q29], incredible though it may sound.",
+          "[Q30] the time that space travel was deemed safe for humans, people other than astronauts have dreamed of a day when [Q31] too could blast off into space for a once-in-a-lifetime experience. In 2001, this became a reality when a businessman named Dennis Tito made history [Q32] the first space tourist in the world. Hopping [Q33] board a space shuttle, he zipped into outer space for a visit to the International Space Station. In the years that followed, several others did the same. However, [Q34] each of these trips costing the space tourist tens of millions of dollars, such an adventure was only available to [Q35] fortunate few.",
+          "Space travel agencies have [Q36] come up with the cheaper option of travelling just a hundred kilometres out into space, rather than [Q37] a faraway space station. [Q38] this is a cheaper alternative, it is still too expensive for the average person. Perhaps, with future advances in science, the cost could be brought down further so that more people can have a holiday in space!"
+        ],
+        "zh": [
+          "你有没有想过挑个日子去太空度假？有些人恰恰做到了这一点，尽管这听起来有些令人难以置信。",
+          "自从太空旅行被认为对人类安全的那时起，航天员以外的普通人就一直梦想着有朝一日他们也能冲向太空，去获得那一生仅有一次的震撼体验。2001年，当一位名叫丹尼斯·蒂托（Dennis Tito）的商人作为世界上第一位太空游客创造历史时，这一梦想变成了现实。他登上了航天飞机，飞入外太空访问了国际空间站。在接下来的几年里，其他几个人也做了同样的事情。然而，由于每一次这样的旅行都要花费太空游客数千万美元，这种冒险只对那幸运的少数人开放。",
+          "因此，太空旅游公司提出了一种更便宜的选择，即只往外太空飞行一百公里，而不是去遥远的太空站。尽管这是一个更便宜的替代方案，但对于普通人来说它依然太贵了。也许，随着未来科学的进步，成本可以被进一步降低，从而让更多的人能够享受太空假期！"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "主谓一致 - Subject-Verb Agreement",
+          "note": "主谓一致：定语从句的主语先行词为单数名词 an athlete，且通篇描述一般事实，动词 competition 应改为一般现在时单数形式 competes。",
+          "answer": "competes"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 adequately（副词，意为充分地、足够地）。",
+          "answer": "adequately"
+        },
+        "41": {
+          "concept": "助动词后的动词形式 - Verbs after Auxiliaries",
+          "note": "助动词与动词原形搭配：在含有 does 的倒装句结构中（Not only does he...），助动词后应接动词原形 have，而非过去式 had。",
+          "answer": "have"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 physical（形容词，意为身体的、物质的）。",
+          "answer": "physical"
+        },
+        "43": {
+          "concept": "动名词平行结构 - Parallel Structure",
+          "note": "平行结构：与前半句的动名词作主语 Lifting weights（举重）和 helps 后的并列成分相对应，或者是作主语并列的动名词短语，此处学习如何调整节奏与 Lifting 并列作主语核心，应改为 learning。",
+          "answer": "learning"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 exhausted（形容词/过去分词，意为精疲力竭的）。",
+          "answer": "exhausted"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 absolutely（副词，意为绝对地、完全地）。",
+          "answer": "absolutely"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 sufficient（形容词，意为充足的、足够的）。",
+          "answer": "sufficient"
+        },
+        "47": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：在形容词性物主代词/定语 peak 后面修饰核心词，表示“达到巅峰状态/最佳表现”，应用名词形式 performance，而非动词 perform。",
+          "answer": "performance"
+        },
+        "48": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 nourished（过去分词作表语，意为营养充足的）。",
+          "answer": "nourished"
+        },
+        "49": {
+          "concept": "过去分词 - Past Participles",
+          "note": "现在分词完成时形式：结构为 Having + 过去分词，choose 的过去分词是 chosen，而非动词原形。",
+          "answer": "chosen"
+        },
+        "50": {
+          "concept": "连词 - Conjunctions",
+          "note": "连词逻辑错误：根据前后文逻辑，为了获得全部益处（so as to reap...），前后应为顺承或目的关系，固定搭配为 so 或者是 and，此处用 so 搭配 as to 构成 so as to（以便、从而）承接前文，或将转折连词 but 改为并列连词 and 表示顺承。",
+          "answer": "and"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Long distance running is a sport. Typically, an athlete who [Q39(competition)] in this sport will need to run at least three kilometres in a race.",
+          "To prepare himself [Q40(adequartly)] for the race, the runner should go through a good training programme. Not only does he [Q41(had)] to get used to running long distances, he also needs to build up his [Q42(phisycal)] and mental strength. Lifting weights helps in the development of his muscles and [Q43(learned)] how to pace himself will ensure that he does not become [Q44(exsorsted)] too quickly.",
+          "Throughout the period of training, the runner must be [Q45(abbsollutely)] focused on the sport and have [Q46(suffishent)] rest. He should also keep to a proper diet as he can only reach his peak [Q47(perform)] when his body is well [Q48(nurished)].",
+          "[Q49(Having choose)] to embark on a training programme, the runner should try to adhere to it [Q50(but)] as to reap its full benefits. Only then can he achieve his full potential."
+        ],
+        "zh": [
+          "长跑是一项运动。通常，参加这项运动的运动员需要在比赛中至少跑三公里。",
+          "为了让自己为比赛做好充分的准备，跑步者应该接受一个良好的训练计划。他不仅要习惯长距离跑步，还需要增强自己的体力和心理素质。举重有助于肌肉的发展，而学会如何调整自己的配速将确保他不会过快地精疲力竭。",
+          "在整个训练期间，跑步者必须绝对专注于这项运动，并获得充足的休息。他还应该保持适当的饮食，因为只有当他的身体营养充足时，他才能达到他的巅峰表现。",
+          "既然已经选择开始一项训练计划，跑步者就应该努力坚持下去，从而收获它的全部益处。只有这样，他才能充分发挥自己的潜力。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun rose [Q51] the horizon."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "Prototype",
+          "note": "Prototype blank.",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "The cat did not run away. It sat down instead.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Instead of __________ ."
+        },
+        "67": {
+          "stem_plain": "The guests arrived early. The host panicked.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "With the early __________ ."
+        },
+        "68": {
+          "stem_plain": "Tom found the loss of his diary upsetting.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ about the loss of his diary."
+        },
+        "69": {
+          "stem_plain": "Raju asked his mother, \"Can you help me with my project which will be due soon?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Raju asked his mother whether __________ ."
+        },
+        "70": {
+          "stem_plain": "In dealing with the problem, Ginny showed her courage.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The way Ginny __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "非谓语动词 — 复合介词后接动名词 'Instead of doing'",
+          "note": "介词短语：Instead of 后面必须接动名词形式 running away，随后接主句表达替代的行为。",
+          "zh": "猫没有逃跑，反而坐了下来。",
+          "answer": "Instead of running away, the cat sat down."
+        },
+        "67": {
+          "concept": "词性转换与独立结构 — 动词变名词 'arrival'",
+          "zh": "随着客人们的早到，主人惊慌失措了。",
+          "note": "词性转换：在 With the early... 结构中，需要将动词 arrived 转换为名词 arrival，并用 of 引出动作的发出者。",
+          "answer": "With the early arrival of the guests, the host panicked."
+        },
+        "68": {
+          "concept": "词性转换与句型改写 — 形容词作表语 'be upset about'",
+          "zh": "汤姆因丢失日记而感到沮丧。",
+          "note": "词性转换：将主动形式中作宾语补足语的 upsetting 改为描述人心理状态的形容词 upset，构成 Tom was upset about... 结构。",
+          "answer": "Tom was upset about the loss of his diary."
+        },
+        "69": {
+          "concept": "间接引语 — 一般疑问句与从句时态转换",
+          "zh": "拉朱问他的母亲是否可以帮他完成快要到期的项目。",
+          "note": "间接引语：由 whether 引导宾语从句。人称 you 变 she，me 变 him，my 变 his；时态 Can 变 could，will 变 would。",
+          "answer": "Raju asked his mother whether she could help him with his project which would be due soon."
+        },
+        "70": {
+          "concept": "定语从句 / 主语结构 — 'The way + 从句' 作主语",
+          "zh": "金妮处理这个问题的方式展现了她的勇气。",
+          "note": "句式改写：The way 后接省略了 in which/that 的定语从句，把 In dealing with 中的动词改为过去时 dealt with 作从句谓语，整个短语作主语，showed 为主句谓语。",
+          "answer": "The way Ginny dealt with the problem showed her courage."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "What could Ben's parents no longer afford to do? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "it (line 13)",
+                "short cut (line 25)",
+                "unfinished work (line 28)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story. [1m]",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Ben was scolded for categorising some books wrongly.",
+            "Mrs Ho opened a public library.",
+            "Ben read some books completely."
+          ]
+        },
+        "78": {
+          "stem_plain": "Ben completed his university education successfully. What did the various characters in lines 31-40 think was the main reason for that? [3m]",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "character",
+              "reason_for_success"
+            ],
+            "character": {
+              "header": "Character",
+              "rows": [
+                "Ben, before he understood the true reason for his success",
+                "Ben's classmate",
+                "Ben's professor"
+              ]
+            },
+            "reason_for_success": {
+              "header": "What each character thought was the main reason for Ben's success at university",
+              "rows": [
+                "[Q78a]",
+                "[Q78b]",
+                "[Q78c]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Which two of the following words correctly describe how Ben felt in lines 39-40? Put a tick (✓) in the box beside each of your answers.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "grateful",
+            "overjoyed",
+            "proud",
+            "puzzled",
+            "satisfied",
+            "surprised"
+          ],
+          "max_selections": 2
+        },
+        "80": {
+          "stem_plain": "What do you think Mrs Ho meant by saying Ben had \"already done so\" (line 45)? Support your answer by stating how he had \"done so\". [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Why did Ben end up at Mrs Ho's house when he was on his way to play football? [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "What did Mrs Ho learn about Ben from studying him carefully? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "Mrs Ho heard Ben crying when she was inside her house.",
+                "Mrs Ho was not interested in Ben's apology.",
+                "Ben was pleased that he had categorised fifty books on the first morning."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "False",
+                "True",
+                "True"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "The storm was thundering while Ben was crying, masking his wails.",
+                "She cut him short while he was apologising and asked him why he was not in school as well as why he was crying.",
+                "He declared proudly to Mrs Ho during lunchtime that he had categorised fifty books."
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Which two words from lines 22-24 show that Mrs Ho was annoyed with Ben? The words are found in two separate sentences. [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "There once lived a boy named Ben in a small village. He used to attend the village",
+          "2": "school but stopped when his parents could no longer afford to send him. He filled his days",
+          "3": "playing football and dreaming of the day he could do so in the city.",
+          "4": "One morning, Ben was heading for a game of football when it started pouring. He",
+          "5": "ran to the nearest shelter he could find, which happened to be the doorway of the only large",
+          "6": "house in the village. Sitting down on the steps, he gazed at the falling raindrops and soon",
+          "7": "started to cry. For many minutes, he wept as the storm thundered overhead, masking his",
+          "8": "wails. Suddenly, the door behind him opened and a lady emerged, all dressed to go out.",
+          "9": "“What's going on?” Mrs Ho, the owner of the house, said sternly. Ben wiped his",
+          "10": "eyes and stammered out an apology for using the doorway as a shelter, but she cut him",
+          "11": "short. “Why aren't you in school? Why are you crying?” she asked.",
+          "12": "Ben answered truthfully, “I don't go to school anymore. I'm sad because I wish to",
+          "13": "play football in the city, but it's becoming clear to me that it is an impossible dream.”",
+          "14": "Mrs Ho studied Ben carefully, taking in his ragged clothes and torn shoes, then said,",
+          "15": "“I'm trying to sort out my thousands of books so that I can open a public library in the village.",
+          "16": "Help me with this task and I'll help you fulfil your dream.”",
+          "17": "Ben agreed eagerly. Mrs Ho took him to a room full of books and told him to read",
+          "18": "the first three chapters of each book so that he could put each book in the correct category.",
+          "19": "After Mrs Ho left the room, Ben thought, “Why read three chapters? Just the title would tell",
+          "20": "me what sort of book it is.” So he began, thinking he was very hardworking indeed when at",
+          "21": "times he read a page or two in addition to the title.",
+          "22": "When lunchtime arrived, Mrs Ho dismissed Ben's proud declaration that he had",
+          "23": "categorised fifty books. With fury in her voice, she said, “These aren't right! Castles of",
+          "24": "Europe is not a history book! It's a travel book!”",
+          "25": "Ben realised there was no short cut to be had and started reading three chapters",
+          "26": "of each book as instructed. Many times, he became interested in what he was reading and",
+          "27": "went on to read the whole book. But the job was very time-consuming and whenever he",
+          "28": "gazed round at the unfinished work, he would feel resentful towards Mrs Ho. It took him",
+          "29": "five long years to complete the task. The day he left for the city, he said goodbye to Mrs Ho",
+          "30": "at her public library with great bitterness in his heart.",
+          "31": "When Ben arrived at the city, he discovered he could play football for the university",
+          "32": "if he first sat for an entrance test. He passed the test and in the four years that followed,",
+          "33": "enjoyed himself playing football while studying hard. On the day of his graduation, a",
+          "34": "classmate marvelled, “Isn't it amazing how a poor village boy like you managed to do so",
+          "35": "well? What an extraordinary amount of luck you must have had!”",
+          "36": "A professor who was standing nearby commented, “I remember we were very",
+          "37": "impressed with your entrance results. We've never had an applicant who could write",
+          "38": "such logical and persuasive essays! Your village teacher must have been very good.”",
+          "39": "Ben was taken aback. He had thought he owed his achievement purely to his own",
+          "40": "hard work at university but now he realised how Mrs Ho had paved the way for his success.",
+          "41": "The next day, he surprised Mrs Ho by appearing at her library. “Words cannot",
+          "42": "express my gratitude,” he told her. “The only repayment I can think of is to help other",
+          "43": "children just as you've helped me.”",
+          "44": "Gesturing at the children clustered around the neat rows of shelves, Mrs Ho replied",
+          "45": "with a smile, “Don't you know, you've already done so?”"
+        },
+        "paragraphs": {
+          "1": "从前，在一个小村庄里住着一个名叫本的男孩。他以前在村里的学校上学，但当他的父母再也供不起他时，他便辍学了。他每天踢足球，梦想着有一天能去城市里踢球。",
+          "4": "一天早上，本正准备去踢足球，突然下起了大雨。他跑到能找到的最近的避雨处，那正好是村里唯一一栋大房子的门口。他坐在台阶上，望着落下的雨滴，不久便哭了起来。好长一段时间里，他在头顶轰鸣的雷雨声中抽泣，雷雨声掩盖了他的哭喊声。突然，他身后的门开了，一位穿戴整齐准备出门的女士走了出来。",
+          "9": "“怎么回事？”这栋房子的主人何太太严厉地问道。本擦了擦眼睛，结结巴巴地为把门口当作避雨处而道歉，但她打断了他。“你为什么不去上学？你为什么哭？”她问道。",
+          "12": "本如实回答说：“我不再上学了。我很伤心，因为我想去城市里踢足球，但我现在越来越明白，这只是一个不可能实现的梦想。”",
+          "14": "何太太仔细地打量着本，看着他破烂的衣服和穿破的鞋子，然后说：“我正试着整理我的几千本书，以便在村里开一家公共图书馆。帮我完成这项任务，我就帮你实现你的梦想。”",
+          "17": "本欣然同意。何太太带他来到一个装满书的房间，告诉他读完每本书的前三章，以便把每本书归入正确的类别。何太太离开房间后，本心想：“为什么要读三章？光看书名不就能知道这是什么书了吗。”于是他开始干了起来，有时除了书名外还读上一两页，这让他觉得自己确实非常勤奋。",
+          "22": "午餐时间到了，本自豪地宣布自己已经给五十本书分类了，但何太太对他的话不屑一顾。她声音里带着愤怒说道：“这些都不对！《欧洲的城堡》不是历史书！它是旅游书！”",
+          "25": "本意识到没有任何捷径可走，于是开始按照吩咐阅读每本书的前三章。很多时候，他对正在阅读的内容产生了兴趣，甚至读完了整本书。但这项工作非常耗时，每当他环顾未完成的工作时，他就会对何太太产生怨恨。他花了整整五年的时间才完成这项任务。他离开去城市的那天，在她的公共图书馆向何太太告别，内心充满了极大的痛苦与怨恨。",
+          "31": "当本到达城市时，他发现如果先参加大学入学考试，他就可以为大学踢足球。他通过了考试，并在接下来的四年里，一边努力学习，一边尽情踢球。在毕业典礼那天，一位同学惊叹道：“像你这样的穷村娃能取得这么好的成绩，真是太不可思议了！你一定是有天大的好运气！”",
+          "36": "站在附近的一位教授评论道：“我记得我们对你的入学考试成绩印象非常深刻。我们从来没有遇到过能写出如此逻辑严密、严谨且具有说服力文章的申请者！你村里的老师一定非常好。”",
+          "39": "本吃了一惊。他原以为自己的成就纯粹归功于自己在大学的刻苦努力，但现在他才意识到，是何太太为他的成功铺平了道路。",
+          "41": "第二天，他出现在何太太的图书馆，给了她一个惊喜。“言语无法表达我的感激之情，”他告诉她，“我能想到的唯一回报方式，就是像您帮助我一样去帮助其他的孩子。”",
+          "44": "何太太指着聚集在整齐书架旁的孩童们，微笑着回答道：“难道你不知道，你已经这么做了吗？”"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Literal comprehension",
+          "note": "<ol><li><strong>题型：</strong>直接事实检索题——根据第一段（paragraph 1）定位 Ben 父母经济负担带来的结果动作（1 分）。</li><li><strong>核心依据：</strong>答案直接来源于第一段。说明家庭经济拮据带来的直接影响是：'They could no longer afford to send him to school'（无法再供他上学）。</li><li><strong>失分点：</strong>代词使用需注意保持一致，将原文的人称进行合理转换，若照抄原文人称可能会导致扣分。</li></ol>",
+          "answer": "They could no longer afford to send him to school.",
+          "type": "comprehension"
+        },
+        "76": {
+          "answer_type": "referencing",
+          "concept": "Contextual referencing",
+          "note": "<ol><li><strong>题型：</strong>特定词汇/指代还原题——精准还原代词或短语在上下文中所指代的具体人、事、地或动作（3 分）。</li><li><strong>it (行 13)：</strong>向前文溯源定位，指代 Ben 想要去城市里踢足球的愿望（Ben's wish to play football in the city）。</li><li><strong>short cut (行 25)：</strong>指代他为了偷懒而采取的一种更快分类书籍的方法（A way to categorise the books faster）。</li><li><strong>unfinished work (行 28)：</strong>指代房间里所有需要被分类的那些书籍（The books in the room which needed to be categorised）。</li><li><strong>失分点：</strong>回答过于空泛或照抄带有第一人称的词组会导致因指代不清而被扣分。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "Ben's wish to play football in the city",
+            "76b": "A way to categorise the books faster",
+            "76c": "The books in the room which needed to be categorised"
+          }
+        },
+        "77": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>题型：</strong>三事排序题——要求写出 1, 3, 2 的填空格式（1 分）。</li><li><strong>(1) 第一事件：</strong>Ben 首先因为把书分错类而挨了老妇人的训斥（First, Ben was scolded for categorising some books wrongly）。</li><li><strong>(2) 第二事件：</strong>随后，Ben 在整理中对书籍产生兴趣并开始完整地阅读（Then, Ben read some books completely）。</li><li><strong>(3) 第三事件：</strong>在他去城市的那天，Mrs Ho 开办了公共图书馆（Mrs Ho opened a public library）。</li><li><strong>提示：</strong>在新加坡 PSLE 标准中，此类排序题必须 3 个数字全对才有 1 分，错任何一个即为 0 分。</li></ol>",
+          "answer": [
+            "1, 3, 2"
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "answer_type": "table_completion",
+          "concept": "观点提炼与细节跟踪表",
+          "note": "<ol><li><strong>题型：</strong>多视角观点跟踪表——在指定的第九段（paragraph 9）范围内分别精准提炼 3 个不同视角对同一事件的核心看法（3 分）。</li><li><strong>第一行 (Ben)：</strong>在明白真相前，他自认为大学成功的核心原因是他自己在大学的刻苦努力（His own hard work at university）。</li><li><strong>第二行 (Classmate)：</strong>他的大学同学将其单纯归结为好运（Ben's luck）。</li><li><strong>第三行 (Professor)：</strong>教授一针见血地将其归功于 Ben 家乡这位乡村老师的杰出教学能力（The ability of Ben's village teacher）。</li><li><strong>失分点：</strong>填写的名词短语或主谓成分如果没有站在正确的人物视角切换，或造成时态、指代错位，无法拿满 3 分。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "His own hard work at university",
+            "78b": "Ben's luck",
+            "78c": "The ability of Ben's village teacher"
+          }
+        },
+        "79": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>范围：</strong>行 39-40。</li><li><strong>证据：</strong>得知这一切真相全靠多年前家乡的恶魔老妇人 Mrs Ho 用心良苦地鞭策他时，Ben 展现出的复杂情感结合了对恩师的感激与对这苦心隐瞒真相的意外震惊 → <strong>grateful</strong>、<strong>surprised</strong>。</li></ol>",
+          "answer": [
+            "grateful",
+            "surprised"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "言外之意推断+文本细节例证题",
+          "note": "<ol><li><strong>题型：</strong>言外之意推断与文本细节例证题——双核心给分点题型（2 分）。</li><li><strong>第 1 分 (Meaning)：</strong>Mrs Ho 的话意味着 Ben 实际上早就已经通过当年的付出，回报了（repaid her）她曾经在提供良好教育上对他的所有无私资助。</li><li><strong>第 2 分 (Evidence)：</strong>具体的例证支持是：正是通过当年 Ben 对书籍尽心尽力的整理分类，Mrs Ho 才能成功地将这些书按体裁分门别类地陈列出来，从而在村里顺利开办了公共图书馆。</li><li><strong>失分点：</strong>必须清晰回答出“回报教育之恩”的含义，并辅以“整理书籍使老妇人得以成功开办图书馆”这一核心事实，缺一不可。</li></ol>",
+          "answer": "Mrs Ho meant that Ben had already repaid her for the assistance she provided him in giving him a good education. Through Ben's categorisation of the books, Mrs Ho was able to display them according to their genres so that she could open a public library in the village.",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "因果因应题",
+          "note": "<ol><li><strong>题型：</strong>多重因果因应题——分析原本要去踢足球的 Ben 为什么最终会去到 Mrs Ho 的家（2 分）。</li><li><strong>核心依据：</strong>信息源自第二段（paragraph 2）。包含两个核心事实点：第一是他需要避雨（seek shelter from the rain），第二是他能找到的唯一地方刚好是 Mrs Ho 家的门口（the only one he found was the doorway of Mrs Ho's house）。</li><li><strong>失分点：</strong>漏掉其中任何一个因果节点（避雨或唯一避雨点）都会导致该 2 分题被按点扣分。</li></ol>",
+          "answer": "He wanted to seek shelter from the rain and the only one he found was the doorway of Mrs Ho's house.",
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "细节与心理观察题",
+          "note": "<ol><li><strong>题型：</strong>人物动态观察推断题——分析老人在仔细打量（studying him carefully）之后得出的最终核心结论（1 分）。</li><li><strong>核心依据：</strong>官方标答指明，通过观察，她【意识到这个孩子很贫穷】（She realised that he was poor）。</li><li><strong>避坑点：</strong>要答出老人的最终认知结论（realised he was poor），而非单纯罗列他衣服破旧等外在细节。</li></ol>",
+          "answer": "She realised that he was poor.",
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>全表事实真伪判定题——针对三项文本声明判断真伪并给出一句话独立理由（3 分）。</li><li><strong>第一行 False：</strong>第二段末尾显示老妇人开门其实是因为她正要出门（going out）。雷雨声太响掩盖了哭声（masking his wails），所以她呆在屋里时没听到。</li><li><strong>第二行 True：</strong>当 Ben 试图道歉时，她打断了他（cut him short），转而质问他为什么没去上学以及为什么哭，表现出对单纯道歉不感兴趣。</li><li><strong>第三行 True：</strong>行文第五段（paragraph 5）暗示了 Ben 的成就感，他在午饭时'充满自豪地宣告'（declared proudly）自己已经整理了50本书，证明他对此感到高兴。</li><li><strong>失分点：</strong>任何一行的 True/False 如果选错，则该行直接判 0 分，理由写对也不给分。</li></ol>",
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "Vocabulary extraction",
+          "note": "<ol><li><strong>题型：</strong>双句子单词精准提取题——在指定的 lines 22–24 跨度内，从两个不同的句子里各挑出一个展现老妇人对 Ben 感到不悦（annoyed）的单字（2 分）。</li><li><strong>核心依据：</strong>官方标答精准提取出 <span class='hl-good'>dismissed</span>（打发/不予理会）和 <span class='hl-good'>fury</span>（愤怒/暴怒）。这两个词生动表现了她的烦躁与不悦情绪。</li><li><strong>失分点：</strong>必须严格写出这两个单字。严禁携带前后词缀或抄成词组，否则直接判 0 分。</li></ol>",
+          "answer": [
+            "dismissed",
+            "fury"
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

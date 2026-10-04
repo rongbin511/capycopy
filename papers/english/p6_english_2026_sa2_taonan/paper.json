@@ -1,0 +1,1519 @@
+{
+  "paperid": "p6_english_2026_sa2_taonan",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "I ________ this movie several times but I still find it enjoyable each time I do.",
+          "options": {
+            "1": "watch",
+            "2": "am watching",
+            "3": "have watched",
+            "4": "have been watching"
+          }
+        },
+        "2": {
+          "stem_plain": "\"________ among the passengers witnessed the accident and reported it?\" the reporter asked the police.",
+          "options": {
+            "1": "Who",
+            "2": "What",
+            "3": "Which",
+            "4": "Whom"
+          }
+        },
+        "3": {
+          "stem_plain": "Neither of the twins ________ sleepy. They are still playing in their room.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "The coach attributed the team's success ________ their consistent effort and dedication.",
+          "options": {
+            "1": "to",
+            "2": "by",
+            "3": "on",
+            "4": "with"
+          }
+        },
+        "5": {
+          "stem_plain": "Hardly anyone in class knew the answer to this question, ________?",
+          "options": {
+            "1": "did they",
+            "2": "had they",
+            "3": "didn't they",
+            "4": "hadn't they"
+          }
+        },
+        "6": {
+          "stem_plain": "________ the ongoing construction work at the school field, the football match was postponed.",
+          "options": {
+            "1": "In spite of",
+            "2": "In addition to",
+            "3": "In the event of",
+            "4": "In response to"
+          }
+        },
+        "7": {
+          "stem_plain": "The group's success depends ________ on effective collaboration than individual ability.",
+          "options": {
+            "1": "less",
+            "2": "least",
+            "3": "more",
+            "4": "most"
+          }
+        },
+        "8": {
+          "stem_plain": "The teacher made the class ________ the furniture for the oral examination the next day.",
+          "options": {
+            "1": "arrange",
+            "2": "arranges",
+            "3": "arranged",
+            "4": "arranging"
+          }
+        },
+        "9": {
+          "stem_plain": "Anna, as well as her classmate, Tom, completed the marble run project by ________.",
+          "options": {
+            "1": "herself",
+            "2": "himself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "10": {
+          "stem_plain": "Without ________ equipment, the team still managed to complete the project successfully.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "时间状语 several times（好几次）强调动作发生过多次，且可能对现在仍有影响，应使用现在完成时，故选 have watched。",
+          "concept": "时态 — Tense — present perfect tense with experience",
+          "zh": "这部电影我已经看过好几次了，但每次看依然觉得很有意思。",
+          "answer": "3"
+        },
+        "2": {
+          "note": "句中有一个特定的范围 among the passengers（在乘客中），指在特定人群或范围内进行具体的“哪一个或哪一些”的选择，要用疑问代词 which。",
+          "concept": "疑问代词 — Interrogative Pronouns — which for choice",
+          "zh": "“乘客中有哪一位目睹了车祸并报警了呢？”记者询问警方。",
+          "answer": "3"
+        },
+        "3": {
+          "note": "Neither of + 复数名词/代词作主语时，谓语动词应视为单数；结合后半句的 are still playing（现在进行时）可知这里在描述现在的状态，故选用一般现在时的单数形式 is。",
+          "concept": "主谓一致 — Subject-Verb Agreement — neither of",
+          "zh": "这对双胞胎谁都不困。他们还在房间里玩呢。",
+          "answer": "1"
+        },
+        "4": {
+          "note": "attribute ... to ... 是固定短语，意为“把……归因于……”，to 为介词，故选 to。",
+          "concept": "固定搭配 — Prepositions — attribute something to something",
+          "zh": "教练将球队的成功归功于他们不懈的努力和奉献精神。",
+          "answer": "1"
+        },
+        "5": {
+          "note": "句首含有具有否定意义的副词 Hardly（几乎不），所以反义疑问句的前半部分应视为否定句，后半部分应用肯定形式；前面动词 knew 是一般过去时，反义疑问句用助动词 did，代词用 they，故选 did they。",
+          "concept": "反义疑问句 — Tag Questions — negative words (hardly)",
+          "zh": "班里几乎没有人知道这道题的答案，不是吗？",
+          "answer": "1"
+        },
+        "6": {
+          "note": "根据后半句“足球赛推迟了”可以推断，前半句应是推迟的条件或契机。In the event of 意为“如果发生……，万一……”，此处表示“鉴于/由于目前学校操场的施工，……”；其他选项如 in spite of（尽管）语意不合。",
+          "concept": "介词短语辨析 — Prepositional Phrases",
+          "zh": "鉴于学校操场目前正在施工，足球赛推迟了。",
+          "answer": "3"
+        },
+        "7": {
+          "note": "后面出现了比较级标志词 than，因此空格处也必须使用比较级。根据句意，小组的成功取决于团队合作“多于”个人能力，故选 more。",
+          "concept": "比较级 — Comparatives — more ... than",
+          "zh": "小组的成功更多取决于有效的合作，而不是个人能力。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "make sb. do sth. 是使役动词的经典用法，意为“让/使某人做某事”，后面需要接不带 to 的动词原形（省 to 不定式），故选 arrange。",
+          "concept": "非谓语动词 — Bare Infinitives — make someone do something",
+          "zh": "老师让全班同学为第二天的口试布置桌椅家具。",
+          "answer": "1"
+        },
+        "9": {
+          "note": "主语后接 as well as 引导的短语时，句子的核心主语依然是前者 Anna（单数第三人称女性）。但这里由 by 引导的反身代词表示“靠自己/独立完成”，且包含了 Anna 和 Tom 两个人完成这个动作，语义上指代的是复数（也就是他们自己独立完成），故选 themselves。",
+          "concept": "反身代词 — Reflexive Pronouns",
+          "zh": "安娜和她的同班同学汤姆一起独立完成了弹珠轨道项目。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "equipment（设备、器材）是不可数名词，不能用 few 或 many 修饰；根据后文的 still managed to complete（仍然成功完成了）可以推测，虽然没有“太多”设备，他们还是办到了，故选 much。",
+          "concept": "量词与名词修饰 — Quantifiers — much with uncountable nouns",
+          "zh": "在没有太多设备的情况下，全班（或团队）仍然成功完成了这个项目。",
+          "answer": "4"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Hui Ling had to deal with the ________ of repeatedly submitting homework after the deadline.",
+          "options": {
+            "1": "damage",
+            "2": "retaliation",
+            "3": "deterrence",
+            "4": "repercussion"
+          }
+        },
+        "12": {
+          "stem_plain": "Artificial intelligence will be introduced to schools ________ to give students time to adapt to it.",
+          "options": {
+            "1": "incessantly",
+            "2": "intermittently",
+            "3": "progressively",
+            "4": "simultaneously"
+          }
+        },
+        "13": {
+          "stem_plain": "The volcanic eruption ________ the flight schedules in the region due to poor visibility.",
+          "options": {
+            "1": "diverted",
+            "2": "disabled",
+            "3": "disrupted",
+            "4": "disturbed"
+          }
+        },
+        "14": {
+          "stem_plain": "The doctor advised him not to ________ his persistent headaches as they might have a detrimental effect on his health.",
+          "options": {
+            "1": "call off",
+            "2": "hold off",
+            "3": "wear off",
+            "4": "brush off"
+          }
+        },
+        "15": {
+          "stem_plain": "Ever so ________, Mohan presented complex ideas in a way that was easy to understand.",
+          "options": {
+            "1": "coherent",
+            "2": "objective",
+            "3": "dexterous",
+            "4": "consistent"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "慧玲必须承担屡次在截止日期后提交作业带来的不良后果。",
+          "note": "‘repercussion’指（通常是不良的）后果、影响，符合屡次迟交作业带来的负面代价。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "damage",
+              "zh": "损害，破坏",
+              "eg": "The heavy storm caused severe damage to the roofs of several houses."
+            },
+            {
+              "opt": "2",
+              "word": "retaliation",
+              "zh": "报复，反击",
+              "eg": "The government warned of economic retaliation if the tariffs were increased."
+            },
+            {
+              "opt": "3",
+              "word": "deterrence",
+              "zh": "威慑，阻吓",
+              "eg": "Strict fines serve as an effective deterrence against littering in the city."
+            },
+            {
+              "opt": "4",
+              "word": "repercussion",
+              "zh": "后坐力，不良后果",
+              "eg": "The sudden decision to close the factory had a serious repercussion on the workers."
+            }
+          ]
+        },
+        "12": {
+          "zh": "人工智能将逐步引入学校，以便让学生有时间去适应它。",
+          "note": "‘progressively’意思是渐进地、逐步地，与后面“让学生有时间去适应”完美对应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "incessantly",
+              "zh": "不停地，连续不断地",
+              "eg": "It rained incessantly for three days, causing the river to overflow."
+            },
+            {
+              "opt": "2",
+              "word": "intermittently",
+              "zh": "间歇地，断断续续地",
+              "eg": "The old radio worked intermittently, buzzing softly every few minutes."
+            },
+            {
+              "opt": "3",
+              "word": "progressively",
+              "zh": "逐步地，渐进地",
+              "eg": "The training sessions will become progressively harder each week."
+            },
+            {
+              "opt": "4",
+              "word": "simultaneously",
+              "zh": "同时地，同步地",
+              "eg": "The show was broadcast simultaneously on television and the internet."
+            }
+          ]
+        },
+        "13": {
+          "zh": "由于能见度低，火山爆发扰乱了该地区的航班计划。",
+          "note": "‘disrupted’指中断、扰乱（行程、计划或会议），是形容航班受到影响的最合适词汇。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "diverted",
+              "zh": "使分流，使改道",
+              "eg": "The plane was diverted to a nearby airport due to bad weather."
+            },
+            {
+              "opt": "2",
+              "word": "disabled",
+              "zh": "使丧失能力，使伤残",
+              "eg": "The technical glitch disabled the entire banking system for an hour."
+            },
+            {
+              "opt": "3",
+              "word": "disrupted",
+              "zh": "扰乱，使中断",
+              "eg": "The protest disrupted traffic in the city center during rush hour."
+            },
+            {
+              "opt": "4",
+              "word": "disturbed",
+              "zh": "打扰，使不安",
+              "eg": "Please do not make loud noises as the baby is easily disturbed."
+            }
+          ]
+        },
+        "14": {
+          "zh": "医生建议他不要忽视自己持续的头痛，因为这可能会对他的健康产生不利影响。",
+          "note": "‘brush off’是短语动词，意思是漠视、不理会（问题或人）。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "call off",
+              "zh": "取消（活动等）",
+              "eg": "They decided to call off the picnic because of the heavy thunderstorm."
+            },
+            {
+              "opt": "2",
+              "word": "hold off",
+              "zh": "延迟，拖延",
+              "eg": "Let us hold off making a final choice until we gather more data."
+            },
+            {
+              "opt": "3",
+              "word": "wear off",
+              "zh": "（感觉、药效等）逐渐消失",
+              "eg": "The effect of the painkiller began to wear off after four hours."
+            },
+            {
+              "opt": "4",
+              "word": "brush off",
+              "zh": "漠视，不理会",
+              "eg": "He tried to brush off her comments, but they still bothered him."
+            }
+          ]
+        },
+        "15": {
+          "zh": "莫汉说话非常有条理，用一种容易理解的方式表达了复杂的想法。",
+          "note": "‘coherent’意为（讲话或文章）条理清晰的、连贯的，与后面“容易理解的方式”对应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "coherent",
+              "zh": "条理清晰的，连贯的",
+              "eg": "She presented a coherent argument that convinced the entire board."
+            },
+            {
+              "opt": "2",
+              "word": "objective",
+              "zh": "客观的，公正的",
+              "eg": "A journalist must remain objective and present the facts clearly."
+            },
+            {
+              "opt": "3",
+              "word": "dexterous",
+              "zh": "心灵手巧的，熟练的",
+              "eg": "The dexterous surgeon performed the complex operation with ease."
+            },
+            {
+              "opt": "4",
+              "word": "consistent",
+              "zh": "始终如一的，持续的",
+              "eg": "His excellent performance at work has been consistent over the years."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "scurried",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fussed",
+            "2": "prowled",
+            "3": "wandered",
+            "4": "scampered"
+          }
+        },
+        "17": {
+          "stem_plain": "juicy",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "savoury",
+            "2": "palatable",
+            "3": "succulent",
+            "4": "delectable"
+          }
+        },
+        "18": {
+          "stem_plain": "sturdy",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "robust",
+            "2": "intricate",
+            "3": "versatile",
+            "4": "malleable"
+          }
+        },
+        "19": {
+          "stem_plain": "It is good to be prepared!",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Think on your feet",
+            "2": "Save for a rainy day",
+            "3": "Look before you leap",
+            "4": "Better safe than sorry"
+          }
+        },
+        "20": {
+          "stem_plain": "thoroughly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "gingerly",
+            "2": "extensively",
+            "3": "deliberately",
+            "4": "painstakingly"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词汇理解 — 匆忙小跑",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fussed",
+              "zh": "瞎操心；过分关心",
+              "eg": "She fussed over her hair before the party started."
+            },
+            {
+              "opt": "2",
+              "word": "prowled",
+              "zh": "潜行；悄悄搜寻",
+              "eg": "The tiger prowled through the tall grass looking for prey."
+            },
+            {
+              "opt": "3",
+              "word": "wandered",
+              "zh": "漫游；闲逛",
+              "eg": "We wandered around the old town for hours."
+            },
+            {
+              "opt": "4",
+              "word": "scampered",
+              "zh": "惊惶奔跑；小步跑",
+              "eg": "The frightened squirrel scampered up the tree trunk."
+            }
+          ]
+        },
+        "17": {
+          "note": "近义词替换 — 多汁的",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "savoury",
+              "zh": "咸味的；可口的",
+              "eg": "The bakery sells both sweet pastries and savoury pies."
+            },
+            {
+              "opt": "2",
+              "word": "palatable",
+              "zh": "可口的；合意的",
+              "eg": "The chef made the medicine more palatable by adding honey."
+            },
+            {
+              "opt": "3",
+              "word": "succulent",
+              "zh": "多汁的",
+              "eg": "The roasted meat was tender and succulent."
+            },
+            {
+              "opt": "4",
+              "word": "delectable",
+              "zh": "美味可口的",
+              "eg": "We enjoyed a delectable chocolate cake for dessert."
+            }
+          ]
+        },
+        "18": {
+          "note": "近义词替换 — 结实的；坚固的",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "robust",
+              "zh": "强健的；坚固的",
+              "eg": "He wore a pair of robust walking boots for the hike."
+            },
+            {
+              "opt": "2",
+              "word": "intricate",
+              "zh": "错综复杂的",
+              "eg": "The lace dress featured a very intricate pattern."
+            },
+            {
+              "opt": "3",
+              "word": "versatile",
+              "zh": "多用途的；多才多艺的",
+              "eg": "This versatile tool can be used as a knife or a saw."
+            },
+            {
+              "opt": "4",
+              "word": "malleable",
+              "zh": "可塑的；有延展性的",
+              "eg": "Gold is a malleable metal that can be easily shaped."
+            }
+          ]
+        },
+        "19": {
+          "note": "习语理解 — 居安思危/防患未然",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Think on your feet",
+              "zh": "快速思考；随机应变",
+              "eg": "A good lawyer needs to think on their feet during a trial."
+            },
+            {
+              "opt": "2",
+              "word": "Save for a rainy day",
+              "zh": "未雨绸缪；存钱以备不时之需",
+              "eg": "It is wise to save for a rainy day rather than spending all your income."
+            },
+            {
+              "opt": "3",
+              "word": "Look before you leap",
+              "zh": "三思而后行",
+              "eg": "You should always look before you leap when making big life choices."
+            },
+            {
+              "opt": "4",
+              "word": "Better safe than sorry",
+              "zh": "宁可事前谨慎，不可事后追悔",
+              "eg": "Take an umbrella with you; it is better safe than sorry."
+            }
+          ]
+        },
+        "20": {
+          "note": "词汇辨析 — 极其细心地；彻底地",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "gingerly",
+              "zh": "小心翼翼地",
+              "eg": "She stepped gingerly onto the slippery, icy sidewalk."
+            },
+            {
+              "opt": "2",
+              "word": "extensively",
+              "zh": "广泛地",
+              "eg": "The historic mansion was extensively damaged in the fire."
+            },
+            {
+              "opt": "3",
+              "word": "deliberately",
+              "zh": "故意地",
+              "eg": "He deliberately hid the truth from his teammates."
+            },
+            {
+              "opt": "4",
+              "word": "painstakingly",
+              "zh": "极其细心地；苦心孤诣地",
+              "eg": "The artist painstakingly painted every detail on the vase."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Aziz, Bala and Cooper were bubbling with excitement. They [Q16 (scurried)] about the kitchen preparing for their picnic. Sunlight streamed through the windows as they packed sandwiches, [Q17 (juicy)] slices of watermelon and a flask of chilled lemonade into a [Q18 (sturdy)] woven basket.",
+          "Aziz made sure to put the first aid kit that they had prepared earlier into the basket as well. \"[Q19 (It is good to be prepared!)]\" he said with a grin.",
+          "Bala and Cooper replied in unison, \"You're right!\" He then checked the contents [Q20 (thoroughly)] before shutting it. With unwavering enthusiasm, they ensured that everything was perfect. Finally, they were ready for the picnic."
+        ],
+        "zh": [
+          "阿齐兹、巴拉和库珀兴奋不已。他们在厨房里跑来跑去，为野餐做准备。阳光透过窗户洒进来，他们把三明治、多汁的西瓜片和一瓶冰镇柠檬水装进一个结实的竹编篮子里。",
+          "阿齐兹还特意把他们之前准备好的急救箱也放进了篮子里。“未雨绸缪总是好的！”他微笑着说。",
+          "巴拉和库珀异口同声地回答：“你说得对！”随后，他在关上篮子前仔细彻底地检查了里面的物品。带着毫不减退的热情，他们确保一切都完美无缺。最后，他们出发去野餐了。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "\"Ready to run, bond and build lasting memories?\" The purpose of this question in Text 1 is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "invite students to join the run",
+            "2": "familiarise students with the run",
+            "3": "excite students ahead of the run",
+            "4": "make students curious about the run"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the event information in Text 1, which of the following are true of the run?\n\nA. The reporting venue is Crest Park.\nB. All students will have the same end point.\nC. There is only one spot to get drinking water.\nD. Students can attend the Sports Carnival after the run.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A and C",
+            "2": "B and C",
+            "3": "B and D",
+            "4": "B, C and D"
+          }
+        },
+        "23": {
+          "stem_plain": "Text 1 is most probably ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "an event poster",
+            "2": "an invitation letter",
+            "3": "a sports event report",
+            "4": "a programme itinerary"
+          }
+        },
+        "24": {
+          "stem_plain": "What is the main message of Text 2?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The school park run showcases talents and fosters empathy.",
+            "2": "The school park run builds resilience and deepens relationship.",
+            "3": "The school park run promotes active living and a competitive spirit.",
+            "4": "The school park run encourages students to be driven and adventurous."
+          }
+        },
+        "25": {
+          "stem_plain": "Which idea is expressed in Text 2 but not Text 1?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The run promotes a healthy lifestyle.",
+            "2": "The run brings the school community together.",
+            "3": "The run helps students to create lifelong memories.",
+            "4": "The run prepares students to become mentally stronger."
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "海报顶部的疑问句“准备好去跑步、建立纽带并留下持久的回忆了吗？”是一种修辞手法，旨在活动开始前激发读者的热情与期待。因此选择选项3。",
+          "concept": "理解句意与修辞意图",
+          "answer": "3"
+        },
+        "22": {
+          "note": "分析各表述：A选项错误，集合地点是学校礼堂（Assemble at the hall）；B选项正确，两条路线的终点都是同一个FINISHING LINE；C选项正确，注解中说明饮水点仅在Checkpoint 2提供；D选项错误，只有小一和小二的学生留在学校参加体育嘉年华。因此B和C正确，选择选项2。",
+          "concept": "多项信息比对与筛选",
+          "answer": "2"
+        },
+        "23": {
+          "note": "文本1包含了活动标语、时间、地点、路线图以及注意事项，并采用了图文并茂的排版方式，属于典型的小学校园活动海报。因此选择选项1。",
+          "concept": "文体与媒介形式辨析",
+          "answer": "1"
+        },
+        "24": {
+          "note": "文本2强调在困难时要坚持不懈（builds resilience，培养韧性），并且提到和同学一起跑步让我们感觉像一个大家庭、互相鼓励（deepens relationship，加深关系）。同时文中明确指出“It is not about winning”（这与竞争精神相反）。因此选择选项2。",
+          "concept": "文章主旨与段落核心提炼",
+          "answer": "2"
+        },
+        "25": {
+          "note": "文本2在第二段末尾明确提到“growing stronger, both physically and mentally!”（在身体和心理上都变得更强壮），而文本1（海报）中完全没有提及关于“心理/精神变强壮”的信息。因此选择选项4。",
+          "concept": "跨文本信息对比与求异",
+          "answer": "4"
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "介词搭配",
+          "note": "“the inclusivity of...”意为“对……的包容性”，属于固定介词搭配。",
+          "answer": "J"
+        },
+        "27": {
+          "concept": "时态与情态动词",
+          "note": "“it is hoped that... will be raised”表示对未来的希望，使用will表示将要被提高。",
+          "answer": "Q"
+        },
+        "28": {
+          "concept": "频度副词",
+          "note": "“it has always been considered...”意为“它一直以来都被认为……”，符合语境且图片中已打勾提示。",
+          "answer": "C"
+        },
+        "29": {
+          "concept": "不定代词",
+          "note": "“not all could wear purple!”意为“并非所有人都能穿紫色！”，对应下文只有上层阶级能穿。",
+          "answer": "B"
+        },
+        "30": {
+          "concept": "形容词性物主代词",
+          "note": "“forbade their people from wearing it”意为“禁止他们的百姓/子民穿着它”。",
+          "answer": "K"
+        },
+        "31": {
+          "concept": "指示代词",
+          "note": "“in those days”为固定短语，意为“在那个时期/在过去那些日子里”。",
+          "answer": "M"
+        },
+        "32": {
+          "concept": "代词主语",
+          "note": "此处需要一个主语代词指代前句提及的单数名词“Purple dye”（紫色染料），故用it。",
+          "answer": "G"
+        },
+        "33": {
+          "concept": "连词搭配",
+          "note": "“not only ... but also ...”为固定关联连词，意为“不仅……而且……”。",
+          "answer": "E"
+        },
+        "34": {
+          "concept": "不定冠词",
+          "note": "“wearing a purple robe”意为“穿着一件紫色的长袍”，此处修饰单数可数名词robe。",
+          "answer": "A"
+        },
+        "35": {
+          "concept": "主谓一致与时态",
+          "note": "本句主语为单数名词“Purple”，且事情发生在过去（back then），因此系动词使用过去式单数was。",
+          "answer": "N"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "all",
+          "C": "always",
+          "D": "any",
+          "E": "but",
+          "F": "from",
+          "G": "it",
+          "H": "its",
+          "J": "of",
+          "K": "their",
+          "L": "these",
+          "M": "those",
+          "N": "was",
+          "P": "were",
+          "Q": "will"
+        },
+        "cloze": [
+          "Have you heard of the Purple Parade? Every year, this event brings people together to celebrate the inclusivity [Q26] individuals with special needs. By wearing purple to the event, it is hoped that national awareness of the needs of these people [Q27] be raised.",
+          "Purple is a great choice of colour - it has [Q28] been considered the colour of royalty. In fact, not [Q29] could wear purple! It was reserved for the upper class in the past. Some Roman emperors even forbade [Q30] people from wearing it. Purple dye in [Q31] days came from tiny sea snails and was extremely rare. [Q32] was therefore extremely expensive. Purple was worn not only to show wealth [Q33] also to signal authority, prestige and power. The Persian king, Cyrus, was known for wearing [Q34] purple robe for royal ceremonies.",
+          "Purple, a blend of rich red and blue colours, [Q35] everywhere in royal life back then. Rulers wore purple robes and signed letters with purple ink. Royal children were described as being \"born in the purple\".",
+          "Don't you think that the colour purple has such a rich history?"
+        ],
+        "zh": [
+          "你听说过“紫色游行”（Purple Parade）吗？每年，这项活动都会让人们聚集在一起，共同庆祝对特殊需要人群的包容性。通过在活动中穿着紫色，人们希望能够提高全国对这些人需求的关注。",
+          "紫色是一个极佳的颜色选择——它一直被认为是皇室的颜色。事实上，并不是所有人都能穿紫色！在过去，它是上层阶级的专属。一些罗马皇帝甚至禁止他们的百姓穿着它。那个时期的紫色染料来自于微小的海螺，极其罕见。因此它非常昂贵。穿紫色不仅是为了彰显财富，而且也是为了彰显权威、声望和力量。波斯国王居鲁士就以在皇家仪式上穿着一件紫色长袍而闻名。",
+          "紫色是由浓郁的红色和蓝色混合而成的颜色，在当时的皇家生活中无处不在。统治者穿着紫色长袍，用紫色墨水签署信件。皇室子女被描述为“诞生于紫色之中”（出身高贵）。",
+          "你不觉得紫色有如此丰富的历史吗？"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "词形变化 (时态)",
+          "note": "此处为过去完成时结构“had + 过去分词”，动词 prefer 应改为过去分词形式 preferred。",
+          "answer": "preferred"
+        },
+        "37": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“不舒服的”形容词应将 unkumrtible 纠正为 uncomfortable。",
+          "answer": "uncomfortable"
+        },
+        "38": {
+          "concept": "单词拼写",
+          "note": "拼写错误，副词“剧烈地、彻底地”应将 drastiquely 纠正为 drastically。",
+          "answer": "drastically"
+        },
+        "39": {
+          "concept": "单词拼写",
+          "note": "拼写错误，形容词“沉浸的、专心致志的”应将 imerssed 纠正为 immersed。",
+          "answer": "immersed"
+        },
+        "40": {
+          "concept": "词性转换",
+          "note": "原句中名词 glory 应当改为形容词形式 glorious，用以修饰后面的名词 masterpiece，意为“壮丽的杰作”。",
+          "answer": "glorious"
+        },
+        "41": {
+          "concept": "词性转换",
+          "note": "原句中动词 soothe 应当改为形容词形式 soothing，用以修饰后面的名词 sound，表示“抚慰人心的声音、悦耳的声音”。",
+          "answer": "soothing"
+        },
+        "42": {
+          "concept": "介词搭配",
+          "note": "固定搭配错误，表示“使某人入睡”应用 lull someone to sleep，横线处应将 in 改为 to。",
+          "answer": "to"
+        },
+        "43": {
+          "concept": "词形变化 (时态)",
+          "note": "整篇故事采用过去时态叙述，动词 awake 应当改为过去式形式 awoke。",
+          "answer": "awoke"
+        },
+        "44": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“大量、丰富”的名词应将 plithora 纠正为 plethora。",
+          "answer": "plethora"
+        },
+        "45": {
+          "concept": "单词拼写",
+          "note": "拼写错误，形容词“至关重要的、关键的”应将 krushial 纠正为 crucial。",
+          "answer": "crucial"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Last month, my family and I went camping at Corine Beach. Initially, I was not excited about the trip as I had [Q36(prefer)] staying indoors reading to spending time outdoors. Camping sounded [Q37(unkumrtible)], especially since we had to sleep in a tent without any air conditioning.",
+          "However, my perspective changed [Q38(drastiquely)] on the first evening. As the sun began to set, the sky was painted in shades of orange and pink. Always [Q39(imerssed)] in my books, I hardly paid attention to sunsets until that day. The [Q40(glory)] masterpiece was a sight to behold. That night, the [Q41(soothe)] sound of the waves gently crashing against the shore lulled me [Q42(in)] sleep.",
+          "The next morning, I [Q43(awake)], feeling refreshed. Exploring the area, we were greeted by a [Q44(plithora)] of colourful flowers, birds, and insects. My mother and I spent hours on the beach, collecting interesting shells and watching crabs scuttle across the sand. My father introduced to me the different plants and I learnt that each one plays a [Q45(krushial)] role in the ecosystem. That camping trip was truly amazing."
+        ],
+        "zh": [
+          "上个月，我们全家去科林海滩露营。起初，我对这次旅行并不感到兴奋，因为比起在户外度过时光，我更喜欢呆在室内看书。露营听起来很不舒服，尤其是因为我们不得不睡在没有任何空调的帐篷里。",
+          "然而，在第一天晚上，我的看法发生了彻底的改变。当太阳开始下落时，天空被染成了橙色和粉红色的色调。我总是沉浸在书本中，直到那天我才开始注意到日落。那壮丽的杰作真是一道美丽的风景。那天晚上，海浪轻轻拍打海岸的温柔声音抚慰着我，让我进入了梦乡。",
+          "第二天早上，我醒来后感到神清气爽。在探索这个地区时，迎接我们的是大量的五彩缤纷的花朵、鸟类和昆虫。我和妈妈在海滩上度过了几个小时，收集有趣的贝壳，看螃蟹在沙滩上疾行。父亲向我介绍了不同的植物，我了解到每一种植物都在生态系统中发挥着至关重要的作用。那次露营旅行真的很奇妙。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "动词词义辨析",
+          "note": "表示世界各地的学校餐食“大不相同”，使用不及物动词 vary 或 differ，此处主语为复数，动词用原形。",
+          "answer": "vary"
+        },
+        "47": {
+          "concept": "动词词义辨析",
+          "note": "表示这顿饭“开始于”开胃菜，使用 begins 或 starts，主语为第三人称单数 The meal，故动词加 s。",
+          "answer": "begins"
+        },
+        "48": {
+          "concept": "固定搭配/分词作后置定语",
+          "note": "consisting of 表示“由……组成”，用现在分词短语作后置定语修饰 main dish；也可用过去分词短语 made of。",
+          "answer": "consisting"
+        },
+        "49": {
+          "concept": "名词词义辨析",
+          "note": "an abundance of 表示“丰富的/大量的”，符合语境中提供充足维生素和矿物质的意思。也可以用 array 或 assortment。",
+          "answer": "abundance"
+        },
+        "50": {
+          "concept": "名词词义辨析",
+          "note": "fresh produce 特指“新鲜农产品”（集合名词，不可数），后文的蔬菜、水果和蘑菇对其进行了同位语解释说明。",
+          "answer": "produce"
+        },
+        "51": {
+          "concept": "动词固定短语",
+          "note": "draw up a menu/plan 表示“拟定/制定菜单或计划”，此处为被动语态，故用过去分词 drawn。",
+          "answer": "drawn"
+        },
+        "52": {
+          "concept": "名词词义辨析",
+          "note": "dining options 表示“餐饮选择”，符合食堂提供多元文化、多样化摊位供选择的语境。",
+          "answer": "options"
+        },
+        "53": {
+          "concept": "介词固定搭配",
+          "note": "choose from... 表示“从……中进行选择”。",
+          "answer": "from"
+        },
+        "54": {
+          "concept": "动词词义辨析",
+          "note": "educate students on... 表示“在某方面教育学生”，符合推行健康膳食计划的目的。",
+          "answer": "educate"
+        },
+        "55": {
+          "concept": "固定习惯搭配",
+          "note": "as part of... 为固定习语，表示“作为……的一部分”。",
+          "answer": "part"
+        },
+        "56": {
+          "concept": "动词词义辨析与搭配",
+          "note": "undergo training 表示“接受/经历培训”，符合摊贩必须参加强制性培训的语境，也可用 attend 或 receive。",
+          "answer": "undergo"
+        },
+        "57": {
+          "concept": "动词固定搭配",
+          "note": "comply with 为固定搭配，表示“遵守/符合（指南、规定）”。",
+          "answer": "comply"
+        },
+        "58": {
+          "concept": "介词固定搭配",
+          "note": "come with 表示“伴随/带有”，此处指售卖的零食必须带有“健康选择”标志。",
+          "answer": "with"
+        },
+        "59": {
+          "concept": "分词作后置定语",
+          "note": "artificially sweetened by sugar 指“通过糖人工加糖/变甜的”饮料，sweetened 用作过去分词修饰 drinks。",
+          "answer": "sweetened"
+        },
+        "60": {
+          "concept": "动词词义辨析",
+          "note": "increases the risk of... 表示“增加……的风险”，which 引导定语从句修饰前面的先行词或主句情况，动词用单三形式形式。",
+          "answer": "increases"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "What do you usually eat during recess? School meals around the world [Q46(vary)] greatly. However, they all share a common goal - to nourish young minds and bodies. In France, school lunches are served in several parts. The meal [Q47(begins)] with an appetiser, followed by a main dish [Q48(consisting)] of protein like salmon or lamb. Next, students enjoy their cheese and bread. Finally, they wrap up the meal with dessert. These provide students with an [Q49(abundance)] of vitamins and minerals.",
+          "Japan takes a unique approach to school dining. Nearly all primary school lunches use only locally grown, fresh [Q50(produce)] - vegetables, fruits and mushrooms - obtained from nearby farms. School lunch menus are usually [Q51(drawn)] up by a nutritionist.",
+          "Singapore's school canteens offer the most diverse dining [Q52(options)], reflecting the nation's multicultural heritage. Students can choose [Q53(from)] various stalls selling Chinese, Indian, Malay, and Western food. The Healthy Meals in Schools Programme has been implemented to [Q54(educate)] students on making healthier food and beverage choices. As [Q55(part)] of this initiative, canteen vendors are required to serve wholegrains, fruits, and vegetables daily. Therefore, they [Q56(undergo)] mandatory training by the Health Promotion Board. Routine checks by schools are conducted to ensure that they [Q57(comply)] with nutrition guidelines.",
+          "This programme ensures that students obtain appropriate nutrients for their growing needs. Snacks sold have to come [Q58(with)] the Healthier Choice symbol. Plain water is the ideal beverage choice while drinks artificially [Q59(sweetened)] by sugar are strongly discouraged. Likewise, processed foods are also not recommended. They are often high in salt, which [Q60(increases)] the risk of heart disease. Through these efforts, Singapore's schools are helping students develop lifelong healthy eating habits that will benefit them well into adulthood."
+        ],
+        "zh": [
+          "你在休息时间通常吃什么？世界各地的学校餐食大不相同。然而，它们都有一个共同的目标——滋养年轻的身心。在法国，学校午餐分几个部分供应。这顿饭以开胃菜开始，接着是主要由鲑鱼或羊肉等蛋白质组成的主菜。接下来，学生们享用他们的奶酪和面包。最后，他们以甜点结束这顿饭。这些为学生提供了丰富的维生素和矿物质。",
+          "日本在学校餐饮方面采取了独特的方法。几乎所有的小学午餐都只使用当地种植的新鲜农产品——从附近农场获得的蔬菜、水果和蘑菇。学校午餐菜单通常由营养师制定。",
+          "新加坡的学校食堂提供最丰富多样的餐饮选择，反映了该国多元文化的传统。学生可以从售卖中餐、印度餐、马来餐和西餐的各种摊位中进行选择。“学校健康膳食计划”已经实施，以教育学生做出更健康的食品和饮料选择。作为这一倡议的一部分，食堂摊贩被要求每天供应全谷物、水果和蔬菜。因此，他们接受了健康促进局的强制性培训。学校进行例行检查，以确保他们遵守营养指南。",
+          "该计划确保学生获得适合其成长需要的营养。出售的零食必须带有“健康选择”标志。白开水是理想的饮料选择，而人工加糖的饮料则被强烈反对。同样，也不推荐加工食品。它们通常含有高盐分，这增加了患心脏病的风险。通过这些努力，新加坡的学校正在帮助学生养成终身健康的饮食习惯，这将使他们一直受益到成年。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "These towers are not connected by bridges.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "None of"
+        },
+        "62": {
+          "stem_plain": "The lucky customer chose the last carton of mangoes.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "The last"
+        },
+        "63": {
+          "stem_plain": "The girl pronounced the difficult word accurately to impress her teacher.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "The girl's accurate"
+        },
+        "64": {
+          "stem_plain": "\"I won't be joining you for the celebration tomorrow,\" Vivien told her parents.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Vivien told her parents that"
+        },
+        "65": {
+          "stem_plain": "The mountain trail was steep and challenging. The hikers reached the summit successfully.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Undeterred by"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "代词转换与主谓一致 — None of 结构的肯定转换",
+          "zh": "这些塔中没有一座是用桥连接的。",
+          "note": "改写要点：使用 None of these towers 替代原句的主语，将否定词 not 融入主语中，使谓语动词变为肯定形式 are connected by bridges。注意指示代词 these 不能丢。",
+          "answer": "None of these towers are connected by bridges."
+        },
+        "62": {
+          "concept": "语态转换 — 主动语态变被动语态",
+          "zh": "最后一箱芒果被那位幸运的顾客选走了。",
+          "note": "改写要点：原句的宾语短语 the last carton of mangoes 提到句首作为新主语。谓语动词 chose（一般过去时）转换为对应的被动语态形式 was chosen，最后由 by 引出动作发出者。",
+          "answer": "The last carton of mangoes was chosen by the lucky customer."
+        },
+        "63": {
+          "concept": "词性转换 — 动词+副词变名词短语 (pronounced ... accurately -> accurate pronunciation)",
+          "zh": "这个女孩对那个难词的准确发音让她的老师留下了深刻印象。",
+          "note": "改写要点：将动词 pronounced 和修饰它的副词 accurately 转换为名词短语 accurate pronunciation。整句的后半部分需要相应调整为以主谓结构为主的完整句式，如 impressed her teacher。",
+          "answer": "The girl's accurate pronunciation of the difficult word impressed her teacher."
+        },
+        "64": {
+          "concept": "间接引语 — 陈述句的转述与时态/人称/时间状语转换",
+          "zh": "薇薇安告诉父母，她第二天不会和他们一起参加庆祝活动。",
+          "note": "改写要点：1. 人称代词转换：I -> she, you -> them；2. 时态向后推移：won't (will not) -> wouldn't (would not)；3. 时间状语转换：tomorrow -> the next day 或 the following day。",
+          "answer": "Vivien told her parents that she wouldn't be joining them for the celebration the next day."
+        },
+        "65": {
+          "concept": "分词短语作状语 — 形容词短语 Undeterred by + 名词作让步状语",
+          "zh": "不惧山路险峻和充满挑战，登山者们成功登顶。",
+          "note": "改写要点：Undeterred by 是一个过去分词构成的形容词短语，后面需要接名词或名词短语。将第一个句子的形容词 steep and challenging 转换为名词所有格形式/并列名词短语 the steepness and challenge of the mountain trail 或 the steep and challenging mountain trail。主句保持不变。",
+          "answer": "Undeterred by the steep and challenging mountain trail, the hikers reached the summit successfully."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "In Paragraph 1, Colin went to a countryside farm. Provide two reasons why Colin expected \"a month of boredom\". (line 4) [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(i)",
+              "question": "[Q66a]"
+            },
+            {
+              "stem_plain": "(ii)",
+              "question": "[Q66b]"
+            }
+          ]
+        },
+        "67": {
+          "stem_plain": "Circle the word that best describes the characters' feelings. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) Colin \"wrinkled his nose at the earthy smell\" (lines 5-6)",
+              "interaction": "radio_comp",
+              "options": [
+                "aghast",
+                "bored",
+                "disgusted"
+              ],
+              "max_selections": 1
+            },
+            {
+              "stem_plain": "(b) \"Then, she greeted him warmly\" (line 10)",
+              "interaction": "radio_comp",
+              "options": [
+                "nostalgic",
+                "satisfied",
+                "thrilled"
+              ],
+              "max_selections": 1
+            }
+          ]
+        },
+        "68": {
+          "stem_plain": "Explain in your own words what Grandma was doing before Colin arrived. [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "69": {
+          "stem_plain": "Why did Colin eye Grandma warily? (line 12) [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "70": {
+          "stem_plain": "Which four-word phrase from Paragraph 4 suggests an acceptance of the situation without protest? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "71": {
+          "stem_plain": "Based on lines 9-31, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Colin had visited Grandma before.",
+                "b) Grandma cared about Colin's feelings.",
+                "c) According to Grandma, the smaller hens were easily frightened."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q71a]",
+                "[Q71c]",
+                "[Q71e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q71b]",
+                "[Q71d]",
+                "[Q71f]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "Explain clearly what had caused the hens to escape. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the word(s) in the left column refer to in the passage? Write your answers in the column on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "a) this (line 11)",
+                "b) the right moment (line 31)",
+                "c) nothing (line 39)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]",
+                "[Q73c]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Explain clearly how Colin lured the large hen back to its coop. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "75": {
+          "stem_plain": "Complete the information below. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "One lesson Colin learnt from the visit is [Q75a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "Cite a piece of evidence to support your answer in (a). [Q75b]"
+            }
+          ]
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "Literal Retrieval",
+          "note": "<ol><li><strong>题型：</strong>双起因并列提取题——考查从第一段精准提炼主角对农场生活产生无聊预期的两个对比参照点（2分）。</li><li><strong>得分点：</strong>1分归于指出他习惯了城市生活<span class='hl-good'>busy and exciting holidays with friends</span>；另1分归于指出他习惯在空调房里舒服地<span class='hl-good'>playing computer games in his air-conditioned bedroom</span>，而这些在乡村农场都不复存在。</li><li><strong>失分点：</strong>照抄“sent him to stay with his grandmother”等没有触及心理预设原因的背景句。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "66a": "His school holidays in the city had always been busy and exciting as he went out with his friends.",
+            "66b": "He was used to playing computer games in the comfort of his air-conditioned bedroom."
+          }
+        },
+        "67": {
+          "concept": "Vocabulary / Emotion Vocabulary Matching",
+          "note": "<ol><li><strong>题型：</strong>文本神态/语气词汇心理映射选择题（2分）。</li><li><strong>(a) 得分点：</strong>“wrinkled his nose at the earthy smell”（闻到泥土味皱鼻子）在选项中对应最准确的是嫌恶、反感，故选 <span class='hl-good'>disgusted</span>。</li><li><strong>(b) 得分点：</strong>“greeted him warmly”并激动地表示要展示不一样的事物，对应祖母见到孙子时十分兴奋开心的心情，故选 <span class='hl-good'>thrilled</span>。</li><li><strong>失分点：</strong>误选 bored 或 satisfied 等偏离神态隐喻的核心词。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "67a": "disgusted",
+            "67b": "thrilled"
+          }
+        },
+        "68": {
+          "concept": "In Words / Paraphrasing",
+          "note": "<ol><li><strong>题型：</strong>自主语言转化题——要求严格脱离原文词汇，用自己的话重组并翻译第二段中祖母的体力活动（1分）。</li><li><strong>得分点：</strong>必须对“plucking out invasive stems...”进行同义转换，答出她当时正在<span class='hl-good'>pulling out weeds / removing wild plants that took away space and food from the crops</span>（在农田里拔除跟农作物抢夺养分和空间的野草）。</li><li><strong>失分点：</strong>直接套用或大面积照抄原文词汇（如 plucking out invasive stems 没做改动）。</li></ol>",
+          "type": "comprehension",
+          "answer": "She was pulling out wild weeds that were competing with the farm crops for nutrients and space."
+        },
+        "69": {
+          "concept": "Character Intention Retrieval",
+          "note": "<ol><li><strong>题型：</strong>人物深层心理分析题——剖析角色“警惕（warily）”观察背后的根本怀疑心态（2分）。</li><li><strong>得分点：</strong>结合第3段的独白，1分归于指出他<span class='hl-good'>did not know what Grandma was going to show him</span>（完全不知道祖母要展示什么）；另1分归于指出他<span class='hl-good'>doubted anything on a countryside farm could be special or interesting</span>（内心极度怀疑乡村农场上会有什么特别的、好玩的事物）。</li><li><strong>失分点：</strong>单薄地翻译字面，未点出对乡村农场事物缺乏信心、存在偏见的内心戏。</li></ol>",
+          "type": "comprehension",
+          "answer": "Colin did not know what his grandmother was going to show him, and he doubted that anything on a countryside farm could be special or interesting compared to the city."
+        },
+        "70": {
+          "concept": "Phrase Matching",
+          "note": "<ol><li><strong>题型：</strong>严格字数限定词组提取题——考查从第四段中提取代表“默默顺从、毫无抗议地接受”的“四个单词”词组（1分）。</li><li><strong>得分点：</strong>必须是第四段中精准的四个单词：<span class='hl-good'>waited in quiet submission</span>。</li><li><strong>失分点：</strong>漏掉动词写成 quiet submission（三个词）或者多抄了后面的词导致字数不符。</li></ol>",
+          "type": "comprehension",
+          "answer": "waited in quiet submission"
+        },
+        "71": {
+          "concept": "True/False with Justification",
+          "note": "<ol><li><strong>题型：</strong>判断正误并说明理由题——要求跨越多段检索对话和行为细节，完成对陈述真实性的核对与判别（3分）。</li><li><li><strong>a) 小题：</strong><span class='hl-good'>True</span>。理由：第10行祖母直接说道“It's been a long time since you were here”，这有力地证明他以前来过农场，只是很久没来了。</li><li><li><strong>b) 小题：</strong><span class='hl-good'>True</span>。理由：第17行提到当祖母看到科林撇嘴不高兴时，她“patted Colin on the shoulder gently”并主动关切地问“What's with the frown?”，这体现出她对孙子情绪波动的体贴和照顾。</li><li><li><strong>c) 小题：</strong><span class='hl-good'>True</span>。理由：第28行在雨中追赶时，祖母大喊“They're not as bold as the large one!”（它们不像大鸡那么大胆），侧面指出小母鸡们更容易受惊吓、胆子小。</li><li><strong>失分点：</strong>判断与理由矛盾，或给出的客观理由未在指定文本内找到依据。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "True",
+            "71b": "Grandma greeted Colin by saying that it had been a long time since he was last at the farm.",
+            "71c": "True",
+            "71d": "When she saw Colin frowning at the coop, she gently patted his shoulder and comforted him by pointing out how the smaller chickens got their food.",
+            "71e": "True",
+            "71f": "Grandma called out to Colin over the rain that the smaller birds were not as bold or brave as the large hen."
+          }
+        },
+        "72": {
+          "concept": "Cause and Effect Analysis",
+          "note": "<ol><li><strong>题型：</strong>多重物理环境因果分析题——全面还原导致母鸡惊慌逃离鸡舍的外部环境诱因（2分）。</li><li><strong>得分点：</strong>需结合风与雨的双重打击。1分归于指出<span class='hl-good'>strong winds whipped across the farm, rattled fences and tugged at the coop door until it swung open</span>（狂风肆虐扯开了鸡舍大门）；另1分归于指出<span class='hl-good'>heavy rain poured down and panicked the hens</span>，使它们陷入羽毛飞扬的极度恐慌从而四处散逃。</li><li><strong>失分点：</strong>只怪罪大雨而忽略了狂风吹开鸡舍大门这一最为直接的导火索。</li></ol>",
+          "type": "comprehension",
+          "answer": "Strong winds whipped across the farm, rattling the fences and blowing the coop door wide open with a loud creak, while the sudden pouring rain panicked the hens and caused them to burst out in all directions."
+        },
+        "73": {
+          "concept": "Contextual Referencing",
+          "note": "题型：代词/特异名词短语还原题——考查精确定位前置或者特定情节内涵指代的能力（3分）。(a) this (行 11)：向前追溯行7-8，指代的是祖母正在忙碌的劳作，即 plucking out invasive stems that competed with crops for nutrients and space / weeding on the farm。(b) the right moment (行 31)：结合前文喂食时的智慧，指的是 the time when the larger hen turned away so the smaller birds could peck at grains safely（大母鸡转过身去、可以让小鸡安全啄食谷物的时机）。(c) nothing (行 39)：结合后文，指代的是抛出诱饵后场面的短暂沉寂，即 the large hen not moving or responding to the grains leading to the coop（大母鸡没有对引向鸡舍的谷物做出任何动作或反应）。失分点：(b)小题只写了小鸡吃食物的时间，指代过宽，没有抓牢“避开大鸡、等待反击”的博弈性时机定义。",
+          "type": "comprehension",
+          "answer": {
+            "73a": "The large hen bullying the smaller hens at feeding time by pecking them and eating irst",
+            "73b": "The specific time during feeding when the larger hen turned away, allowing smaller hens to peck at the grains safely",
+            "73c": "The alert large hen not moving or making any reaction toward the trail of grains leading to the coop"
+          }
+        },
+        "74": {
+          "concept": "Action Sequencing & Strategy Synthesis",
+          "note": "题型：策略与行动细节归纳题——考查梳理主角克制本能冲动、成功诱导大母鸡入舍的全套动作链条（2分）。得分点：1分归于指出他改变了追赶策略，选择stood completely still and waited with bated breath（保持绝对静止，屏息等待以防惊吓到高度警惕的大鸡）；另1分归于指出他利用了规律，让大鸡注意到并follow step by step the bait of grains that led towards the coop（利用引向鸡舍的谷物作为诱饵，让其一步步顺着走回鸡舍并迅速关门）。失分点：混淆了对小鸡采取的“轻轻拍手引导”方法，大鸡只能依靠“绝对静止加食物引诱”才成功带回。",
+          "type": "comprehension",
+          "answer": "Colin changed his strategy by standing completely still and waiting with bated breath so as not to startle the alert bird. He then allowed the large hen to slowly notice a trail of grains used as bait and follow it step by step back into the coop before he quickly shut the door."
+        },
+        "75": {
+          "concept": "Moral Lesson & Textual Support",
+          "note": "题型：主旨启示总结与证据论证结合题（2分）。(a) 小题得分点：高度总结出他从抓鸡博弈中领悟到的人生哲学，即patience is crucial to success / being impulsive does not help and one must learn to wait for the right moment（耐心是解决难题的核心，冲动无济于事，必须学会等待时机）。(b) 小题得分点：带入结尾祖母给予高度肯定的标志性结语证据，即祖母说nothing teaches you how to wait like the chickens（没有什么能像这些鸡一样教会你如何去等待）。失分点：道理和事实证据不配对，或者道理表述脱离了故事里“学会克制、懂得等待”的核心精神内核。",
+          "type": "comprehension",
+          "answer": {
+            "75a": "patience is necessary to overcome challenges and being impulsive does not help in difficult situations.",
+            "75b": "At the end of the story, Grandma nodded and said that nothing teaches a person how to wait like the chickens after Colin successfully controlled his urge to rush and captured the large hen."
+          }
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Colin's school holidays in the city had always been busy and exciting. If he was not",
+          "2": "out with his friends, the twelve-year-old would be playing computer games in the comfort of",
+          "3": "his air-conditioned bedroom. Thus, when his parents sent him to stay with his grandmother",
+          "4": "on a countryside farm, Colin expected a month of boredom.",
+          "5": "The moment Colin stepped onto the dirt path, he wrinkled his nose at the earthy",
+          "6": "smell clinging to his shoes. The sky seemed wider, the air calmer, and even the sun rose",
+          "7": "slowly, spilling gold rays across the fields. He spotted a figure bent over, her hands moving",
+          "8": "busily, plucking out invasive stems that competed with the crops for nutrients and space.",
+          "9": "Upon hearing his approach, she straightened up and dusted her hands on her",
+          "10": "jeans. Then, she greeted him warmly, \"Welcome, Colin. It's been a long time since you were",
+          "11": "here. Today, I'll show you something different. You don't see this happening in the city.\"",
+          "12": "Colin eyed Grandma warily. What was she going to show him? How special could",
+          "13": "something on the farm be? Colin followed his grandmother to the chicken coop, dragging his",
+          "14": "feet as he walked. There, hens clucked loudly, jostling for the grains scattered across the",
+          "15": "ground. Suddenly, one large hen shoved the others aside, pecking greedily while the smaller",
+          "16": "birds waited in quiet submission. Colin grimaced. Why did they let it push them around?",
+          "17": "Grandma patted Colin on the shoulder gently. \"What's with the frown?\" she asked,",
+          "18": "pointing at the chickens. \"See what they are doing? They know how to get food despite being",
+          "19": "smaller!\" Colin watched more closely and noticed the smaller hens pecking at the grains",
+          "20": "when the larger one turned away. He started to smile.",
+          "21": "By midday, dark clouds gathered. Wind whipped across the farm, rattling fences",
+          "22": "and tugging at the coop door. With a loud creak, the door swung open. Rain poured down,",
+          "23": "and the hens burst out in a flurry of feathers and panicked clucks.",
+          "24": "\"Grandma! The chickens!\" Colin shouted, his heart racing. The birds scattered in all",
+          "25": "directions and showed no sign of turning back – some charged towards the open field while",
+          "26": "others darted under the bushes. Colin's first instinct was to sprint after them, but they were",
+          "27": "swifter than he was.",
+          "28": "\"Wait! They're not as bold as the large one!\" Grandma called over the rain. Colin",
+          "29": "froze. What if they never came back? His chest tightened as he breathed hard and fast.",
+          "30": "Then he remembered the smaller hens at feeding time – how they had waited, watched, and",
+          "31": "chosen the right moment. Being impulsive would not help.",
+          "32": "Taking a deep breath, Colin changed his strategy. He slowed his steps and softened",
+          "33": "his movements. Instead of chasing, he began guiding. He circled behind two hens, gently",
+          "34": "steering them towards the coop. He clapped lightly, not to scare them, but to direct them.",
+          "35": "One by one, a few hens began to return. He inhaled deeply, suppressing a smile. The large",
+          "36": "one, however, remained in the field, tense and alert. Each time Colin moved too quickly, it",
+          "37": "darted farther away. Colin muttered in frustration, \"Why can't you just come back?\" He took",
+          "38": "another deep breath and stood still for a moment, thinking.",
+          "39": "Colin waited with bated breath. For a long moment, nothing happened. Then,",
+          "40": "slowly, the hen tilted its head, noticing the grains that led towards the coop. Step by step, it",
+          "41": "followed the bait. Colin resisted the urge to rush. At last, the hen crossed into the coop. Colin",
+          "42": "quickly shut the door. He was drenched and muddy, yet quietly triumphant. Grandma nodded",
+          "43": "and said, \"Getting drenched is totally worth it – nothing teaches you how to wait like the",
+          "44": "chickens!\""
+        },
+        "paragraphs": {
+          "1": "科林在城市里的学校假期总是忙碌而令人兴奋的。如果他不和朋友们出去，这位十二岁的少年就会呆在舒适的空调卧室里玩电脑游戏。因此，当他的父母送他去乡村农场的祖母家暂住时，科林做好了度过一个枯燥乏月的心理准备。",
+          "5": "科林踏上泥泞小路的那一刻，闻到粘在鞋子上的泥土气味，不由得皱了皱鼻子。天空显得更宽阔，空气更平静，甚至太阳也升得有些缓慢，将金色的光芒洒在原野上。他注意到一个弯着腰的身影，她的双手正忙碌地移动着，拔除那些与农作物争夺养分和空间的侵入性茎叶。",
+          "9": "听到他走近的声音，她直起身子，在牛仔裤上拍了拍手上的灰尘。然后，她热情地迎接着他：“欢迎，科林。你很久没来这里了。今天，我带你看点不一样的。你在城市里可看不到这一幕。”",
+          "12": "科林警惕地打量着祖母。她打算带他看什么？农场上的东西能有多特别？科林跟在祖母身后走向鸡舍，一路上拖着步子。在那里，母鸡们大声啼叫着，争相抢夺散落在一地上的谷物。突然，一只大母鸡把其他鸡推到一边，贪婪地啄食起来，而体型较小的鸡则在一旁温顺地静静等待。科林撇了撇嘴。它们为什么任由它推来推去？",
+          "17": "祖母轻轻地拍了拍科林的肩膀。“干嘛皱着眉头？”她指着鸡群问道。“看到它们在做什么了吗？尽管体型较小，但它们知道怎么得到食物！”科林更仔细地观察，注意到当那只大母鸡转过身去时，小母鸡们便会凑上前啄食谷物。他开始笑了起来。",
+          "21": "到了中午，乌云密布。狂风扫过农场，吹得栅栏啪啪作响，并扯动着鸡舍的门。随着一声沉重的嘎吱声，鸡舍大门被吹开了。大雨倾盆而下，母鸡们在一阵羽毛飞扬和惊慌的啼叫声中四处乱飞了出来。",
+          "24": "“祖母！鸡跑出来了！”科林大喊着，心跳加速。鸡群向四面八方散开，完全没有回头的迹象——有些冲向了开阔的田野，而另一些则钻进了灌木丛。科林的第一反应是飞奔过去追赶它们，但它们的速度比他快得多。",
+          "28": "“等等！它们不像那只大鸡那么大胆！”祖母在雨中大声喊道。科林僵住了。如果它们再也不回来该怎么办？他急促而沉重地喘着气，胸口一阵发紧。随后，他想起了喂食时的小母鸡——它们是如何等待、观察并选择正确时机的。意气用事是帮不上忙的。",
+          "32": "科林深吸了一口气，改变了他的策略。他放慢了脚步，放轻了动作。他不再追赶，而是开始引导。他绕到两只母鸡后面，温柔地将它们引向鸡舍。他轻轻地拍了拍手，不是为了吓唬它们，而是为了指挥它们。一只接一只，几只母鸡开始走回鸡舍。他深吸了一口气，强忍住微笑。然而，那只大母鸡仍留在田野里，紧绷着神经，保持着警惕。每当科林移动得太快，它就会跑到更远的地方。科林沮丧地嘟囔着：“你为什么就不能回来呢？”他再次深吸了一口气，静静地站了一会儿，思索着。",
+          "39": "科林屏住呼吸等待着。在很长一段时间里，什么也没有发生。然后，慢慢地，那只母鸡歪了歪头，注意到了那些通往鸡舍的谷物。一步一步地，它顺着诱饵走了过去。科林克制住冲过去的冲动。终于，那只母鸡走进了鸡舍。科林迅速关上了门。他全身湿透，满是泥泞，内心却体会到了悄无声息的胜利。祖母点了点头说道：“淋透了也完全值得——没有什么能像这些鸡一样教会你如何去等待！”"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

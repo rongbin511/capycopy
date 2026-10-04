@@ -1,0 +1,1582 @@
+{
+  "paperid": "p6_english_2023_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "“I’m not fond of animals, ________ I don’t keep pets,” said Michael.",
+          "options": {
+            "1": "so",
+            "2": "for",
+            "3": "but",
+            "4": "though"
+          }
+        },
+        "2": {
+          "stem_plain": "“She won’t be angry if we’re a little late, ________?” asked Kim Kiat.",
+          "options": {
+            "1": "is she",
+            "2": "can she",
+            "3": "will she",
+            "4": "would she"
+          }
+        },
+        "3": {
+          "stem_plain": "If this dress does not fit, you must return it to the store ________ seven days to get a refund.",
+          "options": {
+            "1": "within",
+            "2": "inside",
+            "3": "outside",
+            "4": "without"
+          }
+        },
+        "4": {
+          "stem_plain": "Kavitha helped her brother ________ the furniture into his new apartment.",
+          "options": {
+            "1": "move",
+            "2": "moves",
+            "3": "moved",
+            "4": "moving"
+          }
+        },
+        "5": {
+          "stem_plain": "The battle is of great historical significance, but ________ know of Private Lim’s involvement in securing victory over the enemies.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "some",
+            "4": "many"
+          }
+        },
+        "6": {
+          "stem_plain": "By the time Johnny arrived at the party, Wendy ________ her favourite song and left.",
+          "options": {
+            "1": "sang",
+            "2": "sings",
+            "3": "is singing",
+            "4": "had sung"
+          }
+        },
+        "7": {
+          "stem_plain": "The police officer, along with his K-9 unit, ________ patrolling the streets tonight.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "“________ for the track and field competition for the past year?” asked one of the athletes.",
+          "options": {
+            "1": "Did you train",
+            "2": "Are you training",
+            "3": "Have you trained",
+            "4": "Have you been training"
+          }
+        },
+        "9": {
+          "stem_plain": "Mr. Zainal and his daughter like to wash the car ________ rather than take it to the car wash.",
+          "options": {
+            "1": "himself",
+            "2": "herself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "10": {
+          "stem_plain": "________ of the suspects was interrogated separately by the police detective.",
+          "options": {
+            "1": "All",
+            "2": "Any",
+            "3": "Each",
+            "4": "Some"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "连词 — so（结果）",
+          "zh": "迈克尔说：“我不喜欢动物，所以不养宠物。”",
+          "note": "两句为因果关系，用 so 连接；应选（1）。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "附加问句 — will she",
+          "zh": "金杰问：“我们要是晚一点她也不会生气，对吧？”",
+          "note": "won't 陈述句用 will she 附加问；应选（3）。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "介词 — within",
+          "zh": "若裙子不合身，须在七天内退回商店才能退款。",
+          "note": "within 表“在……之内”；应选（1）。",
+          "answer": "1"
+        },
+        "4": {
+          "concept": "动词不定式 — bare infinitive",
+          "zh": "卡维塔帮哥哥把家具搬进新公寓。",
+          "note": "help 后接动词原形；应选（1）。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "量词 — few",
+          "zh": "这场战役意义重大，但很少有人知道林列兵在战胜敌人中的作用。",
+          "note": "few 修饰可数概念“人”；应选（1）。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "时态 — 过去完成时",
+          "zh": "约翰尼到派对时，温迪已经唱完最爱的歌离开了。",
+          "note": "By the time + 过去，主句用过去完成；应选（4）。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "主谓一致 — is",
+          "zh": "警官及其警犬队今晚正在巡逻街道。",
+          "note": "along with 不影响主语单数；应选（1）。",
+          "answer": "1"
+        },
+        "8": {
+          "concept": "时态 — 现在完成进行时",
+          "zh": "“过去一年你一直在为田径比赛训练吗？”一名运动员问。",
+          "note": "for the past year 用现在完成进行时；应选（4）。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "反身代词 — themselves",
+          "zh": "再纳尔先生和女儿喜欢自己洗车，而不是去洗车场。",
+          "note": "复数主语用 themselves；应选（4）。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "主谓一致 — Each",
+          "zh": "每个嫌疑人都被警探单独审问。",
+          "note": "Each of 作主语，谓语用单数；应选（3）Each。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The new dress code policy in school, which banned certain types of clothing, was considered ________ with some feeling it was unfair and others feeling it was necessary.",
+          "options": {
+            "1": "trivial",
+            "2": "satisfactory",
+            "3": "insignificant",
+            "4": "controversial"
+          }
+        },
+        "12": {
+          "stem_plain": "Mr Tan, a retired man in his seventies, has been ________ leaving his home of forty years to live with his married son and grandchildren.",
+          "options": {
+            "1": "reflecting",
+            "2": "meditating",
+            "3": "speculating",
+            "4": "contemplating"
+          }
+        },
+        "13": {
+          "stem_plain": "Since the chairman of the company was ill, the meeting was ________ that day. The meeting will be rescheduled when he is well.",
+          "options": {
+            "1": "called for",
+            "2": "called off",
+            "3": "called up",
+            "4": "called out"
+          }
+        },
+        "14": {
+          "stem_plain": "Medicine should be kept where it is ________ to children to prevent accidental poisoning.",
+          "options": {
+            "1": "invisible",
+            "2": "inaccessible",
+            "3": "inconvenient",
+            "4": "inappropriate"
+          }
+        },
+        "15": {
+          "stem_plain": "“It will take all your ________ and will power to be able to walk again after the accident,” said the doctor to his patient.",
+          "options": {
+            "1": "creativity",
+            "2": "happiness",
+            "3": "intelligence",
+            "4": "determination"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "新校服规定被认为有争议，有人觉得不公平，有人觉得有必要。",
+          "note": "应选（4）controversial：有人觉得不公平、有人觉得必要，表分歧。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "trivial",
+              "zh": "琐碎的",
+              "eg": "During morning assembly, our principal used <strong>trivial</strong> in a sentence about teamwork and responsibility."
+            },
+            {
+              "opt": "2",
+              "word": "satisfactory",
+              "zh": "令人满意的",
+              "eg": "The reporter wrote that the rescue team had to act <strong>satisfactory</strong> before the storm grew worse."
+            },
+            {
+              "opt": "3",
+              "word": "insignificant",
+              "zh": "不重要的",
+              "eg": "In her composition, Mei Ling showed how the word <strong>insignificant</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "4",
+              "word": "controversial",
+              "zh": "有争议的",
+              "eg": "The new dress code policy in school, which banned certain types of clothing, was considered <strong>controversial</strong> with some feeling it was unfair and others feeling it was necessary."
+            }
+          ]
+        },
+        "12": {
+          "zh": "七十多岁的退休人士谭先生一直在考虑离开住了四十年的家，去和儿子一家同住。",
+          "note": "应选（4）contemplating：表认真考虑搬迁。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reflecting",
+              "zh": "反思",
+              "eg": "The reporter wrote that the rescue team had to act <strong>reflecting</strong> before the storm grew worse."
+            },
+            {
+              "opt": "2",
+              "word": "meditating",
+              "zh": "冥想",
+              "eg": "In her composition, Mei Ling showed how the word <strong>meditating</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "3",
+              "word": "speculating",
+              "zh": "推测",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>speculating</strong> when reading historical plaques."
+            },
+            {
+              "opt": "4",
+              "word": "contemplating",
+              "zh": "考虑",
+              "eg": "After the experiment, the science teacher asked us to use <strong>contemplating</strong> in a complete sentence of our own."
+            }
+          ]
+        },
+        "13": {
+          "zh": "主席生病，那天的会议被取消了，等他康复后会重新安排。",
+          "note": "应选（2）called off：会议取消。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "called for",
+              "zh": "要求/呼吁",
+              "eg": "In her composition, Mei Ling showed how the word <strong>called for</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "2",
+              "word": "called off",
+              "zh": "取消",
+              "eg": "Since the chairman of the company was ill, the meeting was <strong>called off</strong> that day. The meeting will be rescheduled when he is well."
+            },
+            {
+              "opt": "3",
+              "word": "called up",
+              "zh": "征召/打电话",
+              "eg": "After the experiment, the science teacher asked us to use <strong>called up</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "4",
+              "word": "called out",
+              "zh": "大声叫/出动",
+              "eg": "The coach reminded the players that <strong>called out</strong> is common in sports commentary and news reports."
+            }
+          ]
+        },
+        "14": {
+          "zh": "药品应放在儿童接触不到的地方，以防误服中毒。",
+          "note": "应选（2）inaccessible：儿童拿不到。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "invisible",
+              "zh": "看不见的",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>invisible</strong> when reading historical plaques."
+            },
+            {
+              "opt": "2",
+              "word": "inaccessible",
+              "zh": "接触不到的",
+              "eg": "Medicine should be kept where it is <strong>inaccessible</strong> to children to prevent accidental poisoning."
+            },
+            {
+              "opt": "3",
+              "word": "inconvenient",
+              "zh": "不方便的",
+              "eg": "The coach reminded the players that <strong>inconvenient</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "4",
+              "word": "inappropriate",
+              "zh": "不合适的",
+              "eg": "During morning assembly, our principal used <strong>inappropriate</strong> in a sentence about teamwork and responsibility."
+            }
+          ]
+        },
+        "15": {
+          "zh": "医生说：“事故后要再能走路，需要你的全部决心和意志力。”",
+          "note": "应选（4）determination：与 will power 并列。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "creativity",
+              "zh": "创造力",
+              "eg": "After the experiment, the science teacher asked us to use <strong>creativity</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "2",
+              "word": "happiness",
+              "zh": "幸福",
+              "eg": "The coach reminded the players that <strong>happiness</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "3",
+              "word": "intelligence",
+              "zh": "智力",
+              "eg": "During morning assembly, our principal used <strong>intelligence</strong> in a sentence about teamwork and responsibility."
+            },
+            {
+              "opt": "4",
+              "word": "determination",
+              "zh": "决心",
+              "eg": "“It will take all your <strong>determination</strong> and will power to be able to walk again after the accident,” said the doctor to his patient."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "succeed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "excelled",
+            "2": "achieved",
+            "3": "succeeded",
+            "4": "accomplished"
+          }
+        },
+        "17": {
+          "stem_plain": "unstimulating",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "bland",
+            "2": "boring",
+            "3": "recurring",
+            "4": "repetitive"
+          }
+        },
+        "18": {
+          "stem_plain": "drive",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "trigger",
+            "2": "incentive",
+            "3": "motivation",
+            "4": "encouragement"
+          }
+        },
+        "19": {
+          "stem_plain": "establish",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "attained",
+            "2": "acquitted",
+            "3": "accepted",
+            "4": "accumulated"
+          }
+        },
+        "20": {
+          "stem_plain": "eventually",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "instantly",
+            "2": "generally",
+            "3": "belatedly",
+            "4": "eventually"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Albert Einstein is considered one of the most intelligent people in history. However, as a child, he struggled in some subjects in school but performed well in Mathematics and Science. Despite playing truant and cramming for examinations, he still managed to [Q16 (succeed)] in school. Einstein found traditional schooling to be [Q17 (unstimulating)]. However, he was impressed by people's [Q18 (drive)] to learn despite these factors.",
+          "When he entered his teenaged years, he demonstrated skepticism towards authority figures and questioned established mathematical and scientific principles. He then went on to write his first scientific paper at 16. At 26, he earned his advanced academic degree and published four ground-breaking articles in Physics that challenged what man understood about the concepts of time and gravity.",
+          "This ultimately led to his own ground-breaking discoveries. These discoveries would [Q20 (eventually)] establish him as one of the most famous scientists in history. His work would [Q19 (establish)] him among the leading thinkers of the twentieth century."
+        ],
+        "zh": [
+          "阿尔伯特·爱因斯坦被认为是历史上最聪明的人之一。然而，他小时候有些科目学得吃力，但在数学和科学上表现很好。尽管经常逃学、临时抱佛脚备考，他仍在学业上取得了成功。爱因斯坦觉得传统学校教育枯燥无味，但他仍被人们学习的动力所打动。",
+          "进入青少年时期后，他对权威人物表现出怀疑，并质疑既有的数学与科学原理。16岁时他写下第一篇科学论文；26岁时获得高等学位，并发表四篇挑战人类对时间与引力理解的突破性物理学文章。",
+          "这最终促成了他自己的重大发现，这些发现终将使他成为历史上最著名的科学家之一，也使他在二十世纪思想家中占据重要地位。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — succeed（成功）",
+          "zh": "尽管逃学、临时抱佛脚，他仍在学业上表现出色。",
+          "note": "应选（1）'excelled'：短文 <em>succeed</em> 在此指学业上表现优异、脱颖而出，与 <em>excelled</em>（出类拔萃）最接近。'achieved'：义为'达到、取得'，较泛，不如 excel 突出优异。'succeeded'：义为'成功'，与原文 succeed 同词，近义题应选不同表达。'accomplished'：义为'完成、达成目标'，偏完成任务，非学业表现优异。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "excelled",
+              "zh": "出类拔萃",
+              "eg": "He <strong>excelled</strong> in Mathematics."
+            },
+            {
+              "opt": "2",
+              "word": "achieved",
+              "zh": "达到",
+              "eg": "<strong>achieved</strong> good grades"
+            },
+            {
+              "opt": "3",
+              "word": "succeeded",
+              "zh": "成功",
+              "eg": "<strong>succeeded</strong> in the exam"
+            },
+            {
+              "opt": "4",
+              "word": "accomplished",
+              "zh": "完成/达成",
+              "eg": "<strong>accomplished</strong> his goals"
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — unstimulating（枯燥）",
+          "zh": "爱因斯坦觉得传统学校教育很无聊。",
+          "note": "应选（2）'boring'：划线 <em>unstimulating</em> 表'不能激发兴趣、枯燥'，与 <em>boring</em>（乏味的）同义。'bland'：义为'平淡、无味'，多形容食物或风格，不如 boring 贴切形容学校。'recurring'：义为'反复出现'，与枯燥无关。'repetitive'：义为'重复的'，强调重复性，非 unstimulating 的核心义。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "bland",
+              "zh": "平淡的",
+              "eg": "a <strong>bland</strong> meal"
+            },
+            {
+              "opt": "2",
+              "word": "boring",
+              "zh": "乏味的",
+              "eg": "a <strong>boring</strong> lesson"
+            },
+            {
+              "opt": "3",
+              "word": "recurring",
+              "zh": "反复出现的",
+              "eg": "a <strong>recurring</strong> problem"
+            },
+            {
+              "opt": "4",
+              "word": "repetitive",
+              "zh": "重复的",
+              "eg": "<strong>repetitive</strong> tasks"
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — drive（动力）",
+          "zh": "尽管如此，他仍为人们学习的动力所打动。",
+          "note": "应选（3）'motivation'：划线 <em>drive</em> 在此指内在学习动力，与 <em>motivation</em>（动机、动力）同义。'trigger'：义为'触发因素'，偏外部诱因。'incentive'：义为'激励、奖励'，多指外在好处。'encouragement'：义为'鼓励'，来自他人，非内在 drive。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "trigger",
+              "zh": "触发因素",
+              "eg": "a <strong>trigger</strong> for change"
+            },
+            {
+              "opt": "2",
+              "word": "incentive",
+              "zh": "激励",
+              "eg": "financial <strong>incentive</strong>"
+            },
+            {
+              "opt": "3",
+              "word": "motivation",
+              "zh": "动力",
+              "eg": "strong <strong>motivation</strong> to learn"
+            },
+            {
+              "opt": "4",
+              "word": "encouragement",
+              "zh": "鼓励",
+              "eg": "words of <strong>encouragement</strong>"
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — establish（确立地位）",
+          "zh": "他的著作使他在二十世纪思想家中占据一席之地。",
+          "note": "应选（1）'attained'：划线 <em>establish</em> 表'确立地位、使成为……之一'，与 <em>attained</em>（获得、达到）最接近。'acquitted'：义为'宣告无罪'，法律用语，完全不符。'accepted'：义为'被接受'，不表确立地位。'accumulated'：义为'积累'，与 establish 地位无关。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "attained",
+              "zh": "获得/达到",
+              "eg": "<strong>attained</strong> recognition"
+            },
+            {
+              "opt": "2",
+              "word": "acquitted",
+              "zh": "宣告无罪",
+              "eg": "<strong>acquitted</strong> of the charge"
+            },
+            {
+              "opt": "3",
+              "word": "accepted",
+              "zh": "接受",
+              "eg": "widely <strong>accepted</strong>"
+            },
+            {
+              "opt": "4",
+              "word": "accumulated",
+              "zh": "积累",
+              "eg": "<strong>accumulated</strong> wealth"
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — eventually（最终）",
+          "zh": "这些发现终将使他成为历史上最著名的科学家之一。",
+          "note": "应选（4）'eventually'：划线词与选项同形，表'经过一段时间后最终'，为正确近义选择。'instantly'：义为'立刻'，与 eventually 相反。'generally'：义为'通常、大体上'，不表时间终局。'belatedly'：义为'迟来地'，含延误义，不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "instantly",
+              "zh": "立刻",
+              "eg": "<strong>instantly</strong> famous"
+            },
+            {
+              "opt": "2",
+              "word": "generally",
+              "zh": "通常",
+              "eg": "<strong>generally</strong> true"
+            },
+            {
+              "opt": "3",
+              "word": "belatedly",
+              "zh": "迟来地",
+              "eg": "arrived <strong>belatedly</strong>"
+            },
+            {
+              "opt": "4",
+              "word": "eventually",
+              "zh": "最终",
+              "eg": "<strong>eventually</strong> succeeded"
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "To get a guaranteed spot at the Young Innovators Programme, Amelia needs to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "email her innovative idea to Dr. Aaron Ng",
+            "2": "follow the Instagram page of Great Inventions Magazine",
+            "3": "create 30 samples of her innovative idea for Dr. Aaron Ng",
+            "4": "sign up for the programme through SG Innovation’s website"
+          }
+        },
+        "22": {
+          "stem_plain": "What is an advantage of sending in your innovative ideas to Great Inventions Magazine?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "All ideas will be transformed into an actual product.",
+            "2": "All ideas will be published in the next issue of the magazine.",
+            "3": "All submissions entitle you to attend the Young Innovators Programme for free.",
+            "4": "All submissions entitle you to meet the founder of SG Innovation, Dr. Aaron Ng."
+          }
+        },
+        "23": {
+          "stem_plain": "Ahmad would like to develop his innovation skills. According to the article, he should ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "be observant to understand people’s behaviour",
+            "2": "work on the first solution that comes to his mind",
+            "3": "stay positive and ignore negative feedback given",
+            "4": "challenge himself to answer everyone’s questions"
+          }
+        },
+        "24": {
+          "stem_plain": "Based on the table “Top 10 most innovative nations”, which of the following statements is **not** true?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Britain maintained its position in 2022.",
+            "2": "Switzerland tops the chart in both 2021 and 2022.",
+            "3": "Only Denmark and Sweden dropped one position in 2022.",
+            "4": "Singapore and United States moved up one position in 2022 compared to 2021."
+          }
+        },
+        "25": {
+          "stem_plain": "The three products introduced in the article are invented to meet the needs of our daily lives. Based on the article, which of the following statements is true?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The roti maker machine is popular worldwide.",
+            "2": "The floppy disk is unable to store as much data as a thumb drive.",
+            "3": "The infrared fever screening system can identify someone with the SARS disease.",
+            "4": "The roti maker helps to knead the dough after you mix the ingredients manually."
+          }
+        },
+        "26": {
+          "stem_plain": "Why are dashes (-) used in the sentence “All you have to do is to put the ingredients — flour, oil, water — into the machine and ‘Rotimatic’ does the rest.” under the section **'Roti maker'**?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to list information on the ingredients needed",
+            "2": "to simplify information on how the machine can be used",
+            "3": "to provide information about the convenience of the machine",
+            "4": "to indicate information about the ingredients needed in a specific order"
+          }
+        },
+        "27": {
+          "stem_plain": "The thumb drive is a useful innovation for the following possible reasons **except** ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to store data",
+            "2": "to be small in size",
+            "3": "to be connected with cables",
+            "4": "to derive power from the computer"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this article?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to teach readers the history of innovation",
+            "2": "to promote the Young Innovators Programme",
+            "3": "to teach readers how to turn their ideas into products",
+            "4": "to encourage readers to contribute their ideas to the magazine"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "信息定位题",
+          "note": "<p>Programme signup via <span class=\"hl-good\">SG Innovation's website</span> guarantees a spot → option (4).</p>",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "细节判断题",
+          "note": "<p>Magazine states ideas may be <span class=\"hl-good\">published in the next issue</span> → option (2).</p>",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "细节判断题",
+          "note": "<p>Article advises innovators to <span class=\"hl-good\">be observant</span> about people's behaviour → option (1).</p>",
+          "answer": "1"
+        },
+        "24": {
+          "concept": "细节判断题（NOT true）",
+          "note": "<p>Table shows more than Denmark and Sweden dropped in 2022 → <span class=\"hl-bad\">Only Denmark and Sweden</span> is NOT true → (3).</p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "细节判断题",
+          "note": "<p>Thumb drive stores more than floppy disk; article says floppy <span class=\"hl-good\">unable to store as much data</span> → (2).</p>",
+          "answer": "2"
+        },
+        "26": {
+          "concept": "标点功能题",
+          "note": "<p>Dashes set off <span class=\"hl-good\">flour, oil, water</span> — listing ingredients → (1).</p>",
+          "answer": "1"
+        },
+        "27": {
+          "concept": "细节判断题（except）",
+          "note": "<p>Thumb drive draws power <em>from</em> the computer — that is a feature, not an advantage reason listed as exception; option (4) is the <span class=\"hl-bad\">except</span> answer per key.</p>",
+          "answer": "4"
+        },
+        "28": {
+          "concept": "主旨题",
+          "note": "<p>Article repeatedly promotes the <span class=\"hl-good\">Young Innovators Programme</span> → main purpose (2).</p>",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "D": "because",
+          "G": "from",
+          "K": "is",
+          "N": "under",
+          "B": "an",
+          "E": "by",
+          "H": "however",
+          "L": "of",
+          "P": "was",
+          "C": "and",
+          "F": "even",
+          "J": "in",
+          "M": "ourselves",
+          "Q": "yourself"
+        },
+        "cloze": [
+          "Apologising for mistakes though difficult is necessary for personal growth and improved relationships. It is unavoidable to have gotten on the nerves of one another occasionally when interacting with others. When you are [Q29] a lot of stress, you might say something unkind or even lash out in anger to someone you care about. All of us make thoughtless mistakes [Q30] time to time, like forgetting a promise or saying something disrespectful. It [Q31] important to apologise when you have hurt or angered someone [Q32] if you do not think what you have said or done is rude.",
+          "Apologising is hard [Q33] we do not want to feel bad about ourselves. We try to have a positive image of [Q34] which can make sincerely apologising quite hard. [Q35], not being able to own up to our mistakes or make a sincere apology to someone when we need to can also prevent us from growing and learning from our experiences.",
+          "For [Q36] apology to be effective, it has to be genuine. You want to convey that you truly feel sorry and care about the person who was hurt and promise to make amends [Q37] taking steps to avoid similar mistakes going forward. It takes a lot of courage to admit that you have made a mistake [Q38] to apologise for it. It will be scary at first, but in the long run, it can really improve your relationships with the people around you."
+        ],
+        "zh": [
+          "道歉虽难，但对个人成长和改善人际关系很有必要。与人交往时，偶尔惹恼对方在所难免。压力大时，你可能对在乎的人说刻薄话，甚至发怒。我们都会不时犯粗心错误，比如忘记承诺或说无礼的话。即使你并不认为自己言行粗鲁，伤害了或惹怒了他人的时候，道歉仍然重要。",
+          "道歉之所以难，是因为我们不想对自己感到糟糕。我们总想维持积极的自我形象，这会让真诚道歉变得困难。然而，不能承认错误或在该道歉时不真诚道歉，也会阻碍我们从经历中成长和学习。",
+          "要让道歉有效，必须发自内心。你要让对方感到你真心懊悔、在乎他，并承诺通过采取措施避免再犯类似错误来弥补。承认错误并为此道歉需要很大勇气。起初会害怕，但长远来看，这能真正改善你与周围人的关系。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — under（在……之下/承受）",
+          "note": "<p>固定搭配 <em>under stress</em>（承受压力）→ 故填'<strong>N — under</strong>'。</p>",
+          "answer": "N — under"
+        },
+        "30": {
+          "concept": "固定搭配 — from time to time",
+          "note": "<p><em>from time to time</em> 表'不时、偶尔'→ 故填'<strong>G — from</strong>'。</p>",
+          "answer": "G — from"
+        },
+        "31": {
+          "concept": "系动词 — is",
+          "note": "<p>主语 <em>It</em> 指 apologising 这件事，单数 → <span class=\"hl-good\">is</span> important → 故填'<strong>K — is</strong>'。</p>",
+          "answer": "K — is"
+        },
+        "32": {
+          "concept": "让步 — even if",
+          "note": "<p><em>even if you do not think … is rude</em> 表'即使你并不认为……'→ 故填'<strong>F — even</strong>'。</p>",
+          "answer": "F — even"
+        },
+        "33": {
+          "concept": "原因连词 — because",
+          "note": "<p><em>Apologising is hard because we do not want to feel bad</em> → 故填'<strong>D — because</strong>'。</p>",
+          "answer": "D — because"
+        },
+        "34": {
+          "concept": "反身代词 — ourselves",
+          "note": "<p><em>a positive image of ourselves</em> → 故填'<strong>M — ourselves</strong>'。</p>",
+          "answer": "M — ourselves"
+        },
+        "35": {
+          "concept": "转折 — however",
+          "note": "<p>句首 <em>However,</em> 转折：道歉难，但不道歉也会阻碍成长 → 故填'<strong>H — however</strong>'。</p>",
+          "answer": "H — however"
+        },
+        "36": {
+          "concept": "冠词 — an",
+          "note": "<p><em>an apology</em> 以元音音素开头 → 故填'<strong>B — an</strong>'。</p>",
+          "answer": "B — an"
+        },
+        "37": {
+          "concept": "方式介词 — by",
+          "note": "<p><em>make amends by taking steps</em> 表方式 → 故填'<strong>E — by</strong>'。</p>",
+          "answer": "E — by"
+        },
+        "38": {
+          "concept": "并列连词 — and",
+          "note": "<p><em>admit … mistake and to apologise</em> 并列两个不定式 → 故填'<strong>C — and</strong>'。</p>",
+          "answer": "C — and"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "A heatwave is currently sweeping across large areas of Asia. According [Q39(with)] local media, at least ten people had died in India. The extreme heat is affecting agriculture [Q40(adverse)] as farmers report a decline in their harvests.",
+          "Scientists have warned that this heatwave will [Q41(persisting)] . Professor Emeritus added, \"Global warming is [Q42(expediting)] extreme weather conditions, which may be threatening for those without [Q43(adequate)] access to shelters.\" He warned that soaring temperatures were the result of climate change and the impact on vulnerable population would be [Q44(disastrous)] .",
+          "Many low-lying countries, such as Singapore and Bangladesh, have reported [Q45(erratic)] rainfalls. In particular, Bangladesh had been dramatically impacted by floods [Q46(whom)] saw a high number of deaths. Rescue work has been [Q47(hampered)] by heavy rains and a lack of manpower. Many had chosen to remain indoors as a [Q48(prekausion)] . Sumu Hamid commented, \"I do not recall seeing [Q49(these)] kind of weather here when I was a young boy.\" Indeed, as many countries continue to grapple [Q50(onto)] the challenges brought by extreme weather conditions, they can only hope that the weather pattern regains some form of stability again. The nation's weather authority will continue to monitor the weather closely."
+        ],
+        "zh": [
+          "热浪正席卷亚洲大片地区。据当地媒体报道，印度至少已有十人因此死亡。极端高温正在对农业产生不利影响，农民报告收成下降。",
+          "科学家警告这股热浪将持续。一位荣休教授补充说，全球变暖正在加剧极端天气，对缺乏充足庇护所的人可能构成威胁。他警告说，气温飙升是气候变化的结果，对脆弱人群的影响将是灾难性的。",
+          "新加坡和孟加拉国等许多低洼国家报告降雨反常。特别是孟加拉国受洪水严重影响，造成大量死亡。救援工作因大雨和人力不足而受阻。许多人选择待在室内作为预防措施。Sumu Hamid 评论说，他年轻时在这里从未见过这样的天气。的确，随着各国继续应对极端天气带来的挑战，他们只能希望天气模式能再次恢复某种稳定。国家气象部门将继续密切监测天气。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "介词 — to",
+          "note": "<p><em>According with</em> is wrong → fixed phrase <strong>According to</strong> local media.</p>",
+          "answer": "to"
+        },
+        "40": {
+          "concept": "词性 — adversely",
+          "note": "<p><em>adverse</em> (adj) cannot modify verb <em>affecting</em> → adverb <strong>adversely</strong>.</p>",
+          "answer": "adversely"
+        },
+        "41": {
+          "concept": "动词形式 — persist",
+          "note": "<p><em>will persisting</em> → modal + base verb <strong>persist</strong>.</p>",
+          "answer": "persist"
+        },
+        "42": {
+          "concept": "拼写 — expediting",
+          "note": "<p><em>expediting</em> is already the correct -ing form; key retains <strong>expediting</strong> (accelerating).</p>",
+          "answer": "expediting"
+        },
+        "43": {
+          "concept": "拼写/词形 — adequate",
+          "note": "<p><em>adequate</em> access (sufficient) — correct spelling <strong>adequate</strong>.</p>",
+          "answer": "adequate"
+        },
+        "44": {
+          "concept": "拼写 — disastrous",
+          "note": "<p><em>disastrous</em> impact — correct spelling <strong>disastrous</strong>.</p>",
+          "answer": "disastrous"
+        },
+        "45": {
+          "concept": "拼写 — erratic",
+          "note": "<p><em>erratic</em> rainfalls — correct spelling <strong>erratic</strong>.</p>",
+          "answer": "erratic"
+        },
+        "46": {
+          "concept": "关系代词 — which",
+          "note": "<p>Floods (thing) → relative <strong>which</strong>, not <em>whom</em> (person).</p>",
+          "answer": "which"
+        },
+        "47": {
+          "concept": "拼写 — hampered",
+          "note": "<p><em>hampered</em> by rains — correct spelling <strong>hampered</strong>.</p>",
+          "answer": "hampered"
+        },
+        "48": {
+          "concept": "拼写 — precaution",
+          "note": "<p><em>prekausion</em> → <strong>precaution</strong>.</p>",
+          "answer": "precaution"
+        },
+        "49": {
+          "concept": "指示词 — this",
+          "note": "<p><em>this kind of weather</em> (singular) → <strong>this</strong>, not <em>these</em>.</p>",
+          "answer": "this"
+        },
+        "50": {
+          "concept": "介词 — with",
+          "note": "<p><em>grapple with</em> challenges → <strong>with</strong>, not <em>onto</em>.</p>",
+          "answer": "with"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "\"Something tells me it's all happening at the zoo\" is the opening line of the 1960s pop song \"At the Zoo.\" In fact, a great deal is happening in the zoo world these days. Zoos and aquariums around the world [Q51] over 700 million visitors a year. More than 6,000 animal species live in zoos including 1,000 endangered species.",
+          "Zoos today no longer just display animals. They focus on educating the public about Earth's remarkable biodiversity. At the [Q52] time, they also entertain and excite visitors with shows and performances.",
+          "Why, then, [Q53] so many zoos being urged to change quickly? Zoos are not new creations. Menageries, which are collections of wild animals maintained to entertain the rich and royalty, have been around [Q54] thousands of years. There are ancient carvings and artwork from Egypt and Mesopotamia dating back to 2500 BCE that show animals [Q55] in cages and pits. [Q56] their long history, some critics are saying that zoos are simply bad for wild creatures. The animal advocacy group, PETA, has [Q57] that zoos are cruel places that teach people it is acceptable to take animals from their homes and deprive them of any [Q58] over their lives.",
+          "However, famed animal activist Jane Goodall insists that based on scientific research, if designed well, zoos [Q59] undoubtedly help preserve the lives of wild animals by educating the public. She maintains that the best place for animals is not the zoos but in [Q60] natural habitats. Zoos are now changing their physical layouts. They are replacing traditional zoo-designs such as cages and animal houses with larger and more naturalistic habitats [Q61] animals can roam freely. Instead of forcing wildlife [Q62] the human environment, they are inviting humans into the creatures' world.",
+          "Another change is the Species Survival Programme, which brings together endangered animals from different zoos, offering them the [Q63] to breed. The zoo in Phoenix, Arizona, undertook such a dramatic rescue. Scientists there [Q64] up a breeding programme for the Arabian Oryx, a type of antelope that had gone extinct in the wild. It was a roaring [Q65]! Now, more than 1,000 Oryxes have been successfully returned to the wild. Today's zoos, with their eyes on the future, are working hard to honour and respect Earth's magnificent wildlife."
+        ],
+        "zh": [
+          "“Something tells me it's all happening at the zoo”是20世纪60年代流行歌曲《At the Zoo》的开场白。事实上，如今动物园界正发生许多事。全球动物园和水族馆每年接待超过七亿游客，饲养六千多种动物，其中包括一千种濒危物种。",
+          "如今的动物园不再只是展示动物，它们注重教育公众认识地球非凡的生物多样性，同时用表演和节目娱乐、激发游客。",
+          "那么，为何仍有如此多动物园被敦促迅速改变？动物园并非新创。为取悦富人和王室的动物收藏已存在数千年。公元前2500年埃及和美索不达米亚的古代雕刻与艺术品就显示动物被关在笼子和坑里。尽管历史悠久，一些批评者仍认为动物园对野生动物有害。动物权益组织 PETA 声称，动物园是残酷之地，教人接受把动物从家园带走、剥夺其对自己生活的控制。",
+          "然而，著名动物活动家 Jane Goodall 坚持认为，根据科学研究，若设计良好，动物园无疑能通过教育公众帮助保护野生动物。她认为动物最好的归宿不是动物园，而是其自然栖息地。动物园正在改变物理布局，用更大、更自然的栖息地取代传统笼舍和兽舍，让动物自由漫游；不再把野生动物强行放入人类环境，而是邀请人类进入动物的世界。",
+          "另一项变化是物种生存计划，把来自不同动物园的濒危动物聚集在一起，让它们有机会繁殖。亚利桑那州凤凰城的动物园曾进行如此戏剧性的救援，科学家为当地已野外灭绝的阿拉伯大羚羊建立了繁殖计划，并取得了巨大成功！如今已有千余只大羚羊成功放归野外。着眼未来的当今动物园正努力尊崇并保护地球壮丽的野生动物。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "主谓一致与动词原形",
+          "note": "主语为复数名词组合 Zoos and aquariums（动物园与水族馆）。本句陈述每年固定的客观统计现状，使用一般现在时，指它们每年“吸引”、“接待”或“拥有”超过七亿名游客，故填 attract / receive / welcome / have。",
+          "answer": "attract/receive/welcome/have"
+        },
+        "52": {
+          "concept": "固定习惯搭配",
+          "note": "与其前后的介词 At the 和名词 time 完美结合，构成极高频考查的经典逻辑递进专属习语 at the same time，意为在开展公众教育的“同时”，它们也通过表演娱乐大众。",
+          "answer": "same"
+        },
+        "53": {
+          "concept": "特殊疑问句与现在进行时被动语态",
+          "note": "特殊疑问句结构中，由于后面紧跟的复数名词主语 so many zoos 充当动作承受者，且后接分词 being urged，构成进行时被动语态的疑问句倒装语序（are... being urged），故填入复数系动词 are。",
+          "answer": "are"
+        },
+        "54": {
+          "concept": "时间介词完成时搭配",
+          "note": "前面有现在完成时谓语结构 have been around（已经存在了）。后面紧跟表示一段时间的短语 thousands of years，完美契合时间介词 for 的核心习惯用法，表示这一现象已经持续了数千年。",
+          "answer": "for"
+        },
+        "55": {
+          "concept": "过去分词短语作后置定语",
+          "note": "修饰前面的名词 animals。指古代艺术作品中所描绘的那些“被关在”、“被囚禁”或“被锁在”笼子和深坑中的动物，填入过去分词形式 kept / trapped / locked / held 充当定语。",
+          "answer": "kept/trapped/locked/held"
+        },
+        "56": {
+          "concept": "让步关系复合介词",
+          "note": "后接名词短语 their long history（它们悠久的历史）。此处不能用连词 although，必须使用让步介词 Despite 或 In spite of 来表达“尽管它们历史悠久，一些批评者仍旧认为动物园对野生动物有害”。位于句首需大写。",
+          "answer": "Despite"
+        },
+        "57": {
+          "concept": "现在完成时动词语意",
+          "note": "前面有现在完成时助动词 has，后面接过去分词。指动物保护组织 PETA 已经公开“声称”、“指出”或“辩称”动物园是残忍的场所，故填 past participle 形式 stated / argued / claimed / declared。",
+          "answer": "stated/argued/claimed/declar"
+        },
+        "58": {
+          "concept": "名词固定习惯搭配",
+          "note": "与前置的动词短语 deprive them of any 以及后置的介词短语 over their lives 完美组合。表示“剥夺他们对自己生活的任何‘控制权（control）’、‘发言权（say）’或‘自主权（choice/freedom）’”，在此语境下 control 或 say 最完美契合 over 这一介词搭配。",
+          "answer": "control/say/choice/freedom"
+        },
+        "59": {
+          "concept": "情态动词语意修饰",
+          "note": "在 if 引导的条件句中作主句的谓语。后面紧跟副词 undoubtedly 和动词原形 help，填入情态动词 can / will / may，表示如果设计得当，动物园无疑“能够/将会”通过教育公众来帮助保护野生动物。",
+          "answer": "can/will/may"
+        },
+        "60": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词短语 natural habitats。与前文指代野生动物的复数名词 animals 保持人称和视角的前后一致，指动物最适合待在“它们的”自然栖息地，故用复数代词 their。",
+          "answer": "their"
+        },
+        "61": {
+          "concept": "关系副词引导定语从句",
+          "note": "引导限定性定语从句，修饰表示场所和地理位置的先行词 habitats（栖息地/环境）。动物可以在这些环境中自由漫步，在从句中充当地点状语，故填入关系副词 where（或者介词短语 in which）。",
+          "answer": "where"
+        },
+        "62": {
+          "concept": "动词与介词固定搭配",
+          "note": "与前面的动词现在分词形式 forcing 完美组合。指不再像过去那样将野生动物强行“逼入”或“塞进”人类的环境中，构成固定专属运动趋势搭配 force wildlife into... 结构。",
+          "answer": "into"
+        },
+        "63": {
+          "concept": "名词与不定式固定句型",
+          "note": "前面有定冠词 the，后接不定式符号 to breed。完美契合表示赋予繁衍可能性的高频核心结构 offering them the chance/opportunity/choice to do something，意为为它们提供“机会”或“选择”。",
+          "answer": "chance/opportunity/choice"
+        },
+        "64": {
+          "concept": "一般过去时短语动词",
+          "note": "由于整段在回忆凤凰城动物园过去所实施的具体拯救行动（undertook），此处谓语动词需采用一般过去时。与后面的副词 up 完美组合，构成高频短语动词 set up（建立/创办了繁育计划），其过去式仍为 set（填入 started 后面无法直接接 up 搭配，故 set 唯一正确）。",
+          "answer": "set"
+        },
+        "65": {
+          "concept": "经典习语固定搭配",
+          "note": "前面有不定冠词 a 和形容词 roaring（轰鸣的/巨大的）。完美契合英语中用于形容取得空前伟大成就的经典比喻专属习语 a roaring success，意为这项拯救行动获得了“巨大的成功”。",
+          "answer": "success"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "We were caught in a traffic jam. We did not arrive for our lessons punctually.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "We were caught in a traffic jam __________ we did not arrive for our lessons punctually."
+        },
+        "67": {
+          "stem_plain": "James asked Molly, “Did you attend the concert by the world-renowned pianist yesterday?”",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "James asked Molly __________"
+        },
+        "68": {
+          "stem_plain": "The children organised the surprise party for Mrs Lim.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The surprise party __________"
+        },
+        "69": {
+          "stem_plain": "Jolene prefers to stay at home. She does not want to attend the party.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Jolene would rather __________"
+        },
+        "70": {
+          "stem_plain": "We were impressed as Betty was generous.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Betty’s __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "连词 — so（合并两句）",
+          "zh": "我们堵在路上，所以没有准时到校上课。",
+          "note": "两句主语相同，用 so 连接结果；填空只填连词 so。",
+          "answer": "We were caught in a traffic jam so we did not arrive for our lessons punctually."
+        },
+        "67": {
+          "concept": "间接引语 — 一般疑问句",
+          "zh": "詹姆斯问莫莉，她前一天是否参加了那位世界知名钢琴家的音乐会。",
+          "note": "引语变间接引语：if + 陈述语序，时态后退，时间词调整。",
+          "answer": "James asked Molly if she had attended the concert by the world-renowned pianist the previous day."
+        },
+        "68": {
+          "concept": "被动语态 — was organised",
+          "zh": "惊喜派对是孩子们为林太太组织的。",
+          "note": "主动改被动：was organised by + 执行者。",
+          "answer": "The surprise party was organised by the children for Mrs Lim."
+        },
+        "69": {
+          "concept": "would rather … than",
+          "zh": "乔琳宁愿待在家里，也不愿去参加派对。",
+          "note": "would rather + 原形 … than + 原形，合并两句偏好。",
+          "answer": "Jolene would rather stay at home than attend the party."
+        },
+        "70": {
+          "concept": "名词化 — generosity",
+          "zh": "贝蒂的慷慨给我们留下了深刻印象。",
+          "note": "形容词 generous 名词化为 generosity 作主语。",
+          "answer": "Betty's generosity impressed us."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "According to paragraph one, where did most of Miss Rhode’s students live?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "**us** (line 4)",
+                "**tirade** (line 21)",
+                "**it** (line 35)"
+              ]
+            },
+            "col_2": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q72a]",
+                "[Q72b]",
+                "[Q72c]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Explain clearly why Miss Rhode's class was “fidgeting like a bucketful of wriggling worms” in lines 5 to 6.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Which four-word phrase in paragraph four tells us that the writer was wondering what she had done wrong after she had read the alphabet?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Was Miss Rhode happy that Jane was able to read? Give a reason why you think so.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Give two reasons why Tom did not take the money that Miss Rhode had offered him.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Based on lines 28 to 52, fill in the table below.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Action(s) that showed Tom was embarrassed",
+              "rows": [
+                "Tom looked straight ahead. I saw a muscle jump in his skinny jaw.",
+                "[Q77b]"
+              ]
+            },
+            "col_2": {
+              "header": "Reason(s) for Tom's embarrassment",
+              "rows": [
+                "[Q77a]",
+                "The writer told Tom that syrup did not go with vegetables, milk and meat."
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Based on the passage, state whether each statement in the table below is 'True' or 'False', then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Miss Rhode’s colleagues did not dare approach her for help.",
+                "(b) Tom's family paid the lawyer's fees with money.",
+                "(c) Tom was delighted to go to Jane and John’s house for lunch."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]",
+                "[Q78e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q78b]",
+                "[Q78d]",
+                "[Q78f]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "State one quality that best describes John. Support your answer with information from the passage.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "(a) Which of the following words best describe Jane's mother? Put a tick (✓) in the box beside your answer. Tick only **ONE** box.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "arrogant",
+            "pitiful",
+            "empathetic",
+            "unreasonable"
+          ],
+          "max_selections": 1
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "I prepared to go to school for the first time, an event that I had been eagerly",
+          "2": "anticipating, together with my older sibling, John. Once I was finally at school; however,",
+          "3": "I found that my teacher, Miss Rhode, was a strict disciplinarian. Miss Rhode began the",
+          "4": "day by reading **us** a story about cats. By the time Mrs Cat called the local bakery for",
+          "5": "an order of chocolate coated mice, the class was fidgeting **like a bucketful of**",
+          "6": "**wriggling worms.** Miss Rhode seemed unaware that her class, most of whom had",
+          "7": "never left the farms on which they were born, were completely uninterested. They were",
+          "8": "immune to imaginative literature.",
+          "9": "Then she chose me to read the alphabet that she had written on the blackboard.",
+          "10": "\"Jane, I want you to read me these letters I have written on the board,\" Miss Rhode's",
+          "11": "raspy voice echoed in the classroom. Her demeanour in the school was enough to",
+          "12": "frighten even her fellow colleagues. No one dared to approach her even if their lives",
+          "13": "depended on it.",
+          "14": "As I read the alphabet, a faint line appeared between her eyebrows; and after",
+          "15": "making me read most of our English textbook and several newspaper articles from *The*",
+          "16": "*Daily Mail* (the name of our local newspaper) aloud, she discovered that I was literate",
+          "17": "and looked at me with more than a faint distaste.",
+          "18": "\"Young lady, you can go home and tell your grandfather not to teach you",
+          "19": "anymore. You may be able to read but I want all my students to follow my way of",
+          "20": "reading!\" she instructed. I mumbled that I was sorry and retreated, meditating upon my",
+          "21": "crime. She had gone on a verbal rampage and it was evident her **tirade** was meant to",
+          "22": "make me feel guilty.",
+          "23": "At lunch time, Miss Rhode asked everybody who would be going home for lunch",
+          "24": "to raise their hands. The town children did so and she looked us over. The children",
+          "25": "from the rural countryside could not afford the time to go home to eat. Then she asked",
+          "26": "everyone who brought lunch to school to put it on their desk. Everyone did, except",
+          "27": "Tom Carson.",
+          "28": "\"Did you forget your lunch this morning?\" asked Miss Rhode.",
+          "29": "Tom looked straight ahead. I saw a muscle jump in his skinny jaw.",
+          "30": "Miss Rhode went to her desk and opened her purse. \"Here's a dollar for your",
+          "31": "lunch. You can pay me back tomorrow.\"",
+          "32": "Tom shook his head. \"No, thank you Ma'am,\" he murmured softly, but firmly, his",
+          "33": "head held high. He knew that her intention was to embarrass him in front of the class.",
+          "34": "Impatience crept into Miss Rhode's voice as she repeated her offer twice more.",
+          "35": "Tom Carson did not forget his lunch — his family simply could not afford **it**. He",
+          "36": "had none today nor would he have any tomorrow or the next day.",
+          "37": "Tom's family was large and poor—so poor that they paid the local lawyer with",
+          "38": "whatever they managed to harvest from their farms when they needed legal help and",
+          "39": "Tom would never be able to pay the teacher back or bring lunch to school. I attempted",
+          "40": "to explain these circumstances but Miss Rhode pretended not to understand and grew",
+          "41": "so frustrated that she slapped my hand with a ruler.",
+          "42": "Tom continued to refuse Miss Rhode's 'so-called' kind gesture. He knew she",
+          "43": "was shaming him in front of everyone. Just then, the shrill sound of the bell rang. Saved",
+          "44": "by **it**, the class filed out for lunch.",
+          "45": "\"Come home to lunch with us, Tom,\" John grinned at him. Tom's face",
+          "46": "brightened and his eyes lit up. John tried to camouflage his invitation in the guise of a",
+          "47": "play date so as not to make Tom aware of his social circumstance. John always did",
+          "48": "have a heart of gold.",
+          "49": "At home, Tom piled food on his plate and asked for some syrup. He poured",
+          "50": "syrup on his vegetables and meat and would probably have poured it into his milk",
+          "51": "glass as well had I not told him that syrup did not go with vegetables, meat and milk.",
+          "52": "He quickly put his hands on his lap and ducked his head.",
+          "53": "My mother heard what I had said and requested my presence in the kitchen.",
+          "54": "She was furious.",
+          "55": "\"Jane, anyone who sets foot in this house is a guest! Don't you let me catch you",
+          "56": "remarking on their ways like you are so high and mighty!\"",
+          "57": "When I returned to school, I spent the rest of the day sulking away."
+        },
+        "paragraphs": {
+          "1": "我第一次上学那天，我和哥哥 John 一起满怀期待地准备出门。然而一到学校，我发现老师 Miss Rhode 是个严厉的纪律执行者。Miss Rhode 先给我们读了一个关于猫的故事。等到故事里的猫打电话给面包店订购巧克力裹老鼠时，全班已经像一桶扭动的虫子一样坐立不安。Miss Rhode 似乎没意识到，班上大多数从未离开过出生农场的学生，对想象文学完全提不起兴趣，他们对这类文学免疫。",
+          "9": "接着她点名让我读她在黑板上写的字母。“Jane，我要你读我在板上写的这些字母。”Miss Rhode 沙哑的声音在教室里回荡。她在学校里的做派足以吓住同事，没人敢接近她，哪怕性命攸关。",
+          "14": "我读着字母时，她眉间出现一道淡淡的皱纹；在让我大声读完大半本英语课本和几份《Daily Mail》报纸文章后，她发现我识字，却带着明显的不悦看着我。",
+          "18": "“年轻女士，回家告诉你祖父别再教你了。你会读，但我要求所有学生按我的方式读！”她命令道。我低声道歉并退下，思索自己的“罪过”。她大发雷霆，显然她的长篇训斥是想让我内疚。",
+          "23": "午餐时，Miss Rhode 问谁回家吃午饭，镇上孩子举手，她打量着我们。乡下孩子抽不出时间回家吃饭。她又问谁带了午餐，要放在桌上。大家都放了，只有 Tom Carson 没有。",
+          "28": "“你今早忘带午餐了吗？”Miss Rhode 问。",
+          "29": "Tom 直视前方，我看见他瘦削下巴上的肌肉一跳。",
+          "30": "Miss Rhode 走到桌边打开钱包。“这是一美元午餐费，明天还我。”",
+          "32": "Tom 摇头，轻声却坚定地说：“不用了，老师。”他昂着头，知道她是想在全班面前让他难堪。Miss Rhode 不耐烦地又提出两次。",
+          "35": "Tom 不是忘了午餐——他家根本买不起，今天没有，明天后天也不会有。",
+          "37": "Tom 家口人很多又很穷，穷到需要法律帮助时只能用农场收成付当地律师，Tom 永远还不清老师，也带不起午餐。我试图解释，但 Miss Rhode 却假装不懂，恼得用尺子打我的手。",
+          "42": "Tom 继续拒绝她所谓的好意，知道她是在当众羞辱他。就在这时，刺耳的铃声响起。大家得救了，排队出去吃午饭。",
+          "45": "“Tom，来我们家吃午饭吧。”John 笑着对他说。Tom 的脸亮起来，眼睛发光。John 把邀请伪装成玩耍，免得 Tom 意识到自己的处境。John 一向心地善良。",
+          "49": "到家后，Tom 把食物堆满盘子，还要糖浆，把糖浆浇在蔬菜和肉上，要不是我阻止，他差点倒进牛奶里。他赶紧把手放在膝上，低下头。",
+          "53": "母亲听见我的话，叫我去厨房，她很生气。",
+          "55": "“Jane，踏进这屋子的人都是客人！别让我再听见你高高在上地议论人家的习惯！”",
+          "57": "回到学校后，我整天闷闷不乐。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>根据第一段回答地点，须完整句。</li><li><strong>范围：</strong>第一段（行 <strong>1–8</strong>）。</li><li><strong>证据：</strong>行 <strong>7</strong> <em>most of whom had never left the farms on which they were born</em>。</li><li><strong>答案要点：</strong>大多数学生自出生起就住在农场。</li></ol>",
+          "answer": [
+            "Most of Miss Rhode’s students lived on farms since they were born."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "指代题",
+          "note": "<ol><li><strong>题型：</strong>表格指代，写出所指对象。</li><li><strong>(a) 行 4：</strong><em>reading us a story</em> → <strong>us</strong> 指 Rhode 老师班上的<strong>学生</strong>。</li><li><strong>(b) 行 21：</strong><em>tirade</em> → Miss Rhode 的<strong>口头训斥</strong>。</li><li><strong>(c) 行 35：</strong><em>could not afford it</em> 中的 <em>it</em> → <strong>午餐</strong>（Tom 买不起的午饭）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "The pupils in Miss Rhode's class",
+            "72b": "Miss Rhode's verbal rampage",
+            "72c": "Lunch for Tom Carson"
+          }
+        },
+        "73": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>解释为何坐立不安，须完整句。</li><li><strong>范围：</strong>行 <strong>5–6</strong>。</li><li><strong>证据：</strong>学生对猫的故事 <em>completely uninterested</em>，对想象文学 <em>immune</em>。</li><li><strong>要点：</strong>故事无聊、与农场孩子生活无关 → 坐不住。</li></ol>",
+          "answer": [
+            "They were restless as they were completely uninterested in the story about cats which Miss Rhode was reading."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘<strong>四个词</strong>的短语。</li><li><strong>范围：</strong>第四段（行 <strong>18–22</strong>）。</li><li><strong>证据：</strong>行 <strong>20</strong> <em>meditating upon my crime</em> 表思索自己错在哪。</li><li><strong>答案：</strong><strong>Meditating upon my crime</strong>（四词）。</li></ol>",
+          "answer": [
+            "Meditating upon my crime"
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "判断+理由题",
+          "note": "<ol><li><strong>题型：</strong>先答 Yes/No，再写理由。</li><li><strong>范围：</strong>行 <strong>14–17</strong>。</li><li><strong>证据：</strong><em>looked at me with more than a faint distaste</em>；要求按<strong>她的方式</strong>读。</li><li><strong>答案：</strong><strong>No</strong> — 虽会读，但她不满，要 Jane 按她的方式读。</li></ol>",
+          "answer": [
+            "No. Although Jane was able to read, Miss Rhode was unhappy as she wanted Jane to follow her way of reading."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>写出两个原因，各一句。</li><li><strong>范围：</strong>行 <strong>30–41</strong>。</li><li><strong>原因一：</strong>行 <strong>38–39</strong> 家穷，<em>never be able to pay the teacher back</em>。</li><li><strong>原因二：</strong>行 <strong>33</strong>、<strong>42–43</strong> 知老师意在<strong>当众羞辱</strong>他。</li></ol>",
+          "answer": [
+            "He would never be able to pay the teacher back.",
+            "He knew that Miss Rhode just wanted to embarrass him in front of the class."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>28–52</strong>。</li><li><strong>(a)</strong> 午餐场景：Tom 无午餐，Rhode 当众给钱 → 让他<strong>难堪</strong>的原因。</li><li><strong>(b)</strong> 行 <strong>51</strong> Jane 批评 Tom 的吃法 → 使他<strong>羞愧</strong>的原因。</li><li>右栏已给相应<strong>动作</strong>描写，左栏填<strong>尴尬原因</strong>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "Miss Rhode offered him a dollar for lunch in front of the class when he had none.",
+            "77b": "Jane told Tom that syrup did not go with vegetables, meat and milk, embarrassing him about how he ate."
+          }
+        },
+        "78": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>(a) True：</strong>行 <strong>10–12</strong> 同事也不敢接近她。</li><li><strong>(b) False：</strong>行 <strong>37–38</strong> 用农场<strong>收成</strong>付律师，非现金。</li><li><strong>(c) True：</strong>行 <strong>45–46</strong> <em>face brightened, eyes lit up</em>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "True",
+            "78b": "She frightened even her fellow colleagues so no one dared to approach her even if their lives depended on it",
+            "78c": "False",
+            "78d": "When they needed legal help they paid the local lawyer with whatever they managed to harvest from their farms",
+            "78e": "True",
+            "78f": "Tom’s face brightened and his eyes lit up when John invited him"
+          }
+        },
+        "79": {
+          "concept": "人物品质+依据",
+          "note": "<ol><li><strong>题型：</strong>写一个品质并用文中信息支持。</li><li><strong>范围：</strong>行 <strong>45–48</strong>。</li><li><strong>证据：</strong>John 邀请 Tom 吃午饭，<em>camouflage … guise of a play date</em> 顾全 Tom 自尊。</li><li><strong>答案要点：</strong><strong>Kind</strong>（善良/体贴）。</li></ol>",
+          "answer": [
+            "Kind — when Miss Rhode embarrassed Tom for being the only one without lunch, John invited Tom to his house to have lunch in a guise so as not to make Tom aware of his social circumstances."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "勾选题+依据",
+          "note": "<ol><li><strong>(a) 行 55–56：</strong>母亲因 Jane 议论 Tom 的吃法而斥责她，站在客人一边 → <strong>empathetic</strong>（有同理心）。</li><li><strong>(b) 依据：</strong>母亲理解 Tom 的处境，要求 Jane 勿<strong>高高在上</strong>地评论客人习惯。</li><li><strong>排除：</strong>arrogant/pitiful/unreasonable 与母亲维护 Tom 尊严的言行不符。</li></ol>",
+          "answer": [
+            "empathetic"
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

@@ -1,0 +1,1598 @@
+{
+  "paperid": "p6_english_2023_sa2_redswastika",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The heavy downpour ruined our plans for a picnic in the park, _________?",
+          "options": {
+            "1": "isn't it",
+            "2": "didn't it",
+            "3": "hasn't it",
+            "4": "hadn't it"
+          }
+        },
+        "2": {
+          "stem_plain": "\"The number of plastic bags collected for recycling _________ increased greatly since the start of the campaign!\" said Nurul excitedly.",
+          "options": {
+            "1": "has",
+            "2": "had",
+            "3": "have",
+            "4": "having"
+          }
+        },
+        "3": {
+          "stem_plain": "Only a brave _________ would be willingly to risk losing their lives for the country.",
+          "options": {
+            "1": "all",
+            "2": "few",
+            "3": "some",
+            "4": "several"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Where _________ the track pants that I need for the camp? It is an essential item on the packing list,\" Peter asked worriedly.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "5": {
+          "stem_plain": "Which superhero have you _________ to dress up as for the costume party?",
+          "options": {
+            "1": "chose",
+            "2": "choose",
+            "3": "chosen",
+            "4": "choosing"
+          }
+        },
+        "6": {
+          "stem_plain": "Chef Daniel is known for his expertise _________ preparing unusual dishes from Asia.",
+          "options": {
+            "1": "at",
+            "2": "in",
+            "3": "on",
+            "4": "for"
+          }
+        },
+        "7": {
+          "stem_plain": "The puzzle was difficult to solve, _________ Alex persisted and completed it.",
+          "options": {
+            "1": "for",
+            "2": "but",
+            "3": "and",
+            "4": "while"
+          }
+        },
+        "8": {
+          "stem_plain": "Kingsley saw his mother _________ in the kitchen and offered to help her prepare the ingredients.",
+          "options": {
+            "1": "cook",
+            "2": "cooks",
+            "3": "cooked",
+            "4": "cooking"
+          }
+        },
+        "9": {
+          "stem_plain": "You can easily spot the eatery as it is located _________ the opposite side of the street.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "by",
+            "4": "across"
+          }
+        },
+        "10": {
+          "stem_plain": "\"_________ you have any questions about the text we're reading, I'll be glad to explain,\" Mr Raj reassured his students.",
+          "options": {
+            "1": "Should",
+            "2": "Would",
+            "3": "Shall",
+            "4": "Will"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "附加问句 — Question tag after past simple",
+          "zh": "那场暴雨毁了我们在公园野餐的计划，不是吗？",
+          "note": "陈述句为一般过去时 ruined，附加问句 (Question tag) 用 didn't it；应选（2）。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "主谓一致 — The number of + singular verb",
+          "zh": "努鲁兴奋地说：“自活动开始以来，回收收集的塑料袋数量已大幅增加！”",
+          "note": "The number of 作主语时谓语用单数 has；since 提示现在完成时；应选（1）。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "量词 — few (a small number)",
+          "zh": "只有极少数勇敢的人才会甘愿为国捐躯。",
+          "note": "Only a brave few 表“寥寥 brave 者”；all 与 only 矛盾；应选（2）few。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "主谓一致 — Plural noun phrase with are",
+          "zh": "“我露营要穿的那条运动裤在哪儿？这是行李单上的必备品，”彼得担心地问。",
+          "note": "track pants 为复数名词，现在时疑问句用 are；应选（2）。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "现在完成时 — have + past participle",
+          "zh": "你决定扮成哪个超级英雄参加化装派对？",
+          "note": "have 后接过去分词 chosen；应选（3）。",
+          "answer": "3"
+        },
+        "6": {
+          "concept": "介词搭配 — expertise in",
+          "zh": "丹尼尔厨师以擅长烹制来自亚洲的奇特菜肴而闻名。",
+          "note": "expertise 后接 in + 动名词；应选（2）in。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "并列连词 — but (contrast)",
+          "zh": "这谜题很难解，但亚历克斯坚持做完。",
+          "note": "前后为转折关系，用 but；应选（2）。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "感官动词 — see + object + V-ing",
+          "zh": "金斯利看见母亲在厨房做饭，便主动提出帮忙准备食材。",
+          "note": "see + 宾语 + 现在分词表进行中的动作；应选（4）cooking。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "介词 — on the opposite side",
+          "zh": "那家餐馆很好找，就在街对面。",
+          "note": "on the opposite side of 为固定搭配；应选（2）on。",
+          "answer": "2"
+        },
+        "10": {
+          "concept": "条件句 — Should inversion (formal if)",
+          "zh": "“若对正在读的课文有任何问题，我很乐意讲解，”拉杰老师安慰学生说。",
+          "note": "Should + 主语 + 动词 = 正式条件“若……”；应选（1）Should。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "His poor health was _________ by a poor diet and excessive smoking.",
+          "marks": null,
+          "options": {
+            "1": "brought in",
+            "2": "brought on",
+            "3": "brought forward",
+            "4": "brought together"
+          }
+        },
+        "12": {
+          "stem_plain": "After the disaster, the streets were _________ and not a soul could be seen in the shopping malls.",
+          "marks": null,
+          "options": {
+            "1": "isolated",
+            "2": "forsaken",
+            "3": "deserted",
+            "4": "neglected"
+          }
+        },
+        "13": {
+          "stem_plain": "Unable to curb his _________, he bought the expensive video game without a thought.",
+          "marks": null,
+          "options": {
+            "1": "willfulness",
+            "2": "enthusiasm",
+            "3": "recklessness",
+            "4": "impulsiveness"
+          }
+        },
+        "14": {
+          "stem_plain": "Detectives are still trying to _________ the mystery of the missing aeroplane that disappeared nine years ago.",
+          "marks": null,
+          "options": {
+            "1": "reveal",
+            "2": "divulge",
+            "3": "expose",
+            "4": "unravel"
+          }
+        },
+        "15": {
+          "stem_plain": "The _________ priced meals at this café attract many people to dine here.",
+          "marks": null,
+          "options": {
+            "1": "modestly",
+            "2": "minimally",
+            "3": "miserably",
+            "4": "marginally"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "brought in",
+              "zh": "引入；引进；赚得",
+              "eg": "The bakery has <strong>brought in</strong> a new chef from France to redesign the menu."
+            },
+            {
+              "opt": "2",
+              "word": "brought on",
+              "zh": "引起；导致（疾病、问题）",
+              "eg": "Her sudden coughing fit was <strong>brought on</strong> by the dusty old room."
+            },
+            {
+              "opt": "3",
+              "word": "brought forward",
+              "zh": "提前",
+              "eg": "In her composition, Mei Ling showed how the word <strong>brought forward</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "4",
+              "word": "brought together",
+              "zh": "使聚集；使团结",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>brought together</strong> when reading historical plaques."
+            }
+          ]
+        },
+        "12": {
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "isolated",
+              "zh": "孤立的；偏远的",
+              "eg": "The reporter wrote that the rescue team had to act <strong>isolated</strong> before the storm grew worse."
+            },
+            {
+              "opt": "2",
+              "word": "forsaken",
+              "zh": "被遗弃的",
+              "eg": "In her composition, Mei Ling showed how the word <strong>forsaken</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "3",
+              "word": "deserted",
+              "zh": "空无一人的；荒废的",
+              "eg": "After the disaster, the streets were <strong>deserted</strong> and not a soul could be seen in the shopping malls."
+            },
+            {
+              "opt": "4",
+              "word": "neglected",
+              "zh": "被忽视的；疏于照料的",
+              "eg": "After the experiment, the science teacher asked us to use <strong>neglected</strong> in a complete sentence of our own."
+            }
+          ]
+        },
+        "13": {
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "willfulness",
+              "zh": "任性；固执",
+              "eg": "In her composition, Mei Ling showed how the word <strong>willfulness</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "2",
+              "word": "enthusiasm",
+              "zh": "热情",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>enthusiasm</strong> when reading historical plaques."
+            },
+            {
+              "opt": "3",
+              "word": "recklessness",
+              "zh": "鲁莽",
+              "eg": "After the experiment, the science teacher asked us to use <strong>recklessness</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "4",
+              "word": "impulsiveness",
+              "zh": "冲动",
+              "eg": "Unable to curb his <strong>impulsiveness</strong>, he bought the expensive video game without a thought."
+            }
+          ]
+        },
+        "14": {
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reveal",
+              "zh": "揭示；透露",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>reveal</strong> when reading historical plaques."
+            },
+            {
+              "opt": "2",
+              "word": "divulge",
+              "zh": "泄露",
+              "eg": "After the experiment, the science teacher asked us to use <strong>divulge</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "3",
+              "word": "expose",
+              "zh": "暴露；揭露",
+              "eg": "The coach reminded the players that <strong>expose</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "4",
+              "word": "unravel",
+              "zh": "解开；查明（谜团）",
+              "eg": "Detectives are still trying to <strong>unravel</strong> the mystery of the missing aeroplane that disappeared nine years ago."
+            }
+          ]
+        },
+        "15": {
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "modestly",
+              "zh": "谦虚地；端庄地",
+              "eg": "The <strong>modestly</strong> priced meals at this café attract many people to dine here."
+            },
+            {
+              "opt": "2",
+              "word": "minimally",
+              "zh": "最低限度地；略微",
+              "eg": "The coach reminded the players that <strong>minimally</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "3",
+              "word": "miserably",
+              "zh": "悲惨地；糟糕地",
+              "eg": "During morning assembly, our principal used <strong>miserably</strong> in a sentence about teamwork and responsibility."
+            },
+            {
+              "opt": "4",
+              "word": "marginally",
+              "zh": "略微地",
+              "eg": "The reporter wrote that the rescue team had to act <strong>marginally</strong> before the storm grew worse."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "cry loudly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "sob",
+            "2": "bawl",
+            "3": "weep",
+            "4": "whimper"
+          }
+        },
+        "17": {
+          "stem_plain": "accurately",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "exactly",
+            "2": "correctly",
+            "3": "specifically",
+            "4": "appropriately"
+          }
+        },
+        "18": {
+          "stem_plain": "difficult and unpleasant situation",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "calamity",
+            "2": "dilemma",
+            "3": "experience",
+            "4": "predicament"
+          }
+        },
+        "19": {
+          "stem_plain": "apparent",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "logical",
+            "2": "obvious",
+            "3": "plausible",
+            "4": "reasonable"
+          }
+        },
+        "20": {
+          "stem_plain": "hopeful",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "encouraged",
+            "2": "reassured",
+            "3": "optimistic",
+            "4": "inspired"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Tom stared at his report card. Having scored rather poorly for his Science project, he began to [Q16 (cry loudly)]. As his best friend, Jack, had [Q17 (accurately)] predicted, Tom did not take the news of his [Q18 (difficult and unpleasant situation)] well. It was [Q19 (apparent)] that Tom thought his project was the best. He had always thought highly of his ability and he could not have anticipated this outcome.",
+          "However, amid the devastation he was feeling, Tom was still [Q20 (hopeful)] that he would be selected to represent the class in the upcoming Science Quiz. He prayed that he would be given a second chance."
+        ],
+        "zh": [
+          "汤姆盯着自己的成绩单。科学课题成绩相当差，他放声大哭起来。正如好友杰克所准确预料的，他难以接受自己处境不妙的消息。很明显，汤姆认为自己的课题最出色。他一直很看重自己的能力，从没料到会是这种结果。",
+          "然而，在沮丧之中，汤姆仍希望自己能入选即将到来的科学测验代表。他祈祷能再得到一次机会。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — cry loudly（大声哭喊）",
+          "zh": "科学课题成绩很差，他放声大哭起来。",
+          "note": "应选（2）'bawl'：短文划线的 <em>cry loudly</em> 在此语境下与此义最接近。'sob'：义为'抽泣'，偏轻声，与 loudly 力度不一致。'weep'：义为'哭泣'，未强调大声。'whimper'：义为'呜咽；低声啜泣'，与 loudly 相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sob",
+              "zh": "抽泣",
+              "eg": "She began to <strong>sob</strong> quietly when she heard the news."
+            },
+            {
+              "opt": "2",
+              "word": "bawl",
+              "zh": "大声哭喊",
+              "eg": "The toddler started to <strong>bawl</strong> when his toy was taken away."
+            },
+            {
+              "opt": "3",
+              "word": "weep",
+              "zh": "哭泣",
+              "eg": "They <strong>weep</strong> together at the memorial service."
+            },
+            {
+              "opt": "4",
+              "word": "whimper",
+              "zh": "呜咽；低声啜泣",
+              "eg": "The puppy gave a faint <strong>whimper</strong> in the corner."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — accurately（准确地）",
+          "zh": "好友杰克早已料中，汤姆难以接受自己处境不妙的消息。",
+          "note": "应选（2）'correctly'：短文划线的 <em>accurately</em> 在此语境下与此义最接近。'exactly'：义为'精确地；恰好'，偏字面精确，与预测应验的语境或搭配要求不一致。'specifically'：义为'具体地；专门地'，与短文语境或搭配要求不一致。'appropriately'：义为'适当地'，非“预测正确”。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "exactly",
+              "zh": "精确地；恰好",
+              "eg": "The bill came to <strong>exactly</strong> fifty dollars."
+            },
+            {
+              "opt": "2",
+              "word": "correctly",
+              "zh": "正确地",
+              "eg": "Jack had <strong>correctly</strong> predicted that Tom would react badly."
+            },
+            {
+              "opt": "3",
+              "word": "specifically",
+              "zh": "具体地；专门地",
+              "eg": "The form asks you to list hobbies <strong>specifically</strong> related to science."
+            },
+            {
+              "opt": "4",
+              "word": "appropriately",
+              "zh": "适当地",
+              "eg": "Please dress <strong>appropriately</strong> for the interview."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — difficult and unpleasant situation（困境）",
+          "zh": "汤姆难以接受自己陷入困境的消息。",
+          "note": "应选（4）'predicament'：短文划线的 <em>difficult and unpleasant situation</em> 在此语境下与此义最接近。'calamity'：义为'灾难；灾祸'，程度过大。'dilemma'：义为'两难境地'，强调二选一，与短文语境或搭配要求不一致。'experience'：义为'经历；体验'，过于中性宽泛。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "calamity",
+              "zh": "灾难；灾祸",
+              "eg": "The earthquake was a terrible <strong>calamity</strong> for the region."
+            },
+            {
+              "opt": "2",
+              "word": "dilemma",
+              "zh": "两难境地",
+              "eg": "She faced a <strong>dilemma</strong> between accepting the offer and staying home."
+            },
+            {
+              "opt": "3",
+              "word": "experience",
+              "zh": "经历；体验",
+              "eg": "Camping was an unforgettable <strong>experience</strong> for the class."
+            },
+            {
+              "opt": "4",
+              "word": "predicament",
+              "zh": "困境；窘境",
+              "eg": "He found himself in a financial <strong>predicament</strong>."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — apparent（明显的）",
+          "zh": "很明显，汤姆认为自己的课题最出色。",
+          "note": "应选（2）'obvious'：短文划线的 <em>apparent</em> 在此语境下与此义最接近。'logical'：义为'合乎逻辑的'，与“一眼可见”不符。'plausible'：义为'貌似合理的'，与短文语境或搭配要求不一致。'reasonable'：义为'合理的'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "logical",
+              "zh": "合乎逻辑的",
+              "eg": "Her argument was clear and <strong>logical</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "obvious",
+              "zh": "明显的",
+              "eg": "It was <strong>obvious</strong> that he was proud of his work."
+            },
+            {
+              "opt": "3",
+              "word": "plausible",
+              "zh": "貌似合理的",
+              "eg": "The excuse sounded <strong>plausible</strong> at first."
+            },
+            {
+              "opt": "4",
+              "word": "reasonable",
+              "zh": "合理的",
+              "eg": "We reached a <strong>reasonable</strong> compromise."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — hopeful（抱有希望的）",
+          "zh": "尽管沮丧，汤姆仍乐观地希望自己能入选即将到来的科学测验代表。",
+          "note": "应选（3）'optimistic'：短文划线的 <em>hopeful</em> 在此语境下与此义最接近。'encouraged'：义为'受到鼓舞的'，侧重他人鼓励，与短文语境或搭配要求不一致。'reassured'：义为'安心的；得到安慰的'，与短文语境或搭配要求不一致。'inspired'：义为'受到启发的'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "encouraged",
+              "zh": "受到鼓舞的",
+              "eg": "The team felt <strong>encouraged</strong> after the coach's speech."
+            },
+            {
+              "opt": "2",
+              "word": "reassured",
+              "zh": "安心的；得到安慰的",
+              "eg": "The doctor's words <strong>reassured</strong> the worried parents."
+            },
+            {
+              "opt": "3",
+              "word": "optimistic",
+              "zh": "乐观的",
+              "eg": "Despite the setback, Tom remained <strong>optimistic</strong> about the quiz."
+            },
+            {
+              "opt": "4",
+              "word": "inspired",
+              "zh": "受到启发的",
+              "eg": "The documentary <strong>inspired</strong> her to volunteer."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "The purpose of the questions in the first paragraph is to _________",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "encourage readers to go for a hike",
+            "2": "tell readers about hiking and camping",
+            "3": "make readers consider outdoor activities",
+            "4": "ask readers about their plans for the school holidays"
+          }
+        },
+        "22": {
+          "stem_plain": "If you are considering embarking on an outdoor adventure, the phrase **'number one priority'** in the first paragraph tells you that safety is _________",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "something that requires attention soon",
+            "2": "the only important thing that deserves attention",
+            "3": "at the top of the list of things that need attention",
+            "4": "one of the things you may want to pay attention to"
+          }
+        },
+        "23": {
+          "stem_plain": "According to the article, it is important to carry survival kits in the great outdoors because we _________",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "can bring along useful everyday items",
+            "2": "can foresee problems and prepare for them",
+            "3": "must make full use of the space in the containers",
+            "4": "must prepare ourselves for unexpected situations"
+          }
+        },
+        "24": {
+          "stem_plain": "According to the instructions on assembling a personal survival kit, which of the following items should be placed inside such a kit?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "a box of matches",
+            "2": "a metal container",
+            "3": "some rubber bands",
+            "4": "some antiseptic cream"
+          }
+        },
+        "25": {
+          "stem_plain": "When assembling a personal survival kit, we should _________",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "pack the basic items into the container last",
+            "2": "try to make use of all the space inside the container",
+            "3": "measure how much space is available in the container",
+            "4": "choose a container that can hold all the items we want to include"
+          }
+        },
+        "26": {
+          "stem_plain": "Which statement is **not** true about Camp Leap?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Not all teenagers will be able to participate in it.",
+            "2": "Registration may close before the stated deadline.",
+            "3": "Up to 100 participants can participate in it every year.",
+            "4": "Participants can enjoy a discounted registration fee up till October."
+          }
+        },
+        "27": {
+          "stem_plain": "The organiser will take all the following safety precautions during Camp Leap **except** _________",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "ensuring that first aid kits are always on hand",
+            "2": "authorising instructors to administer medication",
+            "3": "requesting that participants declare all their medical conditions",
+            "4": "excluding participants with medical conditions from strenuous camp activities"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of the article?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to inform readers of an outdoor adventure camp",
+            "2": "to offer readers advice on having outdoor adventures safely",
+            "3": "to share the benefits of engaging in regular outdoor activities",
+            "4": "to share tips on how to select items for a personal survival kit"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        },
+        "26": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        },
+        "28": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "as",
+          "C": "and",
+          "D": "do",
+          "E": "does",
+          "F": "for",
+          "G": "from",
+          "H": "however",
+          "J": "in",
+          "K": "less",
+          "L": "more",
+          "M": "moreover",
+          "N": "on",
+          "P": "the",
+          "Q": "when"
+        },
+        "cloze": [
+          "Have you ever wondered why we blink? Blinking is an essential [Q29] involuntary action that helps protect and keep our eyes healthy.",
+          "Blinking acts [Q30] a natural shield for our eyes. It helps to keep foreign objects, like dust, dirt, or even insects, from entering our eyes. When we blink, our eyelids close quickly, acting like [Q31] protective barrier, preventing anything harmful [Q32] reaching our sensitive eye tissues.",
+          "Not only [Q33] blinking protect our eyes physically, it also refreshes our vision. [Q34] we stare at something for a long time, our eyes can become tired or strained. Blinking provides a brief moment of rest [Q35] our eyes, allowing them to relax and refocus. It is like a mini break for our visual system, helping to maintain clear and comfortable vision.",
+          "[Q36] average, a person blinks about 15 to 20 times per minute. [Q37], certain activities, such as reading or using digital devices, can reduce our blinking rate. When we concentrate on something, we tend to blink [Q38] frequently, which can cause our eyes to become dry and strained. It is therefore important to blink regularly, especially during prolonged periods of focused tasks. Start blinking to reduce eye fatigue!"
+        ],
+        "zh": [
+          "你可曾想过我们为什么会眨眼？眨眼是一种重要的、不由自主的动作，有助于保护眼睛并保持眼睛健康。",
+          "眨眼犹如眼睛的自然屏障，有助于阻挡灰尘、泥土甚至昆虫等异物进入眼睛。我们眨眼时眼皮迅速闭合，像一道保护屏障，防止有害物质触及敏感的眼组织。",
+          "眨眼不仅能在物理上保护眼睛，还能刷新视力。当我们长时间盯着某物时，眼睛会感到疲倦或紧张。眨眼给眼睛带来片刻休息，让它们放松并重新对焦；这就像视觉系统的短暂小憩，有助于保持清晰舒适的视力。",
+          "平均而言，人每分钟眨眼约十五到二十次。然而，阅读或使用电子设备等活动会降低眨眼频率。专注某事时，我们往往眨眼较少，眼睛因此容易干涩疲劳。因此，在长时间专注工作时规律眨眼很重要——多眨眼，减轻眼疲劳！"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "Grammar cloze blank (29)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "C — and"
+        },
+        "30": {
+          "concept": "Grammar cloze blank (30)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "B — as"
+        },
+        "31": {
+          "concept": "Grammar cloze blank (31)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "A — a"
+        },
+        "32": {
+          "concept": "Grammar cloze blank (32)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "G — from"
+        },
+        "33": {
+          "concept": "Grammar cloze blank (33)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "E — does"
+        },
+        "34": {
+          "concept": "Grammar cloze blank (34)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "Q — when"
+        },
+        "35": {
+          "concept": "Grammar cloze blank (35)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "F — for"
+        },
+        "36": {
+          "concept": "Grammar cloze blank (36)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "N — on"
+        },
+        "37": {
+          "concept": "Grammar cloze blank (37)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "H — however"
+        },
+        "38": {
+          "concept": "Grammar cloze blank (38)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "K — less"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "One of the scariest memories I had as a child was watching the Bukit Ho Swee fire from my balcony. Despite [Q39(been)] miles away, I could see smoke [Q40(beelowing)] from the village. With strong winds, the [Q41(spontaynious)] fire spread around the village, [Q42(deevowering)] everything in its path. Hours later, the [Q43(incehcent)] wailing of sirens could be heard as the firefighters arrived at the scene.",
+          "The [Q44(trejerdi)] left about 16,000 people homeless with four fatalities and property damage estimated [Q45(in)] $2 million. The great fire changed the face of the village, which had [Q46(previous)] housed many squatters.",
+          "The fire resulted in an [Q47(accelerated)] of the public housing programme. [Q48(Some)] if not all, of the homeless individuals were moved to flats constructed around the [Q49(vesinity)] . The government responded very swiftly, [Q50(provided)] shelter and support to those affected. The community also came together to rebuild and overcome adversity, demonstrating the strength of human spirit in the face of challenges."
+        ],
+        "zh": [
+          "儿时最可怕的回忆之一，是在阳台上观看河仔山大火。虽隔着数英里，仍可见村里浓烟滚滚。狂风下火势自发蔓延，吞噬沿途一切。数小时后，消防员到场，不绝于耳的警笛声传来。",
+          "这场悲剧使约一万六千人无家可归，四人遇难，财产损失估计达两百万美元。大火改变了村庄面貌，那里先前住着许多棚户居民。",
+          "这场火灾加速了公共组屋计划。若无家可归者中，大多数人被安置到附近建成的组屋里。政府反应迅速，为受影响者提供庇护与援助。社区也同心协力重建、克服逆境，彰显人类在挑战面前的精神力量。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "being"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "billowing"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "spontaneous"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "devouring"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "incessant"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "tragedy"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "at"
+        },
+        "46": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "previously"
+        },
+        "47": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "acceleration"
+        },
+        "48": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "most"
+        },
+        "49": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "vicinity"
+        },
+        "50": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "providing"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever noticed that when you're running around, playing sports, or feeling very hot, your body starts to perspire? Perspiring, as a process, is [Q51] for our body's well-being. Let us [Q52] at one important way it benefits us.",
+          "Our bodies are like well-oiled machines, constantly working in order to keep everything balanced. [Q53] of the most crucial things our amazing body does is regulating its [Q54] temperature. When we exercise, the muscles generate [Q55], and on hot days, the sun adds to that too. If our body does not [Q56] down, it will overheat like a computer and that could result in health [Q57].",
+          "Our bodies perspire to [Q58] us from getting too overheated. Perspiration is a clear, salty liquid produced by tiny sweat glands scattered all over our skin. When our body detects rising temperatures, these miraculous glands [Q59] perspiration onto the skin's surface. As the perspiration evaporates, it takes [Q60] some of the excess heat with it, cooling us down like a natural air conditioner!",
+          "Remember, perspiring is your body's awesome way of maintaining the [Q61] temperature, so do not feel embarrassed when you are all sweaty [Q62] a fun game or exercise. It means your body is [Q63] perfectly! Just make sure to stay [Q64] by drinking a lot of water, especially on hot days.",
+          "The next time you see those tiny droplets [Q65] on your forehead or running down your back, appreciate the incredible mechanism your body has to keep you comfortable and healthy. Embrace perspiration as a vital and fascinating aspect of being human!"
+        ],
+        "zh": [
+          "你有没有注意到，当你跑来跑去、做运动或感到很热时，你的身体就开始流汗了？排汗作为一个过程，对我们身体的健康至关重要。让我们来看看它造福我们的一种重要方式。",
+          "我们的身体就像运转良好的机器，不断工作以保持一切平衡。我们神奇的身体所做的最关键的事情之一就是调节其体温。当我们运动时，肌肉会产生热量，在炎热的日子里，太阳也会增加热量。如果我们的身体不降温，它就会像电脑一样过热，这可能会导致健康问题。",
+          "我们的身体排汗是为了防止我们过热。汗水是由遍布我们全身皮肤的微小汗腺产生的一种透明、咸味的液体。当我们的身体检测到温度升高时，这些神奇的腺体就会将汗水排到皮肤表面。随着汗水的蒸发，它会带走一些多余的热量，像天然空调一样让我们降温！",
+          "记住，排汗是你的身体维持理想温度的一种很棒的方式，所以当你在有趣的比赛或运动后满头大汗时，不要感到尴尬。这意味着你的身体正在完美运行！只需确保通过喝大量的水来保持水分，尤其是在炎热的日子里。",
+          "下次当你看到那些小水珠出现在你的额头上或顺着你的背流下时，请感谢你的身体为了让你保持舒适和健康而拥有的这种不可思议的机制。将排汗视为人类生命中一个至关重要且迷人的方面！"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "形容词修饰与特征定性",
+          "note": "作为表语形容词。用来形容出汗这一生理机制对我们人体的健康而言是“至关重要的”、“有益的”或“不可或缺的”，故填入形容词 essential / important / crucial / vital / necessary。",
+          "answer": "essential/important/crucial/vital/necessary"
+        },
+        "52": {
+          "concept": "使役动词后的动词原形",
+          "note": "前面有使役助动词结构 Let us...，后面必须接动词原形。与后面的介词短语 at one important way 组合，构成固定常考的地道表达 look at，表示“让我们看一看”其中一个益处。",
+          "answer": "look"
+        },
+        "53": {
+          "concept": "经典固定句型结构",
+          "note": "后接高频常见复数选择限制短语 of the most crucial things...。指这是我们神奇的身体所做的最关键的“事情之一”，固定使用单数代词 One。位于句首需大写。",
+          "answer": "One"
+        },
+        "54": {
+          "concept": "强调代词/形容词性物主代词",
+          "note": "用来修饰名词短语 temperature（体温）。前面有形容词性物主代词 its，此处填入 own 构成 its own temperature 或者是 internal 构成 its internal temperature，表示调节它“自身的”或“内部的”温度。",
+          "answer": "own/internal"
+        },
+        "55": {
+          "concept": "名词语意与学科场景搭配",
+          "note": "作为动词 generate（产生）的核心宾语。在探讨运动生理学的科学语境下，指当我们锻炼时，肌肉会源源不断地产生“热量”或“能量”，故填名词 heat 或者是 energy。",
+          "answer": "heat/energy"
+        },
+        "56": {
+          "concept": "助动词后的短语动词原形",
+          "note": "在 if 引导的条件句中，前面有助动词 does not，后面接动词原形。与后面的副词 down 完美组合，构成特定科学常考短语 cool down，表示如果我们的身体不能及时“冷却/降温”。",
+          "answer": "cool"
+        },
+        "57": {
+          "concept": "名词语意与因果呼应",
+          "note": "作为名词宾语，前面由健康形容词 health 充当定语。指身体如果像电脑一样过热，就会引发各种严重的健康“问题”、“隐患”或“疾病”，故填单复数名词 issues / problems / risks / conditions / complications。",
+          "answer": "issues/problems/risks/conditions/complications"
+        },
+        "58": {
+          "concept": "动词固定短语搭配",
+          "note": "不定式符号 to 后接动词原形。与后面的宾语结构 us from getting too overheated 完美组合。构成极高频常考的经典专属防范句型 prevent/keep/protect someone from doing something，意为“阻止/保护”我们不至于过度过热。",
+          "answer": "keep/prevent/protect"
+        },
+        "59": {
+          "concept": "一般现在时动词原形",
+          "note": "在 when 引导的时间状语从句中，主语为复数名词 these miraculous glands（这些神奇的腺体）。本句陈述客观存在的生理事实，动词用原形，指它们会将汗液“释放”、“分泌”或“排出”到皮肤表面，故填 release / secrete / produce / excrete / pour / pump。",
+          "answer": "release/secrete/produce/excrete/pour/pump"
+        },
+        "60": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词 takes 完美组合。在探讨汗液蒸发带走热量的热力学场景下，构成高频地道短语 takes away 或者是 takes off，表示蒸发时会“带走”部分多余的热量。",
+          "answer": "away/off"
+        },
+        "61": {
+          "concept": "形容词修饰搭配",
+          "note": "修饰后面的名词 temperature。前面有定冠词 the。用来形容汗水是身体为了维持“正确的”、“理想的”或“恒定的”体温而做出的奇妙努力，故填形容词 right / correct / ideal / constant / proper / perfect。",
+          "answer": "right/correct/ideal/constant/proper/perfect"
+        },
+        "62": {
+          "concept": "时间范围介词",
+          "note": "用来连接前面的形容词 sweaty（出汗的）和后面的名词短语 a fun game or exercise（一场有趣的比赛或锻炼）。表示“在……期间”或是“在……之后（after）”，故填入介词 during 或者是 after。",
+          "answer": "during/after"
+        },
+        "63": {
+          "concept": "现在进行时动词原形搭配",
+          "note": "前面有助动词 is，后面接现在分词形式（V-ing）构成现在进行时。用来形容满头大汗说明你的身体目前正在非常完美地“运转”、“工作”或“发挥功能”，故填现在分词 operating / working / functioning / running / performing。",
+          "answer": "operating/working/functioning/running/performing"
+        },
+        "64": {
+          "concept": "形容词表语与健康语境呼应",
+          "note": "系动词 stay 之后，后接形容词充当表语。后文提到要喝大量的多水（drinking a lot of water），在科普文中，与之完美呼应的必然是保持水分充盈的健康专属代称形容词 hydrated（或者是表示健康的 healthy / active），意为“保持水分/保持健康”。",
+          "answer": "hydrated/healthy/active"
+        },
+        "65": {
+          "concept": "感官动词后的现在分词充当宾补",
+          "note": "前面有经典的感官动词结构 see those tiny droplets...，后面需要填入现在分词（V-ing）或者是动词原形充当宾语补足语，用来强调动作正在发生。指当你下一次看到那些小汗珠在额头上“形成”、“出现”或“聚集”时，故填 forming / appearing / gathering / pooling / showing / running（此处 forming 最佳）。",
+          "answer": "forming/appearing/gathering/pooling/showing/running"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Only Yoana and Jayson have not submitted their homework.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Everybody, except Yoana and Jayson, __________"
+        },
+        "67": {
+          "stem_plain": "Jane stared at the decorated room. She found it awesome.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ in __________"
+        },
+        "68": {
+          "stem_plain": "\"Who fell during the game this morning?\" the teacher asked the class.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The teacher asked the class who __________"
+        },
+        "69": {
+          "stem_plain": "Hazy conditions persisted and classes were cancelled.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ because of __________"
+        },
+        "70": {
+          "stem_plain": "My sister is brewing coffee for breakfast.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Coffee for breakfast __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "否定范围 — Everyone except …",
+          "zh": "除了约安娜和杰森之外，每个人都交了作业。",
+          "note": "否定改写：<em>Only … have not</em> → <em>Everybody, except …, has</em>；谓语与 <em>Everybody</em> 一致。",
+          "answer": "Everybody, except Yoana and Jayson, has submitted their homework."
+        },
+        "67": {
+          "concept": "介词短语 — In + noun (awe)",
+          "zh": "简敬畏地凝视着装饰过的房间。",
+          "note": "介词短语：<em>found it awesome</em> → <em>in awe</em>；与 <em>stared at the decorated room</em> 合并。",
+          "answer": "Jane stared at the decorated room in awe."
+        },
+        "68": {
+          "concept": "间接引语 — Reported wh-question",
+          "zh": "老师问全班谁那天早上在游戏中摔倒了。",
+          "note": "间接引语：wh- 问句 <em>who had fallen …</em> 陈述语序；<em>this morning → that morning</em>，时态后退。",
+          "answer": "The teacher asked the class who had fallen during the game that morning."
+        },
+        "69": {
+          "concept": "原因短语 — Because of + noun phrase",
+          "zh": "由于持续的雾霾天气，课程被取消了。",
+          "note": "原因短语：<em>persisted</em> → <em>hazy conditions persisting</em>；<em>because of</em> + 名词短语表原因。",
+          "answer": "Classes were cancelled because of hazy conditions persisting."
+        },
+        "70": {
+          "concept": "被动语态 — Passive voice (present continuous)",
+          "zh": "早餐的咖啡正在由姐姐煮。",
+          "note": "被动语态：<em>Coffee for breakfast</em> 作主语；<em>is being brewed by my sister</em>（现在进行时被动）。",
+          "answer": "Coffee for breakfast is being brewed by my sister."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Which five word phrase in paragraph 1 suggests that the writer was not as unhappy as she looked?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Both Lina and the writer went to work with different attitudes. Fill in the boxes with evidence from the first paragraph.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "The writer",
+                "Lina"
+              ]
+            },
+            "col_2": {
+              "header": "How she felt when she went to work",
+              "rows": [
+                "She was always sad and moody.",
+                "[Q72b]"
+              ]
+            },
+            "col_3": {
+              "header": "Evidence from the passage",
+              "rows": [
+                "[Q72a]",
+                "She always wore a smile on her face, which, with her two dimples, made her look like a carefree angel."
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "**'Whenever she tried to offer advice, I would say, \"You won't understand.\"'** (lines 7–8) What assumption did the writer make about Lina which made her feel that Lina would not understand? Quote a sentence from the text which suggests this.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Assumption",
+              "rows": [
+                "[Q73a]"
+              ]
+            },
+            "col_2": {
+              "header": "Sentence from the text",
+              "rows": [
+                "[Q73b]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "List two things about Lina's living conditions which suggested that she was not well-off.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q74a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q74b]"
+            }
+          ]
+        },
+        "75": {
+          "stem_plain": "Which one of the following words best describes how the writer felt in lines 32–34? Put a tick in the box beside your answer. **DO NOT TICK MORE THAN ONE BOX.**",
+          "marks": 1,
+          "interaction": "checkbox_comp",
+          "options": [
+            "anxious",
+            "tired",
+            "ashamed",
+            "shocked",
+            "frustrated"
+          ],
+          "max_selections": 1
+        },
+        "76": {
+          "stem_plain": "Although Lina did not come from a well-to-do family, she was very proud of her home. What are some things she had done to suggest this?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Look at the table below. What do the words/phrases in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **we** (line 12)",
+                "(b) **there** (line 23)",
+                "(c) **They** (line 30)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]",
+                "[Q77c]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The writer did not always complain to Lina about her parents.",
+                "(b) The writer did not go back home after work that Wednesday to get back at her parents.",
+                "(c) The writer was unconcerned after Lina's grandmother advised her to forgive her parents."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]",
+                "[Q78e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q78b]",
+                "[Q78d]",
+                "[Q78f]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "The writer felt that her **'sorrow' and 'worries' suddenly seemed so insignificant'** (lines 33–34) in comparison to Lina's. Explain why she felt this way.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "To the writer, Lina was **'the girl with angelic dimples who had so little, yet taught me so much'** (line 43). What did Lina teach the writer?",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "I met Lina at my summer job when we were working for a trading company in Taipei.",
+          "2": "As a teenager, I frequently quarrelled with my parents, so I was in low spirits all the time. At the",
+          "3": "age when one tended to exaggerate one's unhappiness, I constantly showed up at work with",
+          "4": "an expression that suggested the universe would soon come to an end. Lina, on the other hand,",
+          "5": "always wore a smile on her face, which, with her two dimples, made her look like a carefree",
+          "6": "angel.",
+          "7": "She always listened to my complaints. I harped on how unfair my parents were and",
+          "8": "what a wonderful life I would have led had I not been born into such a terrible family. Whenever",
+          "9": "she tried to offer advice, I would say, \"You won't understand.\"",
+          "10": "One Wednesday, after yet another squabble with my parents, I decided to teach them",
+          "11": "a lesson for shouting at me. I decided to 'run away'. I asked Lina if I could stay with her for a",
+          "12": "while. She smiled, \"Sure, but **we** have a small place which we share, if you don't mind that.\" I",
+          "13": "assured her that I would not.",
+          "14": "After work that evening, I got on the bus with Lina. We rode the bus to the Taipei train",
+          "15": "station, then walked approximately fifteen minutes to catch another bus. Finally, we hiked along",
+          "16": "mountain trails for fifteen minutes. When we got to Lina's home, it was after 8pm. Nevertheless,",
+          "17": "I looked forward to basking in the warmth of Lina's family, something that I never got at home.",
+          "18": "Lina and her grandmother lived in a converted dormitory for miners together with eight",
+          "19": "families under the same roof. They even shared a common kitchen and bathroom. In the",
+          "20": "dormitory, Lina and her grandmother resided in a tiny room, smaller than the bathroom at my",
+          "21": "home. Orphaned from birth, Lina was raised by her grandmother who used to wash clothes for",
+          "22": "the miners living **there**. When the workers moved away, she was out of work. Since then, Lina",
+          "23": "attended school in the evening and worked during the day.",
+          "24": "Lina showed no signs of unhappiness while telling me about her life. Her home was",
+          "25": "small but clean. The old wooden door was scrubbed so white that it shone. Her plan was to",
+          "26": "work as an accountant after she graduated from school. With a steady income, they would",
+          "27": "move out of the hills and share an apartment with another family. They would have a flush toilet,",
+          "28": "sparing her grandmother the pain of using a squat toilet.",
+          "29": "Lina's grandmother listened to my complaints and was concerned about me. \"They",
+          "30": "may not be perfect, but **they** are still your kin,\" she said. \"Don't be mad at them for too long, or",
+          "31": "you'll end up not having a family at all.\" I was left deep in thought.",
+          "32": "That night, I was given their small bed. Lina and her grandmother willingly slept on the",
+          "33": "hard ground. I tossed and turned all night. My 'sorrow' and 'worries' suddenly seemed so",
+          "34": "insignificant. When I got up at dawn, Lina was preparing porridge in the common kitchen.",
+          "35": "Seeing me, she turned to the rising sun and said, \"Beautiful, isn't it? I like to watch the sunrise",
+          "36": "from here. I feel life is full of hope when I see the sunlight slowly get brighter and brighter.\"",
+          "37": "After work that day, I meekly went home. My four-room flat felt so much more",
+          "38": "comfortable compared to Lina's humble abode. The next day, my father prepared a plate of",
+          "39": "scrambled eggs and pancakes for my breakfast. I started speaking more politely to my parents,",
+          "40": "and subsequently, we stopped squabbling. Soon, my 'depression' evaporated.",
+          "41": "When the summer job ended, both Lina and I went back to school, and we soon lost",
+          "42": "touch. Now twenty years later, I have two children of my own, but the image of Lina remains",
+          "43": "with me – the girl with angelic dimples who had so little, yet taught me so much."
+        },
+        "paragraphs": {
+          "1": "我在台北一家贸易公司暑期打工时认识了丽娜。十几岁时我常和父母吵架，整天情绪低落。在那个总爱夸大自己不幸的年纪，我上班时总是一副仿佛世界末日将至的表情。丽娜却相反，脸上总带着笑，两个酒窝让她看起来像无忧无虑的天使。",
+          "7": "她总听我的抱怨。我喋喋不休地说父母多么不公平，仿佛没生在那种糟糕家庭就会有美好人生。每当她想给建议，我就说：“你不会懂的。”",
+          "10": "某个周三，我又和父母吵了一架，决定教训他们——我要“离家出走”。我问丽娜能否暂住她家，她笑着说：“当然，只是我们住的地方很小、要合租，你不介意吧。”我向她保证不会介意。",
+          "14": "那天下班后，我和丽娜一起坐公交到台北火车站，又步行约十五分钟转车，最后沿山路走了十五分钟。到她家时已晚上八点多。尽管如此，我仍期待感受丽娜家的温暖——那是我家里从未有过的。",
+          "18": "丽娜和祖母住在改作矿工宿舍的房子里，与另外八户人家同处一个屋顶，共用厨房和卫生间。宿舍里她们只有一间小屋，比我家浴室还小。丽娜自幼孤儿，由曾为矿工洗衣的祖母带大；矿工搬走后祖母失业，丽娜便白天工作、晚上上学。",
+          "24": "丽娜讲自己的生活时毫无不快乐的迹象。她家虽小却干净，旧木门刷得雪白发亮。她计划毕业后当会计，有了稳定收入就和祖母搬出山里、与别人合租公寓，装上冲水马桶，让祖母不必再蹲厕受罪。",
+          "29": "丽娜的祖母也听我的抱怨，关心我说：“他们也许不完美，但仍是你的亲人。别生太久的气，否则到头来连家都没有了。”我陷入沉思。",
+          "32": "那晚我睡她们的小床，丽娜和祖母甘愿睡硬地。我辗转难眠，“悲伤”和“忧虑”忽然显得微不足道。黎明时丽娜在公用厨房熬粥，她朝升起的太阳说：“很美，不是吗？我喜欢在这里看日出；阳光一点点变亮时，我觉得生活充满希望。”",
+          "37": "那天下班后我乖乖回了家。我家的四房组屋比丽娜简陋的住处舒适得多。次日父亲为我做了炒蛋和煎饼，我对父母说话更礼貌，我们不再争吵，我的“抑郁”很快烟消云散。",
+          "41": "暑期工结束，我和丽娜各自返校，很快失去联系。二十年后的今天我已育有两个孩子，丽娜的形象仍伴我左右——那个酒窝如天使、拥有那么少却教会我那么多的女孩。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>范围：</strong>第一段（第 <strong>1–6</strong> 行）。</li><li><strong>关键词：</strong>题干要 <strong>five-word phrase</strong>，且说明她<strong>并非</strong>看上去那么不幸。</li><li><strong>答案：</strong><em>tended to exaggerate one's unhappiness</em>（第 <strong>3</strong> 行）——暗示她把不幸<strong>夸大</strong>了。</li><li><strong>失分：</strong>抄超过五个词，或抄“universe would soon come to an end”（那是表情，不是“没那么不幸”的直接依据）。</li></ol>",
+          "answer": [
+            "tended to exaggerate one's unhappiness"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>范围：</strong>第一段（约第 <strong>1–6</strong> 行）。</li><li><strong>作者：</strong>已给“总是悲伤、闷闷不乐”；证据填 <em>expression that suggested the universe would soon come to an end</em>（第 <strong>3–4</strong> 行）。</li><li><strong>丽娜：</strong>感受填 <em>happy / blissful / joyful</em>；证据已给笑脸与 <em>carefree angel</em>（第 <strong>5–6</strong> 行）。</li><li><strong>书写：</strong>证据须为文中短语，勿改写成自己的话。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "She constantly showed up at work with an expression that suggested the universe would soon come to an end",
+            "72b": "She was happy / blissful / joyful."
+          }
+        },
+        "73": {
+          "concept": "推断题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>7–8</strong> 行（拒绝理解）与第 <strong>17</strong> 行（期待丽娜家的温暖）。</li><li><strong>假设：</strong>她认为丽娜来自有爱、温暖的家庭，所以不会懂自己与父母的矛盾。</li><li><strong>引句：</strong>第 <strong>17</strong> 行 <em>looked forward to basking in the warmth of Lina's family, something that I never got at home</em> 表明她把丽娜家想象成自己缺失的亲情。</li><li><strong>失分：</strong>只写“你不会懂”而未说明她以为丽娜家境幸福。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "The writer assumed that Lina came from a loving family.",
+            "73b": "Nevertheless, I looked forward to basking in the warmth of Lina's family, something that I never got at home."
+          }
+        },
+        "74": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>18–23</strong> 行（宿舍与房间）。</li><li><strong>要点1：</strong>与八户人家<strong>同处一屋</strong>、共用厨卫。</li><li><strong>要点2：</strong>她和祖母的房间<strong>极小</strong>，比作者家浴室还小。</li><li><strong>书写：</strong>两句各写一点，可用文中名词短语。</li></ol>",
+          "answer": {
+            "74a": "Lina lived with eight families under the same roof.",
+            "74b": "Lina and her grandmother resided in a tiny room smaller than the bathroom at the writer's house."
+          }
+        },
+        "75": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>32–34</strong> 行。</li><li><strong>证据：</strong>作者辗转难眠后觉得忧虑 <em>insignificant</em>，对比丽娜的处境后<strong>羞愧</strong>于自己的抱怨。</li><li><strong>答案：</strong><strong>ashamed</strong>（非 anxious/tired/shocked/frustrated  alone）。</li></ol>",
+          "answer": [
+            "ashamed"
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>24–25</strong> 行。</li><li><strong>证据：</strong>家 <em>small but clean</em>；木门 <em>scrubbed so white that it shone</em>。</li><li><strong>答：</strong>她以打扫、刷白木门等表现对家的自豪。</li></ol>",
+          "answer": [
+            "Lina kept her home clean and scrubbed the old wooden door of her home so white until it shone."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a) we（第12行）：</strong>丽娜和她祖母（小住处是她们共享的）。</li><li><strong>(b) there（第23行）：</strong>矿工宿舍 / 她们住的那处 converted dormitory。</li><li><strong>(c) They（第30行）：</strong>作者的<strong>父母</strong>（祖母劝她别对父母生太久气）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "Lina and her grandmother",
+            "77b": "converted dormitory",
+            "77c": "the writer's parents"
+          }
+        },
+        "78": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>(a) False：</strong>她<strong>总是</strong>向丽娜抱怨父母（<em>harped on how unfair my parents were</em>，第 <strong>7–8</strong> 行）。</li><li><strong>(b) True：</strong>周三下班后她去丽娜家“离家出走”，并非当晚回家报复（第 <strong>10–14</strong> 行）。</li><li><strong>(c) False：</strong>祖母劝解后她 <em>deep in thought</em>，并非漠不关心（第 <strong>29–31</strong> 行）。</li><li><strong>若选反方：</strong>须用文中动词/短语作依据，勿空泛。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "False",
+            "78b": "the writer harped on how unfair her parents were",
+            "78c": "True",
+            "78d": "the writer decided to 'run away' that day to teach her parents a lesson",
+            "78e": "False",
+            "78f": "the writer was deep in thought / reflective after Lina's grandmother advised her to forgive her parents"
+          }
+        },
+        "79": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>32–34</strong> 行与第 <strong>18–20</strong> 行对照。</li><li><strong>对比：</strong>作者住四房组屋仍抱怨；丽娜与八户合租、房间极小却乐观。</li><li><strong>答：</strong>自己的“悲伤、忧虑”与丽娜的艰难相比显得渺小、不值得。</li></ol>",
+          "answer": [
+            "The writer lived in a spacious four-room flat, but Lina had to share a home with eight other families."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>范围：</strong>全篇，尤其第 <strong>29–40</strong>、<strong>43</strong> 行。</li><li><strong>答：</strong>教会她<strong>知足感恩</strong>、珍惜已有家庭，不再与父母无休止争吵。</li><li><strong>可接受：</strong>grateful / contented / appreciate what she has。</li></ol>",
+          "answer": [
+            "Lina taught the writer to be grateful for what she has. / be contented."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

@@ -1,0 +1,1150 @@
+{
+  "paperid": "p6_english_2020_sa2_rosyth",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Every couple __________ given a T-shirt at the carnival last weekend.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "The teacher has explained the topic a few times __________ the students should have no problem understanding it.",
+          "options": {
+            "1": "or",
+            "2": "so",
+            "3": "yet",
+            "4": "because"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Passers-by offered to help the injured lady, __________?\" the policeman asked a witness.",
+          "options": {
+            "1": "did she",
+            "2": "did they",
+            "3": "didn't she",
+            "4": "didn't they"
+          }
+        },
+        "4": {
+          "stem_plain": "All the students but one __________ in the consent forms to their form teacher.",
+          "options": {
+            "1": "hand",
+            "2": "hands",
+            "3": "has handed",
+            "4": "have handed"
+          }
+        },
+        "5": {
+          "stem_plain": "The boy would not have missed the bus if he __________ early the previous night.",
+          "options": {
+            "1": "slept",
+            "2": "had slept",
+            "3": "would sleep",
+            "4": "was sleeping"
+          }
+        },
+        "6": {
+          "stem_plain": "\"Please give me a hand with __________ carton of drinks here,\" the old man said.",
+          "options": {
+            "1": "this",
+            "2": "that",
+            "3": "these",
+            "4": "those"
+          }
+        },
+        "7": {
+          "stem_plain": "Matthew helped his mother __________ an errand before he went to school.",
+          "options": {
+            "1": "run",
+            "2": "ran",
+            "3": "runs",
+            "4": "running"
+          }
+        },
+        "8": {
+          "stem_plain": "The salesman said, \"__________ you need any further information, please do not hesitate to contact me.\"",
+          "options": {
+            "1": "will",
+            "2": "shall",
+            "3": "might",
+            "4": "should"
+          }
+        },
+        "9": {
+          "stem_plain": "She knew very little about the buddy __________ she had been assigned to spend time with.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "10": {
+          "stem_plain": "When we were playing in the garden, the bees flew out of their hive and swarmed __________ us.",
+          "options": {
+            "1": "into",
+            "2": "with",
+            "3": "round",
+            "4": "across"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“Every” 修饰名词时主语视为单数；由句尾的 “last weekend” 可知应使用一般过去时，故谓语动词用 was。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Past Tense",
+          "zh": "上周末在狂欢节上，每对夫妻/情侣都领到了一件T恤。",
+          "answer": "3"
+        },
+        "2": {
+          "note": "前半句是原因，后半句是结果。四个选项中只有 “so” 表示因果连词（所以）。",
+          "concept": "连词与因果关系 — Conjunctions — Cause and Effect",
+          "zh": "老师已经把这个话题解释了好几次，所以学生们在理解上应该没有问题。",
+          "answer": "2"
+        },
+        "3": {
+          "note": "反义疑问句遵循“前肯后否”原则。前半句为肯定句且是一般过去时，故疑问尾句用 didn't；主语 “Passers-by” 为复数，代词用 they。",
+          "concept": "反义疑问句 — Question Tags — Plural Subject & Past Tense",
+          "zh": "“路人主动提出帮助那名受伤的女士，不是吗？”警察询问一位证人。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "“All the students but one” 意为“除了一个学生以外的所有学生”，主语核心为复数（All the students）。此处表示已完成并对现在造成影响的动作，故用现在完成时复数形式 have handed。",
+          "concept": "主谓一致与现在完成时 — Subject-Verb Agreement & Present Perfect Tense",
+          "zh": "除了一个学生外，所有的学生都把家长同意书交给了他们的班主任。",
+          "answer": "4"
+        },
+        "5": {
+          "note": "本句是对过去发生事情的虚拟假设（第三类条件句）。主句使用了 “would not have + 过去分词”，则 if 条件句中必须使用过去完成时（had + 过去分词）。",
+          "concept": "虚拟语气（与过去事实相反）— Conditional Type 3 — Past Unreal Conditional",
+          "zh": "如果那个男孩前一天晚上早点睡觉的话，他就不会错过公交车了。",
+          "answer": "2"
+        },
+        "6": {
+          "note": "名词 “carton” 为单数形式，排除复数指示代词 these 和 those；由句尾的 “here”（这里）可知指的是近处的人或物，故选用 this。",
+          "concept": "指示代词 — Demonstrative Pronouns — this / that / these / those",
+          "zh": "“请帮我拿一下这里的这箱饮料，”老人说道。",
+          "answer": "1"
+        },
+        "7": {
+          "note": "固定搭配 “help somebody (to) do something”，其后接不带 to 的动词不定式（原形）或动词不定式。选项中只有原形 run 符合该用法。",
+          "concept": "动词固定搭配 — Verb Patterns — help sb do sth",
+          "zh": "马修在上学前帮他母亲去办了一件事。",
+          "answer": "1"
+        },
+        "8": {
+          "note": "此处为条件状语从句的虚拟倒装。原句为 “If you should need any further information...”，省略连词 if 时，将情态动词 should 提前至主语前。",
+          "concept": "虚拟条件句的倒装 — Inversion in Conditional Clauses — should clauses",
+          "zh": "销售员说：“如果您需要任何进一步的信息，请随时与我联系。”",
+          "answer": "4"
+        },
+        "9": {
+          "note": "先行词为 “the buddy”（人），在定语从句中作介词 with 的宾语（spend time with whom）。在正式英语中，作介词宾语的引导词需使用宾格 whom。",
+          "concept": "定语从句关系代词 — Relative Pronouns — whom vs who/which",
+          "zh": "她对那个被指派和她共度时光的伙伴知之甚少。",
+          "answer": "3"
+        },
+        "10": {
+          "note": "动词 “swarm” 表示（昆虫等）成群地围着移动，搭配介词 round/around 表示“在……周围聚集、环绕”。",
+          "concept": "介词搭配 — Prepositions — swarm round",
+          "zh": "当我们在花园里玩耍时，蜜蜂从它们的蜂巢里飞出来，围着我们轰鸣。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "\"Let's __________ a plan before we proceed any further with this project,\" the group leader suggested.",
+          "options": {
+            "1": "fish out",
+            "2": "draw up",
+            "3": "think over",
+            "4": "put across"
+          }
+        },
+        "12": {
+          "stem_plain": "The crowds were __________ by the splendid fireworks display and cheered enthusiastically.",
+          "options": {
+            "1": "captivated",
+            "2": "stimulated",
+            "3": "bewildered",
+            "4": "preoccupied"
+          }
+        },
+        "13": {
+          "stem_plain": "The hike up the mountain was long and arduous so the __________ climbers had to take a short break.",
+          "options": {
+            "1": "active",
+            "2": "weary",
+            "3": "drowsy",
+            "4": "energetic"
+          }
+        },
+        "14": {
+          "stem_plain": "Before the examination, the teachers had to __________ that the furniture in the hall had been arranged according to the recommendations.",
+          "options": {
+            "1": "assist",
+            "2": "accept",
+            "3": "advocate",
+            "4": "ascertain"
+          }
+        },
+        "15": {
+          "stem_plain": "Alice always __________ whenever her mother asks her to help out with the household chores. She would take her own sweet time to complete them.",
+          "options": {
+            "1": "resists",
+            "2": "hesitates",
+            "3": "delegates",
+            "4": "procrastinates"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "“在我们进一步推进这个项目之前，先拟定一个计划吧，”组长建议道。",
+          "note": "draw up a plan 为固定搭配，意为“拟定、草拟（计划、合同等）”，符合项目启动前准备计划的语境。",
+          "concept": "短语动词辨析与搭配 — Vocabulary — Phrasal Verbs",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fish out",
+              "zh": "钓出，摸出，找出（动词短语，指从口袋、包或深处费力地摸索、翻找出一件小物品）",
+              "eg": "He reached deep into his pocket and managed to **fish out** a few loose coins for the vending machine."
+            },
+            {
+              "opt": "2",
+              "word": "draw up",
+              "zh": "拟定，草拟（法律文件、计划、合同等）（动词短语，指正式且详细地写出、制定出一套方案或文件）",
+              "eg": "The lawyers met early in the morning to **draw up** the final terms of the business agreement."
+            },
+            {
+              "opt": "3",
+              "word": "think over",
+              "zh": "仔细考虑，慎重思考（动词短语，指在做出重大决定之前，花时间全面且深入地权衡利弊）",
+              "eg": "Please take a few days to **think over** our job offer before giving us your final answer."
+            },
+            {
+              "opt": "4",
+              "word": "put across",
+              "zh": "解释清楚，表达明白（动词短语，指成功地将自己的想法、观点或感受传达给别人并被理解）",
+              "eg": "The extension speaker used simple diagrams to **put across** his complex scientific theories to the public."
+            }
+          ]
+        },
+        "12": {
+          "zh": "人群被壮丽的烟花表演迷住了，热烈地欢呼起来。",
+          "note": "根据后文的 splendid fireworks display（壮丽的烟花表演）和 cheered enthusiastically（热烈欢呼），可知人群是“被深深吸引、迷住了”，故选 captivated。",
+          "concept": "情感与心理动词辨析 — Vocabulary — Participles as Adjectives",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "captivated",
+              "zh": "被迷住的，被深深吸引的（形容词，指人的注意力或兴趣被极为美丽、有趣或迷人的事物完全占据）",
+              "eg": "The children sat perfectly still, completely **captivated** by the magician's illusions."
+            },
+            {
+              "opt": "2",
+              "word": "stimulated",
+              "zh": "受到激发的，被激起兴趣的（形容词，指感官、思想或身体部位受到外界刺激而变得活跃或产生动力）",
+              "eg": "The engaging lecture left the university students feeling highly **stimulated** and eager to learn more."
+            },
+            {
+              "opt": "3",
+              "word": "bewildered",
+              "zh": "困惑的，不知所措的（形容词，指因情况过于复杂、混乱或出乎意料而感到脑子里一片混乱，无法理解）",
+              "eg": "He looked completely **bewildered** by the sudden change in the computer's interface."
+            },
+            {
+              "opt": "4",
+              "word": "preoccupied",
+              "zh": "心事重重的，全神贯注的（形容词，指某人因过度担心或思考某件事，而无法把注意力集中在眼前的人或事上）",
+              "eg": "She seemed **preoccupied** during dinner, barely tasting the food because of her upcoming medical test."
+            }
+          ]
+        },
+        "13": {
+          "zh": "爬这座山的路程漫长而艰苦，所以疲惫的登山者们不得不稍作休息。",
+          "note": "由前半句的 long and arduous（漫长而艰苦）可知，登山者们此时的状态应当是“非常疲惫的、精疲力竭的”，故选 weary。",
+          "concept": "形容词辨析与逻辑因果 — Vocabulary — Adjectives",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "active",
+              "zh": "活跃的，积极的（形容词，指充满活力、经常参与活动或处于不停运动、运作的状态）",
+              "eg": "Despite being over eighty years old, my grandfather remains incredibly **active** in the community."
+            },
+            {
+              "opt": "2",
+              "word": "weary",
+              "zh": "疲惫的，精疲力竭的（形容词，指因长时间辛苦工作、长途跋涉或忍受压力而感到身体或精神极度劳累）",
+              "eg": "The **weary** travelers finally arrived at the cozy inn after driving through the night."
+            },
+            {
+              "opt": "3",
+              "word": "drowsy",
+              "zh": "昏昏欲睡的，困倦的（形容词，指因为疲劳、药物副作用或环境温暖而产生的想睡觉的感觉）",
+              "eg": "The warm air in the lecture hall made several students feel very **drowsy** after lunch."
+            },
+            {
+              "opt": "4",
+              "word": "energetic",
+              "zh": "精力充沛的，充满活力的（形容词，指拥有极大的热忱和源源不断的身体能量，做事雷厉风行）",
+              "eg": "The puppy was so **energetic** that it ran around the garden for hours without stopping."
+            }
+          ]
+        },
+        "14": {
+          "zh": "考试前，老师们必须查明/确保大厅里的桌椅已经按照建议进行了排列。",
+          "note": "ascertain 意为“查明、弄清、确定（事实）”，符合教师在考前对照指南逐一核对、确保考场布置无误的职责语境。",
+          "concept": "动词辨析与职能语境 — Vocabulary — Verbs",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "assist",
+              "zh": "协助，帮助（动词，正式语，指在某人做某事时提供部分力量、资源或资金支持）",
+              "eg": "A team of local guides was hired to **assist** the scientists with their jungle expedition."
+            },
+            {
+              "opt": "2",
+              "word": "accept",
+              "zh": "接受，认可（动词，指欣然收下某物，或对某种观点、指责、条约等表示同意、赞同）",
+              "eg": "The university was delighted to **accept** his generous donation to building the library."
+            },
+            {
+              "opt": "3",
+              "word": "advocate",
+              "zh": "拥护，提倡，主张（动词，指公开支持并呼吁大众关注某项政策、社会理念或改变）",
+              "eg": "Many global organizations strongly **advocate** for the protection of endangered marine species."
+            },
+            {
+              "opt": "4",
+              "word": "ascertain",
+              "zh": "查明，弄清，确定（动词，指通过仔细检查、询问或调查，以获得确凿无疑的真实信息）",
+              "eg": "The detective examined the broken lock to **ascertain** how the burglar entered the mansion."
+            }
+          ]
+        },
+        "15": {
+          "zh": "每当妈妈让她帮忙做家务时，爱丽丝总是拖延。她总会慢吞吞地去完成它们。",
+          "note": "根据后文“take her own sweet time（悠闲地磨蹭、慢吞吞地花时间）”，可以推断出她有严重的“拖延”习惯，故选 procrastinates。",
+          "concept": "行为动词辨析与线索推断 — Vocabulary — Verbs",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "resists",
+              "zh": "抵抗，反抗，抗拒（动词，指公开反对某种力量、变化或克制自己不受某种诱惑的影响）",
+              "eg": "The soldiers managed to **resist** the enemy attacks for three consecutive days."
+            },
+            {
+              "opt": "2",
+              "word": "hesitates",
+              "zh": "犹豫，踌躇（动词，指因心里不确定、害怕或紧张而使得说话或行动出现短暂的停顿）",
+              "eg": "She always **hesitates** for a brief moment before answering a phone call from an unknown number."
+            },
+            {
+              "opt": "3",
+              "word": "delegates",
+              "zh": "委派，授权，分派（工作）（动词，指管理者将自己的权力或具体任务分配给下属、他人来分担）",
+              "eg": "A successful manager knows how to **delegate** duties effectively to his team members."
+            },
+            {
+              "opt": "4",
+              "word": "procrastinates",
+              "zh": "拖延，磨蹭（动词，指习惯性地推迟必须要做的事情，通常是因为觉得其无趣或繁琐）",
+              "eg": "He always **procrastinates** when it comes to studying for his finals, leaving it until the last night."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "arrived at the scene of the ________ with his team.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "crash",
+            "2": "outburst",
+            "3": "eruption",
+            "4": "explosion"
+          }
+        },
+        "17": {
+          "stem_plain": "Peter ________ at the sky until the last fighter plane flew past him.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "had an eye for",
+            "2": "kept an eye on",
+            "3": "turned a blind eye to",
+            "4": "saw a bird's eye view of"
+          }
+        },
+        "18": {
+          "stem_plain": "pulled two families out of the ________.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "debris",
+            "2": "refuse",
+            "3": "scraps",
+            "4": "garbage"
+          }
+        },
+        "19": {
+          "stem_plain": "One of the mothers cried out ________ that her two-week-old baby was missing.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "excitedly",
+            "2": "dejectedly",
+            "3": "helplessly",
+            "4": "animatedly"
+          }
+        },
+        "20": {
+          "stem_plain": "Using whatever tools ________, they lifted a concrete slab before pulling the baby out.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "available",
+            "2": "attainable",
+            "3": "affordable",
+            "4": "achievable"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "crash",
+              "zh": "坠毁/撞击",
+              "eg": "The plane crash left debris scattered across the field."
+            },
+            {
+              "opt": "2",
+              "word": "outburst",
+              "zh": "（感情的）强烈的爆发",
+              "eg": "Her sudden outburst of anger shocked everyone in the room."
+            },
+            {
+              "opt": "3",
+              "word": "eruption",
+              "zh": "（火山）喷发/爆发",
+              "eg": "The volcanic eruption forced thousands of residents to evacuate."
+            },
+            {
+              "opt": "4",
+              "word": "explosion",
+              "zh": "爆炸",
+              "eg": "The gas leakage caused a powerful explosion in the kitchen."
+            }
+          ]
+        },
+        "17": {
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "had an eye for",
+              "zh": "对……有眼光/有鉴赏力",
+              "eg": "She always had an eye for detail, making her an excellent editor."
+            },
+            {
+              "opt": "2",
+              "word": "kept an eye on",
+              "zh": "密切注意/留意",
+              "eg": "The mother kept an eye on her children as they played in the park."
+            },
+            {
+              "opt": "3",
+              "word": "turned a blind eye to",
+              "zh": "对……视而不见",
+              "eg": "The manager turned a blind eye to the small mistake made by the intern."
+            },
+            {
+              "opt": "4",
+              "word": "saw a bird's eye view of",
+              "zh": "鸟瞰/俯瞰……",
+              "eg": "From the top of the tower, they saw a bird's eye view of the city."
+            }
+          ]
+        },
+        "18": {
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "debris",
+              "zh": "残骸/碎片",
+              "eg": "Rescue workers cleared the debris after the building collapsed."
+            },
+            {
+              "opt": "2",
+              "word": "refuse",
+              "zh": "垃圾/废物",
+              "eg": "Household refuse should be disposed of in the designated bins."
+            },
+            {
+              "opt": "3",
+              "word": "scraps",
+              "zh": "碎屑/残余物",
+              "eg": "She fed the leftover scraps of food to her dog after dinner."
+            },
+            {
+              "opt": "4",
+              "word": "garbage",
+              "zh": "垃圾",
+              "eg": "Don't forget to take out the garbage before you leave the house."
+            }
+          ]
+        },
+        "19": {
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "excitedly",
+              "zh": "兴奋地",
+              "eg": "The children cheered excitedly when they saw the magician perform."
+            },
+            {
+              "opt": "2",
+              "word": "dejectedly",
+              "zh": "沮丧地/灰心地",
+              "eg": "He walked away dejectedly after losing the final match."
+            },
+            {
+              "opt": "3",
+              "word": "helplessly",
+              "zh": "无助地/绝望地",
+              "eg": "She watched helplessly as her balloon drifted away into the sky."
+            },
+            {
+              "opt": "4",
+              "word": "animatedly",
+              "zh": "活跃地/生动地",
+              "eg": "They talked animatedly about their upcoming vacation plans."
+            }
+          ]
+        },
+        "20": {
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "available",
+              "zh": "可用的/现有的",
+              "eg": "Free Wi-Fi is available to all guests staying at the hotel."
+            },
+            {
+              "opt": "2",
+              "word": "attainable",
+              "zh": "可达到的/可获得的",
+              "eg": "Setting clear milestones makes your long-term goals more attainable."
+            },
+            {
+              "opt": "3",
+              "word": "affordable",
+              "zh": "负担得起的/便宜的",
+              "eg": "The shop offers quality clothes at highly affordable prices."
+            },
+            {
+              "opt": "4",
+              "word": "achievable",
+              "zh": "可实现的/可完成的",
+              "eg": "With regular practice, a high score in the test is fully achievable."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "A bomb was dropped in a village. Peter, a volunteer rescuer with the defence force, arrived at the scene of the [Q16 (blast)] with his team. The stunned villagers thought it was an earthquake. Peter watched [Q17 (carefully)] at the sky until the last fighter plane flew past him.",
+          "Immediately, Peter and his team pulled two families out of the scattered pieces of [Q18 (remains)]. One of the mothers cried out [Q19 (desperately)] that her two-week-old baby was missing. The team started digging through the concrete slabs as cautiously as possible to avoid injuring the baby. They finally spotted the child. Using whatever tools at their [Q20 (disposal)], they lifted a concrete slab before pulling the baby out. The moment became known as the \"miracle baby\" rescue, after the scene had gone viral."
+        ],
+        "zh": [
+          "一个炸弹落在一个村庄里。防卫部队的志愿救援人员彼得和他的团队到达了爆炸现场。震惊的村民以为是地震。彼得仔细注视着天空，直到最后一架战斗机飞过他身边。",
+          "彼得和他的团队立即从零散的残骸中救出了两个家庭。其中一位母亲绝望地大喊，她出生两周的婴儿失踪了。团队开始尽可能小心地挖掘混凝土板，以避免伤到婴儿。他们最终发现了这个孩子。他们利用一切可以利用的工具，合力抬起一块混凝土板，然后将婴儿拉了出来。在这个场景在网络上疯传后，这一时刻被称为“奇迹婴儿”救援。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "动词时态与主谓一致（一般过去时被动语态）",
+          "note": "‘communication among people was restricted...’ 结合前文 In the past，句子时态为一般过去时，主语 communication 为不可数名词单数，故系动词选 was。",
+          "answer": "M"
+        },
+        "30": {
+          "concept": "动词时态与语态（现在完成时被动语态）",
+          "note": "‘has now been lifted’ 构成现在完成时的被动语态，与后面的 been 搭配，主语 This barrier 为单数概念，故选 has。",
+          "answer": "F"
+        },
+        "31": {
+          "concept": "冠词用法（定冠词特指）",
+          "note": "‘the lives of students today’ 定冠词 the 特指“当今学生的”生活。",
+          "answer": "J"
+        },
+        "32": {
+          "concept": "介词惯用法（With结构引导伴随原因）",
+          "note": "‘With so many networking sites...’ 引导伴随或原因状语，表示“随着互联网上有如此多的社交网站……”。",
+          "answer": "Q"
+        },
+        "33": {
+          "concept": "代词（形容词性物主代词）",
+          "note": "‘their homework’ 形容词性物主代词，指代复数主语 students 自己的家庭作业。",
+          "answer": "K"
+        },
+        "34": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘comment on...’ 是固定动词短语搭配，表示“评论、评述”不同人的生活。",
+          "answer": "H"
+        },
+        "35": {
+          "concept": "副词修饰语（并列递进）",
+          "note": "‘also’ 用作副词，表示“他们也能够创造在现实世界中不被允许的其他网络身份”。",
+          "answer": "B"
+        },
+        "36": {
+          "concept": "介词搭配（动短语固定搭配）",
+          "note": "‘lead to a waste of time’ 中 lead to 是固定短语，表示‘导致、引起’时间的浪费。",
+          "answer": "L"
+        },
+        "37": {
+          "concept": "介词用法（表示对象或目的）",
+          "note": "‘impose certain regulations over the use of such social networking sites for students’，介词 for 引入对象，意为“对学生使用此类社交网站施加某些规定”。",
+          "answer": "D"
+        },
+        "38": {
+          "concept": "名词性从句（What引导的宾语从句）",
+          "note": "‘what really matters’ 引导宾语从句，what 在从句中充当主语，意为“什么才是真正重要的”。",
+          "answer": "N"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "B": "also",
+          "C": "from",
+          "D": "for",
+          "E": "had",
+          "F": "has",
+          "G": "is",
+          "H": "on",
+          "J": "the",
+          "K": "their",
+          "L": "to",
+          "M": "was",
+          "N": "what",
+          "P": "which",
+          "Q": "with"
+        },
+        "cloze": [
+          "Today, everyone is connected to one another by the Internet. In the past, communication among people [Q29] restricted by long distances. This barrier [Q30] now been lifted with the help of social networking. Online social networks such as Facebook and Instagram connect people easily in the present world. How then do such networks influence [Q31] lives of students today?",
+          "[Q32] so many networking sites on the internet, students are tempted to abandon [Q33] homework so that they can chat with friends online. Social networks provide them with the opportunity to make new friends and comment [Q34] the lives of different people. They can [Q35] create other online identities that the real world does not allow. Such acts lead [Q36] a waste of time that could have been used for studying or learning of new skills.",
+          "It is therefore necessary to impose certain regulations over the use of such social networking sites [Q37] students to safeguard their wellbeing and personal security. They need to decide [Q38] really matters in their lives. This is because participating actively in social networking can affect students' grades as it can distract them from their studies."
+        ],
+        "zh": [
+          "今天，每个人都通过互联网紧密相连。在过去，人与人之间的交流受到了长途距离的限制。如今，在社交网络的帮助下，这一障碍已被消除。在当今世界，诸如脸书和照片墙等在线社交网络可以轻松将人们联系在一起。那么，这些网络又是如何影响当今学生的生活的呢？",
+          "随着互联网上有如此多的社交网站，学生们很容易受到诱惑而放弃他们的家庭作业，以便在线与朋友聊天。社交网络为他们提供了结识新朋友并对不同人的生活发表评论的机会。他们也可以创造在现实世界中不被允许的其他网络身份。这些行为导致了时间的浪费，而这些时间本可以用来学习或掌握新技能。",
+          "因此，有必要对学生使用此类社交网站施加某些规定，以保护他们的福祉和人身安全。他们需要决定生活中什么才是真正重要的。这是因为积极参与社交网络会分散学生的注意力，从而影响他们的成绩。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 structure（名词，意为结构、建筑物）。",
+          "answer": "structure"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 surrounded（动词/过去分词，意为被……环绕）。",
+          "answer": "surrounded"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 magnificent（形容词，意为宏伟的、壮丽的）。",
+          "answer": "magnificent"
+        },
+        "42": {
+          "concept": "介词 - Prepositions",
+          "note": "介词错误：表示流向某个目标层，通常与 down 搭配或直接指到达某处，这里 till（直到）虽可表时间/空间，但用于表达垂直流向目的地时，更契合的规范介词为 to，即 down seven floors to basement 2。",
+          "answer": "to"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 mesmerise / mesmerize（动词，意为使入迷、迷住）。",
+          "answer": "mesmerise"
+        },
+        "44": {
+          "concept": "代词 - Pronouns",
+          "note": "代词指代错误：根据语境，阳光是照耀在瀑布（the waterfall）上，单数名词应用 it，而非复数 them。",
+          "answer": "it"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 continuous（形容词，意为连续的、不断的）。",
+          "answer": "continuous"
+        },
+        "46": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰名词 display 应用形容词形式 magical，而非名词 magic。",
+          "answer": "magical"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 Special（形容词，意为特制的、特殊的）。原句意为“特制的音乐”。",
+          "answer": "Special"
+        },
+        "48": {
+          "concept": "动词 - Verbs",
+          "note": "词性错误：are added to 后面需接不定式动词原形 enhance（来增强），作目的状语，而非名词 enhancement。",
+          "answer": "enhance"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 unique（形容词，意为独特的）。",
+          "answer": "unique"
+        },
+        "50": {
+          "concept": "介词 - Prepositions",
+          "note": "介词错误：表示“在……之一中放松”，应使用介词 at 与后面的 viewing points（观赏点）搭配，即 relax at one of the many viewing points。",
+          "answer": "at"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The Rain Vortex in Jewel Changi Airport is the world's tallest indoor waterfall. At 40 metres in height, this [Q39(strakture)] is located in the centre of the airport. It is [Q40(sirounded)] by a four-storey terraced forest. A controlled flow of water falls from edge of the opening in the [Q41(megneficient)] roof. From there, it streams down seven floors [Q42(till)] basement 2, creating a \"cascading bead curtain\".",
+          "In the day, the beauty of the waterfall will [Q43(messmarise)] visitors as the sunlight shines on [Q44(them)]. When the sky outside darkens, the [Q45(kontinewous)] pour of the Rain Vortex creates a [Q46(magic)] display. At night, this 'bead curtain' becomes a screen on which a light-and-sound show is projected. [Q47(Specialty)] music and mist effects are added to [Q48(enhancement)] the performance, which aims to be a [Q49(uniqe)] experience for guests.",
+          "Due to the sheer size of the attraction, visitors can relax [Q50(in)] one of the many viewing points and enjoy the captivating show. The Rain Vortex is indeed worth a visit."
+        ],
+        "zh": [
+          "星耀樟宜机场的雨漩涡是世界上最高的室内瀑布。这座建筑高达40米，坐落于机场的中心位置。它被一个四层楼高的阶梯式森林所环绕。受控的水流从宏伟屋顶的开口边缘倾泻而下。从那里，水流向下流经七层楼，直达地下二层，营造出一种“飞瀑珠帘”的景观。",
+          "在白天，当阳光洒在瀑布上时，它的美丽会让游客们陶醉其中。当室外的天空变暗，雨漩涡持续不断的倾泻会创造出一场魔幻的表演。到了夜晚，这道“珠帘”变成了投影屏幕，上演着一场声光秀。特制的音乐和薄雾效果被加入其中以增强表演效果，旨在为宾客带来独一无二的体验。",
+          "由于这个景点的巨大规模，游客可以在众多的观赏点之一放松身心，尽情享受这场迷人的表演。雨漩涡确实非常值得一游。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "关系代词引导非限制性定语从句 / 物主代词",
+          "answer": "whose / its",
+          "note": "引导定语从句修饰先行词‘the naked mole rat’，并在从句中充当定语，意为‘它那（whose）无毛且起皱的身体’。"
+        },
+        "52": {
+          "concept": "固定搭配 / 介词",
+          "answer": "to / in",
+          "note": "与前面的形容词连用，‘be native to a place’为固定搭配，意为‘原产于（to）某地’。"
+        },
+        "53": {
+          "concept": "固定搭配 / 介词 (句首大写)",
+          "answer": "In",
+          "note": "根据标准答案此处首字母需大写（原段落换行为句首）。‘live in colonies’意为‘成群结队地生活’。"
+        },
+        "54": {
+          "concept": "上下文语境名词",
+          "answer": "one / female / member / rat",
+          "note": "根据标准答案选择‘one’。指代它是群体中‘唯一的一只（one）’进行繁殖产仔的个体。"
+        },
+        "55": {
+          "concept": "动词原形 / 语境动词",
+          "answer": "make / dig / excavate / build",
+          "note": "根据标准答案选择‘make’。意为工鼠负责‘建造/制作（make）’供整个群体居住的洞穴。"
+        },
+        "56": {
+          "concept": "代词限定词 / 物主代词",
+          "answer": "their",
+          "note": "修饰后面的名词，指代前文复数主语‘Worker mole rats’，意为使用‘它们自己的（their）’突出的大牙和鼻子。"
+        },
+        "57": {
+          "concept": "逻辑连接词 (转折连词/句首大写)",
+          "answer": "However / Yet / Nevertheless / Nonetheless",
+          "note": "位于句首且首字母大写，后有逗号。连接前文与后文，表示转折关系。"
+        },
+        "58": {
+          "concept": "上下文语境名词",
+          "answer": "water / moisture / liquid",
+          "note": "结合前文‘do not drink’，指它们通过食物获取所需的全部‘水分（water）’。"
+        },
+        "59": {
+          "concept": "上下文语境名词",
+          "answer": "entrance / opening / tunnel / hole",
+          "note": "结合前文捕食者试图进入，指士兵鼠们会堆叠起来堵住‘入口（entrance）’来保护群体。"
+        },
+        "60": {
+          "concept": "固定搭配 / 介词",
+          "answer": "before / instead / rather",
+          "note": "根据标准答案选择‘before’。‘put up a fight before allowing...’意为在允许任何蛇进入洞穴‘之前（before）’一定会奋起反抗。"
+        },
+        "61": {
+          "concept": "动词原形 / 语境动词",
+          "answer": "help / allow / enable / permit",
+          "note": "根据标准答案选择‘help’。位于定语从句中，意为‘帮助（help）’它们能够在恶劣环境中繁衍。"
+        },
+        "62": {
+          "concept": "形容词",
+          "answer": "low / poor / minimal / reduced",
+          "note": "修饰名词短语‘oxygen level’。地底环境通常只有‘极低的（low）’氧气水平。"
+        },
+        "63": {
+          "concept": "固定搭配 / 介词",
+          "answer": "for",
+          "note": "‘hold their breaths for up to...’为常见时间状语搭配，意为‘能够憋气长达（for）18分钟’。"
+        },
+        "64": {
+          "concept": "固定搭配 / 动词原形",
+          "answer": "depend / rely",
+          "note": "根据标准答案选择‘depend’与后文的介词‘on’连用，‘depend on’意为‘依靠、依赖（depend）’它们敏锐的嗅觉和听觉。"
+        },
+        "65": {
+          "concept": "固定搭配 / 副词",
+          "answer": "forward / ahead",
+          "note": "与前文搭配，‘as fast as they can move forward’意为它们倒退移动的速度和‘向前（forward）’移动一样快。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "There are many different kinds of mole rats. The best known is probably the naked mole rat [Q51] hairless and wrinkled body make it look like a tiny walrus. It is also known as 'sand puppy' and it is native [Q52] many parts of East Africa.",
+          "Naked mole rats are rodents but they live in communities like those of many insects. Several dozen rats live [Q53] colonies led by one dominant rat - the queen. Like some insect species, the queen is larger than the rest and it is the only [Q54] to breed and bear young.",
+          "Worker mole rats [Q55] burrows for the whole colony to stay in, using [Q56] protruding teeth and snouts. Most of the time, they eat the roots and bulbs of plants. [Q57], they occasionally emerge to search for seeds or other plants. The naked mole rats do not drink as they obtain all the [Q58] they need through their food. If a predator tries to enter a tunnel, \"soldier\" mole rats pile up to block the [Q59] and protect the colony. Snakes are their greatest predators. Thus, these mole rats will put up a fight [Q60] of allowing any snakes into the burrow to eat the queen.",
+          "Naked mole rats have many adaptations that [Q61] them to thrive in a harsh underground environment which has a [Q62] oxygen level. They can hold their breaths [Q63] up to 18 minutes in zero-oxygen conditions. Almost completely blind, the naked mole rats [Q64] on their acute sense of smell and hearing. Their legs are thin and short but they are highly skilful at moving in narrow underground tunnels. They can move backward as fast as they can move [Q65].",
+          "Another amazing fact about the naked mole rats is that while the average mice live for around four years, they may live for more than thirty years."
+        ],
+        "zh": [
+          "鼹鼠有很多种。最著名的可能要数裸鼹鼠了，它那（whose）无毛且起皱的身体让它看起来像一只小海象。它也被称为“沙小狗”，原产于（to）东非的许多地区。",
+          "裸鼹鼠是啮齿动物，但它们像许多昆虫一样过着群居生活。几十只鼹鼠成群（In）居住，由一只占统治地位的雌鼠——也就是“蚁后”带领。就像某些昆虫物种一样，“蚁后”比其他的鼹鼠体型更大，并且它是群体中唯一（one）进行繁殖产仔的个体。",
+          "工鼠负责建造（make）供整个群体居住的洞穴，使用的是它们自己的（their）突出大牙和鼻子。大多数时候，它们以植物的根和鳞茎为食。然而（However），它们偶尔也会来到地面搜寻种子或其他植物。裸鼹鼠不喝水，因为它们通过食物获取所需的全部水分（water）。如果捕食者试图进入通道， “士兵”鼹鼠就会堆叠起来堵住入口（entrance）以保护群体。蛇是它们最大的捕食者。因此，这些鼹鼠会奋起反抗，在允许任何蛇进入洞穴吃掉“蚁后”之前（before）。",
+          "裸鼹鼠有很多适应能力，这帮助（help）它们能够在氧气水平很低（low）的恶劣地下环境中繁衍。它们在零氧气条件下可以憋气长达（for）18分钟。裸鼹鼠几乎完全失明，它们依赖（depend）自己敏锐的嗅觉和听觉。它们的腿又细又短，但它们非常擅长在狭窄的地下通道中移动。它们倒退移动的速度和向前（forward）移动一样快。",
+          "关于裸鼹鼠的另一个令人惊奇的事实是，虽然普通老鼠的平均寿命约为四年，但它们的寿命可能超过三十年。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

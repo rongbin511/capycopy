@@ -1,0 +1,818 @@
+{
+  "paperid": "p4_english_2025_sa2_nanyang",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Siti ________ her project last week.",
+          "options": {
+            "1": "completes",
+            "2": "completed",
+            "3": "has completed",
+            "4": "was completing"
+          }
+        },
+        "2": {
+          "stem_plain": "The students stayed back ________ recess to finish some schoolwork.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "into",
+            "4": "during"
+          }
+        },
+        "3": {
+          "stem_plain": "As Matthew ________ the school, it began to rain.",
+          "options": {
+            "1": "leave",
+            "2": "have left",
+            "3": "will leave",
+            "4": "was leaving"
+          }
+        },
+        "4": {
+          "stem_plain": "\"________ is for you,\" said Mother as she handed Lisa her present.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "5": {
+          "stem_plain": "\"Too ________ salt in your food is bad for you. Reduce your salt intake,\" said the doctor to her patient.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "6": {
+          "stem_plain": "My teacher(s) ________ happy with me as I help out in class every day.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "Nelly and Lila ________ proud of themselves when they found out that they did well for their class test.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "\"The bus driver ________ for you to board the bus now,\" said the teacher.",
+          "options": {
+            "1": "waits",
+            "2": "waited",
+            "3": "is waiting",
+            "4": "has waited"
+          }
+        },
+        "9": {
+          "stem_plain": "I bought a new exercise book for my writing practices ________ I lost the one I had.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "and",
+            "4": "because"
+          }
+        },
+        "10": {
+          "stem_plain": "________ of these books needs to be handled with care. Not a single book should be dropped,\" said the librarian.",
+          "options": {
+            "1": "Each",
+            "2": "Much",
+            "3": "Many",
+            "4": "A few"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "句尾有明确的过去时间状语 “last week”（上周），动作发生在过去并已完成，需用一般过去时，故选 completed。",
+          "concept": "动词时态 — Verb Tenses — Simple Past Tense",
+          "zh": "西蒂上周完成了她的项目。",
+          "answer": "2"
+        },
+        "2": {
+          "note": "表示“在……期间”，这里指在课间休息期间，固定搭配用介词 “during recess”。",
+          "concept": "介词辨析 — Prepositions — time",
+          "zh": "学生们在课间休息时留下来完成一些学校作业。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "“As”（当……时）引导的时间状语从句表示一个持续性的背景动作，与主句突然开始下雨（began）相对比，从句需用过去进行时，主语 Matthew 搭配 was leaving。",
+          "concept": "动词时态 — Verb Tenses — Past Continuous Tense",
+          "zh": "当马修正在离开学校时，天开始下雨了。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "根据后文 “as she handed Lisa her present”（当她把礼物递给莉萨时），说明礼物距离很近；且 “present” 是单数名词，代词作主语需用近指单数指示代词 “This”。",
+          "concept": "指示代词 — Demonstrative Pronouns — this",
+          "zh": "“这是给你的，”母亲把礼物递给莉萨时说道。",
+          "answer": "1"
+        },
+        "5": {
+          "note": "“salt”（盐）是不可数名词，不能用 few 或 many 修饰；结合医生建议的 “Reduce your salt intake”（减少盐的摄入），可知是指食物里盐“太多”，故选 much。",
+          "concept": "数量词修饰 — Quantifiers — uncountable nouns",
+          "zh": "“食物中过多的盐对你身体不好。减少你的盐摄入量，”医生对她的病人说。",
+          "answer": "3"
+        },
+        "6": {
+          "note": "由于原卷带有括号印作 “My teacher(s)”，通常依循括号外主要单数形式、或结合考卷在印刷此干扰项时的语法一致性，再根据时间状语 “every day”（每天）可知用一般现在时。此处标准答案设计为单数 is（亦或是复数印刷错误，但时态锁定在现在时区，结合日常小常识，任课教师为单数，故选 is）。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Present Tense",
+          "zh": "我的老师对我挺满意的，因为我每天都在班里帮忙。",
+          "answer": "1"
+        },
+        "7": {
+          "note": "“when” 引导的时间状语从句使用的是过去时（found, did），主句也应使用过去时；主语是 “Nelly and Lila”（复数），因此选 “were”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Plural)",
+          "zh": "内莉和莱拉发现她们在班级测试中取得好成绩时，为自己感到骄傲。",
+          "answer": "4"
+        },
+        "8": {
+          "note": "句中有时间副词 “now”（现在），表明司机正在进行的动作，需用现在进行时 “is waiting”。",
+          "concept": "动词时态 — Verb Tenses — Present Continuous Tense",
+          "zh": "“公交车司机现在正等着你们上车呢，”老师说道。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "后半句“我丢了以前那一本”是前半句“买了一本新练习本”的原因，因此使用表原因的连词 “because”。",
+          "concept": "连词辨析 — Conjunctions — because",
+          "zh": "我买了一本新的写作练习本，因为我把以前的那本弄丢了。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "根据谓语动词 “needs” 为单数形式，以及后文 “Not a single book should be dropped”（一本书都不能掉），可知此处指的是“每一本书”，故选 “Each”。",
+          "concept": "代词与主谓一致 — Pronouns & SVA — each of",
+          "zh": "“这些书的每一本都需要小心对待。一本书都不能掉，”图书管理员说。",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The ____________ at the theatre clapped loudly once the performance ended.",
+          "options": {
+            "1": "audience",
+            "2": "onlookers",
+            "3": "spectators",
+            "4": "bystanders"
+          }
+        },
+        "12": {
+          "stem_plain": "The ____________ students rushed outside their classroom to find out where the strange noise was coming from.",
+          "options": {
+            "1": "calm",
+            "2": "curious",
+            "3": "hardworking",
+            "4": "uninterested"
+          }
+        },
+        "13": {
+          "stem_plain": "My mother reminded me to wear a jacket when she saw me ____________ in the cold.",
+          "options": {
+            "1": "swaying",
+            "2": "wobbling",
+            "3": "shivering",
+            "4": "wavering"
+          }
+        },
+        "14": {
+          "stem_plain": "The entire crowd cheered with ____________ when Kim won the gold medal.",
+          "options": {
+            "1": "delight",
+            "2": "leisure",
+            "3": "suspicion",
+            "4": "commotion"
+          }
+        },
+        "15": {
+          "stem_plain": "The football team cheered and shouted ____________ each time their teammate scored a goal.",
+          "options": {
+            "1": "gradually",
+            "2": "awkwardly",
+            "3": "reluctantly",
+            "4": "enthusiastically"
+          }
+        },
+        "16": {
+          "stem_plain": "Simon threw a bucket of water at the burning stove to ____________ the fire.",
+          "options": {
+            "1": "put in",
+            "2": "put on",
+            "3": "put off",
+            "4": "put out"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "剧院里的观众在演出结束时大声鼓掌。",
+          "note": "“audience”指剧院、音乐厅或电影院观看表演的“观众”，最符合戏剧表演（performance）的语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "audience",
+              "zh": "观众（演艺、讲座等）",
+              "eg": "The audience stood up and cheered at the end of the concert."
+            },
+            {
+              "opt": "2",
+              "word": "onlookers",
+              "zh": "围观者",
+              "eg": "A large group of onlookers watched the firefighters work."
+            },
+            {
+              "opt": "3",
+              "word": "spectators",
+              "zh": "观众（尤指体育赛事）",
+              "eg": "The spectators filled the stadium to watch the grand finale."
+            },
+            {
+              "opt": "4",
+              "word": "bystanders",
+              "zh": "旁观者",
+              "eg": "The innocent bystanders quickly scattered when the fight broke out."
+            }
+          ]
+        },
+        "12": {
+          "zh": "好奇的学生们冲出教室，想找出奇怪的声音是从哪里传来的。",
+          "note": "“curious”意思是“好奇的”，解释了学生们为什么急于找出奇怪声音的源头。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "calm",
+              "zh": "平静的、镇静的",
+              "eg": "The pilot remained calm and landed the plane safely."
+            },
+            {
+              "opt": "2",
+              "word": "curious",
+              "zh": "好奇的",
+              "eg": "The curious puppy sniffed around the closed wooden box."
+            },
+            {
+              "opt": "3",
+              "word": "hardworking",
+              "zh": "勤奋的",
+              "eg": "The hardworking farmer spent the entire morning tilling the fields."
+            },
+            {
+              "opt": "4",
+              "word": "uninterested",
+              "zh": "不感兴趣的",
+              "eg": "She looked completely uninterested in the long history lesson."
+            }
+          ]
+        },
+        "13": {
+          "zh": "妈妈看到我在寒冷中发抖，提醒我穿上夹克。",
+          "note": "“shivering”意思是“（因寒冷或害怕而）发抖、打寒颤”，完全对应身体在寒冷（in the cold）中的自然反应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "swaying",
+              "zh": "摇摆、摇晃",
+              "eg": "The tall trees were swaying gently in the evening breeze."
+            },
+            {
+              "opt": "2",
+              "word": "wobbling",
+              "zh": "摇晃、歪歪斜斜地动",
+              "eg": "The toddler was wobbling a little as he took his first steps."
+            },
+            {
+              "opt": "3",
+              "word": "shivering",
+              "zh": "发抖、打寒颤",
+              "eg": "The wet dog was shivering after being caught in the heavy rain."
+            },
+            {
+              "opt": "4",
+              "word": "wavering",
+              "zh": "动摇、犹豫",
+              "eg": "His voice was wavering as he tried to speak about the incident."
+            }
+          ]
+        },
+        "14": {
+          "zh": "当金赢得金牌时，整个全场的人都高兴地欢呼起来。",
+          "note": "“delight”意思是“高兴、欣喜”，与赢得金牌（won the gold medal）带来的狂喜以及人群的欢呼完全吻合。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "delight",
+              "zh": "高兴、欣喜",
+              "eg": "To our great delight, our school team won the championship match."
+            },
+            {
+              "opt": "2",
+              "word": "leisure",
+              "zh": "闲暇、安逸",
+              "eg": "The retired old man spent his leisure time gardening and reading."
+            },
+            {
+              "opt": "3",
+              "word": "suspicion",
+              "zh": "怀疑",
+              "eg": "The detective looked at the messy office with a hint of suspicion."
+            },
+            {
+              "opt": "4",
+              "word": "commotion",
+              "zh": "喧闹、骚动",
+              "eg": "The sudden crash of thunder caused a great commotion in the crowded wet market."
+            }
+          ]
+        },
+        "15": {
+          "zh": "每当队友进球时，足球队都会热情高涨地欢呼和呐喊。",
+          "note": "“enthusiastically”意思是“热情地、热烈地”，修饰欢呼和呐喊的动作，符合队友进球时的激动氛围。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "gradually",
+              "zh": "逐渐地",
+              "eg": "The dark clouds gradually disappeared as the sun came out."
+            },
+            {
+              "opt": "2",
+              "word": "awkwardly",
+              "zh": "尴尬地、笨拙地",
+              "eg": "He stood awkwardly in the corner of the room, not knowing anyone."
+            },
+            {
+              "opt": "3",
+              "word": "reluctantly",
+              "zh": "不情愿地",
+              "eg": "She reluctantly agreed to lend her favorite toy to her cousin."
+            },
+            {
+              "opt": "4",
+              "word": "enthusiastically",
+              "zh": "热情地、热烈地",
+              "eg": "The fans cheered enthusiastically when the singer walked onto the stage."
+            }
+          ]
+        },
+        "16": {
+          "zh": "西蒙向燃烧的炉子泼了一桶水来灭火。",
+          "note": "“put out”是固定短语，意思是“扑灭（火、香烟等）”。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "put in",
+              "zh": "投入、花费（时间等）",
+              "eg": "She put in a lot of effort to complete her science project."
+            },
+            {
+              "opt": "2",
+              "word": "put on",
+              "zh": "穿上、戴上",
+              "eg": "Please remember to put on your shoes before leaving the house."
+            },
+            {
+              "opt": "3",
+              "word": "put off",
+              "zh": "推迟、推延",
+              "eg": "The sports day was put off until next week due to the thunderstorm."
+            },
+            {
+              "opt": "4",
+              "word": "put out",
+              "zh": "扑灭",
+              "eg": "The brave firemen worked throughout the night to put out the forest fire."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词短语 dribbling skills，指代 Jim（单数男性）的运球技巧，意为‘他的’，故选 his。",
+          "answer": "C"
+        },
+        "18": {
+          "concept": "代词（主格）",
+          "note": "作并列句的主语，指代前文被踢的‘球（the ball）’，单数中性代词用 it，故选 it。",
+          "answer": "D"
+        },
+        "19": {
+          "concept": "代词（主格）",
+          "note": "作句子主语，后面有 stared at each other（互相盯着看），说明是指代 Jim 和他的姐姐‘他们’两个人，故选 they。",
+          "answer": "E"
+        },
+        "20": {
+          "concept": "代词（主格）",
+          "note": "作句子主语，指代前文的时间状语从句中的‘妈妈（their mother）’，且后文有 she pointed，确定为女性单数主格，故选 she。",
+          "answer": "F"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "her",
+          "B": "him",
+          "C": "his",
+          "D": "it",
+          "E": "they",
+          "F": "she"
+        },
+        "cloze": [
+          "Jim loved to boast that he had good football skills. One day, his sister asked him to show off [Q17] dribbling skills in the living room. He kicked the ball too hard and [Q18] flew through the air, hitting a potted plant. Soil scattered everywhere.",
+          "Alarmed, [Q19] stared at each other. When their mother saw the mess, [Q20] frowned. Then, she pointed at a broom."
+        ],
+        "zh": [
+          "吉姆喜欢吹嘘自己有很好的足球技术。一天，他的姐姐让他客厅里展示他的运球技巧。他踢球踢得太用力了，球在空中飞过，撞到了一个盆栽植物。泥土撒得满地都是。",
+          "受到惊吓后，他们互相盯着看。当他们的妈妈看到这乱七八糟的景象时，她皱起了眉头。然后，她指向了一把扫帚。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {},
+      "answers": {},
+      "passages": {}
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "29": {
+          "stem_plain": "The famous author came to our school. She was tall.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... who ..."
+        },
+        "30": {
+          "stem_plain": "Don was late for school. He took his time to get ready.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Although ..."
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "定语从句 — Relative Clause (Subject Pronoun 'who')",
+          "zh": "来到我们学校的那位著名作家身材高大。",
+          "note": "who 引导的定语从句修饰先行词 The famous author。从句必须紧跟在所修饰的主语后，然后再接主句的剩余部分（或反之：The famous author, who was tall, came to our school. 但更自然的紧凑合并是将从句置于主语后）。",
+          "answer": "The famous author who came to our school was tall."
+        },
+        "30": {
+          "concept": "让步状语从句 — Concessive Clause ('Although')",
+          "zh": "虽然唐上学迟到了，但他还是慢慢悠悠地做准备。",
+          "note": "although 引导让步状语从句，意为“虽然”。注意英语中 although 不能与 but 同时出现在一个句子中，且从句与主句之间用逗号隔开。",
+          "answer": "Although Don was late for school, he took his time to get ready."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "38": {
+          "stem_plain": "Why was Ben excited when he entered the classroom? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "39": {
+          "stem_plain": "How can you tell that Zaki felt uneasy when he first met Ben? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "40": {
+          "stem_plain": "For questions 40 to 41, read each statement and tick ✓ \"True\" or \"False\". The first example has been done for you. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "40. Zaki did not buy food from the canteen during lunch.",
+                "41. Zaki had a bag that could hold his books securely."
+              ]
+            },
+            "true_false": {
+              "header": "True/False",
+              "rows": [
+                "[Q40a]",
+                "[Q41a]"
+              ]
+            }
+          }
+        },
+        "42": {
+          "stem_plain": "In paragraph 5, Zaki teared as he was feeling _______. [1m]",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "upset",
+            "worried",
+            "irritated"
+          ]
+        },
+        "43": {
+          "stem_plain": "Which word has the same meaning as \"searched\"? Circle either (A) or (B). [1m]",
+          "marks": 1,
+          "cue": "That night, he [A(rummaged)], through his cupboard and [B(located)] a brand-new bag he had forgotten about.",
+          "interaction": "inline_radio"
+        },
+        "44": {
+          "stem_plain": "In paragraph 9, what did Zaki's classmates do to show kindness to him? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "45": {
+          "stem_plain": "Based on the last paragraph, tick ✓ one word that best describes how Ben felt about the result of his actions. [1m]",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "awkward",
+            "satisfied",
+            "disappointed"
+          ]
+        }
+      },
+      "answers": {
+        "38": {
+          "concept": "Text Extraction / Character Emotion",
+          "note": "对应原文第1-2行：'Ben ran into his classroom with his new bag... He was keen to show off the bag to his friends.' 因为他带着新书包，并且非常渴望向朋友们炫耀它。",
+          "answer": "He was keen to show off his new bag to his friends."
+        },
+        "39": {
+          "concept": "Text Extraction / Character Behavior",
+          "note": "对应原文第3-4行以及第5-6行：扎基当时‘低着头’、‘紧紧抓着一个破旧的书包’、并且‘默默地盯着地板’。答出这些身体语言的表现即可。",
+          "answer": "He kept his eyes down, held his worn-out bag tightly and stared at the floor silently when Ben greeted him."
+        },
+        "40": {
+          "concept": "True or False / Evidence Integration",
+          "note": "对应原文第7行：'Ben spotted Zaki eating a plain bun he had brought from home'，他吃的是从家里带的白面包，不是在食堂买的。因此该表述为 True。",
+          "answer": {
+            "40a": "True",
+            "41a": "False"
+          }
+        },
+        "41": {
+          "concept": "True or False / Evidence Integration",
+          "note": "对应原文第9行：'Zaki's bag was torn and had many holes in it. It looked like his books could fall out at any moment.' 他的书包破了全是洞，书随时都会掉出来，所以无法安全地装书。因此该表述为 False。",
+          "answer": {
+            "41a": "False"
+          }
+        },
+        "42": {
+          "concept": "Inference / Character Emotion",
+          "note": "对应原文第五自然段（第12-15行）：扎基独自坐在食堂，悄悄擦掉眼泪，是因为他由于自身艰难的处境感到难过和沮丧，故选 (1) upset。",
+          "answer": "upset"
+        },
+        "43": {
+          "concept": "Vocabulary / Synonym Match",
+          "note": "寻找与 'searched'（搜寻、翻找）同义的词。(A) rummaged 是翻找、搜寻的意思，符合题意；(B) located 是定位、找到的意思。",
+          "answer": "A"
+        },
+        "44": {
+          "concept": "Text Extraction",
+          "note": "对应原文第22-23行（即对应故事尾部倒数第二段）：'This act of kindness encouraged other students to share their school supplies and play with Zaki during recess.' 他的同学向他分享了学习用品，并在课间休息时和他一起玩耍。",
+          "answer": "They shared their school supplies with him and played with him during recess."
+        },
+        "45": {
+          "concept": "Character Emotion / Inference",
+          "note": "对应原文最后一段（第24行）：'Ben smiled. His heart was full.' 他的内心感到无比充实，说明他对自己的行为带来的结果感到非常 'satisfied'（满意/欣慰）。",
+          "answer": "satisfied"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "It was the first day of school. Ben ran into his classroom with his new bag",
+          "2": "bouncing against his side. He was keen to show off the bag to his friends. Taking his",
+          "3": "seat, he saw a new student next to him — quiet, eyes down, hands holding a worn-out",
+          "4": "bag tightly.",
+          "5": "His name was Zaki. Ben greeted him, expecting a reply. Yet, Zaki stared at the",
+          "6": "floor silently, leaving Ben feeling uncomfortable. However, Ben kept a straight face.",
+          "7": "During lunch break, Ben spotted Zaki eating a plain bun he had brought from",
+          "8": "home, all alone. Around him, others were having hot meals from different stalls. Zaki's",
+          "9": "bag was torn and had many holes in it. It looked like his books could fall out at any",
+          "10": "moment.",
+          "11": "Worried, Ben decided to keep an eye on Zaki.",
+          "12": "A week passed. Ben noticed that during every lunch break, Zaki would sit alone",
+          "13": "in the canteen, staring blankly at his bun before taking small bites. He would also wipe",
+          "14": "away his tears when he thought no one was watching. Ben wondered how he could",
+          "15": "help him.",
+          "16": "That night, he rummaged through his cupboard and located a brand-new bag",
+          "17": "he had forgotten about. He put a note in it that read:",
+          "18": "\"This is a gift for you — Ben.\"",
+          "19": "The next morning, he placed the bag on Zaki's chair. When Zaki arrived, he",
+          "20": "was astonished. As he opened the bag and read the note, his eyes widened in",
+          "21": "disbelief. Slowly, he turned to Ben. With tears in his eyes, he thanked Ben.",
+          "22": "This act of kindness encouraged other students to share their school supplies",
+          "23": "and play with Zaki during recess.",
+          "24": "Ben smiled. His heart was full. He had planted seeds of kindness for Zaki."
+        },
+        "paragraphs": {
+          "1": "那是开学的第一天。本背着他的新书包跑进教室，书包在身旁一拍一拍的。他非常渴望向朋友们炫耀他的新书包。回到座位上时，他看到身边坐着一个新同学——很安静，低着头，双手紧紧地抓着一个破旧的书包。",
+          "5": "他的名字叫扎基。本向他打了个招呼，并期待着他的回应。然而，扎基只是默默地盯着地板，这让本感到有些尴尬。不过，本脸上并没有表现出来，依然保持着平静的神色。",
+          "7": "午休时间，本注意到扎基正独自一人吃着从家里带出来的白面包。在他的周围，其他同学都在不同的档口吃着热腾腾的饭菜。扎基的书包已经破了，上面有很多洞。看起来他的书随时都有可能掉出来。",
+          "11": "由于有些担心，本决定暗中留意扎基。",
+          "12": "一个星期过去了。本发现每次午休时，扎基都会独自一人坐在食堂里，两眼无神地盯着面包，然后才一小口一小口地咬着。当他以为没人看他时，他还会悄悄擦掉眼泪。本心里琢磨着自己该怎么去帮助他。",
+          "16": "那天晚上，他在自己的橱柜里翻找了一番，翻出了一个已经被他遗忘的全新书包。他在里面放了一张小纸条，上面写着：",
+          "18": "“这是送给你的礼物 —— 本。”",
+          "19": "第二天早上，他把书包放在了扎基的椅子上。当扎基来到座位时，他惊呆了。他打开书包读完纸条后，惊讶得瞪大了眼睛，简直不敢相信。他缓缓转过头看着本。眼里含着泪水，向本道了谢。",
+          "22": "这个善良的举动也感染了其他同学，大家开始主动分享自己的学校用品，并在课间休息时和扎基一起玩耍。",
+          "24": "本笑了。他的内心感到无比充实。他已经为扎基种下了善良的种子。"
+        },
+        "image": "109-passage.jpeg"
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

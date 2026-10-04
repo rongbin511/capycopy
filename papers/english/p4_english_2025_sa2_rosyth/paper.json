@@ -1,0 +1,869 @@
+{
+  "paperid": "p4_english_2025_sa2_rosyth",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Tom and I ________ startled by a loud scream last night.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "Timmy ________ upset when his sister broke his toy robot.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "\"The principal ________ a speech on road safety now,\" said Mdm Lim.",
+          "options": {
+            "1": "gives",
+            "2": "is giving",
+            "3": "gave",
+            "4": "has given"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Could you please bring me ________ files which have been placed over there?\" asked Mr Tan.",
+          "options": {
+            "1": "those",
+            "2": "that",
+            "3": "these",
+            "4": "this"
+          }
+        },
+        "5": {
+          "stem_plain": "Yesterday, Jane ________ three sweaters from me before going for her holiday.",
+          "options": {
+            "1": "borrows",
+            "2": "has borrowed",
+            "3": "borrowed",
+            "4": "was borrowing"
+          }
+        },
+        "6": {
+          "stem_plain": "While we ________ the soccer match, we heard a loud clap of thunder.",
+          "options": {
+            "1": "watch",
+            "2": "will watch",
+            "3": "were watching",
+            "4": "have watched"
+          }
+        },
+        "7": {
+          "stem_plain": "Mary added only ________ teaspoons of sugar to her cake mixture as she did not want it to be sweet.",
+          "options": {
+            "1": "a few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "8": {
+          "stem_plain": "My sister bought a new mobile phone ________ she broke her old one.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "and",
+            "4": "because"
+          }
+        },
+        "9": {
+          "stem_plain": "There was ________ chance of winning the match as the best player was injured.",
+          "options": {
+            "1": "much",
+            "2": "little",
+            "3": "a lot of",
+            "4": "some"
+          }
+        },
+        "10": {
+          "stem_plain": "My classmates played soccer together ________ recess and came back to class late.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "into",
+            "4": "during"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "句尾有明确的过去时间状语 “last night”（昨晚），且主语是 “Tom and I”（复数），因此被动语态的系动词用 “were”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Plural)",
+          "zh": "昨晚汤姆和我被一声响亮的尖叫声吓了一跳。",
+          "answer": "4"
+        },
+        "2": {
+          "note": "时间状语从句中使用了一般过去时（broke），主句也应使用过去时；主语 “Timmy” 为单数，因此选 “was”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Singular)",
+          "zh": "当蒂米的妹妹弄坏了他的玩具机器人时，他很难过。",
+          "answer": "3"
+        },
+        "3": {
+          "note": "句中有时间副词 “now”（现在），表明动作正在发生，需用现在进行时 “is giving”。",
+          "concept": "动词时态 — Verb Tenses — Present Continuous Tense",
+          "zh": "“校长现在正在做关于道路安全的演讲，”林女士说。",
+          "answer": "2"
+        },
+        "4": {
+          "note": "句中有空间远指词 “over there”（在那里），且修饰的对象 “files” 是复数可数名词，因此选用远指复数指示代词 “those”。",
+          "concept": "指示代词 — Demonstrative Pronouns — those",
+          "zh": "“你能把放在那边的那些文件拿给我吗？”陈先生问。",
+          "answer": "1"
+        },
+        "5": {
+          "note": "句首有明确的过去时间状语 “Yesterday”（昨天），动作发生在过去并已结束，需用一般过去时，故选 borrowed。",
+          "concept": "动词时态 — Verb Tenses — Simple Past Tense",
+          "zh": "昨天，简在去度假前向我借了三件毛衣。",
+          "answer": "3"
+        },
+        "6": {
+          "note": "“While” 引导的时间状语从句表示一个持续性的背景动作，与主句中听到雷声这一过去瞬时动作（heard）相对比，从句需用过去进行时，主语 we 搭配 were watching。",
+          "concept": "动词时态 — Verb Tenses — Past Continuous Tense",
+          "zh": "当我们正在看足球比赛时，听到了一声响亮的雷鸣。",
+          "answer": "3"
+        },
+        "7": {
+          "note": "“teaspoons” 是复数可数名词，不能用 little 或 much 修饰；结合后文 “did not want it to be sweet”（不想让它太甜）以及 “only”（仅仅），可知是加了“几勺”，故选 a few。",
+          "concept": "数量词修饰 — Quantifiers — countable nouns",
+          "zh": "玛丽只往她的蛋糕混合物里加了几茶匙糖，因为她不想让它太甜。",
+          "answer": "1"
+        },
+        "8": {
+          "note": "后半句“她弄坏了旧手机”是前半句“买新手机”的原因，因此使用表原因的连词 “because”。",
+          "concept": "连词辨析 — Conjunctions — because",
+          "zh": "我姐姐买了一部新手机，因为她把旧手机弄坏了。",
+          "answer": "4"
+        },
+        "9": {
+          "note": "“chance”（机会）在此处为不可数名词，不能用 many 修饰；结合后文 “as the best player was injured”（因为最优秀的队员受伤了），可知获胜的机会“很少/几乎没有”，表否定含义用 little。",
+          "concept": "数量词修饰 — Quantifiers — uncountable nouns",
+          "zh": "因为最优秀的队员受伤了，所以赢得比赛的机会微乎其微。",
+          "answer": "2"
+        },
+        "10": {
+          "note": "表示“在……期间”，这里指在课间休息期间，固定搭配用介词 “during recess”。",
+          "concept": "介词辨析 — Prepositions — time",
+          "zh": "我的同学们在课间休息期间一起踢足球，结果回教室迟到了。",
+          "answer": "4"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "During the inter-school badminton competition, the ____________ in the indoor stadium cheered to show their support.",
+          "options": {
+            "1": "witnesses",
+            "2": "onlookers",
+            "3": "spectators",
+            "4": "bystanders"
+          }
+        },
+        "12": {
+          "stem_plain": "Lily realised that she was lost when the surroundings looked ____________ to her.",
+          "options": {
+            "1": "unsafe",
+            "2": "unfamiliar",
+            "3": "unexpected",
+            "4": "uninteresting"
+          }
+        },
+        "13": {
+          "stem_plain": "Sarah ____________ into Kelly's ears so that no one could hear her secret.",
+          "options": {
+            "1": "gasped",
+            "2": "whistled",
+            "3": "hummed",
+            "4": "whispered"
+          }
+        },
+        "14": {
+          "stem_plain": "My mother reminded me to hold the glass bowl with two hands as it was ____________.",
+          "options": {
+            "1": "frail",
+            "2": "flimsy",
+            "3": "feeble",
+            "4": "fragile"
+          }
+        },
+        "15": {
+          "stem_plain": "The customer stormed ____________ into the restaurant, demanding an explanation for the delay in the delivery.",
+          "options": {
+            "1": "furiously",
+            "2": "excitedly",
+            "3": "frantically",
+            "4": "worriedly"
+          }
+        },
+        "16": {
+          "stem_plain": "Jake felt sorry for the damage he had caused and promised to ____________.",
+          "options": {
+            "1": "hang around",
+            "2": "turn over a new leaf",
+            "3": "burn the midnight oil",
+            "4": "pass with flying colours"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "在校际羽毛球比赛期间，室内体育馆内的观众欢呼以示支持。",
+          "note": "“spectators”指体育场馆或公开赛事的“观众”，最符合在体育馆看比赛并欢呼的语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "witnesses",
+              "zh": "目击者、证人",
+              "eg": "The police are looking for witnesses to the traffic accident."
+            },
+            {
+              "opt": "2",
+              "word": "onlookers",
+              "zh": "围观者",
+              "eg": "A crowd of onlookers gathered to watch the street performers."
+            },
+            {
+              "opt": "3",
+              "word": "spectators",
+              "zh": "观众（尤指体育赛事）",
+              "eg": "The stadium was packed with excited spectators cheering for their teams."
+            },
+            {
+              "opt": "4",
+              "word": "bystanders",
+              "zh": "旁观者（无意中在场的人）",
+              "eg": "Innocent bystanders were injured when the scaffolding collapsed."
+            }
+          ]
+        },
+        "12": {
+          "zh": "当周围的环境看起来很陌生时，莉莉意识到自己迷路了。",
+          "note": "“unfamiliar”意思是“不熟悉的、陌生的”，是导致迷路（lost）的直接原因。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unsafe",
+              "zh": "不安全的",
+              "eg": "It is unsafe to walk alone in the dark alley at night."
+            },
+            {
+              "opt": "2",
+              "word": "unfamiliar",
+              "zh": "不熟悉的、陌生的",
+              "eg": "He got lost because he was driving through an unfamiliar town."
+            },
+            {
+              "opt": "3",
+              "word": "unexpected",
+              "zh": "出乎意料的",
+              "eg": "The sudden rain was unexpected as the sky was clear a moment ago."
+            },
+            {
+              "opt": "4",
+              "word": "uninteresting",
+              "zh": "无趣的",
+              "eg": "The documentary was so uninteresting that I fell asleep halfway."
+            }
+          ]
+        },
+        "13": {
+          "zh": "莎拉在凯莉耳边低语，这样就没人能听到她的秘密了。",
+          "note": "“whispered”意思是“低语、耳语”，与后文“into ears（在耳边）”和“hear her secret（听见秘密）”完全对应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "gasped",
+              "zh": "倒吸一口气、喘息",
+              "eg": "She gasped in shock when she saw the sudden mess in her room."
+            },
+            {
+              "opt": "2",
+              "word": "whistled",
+              "zh": "吹口哨",
+              "eg": "The boy whistled a cheerful tune as he walked down the street."
+            },
+            {
+              "opt": "3",
+              "word": "hummed",
+              "zh": "哼唱、发嗡嗡声",
+              "eg": "She hummed softly to herself while preparing dinner in the kitchen."
+            },
+            {
+              "opt": "4",
+              "word": "whispered",
+              "zh": "低语、耳语",
+              "eg": "They whispered during the movie so they would not disturb others."
+            }
+          ]
+        },
+        "14": {
+          "zh": "妈妈提醒我用双手拿玻璃碗，因为它很易碎。",
+          "note": "“fragile”意思是“易碎的”，常用来形容玻璃、瓷器等容易打破的物品。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "frail",
+              "zh": "瘦弱的、虚弱的（多指人）",
+              "eg": "The old man looked frail after recovering from a long illness."
+            },
+            {
+              "opt": "2",
+              "word": "flimsy",
+              "zh": "劣质的、易坏的、薄弱的",
+              "eg": "The flimsy plastic table broke when heavy boxes were placed on it."
+            },
+            {
+              "opt": "3",
+              "word": "feeble",
+              "zh": "微弱的、无力的",
+              "eg": "The sick kitten made a feeble cry for food."
+            },
+            {
+              "opt": "4",
+              "word": "fragile",
+              "zh": "易碎的",
+              "eg": "Please handle this parcel with care as it contains fragile glass vases."
+            }
+          ]
+        },
+        "15": {
+          "zh": "那个顾客愤怒地冲进餐厅，要求对延迟送达做出解释。",
+          "note": "“furiously”意思是“愤怒地”，与动词“stormed into（气冲冲地闯入）”以及要求解释的语境相契合。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "furiously",
+              "zh": "愤怒地",
+              "eg": "He slammed the door furiously after arguing with his brother."
+            },
+            {
+              "opt": "2",
+              "word": "excitedly",
+              "zh": "兴奋地",
+              "eg": "The children jumped up and down excitedly when they saw the gifts."
+            },
+            {
+              "opt": "3",
+              "word": "frantically",
+              "zh": "手忙脚乱地、发疯似地",
+              "eg": "She searched frantically for her missing keys before the interview."
+            },
+            {
+              "opt": "4",
+              "word": "worriedly",
+              "zh": "担忧地",
+              "eg": "The mother looked worriedly at the clock when her son was late."
+            }
+          ]
+        },
+        "16": {
+          "zh": "杰克对他造成的破坏感到抱歉，并承诺会改过自新。",
+          "note": "“turn over a new leaf”是习语，意思是“改过自新、重新做人”，符合认错并承诺改正的语境。",
+          "concept": "Idioms MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hang around",
+              "zh": "闲逛、游荡",
+              "eg": "The teenagers like to hang around the shopping mall after school."
+            },
+            {
+              "opt": "2",
+              "word": "turn over a new leaf",
+              "zh": "改过自新",
+              "eg": "After being caught cheating, Tom promised to turn over a new leaf."
+            },
+            {
+              "opt": "3",
+              "word": "burn the midnight oil",
+              "zh": "挑灯夜战、开夜车",
+              "eg": "She had to burn the midnight oil to prepare for her final exams."
+            },
+            {
+              "opt": "4",
+              "word": "pass with flying colours",
+              "zh": "以优异成绩通过",
+              "eg": "He studied very hard and managed to pass the test with flying colours."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "代词（主格）",
+          "note": "作句子主语，指代前句提到的单数女性‘我的祖母（My grandmother）’，且后文接单三动词 waters，故选 she。",
+          "answer": "D"
+        },
+        "18": {
+          "concept": "代词（宾格）",
+          "note": "作介词 around 的宾语，指代第一人称复数‘我们（we）’周围的一切生物，故选 us。",
+          "answer": "E"
+        },
+        "19": {
+          "concept": "代词（主格）",
+          "note": "作句子主语，指代前文的‘我的妈妈和我（my mother and I）’，第一人称复数主格用 we，故选 we。",
+          "answer": "B"
+        },
+        "20": {
+          "concept": "代词（宾格）",
+          "note": "作动词 share 的宾语，指代上文提到的复数名词‘照片（photographs）’，用复数宾格代词 them，故选 them。",
+          "answer": "F"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "her",
+          "B": "we",
+          "C": "they",
+          "D": "she",
+          "E": "us",
+          "F": "them"
+        },
+        "cloze": [
+          "My grandmother has a garden full of plants. [Q17] waters them every day. She explains that we should care for all the living things around [Q18].",
+          "Hence, my mother and I gave my grandmother a surprise. [Q19] brought her to Gardens by the Bay. She took many photographs of the plants as she wanted to share [Q20] with her friends. She even knew the names of all the plants."
+        ],
+        "zh": [
+          "我的祖母有一个长满植物的花园。她每天给它们浇水。她解释说，我们应该照顾我们周围所有的生物。",
+          "因此，我的妈妈和我给了祖母一个惊喜。我们带她去了滨海湾花园。她拍了许多植物的照片，因为她想和她的朋友们分享它们。她甚至知道所有植物的名字。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "25": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "26": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "marks": 1,
+          "interaction": "sentence_manipulation"
+        }
+      },
+      "answers": {
+        "25": {
+          "concept": "主谓一致",
+          "note": "先行词 People 为复数名词，因此后面的系动词应由单数 is 改为复数 are。",
+          "answer": "are"
+        },
+        "26": {
+          "concept": "动词时态",
+          "note": "句中有明确的过去时间状语 In 1969，动作发生在过去，因此动词 takes 应改为过去式 took。",
+          "answer": "took"
+        },
+        "29": {
+          "concept": "关联连词与主谓一致",
+          "note": "使用 Both... and... 结构连接两个并列主语，此时谓语动词需用复数形式，因此 know 后面不加 s。",
+          "answer": "Both Sam and David know how to swim."
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Space exploration allows humans to learn about the planets, stars and other objects in space. People who explore space [Q25(is)] called astronauts. In 1969, an astronaut, Neil Armstrong, [Q26(takes)] his first step on the moon. It was a great acheivemant for Mankind. Since then, scientists have made tremendous progress in discovering more about space."
+        ],
+        "zh": [
+          "空间探索使人类能够了解太空中的行星、恒星和其他物体。探索太空的人被称为宇航员。1969年，宇航员尼尔·阿姆斯特朗在月球上踏出了他的第一步。这对人类来说是一个伟大的成就。从那时起，科学家们在探索更多关于太空的知识方面取得了巨大的进展。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "28": {
+          "stem_plain": "My brother was unwell. My father gave my brother some medicine.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... so ..."
+        },
+        "29": {
+          "stem_plain": "Sam knows how to swim. David also knows how to swim.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Both ..."
+        }
+      },
+      "answers": {
+        "28": {
+          "concept": "因果连词 — Coordinating Conjunction ('so')",
+          "zh": "我的弟弟身体不舒服，所以我的父亲给了他一些药。",
+          "note": "使用 so 连接因果关系的两个简单句。连接时需注意将后一句中重复的名词 my brother 替换为代词 him，以避免语言冗余。",
+          "answer": "My brother was unwell so my father gave him some medicine."
+        },
+        "29": {
+          "concept": "主谓一致 — Correlative Conjunction ('Both ... and ...')",
+          "zh": "萨姆和戴维都会游泳。",
+          "note": "Both ... and ... 连接两个单数主语时，谓语动词必须使用复数形式。因此原句的单数动词 knows 需变更为复数形式 know。",
+          "answer": "Both Sam and David know how to swim."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "41": {
+          "stem_plain": "In paragraph 1, what were the two signs that suggest the house was old? [1m]\ni. \nii. ",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "42": {
+          "stem_plain": "Tick ✓ your chosen answer.\nWhich word in paragraph 1 best describes how Lisa felt when she nodded in agreement? [1m]",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "calm",
+            "brave",
+            "hesitant"
+          ]
+        },
+        "43": {
+          "stem_plain": "Which word has the same meaning as 'doing something without force'? Circle (A) or (B). [1m]\nThey gently (A) pushed open the door and stepped inside cautiously (B).",
+          "marks": 1,
+          "interaction": "multiple_choice"
+        },
+        "44": {
+          "stem_plain": "For Questions 44 - 45, what does each word refer to? [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word",
+              "refers_to"
+            ],
+            "word": {
+              "header": "Word",
+              "rows": [
+                "\"It\" (line 8)",
+                "\"thing\" (line 14)"
+              ]
+            },
+            "refers_to": {
+              "header": "Refers to",
+              "rows": [
+                "[Q44a]",
+                "[Q45a]"
+              ]
+            }
+          }
+        },
+        "46": {
+          "stem_plain": "From lines 10 - 15, what did Lisa do to suggest that she was no longer scared? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "47": {
+          "stem_plain": "Write 1, 2 or 3 in the blanks below to show the correct order of events in the story. [1m]",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Lisa and Kean heard a noise.",
+            "Lisa and Kean found the kitten.",
+            "Lisa and Kean decided to go into the house."
+          ]
+        },
+        "48": {
+          "stem_plain": "Why did the lady look worried? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "49": {
+          "stem_plain": "For Question 49, read the statement and tick ✓ \"True\" or \"False\". Refer to paragraph 5 to help you. [1m]",
+          "marks": 1,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "Lisa and Kean regretted entering the house."
+              ]
+            },
+            "true_false": {
+              "header": "True/False",
+              "rows": [
+                "[Q49a]"
+              ]
+            }
+          }
+        }
+      },
+      "answers": {
+        "41": {
+          "concept": "Text Extraction / Evidence",
+          "note": "根据标准答案更新：列举房子破旧的两个迹象，分别对应油漆剥落和窗户满是灰尘。",
+          "answer": "i) The paint of the house was peeling.\nii) The windows were covered in thick layers of dust."
+        },
+        "42": {
+          "concept": "Vocabulary / Synonym Match",
+          "note": "根据标准答案更新：对应原文的 Reluctantly，选 hesitant。",
+          "answer": "hesitant"
+        },
+        "43": {
+          "concept": "Vocabulary / Contextual Meaning",
+          "note": "根据标准答案更新：选择 A 选项 (gently)。",
+          "answer": "A"
+        },
+        "44": {
+          "concept": "Pronoun Reference",
+          "note": "根据标准答案更新：It 指代房子里的噪音 (The noise in the house)。",
+          "answer": {
+            "44a": "The noise in the house",
+            "45a": "The lost kitten"
+          }
+        },
+        "46": {
+          "concept": "Text Extraction / Character Action",
+          "note": "对应原文第13行：'Lisa heaved a sigh of relief'，标准答案为她如释重负地叹了一口气。",
+          "answer": "She heaved a sigh of relief"
+        },
+        "47": {
+          "concept": "Sequencing Events",
+          "note": "根据标准答案更新：排序结果为 2, 3, 1。",
+          "answer": "2, 3, 1"
+        },
+        "48": {
+          "concept": "Cause and Effect / Text Extraction",
+          "note": "根据标准答案更新：因为这位女士找她迷路的小猫找了好几个小时。",
+          "answer": "The lady was looking for her lost kitten for hours."
+        },
+        "49": {
+          "concept": "True or False / Evidence Integration",
+          "note": "根据标准答案更新：表格真假判断选择 False。",
+          "answer": {
+            "49a": "False"
+          }
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "One sunny afternoon, Lisa and her brother, Kean, were out exploring when",
+          "2": "they stumbled upon an old house. The paint was peeling and the windows were",
+          "3": "covered in thick layers of dust. Lisa asked, \"Kean, do you think there is something",
+          "4": "scary in this house?\" Kean replied, \"I am not sure. There's only one way to find out.",
+          "5": "Let's just enter and explore!\" Reluctantly, Lisa nodded in agreement.",
+          "6": "Taking a deep breath, Lisa and Kean approached the house bravely. They",
+          "7": "gently pushed open the creaky door and stepped inside cautiously. As they entered,",
+          "8": "they heard a noise coming from upstairs. It sounded like something they had heard",
+          "9": "before. Fear gripped them but out of curiosity, they continued exploring. As they",
+          "10": "climbed the stairs, the noise became louder. Lisa muttered, \"I am really scared",
+          "11": "now.\"",
+          "12": "Kean squeezed her hand. \"Don't worry, Lisa. We will be fine.\" At the top of",
+          "13": "the stairs, they found a frightened kitten hiding in the corner. Lisa heaved a sigh of",
+          "14": "relief as Kean gently picked it up. \"You poor thing! You are the one making the",
+          "15": "noise!\"",
+          "16": "\"It looks like this house is just home to a little furry friend!\" Kean exclaimed.",
+          "17": "Lisa and Kean carried the kitten outside and noticed a lady looking around worriedly.",
+          "18": "When she saw them with the kitten, she ran up to them and said, \"I have been",
+          "19": "looking for my kitten for hours!\"",
+          "20": "The lady thanked Lisa and Kean as they returned her the kitten. Walking back",
+          "21": "home, Lisa said to Kean, \"There was actually nothing to be scared about.\" Kean",
+          "22": "agreed. He was glad that their curiosity had led to the discovery of the lost kitten."
+        },
+        "paragraphs": {
+          "1": "一个阳光明媚的下午，丽莎和她的弟弟/哥哥基恩在外探险时，偶然发现了一栋旧房子。房子上的油漆已经剥落，窗户上覆盖着厚厚的灰尘。丽莎问：“基恩，你觉得这栋房子里有什么可怕的东西吗？”基恩回答说：“我也不确定。只有一种方法可以查明。让我们进去探险吧！”丽莎很不情愿地在表示同意地轻微点头。",
+          "6": "吸了一深呼吸，丽莎和基恩勇敢地走向那栋房子。他们轻轻地推开吱吱作响的门，小心翼翼地走了进去。当他们走进去时，听到楼上传来一阵声音。这声音听起来很像他们以前听过的某种声音。恐惧笼罩着他们，但出于好奇，他们继续向前探索。当他们爬上楼梯时，声音变得越来越大。丽莎低声说：“我现在真的很害怕。”",
+          "12": "基恩捏了捏她的手。“别担心，丽莎。我们会没事的。”在楼梯顶端，他们发现了一只躲在角落里受惊的小猫。当基恩轻轻抱起它时，丽莎松了一口气。“真可怜的小家伙！原来是你发出的声音！”",
+          "16": "“看来这栋房子只是一个毛茸茸的小朋友的家！”基恩惊呼道。丽莎和基恩把小猫抱到外面，注意到一位女士正焦急地四处张望。当她看到他们抱着小猫时，她跑向他们说：“我已经找我的小猫好几个小时了！”",
+          "20": "当他们把小猫还给那位女士时，她向丽莎和基恩表示了感谢。在回家的路上，丽莎对基恩说：“其实根本没有什么好害怕的。”基恩表示赞同。他很高兴他们的好奇心让他们发现了这只迷路的小猫。"
+        },
+        "image": "109-passage.jpeg"
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

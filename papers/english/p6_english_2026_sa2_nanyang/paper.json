@@ -1,0 +1,1515 @@
+{
+  "paperid": "p6_english_2026_sa2_nanyang",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Sam and his groupmates ________ their group project, but they will only submit it next week.",
+          "options": {
+            "1": "has completed",
+            "2": "have completed",
+            "3": "has been completing",
+            "4": "have been completing"
+          }
+        },
+        "2": {
+          "stem_plain": "You ________ take better care of your belongings or they might go missing.",
+          "options": {
+            "1": "can",
+            "2": "could",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "3": {
+          "stem_plain": "If I had known about the book sale, I ________ you there.",
+          "options": {
+            "1": "will follow",
+            "2": "would follow",
+            "3": "will have followed",
+            "4": "would have followed"
+          }
+        },
+        "4": {
+          "stem_plain": "We are going to be late, so I suggest we cut ________ this field to get to the bus stop.",
+          "options": {
+            "1": "into",
+            "2": "over",
+            "3": "across",
+            "4": "around"
+          }
+        },
+        "5": {
+          "stem_plain": "Having won the tournament, my teammates and I treated ________ to a feast.",
+          "options": {
+            "1": "us",
+            "2": "them",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "6": {
+          "stem_plain": "One-fifth of the students ________ absent from school yesterday.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "As I was returning home from school, I heard a dog ________ loudly.",
+          "options": {
+            "1": "barked",
+            "2": "barking",
+            "3": "had barked",
+            "4": "was barking"
+          }
+        },
+        "8": {
+          "stem_plain": "We visited the museum ________ the rare fossil bones are displayed.",
+          "options": {
+            "1": "which",
+            "2": "whom",
+            "3": "where",
+            "4": "whose"
+          }
+        },
+        "9": {
+          "stem_plain": "He'll want you to accompany him, ________ he?",
+          "options": {
+            "1": "won't",
+            "2": "didn't",
+            "3": "doesn't",
+            "4": "wouldn't"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Please move ________ pairs of shoes here to that corner,\" my teacher said to me.",
+          "options": {
+            "1": "this",
+            "2": "that",
+            "3": "these",
+            "4": "those"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "主语 Sam and his groupmates 是复数概念。后半句指出下周才上交，说明“完成”这个动作目前已经达成且对现在有影响，选用现在完成时的复数形式 have completed。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — present perfect tense",
+          "zh": "萨姆和他的组员们已经完成了他们的团队项目，但他们下周才会提交。",
+          "answer": "2"
+        },
+        "2": {
+          "note": "should 意为“应当、应该”，在此处表示劝告或建议，符合后面“否则你的物品可能会丢失”的语境。",
+          "concept": "情态动词 — Modal Verbs — advising with 'should'",
+          "zh": "你应该好好看管你的物品，否则它们可能会丢失。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "条件从句使用过去完成时（If I had known...），表明这是一个与过去事实相反的虚拟条件句（Third Conditional）。主句谓语应使用“would have + 过去分词”，故选 would have followed。",
+          "concept": "虚拟语气 — Conditional Sentences — Type 3 (Past Unreal Condition)",
+          "zh": "如果我早知道有图书义卖活动，我就跟着你一起去了。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "cut across 为固定短语，意为“横穿、抄近路穿过”。句子中提到因为快迟到了，所以建议横穿这片田地以到达公交站，符合逻辑。",
+          "concept": "短语动词 — Phrasal Verbs — cut across",
+          "zh": "我们要迟到了，所以我建议我们横穿这片田地去公交车站。",
+          "answer": "3"
+        },
+        "5": {
+          "note": "句子的动作执行者是 my teammates and I（我的队友和我，即“我们”），当动作的发出者和承受者是同一个人或群体时，宾语必须使用反身代词。we 对应的反身代词是 ourselves，故选 ourselves。",
+          "concept": "反身代词 — Reflexive Pronouns — ourselves",
+          "zh": "赢了比赛后，我的队友和我犒劳了我们自己一顿大餐。",
+          "answer": "3"
+        },
+        "6": {
+          "note": "当“分数/百分比 + of + 名词”作主语时，谓语动词的单复数取决于 of 后面的名词形式。students 是复数可数名词，因此谓语用复数；结合时间状语 yesterday（昨天）可知使用一般过去时的复数形式 were。",
+          "concept": "主谓一致 — Subject-Verb Agreement — fractions with plural nouns",
+          "zh": "昨天有五分之一的学生没来上学。",
+          "answer": "4"
+        },
+        "7": {
+          "note": "hear sb. doing sth. 是感官动词的经典用法，强调听到某个动作正在进行。这里指在回家的路上听到狗正大声叫着，故选现在分词 barking。",
+          "concept": "非谓语动词 — Participles — hear someone doing something",
+          "zh": "当我从学校回家时，我听到一只狗在汪汪大叫。",
+          "answer": "2"
+        },
+        "8": {
+          "note": "从句中的主谓结构 the rare fossil bones are displayed 已经完整，空格处在定语从句中作地点状语，修饰先行词 the museum，所以应用关系副词 where 引导。",
+          "concept": "定语从句 — Relative Clauses — relative adverbs (where)",
+          "zh": "我们参观了那家展示稀有化石骨骼的博物馆。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "陈述部分 He'll want 是 He will want 的缩写，属于肯定句。反义疑问句的形式应为“否定助动词 + 主语代词”，will 的否定缩写形式为 won't，故选 won't he。",
+          "concept": "反义疑问句 — Tag Questions — future tense with 'will'",
+          "zh": "他会想让你陪他的，不是吗？",
+          "answer": "1"
+        },
+        "10": {
+          "note": "pairs 属于复数名词，指示代词不能用单数形式 this 或 that；结合修饰词 here（这里）可知指的是近指的复数概念，故选用 these。",
+          "concept": "指示代词 — Demonstrative Pronouns — these vs those with proximity",
+          "zh": "“请把这里的几双鞋移到那个角落去，”我的老师对我说。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "After weeks of ________ by the owner, the leaves of the young plant withered and it died shortly after.",
+          "options": {
+            "1": "neglect",
+            "2": "disrepair",
+            "3": "nourishment",
+            "4": "deterioration"
+          }
+        },
+        "12": {
+          "stem_plain": "Try not to let the difficult questions ________ you and stop you from attempting the other simpler ones.",
+          "options": {
+            "1": "excite",
+            "2": "subdue",
+            "3": "intimidate",
+            "4": "aggravate"
+          }
+        },
+        "13": {
+          "stem_plain": "These musicians have an ________ way of making music using pots and pans.",
+          "options": {
+            "1": "unfazed",
+            "2": "unassuming",
+            "3": "unbecoming",
+            "4": "unconventional"
+          }
+        },
+        "14": {
+          "stem_plain": "My father knocked ________ on my sister's door as she was going to be late for school.",
+          "options": {
+            "1": "insistently",
+            "2": "laboriously",
+            "3": "persuasively",
+            "4": "compulsively"
+          }
+        },
+        "15": {
+          "stem_plain": "Bob's birthday is around the corner. I need your help to ________ some ideas so I can buy him a good gift.",
+          "options": {
+            "1": "take up",
+            "2": "count on",
+            "3": "put forward",
+            "4": "see through"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "在被主人疏忽照顾几周后，这株幼苗的叶子枯萎了，不久便死去了。",
+          "note": "‘neglect’指疏忽、照顾不周，符合植物因没人打理而枯萎死亡的语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "neglect",
+              "zh": "疏忽，忽略",
+              "eg": "The garden overgrown with weeds due to months of neglect."
+            },
+            {
+              "opt": "2",
+              "word": "disrepair",
+              "zh": "失修，破败 (多用于建筑物或设施)",
+              "eg": "The old playground has fallen into disrepair and is now unsafe."
+            },
+            {
+              "opt": "3",
+              "word": "nourishment",
+              "zh": "营养，滋养",
+              "eg": "Plants need water, sunlight, and proper nourishment to grow well."
+            },
+            {
+              "opt": "4",
+              "word": "deterioration",
+              "zh": "恶化，退化",
+              "eg": "The sudden deterioration of the patient's health worried the doctor."
+            }
+          ]
+        },
+        "12": {
+          "zh": "尽量不要让难题恐吓到你，从而阻止你尝试其他更简单的题目。",
+          "note": "‘intimidate’意思是恐吓、使心生畏惧，常用来形容困难让人望而生畏。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "excite",
+              "zh": "使兴奋，使激动",
+              "eg": "The good news about the school trip will excite all the pupils."
+            },
+            {
+              "opt": "2",
+              "word": "subdue",
+              "zh": "制服，克制",
+              "eg": "The security guards managed to subdue the intruder quickly."
+            },
+            {
+              "opt": "3",
+              "word": "intimidate",
+              "zh": "恐吓，使心生畏惧",
+              "eg": "Do not let the large crowd intimidate you when giving your speech."
+            },
+            {
+              "opt": "4",
+              "word": "aggravate",
+              "zh": "使恶化，加重",
+              "eg": "Scratching the mosquito bite will only aggravate the skin rash."
+            }
+          ]
+        },
+        "13": {
+          "zh": "这些音乐家有一种用锅碗瓢盆制作音乐的非传统（标新立异）的方式。",
+          "note": "‘unconventional’意思是非传统的、不因循守旧的，用锅碗瓢盆演奏音乐正好符合这一特点。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unfazed",
+              "zh": "不以为然的，未受惊扰的",
+              "eg": "She remained completely unfazed by the sudden critical comments."
+            },
+            {
+              "opt": "2",
+              "word": "unassuming",
+              "zh": "谦逊的，不装腔作势的",
+              "eg": "Despite being an extremely wealthy man, he has an unassuming personality."
+            },
+            {
+              "opt": "3",
+              "word": "unbecoming",
+              "zh": "不体面的，不合适的",
+              "eg": "Such angry shouting is unbecoming behavior for a class leader."
+            },
+            {
+              "opt": "4",
+              "word": "unconventional",
+              "zh": "非传统的，标新立异的",
+              "eg": "The designer used unconventional materials like cardboard to make dresses."
+            }
+          ]
+        },
+        "14": {
+          "zh": "我父亲坚持不懈地（连续不停地）敲我姐姐的房门，因为她上学快要迟到了。",
+          "note": "‘insistently’意思是坚持不懈地、催促地，用来形容因担心孩子迟到而连续敲门的情景十分准确。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "insistently",
+              "zh": "坚持地，连续催促地",
+              "eg": "The telephone rang insistently, demanding someone to pick it up."
+            },
+            {
+              "opt": "2",
+              "word": "laboriously",
+              "zh": "费力地，艰苦地",
+              "eg": "The old tractor moved laboriously up the steep and muddy hill."
+            },
+            {
+              "opt": "3",
+              "word": "persuasively",
+              "zh": "有说服力地",
+              "eg": "The student argued persuasively and won the entire class debate."
+            },
+            {
+              "opt": "4",
+              "word": "compulsively",
+              "zh": "强迫性地，难以自拔地",
+              "eg": "He washes his hands compulsively throughout the day due to his habits."
+            }
+          ]
+        },
+        "15": {
+          "zh": "鲍勃的生日快到了。我需要你帮忙提出一些建议，好让我能给他买一份好礼物。",
+          "note": "‘put forward’是短语动词，意思是提出（建议、想法等）供讨论。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "take up",
+              "zh": "开始从事，占用（时间/空间）",
+              "eg": "He decided to take up swimming to improve his fitness level."
+            },
+            {
+              "opt": "2",
+              "word": "count on",
+              "zh": "依靠，指望",
+              "eg": "You can always count on your close friends during tough times."
+            },
+            {
+              "opt": "3",
+              "word": "put forward",
+              "zh": "提出（建议/想法）",
+              "eg": "The manager asked the team to put forward some marketing plans."
+            },
+            {
+              "opt": "4",
+              "word": "see through",
+              "zh": "看穿，识破",
+              "eg": "It was easy to see through his lies after checking the facts."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "alleviate",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "trim",
+            "2": "reduce",
+            "3": "shorten",
+            "4": "intensify"
+          }
+        },
+        "17": {
+          "stem_plain": "regular",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "casual",
+            "2": "random",
+            "3": "frequent",
+            "4": "occasional"
+          }
+        },
+        "18": {
+          "stem_plain": "anecdotes",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fables",
+            "2": "reports",
+            "3": "recounts",
+            "4": "testimonials"
+          }
+        },
+        "19": {
+          "stem_plain": "no walk in the park",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "not easy",
+            "2": "not rewarding",
+            "3": "not demanding",
+            "4": "not comfortable"
+          }
+        },
+        "20": {
+          "stem_plain": "completely",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fully",
+            "2": "basically",
+            "3": "adequately",
+            "4": "exceptionally"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "近义词替换 — 减轻/减少",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "trim",
+              "zh": "修剪；整理",
+              "eg": "He needs to trim the long branches of the hedge."
+            },
+            {
+              "opt": "2",
+              "word": "reduce",
+              "zh": "减少；减轻",
+              "eg": "Getting enough sleep can help reduce stress levels."
+            },
+            {
+              "opt": "3",
+              "word": "shorten",
+              "zh": "缩短",
+              "eg": "The tailor offered to shorten the trousers for him."
+            },
+            {
+              "opt": "4",
+              "word": "intensify",
+              "zh": "加强；加剧",
+              "eg": "The strong winds served to intensify the forest fire."
+            }
+          ]
+        },
+        "17": {
+          "note": "近义词替换 — 定期的/频繁的",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "casual",
+              "zh": "随意的；非正式的",
+              "eg": "He wore casual clothes to the informal family gathering."
+            },
+            {
+              "opt": "2",
+              "word": "random",
+              "zh": "随机的",
+              "eg": "The computer picked a random winner from the list."
+            },
+            {
+              "opt": "3",
+              "word": "frequent",
+              "zh": "频繁的；定期的",
+              "eg": "He makes frequent trips to London on corporate business."
+            },
+            {
+              "opt": "4",
+              "word": "occasional",
+              "zh": "偶尔的",
+              "eg": "They enjoy an occasional game of tennis on weekends."
+            }
+          ]
+        },
+        "18": {
+          "note": "近义词替换 — 逸事/叙述",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fables",
+              "zh": "寓言",
+              "eg": "Children enjoy reading Aesop's fables with moral lessons."
+            },
+            {
+              "opt": "2",
+              "word": "reports",
+              "zh": "报告",
+              "eg": "The journalists submitted detailed reports about the event."
+            },
+            {
+              "opt": "3",
+              "word": "recounts",
+              "zh": "叙述；描述",
+              "eg": "Her vivid recounts of the journey fascinated everyone."
+            },
+            {
+              "opt": "4",
+              "word": "testimonials",
+              "zh": "证言；推荐信",
+              "eg": "The customer testimonials proved the product was reliable."
+            }
+          ]
+        },
+        "19": {
+          "note": "习语理解 — 并非易事",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "not easy",
+              "zh": "不容易；困难的",
+              "eg": "Managing a big business is definitely not easy."
+            },
+            {
+              "opt": "2",
+              "word": "not rewarding",
+              "zh": "没有回报的",
+              "eg": "He felt that doing repetitive tasks was not rewarding."
+            },
+            {
+              "opt": "3",
+              "word": "not demanding",
+              "zh": "要求不高的；轻松的",
+              "eg": "The entry-level job is simple and not demanding."
+            },
+            {
+              "opt": "4",
+              "word": "not comfortable",
+              "zh": "不舒服的",
+              "eg": "The hard plastic chairs were not comfortable to sit on."
+            }
+          ]
+        },
+        "20": {
+          "note": "近义词替换 — 完全地；充分地",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fully",
+              "zh": "完全地；充分地",
+              "eg": "She was fully prepared for any difficult questions."
+            },
+            {
+              "opt": "2",
+              "word": "basically",
+              "zh": "基本上",
+              "eg": "The two smartphone models are basically identical in size."
+            },
+            {
+              "opt": "3",
+              "word": "adequately",
+              "zh": "足够地；适当地",
+              "eg": "Make sure your body is adequately hydrated during hot days."
+            },
+            {
+              "opt": "4",
+              "word": "exceptionally",
+              "zh": "极其；破例地",
+              "eg": "The young violinist is exceptionally talented for his age."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Caring for a dog has many wonderful benefits. Dogs provide companionship, which helps to [Q16 (alleviate)] feelings of loneliness and stress. Studies have shown that petting a dog for just ten minutes can have a significant impact on reducing anxiety levels. Dogs also encourage more physical activity among dog owners as they have to take them on [Q17 (regular)] walks. Fellow dog owners can also bond and connect over [Q18 (anecdotes)] of their dogs' quirky behaviours.",
+          "However, it is important to remember that looking after a dog is [Q19 (no walk in the park)]. Before deciding to bring a dog into your home, make sure you are [Q20 (completely)] prepared to commit to their needs for many years. It would be wise for prospective dog owners to consider their lifestyle, schedules and budget before making such a commitment."
+        ],
+        "zh": [
+          "养狗有很多奇妙的好处。狗能提供陪伴，这有助于减轻孤独感和压力。研究表明，抚摸狗仅仅十分钟就能对降低焦虑水平产生显著影响。狗还能促进狗主人进行更多体育活动，因为他们必须带狗进行定期的散步。同为狗主人的人们还可以通过交流他们爱犬古怪行为的逸事来增进感情、建立联系。",
+          "然而，重要的是要记住，照顾一只狗并非易事。在决定把狗带回家之前，确保你已经完全准备好在未来的许多年里对它们的需求做出承诺。对于潜在的狗主人来说，在做出这样的承诺之前，考虑他们的生活方式、时间安排和预算是明智的。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "\"Carry Everything in Style.\" The purpose of this statement in Text 1 is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "emphasise the bag's storage capacity",
+            "2": "highlight that the bag is useful and trendy",
+            "3": "encourage students to be both well-prepared and stylish",
+            "4": "remind students to look good while carrying their belongings"
+          }
+        },
+        "22": {
+          "stem_plain": "How does Ansel's review in Text 1 reinforce the information presented in the poster?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It shows that the bag is suitable for all 12-year-olds.",
+            "2": "It highlights the bag's spacious storage and comfort.",
+            "3": "It emphasises that the sole appeal of the bag is its size.",
+            "4": "It mentions a specific feature of the bag not shown in the poster."
+          }
+        },
+        "23": {
+          "stem_plain": "Based on Text 1, which of the following statements are true about the Peaks school bags?\n\nA: The bag is small and light.\nB: The bag comes in different colours.\nC: The bag has multiple compartments.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A and B",
+            "2": "A and C",
+            "3": "B and C",
+            "4": "A, B and C"
+          }
+        },
+        "24": {
+          "stem_plain": "What is the main message of Text 2?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Students should choose school bags with more features.",
+            "2": "Students should use lockers or desks to store their belongings.",
+            "3": "Students should prioritise comfort when choosing and using school bags.",
+            "4": "Students should express their personality and personal style through their choice of school bags."
+          }
+        },
+        "25": {
+          "stem_plain": "Texts 1 and 2 express differing views on whether ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "students can store certain items in school",
+            "2": "school bags should look appealing to students",
+            "3": "school bags can fit everything needed for school",
+            "4": "students should fit everything into their school bags"
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "“Carry Everything”强调空间大、实用，“in Style”强调时尚外观。结合在一起是为了突显这款包包兼具实用性与时尚感。因此选择选项2。",
+          "concept": "理解句意与意图",
+          "answer": "2"
+        },
+        "22": {
+          "note": "安塞尔（Ansel）在评价中提到“虽然它比其他书包大，但我买它是因为它非常舒服。我上学需要的所有东西都能装进去”，这呼应并强化了海报中“大包也从未如此舒适”以及大容量的宣传点。因此选择选项2。",
+          "concept": "图文互证与证言分析",
+          "answer": "2"
+        },
+        "23": {
+          "note": "海报明确指出“Wide range of colours to choose from”（B正确）和“specific space for everything”（暗示有多个独立隔层，C正确）；海报称其为“Big bags”，而非轻小（A错误）。因此选择选项3。",
+          "concept": "信息细节比对与筛选",
+          "answer": "3"
+        },
+        "24": {
+          "note": "文本2后两段的核心在于呼吁学生注意书包重量、选择背负舒适的书包（如宽肩带、有垫背部）以及精简随身物品来保护背部，即在使用和选择书包时应优先考虑舒适与健康。因此选择选项3。",
+          "concept": "文章主旨题型",
+          "answer": "3"
+        },
+        "25": {
+          "note": "文本1（广告）鼓励学生“把一整天的学校用品都装进一个包里”；而文本2（信息类文本）第二段则提出警告，指出把所有东西塞进一个包里会导致重量过重、伤害背部。两文在“学生是否应该把所有东西都塞进书包”这一点上持相反态度。因此选择选项4。",
+          "concept": "跨文本观点对比与辨析",
+          "answer": "4"
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "过去完成进行时/过去完成时助动词",
+          "note": "事情发生在上周六（Last Saturday），在去农场之前，会员们已经学习了几个月，表示过去的过去，故用过去完成时助动词had，构成“had been learning”。",
+          "answer": "F"
+        },
+        "27": {
+          "concept": "限定词",
+          "note": "“so that each team could...” 意为“以便每个团队都能……”。后面修饰的是单数可数名词team。",
+          "answer": "E"
+        },
+        "28": {
+          "concept": "原因状语从句连词",
+          "note": "“because the roots were delicate” 意为“因为根部很脆弱”，前后文为因果关系，填because表示原因。",
+          "answer": "C"
+        },
+        "29": {
+          "concept": "定语从句关系代词",
+          "note": "这是一个非限制性定语从句，先行词是“a tool with a short handle”，指物并在从句中作主语，故填which。",
+          "answer": "Q"
+        },
+        "30": {
+          "concept": "情态动词",
+          "note": "“must not pour too much water” 意为“绝对不能浇太多水”，情态动词must与not连用表示“禁止、绝不能”。",
+          "answer": "H"
+        },
+        "31": {
+          "concept": "并列/转折连词",
+          "note": "前文提到“水太少会使它们干枯”，后文提到“太多的水会淹死它们”，前后构成对比或转折，故用but连接。",
+          "answer": "D"
+        },
+        "32": {
+          "concept": "介词搭配",
+          "note": "“At the end of the session” 为固定短语，意为“在活动结束时”，置于句首需大写。",
+          "answer": "B"
+        },
+        "33": {
+          "concept": "比较级搭配",
+          "note": "前文有比较级“heavier”，后接than引入比较对象，意为“比其余的更重”。",
+          "answer": "L"
+        },
+        "34": {
+          "concept": "形容词性物主代词",
+          "note": "“wash our hands” 意为“洗我们的手”，对应主语we以及前文的“thanked the farmer, who told us”。",
+          "answer": "J"
+        },
+        "35": {
+          "concept": "时间状语从句连词",
+          "note": "“when it is eaten soon after harvesting” 意为“如果在采摘后很快食用，新鲜蔬菜的味道往往更好”，根据语境这里用when表示“当……时”。",
+          "answer": "P"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "another",
+          "B": "at",
+          "C": "because",
+          "D": "but",
+          "E": "each",
+          "F": "had",
+          "G": "have",
+          "H": "must",
+          "J": "our",
+          "K": "shall",
+          "L": "than",
+          "M": "then",
+          "N": "their",
+          "P": "when",
+          "Q": "which"
+        },
+        "cloze": [
+          "Last Saturday, our school gardening club visited a community farm. For months, the club members [Q26] been learning how vegetables are grown in small spaces.",
+          "At the farm, we were divided into several groups so that [Q27] team could try a different activity. My group was asked to loosen the soil gently [Q28] the roots were delicate. Next, the farmer showed us a tool with a short handle [Q29] was safer for children to use. He reminded us that we [Q30] not pour too much water onto the plants. Too little water would dry them out, [Q31] too much water would drown them. [Q32] the end of the session, we harvested spinach and placed the stalks carefully into baskets.",
+          "The baskets carried by our group were heavier [Q33] the rest because we had picked vegetables from twice as many rows compared to others. Before leaving, we thanked the farmer, who told us to wash [Q34] hands before eating anything. We also learnt that fresh produce often tastes better [Q35] it is eaten soon after harvesting. The visit made many of us eager to start a small class garden."
+        ],
+        "zh": [
+          "上周六，我们学校的园艺俱乐部参观了一个社区农场。几个月来，俱乐部成员们一直都在学习如何在狭小的空间里种植蔬菜。",
+          "在农场里，我们被分成了几个小组，以便每个团队都能尝试不同的活动。我们组被要求轻轻地松土，因为根部很脆弱。接下来，农夫向我们展示了一种带有短柄的工具，这种工具对孩子们来说使用起来更安全。他提醒我们，绝不能往植物上浇太多的水。水太少会让它们干枯，而水太多则会把它们淹死。在活动结束时，我们收获了菠菜，并小心翼翼地把茎秆放进篮子里。",
+          "我们组提着的水果篮比其余的都要重，因为与其他组相比，我们从两倍多的菜行里采摘了蔬菜。在离开之前，我们感谢了农夫，他叮嘱我们在吃任何东西之前要洗手。我们还了解到，新鲜的农产品在采摘后立即食用时，味道往往会更好。这次参观让我们中的许多人都渴望开始建造一个班级小花园。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "词形变化 (主谓一致)",
+          "note": "主语为不定代词 everyone，谓语动词应用单数形式，故应将 have 改为 has。",
+          "answer": "has"
+        },
+        "37": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“纪念”的动词应将 comemoret 纠正为 commemorate。",
+          "answer": "commemorate"
+        },
+        "38": {
+          "concept": "介词搭配",
+          "note": "固定短语搭配错误，表示“充满活跃气氛/忙碌”通常用 be buzzing with activity，应将 in 改为 with。",
+          "answer": "with"
+        },
+        "39": {
+          "concept": "词形变化 (主谓一致)",
+          "note": "主语为 Every display board，由 every 修饰时应视为单数，故被动语态的系动词应将 were 改为 was。",
+          "answer": "was"
+        },
+        "40": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“连贯的、一致的”形容词应将 coherant 纠正为 coherent。",
+          "answer": "coherent"
+        },
+        "41": {
+          "concept": "词形变化 (时态)",
+          "note": "此处为过去完成时 had + 过去分词结构，动词 write 应当改为过去分词形式 written。",
+          "answer": "written"
+        },
+        "42": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“日记、期刊”的名词应将 jornal 纠正为 journal。",
+          "answer": "journal"
+        },
+        "43": {
+          "concept": "单词拼写",
+          "note": "拼写错误，副词“特别、尤其”应将 asppecialy 纠正为 especially。",
+          "answer": "especially"
+        },
+        "44": {
+          "concept": "词形变化 (连词/分词作状语)",
+          "note": "语境逻辑错误。此处引导让步状语短语，意为“尽管在收拾完后感到疲惫”，since 表原因与句意不符，应改为 Despite（或 Although）。",
+          "answer": "Despite"
+        },
+        "45": {
+          "concept": "单词拼写",
+          "note": "拼写错误，副词“毫无疑问地”应将 undoubtably 纠正为 undoubtedly。",
+          "answer": "undoubtedly"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Last month, our class organised an exhibition about how neighbourhoods in Singapore have changed over time. Our teacher reminded us that everyone [Q36(have)] an important role to play. She also said that a panel would be put near the entrance to [Q37(comemoret)] the pioneers who had contributed to the estate.",
+          "The hall was already buzzing [Q38(in)] activity on the morning of the exhibition. Every display board [Q39(were)] checked very carefully before the visitors arrived. A few of us were still making minor changes as we wanted the information to be both accurate and [Q40(coherant)]. Later, a resident of more than fifty years noticed an old photograph of a market and told us that he had [Q41(wrote)] about the same place many years earlier in his [Q42(jornal)].",
+          "At the far end of the hall stood a table of artefacts that families had kindly lent to the school. They were not [Q43(asppecialy)] valuable but helped us imagine what daily life had once been like. [Q44(Since being)] tired after clearing up, many of us felt that the effort had been [Q45(undoubtably)] worthwhile. The exhibition taught us that even ordinary objects can tell meaningful stories about the past."
+        ],
+        "zh": [
+          "上个月，我们班组织了一场关于新加坡社区如何随着时间推移而发生变化的展览。我们的老师提醒我们，每个人都有重要的角色要扮演。她还说，将在入口附近放置一块展板，以纪念那些为这个社区做出贡献的先驱们。",
+          "展览当天的早晨，大厅里已经是一派热闹忙碌的气氛。在参观者到来之前，每一块展板都经过了非常仔细的检查。我们中的几个人还在做一些微调，因为我们希望信息既准确又连贯。后来，一位居住了五十多年的居民注意到了一张老市场的旧照片，并告诉我们，许多年前他曾在自己的日记中写过关于同一个地方的事情。",
+          "在大厅的尽头放着一张桌子，上面陈列着各个家庭亲切出借给学校的文物。它们虽然不是特别值钱，但却帮助我们想象过去日常生活是什么样子的。尽管在收拾完毕后感到疲惫，但我们许多人都觉得付出的努力绝对是值得的。这次展览教会了我们，即使是普通的物品也能讲述关于过去的有意义的故事。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "介词固定搭配",
+          "note": "Instead of... 为固定短语，表示“代替/而不是……”，此处句首需大写字母 I。",
+          "answer": "Instead"
+        },
+        "47": {
+          "concept": "名词词义辨析",
+          "note": "work in small groups 意为“在小组中合作/以小组为单位工作”。",
+          "answer": "groups"
+        },
+        "48": {
+          "concept": "连词引导宾语从句",
+          "note": "think carefully about whether/if their ideas make sense 意为仔细思考他们的想法“是否”对他人有意义，whether 引导宾语从句作介词 about 的宾语。",
+          "answer": "whether"
+        },
+        "49": {
+          "concept": "动词词义辨析与分词结构",
+          "note": "before sharing/presenting them with the class 意为在与全班“分享/展示”它们之前，before 为介词后接动名词短语。",
+          "answer": "sharing"
+        },
+        "50": {
+          "concept": "指示代词引导句子",
+          "note": "This gives them time 意为“这给他们留出了时间”，指示代词 This 指代前文在小组讨论中积累自信的过程。",
+          "answer": "This"
+        },
+        "51": {
+          "concept": "名词固定搭配",
+          "note": "arrange in the correct order 为固定搭配，意为“按正确顺序排列”。",
+          "answer": "order"
+        },
+        "52": {
+          "concept": "动词词义辨析与分词结构",
+          "note": "earn points by explaining why... 意为通过“解释”为什么一个答案错而另一个对来赢得积分，by 后面用动名词形式。",
+          "answer": "explaining"
+        },
+        "53": {
+          "concept": "副词比较级修饰语",
+          "note": "students are more willing to ask questions 意为学生“更”愿意提问，与后文游戏的减压效果相呼应。",
+          "answer": "more"
+        },
+        "54": {
+          "concept": "使役动词搭配",
+          "note": "make learning feel less stressful 意为使学习“显得/感觉”没那么有压力，make sb. do sth. 为固定用法，主语为复数 games 故动词用原形。",
+          "answer": "make"
+        },
+        "55": {
+          "concept": "连词引导条件状语从句",
+          "note": "beneficial only if students continue... 意为“只有当/如果”学生继续复习笔记才有用，only if 引导条件从句。",
+          "answer": "if"
+        },
+        "56": {
+          "concept": "副词固定搭配",
+          "note": "teachers and students alike 意为老师和学生“同样/都”应当理解，alike 用作后置修饰表示两者皆然；亦可使用 both（但 both 习惯放在 should 之前或之后，放在此处不及 alike 地道）。",
+          "answer": "alike"
+        },
+        "57": {
+          "concept": "主谓一致/系动词",
+          "note": "the use of such activities in lessons is just one part... 句子的真正主语是单数名词 use，故谓语动词用 is。",
+          "answer": "is"
+        },
+        "58": {
+          "concept": "动词短语固定搭配",
+          "note": "with time set aside for... 为固定搭配，意为“留出/拨出时间用于……”，set aside 意为留出。",
+          "answer": "aside"
+        },
+        "59": {
+          "concept": "副词短语固定搭配",
+          "note": "more often than not 为固定习语，意为“多半/往往/通常”。",
+          "answer": "not"
+        },
+        "60": {
+          "concept": "介词固定搭配",
+          "note": "stay on task 为固定短语，意为“专心于工作/不分心”。",
+          "answer": "on"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever noticed how some children can remember facts better after turning them into a game? At our school, a group of teachers have begun using a new approach to teaching by adding short revision games to their lessons. [Q46(Instead)] of copying notes for the entire period, students now work in small [Q47(groups)] to answer questions, sort cards and explain ideas to one another.",
+          "When students discuss possible answers, they must listen closely and think carefully about [Q48(whether)] their ideas make sense to others. This helps them to reflect on their answers and spot any mistakes before [Q49(sharing)] them with the class. The games may also encourage quieter students to join in. They can first discuss in small groups before speaking to the whole class. [Q50(This)] gives them time to build their confidence step by step. In one activity, students are given clue cards to arrange in the correct [Q51(order)] to show how a process works. In a different activity, they earn points by [Q52(explaining)] why one answer is wrong while another is correct. Such tasks take only a few minutes, but they keep students alert and fully focused during the lesson.",
+          "Teachers have noticed that after taking part in such activities, students are [Q53(more)] willing to ask questions. This may be because the games [Q54(make)] learning feel less stressful.",
+          "Of course, revision games are beneficial only [Q55(if)] students continue to revise their notes and complete their homework. Fun activities can support learning, but teachers and students [Q56(alike)] should understand that the use of such activities in lessons [Q57(is)] just one part of the learning process, not the whole of it. A balanced routine, with time set [Q58(aside)] for reading, practice and discussion, is more often than [Q59(not)] the most effective way to prepare for an examination. When students enjoy the process of learning, they are more likely to stay [Q60(on)] task. Used wisely, revision games can make learning enjoyable and worth looking forward to too."
+        ],
+        "zh": [
+          "你是否注意到有些孩子在把事实变成游戏后能更好地记住它们？在我们学校，一群老师已经开始使用一种新的教学方法，在课堂中加入简短的复习游戏。现在的学生不再像以前那样整堂课都在抄笔记，而是分成小组来回答问题、分类卡片并互相解释想法。",
+          "当学生讨论可能的答案时，他们必须仔细聆听并认真思考他们的想法对其他人是否有意义。这有助于他们反思自己的答案，并在与全班分享之前发现任何错误。游戏还可以鼓励较内向的学生参与进来。他们可以先在小组内讨论，然后再向全班发言。这让他们有时间一步一步建立起信心。在一次活动中，学生们会拿到线索卡片，需要按正确的顺序排列，以展示一个流程是如何运作的。在另一个不同的活动中，他们通过解释为什么一个答案是错的而另一个是对的来赚取积分。这些任务虽然只需几分钟，但能让学生在课堂上保持警惕并完全集中注意力。",
+          "老师们注意到，在参与了这些活动之后，学生们更愿意提出问题。这可能是因为游戏让学习感觉没那么有压力。",
+          "当然，只有在学生继续复习笔记和完成家庭作业的情况下，复习游戏才是有益的。有趣的活动可以辅助学习，但教师和学生都应该明白，在课堂上使用这些活动只是学习过程的一部分，而不是全部。一个平衡的常规流程，留出时间用于阅读、练习和讨论，往往是准备考试最有效的方法。当学生享受学习的过程时，他们更有可能保持专注而不分心。如果使用得当，复习游戏可以让学习变得令人愉快，并且同样值得期待。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "The rain stopped. The players continued with the match immediately.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No sooner"
+        },
+        "62": {
+          "stem_plain": "Mr Bala invited the artist to speak at the assembly. Her painting had won first prize.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... whose ..."
+        },
+        "63": {
+          "stem_plain": "Tommy is writing several articles for the school newsletter.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Several articles"
+        },
+        "64": {
+          "stem_plain": "Lisa asked Ben if he had managed to complete all his homework the previous week.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Lisa asked Ben, \""
+        },
+        "65": {
+          "stem_plain": "Mrs Lee had such confidence in her team that she did not supervise them at all.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "So"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "高级倒装句型 — No sooner... than... 结构与时态呼应",
+          "zh": "雨刚一停，运动员们就立刻继续进行比赛。",
+          "note": "改写要点：1. No sooner 位于句首时，其所在的分句必须进行部分倒装（助动词提前）；2. 动作发生在过去（stopped），因此倒装部分要用过去完成时（had the rain stopped）；3. 固定搭配连接词为 than，其后连接另一个动作，原句的 immediately 语义已被句型包含，应当省略。",
+          "answer": "No sooner had the rain stopped than the players continued with the match."
+        },
+        "62": {
+          "concept": "定语从句 — 关系代词 whose 引导的所有格定语从句",
+          "zh": "巴拉先生邀请了那位画作获得一等奖的艺术家在集会上发言。",
+          "note": "改写要点：将第二个句子转化为由 whose 引导的定语从句，修饰先行词 the artist。whose 替代形容词性物主代词 Her，后面紧跟它所修饰的名词 painting，整个从句插在主句先行词后面。",
+          "answer": "Mr Bala invited the artist whose painting had won first prize to speak at the assembly."
+        },
+        "63": {
+          "concept": "语态转换 — 现在进行时的被动语态 (is/are + being + 过去分词)",
+          "zh": "几篇文章正由汤米撰写，用于学校简报。",
+          "note": "改写要点：原句的宾语 Several articles 提到句首作主语。由于主语变为复数，谓语动词由主动语态的 is writing 转换为复数形式的现在进行时被动语态 are being written，后接 by Tommy。",
+          "answer": "Several articles are being written by Tommy for the school newsletter."
+        },
+        "64": {
+          "concept": "间接引语变直接引语 — 还原一般疑问句及相应时态与时间状语",
+          "zh": "丽莎问本：“你上周设法完成了所有的作业吗？”",
+          "note": "改写要点：1. 间接引语由 if 引导，说明原句是一般疑问句；2. 将过去完成时（had managed）还原为直接引语中的一般过去时（Did you manage）；3. 人称代词和时间状语逆向转换：he -> you, his -> your, the previous week -> last week，句尾加上问号。",
+          "answer": "Lisa asked Ben, \"Did you manage to complete all your homework last week?\""
+        },
+        "65": {
+          "concept": "部分倒装 — So + 形容词/副词放句首引起的倒装结构",
+          "zh": "李太太对她的团队如此有信心，以至于她根本没有监督他们。",
+          "note": "改写要点：1. 当 \"So + 形容词/副词\" 置于句首时，前一个分句需要部分倒装。原句中的 \"had such confidence\"（如此有信心）需转换为 \"So confident was Mrs Lee...\" 结构；2. 后面由 that 引导的结果状语从句保持不变。",
+          "answer": "So confident was Mrs Lee in her team that she did not supervise them at all."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "Based on paragraph one, which three-word phrase shows how the narrator felt after the teacher's comment? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "67": {
+          "stem_plain": "What does the phrase \"turn themselves into the shape the school wanted\" in lines 6-7 suggest about the students? Tick ✓ the correct answer. [1m]",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "compliant",
+            "empathetic",
+            "flexible"
+          ]
+        },
+        "68": {
+          "stem_plain": "Based on paragraph 2, state two ways in which the writer's attire was different from the other students. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "69": {
+          "stem_plain": "Why did the writer feel that things were not easy with her mother? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "70": {
+          "stem_plain": "Based on paragraphs 2 to 7, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) The teacher approved of the writer's drawing on the newsletter.",
+                "b) The writer had planned to contribute to the script-writing from the beginning.",
+                "c) The audience were entertained by the performance."
+              ]
+            },
+            "true_false": {
+              "header": "True/False",
+              "rows": [
+                "[Q70a]",
+                "[Q70c]",
+                "[Q70e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q70b]",
+                "[Q70d]",
+                "[Q70f]"
+              ]
+            }
+          }
+        },
+        "71": {
+          "stem_plain": "Look at the amoeba traits in the table below. Complete the table to compare what the teacher thought of the writer at the beginning of the story with what the writer thought of herself at the end. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "characteristic",
+              "teacher_view",
+              "writer_view"
+            ],
+            "characteristic": {
+              "header": "Characteristic of amoeba",
+              "rows": [
+                "No proper shape",
+                "Float around"
+              ]
+            },
+            "teacher_view": {
+              "header": "Teacher's view of the writer (at the start of the story)",
+              "rows": [
+                "Did not follow expectations",
+                "[Q71b]"
+              ]
+            },
+            "writer_view": {
+              "header": "Writer's view of herself (at the end of the story)",
+              "rows": [
+                "[Q71a]",
+                "Finding her own path"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "Based on the information from lines 35 to 44, fill in the blanks in the following table. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "When the English teacher approached the writer and asked if she had written most of the performance, the writer felt [Q72a]."
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "When the loudest girl realised the writer was an expert at directing plays, she felt impressed and she [Q72b]."
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the word(s) in the left column refer to in the passage? Write your answers in the column on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "my paper (line 10)",
+                "the task (line 33)",
+                "a gift (line 39)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refer(s) to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]",
+                "[Q73c]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Explain clearly why the writer's classmates \"groaned and did the bare minimum\" (line 29) for the short performance? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "75": {
+          "stem_plain": "Explain clearly what the writer hoped to achieve by writing and directing plays. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "Phrase Matching",
+          "note": "<ol><li><strong>题型：</strong>限定字数词组提取题——要求从第一段精准提取代表内心负面、压抑情感的“三个单词”词组（1分）。</li><li><strong>得分点：</strong>定位到行3，锁定核心神态心理词组：<span class='hl-good'>quiet heaviness in</span>（或者是带有其修饰的名词核心结构，标准答案一般为 <span class='hl-good'>quiet heaviness in</span> 或者是 <span class='hl-good'>carried a quiet</span>，通常提取 <span class='hl-good'>quiet heaviness in</span> ）。</li><li><strong>失分点：</strong>抄写不完整，字数少于或多于三个。</li></ol>",
+          "type": "comprehension",
+          "answer": "quiet heaviness in"
+        },
+        "67": {
+          "concept": "Vocabulary / Phrase Inference",
+          "note": "<ol><li><strong>题型：</strong>隐喻理解单选题——考查将文章对于学生顺从校规、规整一致的行为修辞转化为对应的性格标签能力（1分）。</li><li><strong>得分点：</strong>“把自己塑造成学校想要的特定形状”意味着学生们高度遵循学校制定的规则，故对应的最佳性格特征是 <span class='hl-good'>compliant</span>（顺从的、听话的）。</li><li><strong>失分点：</strong>误选 flexible（灵活通常指适应力强，而文中强调的是抹杀个性的按学校模具来规整）。</li></ol>",
+          "type": "comprehension",
+          "answer": "compliant"
+        },
+        "68": {
+          "concept": "Multi-point Retrieval",
+          "note": "<ol><li><strong>题型：</strong>多维度事实提取题——限定在第二段提取关于作者衣着仪容与他人不同的两点客观物理特征（2m）。</li><li><strong>得分点：</strong>可以从以下三点中任选两点答出即可。特征一：她的衬衫没有塞进去（<span class='hl-good'>had her shirt tucked out</span>）。特征二：她的鞋子非常脏（<span class='hl-good'>had dirty shoes</span>）。特征三：她的鞋带呈现两种不同的蓝色/颜色不搭（<span class='hl-good'>shoelaces were two different shades of blue</span>）。</li><li><strong>失分点：</strong>提取了不属于衣着仪容（attire）的线索（如写她在校刊边缘画画）。</li></ol>",
+          "type": "comprehension",
+          "answer": "She had her shirt tucked out and her shoes were dirty."
+        },
+        "69": {
+          "concept": "Text Inference & Synthesis",
+          "note": "<ol><li><strong>题型：</strong>复杂原因解释题——考查结合第四段家庭描写提炼母亲给予她的精神压力根源的能力（2分）。</li><li><strong>得分点：</strong>需要全面概括两个压力点。1分归于指出母亲经常责备她不听话（<span class='hl-good'>Mother often scolded her and asked her to do what she was told</span>）；另1分归于指出母亲总是拿她去和知道如何守规矩的表姐进行对比（<span class='hl-good'>compared her bitterly to her cousin who knew how to behave</span>）。</li><li><strong>失分点：</strong>流于字面照抄，没有明确提取出“唠叨责备”与“同辈对比”这两层让其感到日子不容易的核心原因。</li></ol>",
+          "type": "comprehension",
+          "answer": "Her mother often scolded her, questioning why she could not just do what she was told, and constantly compared her bitterly to her cousin who knew how to behave."
+        },
+        "70": {
+          "concept": "True/False with Justification",
+          "note": "<ol><li><strong>题型：</strong>判断正误并说明理由题——考查跨多段核对细节事实并完成逻辑转换表述的能力（3分）。</li><li><li><strong>a) 小题：</strong><span class='hl-good'>False</span>。理由：第二段第10-13行写道老师“asked sharply”（严厉提问）并将变形虫画作为全班的反面教材来数落她，证明老师并没有赞赏这幅画。</li><li><li><strong>b) 小题：</strong><span class='hl-good'>False</span>。理由：第五段第26-31行写着全班被老师要求做一出短剧，起初是在大家都在懒洋洋地应付争论剧本时，她才“suddenly felt something stir inside me”并突然接管过来，说明不是从一开始就计划好的。</li><li><li><strong>c) 小题：</strong><span class='hl-good'>True</span>。理由：第六段第35行指出“the audience laughed at the right moments”（观众们在恰当的时机开怀大笑），表明演出的娱乐效果非常好，观众乐在其中。</li><li><strong>失分点：</strong>判断错误全分皆无；理由没有形成逻辑闭环（如c题只写观众盯着她看）不得分。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "70a": "False",
+            "70b": "The teacher held up her paper and asked sharply what it was, before insulting her by saying she was floating about aimlessly like an amoeba.",
+            "70c": "False",
+            "70d": "The writer only took over the script suddenly because she found her classmates' lazy arguments boring and felt an unexpected urge to change it.",
+            "70e": "True",
+            "70f": "During the performance, the audience laughed at all the right moments."
+          }
+        },
+        "71": {
+          "concept": "Character Trait Grid Completion",
+          "note": "<ol><li><strong>题型：</strong>双向矩阵对比填空题——考查学生通过寻找文本在开头与结尾时对“变形虫（amoeba）”相同特性赋予的不同人生解读（2分）。</li><li><li><strong>(a) 得分点：</strong>定位到行46，“没有固定形状”在结尾对作者意味着她只是尚未定型、仍在不断成长之中（<span class='hl-good'>she was still forming / not broken</span>）。</li><li><li><strong>(b) 得分点：</strong>定位到行12-13，“四处漂浮”在开头代表着老师对她的负面标签，即她活得极度迷茫、漫无目的（<span class='hl-good'>floating about aimlessly</span>），认为这是她的大问题。</li><li><strong>失分点：</strong>无法提炼出“still forming”或“aimlessly”的深层心境转变。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "She was still forming and not broken",
+            "71b": "Floating about aimlessly with no proper purpose"
+          }
+        },
+        "72": {
+          "concept": "Event Chart / Action and Emotion Capture",
+          "note": "<ol><li><strong>题型：</strong>多重因果图表填空题——根据行35-44抓取互动主体的真实心理反馈与具体的物理动作回应（2分）。</li><li><li><strong>(a) 老师询问时的内心感受：</strong>精确定位行38，她起初做好了准备迎接批评，所以是带有<span class='hl-good'>expecting criticism</span>（预料会遭到批评/紧张不安）的心理。</li><li><li><strong>(b) 嗓门最大的女生的后续行为：</strong>精确定位行40-42，她表现得<span class='hl-good'>smiled awkwardly and asked the writer to help her with her drama club audition</span>（有些尴尬地微笑，并请求作者在下周帮她准备戏剧社试镜）。</li><li><strong>失分点：</strong>(a)中填入了点头这一物理动作；(b)中漏掉了她提出求助的具体试镜项目。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "nervous and was expecting criticism from her",
+            "72b": "smiled awkwardly and asked the writer to help her with her drama club audition the following week"
+          }
+        },
+        "73": {
+          "concept": "Contextual Referencing",
+          "note": "题型：代词/指代还原题——考查精确定位前置定语并完整还原具体概念的能力（3分）。(a) my paper：向前追溯行9，指的是由于画画而被老师收上去的school newsletter（学校简报）。(b) the task：向前追溯行31-32，指的是在半小时内完成的rewriting the scene / script for the short performance（重新改写短剧剧本）。(c) a gift：向前追溯行38，指的是英语老师对她卓越洞察力的赞赏，即noticing things other people miss（注意到他人忽略的事物的能力）。失分点：指代范围过窄或缺少核心修饰限定词。",
+          "type": "comprehension",
+          "answer": {
+            "73a": "The school newsletter that she was caught drawing on",
+            "73b": "Rewriting the whole scene and script for the short performance",
+            "73c": "Her ability to notice things that other people miss"
+          }
+        },
+        "74": {
+          "concept": "Cause and Effect Retrieval",
+          "note": "题型：多因素因果关系解释题——考查结合上下文提炼出同学们抗拒和敷衍排练的多重背景起因的能力（2分）。得分点：必须答出两点干扰因素。1分归于指出他们当时正engrossed in playing board games, gossiping and laughing（全神贯注于玩桌游和聊天）；另1分归于指出这份快乐被老师突然打断，强行指派了关于良好行为的表演任务（their fun was interrupted by the teacher's instructions to perform）。失分点：只单一回答了他们懒得写剧本，未点出对“快乐玩耍被强行打断”这一根本情绪对立面原因。",
+          "type": "comprehension",
+          "answer": "Their class was deeply engrossed in playing board games, gossiping, and laughing with one another, and they felt unhappy when this fun was suddenly interrupted by their teacher's instructions to create a performance."
+        },
+        "75": {
+          "concept": "Inference / Concluding Intent",
+          "note": "题型：主旨深化阐释题——剖析作者在结尾处确立的人生长期理想背后的情感内核（2分）。得分点：必须答出治愈同类的心态。1分归于指出她想让作品去reach a fellow amoeba（传递给同样感到格格不入的同伴）；另1分归于指出其终极目标是让他们知道they are not alone / they are not broken（自己并不孤单，不合群并不等于坏掉）。失分点：仅写了她想成为导演，流于职业表面而丢失了故事深层传达的精神内核。",
+          "type": "comprehension",
+          "answer": "She hoped to use her plays to reach out to other students who felt like they did not fit in, so she could reassure them that they were not alone or broken, but simply still in the process of forming."
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "When I was in Secondary Two, my form teacher once told me, in front of the whole class, that I",
+          "2": "was \"the sort of girl who could not fit anywhere\". The words were spoken lightly, almost carelessly, but",
+          "3": "they stayed with me long after the lesson ended. For the rest of the day, I carried a quiet heaviness in",
+          "4": "me, even as everyone else laughed and chatted as though nothing had happened.",
+          "5": "At assemblies, we were supposed to line up neatly, socks pulled up, hair tied properly, badges",
+          "6": "pinned straight. Everyone around me seemed to know how to turn themselves into the shape the",
+          "7": "school wanted. I, unlike the others, had my shirt tucked out and dirty shoes. My shoelaces were two",
+          "8": "different shades of blue because I had replaced one missing lace with whatever I could find. To make",
+          "9": "things worse, I had been caught drawing a strange shape in the margin of the school newsletter instead",
+          "10": "of reading it. \"What is that?\" my form teacher had asked sharply, holding up my paper. I stared at the",
+          "11": "page. I had drawn a blob with uneven edges and tiny arms stretching out. \"An amoeba,\" I muttered. A",
+          "12": "few girls giggled. \"Exactly,\" she said. \"A single-celled organism with no proper shape. Just floating about",
+          "13": "aimlessly. That is your problem.\"",
+          "14": "From that day on, the words followed me everywhere. Amoeba girl. Blob. Floating aimlessly. It",
+          "15": "did not help that I asked too many questions when I was supposed to accept instructions. When the",
+          "16": "others talked excitedly about becoming doctors, lawyers or scholars, I stayed silent because none of",
+          "17": "those dreams felt like mine. I liked watching people instead, noticing the way they performed a version",
+          "18": "of themselves for the world.",
+          "19": "At home, things were not much easier. \"Can you do what you are told?\" Mother often scolded.",
+          "20": "\"Why can't you be more like your cousin? She knows how to behave.\" \"There she goes again!\" I thought",
+          "21": "bitterly as I walked away from this familiar rant. I did know how to behave. I simply could not bear",
+          "22": "pretending for too long. Since then, I began to think of myself as an amoeba. Not the insult my teacher",
+          "23": "had intended, but the real creature I had seen under a microscope in the science lab. It had no neat",
+          "24": "outline, no fixed form, and yet it was alive. It moved. It survived. On my worst days, I was exactly like",
+          "25": "that, a strange little blob drifting quietly through school, unseen and unimportant.",
+          "26": "Then, one afternoon, something changed. It was the final week of the term. My class was",
+          "27": "engrossed in playing board games, gossiping and laughing with one another. This was interrupted by",
+          "28": "our teacher who gave us instructions to create a short performance about good behaviour. Most of my",
+          "29": "classmates groaned and did the bare minimum. As they argued lazily over the script, hoping to get it",
+          "30": "over with, I suddenly felt something stir inside me. Before I could stop myself, the words slipped out.",
+          "31": "\"This is boring,\" I said. \"No one will listen.\" My heart thumped in my chest as I took over the script. This",
+          "32": "was something I never imagined myself doing. I began rewriting the whole scene. In half an hour, I",
+          "33": "completed the task. I made the dialogue sharper and funnier. I showed them where to stand and when",
+          "34": "to pause. Somehow, everyone listened. Even the loudest girls followed my instructions.",
+          "35": "During the performance, the audience laughed at the right moments. For the first time in school,",
+          "36": "I was not being stared at because I was wrong. I was being watched because I had made something",
+          "37": "people could feel. Afterwards, our English teacher came up to me. \"You wrote most of that, didn't you?\"",
+          "38": "she asked. I nodded, expecting criticism. Instead, she smiled. \"You notice things other people miss. That",
+          "39": "is a gift. You should do something with it.\"",
+          "40": "As we packed up our props, the same girls who had groaned earlier now lingered by my desk.",
+          "41": "One of them, the loudest in the group, smiled awkwardly and asked if I would help her with her drama",
+          "42": "club audition the following week. This caught me completely off guard. Just days ago, she had been",
+          "43": "rolling her eyes at my mismatched shoelaces. Now, she was looking at me not as a joke, but as an",
+          "44": "expert. I agreed, feeling a strange warmth spread through my chest.",
+          "45": "That night, I drew an amoeba again. But this time, I saw a creature that could adapt and find its",
+          "46": "own way forward. Perhaps not fitting in did not mean I was broken; it simply meant I was still forming. I",
+          "47": "began to imagine myself writing and directing plays. Maybe one day, these would reach a fellow amoeba",
+          "48": "who needed to know that she was not alone."
+        },
+        "paragraphs": {
+          "1": "当我在上中学二年级时，我的班主任曾当着全班同学的面跟我说，我是“那种在任何地方都格格不入的女孩”。这些话 说得很轻，甚至可以说是心不在焉，但在课程结束后的很久时间里，它们一直深深地留在我心里。在那一天的其余时间里，我心里都带着一种沉重的压抑感，尽管其他所有人都在像什么都没发生过一样大笑和聊天。",
+          "5": "在集会上，我们应该排成整齐的队伍，袜子拉高，头发扎好，校徽戴正。我周围的每个人似乎都懂得如何把自己塑造成学校想要的那种固定形状。而我与其他人不同，我的衬衫露在外面，鞋子也很脏。我的鞋带是两种不同的蓝色，因为我用我能找到的任何一根鞋带来代替那根丢失的。更糟糕的是，我被抓到在学校简报的边缘画了一个奇怪的形状，而不是在阅读它。“那是什么？”我的班主任指着我的纸，严厉地问道。我盯着那一页。我画了一个边缘凹凸不平、伸出细小手臂的色块。“一个变形虫，”我喃喃道。几个女生吃吃地笑了起来。“没错，”她说，“一个没有固定形状的单细胞生物。只是漫无目的地四处漂浮。那就是你的问题所在。”",
+          "14": "从那天起，那些话语便如影随形般跟着我。变形虫女孩。毫无形状的色块。漫无目的地漂浮。更糟糕的是，在应该接受指令的时候，我却总是问了太多的问题。当其他人都在兴奋地谈论着未来要成为医生、律师或学者时，我保持着沉默，因为这些梦想没有一个是属于我的。相反，我喜欢观察人们，去注意到他们向这个世界展示出的特定版本的自己。",
+          "19": "在家里，日子也并不轻松。“叫你做什么你就做什么，行不行？”母亲经常这样数落我。“你为什么就不能多向你的表姐学学？她知道该怎么做。”“她又来了！”当我走开躲避这熟悉的唠叨时，我苦涩地想。其实我知道该怎么做。我只是无法忍受长时间去假装自己。从那以后，我开始把自己当成一只变形虫。不是我老师故意侮辱我的意思，而是在科学实验室的显微镜下看到的那个真实生物。它没有整齐的轮廓，没有固定的形状，但它活着。它能移动。它能生存。在我状态最糟糕的日子里，我就完全像它一样，一个奇怪的小色块在学校里静静地漂流，不被注意且微不足道。",
+          "26": "然后，在一个下午，情况发生了改变。那是学期的最后一周。我们班的同学们都正全神贯注地玩着桌游、聊着八卦、互相开怀大笑。这被我们的老师打断了，老师要求我们创作一个关于良好行为的简短表演。我的大多数同学都抱怨着，只做最基本的事情。当他们懒洋洋地为剧本争论，希望早点敷衍了事时，我突然感到内心有什么东西被触动了。在能阻止自己之前，话已经脱口而出。“这太无聊了，”我说，“没有人会听的。”当接管过剧本时，我的心在胸膛里砰砰直跳。这是我从未想象过自己会做的事情。我开始重新改写整个场景。在半小时内，我完成了任务。我让对话变得更加犀利和有趣。我向他们展示该站在哪里以及何时需要停顿。不知怎么的，每个人都听进去了。甚至连平日里嗓门最大的女生也听从了我的指挥。",
+          "35": "在表演期间，观众们在恰到好处的时机开怀大笑。这在学校里还是第一次，我没有因为做错事而被大家指指点点。我被注视着，是因为我创造了一些能让大家产生共鸣的东西。表演结束后，我们的英语老师朝我走来。“这大部分都是你写的，对吧？”她问道。我点了点头，本以为会迎来批评。相反，她微笑了。“你注意到了别人忽略的东西。这是一种天赋。你应当好好利用它。”",
+          "40": "当我们收拾道具时，那些先前抱怨的女生现在徘徊在我的课桌旁。其中一个人，也是这群人里嗓门最大的那个，有些尴尬地微笑着，问我是否愿意在下周帮她准备戏剧社的试镜。这让我完全猝不及防。就在几天前，她还在对着我颜色不搭的鞋带翻白眼。现在，她看着我的眼神不再是看一个笑话，而是看着一个专家。我答应了，感到一种奇妙的温暖流遍了我的胸膛。",
+          "45": "那天晚上，我又画了一只变形虫。但这一次，我看到的是一个能够适应并找到自己前行道路的生物。也许“格格不入”并不意味着我坏掉了；它仅仅意味着我还在成长塑造中。我开始想象自己去写作和导演戏剧。也许有一天，这些作品能传达到某位同样需要知道自己并不孤单的“变形虫”同伴那里。"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

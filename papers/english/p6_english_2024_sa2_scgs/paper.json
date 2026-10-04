@@ -1,0 +1,1607 @@
+{
+  "paperid": "p6_english_2024_sa2_scgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The heavy trolley of books ________ to the general office by some students the previous day.",
+          "options": {
+            "1": "was pushed",
+            "2": "were pushed",
+            "3": "has been pushed",
+            "4": "have been pushed"
+          }
+        },
+        "2": {
+          "stem_plain": "Sarah knew her brother was up to no good when she saw him alone in the room, giggling to ________ .",
+          "options": {
+            "1": "her",
+            "2": "him",
+            "3": "herself",
+            "4": "himself"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Julia will join the Strings CCA. She's been playing the violin for six years, ________ she?\" asked Beth.",
+          "options": {
+            "1": "isn't",
+            "2": "hasn't",
+            "3": "wasn't",
+            "4": "doesn't"
+          }
+        },
+        "4": {
+          "stem_plain": "Roald Dahl is a famous author who found success writing ________ books for children.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "5": {
+          "stem_plain": "________ minutes of the fire alarm, the students quickly gathered at the bus bay.",
+          "options": {
+            "1": "In",
+            "2": "Into",
+            "3": "Within",
+            "4": "In spite of"
+          }
+        },
+        "6": {
+          "stem_plain": "________ she was exhausted, she managed to finish her homework before bedtime.",
+          "options": {
+            "1": "Yet",
+            "2": "Before",
+            "3": "Despite",
+            "4": "Though"
+          }
+        },
+        "7": {
+          "stem_plain": "Mr Lim ________ awake all night and finally fell asleep at the break of dawn.",
+          "options": {
+            "1": "lain",
+            "2": "lies",
+            "3": "had lay",
+            "4": "had lain"
+          }
+        },
+        "8": {
+          "stem_plain": "During the science experiment, the students observed the colour of the water ________ from blue to purple.",
+          "options": {
+            "1": "change",
+            "2": "changes",
+            "3": "changed",
+            "4": "had changed"
+          }
+        },
+        "9": {
+          "stem_plain": "Andrea, ________ that her sister loves surprises, planned a birthday party for her.",
+          "options": {
+            "1": "know",
+            "2": "knew",
+            "3": "knowing",
+            "4": "had known"
+          }
+        },
+        "10": {
+          "stem_plain": "If I had trained harder, I ________ the tennis match.",
+          "options": {
+            "1": "will win",
+            "2": "would win",
+            "3": "will had won",
+            "4": "would have won"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "被动语态 — Passive voice + singular subject + past time",
+          "zh": "前一天，几个学生把那辆装满书的沉重手推车推到了总务处。",
+          "note": "主语 trolley 为单数，被动语态用 was pushed；the previous day 用过去时。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "代词 — Reflexive pronoun (same person)",
+          "zh": "莎拉看见哥哥独自在房间里对自己偷笑，就知道他没干好事。",
+          "note": "指男性反身“自言自语式发笑”用 himself；与 her/herself 性别一致。",
+          "answer": "4"
+        },
+        "3": {
+          "concept": "反意疑问句 — Question tag (present perfect)",
+          "zh": "“她拉小提琴已经六年了，对吧？”贝丝问。",
+          "note": "现在完成进行 has been playing，附加疑问用 hasn't she。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "量词 — quantifier with uncountable noun",
+          "zh": "罗尔德·达尔是著名儿童文学作家，写了许多童书并大获成功。",
+          "note": "books 可数复数，用 many；much 修饰不可数。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "介词 — Time-frame preposition",
+          "zh": "火警响起后几分钟内，学生们迅速在巴士集合点集合。",
+          "note": "Within + 时间段表示“在……之内”；In/Into 不搭配 minutes of the alarm 的惯用说法。",
+          "answer": "3"
+        },
+        "6": {
+          "concept": "让步 — Concession connector + clause",
+          "zh": "尽管筋疲力尽，她仍在睡前完成了作业。",
+          "note": "Though + 从句表让步；Despite 后接名词不用从句。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "过去完成时 — Past perfect of intransitive lie (recline)",
+          "zh": "林先生整夜躺着睡不着，直到破晓才终于入睡。",
+          "note": "lie（躺）的过去分词为 lain；had lain 表持续到过去某时。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "不定式 — Perception verb + bare infinitive",
+          "zh": "实验中，学生们观察到水的颜色由蓝变紫。",
+          "note": "observe + 宾语 + 动词原形，表示看到变化过程。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "分词 — Reduced participle clause",
+          "zh": "安德烈亚知道妹妹喜欢惊喜，便为她策划生日派对。",
+          "note": "现在分词短语作状语，表原因/背景，主语与 Andrea 一致。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "虚拟语气 — Third conditional",
+          "zh": "要是我训练更刻苦，就能赢得那场网球赛了。",
+          "note": "第三条件句：If + had + V3，主句 would have + V3。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Their plan to visit Adventure Cove ________ when it suddenly started to rain.",
+          "options": {
+            "1": "fell out",
+            "2": "fell apart",
+            "3": "fell behind",
+            "4": "fell through"
+          }
+        },
+        "12": {
+          "stem_plain": "The restaurant manager ________ the upset customer by offering a discount and a sincere apology for the inconvenience caused.",
+          "options": {
+            "1": "soothed",
+            "2": "placated",
+            "3": "mitigated",
+            "4": "provoked"
+          }
+        },
+        "13": {
+          "stem_plain": "The coach's encouragement was the ________ that motivated the team to win the competition.",
+          "options": {
+            "1": "catalyst",
+            "2": "instigator",
+            "3": "hindrance",
+            "4": "provocation"
+          }
+        },
+        "14": {
+          "stem_plain": "Despite facing many challenges, Sarah showed her ________ spirit by never giving up on her goal of learning to play the piano.",
+          "options": {
+            "1": "stubborn",
+            "2": "obstinate",
+            "3": "tenacious",
+            "4": "superfluous"
+          }
+        },
+        "15": {
+          "stem_plain": "The artist ________ carved detailed designs into the wooden sculpture.",
+          "options": {
+            "1": "broadly",
+            "2": "virtuously",
+            "3": "intricately",
+            "4": "unabashedly"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "天公不作美，他们去探险湾的计划泡汤了。",
+          "note": "应选（4）'fell through'：题干语境最宜表达'（计划）落空；告吹'。解析中强调的关键形式为'falls through'，与正确项一致。'fell out'义为'争吵；吵翻'：与题干语境或搭配要求不一致。'fell apart'义为'散架；崩溃；瓦解'：与题干语境或搭配要求不一致。'fell behind'义为'落后（进度）'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — fell through（（计划）落空；告吹）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fell out",
+              "zh": "争吵；吵翻",
+              "eg": "The two friends <strong>fell out</strong> over a small misunderstanding and stopped speaking for a week."
+            },
+            {
+              "opt": "2",
+              "word": "fell apart",
+              "zh": "散架；崩溃；瓦解",
+              "eg": "The old cardboard box <strong>fell apart</strong> when he tried to lift it."
+            },
+            {
+              "opt": "3",
+              "word": "fell behind",
+              "zh": "落后（进度）",
+              "eg": "He <strong>fell behind</strong> in his studies after missing two weeks of school."
+            },
+            {
+              "opt": "4",
+              "word": "fell through",
+              "zh": "（计划）落空；告吹",
+              "eg": "Our weekend trip <strong>fell through</strong> when the flights were cancelled."
+            }
+          ]
+        },
+        "12": {
+          "zh": "经理道歉并打折，安抚了生气的顾客。",
+          "note": "应选（2）'placated'：题干语境最宜表达'（用让步或道歉）安抚（生气的人）'。'soothed'义为'（用言语或抚摸）安抚；缓和'：与题干语境或搭配要求不一致。'mitigated'义为'减轻（影响、损害）'：与题干语境或搭配要求不一致。'provoked'义为'激怒；挑衅'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — placated（（用让步或道歉）安抚（生气的人））",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "soothed",
+              "zh": "（用言语或抚摸）安抚；缓和",
+              "eg": "Mum gently <strong>soothed</strong> the crying baby by rocking him in her arms."
+            },
+            {
+              "opt": "2",
+              "word": "placated",
+              "zh": "（用让步或道歉）安抚（生气的人）",
+              "eg": "The waiter <strong>placated</strong> the angry diner with a free dessert and a sincere apology."
+            },
+            {
+              "opt": "3",
+              "word": "mitigated",
+              "zh": "减轻（影响、损害）",
+              "eg": "Wearing helmets <strong>mitigated</strong> the injuries from the cycling accident."
+            },
+            {
+              "opt": "4",
+              "word": "provoked",
+              "zh": "激怒；挑衅",
+              "eg": "His rude remarks <strong>provoked</strong> the otherwise patient teacher to raise her voice."
+            }
+          ]
+        },
+        "13": {
+          "zh": "教练的鼓励是球队夺冠的催化剂。",
+          "note": "应选（1）'catalyst'：题干语境最宜表达'催化剂；促使变化的人/事物'。'instigator'义为'煽动者；挑起者（多含贬义）'：与题干语境或搭配要求不一致。'hindrance'义为'障碍；妨碍'：与题干语境或搭配要求不一致。'provocation'义为'挑衅；激怒（人）的事物'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — catalyst（催化剂；促使变化的人/事物）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "catalyst",
+              "zh": "催化剂；促使变化的人/事物",
+              "eg": "Winning the regional contest was the <strong>catalyst</strong> that pushed the choir to compete nationally."
+            },
+            {
+              "opt": "2",
+              "word": "instigator",
+              "zh": "煽动者；挑起者（多含贬义）",
+              "eg": "The teacher quickly identified the <strong>instigator</strong> of the fight in the canteen."
+            },
+            {
+              "opt": "3",
+              "word": "hindrance",
+              "zh": "障碍；妨碍",
+              "eg": "The heavy backpack was a <strong>hindrance</strong> as we hiked up the steep slope."
+            },
+            {
+              "opt": "4",
+              "word": "provocation",
+              "zh": "挑衅；激怒（人）的事物",
+              "eg": "The dog only barks when there is some sort of <strong>provocation</strong>."
+            }
+          ]
+        },
+        "14": {
+          "zh": "尽管困难重重，莎拉展现不屈精神。",
+          "note": "应选（3）'tenacious'：题干语境最宜表达'坚韧不拔的；不轻言放弃的（褒义）'。'stubborn'义为'固执的（多为贬义）'：与题干语境或搭配要求不一致。'obstinate'义为'顽固的；执拗的（贬义）'：与题干语境或搭配要求不一致。'superfluous'义为'多余的；不必要的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — tenacious（坚韧不拔的；不轻言放弃的（褒义））",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stubborn",
+              "zh": "固执的（多为贬义）",
+              "eg": "He was so <strong>stubborn</strong> that he refused to admit his mistake even when shown the proof."
+            },
+            {
+              "opt": "2",
+              "word": "obstinate",
+              "zh": "顽固的；执拗的（贬义）",
+              "eg": "The <strong>obstinate</strong> child refused to put on his shoes despite his mother's pleas."
+            },
+            {
+              "opt": "3",
+              "word": "tenacious",
+              "zh": "坚韧不拔的；不轻言放弃的（褒义）",
+              "eg": "The <strong>tenacious</strong> athlete trained every day for two years until she made the national team."
+            },
+            {
+              "opt": "4",
+              "word": "superfluous",
+              "zh": "多余的；不必要的",
+              "eg": "The teacher told us to delete any <strong>superfluous</strong> details from our compositions."
+            }
+          ]
+        },
+        "15": {
+          "zh": "艺术家在木雕上精雕细刻出繁复纹样。",
+          "note": "应选（3）'intricately'：题干语境最宜表达'错综复杂地；精巧细致地'。'broadly'义为'宽泛地；大致地'：与题干语境或搭配要求不一致。'virtuously'义为'正直地；高尚地（合乎美德）'：与题干语境或搭配要求不一致。'unabashedly'义为'毫不羞愧地；坦然地'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — intricately（错综复杂地；精巧细致地）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "broadly",
+              "zh": "宽泛地；大致地",
+              "eg": "The professor spoke <strong>broadly</strong> about the topic before going into the details."
+            },
+            {
+              "opt": "2",
+              "word": "virtuously",
+              "zh": "正直地；高尚地（合乎美德）",
+              "eg": "She lived <strong>virtuously</strong>, always putting other people's needs before her own."
+            },
+            {
+              "opt": "3",
+              "word": "intricately",
+              "zh": "错综复杂地；精巧细致地",
+              "eg": "The bridal sari was <strong>intricately</strong> embroidered with thousands of tiny silver beads."
+            },
+            {
+              "opt": "4",
+              "word": "unabashedly",
+              "zh": "毫不羞愧地；坦然地",
+              "eg": "He <strong>unabashedly</strong> sang along to his favourite song on the bus."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "immigrants",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "settlers",
+            "2": "pilgrims",
+            "3": "travellers",
+            "4": "foreigners"
+          }
+        },
+        "17": {
+          "stem_plain": "ran",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "operated",
+            "2": "promoted",
+            "3": "governed",
+            "4": "kickstarted"
+          }
+        },
+        "18": {
+          "stem_plain": "clientele",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "users",
+            "2": "troupe",
+            "3": "shoppers",
+            "4": "customers"
+          }
+        },
+        "19": {
+          "stem_plain": "meticulously",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "carefully",
+            "2": "promptly",
+            "3": "carelessly",
+            "4": "masterfully"
+          }
+        },
+        "20": {
+          "stem_plain": "familiar",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "friendly",
+            "2": "reputable",
+            "3": "household",
+            "4": "accustomed"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — immigrants（定居者）",
+          "note": "名词 immigrants 指移居至新国家并在此长期居住的人，其核心考点近义词为 settlers（定居者，外来移民）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "settlers",
+              "zh": "定居者，外来开拓者",
+              "eg": "The early settlers cleared the dense forest to build a peaceful village."
+            },
+            {
+              "opt": "2",
+              "word": "pilgrims",
+              "zh": "朝圣者，清教徒（名词）",
+              "eg": "Every spring, thousands of loyal pilgrims travel long distances to visit the ancient temple."
+            },
+            {
+              "opt": "3",
+              "word": "travellers",
+              "zh": "旅行者，游客",
+              "eg": "The open-top bus carried overseas travellers around the famous city landmarks."
+            },
+            {
+              "opt": "4",
+              "word": "foreigners",
+              "zh": "外国人，外乡人",
+              "eg": "The local guide was exceptionally friendly and always ready to help foreigners find their way."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — ran（经营）",
+          "note": "在商业或店铺运作的语境下，ran a coffee stall 意为经营、管理咖啡摊，直接对应同义词 operated（经营，营业，操作）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "operated",
+              "zh": "经营，营业，操作，运转",
+              "eg": "The family successfully operated a small bakery in the quiet neighborhood for decades."
+            },
+            {
+              "opt": "2",
+              "word": "promoted",
+              "zh": "促进，宣传，晋升",
+              "eg": "The company launched an online campaign to promote its fresh winter products."
+            },
+            {
+              "opt": "3",
+              "word": "governed",
+              "zh": "治理，统治，管理",
+              "eg": "The vast island was governed strictly according to the ancient laws of the kingdom."
+            },
+            {
+              "opt": "4",
+              "word": "kickstarted",
+              "zh": "启动，促使……开始",
+              "eg": "The generous donation from the bank kickstarted the local wildlife protection plan."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — clientele（顾客）",
+          "note": "名词 行号 clientele 指某家店铺或企业的所有常客、顾客总体，核心考点近义词为常规泛指的 customers（顾客）。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "users",
+              "zh": "用户，使用者",
+              "eg": "The new mobile software allows regular users to organize their daily schedule easily."
+            },
+            {
+              "opt": "2",
+              "word": "troupe",
+              "zh": "剧团，艺术表演班子",
+              "eg": "The famous drama troupe arrived early to prepare for the evening performance."
+            },
+            {
+              "opt": "3",
+              "word": "shoppers",
+              "zh": "购物者，买东西的人",
+              "eg": "During the holiday season, thousands of enthusiastic shoppers packed the department store."
+            },
+            {
+              "opt": "4",
+              "word": "customers",
+              "zh": "顾客，买主",
+              "eg": "The friendly waiter provided excellent service to ensure all customers felt welcome."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — meticulously（仔细地；小心地）",
+          "note": "副词 meticulously 意为极其细致地、一丝不苟地，在描述做事认真的神态时，对应的基础近义词为 carefully（仔细地，小心地）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "carefully",
+              "zh": "仔细地，小心地，认真地",
+              "eg": "She carefully reviewed every line of the contract before signing it."
+            },
+            {
+              "opt": "2",
+              "word": "promptly",
+              "zh": "迅速地，立即",
+              "eg": "The engineering team responded promptly to resolve the unexpected website error."
+            },
+            {
+              "opt": "3",
+              "word": "carelessly",
+              "zh": "粗心地，马虎地",
+              "eg": "He carelessly left his front door keys on the crowded kitchen counter."
+            },
+            {
+              "opt": "4",
+              "word": "masterfully",
+              "zh": "高超地，娴熟地",
+              "eg": "The conductor masterfully led the grand orchestra through the complex symphony."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — familiar（家喻户晓的）",
+          "note": "固定习语 a household name 意为家喻户晓的名字，此处指品牌或摊位变得人人皆知、非常熟悉，对应高级替换语义中的熟悉概念。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "friendly",
+              "zh": "友好的（形容词）；友好地（罕用副词）",
+              "eg": "The local residents were exceptionally friendly to the stranded travelers."
+            },
+            {
+              "opt": "2",
+              "word": "reputable",
+              "zh": "声誉好的，有信誉的",
+              "eg": "It is always safer to purchase organic food products from a reputable local store."
+            },
+            {
+              "opt": "3",
+              "word": "household",
+              "zh": "家喻户晓的（用于a household name）；家庭的，家务的",
+              "eg": "Through relentless advertising, the small tech brand quickly became a household name."
+            },
+            {
+              "opt": "4",
+              "word": "accustomed",
+              "zh": "习惯的，适应了的（常接to）",
+              "eg": "Being accustomed to cold winter weather, she did not mind the heavy snow."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "In 1926, Loi Ah Koon, came to Singapore from China and worked as an assistant at a coffee stall. After working for 10 years, Loi partnered with two other Chinese [Q16 (immigrants)] to set up their own business. They [Q17 (ran)] a coffee stall that served coffee, tea, charcoal-grilled toast and eggs at Telok Ayer Basin. His [Q18 (clientele)] included coolies, merchants, moneylenders, police inspectors and boat operators.",
+          "Loi roasted his own coffee beans using margarine and sugar over firewood, and prepared the toasted bread [Q19 (meticulously)]. He also often slept on the countertop of the stall in order to wake up on time to serve the first customers at 5 in the morning. Over the years, Loi's coffee stall grew into a [Q20 (familiar)] name due to its good coffee and kaya toast. The stall was renamed Ya Kun in 1972. Today, Ya Kun has approximately 70 stores in Singapore and 120 stores in 10 countries around the world."
+        ],
+        "zh": [
+          "1926年，Loi Ah Koon 从中国来到 Singapore，在咖啡摊做助手。工作十年后，Loi 与另外两位中国移民合伙创业。他们在 Telok Ayer Basin 经营咖啡摊，供应咖啡、茶、炭烤吐司和鸡蛋。他的顾客包括苦力、商人、钱庄老板、警司和船工。",
+          "Loi 用人造黄油和糖在柴火上自己烘焙咖啡豆，一丝不苟地准备烤面包。他还常睡在摊位的柜台上，以便准时在凌晨5点为第一批顾客服务。多年来，Loi 的咖啡摊因好咖啡和咖椰吐司成为家喻户晓的名字。1972年摊位更名为 Ya Kun。如今 Ya Kun 在新加坡约有70家店，在10个国家约有120家店。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following words is used to describe past robots' main function?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "industrial",
+            "2": "essential",
+            "3": "adaptable",
+            "4": "developmental"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the section \"Robots, Past and Present\", which of the following is true about robots?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Today's robots are rapidly being replaced by artificial intelligence.",
+            "2": "Robots of the past moved slowly because of their considerable size.",
+            "3": "Advanced sensors help robots perform functions in different environments.",
+            "4": "Mobility and adaptability are necessary for robots to perform repetitive tasks."
+          }
+        },
+        "23": {
+          "stem_plain": "Under the section \"Robots and Immersive Dining\", which of the following does not tell us what the futuristic dining experience is like?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "\"take photos of your experience\"",
+            "2": "\"embark on a culinary adventure\"",
+            "3": "\"indulge in delicious novel dishes\"",
+            "4": "\"be absorbed into the movie's plot\""
+          }
+        },
+        "24": {
+          "stem_plain": "According to the section \"Robots and Immersive Dining\", which statement is not true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Immersive Dining combines robotics and dining.",
+            "2": "Celebrity chefs adapted dishes featured in the movie.",
+            "3": "The outlet in Tech Park is decorated in a space theme.",
+            "4": "Robots set out to delight people with their wonderful cooking in the new outlet."
+          }
+        },
+        "25": {
+          "stem_plain": "Mr Tan wishes to have a meal at Immersive Dining. Which of the following will allow him to enjoy the biggest savings ?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "He and six friends go at 2 p.m. on a Sunday.",
+            "2": "He and five friends go at 3 p.m. on a Monday.",
+            "3": "He makes a reservation for five on 30 November 2024.",
+            "4": "He makes a reservation for three on 1 December 2024."
+          }
+        },
+        "26": {
+          "stem_plain": "What do Charlene and Thomas have in common?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They thought the robot waiters were funny.",
+            "2": "They felt the unusual dishes tasted delicious.",
+            "3": "They thought they were characters in a movie.",
+            "4": "They felt the dining experience was memorable."
+          }
+        },
+        "27": {
+          "stem_plain": "Amos wants to enjoy his experience at Immersive Dining. He should",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "put his backpack in the lockers provided",
+            "2": "look at the menu on the table before ordering",
+            "3": "make a reservation at least ten minutes in advance",
+            "4": "press the buzzer on the table to summon a robot waiter"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this website?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to showcase good customer reviews",
+            "2": "to promote a futuristic dining experience",
+            "3": "to inform people about the advancement of robots",
+            "4": "to encourage people to immerse in the movie, Robochefs"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Direct fact (past robots)（题型考点）",
+          "note": "The first sentence under <em>Robots, Past and Present</em> says past robots were <span class=\"hl\">primarily used in industrial settings</span>. So <em>industrial</em> describes their main function. <em>Essential</em> describes mobility/adaptability; <em>adaptable</em> describes today's robots (and what past robots lacked); <em>developmental</em> describes the early stage.",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "题型 — Identify the true statement（题型考点）",
+          "note": "The text says <span class=\"hl\">Today's robots are equipped with advanced sensors and other additional capabilities, allowing them to interact with the environment in real time</span>, supporting (3). (1) wrong — AI <em>enables</em>, not replaces robots; (2) wrong — past robots were <em>stationary</em>, not slow; (4) wrong — repetitive tasks did NOT need mobility/adaptability (which past robots <em>lacked</em>).",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "题型 — Find the option that does NOT describe the experience（题型考点）",
+          "note": "Options (2)–(4) all describe what the dining experience <em>is like</em>: a culinary adventure, novel dishes, and being absorbed in the movie's plot. <em>Take photos</em> describes what diners may DO at the venue, not what the futuristic experience itself is like.",
+          "answer": "1"
+        },
+        "24": {
+          "concept": "题型 — Identify the false statement（题型考点）",
+          "note": "In the new outlet, <em>celebrity chefs</em> cook the dishes, and the <em>robot waiters</em> serve them — they do not cook. The phrase about robots cooking refers to the <em>movie Robochefs</em>, not the actual outlet. (1)–(3) are all directly stated in the passage.",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Compare savings options（题型考点）",
+          "note": "<ul><li>(1) Sunday afternoon — no weekday discount; group of 7 = 15% off → total <strong>15%</strong>.</li><li>(2) Monday 3 p.m. (weekday 2–5 p.m.) = 15% + group of 6 (more than 5) = 15% → <strong>30%</strong>.</li><li>(3) Reservation for 5 on 30 Nov 2024 — only a free appetiser (no % discount) + 10% group discount → <strong>10%</strong>.</li><li>(4) 1 Dec 2024 — too late for the free appetiser; group of 3 = 10% → <strong>10%</strong>.</li></ul>Option (2) gives the biggest savings (30%).",
+          "answer": "2"
+        },
+        "26": {
+          "concept": "题型 — Common ground between two reviews（题型考点）",
+          "note": "Thomas: <span class=\"hl\">It was an unforgettable family outing!</span> Charlene: <span class=\"hl\">I will always remember that meal!</span> Both convey memorability. (1) only Charlene found the robots <em>amusing</em>; (2) only Thomas highlighted the dishes' taste; (3) only Charlene felt like a movie character.",
+          "answer": "4"
+        },
+        "27": {
+          "concept": "题型 — Direct rule lookup（题型考点）",
+          "note": "The rules say <span class=\"hl\">Keep the floor free from clutter by storing your belongings in the lockers provided</span>. (2) is a misinterpretation — the menu is on a QR code, not preprinted on the table; (3) is wrong — guests must arrive 5–10 min <em>before</em> the reservation, not make the reservation in advance; (4) is wrong — the buzzer is to <em>report a malfunction</em>, not to call a waiter.",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "目的 — Author's overall purpose（目的考点）",
+          "note": "The whole webpage advertises a new outlet, lists discounts, shares positive reviews and gives reservation rules — all aimed at convincing readers to dine there. (1) and (4) are sub-purposes; (3) is just background context in the opening section.",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "across",
+          "D": "eventually",
+          "G": "is",
+          "K": "through",
+          "N": "where",
+          "B": "as",
+          "E": "for",
+          "H": "on",
+          "L": "to",
+          "P": "who",
+          "C": "could",
+          "F": "in",
+          "J": "should",
+          "M": "was",
+          "Q": "with"
+        },
+        "cloze": [
+          "Bread has a rich history that reaches back at least 30,000 years. Historically, the first bread [Q29] made from roasted cereal grains and water, which was then made into a \"grain-paste\" and baked. This flatbread still has a legacy in many parts of the world [Q30] similar items are still made today. In Mexico, tortillas are descendants of this flatbread. The Indian chappati, Armenian <em>lavishes</em>, Scottish oatcakes and North American johnnycakes are too. Clearly, flatbread is still prevalent in many varieties [Q31] the world!",
+          "Flatbread was a huge part of Sumerian diets. Sumerians made a flat cake [Q32] barley. Another flatbread variant, known as <strong>\"ta\"</strong>, was eaten in Egypt in the 12th century BC. In ancient Greek, a variety of flatbread, consisting of flour and oil, was offered as a tribute [Q33] the gods.",
+          "The consumption of bread was vital to the formation of the earliest human societies. As farming replaced hunting, groups of people were forced to settle down. The need to harvest grains [Q34] a yearly basis led to the development of settlements and towns. In the Middle Ages, a large loaf of bread was used to set the table and would be used as a \"plate\". If the host desired, the bread [Q35] be eaten, given away to the poor or fed to the dogs. [Q36], wooden trays replaced the bread as a \"dish\".",
+          "If you are familiar with the saying \"The best thing since sliced bread\", it was Otto Frederick Rohwedder [Q37] invented the slicing machine for bread in 1928. Since his machine both sliced and wrapped the bread, maybe the saying should be \"The best thing since sliced and wrapped bread\".",
+          "Today, bread is still just as popular [Q38] it was back in the day and is a staple in many homes. Sadly though, technological advances have allowed bread to become mass-produced to such an extent that it has lost nearly all its nutritional qualities."
+        ],
+        "zh": [
+          "面包有着至少三万年悠久的历史。从历史上看，最早的面包是用烘烤过的谷物和水做成的，然后做成“谷物糊”再烘烤。这种扁面包的传承至今仍存在于世界许多地方，那里仍在制作类似的食物。在墨西哥，玉米饼就是这种扁面包的后代。印度的薄饼、亚美尼亚的lavash、苏格兰的燕麦饼以及北美的玉米煎饼也都是。显然，扁面包仍以多种形式在世界各地流行。",
+          "扁面包是苏美尔人饮食中很重要的一部分。苏美尔人用大麦做成一种扁平的薄饼。另一种被称作“ta”的扁面包变种，在公元前12世纪的埃及被人们食用。在古希腊，一种由面粉和油制成的扁面包被当作贡品献给众神。",
+          "对面包的消耗对最早人类社会的形成至关重要。随着农耕取代狩猎，一群群的人不得不定居下来。每年收割谷物的需要促进了定居点和城镇的发展。在中世纪，人们会用一大块面包来铺桌面，并把它当作“盘子”使用。如果主人愿意，这块面包可以被吃掉、分给穷人或喂给狗。渐渐地，木盘取代了面包，成为人们使用的“盘子”。",
+          "如果你熟悉“自切片面包以来最棒的发明”这句俗语，那么1928年发明面包切片机的人正是Otto Frederick Rohwedder。既然他的机器既能切片又能包装面包，也许这句话应该改成“自切片并包装面包以来最棒的发明”。",
+          "今天，面包仍然像过去一样受欢迎，也是许多家庭的主食。可惜的是，科技的进步让面包大规模生产，以至于它几乎失去了所有的营养价值。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Historically, the first bread was made from roasted cereal grains = 主谓一致 → was。",
+          "answer": "M — was"
+        },
+        "30": {
+          "concept": "关系/连接词 — where",
+          "note": "many parts of the world where similar items are still made = 定语/名词性从句 → where。",
+          "answer": "N — where"
+        },
+        "31": {
+          "concept": "介词 — across",
+          "note": "still prevalent in many varieties across the world! = 看前后搭配，选 across。",
+          "answer": "A — across"
+        },
+        "32": {
+          "concept": "介词 — with",
+          "note": "Sumerians made a flat cake with barley. = 看前后搭配，选 with。",
+          "answer": "Q — with"
+        },
+        "33": {
+          "concept": "介词 — to",
+          "note": "was offered as a tribute to the gods. = 看前后搭配，选 to。",
+          "answer": "L — to"
+        },
+        "34": {
+          "concept": "介词 — on",
+          "note": "The need to harvest grains on a yearly basis led to = 看前后搭配，选 on。",
+          "answer": "H — on"
+        },
+        "35": {
+          "concept": "情态 — could",
+          "note": "the host desired, the bread could be eaten, given away to = 情态动词 could。",
+          "answer": "C — could"
+        },
+        "36": {
+          "concept": "副词",
+          "note": "eventually , wooden trays replaced the = 结合句意选 eventually。",
+          "answer": "D — eventually"
+        },
+        "37": {
+          "concept": "关系词 — who",
+          "note": "it was Otto Frederick Rohwedder who invented the slicing machine for = 定语/名词性从句 → who。",
+          "answer": "P — who"
+        },
+        "38": {
+          "concept": "时间 — as",
+          "note": "is still just as popular as it was back in the = 时间/从属 → as。",
+          "answer": "B — as"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The mental health benefits of being in nature have long been acknowledged, whether through activities like listening to birdsong or taking a walk in the park. While birdwatchers are often portrayed as boring, a study shows that even half an hour of bird watching could make us happier, [Q39(healthy)] and help foster a deeper [Q40(conneksion)] with nature.",
+          "So, why is birdwatching so good for us?",
+          "Biophilia could be a part of it. Biophilia is the belief that humans have an [Q41(efinity)] with nature, so being in natural surroundings [Q42(made)] us feel well. Biodiversity could be part of [Q43(an)] answer too. Research suggests that biodiversity is a natural [Q44(medeecin)] that can help reduce stress and [Q45(encouragement)] physical activity.",
+          "Unlike the \"boring birder\" stereotype, birdwatching is not a dull, passive activity. It is an engaging [Q46(persoot)] that captivates the mind. Just like beekeepers, birdwatchers experience a deep engagement and profound sense of [Q47(trankwility)] through hours of observing their subjects. Like birdwatchers, beekeepers can become [Q48(as)] absorbed in their observations that they lose track of time and their surroundings. This immersion triggers a [Q49(psykological)] flow, a mental state where we feel our best and perform [Q50(by)] our peak. After being \"in the flow\", birdwatchers can experience a deep sense of satisfaction and wellbeing."
+        ],
+        "zh": [
+          "身处自然对心理健康的益处早已得到认可，无论是聆听鸟鸣，还是在公园散步。观鸟者常被描绘成乏味的人，但研究显示，哪怕只观鸟半小时，也能让我们更快乐、更健康，并增进与自然的深层联系。",
+          "那么，观鸟为何对我们如此有益？",
+          "生物亲和可能是部分原因。生物亲和指人类与自然本有亲近感，因此在自然环境中我们会感到身心舒畅。生物多样性也可能是答案之一。研究表明，生物多样性如同天然良药，有助于减轻压力、鼓励身体活动。",
+          "与'无聊观鸟人'的刻板印象不同，观鸟并非沉闷被动的活动，而是一项引人入胜、令人全神贯注的追求。就像养蜂人，观鸟者通过长时间观察对象，获得深度投入与宁静安详。养蜂人也会像观鸟者一样沉浸其中，浑然不觉时间与周遭。这种沉浸会触发心理上的'心流'——一种让我们感觉最佳、发挥巅峰的状态。经历'心流'之后，观鸟者往往感到深深的满足与安康。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "healthier"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "connection"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "affinity"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "makes"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "the"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "medicine"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "encourage"
+        },
+        "46": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "pursuit"
+        },
+        "47": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "tranquillity"
+        },
+        "48": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "so"
+        },
+        "49": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "psychological"
+        },
+        "50": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "at"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "There is nothing quite like a big hug. An embrace can show affection, offer condolences, be a greeting [Q51] a goodbye, and provide comfort to a loved one. A warm [Q52] often creates a calming or relaxing feeling. That is because oxytocin, sometimes called the \"cuddle\" hormone, is released when people or pets snuggle [Q53] to us. The oxytocin released has been found [Q54] reduce inflammation and improve wound healing. Reduced cravings for drugs and alcohol as well as lower levels of stress have also been [Q55] with the \"cuddle\" hormone.",
+          "Giving someone a firm, reassuring hug before or during a [Q56] event can help them stay calm because your hug increases their oxytocin level. In fact, scientists say that giving another person support [Q57] touch can even reduce the stress of the person doing the comforting. [Q58] to the way that a hug reduces stress, it also decreases pain. A 20-second hug can release enough oxytocin to make you feel better. Research suggests that weighted [Q59] simulate being held or hugged. The weight of the blanket creates pressure points that relieve anxiety and can help one sleep.",
+          "A hug a day may, in fact, [Q60] the doctor away. One study showed that the more often people received social support and hugs, the less they were [Q61] to get sick. Hugging increases serotonin. Also known as the \"feel good\" [Q62], it is produced and spread in the brain, making us feel calm and confident. When serotonin levels are high, we feel good about ourselves. Low levels of serotonin can cause sleep disorders and depression. It can even [Q63] to obesity. Hugging triggers the release of serotonin to create happiness and help diminish sad feelings.",
+          "Instinctively, we want to hug our friends or loved ones [Q64] are in pain. In a non-verbal way, hugs communicate peace and understanding. Do not [Q65] the healing power of a hug! Just as we exercise to stay in shape and watch what we eat to stay healthy, a hug can boost the mood and connection we have with the people we care about."
+        ],
+        "zh": [
+          "没有什么比一个大大的拥抱更动人：拥抱可表达爱意、致以慰问、用作问候或告别，也能给所爱之人安慰。温暖的拥抱常带来平静放松之感，因为亲近时身体会释放所谓'拥抱激素'催产素，研究发现其有助减轻炎症、促进伤口愈合，并可能降低对药物酒精的渴求与压力水平。",
+          "在紧张事件之前或期间给一个坚定、令人安心的拥抱，可因提高对方催产素而帮助其保持冷静；科学家指出，以触摸支持他人甚至能减轻安慰者自身的压力。与减轻压力类似，拥抱也能缓解疼痛；拥抱 20 秒所释出的催产素足以让你感觉更好。研究提示加重毯可模拟被拥抱的压力点，缓解焦虑并助眠。",
+          "每天一抱，或许真能让医生远离。一项研究表明，获得更多社会支持与拥抱的人较少生病；拥抱提高血清素——即'快乐激素'，在大脑中产生并传播，使人平静自信；血清素低可导致睡眠障碍与抑郁，甚至与肥胖有关。拥抱触发血清素释放以带来快乐、驱散悲伤。",
+          "我们会本能地想拥抱痛苦中的亲友；拥抱以非言语方式传达平和与理解。不要低估拥抱的治愈力！正如我们通过锻炼保持体态、注意饮食保持健康，拥抱也能提升情绪并加深与在乎之人的联结。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "并列连词成分选择",
+          "note": "句中列举拥抱所扮演的不同角色（show affection, offer condolences, be a greeting...）。在 a greeting 和 a goodbye 两个并列的名词短语之间，表示选择或并列关系，故填入连词 or。",
+          "answer": "or"
+        },
+        "52": {
+          "concept": "名词同义复现与呼应",
+          "note": "由形容词 a warm 修饰。结合前文提到的 a big hug（大大的拥抱）和 an embrace（拥抱），此空格填入同义复现的名词 embrace / hug，用以指代一个“温暖的拥抱”。",
+          "answer": "embrace/hug"
+        },
+        "53": {
+          "concept": "动词与介词固定搭配",
+          "note": "与前面的动词 snuggle（依偎）及后文的 to us 完美组合。构成高频空间方位搭配 snuggle up to us 或者是 close to us，意为当宠物或人“紧挨着/依偎着”我们时。",
+          "answer": "up/close"
+        },
+        "54": {
+          "concept": "被动语态后接不定式符号",
+          "note": "属于经典被动句型结构 be found to do something。后面紧跟动词原形 reduce，因此空格处需填入不定式符号 to，表示催产素被发现“具有”减轻炎症的作用。",
+          "answer": "to"
+        },
+        "55": {
+          "concept": "过去分词与介词固定搭配",
+          "note": "前面有助动词 have also been，后接过去分词构成被动语态。与句尾的介词 with 组合，构成极高频考查的经典短语 be associated with / linked with，表示这些正面效应也与该激素“相关联”。",
+          "answer": "associated/linked"
+        },
+        "56": {
+          "concept": "形容词修饰搭配",
+          "note": "修饰后面的单数名词 event（事件）。结合前文给别人坚定的拥抱能帮其保持冷静的语境，说明这个事件是“令人充满压力的”或“困难的”，故填形容词 stressful / challenging / difficult / trying。",
+          "answer": "stressful/challenging/difficult/trying"
+        },
+        "57": {
+          "concept": "介词引导方式状语",
+          "note": "用来连接 support 和名词 touch。指科学家认为通过触觉、触摸这一“手段”或“方式”来给予他人支持，能够有效减压，故填入专属方式介词 through / via。",
+          "answer": "through/via"
+        },
+        "58": {
+          "concept": "类比衔接固定短语",
+          "note": "后接介词短语 to the way...。前文提到拥抱能减压，此处引出它也同样能减轻疼痛。填入形容词 Similar 构成 Similar to（类似于……），用作段首的语意逻辑衔接。位于句首需大写。",
+          "answer": "Similar"
+        },
+        "59": {
+          "concept": "名词复数与主谓一致",
+          "note": "前面有形容词 weighted（加重的）修饰，后接复数谓语动词 simulate（模拟）。指科学研究建议使用加重的“毯子”来模拟被拥抱的感觉，需用复数名词 blankets。",
+          "answer": "blankets"
+        },
+        "60": {
+          "concept": "经典谚语与习语搭配",
+          "note": "情态动词 may 后面接动词原形。完美套用了英语中家喻户晓的经典健康谚语 An apple a day keeps the doctor away 的衍生变体，此处使用动词 keep 表达“每日一抱，医生远离我”。",
+          "answer": "keep"
+        },
+        "61": {
+          "concept": "固定句型与形容词搭配",
+          "note": "构成 the more... the less...（越……就越不……）的比较级双重对照结构。在 be 动词 were 之后，后接不定式 to get sick，构成 be less likely to 结构，表示他们越不容易“生病”。",
+          "answer": "likely"
+        },
+        "62": {
+          "concept": "同位语名词语意呼应",
+          "note": "由定冠词 the 引导，充当 serotonin（血清素）的同位语说明。前文将催产素称为 cuddle hormone，此处相应地将血清素称为“快乐/开心”的“激素”或“化学物质”，故填名词 hormone / chemical / substance。",
+          "answer": "hormone/chemical/substance"
+        },
+        "63": {
+          "concept": "短语动词固定搭配",
+          "note": "情态动词 can 后面接动词原形。与后面的介词 to 完美组合，构成在各类说明文中极其核心和高频的短语动词 lead to，表示血清素过低甚至会“导致”肥胖症。",
+          "answer": "lead"
+        },
+        "64": {
+          "concept": "定语从句关系代词",
+          "note": "引导限定性定语从句，修饰表示人类的复数先行词 friends or loved ones。从句中缺少主语成分，且指代人，故填入关系代词 who 或 that。",
+          "answer": "who/that"
+        },
+        "65": {
+          "concept": "祈使句否定动词搭配",
+          "note": "在否定祈使句 Do not 后面，需要填入动词原形。与后文的 the healing power（治愈力量）搭配，用来告诫读者“不要低估”或“不要忽略”拥抱的神奇功效，故填 underestimate / overlook / ignore / forget。",
+          "answer": "underestimate/overlook/ignore/forget"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Nelly's sisters do not like lemons. Her father does not like them too.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Neither __________"
+        },
+        "67": {
+          "stem_plain": "You cannot leave earlier than scheduled. Your parents must submit a special request.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Unless __________"
+        },
+        "68": {
+          "stem_plain": "The workers are moving the furniture to the basement.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The furniture __________"
+        },
+        "69": {
+          "stem_plain": "Madhu asked her brother, \"Did you throw the leftovers away like I told you to?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Madhu asked her brother __________"
+        },
+        "70": {
+          "stem_plain": "If Mr Lau had not permitted it, we would not have been able to have the barbecue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "With Mr Lau's __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "关联结构 — Neither … nor (proximity rule)",
+          "zh": "Nelly 的姐妹们和她的爸爸都不喜欢柠檬。",
+          "note": "<code>Neither A nor B</code> 的动词遵循“就近原则”，与最靠近的名词一致；这里 <em>her father</em> 是单数，所以用 <em>likes</em>。",
+          "answer": "Neither Nelly's sisters nor her father likes lemons."
+        },
+        "67": {
+          "concept": "条件句 — Unless = if … not",
+          "zh": "除非你的父母提交特别申请，否则你不能提前离开。",
+          "note": "<code>Unless = if … not</code>。Unless 后面的从句要用肯定形式，因为 unless 本身已经包含否定意思。",
+          "answer": "Unless your parents submit a special request, you cannot leave earlier than scheduled."
+        },
+        "68": {
+          "concept": "被动语态 — Active → present continuous passive",
+          "zh": "家具正被工人们搬到地下室。",
+          "note": "现在进行时被动语态：<code>S + is/are + being + V3</code>。<em>The furniture</em> 是不可数名词，作单数处理，所以用 <em>is being moved</em>。",
+          "answer": "The furniture is being moved by the workers to the basement."
+        },
+        "69": {
+          "concept": "间接引语 — Reported yes/no question",
+          "zh": "Madhu 问她哥哥，他有没有按她说的把剩饭丢掉。",
+          "note": "yes/no 问句变间接引语用 <code>if / whether</code>；动词时态后退（<em>did throw → had thrown</em>）；代词随说话人改变。",
+          "answer": "Madhu asked her brother if he had thrown the leftovers away like she had told him to."
+        },
+        "70": {
+          "concept": "虚拟语气 — Conditional → noun phrase",
+          "zh": "在 Lau 老师的许可下，我们才得以进行烧烤活动。",
+          "note": "把动词 <em>permit</em> 变成名词 <em>permission</em>，再用介词短语 <em>With + 所属关系名词 + permission</em> 表示“在……的许可下”。",
+          "answer": "With Mr Lau's permission, we were able to have the barbecue."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Based on paragraph 1, how do we know that Obayd was initially unsure about telling his mother about what he had done?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "In line 8, Obayd was certain that Mother **\"would surely be overjoyed!\"** List **two** reasons for his certainty.",
+          "marks": 2,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "(a)",
+              "rows": [
+                "[Q72a]"
+              ]
+            },
+            "col_2": {
+              "header": "(b)",
+              "rows": [
+                "[Q72b]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Obayd felt himself **\"swelling with pride\"** (line 20). Why did he feel this way?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **This** (line 24)",
+                "(b) **it** (line 41)"
+              ]
+            },
+            "refers_to": {
+              "header": "What it refers to",
+              "rows": [
+                "[Q74a]",
+                "[Q74b]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Mother was relieved when she saw Obayd.",
+                "b) Alia was about to cry as she realised she was in trouble."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q75a]",
+                "[Q75c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q75b]",
+                "[Q75d]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Based on lines 14–26, how did Mother and Father prompt Obayd to search for the rainbow?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Based on information in lines 24–30, fill in the following table.",
+          "marks": 4,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "(a) How Obayd acted on the \"legend\" (line 27)",
+                "[Q77a]",
+                "(c) How Neela responded to the \"tension\" (line 28)",
+                "[Q77c]"
+              ]
+            },
+            "col_2": {
+              "header": "",
+              "rows": [
+                "(b) How Mother responded to what Obayd did in (a)",
+                "[Q77b]",
+                "(d) Why Neela responded the way she did",
+                "[Q77d]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Write down the **three-word phrase** that shows Obayd was amazed to see Father on his feet.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Fill in the following table with information from the passage.",
+          "marks": 2,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "situation",
+              "authors_emotion",
+              "evidence_from_passage"
+            ],
+            "situation": {
+              "header": "",
+              "rows": [
+                "Father's whereabouts"
+              ]
+            },
+            "authors_emotion": {
+              "header": "What Obayd thought",
+              "rows": [
+                "[Q79a]"
+              ]
+            },
+            "evidence_from_passage": {
+              "header": "What the situation really was",
+              "rows": [
+                "[Q79b]"
+              ]
+            }
+          }
+        },
+        "80": {
+          "stem_plain": "Referring to lines 41–48, explain fully why Obayd **\"never believed in rainbows again\"**.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — *The Gold-Star Boy*",
+        "lines": {
+          "1": "I pondered over what to do next. Why not tell her? I might as well let her know that I had",
+          "2": "fulfilled her wish for Father to walk again. Six months ago, when I first saw Father struggling to move,",
+          "3": "my heart sank. The sight of him unable to walk or work filled me with sadness. Father's condition",
+          "4": "had affected our family in many ways. He was the sole breadwinner of the family, and with another",
+          "5": "baby on the way, our financial struggles seemed insurmountable. Over the past few weeks, I had",
+          "6": "poured my heart into finding a way to help Father regain his mobility. She would no longer have to",
+          "7": "anguish over the challenges we faced. The more I pondered over it, the more I felt compelled to",
+          "8": "share the news with her. She would surely be overjoyed!",
+          "9": "\"Mother, I went up to the waterfall on the mountains,\" I said as I stepped into the house.",
+          "10": "Hearing my voice, Mother felt a weight off her shoulder and our eyes met for a moment.",
+          "11": "However, upon realizing what I had done, her relief quickly turned into anger. \"The mountain? What",
+          "12": "were you doing there, Obayd? It is so dangerous. Even thinking about the journey there makes me",
+          "13": "shudder,\" she exclaimed.",
+          "14": "\"Have you ever tried finding a rainbow? Not just finding it but reaching it? It's so strange.",
+          "15": "They're always a little farther away. You go, and then somehow, it's gone,\" I continued. \"But I found",
+          "16": "the waterfall! I found it on my own. Father told me where it was, but I went there by myself.\"",
+          "17": "Alia had a strange look on her face, as if I was speaking a language she did not understand.",
+          "18": "Neela had the same look. I felt the divide between my sisters and me widening even more. Being",
+          "19": "girls, they could not possibly imagine how I had embarked on such a treacherous journey. I could",
+          "20": "not help but feel myself swelling with pride. \"I passed under a rainbow, Mother. Father would be",
+          "21": "well again!\" I said, full of hope.",
+          "22": "My mother was hunched forward, her fingers pressing on her temples. She was upset, but",
+          "23": "not the way she was a few minutes ago. \"Please tell me a better truth than that,\" she whispered.",
+          "24": "\"A better truth? **This** is what you wanted, isn't it? Wouldn't you want a way to make Father",
+          "25": "walk again? Mother, that's the only way we knew to make it real. We had to pass under the rainbow",
+          "26": "so that our wishes would come true. You told me so!\" I said, hurt that she thought I had lied to her.",
+          "27": "\"Obayd,\" she moaned. \"That's a legend we tell children. But it's not true. Nothing happens",
+          "28": "when you pass under a rainbow.\" Sensing the tension in the room, Neela began picking at imaginary",
+          "29": "lint on her skirt. As the oldest, she felt responsible for our actions. Alia was on the brink of tears as",
+          "30": "she whispered, \"Please don't be angry with Obayd, Mother.\"",
+          "31": "\"How do you know it hadn't worked, Mother? I am sure Father has changed. When he wakes",
+          "32": "up from his nap in your room, his legs will be as good as new!\" I exclaimed.",
+          "33": "Looking at me as if I had grown a second head, Mother explained, \"Obayd, the only thing that",
+          "34": "has changed is that you're soaked and probably going to wake up with pneumonia. We thought",
+          "35": "something terrible had happened to you and your father...\"",
+          "36": "Before Mother could continue her sentence, the front door burst open. Looking up in the",
+          "37": "direction of the door, my mouth fell agape. In front of me, with one foot on the ground and his stump",
+          "38": "on the wooden crutch I had made for him, stood my breathless, sweating father.",
+          "39": "\"Obayd!\" My name came out in an exhausted bellow as Father wiped his forehead with the",
+          "40": "back of his hand. Clearly, his attempts to walk had taken its toll.",
+          "41": "\"Father, you're finally using **it**! You're walking! It works, doesn't it? Mother, Father's walking,\"",
+          "42": "I exclaimed, barely waiting for either parent to respond.",
+          "43": "Taking a few steps into the room and dropping the wooden crutch, Father slid down the wall",
+          "44": "and sat with his leg and stump stretched out in front of him. Still trying to catch his breath, he began,",
+          "45": "\"Obayd, I've been out looking for you for hours. Your mother was convinced you were dead! Do you",
+          "46": "have any idea what you've put us through? I would never have been able to walk if not for my fear",
+          "47": "that you were in danger.\" Looking into Father's eyes at that moment, I realised the reason why Father",
+          "48": "could walk again. I never believed in rainbows again."
+        },
+        "paragraphs": {
+          "1": "我琢磨着接下来该怎么办。何不告诉她呢？不如让她知道，我已实现了她让父亲重新走路的愿望。六个月前，我第一次看见父亲行动困难时，心一下子沉了下去；他不能走、不能工作，让我十分难过。父亲的状况以多种方式影响着全家——他是唯一养家的人，而家里又将有新婴儿，经济困境似乎难以逾越。过去几周，我全心寻找办法帮父亲恢复行动能力，这样她就不必再为我们面临的难题痛苦煎熬。越想越是觉得必须把消息告诉她，她一定会欣喜若狂！",
+          "9": "“妈妈，我上了山里的瀑布。”我踏进家门时说道。",
+          "10": "听见我的声音，母亲肩上的重担仿佛卸下，我们目光交汇了一瞬；但当她意识到我做了什么，宽慰很快转为愤怒。“山上？Obayd，你去那里干什么？太危险了，光是想到那段路我就发抖。”她喊道。",
+          "14": "“你试过找彩虹吗？不只是看见，还要走到它跟前？真奇怪，它总好像再远一点；你往前去，它不知怎么又不见了。”我继续说，“但我找到瀑布了！是我自己找到的。父亲告诉过我位置，但我独自去了。”",
+          "17": "Alia 脸上露出奇怪的神情，仿佛我在说一种她听不懂的语言；Neela 也是同样表情。我感到与姐妹之间的隔阂越来越大——身为女孩，她们无法想象我如何踏上如此艰险的旅程。我不禁骄傲地膨胀起来。“妈妈，我从彩虹下走过。父亲会好起来的！”我满怀希望地说。",
+          "22": "母亲弯着身子，手指按着太阳穴。她仍心烦，但已不像几分钟前那样。“请告诉我比这更好的真相。”她低声说。",
+          "24": "“更好的真相？这不正是你想要的吗？难道你不想要让父亲重新走路的办法？妈妈，这是我们唯一知道能把它变成现实的方法——必须从彩虹下走过，愿望才会成真。是你告诉我的！”我受伤地说，以为她在说我撒谎。",
+          "27": "“Obayd，”她呻吟道，“那是讲给孩子听的传说，不是真的。从彩虹下走过什么也不会发生。”感到屋里气氛紧张，Neela 开始揪裙子上并不存在的线头；作为长女，她觉得该为我们的行为负责。Alia 几乎要哭出来，低声说：“妈妈，请不要生 Obayd 的气。”",
+          "31": "“你怎么知道没用呢，妈妈？我敢肯定父亲已经变了。等他在你房间午睡醒来，腿就会像新的一样！”我大声说。",
+          "33": "母亲像看长了第二个头似的望着我，解释道：“Obayd，唯一变的是你又湿透了，恐怕要得肺炎。我们以为你和父亲出了可怕的事……”",
+          "36": "母亲话还没说完，前门猛地推开。我朝门口望去，嘴巴大张——父亲站在面前，一只脚踏在地上，残肢拄着我为他做的木拐杖，气喘吁吁、汗流浃背。",
+          "39": "“Obayd！”父亲疲惫地吼出我的名字，用手背擦额头的汗，显然他试着走路已耗尽力气。",
+          "41": "“父亲，你终于用上了！你在走路！有效了，是不是？妈妈，父亲在走路！”我几乎不等父母回应就喊出来。",
+          "43": "父亲走进房间几步，放下木拐杖，靠墙滑坐下去，把腿和残肢伸到身前。他仍喘着气，开口说：“Obayd，我找了你好几个小时。你母亲确信你死了！你知道你让我们经历了什么吗？要不是因为担心你有危险，我绝不可能走路。”那一刻望着父亲的眼睛，我明白了父亲为何又能走路；我再也不相信彩虹了。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>阅读理解简答题——第一段中如何判断 Obayd <strong>起初不确定</strong>是否告诉母亲（1 分）。</li><li><strong>范围：</strong>第一段行 <strong>1–8</strong>（内心挣扎、决定告知）。</li><li><strong>证据（行 1–2）：</strong><em>I pondered over what to do next. Why not tell her?</em> — 反复掂量、自问，显犹豫。</li><li><strong>收束：</strong><em>I might as well let her know</em> 表权衡后仍未十分笃定 → <span class=\"hl-good\">He pondered over what to do next and weighed up whether he should tell his mother what he had done.</span></li><li><strong>失分：</strong>只写“告诉了她”未写<strong>不确定</strong>；引用第二段及以后。</li></ol>",
+          "answer": [
+            "He pondered over what to do next and weighed up whether he should tell his mother what he had done."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>题型：</strong>文中信息归纳表——列出行 <strong>8</strong> 附近 Obayd 确信母亲会欣喜若狂的<strong>两个理由</strong>（2 分；(a)(b) 各一格）。</li><li><strong>(a) 行 6：</strong><em>finding a way to help Father regain his mobility</em> → 父亲能恢复行动/再走路 → <span class=\"hl-good\">Father would be able to regain his mobility / walk again.</span></li><li><strong>(b) 行 7：</strong><em>She would no longer have to anguish over the challenges we faced</em> → 母亲不必再为困境痛苦 → <span class=\"hl-good\">Mother would no longer have to anguish over the challenges they faced.</span></li><li><strong>失分：</strong>只写一点；理由与“欣喜若狂”无直接联系。</li></ol>",
+          "answer": {
+            "72a": "Father would be able to regain his mobility / walk again.",
+            "72b": "Mother would no longer have to anguish over the challenges they faced."
+          },
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——行 <strong>20</strong> <em>swelling with pride</em> 的原因（2 分；须含两点）。</li><li><strong>范围：</strong>行 <strong>17–21</strong>。</li><li><strong>理由一（行 19）：</strong>姐妹无法想象他独自完成艰险山路之旅 → 自觉勇敢、与众不同。</li><li><strong>理由二（行 20–21）：</strong>已从彩虹下走过，相信父亲会好起来。</li><li><strong>收束：</strong>两点合写：艰险旅程的自豪 + 对彩虹奇迹的信心。</li><li><strong>失分：</strong>只写一点；未联系姐妹反应或父亲会康复。</li></ol>",
+          "answer": [
+            "He felt this way because his sisters could not imagine how he had embarked on such a treacherous journey to the waterfall on the mountains, and he believed Father would be well again now that he had passed under a rainbow."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左列词语的具体所指（2 分；右列两格）。</li><li><strong>(a) This（行 24）：</strong><em>This is what you wanted … a way to make Father walk again</em> → 母亲愿望/让父亲再走路的办法 → <span class=\"hl-good\">(Mother's wish for / a way for) Father to be able to walk again.</span></li><li><strong>(b) it（行 41）：</strong>回指行 <strong>38</strong> <em>the wooden crutch I had made for him</em> → 父亲正使用的木拐杖 → <span class=\"hl-good\">The wooden crutch that Obayd had made for Father.</span></li><li><strong>失分：</strong>只写“这个”“它”；未点明走路/拐杖。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "(Mother's wish for / a way for) Father to be able to walk again.",
+            "74b": "The wooden crutch that Obayd had made for Father."
+          }
+        },
+        "75": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——每行先 T/F 再<strong>一句</strong>理由（2 分；两行）。</li><li><strong>(a) False：</strong>行 <strong>10–11</strong> 听见声音时宽慰，但一见他所为<strong>宽慰即变愤怒</strong> — 非“看见他”才宽慰。</li><li><strong>(b) False：</strong>行 <strong>30</strong> Alia 快哭是因求母亲别生 Obayd 的气，非因自己闯祸。</li><li><strong>失分：</strong>T/F 与理由矛盾；理由无文中依据。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "False",
+            "75b": "Mother felt a weight off her shoulder only when she heard Obayd's voice; once she saw what he had done, her relief turned into anger",
+            "75c": "False",
+            "75d": "Alia was upset for Obayd — she pleaded 'Please don't be angry with Obayd, Mother.' — not because she herself was in trouble"
+          }
+        },
+        "76": {
+          "concept": "过程描述题",
+          "note": "<ol><li><strong>题型：</strong>过程描述题——行 <strong>14–26</strong> 父母如何促使 Obayd 去找彩虹（2 分；须写双亲各一点）。</li><li><strong>母亲（行 25–26）：</strong><em>pass under the rainbow so that our wishes would come true. You told me so!</em> — 传授传说/须从彩虹下走过愿望才成真。</li><li><strong>父亲（行 16）：</strong><em>Father told me where it was</em> — 告知瀑布（山上）位置。</li><li><strong>收束：</strong>母给传说与做法，父给地点 → <span class=\"hl-good\">Mother told Obayd that one had to pass under a rainbow so that one's wishes would come true. Father told Obayd where the waterfall (on the mountains) was.</span></li><li><strong>失分：</strong>只写一方；漏写瀑布/彩虹传说。</li></ol>",
+          "answer": [
+            "Mother told Obayd that one had to pass under a rainbow so that one's wishes would come true. Father told Obayd where the waterfall (on the mountains) was."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>题型：</strong>表格信息填空——行 <strong>24–30</strong> 填四格（4 分）。(a)–(b) 表一，(c)–(d) 表二。</li><li><strong>(a)：</strong>按传说上山找瀑布、从彩虹下走过 → <span class=\"hl-good\">Obayd went to the mountains / waterfall to pass under a rainbow so that his wish would come true.</span></li><li><strong>(b)：</strong>母亲否定传说（行 <strong>27–28</strong>）→ <span class=\"hl-good\">Mother told him that the legend was not true — nothing happens when one passes under a rainbow.</span></li><li><strong>(c)：</strong>行 <strong>28–29</strong> Neela 揪裙子上并不存在的线头。</li><li><strong>(d)：</strong>行 <strong>29</strong> 作为长女觉得要为兄妹行为负责。</li><li><strong>失分：</strong>四格张冠李戴；漏写 (c)(d)。</li></ol>",
+          "answer": {
+            "77a": "Obayd went to the mountains / waterfall to pass under a rainbow so that his wish would come true.",
+            "77b": "Mother told him that the legend was not true — nothing happens when one passes under a rainbow.",
+            "77c": "Neela began picking at imaginary lint on her skirt.",
+            "77d": "She felt responsible for their actions because she was the oldest."
+          },
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "摘引与表达理解",
+          "note": "<ol><li><strong>题型：</strong>摘引与表达理解——抄<strong>三个词</strong>的短语，显示见父亲站立时的惊愕（1 分）。</li><li><strong>范围：</strong>行 <strong>36–38</strong>（父亲推门而入）。</li><li><strong>定位（行 37）：</strong><em>my <strong>mouth fell agape</strong></em> — 张大嘴巴 = 极度惊讶。</li><li><strong>收束：</strong>照抄 <span class=\"hl-good\">Mouth fell agape</span>（三个词）。</li><li><strong>失分：</strong>抄超过/不足三个词；抄其他描写。</li></ol>",
+          "answer": [
+            "Mouth fell agape"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>题型：</strong>表格简答题——父亲下落：Obayd <strong>以为</strong> vs <strong>实情</strong>（2 分；(a)(b) 两格）。</li><li><strong>(a) Obayd 以为（行 31–32）：</strong><em>When he wakes up from his nap in your room</em> — 以为父亲在母亲房间午睡 → <span class=\"hl-good\">Father was taking a nap in Mother's room.</span></li><li><strong>(b) 实情（行 45–47）：</strong><em>I've been out looking for you for hours … I would never have been able to walk if not for my fear that you were in danger</em> — 外出找了他数小时，因担心他才勉强能走 → <span class=\"hl-good\">Father had been outside searching for Obayd for hours and could only walk because of his fear that Obayd was in danger.</span></li><li><strong>失分：</strong>两列颠倒；只写“在找”未写恐惧才能走路。</li></ol>",
+          "answer": {
+            "79a": "Father was taking a nap in Mother's room. Father had been outside searching for Obayd for hours",
+            "79b": "could only walk because of his fear that Obayd was in danger."
+          },
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——行 <strong>41–48</strong> 为何 <em>never believed in rainbows again</em>（2 分；须写清领悟）。</li><li><strong>母亲先前（行 27–28）：</strong>彩虹传说只是讲给孩子的，不是真的。</li><li><strong>父亲解释（行 45–47）：</strong>能走路是因为<strong>害怕 Obayd 有危险</strong>，非彩虹魔力。</li><li><strong>收束：</strong>明白父亲康复出于父爱与恐惧，彩虹无效 → 再也不信彩虹。</li><li><strong>失分：</strong>只写父亲能走；未否定彩虹传说或点明真正原因。</li></ol>",
+          "answer": [
+            "Obayd realised that the real reason Father could walk again was Father's fear that Obayd was in danger — not because Obayd had passed under a rainbow. Once he understood that the rainbow legend was not true, he never believed in rainbows again."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

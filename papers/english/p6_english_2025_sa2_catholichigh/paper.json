@@ -1,0 +1,1532 @@
+{
+  "paperid": "p6_english_2025_sa2_catholichigh",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The feedback provided by our English Language teacher yesterday ________ very useful and helped us to improve on our writing.",
+          "options": {
+            "1": "was",
+            "2": "were",
+            "3": "has been",
+            "4": "have been"
+          }
+        },
+        "2": {
+          "stem_plain": "The heavy rainfall over the weekend has resulted ________ flooding in some parts of Singapore.",
+          "options": {
+            "1": "in",
+            "2": "to",
+            "3": "of",
+            "4": "from"
+          }
+        },
+        "3": {
+          "stem_plain": "The villagers lost everything they owned because the storm caused ________ damage to their home.",
+          "options": {
+            "1": "little",
+            "2": "less",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "4": {
+          "stem_plain": "The mountaineer refused to give up halfway, ________ tired he felt during the steep climb to the peak of the mountain.",
+          "options": {
+            "1": "though",
+            "2": "however",
+            "3": "whenever",
+            "4": "nonetheless"
+          }
+        },
+        "5": {
+          "stem_plain": "Not only ________ the lights off but she also locked the doors.",
+          "options": {
+            "1": "she switched",
+            "2": "did she switch",
+            "3": "does she switch",
+            "4": "had she switched"
+          }
+        },
+        "6": {
+          "stem_plain": "The class, together with a few teachers, ________ visiting the museum for a learning journey tomorrow.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "The shy and quiet girl ________ the judges praised delivered a persuasive speech.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "8": {
+          "stem_plain": "\" ________ it be a good idea to bring an umbrella since it looks cloudy?\" Mum suggested.",
+          "options": {
+            "1": "Can't",
+            "2": "Couldn't",
+            "3": "Wouldn't",
+            "4": "Shouldn't"
+          }
+        },
+        "9": {
+          "stem_plain": "\"She returned from London recently because she had to take care of her elderly parents, ________ she?\" asked Lindy.",
+          "options": {
+            "1": "did",
+            "2": "had",
+            "3": "didn't",
+            "4": "hadn't"
+          }
+        },
+        "10": {
+          "stem_plain": "As Ming Zhe stepped into the classroom, he noticed a cockroach ________ through the open door and vanish under the shelf.",
+          "options": {
+            "1": "crawl",
+            "2": "crawls",
+            "3": "crawled",
+            "4": "crawling"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — Subject-verb agreement",
+          "zh": "我们英语老师昨天给的反馈非常有用，帮助我们改进了写作。",
+          "note": "feedback 不可数、谓语单数；yesterday 表过去，用 was。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "固定搭配 — Prepositional collocation",
+          "zh": "周末的暴雨导致新加坡部分地区出现了洪涝。",
+          "note": "result in + 结果；result from + 原因。flooding 是结果。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "量词 — quantifier with uncountable noun",
+          "zh": "由于风暴对家园造成了严重破坏，村民们失去了他们所拥有的一切。",
+          "note": "damage 不可数，用 much；lost everything 指损失很大。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "让步状语从句 — Concessive structure",
+          "zh": "在攀登山顶的陡峭路程中，无论这位登山者感到多么疲惫，他都拒绝半途而废。",
+          "note": "however + 形容词 + 主语 + 动词 = 无论多么……（= no matter how）。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "倒装句 — Inversion after negative opener",
+          "zh": "她不仅关掉了灯，还锁好了门。",
+          "note": "Not only 放句首须部分倒装：did + 主语 + 原形；与 locked 时态一致。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "主谓一致 — Subject-verb agreement",
+          "zh": "这个班级，连同几位老师，明天将去博物馆进行一次学习之旅。",
+          "note": "主语 The class 为单数；together with 不改变谓语单复数。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "关系词 — Relative pronoun (object case)",
+          "zh": "那位被评委称赞的腼腆文静的女孩发表了一场极具说服力的演讲。",
+          "note": "从句中 praised 的宾语 → whom（The judges praised her）。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "情态动词 — Polite suggestion (modal)",
+          "zh": "既然天看起来阴沉沉的，带把伞会不会是个好主意呢？",
+          "note": "Wouldn't it be a good idea to…? 表委婉建议，语气比 Shouldn't 温和。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "反意疑问句 — Question tag",
+          "zh": "她最近从伦敦回来了，因为她得照顾年迈的父母，对吧？",
+          "note": "主句肯定、一般过去时 → 反意疑问 didn't she（前肯后否）。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "不定式 — Bare-infinitive after perception verb",
+          "zh": "当明哲走进教室时，他注意到一只蟑螂从敞开的门口爬进来，并消失在书架下面。",
+          "note": "感官动词 notice + 宾语 + 原形不定式（表完整过程）；与 vanish 并列。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "A loud ________ broke out between the two angry boys about who should get a bigger piece of the pie.",
+          "options": {
+            "1": "banter",
+            "2": "quibble",
+            "3": "dispute",
+            "4": "dialogue"
+          }
+        },
+        "12": {
+          "stem_plain": "Asha raised her eyebrows and looked at her brother ________ when he claimed that he had finished the 1000-piece puzzle in 30 minutes.",
+          "options": {
+            "1": "cautiously",
+            "2": "accusingly",
+            "3": "incredulously",
+            "4": "disapprovingly"
+          }
+        },
+        "13": {
+          "stem_plain": "The principal was upset to find out that someone had ________ the newly painted mural by spray-painting over it.",
+          "options": {
+            "1": "impaired",
+            "2": "defamed",
+            "3": "vandalised",
+            "4": "demolished"
+          }
+        },
+        "14": {
+          "stem_plain": "To fly a passenger plane, Deyi had to become a/an ________ pilot by passing many tests and getting an official licence.",
+          "options": {
+            "1": "certified",
+            "2": "talented",
+            "3": "renowned",
+            "4": "empowered"
+          }
+        },
+        "15": {
+          "stem_plain": "To make the school more environmentally friendly, Ramu ________ the idea of starting a recycling club to his teacher to encourage pupils to reduce waste.",
+          "options": {
+            "1": "brought in",
+            "2": "brought up",
+            "3": "brought on",
+            "4": "brought out"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "两个怒气冲冲的男孩为了谁该分到更大块的派，爆发了一场激烈的争执。",
+          "note": "应选（3）'dispute'：题干语境最宜表达'争论；纠纷'。'banter'义为'（友善的）打趣；玩笑'：与题干逻辑及英语解析中的辨析不一致。'quibble'义为'为小事争论；挑剔'：与题干逻辑及英语解析中的辨析不一致。'dialogue'义为'对话；交流'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — dispute（争论；纠纷）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "banter",
+              "zh": "（友善的）打趣；玩笑",
+              "eg": "Friendly <strong>banter</strong> between the two captains made the trophy presentation lively."
+            },
+            {
+              "opt": "2",
+              "word": "quibble",
+              "zh": "为小事争论；挑剔",
+              "eg": "Let's not <strong>quibble</strong> over a few cents when we have a long shopping list to finish."
+            },
+            {
+              "opt": "3",
+              "word": "dispute",
+              "zh": "争论；纠纷",
+              "eg": "The two neighbours had a long <strong>dispute</strong> over the noisy renovations next door."
+            },
+            {
+              "opt": "4",
+              "word": "dialogue",
+              "zh": "对话；交流",
+              "eg": "Open <strong>dialogue</strong> between teachers and parents helps pupils improve at school."
+            }
+          ]
+        },
+        "12": {
+          "zh": "当哥哥声称自己在 30 分钟内就拼完了 1000 块的拼图时，阿莎挑起眉毛，难以置信地看着他。",
+          "note": "应选（3）'incredulously'：题干语境最宜表达'怀疑地；难以置信地'。'cautiously'义为'谨慎地；小心地'：与题干语境或搭配要求不一致。'accusingly'义为'指责地；谴责地'：释义侧重与空格处逻辑不符。'disapprovingly'义为'不赞同地；反对地'：释义侧重与空格处逻辑不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — incredulously（怀疑地；难以置信地）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cautiously",
+              "zh": "谨慎地；小心地",
+              "eg": "She moved <strong>cautiously</strong> across the icy bridge to avoid slipping."
+            },
+            {
+              "opt": "2",
+              "word": "accusingly",
+              "zh": "指责地；谴责地",
+              "eg": "He pointed <strong>accusingly</strong> at his brother, claiming that he had eaten the last cookie."
+            },
+            {
+              "opt": "3",
+              "word": "incredulously",
+              "zh": "怀疑地；难以置信地",
+              "eg": "She stared <strong>incredulously</strong> at the test paper, unable to believe she had scored full marks."
+            },
+            {
+              "opt": "4",
+              "word": "disapprovingly",
+              "zh": "不赞同地；反对地",
+              "eg": "Mother frowned <strong>disapprovingly</strong> when she saw the muddy footprints on the carpet."
+            }
+          ]
+        },
+        "13": {
+          "zh": "校长得知有人用喷漆在新画好的壁画上乱涂，蓄意将其破坏，感到非常不悦。",
+          "note": "应选（3）'vandalised'：题干语境最宜表达'（故意）破坏（公物）'。解析中强调的关键形式为'Vandalise'，与正确项一致。'impaired'义为'损害（功能、视力）'：与题干逻辑及英语解析中的辨析不一致。'defamed'义为'诽谤；中伤'：与题干逻辑及英语解析中的辨析不一致。'demolished'义为'拆除；摧毁（建筑物）'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — vandalised（（故意）破坏（公物））",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "impaired",
+              "zh": "损害（功能、视力）",
+              "eg": "Years of loud music had <strong>impaired</strong> his hearing more than he realised."
+            },
+            {
+              "opt": "2",
+              "word": "defamed",
+              "zh": "诽谤；中伤",
+              "eg": "The actor sued the magazine for <strong>defaming</strong> him with false rumours."
+            },
+            {
+              "opt": "3",
+              "word": "vandalised",
+              "zh": "（故意）破坏（公物）",
+              "eg": "Several lockers had been <strong>vandalised</strong> overnight, with rude words sprayed across them."
+            },
+            {
+              "opt": "4",
+              "word": "demolished",
+              "zh": "拆除；摧毁（建筑物）",
+              "eg": "The old shopping centre was <strong>demolished</strong> last year to make way for a new MRT station."
+            }
+          ]
+        },
+        "14": {
+          "zh": "为了驾驶客机，德毅必须通过许多考试并取得正式执照，成为一名持证的飞行员。",
+          "note": "应选（1）'certified'：题干语境最宜表达'（持证的）合格的；正式认证的'。'talented'义为'有才能的；有天赋的'：与题干语境或搭配要求不一致。'renowned'义为'著名的；有声望的'：与题干语境或搭配要求不一致。'empowered'义为'被授权的；被赋予能力的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — certified（（持证的）合格的；正式认证的）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "certified",
+              "zh": "（持证的）合格的；正式认证的",
+              "eg": "Only a <strong>certified</strong> electrician should attempt to fix the wiring in your home."
+            },
+            {
+              "opt": "2",
+              "word": "talented",
+              "zh": "有才能的；有天赋的",
+              "eg": "She is a <strong>talented</strong> dancer who started ballet at the age of four."
+            },
+            {
+              "opt": "3",
+              "word": "renowned",
+              "zh": "著名的；有声望的",
+              "eg": "The hawker centre is <strong>renowned</strong> for its char kway teow."
+            },
+            {
+              "opt": "4",
+              "word": "empowered",
+              "zh": "被授权的；被赋予能力的",
+              "eg": "Through hours of practice, the children felt <strong>empowered</strong> to perform on stage."
+            }
+          ]
+        },
+        "15": {
+          "zh": "为了让学校更环保，拉穆向老师提出了成立回收社团的想法，以鼓励学生减少浪费。",
+          "note": "应选（2）'brought up'：题干语境最宜表达'提起（话题）；养育'。'brought in'义为'引入；引进；赚得'：与题干逻辑及英语解析中的辨析不一致。'brought on'义为'引起；导致（疾病、问题）'：与题干逻辑及英语解析中的辨析不一致。'brought out'义为'推出；展示；激发（特质）'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — brought up（提起（话题）；养育）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "brought in",
+              "zh": "引入；引进；赚得",
+              "eg": "The bakery has <strong>brought in</strong> a new chef from France to redesign the menu."
+            },
+            {
+              "opt": "2",
+              "word": "brought up",
+              "zh": "提起（话题）；养育",
+              "eg": "Nobody at the meeting <strong>brought up</strong> the issue of the broken air-conditioner."
+            },
+            {
+              "opt": "3",
+              "word": "brought on",
+              "zh": "引起；导致（疾病、问题）",
+              "eg": "Her sudden coughing fit was <strong>brought on</strong> by the dusty old room."
+            },
+            {
+              "opt": "4",
+              "word": "brought out",
+              "zh": "推出；展示；激发（特质）",
+              "eg": "The new product was <strong>brought out</strong> just in time for the school holidays."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "capture",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "entice",
+            "2": "delight",
+            "3": "bewitch",
+            "4": "captivate"
+          }
+        },
+        "17": {
+          "stem_plain": "adorned",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "arrayed",
+            "2": "enriched",
+            "3": "enhanced",
+            "4": "decorated"
+          }
+        },
+        "18": {
+          "stem_plain": "dedicated",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "exclusive",
+            "2": "dedicated",
+            "3": "delegated",
+            "4": "customised"
+          }
+        },
+        "19": {
+          "stem_plain": "evolved",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "changed",
+            "2": "advanced",
+            "3": "flourished",
+            "4": "progressed"
+          }
+        },
+        "20": {
+          "stem_plain": "instrumental",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "powerful",
+            "2": "dominant",
+            "3": "significant",
+            "4": "necessary"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "In a multiracial country like Singapore, racial harmony is an important part of life. Racial Harmony Day is celebrated on 21 July each year to remind Singaporeans of the importance of racial and religious tolerance and unity.",
+          "Fun and special activities are held in schools to [Q16 (capture)] the attention of young people and help them learn about other cultures. Classrooms and halls are often [Q17 (adorned)] with traditional and cultural items showing Singapore's rich diversity. There are also [Q18 (dedicated)] booths for games, food tasting, and performances from different ethnic groups.",
+          "Traditional customs, such as clothing and food, have also [Q19 (evolved)] over time. For example, some traditional dishes now include modern ingredients, and cultural clothing is sometimes designed with a modern twist.",
+          "The education system is [Q20 (instrumental)] in teaching values such as respect and kindness from a young age. Through these efforts, Singapore continues to build a strong, united society where everyone feels valued and included."
+        ],
+        "zh": [
+          "像新加坡这样的多种族国家，种族和谐是生活的重要部分。每年7月21日庆祝种族和谐日，提醒新加坡人种族与宗教包容和团结的重要性。",
+          "学校会举办有趣而特别的活动，吸引年轻人的注意，帮助他们了解其他文化。教室和大厅常装饰着传统与文化物品，展示新加坡丰富的多样性。还有专门摊位供不同族群进行游戏、试吃和表演。",
+          "传统习俗，如服饰和饮食，也随时间演变。例如，一些传统菜肴如今加入现代食材，民族服装有时也带有现代设计元素。",
+          "教育体制从小就在传授尊重、友善等价值观方面发挥重要作用。通过这些努力，新加坡继续建设强大、团结的社会，让每个人都感到被重视和包容。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — capture（着迷）",
+          "note": "应选（4）'captivate'：短文划线的 <em>capture</em> 在此语境下与此义最接近。'entice'：义为'诱使；吸引'，与短文语境或搭配要求不一致。'delight'：义为'乐趣'，与短文语境或搭配要求不一致。'bewitch'：义为'bewitch'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "学校会举办有趣而特别的活动，吸引年轻人的注意，帮助他们了解其他文化。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "entice",
+              "zh": "诱使；吸引",
+              "eg": "The bakery used freshly baked aromas to <strong>entice</strong> passers-by into the shop."
+            },
+            {
+              "opt": "2",
+              "word": "delight",
+              "zh": "喜",
+              "eg": "Her essay used <strong>delight</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "3",
+              "word": "bewitch",
+              "zh": "蛊惑",
+              "eg": "The speaker chose <strong>bewitch</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "captivate",
+              "zh": "着迷",
+              "eg": "Her essay used <strong>captivate</strong> in a clear, natural sentence."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — adorned（装饰）",
+          "note": "应选（4）'decorated'：短文划线的 <em>adorned</em> 在此语境下与此义最接近。'arrayed'：义为'arrayed'，与短文语境或搭配要求不一致。'enriched'：义为'enriched'，与短文语境或搭配要求不一致。'enhanced'：义为'提升；增强（品质／效果）'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "教室和大厅常装饰着传统与文化物品，展示新加坡丰富的多样性。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "arrayed",
+              "zh": "大批",
+              "eg": "The coach <strong>arrayed</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "enriched",
+              "zh": "丰富",
+              "eg": "The coach <strong>enriched</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "enhanced",
+              "zh": "提升；增强（品质／效果）",
+              "eg": "The new lighting <strong>enhanced</strong> the colours of the paintings in the gallery."
+            },
+            {
+              "opt": "4",
+              "word": "decorated",
+              "zh": "装饰",
+              "eg": "The coach <strong>decorated</strong> the players after the match."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — dedicated（专注的；专用的）",
+          "note": "应选（2）'dedicated'：短文划线的 <em>dedicated</em> 在此语境下与此义最接近。'exclusive'：义为'exclusive'，与短文语境或搭配要求不一致。'delegated'：义为'delegated'，与短文语境或搭配要求不一致。'customised'：义为'customised'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "还有专门摊位供不同族群进行游戏、试吃和表演。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "exclusive",
+              "zh": "独家的",
+              "eg": "The pupils found the word <strong>exclusive</strong> useful in their composition."
+            },
+            {
+              "opt": "2",
+              "word": "dedicated",
+              "zh": "专注的；专用的",
+              "eg": "She set up a <strong>dedicated</strong> study corner in her room with a bright lamp."
+            },
+            {
+              "opt": "3",
+              "word": "delegated",
+              "zh": "委托",
+              "eg": "The coach <strong>delegated</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "customised",
+              "zh": "定制",
+              "eg": "The coach <strong>customised</strong> the players after the match."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — evolved（张）",
+          "note": "应选（1）'changed'：短文划线的 <em>evolved</em> 在此语境下与此义最接近。'advanced'：义为'推进；提升'，与短文语境或搭配要求不一致。'flourished'：义为'advanced / progressed / flourished'，与短文语境或搭配要求不一致。'progressed'：义为'进展；进步'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "传统习俗，如服饰和饮食，也随时间演变。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "changed",
+              "zh": "张",
+              "eg": "The coach <strong>changed</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "advanced",
+              "zh": "推进；提升",
+              "eg": "Hard work <strong>advanced</strong> her career in sports."
+            },
+            {
+              "opt": "3",
+              "word": "flourished",
+              "zh": "繁荣",
+              "eg": "The coach <strong>flourished</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "progressed",
+              "zh": "进展；进步",
+              "eg": "Her skills <strong>progressed</strong> rapidly with daily practice."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — instrumental（重要的）",
+          "note": "应选（3）'significant'：短文划线的 <em>instrumental</em> 在此语境下与此义最接近。'powerful'：义为'powerful'，与短文语境或搭配要求不一致。'dominant'：义为'dominant'，与短文语境或搭配要求不一致。'necessary'：义为'necessary'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "教育体制从小就在传授尊重、友善等价值观方面发挥重要作用。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "powerful",
+              "zh": "强大的",
+              "eg": "The pupils found the word <strong>powerful</strong> useful in their composition."
+            },
+            {
+              "opt": "2",
+              "word": "dominant",
+              "zh": "主导的",
+              "eg": "The speaker chose <strong>dominant</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "significant",
+              "zh": "重要的",
+              "eg": "In class we discussed how <strong>significant</strong> fits everyday English."
+            },
+            {
+              "opt": "4",
+              "word": "necessary",
+              "zh": "必要的",
+              "eg": "Her essay used <strong>necessary</strong> in a clear, natural sentence."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "\"Did you know chocolate is packed with antioxidants and essential nutrients?\" Why did the author ask the question in Text 1?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to spark the reader's interest in chocolate",
+            "2": "to test the reader's knowledge about chocolate",
+            "3": "to encourage the reader to eat more chocolate",
+            "4": "to explain to the reader about the benefits of eating chocolate"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the poster in Text 1, which of the following is true about ChocoHealth's premium dark chocolate?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It must be consumed daily.",
+            "2": "It can cure heart diseases.",
+            "3": "There is no artificial chemical added to it.",
+            "4": "It is everyone's favourite guilt-free snack."
+          }
+        },
+        "23": {
+          "stem_plain": "\"... ChocoHealth snacks are everyone's favourite in the entire household!\" The images in the poster support this statement by giving the impression that ChocoHealth's products are",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "mainly for adults",
+            "2": "best enjoyed alone",
+            "3": "only suitable for young children",
+            "4": "popular among people of all ages"
+          }
+        },
+        "24": {
+          "stem_plain": "Based on Text 1, how can you enjoy the promotions from ChocoHealth?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Spend $120 in-store to receive a $20 voucher.",
+            "2": "Spend $120 online for your first order to get 15% off instantly.",
+            "3": "Spend $60 in-store for a $20 voucher for your next online order.",
+            "4": "Spend $60 online to get $20 off and 15% off your next purchase."
+          }
+        },
+        "25": {
+          "stem_plain": "We cannot trust the way Text 1 portrays ChocoHealth's chocolate because Text 2 says that",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "chocolate is not a superfood",
+            "2": "chocolate offers no health benefits",
+            "3": "eating chocolate regularly is bad for one's health",
+            "4": "advertisements can mislead consumers to think chocolate is healthy"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "目的 — Author’s purpose — rhetorical question（目的考点）",
+          "breakdown": {
+            "zh": "作者在海报开头抛出这个反问句，是为了引起读者对巧克力的兴趣。",
+            "note": "海报常用'Did you know …?'这类反问句作开场钩子（hook），目的就是抓住读者的注意力。这并不是真的考读者知识（排除选项 2），一句话也无法'解释'营养益处（排除 4），鼓励消费 (3) 是整张海报的目的，而非'这一句问句'的目的。"
+          },
+          "note": "A poster opens with a rhetorical question to <strong>hook</strong> the audience’s attention. It is not a real test (eliminates 2), and one sentence cannot fully <em>explain</em> benefits (eliminates 4). Encouraging consumption (3) is the overall goal, not specifically of <em>this question</em>.",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "题型 — Reading details from a poster（题型考点）",
+          "breakdown": {
+            "zh": "ChocoHealth 的高级黑巧克力没有添加任何人工化学成分。",
+            "note": "海报原文是'made with 100% natural ingredients'(以 100% 天然原料制成)，与选项 (3) '无人工化学添加'吻合。(1)'必须每天食用'、(2)'可以治愈心脏病'均属夸大宣传，海报中无依据；(4)'人人喜爱、无负担的零食'描述的是 ChocoHealth 全部产品，而非特指'premium dark chocolate'。"
+          },
+          "note": "The poster says it is \"<span class=\"hl\">made with 100% natural ingredients</span>\". <span class=\"hl-bad\">(1)</span> \"must be consumed daily\" and <span class=\"hl-bad\">(2)</span> \"cure heart diseases\" are exaggerations not stated. <span class=\"hl-bad\">(4)</span> refers to <em>all</em> ChocoHealth snacks, not specifically the premium dark chocolate.",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "推理 — Inference from images（推理考点）",
+          "breakdown": {
+            "zh": "海报中的图片传达出这样一种印象——ChocoHealth 的产品在各个年龄层中都很受欢迎，从而呼应了上述说法。",
+            "note": "原句'everyone's favourite in the entire household'(全家人最爱的零食) 暗示老人、父母、孩子都喜欢；图片配合展示'全家共享'的画面，因此选 (4)'popular among people of all ages'。其他选项都只把范围限定在某一类人群，与'everyone / entire household'的'全员'语义矛盾。"
+          },
+          "note": "\"<span class=\"hl\">everyone’s favourite in the entire household</span>\" implies the whole family — children, parents, grandparents. The other options contradict this \"everyone\" claim.",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "题型 — Reading promotional terms carefully（题型考点）",
+          "breakdown": {
+            "zh": "你可以在线上首单消费满 $120，立即享受 85 折优惠。",
+            "note": "海报列出两条独立优惠：① 实体店单据满 $60 → 下次到店可用 $20 代金券；② 在线首单满 $120 → 立享 15% 折扣。只有 (2) 完全对应第二条优惠。(1) 把两者的金额混淆；(3)、(4) 把两条优惠的条件、奖励交叉拼接，都不符合海报描述。"
+          },
+          "note": "The poster lists <strong>two distinct deals</strong>: ($60 in-store → $20 voucher for next visit) and (15% off first online order with min. spend $120). Only <span class=\"hl-good\">(2)</span> describes one of these correctly. <span class=\"hl-bad\">(1)</span> swaps the figures; <span class=\"hl-bad\">(3)/(4)</span> mix the two offers.",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "题型 — Comparing two texts — main critique（题型考点）",
+          "breakdown": {
+            "zh": "我们之所以不能轻信《文本一》对 ChocoHealth 巧克力的呈现方式，是因为《文本二》指出广告可能误导消费者，让他们误以为巧克力是健康食品。",
+            "note": "Text 2 的核心批评是'marketing tactics …cloud consumers' judgement'(营销手段会蒙蔽消费者的判断)，对应 (4) '广告会误导消费者'。Text 2 并未否定巧克力是'superfood'(排除 1)，也未说'完全没有益处'(排除 2)，更没有说'经常吃巧克力对健康有害'(排除 3) ——它只是说大多数巧克力含糖、含脂肪过高，'抵消'了潜在好处。"
+          },
+          "note": "Text 2’s main critique is that <span class=\"hl\">marketing tactics</span> shape consumer perception and \"<em>cloud consumers’ judgement</em>\". It does <strong>not</strong> claim there are no benefits (eliminates 2), nor that all chocolate is harmful (3), nor that chocolate is \"not a superfood\" outright (1).",
+          "answer": "4"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "across",
+          "D": "can",
+          "G": "in",
+          "K": "off",
+          "N": "to",
+          "B": "are",
+          "E": "for",
+          "H": "is",
+          "L": "shall",
+          "P": "what",
+          "C": "by",
+          "F": "from",
+          "J": "of",
+          "M": "through",
+          "Q": "with"
+        },
+        "cloze": [
+          "Flying cockroaches in Singapore are a common yet unsettling sight for many. Their sudden appearance, especially in one's home, [Q26] cause alarm since they are often unexpected. These pests are often found in dark, humid areas like bathrooms and drainage systems. Despite maintaining a clean household, one may still encounter cockroaches as they navigate [Q27] open windows or shared ventilation systems.",
+          "One of the most remarkable abilities of these cockroaches [Q28] their resilience. They can survive in extreme conditions and have adapted [Q29] avoid many extermination methods. Submerging them in water may seem like an effective solution but these insects can hold their breath for up to forty minutes, allowing them to escape even after being flushed down a drain. However, their survival is ultimately limited [Q30] their inability to drink water, leading to eventual dehydration.",
+          "Despite common misconceptions, these cockroaches do not truly fly but rather glide using their wings to move [Q31] surfaces. This movement is often mistaken [Q32] aggressive behaviour when the insect is simply attempting to flee [Q33] perceived danger.",
+          "Given their adaptability, infestations can be difficult to manage without professional intervention. While household remedies may offer temporary relief, engaging pest control services is often the most effective approach to ensuring a cockroach-free home, in [Q34] may seem like an endless struggle to ward them [Q35].",
+          "A professional solution is often the key to regaining peace of mind."
+        ],
+        "zh": [
+          "在新加坡，会飞的蟑螂对许多人来说是一种常见却令人不安的景象。 它们突然出现，尤其是在家中出现，可能会让人惊慌，因为这通常令人措手不及。 这些害虫常常出现在阴暗潮湿的地方，例如浴室和排水系统。 即使保持家中清洁，人们仍可能遇到蟑螂，因为它们会通过打开的窗户或共用通风系统进入。",
+          "这些蟑螂最显著的能力之一就是它们的顽强生命力。 它们能在极端环境中存活，并且已经适应到可以避开许多灭虫方法。 把它们浸入水中似乎是有效的办法，但这些昆虫能屏住呼吸长达四十分钟，即使被冲进排水管后也能逃脱。 然而，它们的生存最终会受到无法饮水的限制，最终导致脱水。",
+          "尽管人们常有误解，这些蟑螂并不是真正飞行，而是利用翅膀滑翔，穿过表面移动。 这种移动常被误认为是攻击性行为，但其实昆虫只是试图逃离它感知到的危险。",
+          "鉴于它们适应力强，若没有专业介入，虫害可能很难处理。 虽然家庭补救方法可能带来暂时缓解，但聘请灭虫服务通常是确保家中没有蟑螂的最有效方式，即使这看起来像是一场无休止的驱赶战。",
+          "专业解决方案往往是重新获得安心的关键。"
+        ]
+      },
+      "answers": {
+        "26": {
+          "concept": "情态动词 — can",
+          "note": "突然出现可能 can cause alarm。",
+          "answer": "D"
+        },
+        "27": {
+          "concept": "介词 — through",
+          "note": "navigate through 窗户/通风口钻进来。",
+          "answer": "M — through"
+        },
+        "28": {
+          "concept": "主谓一致 — is",
+          "note": "abilities … is their resilience，单数谓语。",
+          "answer": "H — is"
+        },
+        "29": {
+          "concept": "不定式 — to",
+          "note": "adapted to avoid = 适应以躲避……",
+          "answer": "N — to"
+        },
+        "30": {
+          "concept": "介词 — by",
+          "note": "limited by their inability = 受……所限。",
+          "answer": "C — by"
+        },
+        "31": {
+          "concept": "介词 — across",
+          "note": "glide across surfaces = 掠过表面。",
+          "answer": "A — across"
+        },
+        "32": {
+          "concept": "介词 — for",
+          "note": "mistaken for aggressive behaviour = 被误认为攻击。",
+          "answer": "E — for"
+        },
+        "33": {
+          "concept": "介词 — from",
+          "note": "flee from perceived danger = 逃离感知到的危险。",
+          "answer": "F — from"
+        },
+        "34": {
+          "concept": "连接词 — what",
+          "note": "in what may seem like a harmless situation = 在看似无害的情境中。",
+          "answer": "P — what"
+        },
+        "35": {
+          "concept": "短语动词 — off",
+          "note": "ward them off = 把蟑螂赶走。",
+          "answer": "K — off"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The other day, I was looking around my room. My climbing shoes, gathering dust in the corner, [Q36(catching)] my attention. Two years ago, I became [Q37(intrested)] in bouldering, a type of rock climbing, after my friends introduced me to it. The [Q38(exileration)] of reaching the top kept me engaged. However, after some time, I reached a standstill. [Q39(With)] all my hard work, I could not progress past a certain level. I spent hours trying different climbing routes, [Q40(persevearing)] without any progress. It was clear that the time I had invested [Q41(are)] not enough to improve my skills.",
+          "The excitement I once felt [Q42(begin)] to fade. I found myself stuck, unable to move forward while others seemed to be making [Q43(kontinueus)] progress. [Q44(Ocasionaly)] , I would think back to when I first started and feel frustrated that I had not improved. I realised I had [Q45(becoming)] too focused on mastering the activity rather than enjoying it for the experience. Now, I am just trying to have fun."
+        ],
+        "zh": [
+          "前几天，我正在房间里四处看。角落积灰的攀岩鞋吸引了我的注意。两年前朋友把抱石介绍给我后，我开始对它感兴趣。登顶时的兴奋让我一直投入，但过了一段时间我停滞不前。尽管我很努力，仍无法突破某个水平；我花了很多时间尝试不同路线，坚持练习却毫无进展。显然，我投入的时间还不足以提升技能。",
+          "我曾经感受到的兴奋开始逐渐消退。我发现自己卡住无法前进，而他人似乎一直在持续进步。偶尔我会回想刚开始时的自己，因没有进步而沮丧。我意识到自己过于专注于掌握技巧，而不是享受过程。现在我只是在努力玩得开心。"
+        ]
+      },
+      "answers": {
+        "36": {
+          "concept": "Verb tense",
+          "note": "\"My climbing shoes … <span class=\"hl-bad\">catching</span> my attention\" needs a <strong>past-simple main verb</strong> to match the narrative (\"I was looking…\", \"Two years ago, I became…\") → <span class=\"hl-good\">caught</span>.",
+          "answer": "caught"
+        },
+        "37": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">intrested</span> → <span class=\"hl-good\">interested</span>. Add the missing <em>e</em>.",
+          "answer": "interested"
+        },
+        "38": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">exileration</span> → <span class=\"hl-good\">exhilaration</span> (noun for the feeling of intense excitement). Note the silent <em>h</em> after the <em>x</em>.",
+          "answer": "exhilaration"
+        },
+        "39": {
+          "concept": "Connector — contrast",
+          "note": "The hard work <strong>did not</strong> lead to progress — that is a contrast. <span class=\"hl-bad\">With</span> suggests companionship; we need <span class=\"hl-good\">Despite</span> (= in spite of).",
+          "answer": "Despite"
+        },
+        "40": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">persevearing</span> → <span class=\"hl-good\">persevering</span> (verb <em>persevere</em> + <em>-ing</em>; drop the silent <em>e</em>).",
+          "answer": "persevering"
+        },
+        "41": {
+          "concept": "Subject-verb agreement",
+          "note": "Subject = <code>the time I had invested</code> (singular, uncountable noun <em>time</em>) → singular verb <span class=\"hl-good\">was</span>. <small>The school’s mark-scheme writes \"singular\" as a marking note; the actual word is <strong>was</strong>.</small>",
+          "answer": "was"
+        },
+        "42": {
+          "concept": "Verb tense",
+          "note": "Past simple to fit the narrative (\"I once felt\", \"I found myself\") → <span class=\"hl-good\">began</span>. <span class=\"hl-bad\">begin</span> is present.",
+          "answer": "began"
+        },
+        "43": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">kontinueus</span> → <span class=\"hl-good\">continuous</span>. English never starts with the spelling <em>k-on-</em> for this word.",
+          "answer": "continuous"
+        },
+        "44": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">Ocasionaly</span> → <span class=\"hl-good\">Occasionally</span> — <em>double c, double l</em>.",
+          "answer": "Occasionally"
+        },
+        "45": {
+          "concept": "Past participle",
+          "note": "After <code>had</code> we need a <strong>past participle</strong>. The past participle of <em>become</em> is <span class=\"hl-good\">become</span> (same as base form). <span class=\"hl-bad\">becoming</span> is the <em>-ing</em> form.",
+          "answer": "become"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "E-payment is becoming increasingly common in schools across Singapore, with over 230 000 pupils using such a system to buy their food and drinks. This system has helped speed up transactions. This [Q46] down queueing time at stalls during recess. During a short 30-minute recess, pupils can now make quick payments by tapping their smartcards against the payment terminal. This makes it faster for pupils to purchase their meals as [Q47] to cash transactions, which require counting and giving change. In addition, faster transactions give pupils more time to eat and socialise [Q48] also minimising congestion at stalls.",
+          "Canteen vendors also [Q49] from e-payments. Since most meals are sold within the first 10 minutes of recess, digital transactions help them [Q50] more pupils efficiently. Instead of just selecting from a set menu, pupils get to customise their meals according to their specific preferences. For [Q51], a pupil might choose to add extra toppings or opt for a different type of bread. Vendors can immediately input the pupils' unique meal choices and the total price is calculated instantly, removing the need [Q52] manual calculations, which would otherwise be time-consuming and prone to error.",
+          "The move towards e-payments is [Q53] of the POSB Smart Buddy programme, first launched in 2017 in 19 primary schools. It then expanded in 2022 [Q54] of a partnership between the Ministry of Education (MOE) and POSB, aiming to reach all primary schools by 2025. Many schools have already implemented the system with ongoing [Q55] to extend it further.",
+          "Besides the Smart Buddy system, pupils can use school smartcards or EZ-link cards to pay for their meals. This integration allows them to track their transport and meal [Q56] through detailed transaction records. This helps them monitor their spending habits and makes it easier to use one card for both travel and food.",
+          "However, there are challenges. Vendors may [Q57] delays in receiving payments, affecting their money [Q58] hand. Additionally, some pupils may overspend [Q59] in the week when their cards are topped up and have little left for the remaining days. To address this [Q60], POSB is offering lessons on managing money to thousands of primary and pre-school pupils. The adoption of e-payments in schools continues to grow as schools recognise the benefits of digital payments, supporting the shift towards a cashless society."
+        ],
+        "zh": [
+          "电子付款在新加坡各校日益普及，逾二十三万学生凭系统购买饮食；系统加快交易，从而缩短小食部午休排队时间。三十分钟午休里，学生轻触付款终端即可结账；相对要数钱、找零的现金交易，电子支付让买饭更快。此外，交易加快让学生有更多时间吃饭、社交，同时减轻档口拥挤。",
+          "食堂摊主也从电子付款中受益。多数餐食在午休首十分钟售出，数码交易帮助他们更有效率地服务更多学生。学生可依喜好定制餐点，而非只选固定套餐。举例来说，可加配料或换面包种类；摊主能马上输入个性化订单并即时算出总价，省去手工计算——既费时又易错。",
+          "校园推行电子付款是星展银行'小Buddy'计划的一部分；该计划于2017年在19所小学启动，2022年因教育部与星展银行合作而扩大，目标2025年覆盖所有小学。许多学校已落实该系统，并持续推进以更广泛推行。",
+          "除 Smart Buddy 外，学生还可用校园智能卡或易通卡付餐费。系统整合让他们透过明细交易记录追踪交通与餐饮开支，有助于检视消费习惯，一张卡即可兼顾乘车与用餐。",
+          "然而亦有挑战：摊主可能遭遇收款延迟，影响手头流动资金；有些学生在充值当周较早几天就超支，后几天所剩无几。为应对这一问题，星展银行为成千上万小学及学龄前儿童开设理财课。随着各校认识数码支付的好处，校园电子付款日益普及，也推动社会迈向少现金时代。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "主谓一致与短语动词",
+          "note": "主语为指示代词 This（指代上文系统加快交易）。与后面的 down 组合，填入动词单三形式 cuts，构成高频短语 cuts down（缩短/减少）排队时间。填入 brings 或 slows 亦可构成同义搭配。",
+          "answer": "cuts/brings/slows"
+        },
+        "47": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合英语中表示对比的经典固定句式 as compared to...（与……相比），用以指出电子支付比起繁琐的现金交易速度更快。若填入 opposed 构成 as opposed to 亦符合语意与搭配。",
+          "answer": "compared/opposed"
+        },
+        "48": {
+          "concept": "并列连词/时间副词",
+          "note": "前半句写学生有更多时间吃饭社交，后半句 minimising 为并列的益处。填入连词 while 意为“在……的同时还”；填入并列连词 and 或副词 thereby 表达“从而/以此”减轻拥挤同样通顺。",
+          "answer": "while/and/thereby"
+        },
+        "49": {
+          "concept": "主谓一致与动词搭配",
+          "note": "主语为复数名词 Canteen vendors（食堂摊主），谓语动词用原形。后面紧跟介词 from，构成固定搭配 benefit from 或 profit from，表示从电子支付中“受益”。",
+          "answer": "benefit/profit"
+        },
+        "50": {
+          "concept": "动词与场景搭配",
+          "note": "help them do sth 结构中需填入动词原形。在食堂买饭的特定场景下，指数字交易能帮助摊主更高效地“服务”、“接待”或“应付”更多的学生（serve / attend / manage / handle）。",
+          "answer": "serve/attend/manage/handle"
+        },
+        "51": {
+          "concept": "篇章标记语/固定搭配",
+          "note": "下文具体列举了加配料、换面包等定制膳食的举动，是典型的例证。填入名词 example 或 instance 构成经典固定短语 For example 或 For instance（例如）。",
+          "answer": "example/instance"
+        },
+        "52": {
+          "concept": "介词搭配",
+          "note": "名词 need 与介词的固定搭配。表示系统能自动计算，从而省去了对手工计算的“需求”，构成 removing the need for... 结构。",
+          "answer": "for"
+        },
+        "53": {
+          "concept": "名词语意修饰",
+          "note": "指推行电子付款是该智能伙伴计划的“一部分”或“延伸”，填入名词 part 或 extension，与后文的 of the programme 完美搭配。",
+          "answer": "part/extension"
+        },
+        "54": {
+          "concept": "复合介词原因表达",
+          "note": "后文 of a partnership 为名词短语，空格处与 of 组合。填入 because 构成 because of（因为/由于）来解释计划得以扩展的原因；填入 result 构成 as a result of（由于……的结果）亦完美契合。",
+          "answer": "because/result"
+        },
+        "55": {
+          "concept": "名词语意辨析",
+          "note": "与形容词 ongoing（正在进行的）搭配。指学校在推行该系统时，目前仍有持续的“计划”、“努力”或“尝试”将其进一步推广（plans / efforts / attempts）。",
+          "answer": "plans/efforts/attempts"
+        },
+        "56": {
+          "concept": "名词词义与呼应",
+          "note": "与后文 monitor spending habits（监控消费习惯）形成语意上的呼应，指学生能通过交易记录追踪交通与用餐的“开支”、“花费”或“习惯”（expenses / spending / costs / habits）。",
+          "answer": "expenses/spending/costs/habits"
+        },
+        "57": {
+          "concept": "动词搭配与主谓一致",
+          "note": "情态动词 may 后面接动词原形。用来形容摊主在收款时可能会“遭遇”、“面临”或“遇到”延迟的情况（experience / face / encounter / meet）。",
+          "answer": "experience/face/encounter/meet"
+        },
+        "58": {
+          "concept": "介词固定习惯短语",
+          "note": "属于高频固定习语搭配，money at hand、money on hand 或者是名词短语 cash flow，皆能精准表达摊主“手头”可用或现存的流动资金不受影响。",
+          "answer": "at/on/flow"
+        },
+        "59": {
+          "concept": "时间比较级/副词",
+          "note": "修饰时间状语 in the week。结合后文“导致后几天没钱”，说明学生们往往在刚充值完的一周“初期”或“较早”的几天里就过度消费，故用比较级 earlier 或是副词 early。",
+          "answer": "earlier/early"
+        },
+        "60": {
+          "concept": "名词语境承接",
+          "note": "指示代词 this 后面接单数名词。用来指代上文提到的学生卡刚充值就超支的这一“问题”、“现象”或“挑战”（issue / problem / challenge / matter）。",
+          "answer": "issue/problem/challenge/matter"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "Mrs Ramu invited the musician to perform. His song became a hit.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mrs Ramu invited the musician whose __________ ."
+        },
+        "62": {
+          "stem_plain": "The famous chef has created a special dish for the event.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "A special dish __________ ."
+        },
+        "63": {
+          "stem_plain": "\"Did you already write your goals down?\" Coach Lim asked his team.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Coach Lim asked his team __________ ."
+        },
+        "64": {
+          "stem_plain": "Ravi could not decide so his teacher scolded him.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ for his __________ ."
+        },
+        "65": {
+          "stem_plain": "She worked hard to pursue her dream of becoming a doctor.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "In the __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "61": {
+          "concept": "物主关系代词 — Relative clause",
+          "zh": "Ramu 太太邀请了那位歌曲走红的音乐家。",
+          "note": "用 <code>whose</code> 把“the musician”和“his song”合并，表示“这位音乐家的歌”。",
+          "answer": "Mrs Ramu invited the musician whose song became a hit."
+        },
+        "62": {
+          "concept": "被动语态 — Active → passive voice",
+          "zh": "一道特别菜肴已经由那位著名厨师为这个活动创作出来了。",
+          "note": "主动句变被动句：原来的宾语 <em>a special dish</em> 变成主语，<code>has created</code> 变成 <code>has been created</code>。",
+          "answer": "A special dish has been created for the event by the famous chef."
+        },
+        "63": {
+          "concept": "间接引语 — Reported speech (yes/no question)",
+          "zh": "Lim 教练问他的队员们是否已经把他们的目标写下来了。",
+          "note": "Yes/No question 改间接引语时用 <code>if / whether</code>；时态后移，<code>did write</code> 变成 <code>had written</code>。",
+          "answer": "Coach Lim asked his team if they had already written their goals down."
+        },
+        "64": {
+          "concept": "动词变名词 — Nominalisation",
+          "zh": "Ravi 的老师因为他的犹豫不决而责骂了他。",
+          "note": "把 <em>could not decide</em> 转成名词 <code>indecision</code>，搭配 <code>scold someone for + noun</code>。",
+          "answer": "Ravi’s teacher scolded him for his indecision."
+        },
+        "65": {
+          "concept": "名词化 — Verb nominalisation（pursuit 等）",
+          "zh": "为了追求自己的梦想，她努力学习/工作，想成为一名医生。",
+          "note": "<code>pursue</code> 变成名词 <code>pursuit</code>，用介词短语 <code>In the pursuit of her dream</code> 开头。",
+          "answer": "In the pursuit of her dream, she worked hard to become a doctor."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "Based on lines 1 – 10, pick out two separate phrases to show the characters' feelings and explain why they felt that way.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "Three-word phrase that shows Jared felt **bored**",
+                "[Q66a]",
+                "Five-word phrase that shows Grandpa felt **happy**",
+                "[Q66c]"
+              ]
+            },
+            "col_2": {
+              "header": "",
+              "rows": [
+                "Reason for Jared's feeling",
+                "[Q66b]",
+                "Reason for Grandpa's feeling",
+                "[Q66d]"
+              ]
+            }
+          }
+        },
+        "67": {
+          "stem_plain": "\"Ugh, why are you still working at your age? You're seventy-two!\" (line 6). Circle one word that best describes the tone Jared used in line 6. **DO NOT CIRCLE MORE THAN ONE WORD.**",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "casual",
+            "disapproving",
+            "comforting",
+            "persuasive"
+          ]
+        },
+        "68": {
+          "stem_plain": "What does the term **'Ah Gong'** (line 10) suggest about how the customers viewed Jared's grandfather?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "69": {
+          "stem_plain": "Based on the third paragraph, explain clearly what Grandpa meant by **'There are things books do not teach.'** (line 12)",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "70": {
+          "stem_plain": "Explain clearly why Jared was **'puzzled'** when Grandpa said, **'There are things books do not teach.'** (line 12)",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "71": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Words from the passage",
+              "rows": [
+                "(a) **small things** (line 15)",
+                "(b) **all this chatting** (line 26)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the words refer to",
+              "rows": [
+                "[Q71a]",
+                "[Q71b]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "Based on lines 19 – 23, state whether each statement in the table below is **true** or **false**, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Grandpa was familiar with his regular customers' preferences.",
+                "(b) Grandpa only helped customers when they asked for assistance."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q72a]",
+                "[Q72c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q72b]",
+                "[Q72d]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "**[3m]**",
+          "marks": 3,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "From lines 24 to 32, state the two reasons why Grandpa continued working at his stall for thirty years. **[2m]** [Q73a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "**'Tiredness goes away. But the will to keep going, bowl after bowl, stays.'** (line 32). What personal quality of Grandpa's is revealed through this statement? **[1m]** [Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Which two words from lines 33 – 35 signal a change in how Jared viewed his grandfather's work? Each word is found in a separate sentence.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "How Jared viewed his grandfather's work **before** [Q74a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "How Jared viewed his grandfather's work **after** [Q74b]"
+            }
+          ]
+        },
+        "75": {
+          "stem_plain": "Based on the last paragraph, what had Jared learnt from his grandfather?",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Jared slouched, eyes glazed over, fanning himself with a napkin. The hawker centre was",
+          "2": "noisy and the long queue in front of his grandfather's noodle stall did not help. Jared sighed.",
+          "3": "His idea of a perfect school holiday involved gaming, not sitting in a humid hawker centre at",
+          "4": "nine o'clock in the morning watching old men cook. He glanced at his phone. 'No signal.",
+          "5": "Great,' he thought.",
+          "6": "\"Ugh, why are you still working at your age? You're seventy-two!\" Jared",
+          "7": "grumbled, rolling his eyes. Grandpa stirred the broth steadily, steam rising around him like a",
+          "8": "warm mist. His hands moved quickly — pouring soup, adding toppings, passing bowls to",
+          "9": "customers with a nod. Nothing brought him more fulfilment than serving the regulars who had",
+          "10": "eaten at his stall for years. Some customers even called him 'Ah Gong'* with affection.",
+          "11": "\"Sit there and observe, boy,\" Grandpa had said when Jared arrived that morning.",
+          "12": "\"There are things books do not teach.\" Puzzled, Jared furrowed his eyebrows. He watched",
+          "13": "as Grandpa moved with a quiet purpose, wondering what exactly he was supposed to be",
+          "14": "learning. To him, it just looked like hard, sweaty work. As the morning wore on, Jared began",
+          "15": "to notice **small things**. Grandpa knew every customer's name. He would call out 'Good",
+          "16": "morning, Uncle Chen' or 'Hello Sarah from 4B', remembering not just their names but also",
+          "17": "little details about who they were. It soon became apparent to Jared that only by spending",
+          "18": "time at the stall could one understand what it truly meant to serve others.",
+          "19": "What impressed Jared even more was Grandpa's memory at seventy-two. Before",
+          "20": "customers could even order, he was already preparing their bowls — extra fishcakes for one,",
+          "21": "no spring onions for another, less salt for the third. His kindness showed in other ways too.",
+          "22": "When a child dropped his spoon, Grandpa quietly handed him a new one without being asked.",
+          "23": "When an old lady struggled with her tray, he came around and helped her carry it to her table.",
+          "24": "Jared also noticed how Grandpa never rushed. Even with the long queue, he smiled at",
+          "25": "each customer and even stopped to ask about their families and share stories from the old",
+          "26": "days. \"Does **all this chatting** with customers not make you tired?\" Jared finally asked during",
+          "27": "a short break, wiping sweat from his brow. Grandpa chuckled. \"Of course I am tired. This stall",
+          "28": "has been here for thirty years now. Without it, I could never have paid for your father's",
+          "29": "education. The stall helped me put him through school.\" He paused to serve another bowl of",
+          "30": "noodles before continuing, \"When I see elderly folks who might not get a proper meal for the",
+          "31": "day, I know why I must continue. I sell my food at a cheaper rate so they can afford to eat",
+          "32": "here. Tiredness goes away. But the will to keep going, bowl after bowl, stays.\"",
+          "33": "Jared was quiet. He had regarded his grandfather's job as mundane noodle-making.",
+          "34": "But watching him today, Jared saw how Grandpa served each bowl with care. What he had",
+          "35": "thought was just cooking turned out to be remarkable work.",
+          "36": "\"Why do you do all this, Grandpa? You should enjoy life in your old age!\" Jared asked",
+          "37": "as they cleaned up. Grandpa wiped his hands and looked at him. \"People remember how you",
+          "38": "make them feel, not how well you play your mobile game. In fact, I enjoy spending my time",
+          "39": "this way.\" Jared gave a small laugh. Between staring at screens and making someone smile,",
+          "40": "he now knew which one counted more."
+        },
+        "paragraphs": {
+          "1": "Jared懒洋洋地靠着，两眼发直，用手帕扇风。熟食中心很嘈杂，爷爷面摊前那长长的队伍更让他心烦。Jared叹了口气。他心目中完美的学校假期应该是打游戏，而不是大清早九点坐在闷热的熟食中心里看老人们做饭。他瞥了一眼手机。“没信号。太好了。”他想。",
+          "6": "“呃，你这个年纪怎么还在做工？你都七十二岁了！”Jared翻着白眼抱怨道。爷爷稳稳地搅着汤底，蒸汽像温暖的雾一样缭绕在他身边。他的双手动作很快——舀汤、加配料，点头把碗递给顾客。没有什么比服务那些在他摊口吃了很多年的老顾客更能让他满足了。有些顾客甚至亲昵地喊他“阿公”*。",
+          "11": "“就坐在那儿观察，孩子，”那天早上Jared刚到时爷爷说过。“有些事书本是教不会的。”Jared困惑地皱起眉头。他看着爷爷带着沉静的目标感忙碌，纳闷自己到底该学什么。在他看来，那不过是又苦又累的体力活。随着上午过去，Jared开始注意到小细节。爷爷认得每位顾客的名字。他会喊“早安，陈叔叔”或“你好，4B班的Sarah”，不只记得名字，还记得关于他们的一些小事。Jared很快就明白，唯有在摊位上花时间，才能真正懂得“服务他人”意味着什么。",
+          "19": "更让Jared印象深刻的是爷爷七十二岁仍过人的记忆力。顾客还没开口点餐，他已经在备碗了——给这位多加鱼糕，给那位不要葱，给第三位少放盐。他的善意还体现在其他方面。有个孩子勺子掉了，爷爷没人开口就悄悄递上一把新的。有位老太太端不动托盘，他绕出来帮她端到桌边。",
+          "24": "Jared还注意到爷爷从不急躁。即使队伍很长，他仍对每位顾客微笑，甚至停下来问他们家里近况，聊聊往事。短暂休息擦汗时，Jared终于问：“跟顾客聊这么多不会累吗？”爷爷轻声笑着说：“当然累。这个摊在这里已经三十年了。没有它，我供不起你爸爸读书。这个摊供他完成了学业。”他舀好另一碗面，接着说：“当我看到可能一整天吃不上像样饭的老人，我就知道为什么必须继续做下去。我把食物卖得便宜些，让他们吃得起。累会过去，但一碗接一碗坚持下去的意志还在。”",
+          "33": "Jared沉默了。他一直把爷爷的工作看成平淡无奇的面条活计。但今天亲眼看着，Jared看见爷爷如何用心端出每一碗面。他曾以为只是做饭，结果发现那是一份了不起的工作。",
+          "36": "“爷爷，你为什么做这一切？你该在晚年好好享清福啊！”他们收拾摊位时Jared问道。爷爷擦了擦手，看着他。“人们记得的是你带给他们的感受，不是你手游打得有多好。事实上，我就喜欢这样过日子。”Jared轻轻笑了一声。在盯着屏幕与让人微笑之间，他现在知道哪一种更重要。"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>题型：</strong>文中信息归纳表——按表四格分别写<strong>短语 / 原因</strong>，范围 <em>lines 1–10</em>。</li><li><strong>(a)(b) 词数：</strong>Jared <em>bored</em> 须<strong>恰好三个词</strong>；Grandpa <em>happy</em> 须<strong>恰好五个词</strong>（校答 <em>Nothing brought him more fulfilment</em> 计为 5）。</li><li><strong>证据：</strong>(a) 行 1 <em>eyes glazed over</em> 表无精打采；(c) 行 9 <em>Nothing brought him more fulfilment</em> 表满足。</li><li><strong>原因：</strong>(b) 须点出闷热摊位、不能打游戏等与 <em>perfect holiday</em> 对比；(d) 须写服务常客多年、从服务中获得满足。</li><li><strong>失分：</strong>词数不符、短语不在指定行、原因脱离原文。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "66a": "\"eyes glazed over\" (line 1)",
+            "66b": "Jared was bored because he had to sit in a hot, humid hawker centre instead of gaming, which was his idea of a perfect holiday.",
+            "66c": "\"Nothing brought him more fulfilment\" (line 9)",
+            "66d": "Grandpa was happy / fulfilled because he enjoyed serving his regular customers who had eaten at his stall for years."
+          }
+        },
+        "67": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>题型：</strong>圈选语气词——行 6 Jared 对爷爷仍摆摊的反应。</li><li><strong>语气线索：</strong><em>Ugh</em>、<em>still working at your age</em>、<em>You're seventy-two</em> 带<strong>不满与质疑</strong>，非安慰或随意闲聊。</li><li><strong>选项：</strong><span class=\"hl-good\">disapproving</span>（不赞成）最贴合；<span class=\"hl-bad\">casual</span> 与抱怨语气不符；<span class=\"hl-bad\">comforting</span> 相反；<span class=\"hl-bad\">persuasive</span> 无说服意图。</li><li><strong>书写：</strong>只能圈一个词，多圈可能判错。</li></ol>",
+          "answer": [
+            "disapproving"
+          ],
+          "type": "comprehension"
+        },
+        "68": {
+          "concept": "含义推断题",
+          "note": "<ol><li><strong>题型：</strong>含义推断题——说明顾客用 <em>Ah Gong</em> 称呼爷爷时传递的态度。</li><li><strong>语境：</strong>行 10 <em>called him 'Ah Gong' with affection</em>，与脚注（福建话“爷爷”）呼应。</li><li><strong>作答要点：</strong>须点出<strong>亲情化称呼</strong>：像自家爷爷一样亲近，含 <em>affection</em>、<em>warmth</em>、<em>respect</em> / 家人感。</li><li><strong>失分：</strong>只写“喜欢他”而未扣住“当作爷爷般看待”的称谓含义。</li></ol>",
+          "answer": [
+            "The customers viewed Jared’s grandfather as their own grandfather, with affection, warmth and respect — like a family member."
+          ],
+          "type": "comprehension"
+        },
+        "69": {
+          "concept": "短语/句子释义",
+          "note": "<ol><li><strong>题型：</strong>句子释义——解释第三段爷爷话里 <em>There are things books do not teach</em> 的所指。</li><li><strong>范围：</strong>第三段（约行 11–14）：爷爷让 Jared 坐下观察，随后写 Jared 的困惑与“像苦力活”的感受，为后文“在摊位上学服务”埋伏笔。</li><li><strong>得分两层：</strong>（1）书本教不会的是<strong>待人、服务、体察他人</strong>等价值与态度；（2）真正学会要靠<strong>在场观察、真实互动</strong>（后文行 17–18 <em>only by spending time at the stall</em> 与之呼应，可并入作答）。</li><li><strong>失分：</strong>只复述句子不解释“教不会什么 / 该去哪学”。</li></ol>",
+          "answer": [
+            "Grandpa meant that books cannot teach the values of serving others — kindness, attentiveness and human connection. One can only learn what it truly means to serve people by spending time at the stall and observing real interactions."
+          ],
+          "type": "comprehension"
+        },
+        "70": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——说明 Jared 听到 <em>There are things books do not teach</em> 后为何 <em>puzzled</em>。</li><li><strong>关键词：</strong><em>puzzled</em>、<em>what … learning</em>，须写清“不懂要学什么”。</li><li><strong>证据：</strong>行 13 <em>wondering what exactly he was supposed to be learning</em>；行 14 <em>it just looked like hard, sweaty work</em>——把观察摊位理解成体力活而非“功课”。</li><li><strong>书写：</strong>因果连起来一句即可；勿脱离行 12–14。</li></ol>",
+          "answer": [
+            "Jared was puzzled because the work just <strong>looked like hard, sweaty work</strong> and he could not understand what exactly he was supposed to be learning by sitting and watching old men cook noodles."
+          ],
+          "type": "comprehension"
+        },
+        "71": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——说明短语在上下文中的<strong>具体所指</strong>，须举例，忌空泛。</li><li><strong>(a) small things（行 15–17）：</strong>回指爷爷记得每位顾客姓名及<strong>身份细节</strong>，文中举例 <em>Uncle Chen</em>、<em>Sarah from 4B</em>，应写进答案。</li><li><strong>(b) all this chatting（行 25–26）：</strong>指爷爷与顾客<strong>拉家常</strong>——问家庭近况、聊往日故事，与后文 Jared 问“聊天是否累”呼应。</li><li><strong>失分：</strong>只写“互动”“聊天”而无文中行为；两问混淆。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "Grandpa remembering each customer's name and the little details about who they were (e.g. 'Uncle Chen', 'Sarah from 4B').",
+            "71b": "Grandpa asking customers about their families and sharing stories from the old days."
+          }
+        },
+        "72": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据；范围 <em>lines 19–23</em>。</li><li><strong>(a) True：</strong>行 19–21 写爷爷在顾客开口前已在备餐——<em>extra fishcakes for one, no spring onions for another, less salt for the third</em>，说明熟悉常客喜好。</li><li><strong>(b) False：</strong>题干 <em>only … when they asked</em> 与原文相反；行 22–23 写他<strong>未经请求</strong>递上新勺、帮老妇人端托盘。</li><li><strong>失分：</strong>只写 True/False 未给依据，或依据超出 19–23。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "True",
+            "72b": "He knew what they wanted before they ordered — extra fishcakes for one, no spring onions for another, less salt for the third",
+            "72c": "False",
+            "72d": "He helped without being asked — e.g. handing a child a new spoon when it was dropped, and helping an old lady carry her tray"
+          }
+        },
+        "73": {
+          "concept": "分问综合简答",
+          "note": "<ol><li><strong>题型：</strong>分问综合简答——(a) 行 24–32 写出<strong>两个不同</strong>原因（共 2 分）；(b) 一句引语判断品质（1 分）。</li><li><strong>(a) 依据：</strong>行 28–29 <em>Without it, I could never have paid for your father's education … put him through school</em>；行 30–32 <em>elderly folks … proper meal … sell my food at a cheaper rate</em>。</li><li><strong>(b) 依据：</strong>引语中 <em>the will to keep going, bowl after bowl, stays</em> → <strong>perseverance</strong>（determination / dedication 亦可）。</li><li><strong>失分：</strong>(a) 两点重复只算一点；(b) 未扣住“坚持/意志”而空泛写 kind。</li></ol>",
+          "answer": {
+            "73a": "(a) The stall helped him pay for / put his son (Jared’s father) through school. He wanted to sell food at a cheaper rate so that elderly folks who might not get a proper meal could afford to eat there.",
+            "73b": "(b) Perseverance (also: determination / dedication)."
+          }
+        },
+        "74": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句题——在 <em>lines 33–35</em> 各找一词，体现 Jared 对爷爷工作看法的<strong>前后转变</strong>。</li><li><strong>定位：</strong>行 33 <em>He had regarded his grandfather's job as <strong>mundane</strong> noodle-making</em>；行 35 <em>turned out to be <strong>remarkable</strong> work</em>；两词分属两句，符合题干。</li><li><strong>词义：</strong><em>mundane</em> 表平凡、不足为奇；<em>remarkable</em> 表了不起、值得敬佩，形成对比。</li><li><strong>失分：</strong>两词若出自同一句、或抄错行号范围外的词，均不符合题意。</li></ol>",
+          "answer": {
+            "74a": "mundane (line 33)",
+            "74b": "remarkable (line 35)"
+          }
+        },
+        "75": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>阅读理解简答题——据<strong>最后一段</strong>概括 Jared 的收获。</li><li><strong>范围：</strong>约行 36–40：爷爷关于“人们记得你如何让他们感受”的教导，与末句屏幕与微笑对比。</li><li><strong>核心句：</strong>行 37–38 <em>People remember how you make them feel, not how well you play your mobile game</em>；行 39–40 <em>Between staring at screens and making someone smile … which one counted more</em>。</li><li><strong>作答要点：</strong>须同时写到<strong>人际温度/让人微笑</strong>与<strong>少沉迷屏幕</strong>两层；可并写 <em>People remember how you make them feel</em> 作收束。</li><li><strong>失分：</strong>只写“要孝顺”而未扣原文对比。</li></ol>",
+          "answer": [
+            "Jared learnt that what truly counts is making someone smile / making people feel cared for, rather than staring at screens or playing mobile games. People remember how you make them feel."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

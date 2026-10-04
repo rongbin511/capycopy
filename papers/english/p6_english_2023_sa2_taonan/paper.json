@@ -1,0 +1,1586 @@
+{
+  "paperid": "p6_english_2023_sa2_taonan",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Raju’s mother insisted that he _________ the truth or face the music.",
+          "options": {
+            "1": "tell",
+            "2": "told",
+            "3": "tells",
+            "4": "telling"
+          }
+        },
+        "2": {
+          "stem_plain": "“Emily gave up playing the piano just as I said she would, _________?” asked Ruby.",
+          "options": {
+            "1": "did she",
+            "2": "didn’t she",
+            "3": "would she",
+            "4": "wouldn’t she"
+          }
+        },
+        "3": {
+          "stem_plain": "If I _________ it was your birthday, I would have brought you a gift.",
+          "options": {
+            "1": "know",
+            "2": "knew",
+            "3": "had known",
+            "4": "have known"
+          }
+        },
+        "4": {
+          "stem_plain": "“Most visitors choose to travel _________ bicycle. Of course, there are some who love to walk instead,” said the tour guide.",
+          "options": {
+            "1": "on",
+            "2": "by",
+            "3": "with",
+            "4": "about"
+          }
+        },
+        "5": {
+          "stem_plain": "I had _________ choice but to complete my homework before playing with my little brother.",
+          "options": {
+            "1": "few",
+            "2": "less",
+            "3": "little",
+            "4": "some"
+          }
+        },
+        "6": {
+          "stem_plain": "“Using electronic devices for a prolonged period of time _________ bad for our eyes,” our teacher reminded us.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "The team faced a myriad of hurdles. _________ the members persevered and emerged victorious.",
+          "options": {
+            "1": "Besides",
+            "2": "Moreover",
+            "3": "Furthermore",
+            "4": "Nevertheless"
+          }
+        },
+        "8": {
+          "stem_plain": "All the sports equipment _________ moved to the storeroom and now the room is bare and spacious.",
+          "options": {
+            "1": "is being",
+            "2": "has been",
+            "3": "are being",
+            "4": "have been"
+          }
+        },
+        "9": {
+          "stem_plain": "Marie _________ for her studies in Australia. I have not kept in touch with her since then.",
+          "options": {
+            "1": "left",
+            "2": "leaves",
+            "3": "has left",
+            "4": "had left"
+          }
+        },
+        "10": {
+          "stem_plain": "We are looking forward to _________ on a learning journey at the Science Centre next month.",
+          "options": {
+            "1": "go",
+            "2": "going",
+            "3": "have gone",
+            "4": "having gone"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "Subjunctive / mandative after insist that",
+          "zh": "拉朱的母亲坚持要他讲出真相，否则就要承担后果。",
+          "note": "insist that 后接从句时，正式用法常用动词原形（虚拟语气 (Subjunctive)）；不用过去式 told 或三单 tells。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "Question tag — embedded prediction",
+          "zh": "“艾米丽果然像我说的那样放弃了钢琴，不是吗？”鲁比问。",
+          "note": "附加疑问 (Question tag) 针对主句 Emily gave up（一般过去时肯定），用 didn't she；不要误用 wouldn't she 去贴从句里的 would。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "Third conditional — if-clause",
+          "zh": "要是我早知道是你的生日，我就会给你带礼物了。",
+          "note": "第三条件句 (Third conditional)：从句用 had known，主句 would have brought。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "Preposition of means — travel by bicycle",
+          "zh": "大多数游客选择骑自行车出行。",
+          "note": "表示交通方式用介词 by（by bicycle），不用 with/about。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "Fixed phrase — little choice but to",
+          "zh": "我别无选择，只能先做完作业再和弟弟玩。",
+          "note": "固定搭配 have little choice but to（不得不）。few 修饰可数复数；little 与不可数/抽象 choice 搭配。",
+          "answer": "3"
+        },
+        "6": {
+          "concept": "Subject–verb agreement — gerund subject",
+          "zh": "长时间使用电子设备对我们的眼睛有害。",
+          "note": "动名词短语作主语 (S)，谓语用单数 is；不用 are/were。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "Contrast connector — nevertheless",
+          "zh": "队里困难重重；尽管如此，队员们坚持训练并最终获胜。",
+          "note": "Nevertheless 表转折（尽管如此）。Besides/Moreover/Furthermore 表递进，不合句意。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "Present perfect passive — collective noun equipment",
+          "zh": "所有运动器材已被搬到储藏室，现在房间又空又宽敞。",
+          "note": "equipment 作不可数/集合名词，谓语用单数；完成时 has been 表示已搬完且影响到现在。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "Past perfect — sequence before since then",
+          "zh": "玛丽那时已经去澳大利亚读书了；从那以后我就没和她联系过。",
+          "note": "since then 提示“更早的过去”用过去完成时 had left。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "Gerund after phrasal preposition — look forward to",
+          "zh": "我们盼着下个月去科学中心研学。",
+          "note": "look forward to 中的 to 是介词，后接动名词 going。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The determined student was able to _________ the difficult concept and solve the challenging problem.",
+          "options": {
+            "1": "break in",
+            "2": "break up",
+            "3": "break off",
+            "4": "break through"
+          }
+        },
+        "12": {
+          "stem_plain": "With a well-established ferry network, many of the beautiful islands are now _________ to avid travellers.",
+          "options": {
+            "1": "catered",
+            "2": "available",
+            "3": "dedicated",
+            "4": "accessible"
+          }
+        },
+        "13": {
+          "stem_plain": "Stumped by the question, he paused _________ before answering it a few seconds late.",
+          "options": {
+            "1": "indefinitely",
+            "2": "temporarily",
+            "3": "momentarily",
+            "4": "intermittently"
+          }
+        },
+        "14": {
+          "stem_plain": "The widespread bushfires caused _________ damage to the forest, resulting in a great destruction of the flora and fauna.",
+          "options": {
+            "1": "irregular",
+            "2": "irreparable",
+            "3": "irreplaceable",
+            "4": "irredeemable"
+          }
+        },
+        "15": {
+          "stem_plain": "This marvellous painting is the perfect _________ to the furnishing and decoration of our new apartment.",
+          "options": {
+            "1": "conception",
+            "2": "compilation",
+            "3": "compliment",
+            "4": "complement"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "这名有毅力的学生终于弄懂了难点并解出了难题。",
+          "note": "选（4）break through：表示“突破难关”。其余三项为 break in / up / off，义为闯入、分手、中断，与题干不符。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "break in",
+              "zh": "闯入；打断",
+              "eg": "Thieves tried to <strong>break in</strong> through the kitchen window while the family was asleep."
+            },
+            {
+              "opt": "2",
+              "word": "break up",
+              "zh": "分手；拆散；打碎",
+              "eg": "The couple decided to <strong>break up</strong> after arguing about money for months."
+            },
+            {
+              "opt": "3",
+              "word": "break off",
+              "zh": "突然停止；折断",
+              "eg": "She <strong>broke off</strong> a piece of chocolate and shared it with her friend."
+            },
+            {
+              "opt": "4",
+              "word": "break through",
+              "zh": "突破；克服",
+              "eg": "The scientist finally <strong>broke through</strong> a difficult problem after weeks of experiments."
+            }
+          ]
+        },
+        "12": {
+          "zh": "渡轮网络完善后，许多美丽的岛屿对热衷旅行的人更易抵达。",
+          "note": "选（4）accessible：易到达。available 偏重“有没有”；catered 需搭配 to；dedicated 指专用或投入，不切题。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "catered",
+              "zh": "提供饮食服务；迎合",
+              "eg": "The hotel <strong>catered</strong> mainly to business travellers during the week."
+            },
+            {
+              "opt": "2",
+              "word": "available",
+              "zh": "可获得的；有空的",
+              "eg": "Tickets are still <strong>available</strong> at the box office until 6 p.m."
+            },
+            {
+              "opt": "3",
+              "word": "dedicated",
+              "zh": "专注的；专用的",
+              "eg": "She set up a <strong>dedicated</strong> study corner in her room with a bright lamp."
+            },
+            {
+              "opt": "4",
+              "word": "accessible",
+              "zh": "易到达的；易使用的",
+              "eg": "With the new ferry route, the islands are more <strong>accessible</strong> to tourists."
+            }
+          ]
+        },
+        "13": {
+          "zh": "他被问题难住，只顿了一下就回答，但晚了几秒。",
+          "note": "选（3）momentarily：片刻、很短时间。indefinitely 太久；temporarily 偏“暂时状态”；intermittently 为断断续续。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "indefinitely",
+              "zh": "无限期地",
+              "eg": "The meeting was postponed <strong>indefinitely</strong> because of the storm warning."
+            },
+            {
+              "opt": "2",
+              "word": "temporarily",
+              "zh": "暂时地",
+              "eg": "The website is <strong>temporarily</strong> closed for maintenance this afternoon."
+            },
+            {
+              "opt": "3",
+              "word": "momentarily",
+              "zh": "片刻地；马上（美式）",
+              "eg": "He paused <strong>momentarily</strong> before giving his answer."
+            },
+            {
+              "opt": "4",
+              "word": "intermittently",
+              "zh": "间歇地",
+              "eg": "Rain fell <strong>intermittently</strong> throughout the hike, so we kept our raincoats ready."
+            }
+          ]
+        },
+        "14": {
+          "zh": "大面积林火对森林造成了无法修复的破坏。",
+          "note": "选（2）irreparable：无法修复的损失。irregular 指不规则；irreplaceable 常指物品不可替代；irredeemable 偏道德或希望。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "irregular",
+              "zh": "不规则的；不整齐的",
+              "eg": "The path had an <strong>irregular</strong> shape because roots had cracked the stones."
+            },
+            {
+              "opt": "2",
+              "word": "irreparable",
+              "zh": "不可修复的；无法弥补的",
+              "eg": "The fire caused <strong>irreparable</strong> damage to the historic library."
+            },
+            {
+              "opt": "3",
+              "word": "irreplaceable",
+              "zh": "不可替代的",
+              "eg": "The necklace was <strong>irreplaceable</strong> because it belonged to her grandmother."
+            },
+            {
+              "opt": "4",
+              "word": "irredeemable",
+              "zh": "无法挽救的；无法赎回的",
+              "eg": "His rude remarks seemed almost <strong>irredeemable</strong> until he apologised sincerely."
+            }
+          ]
+        },
+        "15": {
+          "zh": "这幅出色的画与新居的家具和装饰相得益彰。",
+          "note": "选（4）complement：补足、相配。compliment 为称赞；conception/compilation 与搭配不符。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "conception",
+              "zh": "概念；构想",
+              "eg": "The artist's <strong>conception</strong> of the mural changed several times during planning."
+            },
+            {
+              "opt": "2",
+              "word": "compilation",
+              "zh": "汇编；合集",
+              "eg": "The yearbook is a <strong>compilation</strong> of photos and messages from every class."
+            },
+            {
+              "opt": "3",
+              "word": "compliment",
+              "zh": "赞美；问候",
+              "eg": "She accepted the <strong>compliment</strong> about her speech with a shy smile."
+            },
+            {
+              "opt": "4",
+              "word": "complement",
+              "zh": "补充物；补足物",
+              "eg": "This cushion is the perfect <strong>complement</strong> to the grey sofa in your living room."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "enveloped",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "shaded",
+            "2": "covered",
+            "3": "enclosed",
+            "4": "surrounded"
+          }
+        },
+        "17": {
+          "stem_plain": "kaleidoscope",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "set",
+            "2": "burst",
+            "3": "pattern",
+            "4": "repertoire"
+          }
+        },
+        "18": {
+          "stem_plain": "meandering trail",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "winding path",
+            "2": "crooked road",
+            "3": "twisted course",
+            "4": "irregular passageway"
+          }
+        },
+        "19": {
+          "stem_plain": "array",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "batch",
+            "2": "display",
+            "3": "formation",
+            "4": "arrangement"
+          }
+        },
+        "20": {
+          "stem_plain": "beat",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "walking on air",
+            "2": "hanging in there",
+            "3": "running out of steam",
+            "4": "like a dog with two tails"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — enveloped（包围）",
+          "note": "“enveloped” 意为被完全包裹或笼罩。“surrounded”（被环绕的/被包围的）在描述空间、环境被某物围绕时含义最为接近。应选（4）。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "shaded",
+              "zh": "荫蔽的；有遮荫的",
+              "eg": "We rested in a shaded corner of the garden."
+            },
+            {
+              "opt": "2",
+              "word": "covered",
+              "zh": "覆盖的",
+              "eg": "The hills were covered in mist that morning."
+            },
+            {
+              "opt": "3",
+              "word": "enclosed",
+              "zh": "封闭的；围起来的",
+              "eg": "The courtyard is enclosed by a high brick wall."
+            },
+            {
+              "opt": "4",
+              "word": "surrounded",
+              "zh": "被环绕的",
+              "eg": "The cottage is surrounded by tall pine trees."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — kaleidoscope（万花筒般的色彩）",
+          "note": "“kaleidoscope” 比喻千变万化、色彩斑斓的丰富图案。在描述由枝叶与鲜花交织成的色彩组合时，“pattern”（图案/花样）能最形象地传达出那种斑斓的视觉效果。应选（3）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "set",
+              "zh": "一套；一组",
+              "eg": "She bought a set of watercolour paints."
+            },
+            {
+              "opt": "2",
+              "word": "burst",
+              "zh": "迸发；一阵",
+              "eg": "A burst of laughter filled the room."
+            },
+            {
+              "opt": "3",
+              "word": "pattern",
+              "zh": "图案；花样",
+              "eg": "The tiles formed a colourful pattern on the floor."
+            },
+            {
+              "opt": "4",
+              "word": "repertoire",
+              "zh": "全部曲目；全部技能",
+              "eg": "The pianist expanded her repertoire for the concert."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — meandering trail（蜿蜒小径）",
+          "note": "“meandering trail” 意为蜿蜒曲折的小路。“winding path” 同样精确表达曲折向前、弯弯绕绕的小径，属于完全契合的同义表达。应选（1）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "winding path",
+              "zh": "蜿蜒小径",
+              "eg": "We followed a winding path through the bamboo grove."
+            },
+            {
+              "opt": "2",
+              "word": "crooked road",
+              "zh": "弯曲的道路",
+              "eg": "The village lies at the end of a crooked road."
+            },
+            {
+              "opt": "3",
+              "word": "twisted course",
+              "zh": "曲折的路线",
+              "eg": "The river took a twisted course through the valley."
+            },
+            {
+              "opt": "4",
+              "word": "irregular passageway",
+              "zh": "不规则通道",
+              "eg": "They squeezed through an irregular passageway between the rocks."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — array（一大片；陈列）",
+          "note": "“array” 指一系列琳琅满目的陈列、展示。在描述花卉植物大面积呈现在眼前的上下文中，“display”（展示/陈列）与其语意和搭配最为贴合。应选（2）。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "batch",
+              "zh": "一批",
+              "eg": "The bakery baked a fresh batch of buns."
+            },
+            {
+              "opt": "2",
+              "word": "display",
+              "zh": "展示；陈列",
+              "eg": "The museum put on a stunning display of orchids."
+            },
+            {
+              "opt": "3",
+              "word": "formation",
+              "zh": "队形；形成",
+              "eg": "The planes flew in tight formation."
+            },
+            {
+              "opt": "4",
+              "word": "arrangement",
+              "zh": "排列；布置",
+              "eg": "She made a beautiful flower arrangement for the table."
+            }
+          ]
+        },
+        "20": {
+          "concept": "固定搭配 — beat（累坏了）",
+          "note": "“beat” 在口语和习语中常用来形容极其劳累、筋疲力尽。短语 “running out of steam” 同样生动地比喻精力耗尽、精疲力尽，符合该固定搭配的对应场景。应选（3）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "walking on air",
+              "zh": "欣喜若狂",
+              "eg": "After hearing the good news, she was walking on air."
+            },
+            {
+              "opt": "2",
+              "word": "hanging in there",
+              "zh": "坚持下去",
+              "eg": "Keep hanging in there — the exams will be over soon."
+            },
+            {
+              "opt": "3",
+              "word": "running out of steam",
+              "zh": "筋疲力尽；没劲了",
+              "eg": "By noon the hikers were running out of steam."
+            },
+            {
+              "opt": "4",
+              "word": "like a dog with two tails",
+              "zh": "高兴得尾巴摇个不停",
+              "eg": "He was like a dog with two tails when he won the prize."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Anticipation filled the air. We were going to embark on an exciting excursion to the nature reserve. The lush greenery [Q16 (enveloped)] us as we ventured deeper into the thick forest. The leaves and flowers in the forest created a [Q17 (kaleidoscope)] of colours. Chatting animatedly, we hiked carefully along the long [Q18 (meandering trail)], marvelling at the breathtaking scenery around us. Our experienced guides led us through the forest where we spotted exotic wildlife and a vibrant [Q19 (array)] of wild blooms. By the end of the day, we felt tired but contented. \"I am [Q20 (beat)] but this outing is certainly well worth it!\" our class monitor exclaimed. I could not agree more. Retracing our steps towards the entrance, I knew I would visit this amazing place again."
+        ],
+        "zh": [
+          "空气中充满期待。我们要前往自然保护区，开始一次令人兴奋的远足。我们越深入密林，繁茂的绿意就越将我们包围。林中树叶与花朵交织成一片斑斓色彩。我们一边热烈交谈，一边小心沿着蜿蜒长径徒步，惊叹周围令人屏息的景色。经验丰富的向导带领我们穿过森林，我们看见了奇异的野生动物和缤纷的野花。一天结束时，我们虽感疲惫却心满意足。班长感叹：“我累坏了，但这次出游绝对值得！”我深以为然。我们沿原路返回入口时，我知道自己还会再来这个令人惊叹的地方。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the article, the Peranakans are _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "also known as Straits-born Chinese",
+            "2": "children raised under the British rule",
+            "3": "descendants of the Chinese immigrants",
+            "4": "people who reside in the bustling ports of Malacca"
+          }
+        },
+        "22": {
+          "stem_plain": "The unique flavour of Peranakan dishes is a result of the _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "diversity in all local cuisine",
+            "2": "use of Chinese herbs and spices",
+            "3": "excellent cooking skills of Peranakan women",
+            "4": "fusion of Chinese and Malay cooking methods"
+          }
+        },
+        "23": {
+          "stem_plain": "The dash (-) used in the section ‘Traditional Arts and Culture’ serves to _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "give some examples",
+            "2": "simplify the sentence further",
+            "3": "provide more information to the sentence",
+            "4": "emphasise the given information in the sentence"
+          }
+        },
+        "24": {
+          "stem_plain": "Which one of the statements is true about the Discovery Trail?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "This activity is open to all visitors.",
+            "2": "Participants who visits the trail will receive a plush toy each.",
+            "3": "To get a free gift, participants must complete all the stations.",
+            "4": "Participants get to sample savoury snacks at the snack-making station."
+          }
+        },
+        "25": {
+          "stem_plain": "What can participants do at the first station?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Deck out in local Malay traditional dresses.",
+            "2": "Pay $2 before they can take part in activity.",
+            "3": "See themselves looking like Nyonyas and Babas.",
+            "4": "Bring home photos taken at the photo booth for free."
+          }
+        },
+        "26": {
+          "stem_plain": "According to the article, visitors who visit Station 5 can _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "win some marbles and take them home",
+            "2": "only speak in Malay as they are playing the game",
+            "3": "experience playing Congkak without using a board",
+            "4": "learn about the origins of the many different names for Congkak"
+          }
+        },
+        "27": {
+          "stem_plain": "Jenson, a student, likes to make handicrafts. Which stations would appeal to him?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Station 1 and Station 5",
+            "2": "Station 1 and Station 8",
+            "3": "Station 2 and Station 5",
+            "4": "Station 2 and Station 8"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this article?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "To arouse readers’ curiosity about the Peranakans.",
+            "2": "To encourage children to visit the Peranakan Museum.",
+            "3": "To celebrate the completion of the museum’s renovation.",
+            "4": "To inform the public about the re-opening of the museum."
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "Detail check — identity label",
+          "note": "<p>The article identifies Peranakans as people also called <span class=\"hl-good\">Straits-born Chinese</span>. Other options either narrow wrongly to British rule children only, or swap “descendants” wording without matching the article’s defining label.</p>",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "Cause of flavour — fusion",
+          "note": "<p>Peranakan flavour comes from blending Chinese and Malay cooking → <span class=\"hl-good\">fusion of Chinese and Malay cooking methods</span>. Herbs alone or only women's skill do not capture the cultural mix stressed in the text.</p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "Punctuation function — dash",
+          "note": "<p>The dash after a heading phrase typically <span class=\"hl-good\">adds elaboration or extra information</span> to the sentence — “provide more information”. It is not mainly for examples only, simplification, or simple emphasis without adding content.</p>",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "NOT / true check — Discovery Trail",
+          "note": "<p>To earn the free gift, participants must complete <strong>all</strong> stations — option <span class=\"hl-good\">(3)</span> states this correctly. Options about plush toys or sampling snacks contradict the stated rules in the flyer text.</p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "Station 1 activity",
+          "note": "<p>At the first station visitors dress up and see themselves as Nyonyas/Babas in photos → <span class=\"hl-good\">(3)</span>. Paying $2 or free prints are distractors not supported as the first-station focus.</p>",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "Station 5 — Congkak",
+          "note": "<p>The article links Station 5 to learning names/origins of Congkak variants → <span class=\"hl-good\">(4)</span>. Winning marbles or Malay-only speech are not what the text highlights for Station 5.</p>",
+          "answer": "4"
+        },
+        "27": {
+          "concept": "Matching interests — handicrafts",
+          "note": "<p>Handicrafts match stations offering craft-related activities — the text pairs <span class=\"hl-good\">Station 2 and Station 8</span> for such hands-on booths rather than Station 1/5 combinations.</p>",
+          "answer": "4"
+        },
+        "28": {
+          "concept": "Main purpose — audience",
+          "note": "<p>The piece promotes a museum experience aimed especially at drawing <span class=\"hl-good\">children</span> to visit → encourage children to visit the Peranakan Museum. It is not mainly about renovation completion or generic public re-opening without that child-focused invitation.</p>",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "against",
+          "B": "are",
+          "C": "around",
+          "D": "by",
+          "E": "could",
+          "F": "despite",
+          "G": "for",
+          "H": "in",
+          "J": "is",
+          "K": "more",
+          "L": "on",
+          "M": "over",
+          "N": "should",
+          "P": "unless",
+          "Q": "until"
+        },
+        "cloze": [
+          "Did you know that the vaquita is the world's rarest marine mammal? Not discovered [Q29] 1958, this dark and light grey animal has a distinctive black ring [Q30] its eyes and a dark patch on its lips. Today, a little [Q31] half a century later, we [Q32] be losing them forever.",
+          "Many different factors have caused the vaquitas to be on the brink of extinction [Q33] conservationists working diligently to save them. The main threat to the vaquitas [Q34] the accidental entanglement in fishing nets. [Q35] they can surface for air, the vaquitas usually drown and die. Other threats include pollution and climate change. In spite of these challenges, conservationists have not stopped fighting [Q36] the odds. For example, bans on illegal fishing are being implemented [Q37] the vaquita habitats to protect them.",
+          "The vaquita's plight highlights the importance of preserving marine ecosystems and the need [Q38] sustainable fishing practices. Otherwise, we cannot ensure the survival of this beautiful marine mammal and possibly other marine species as well."
+        ],
+        "zh": [
+          "你知道小头鼠海豚是世界上最稀有的海洋哺乳动物吗？ 直到1958年它才被发现；这种灰黑相间的动物眼旁有一圈醒目的黑环，唇上还有深色斑块。 如今，大约半个世纪后，我们也许正眼睁睁看着它们永远消失。",
+          "多种因素使小头鼠海豚濒临灭绝，尽管保育人士一直在努力拯救它们。 主要威胁是被渔网意外缠住。 除非它们能浮出水面呼吸，否则通常会淹死。 其他威胁包括污染和气候变化。 尽管挑战重重，保育人士仍在逆境中坚持。 例如，正在小头鼠海豚栖息地实施禁止非法捕捞，以保护它们。",
+          "小头鼠海豚的困境凸显了保护海洋生态系统以及采用可持续捕捞方式的重要性。 否则，我们无法确保这种美丽的海洋哺乳动物——或许还有其他海洋物种——能够生存。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "Time preposition — until",
+          "note": "<p><em>Not discovered … 1958</em> needs a word meaning <strong>up to that year</strong> → <span class=\"hl-good\">until</span> (Q).</p><p>Keyed answer: <span class=\"hl-good\">Q — until</span> from the word bank.</p>",
+          "answer": "Q — until"
+        },
+        "30": {
+          "concept": "Place preposition — around",
+          "note": "<p>A ring <em>around</em> the eyes → <span class=\"hl-good\">around</span> (C) locates the circle surrounding the eyes.</p><p>Keyed answer: <span class=\"hl-good\">C — around</span> from the word bank.</p>",
+          "answer": "C — around"
+        },
+        "31": {
+          "concept": "More than — over",
+          "note": "<p><em>a little … half a century</em> needs <span class=\"hl-good\">over</span> (M) for “more than” in this common pattern.</p><p>Keyed answer: <span class=\"hl-good\">M — over</span> from the word bank.</p>",
+          "answer": "M — over"
+        },
+        "32": {
+          "concept": "Modal of possibility — could",
+          "note": "<p>Threat of extinction → tentative future loss: <span class=\"hl-good\">could</span> (E) expresses possibility, not certainty <em>should</em> alone.</p><p>Keyed answer: <span class=\"hl-good\">E — could</span> from the word bank.</p>",
+          "answer": "E — could"
+        },
+        "33": {
+          "concept": "Contrast — despite",
+          "note": "<p>Brink of extinction <strong>contrasts with</strong> conservationists still working → <span class=\"hl-good\">despite</span> (F) + noun/gerund phrase.</p><p>Keyed answer: <span class=\"hl-good\">F — despite</span> from the word bank.</p>",
+          "answer": "F — despite"
+        },
+        "34": {
+          "concept": "Identifying clause — is",
+          "note": "<p><em>The main threat … ___ the accidental entanglement</em> needs a linking verb <span class=\"hl-good\">is</span> (J) to equate threat and explanation.</p><p>Keyed answer: <span class=\"hl-good\">J — is</span> from the word bank.</p>",
+          "answer": "J — is"
+        },
+        "35": {
+          "concept": "Conditional unless",
+          "note": "<p>They drown <strong>except if</strong> they can breathe → <span class=\"hl-good\">unless</span> (P) introduces the rescue condition.</p><p>Keyed answer: <span class=\"hl-good\">P — unless</span> from the word bank.</p>",
+          "answer": "P — unless"
+        },
+        "36": {
+          "concept": "Collocation — against the odds",
+          "note": "<p>Fixed phrase <span class=\"hl-good\">fight against the odds</span> (A).</p><p>Keyed answer: <span class=\"hl-good\">A — against</span> from the word bank.</p>",
+          "answer": "A — against"
+        },
+        "37": {
+          "concept": "Preposition — in habitats",
+          "note": "<p>Bans implemented <em>in</em> the habitats → <span class=\"hl-good\">in</span> (H).</p><p>Keyed answer: <span class=\"hl-good\">H — in</span> from the word bank.</p>",
+          "answer": "H — in"
+        },
+        "38": {
+          "concept": "Noun complement — need for",
+          "note": "<p><em>need … sustainable practices</em> → noun + <span class=\"hl-good\">for</span> (G) shows purpose/target.</p><p>Keyed answer: <span class=\"hl-good\">G — for</span> from the word bank.</p>",
+          "answer": "G — for"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Dear Raju,",
+          "How have you been? As I sit down to pen this letter, I can't help but [Q39(raremenise)] about the cherished moments we have shared for the [Q40(____)] ten years. You've taught and [Q41(show)] me that true friendship is not just about shared interests but about being there for each other, [Q42(supported)] each other's dreams and celebrating each other's successes.",
+          "One of the incredible [Q43(quality)] that I deeply admire about you is your keen power of observation. In addition, you possess an ability to [Q44(persieve)] and understand the world around us. Life is [Q45(unpridictable)] . Thankfully, I have you beside me through it all. Time [Q46(spend)] in your company feels effortless. Whenever I need a shoulder to cry on or share my joy and sorrow, you're just a call or text away.",
+          "Whenever [Q47(____)] and bored, you'll cheer me on [Q48(entruziaticaly)] . Your words of encouragement have always been a great source of [Q49(motivate)] , pushing me to overcome the [Q50(____)] .",
+          "Thank you, my dear friend, for being the most amazing person you are!",
+          "Your best friend, Jeremy"
+        ],
+        "zh": [
+          "亲爱的 Raju：",
+          "你好吗？当我坐下来写这封信时，我不禁回想起我们过去十年共享的珍贵时光。你教会并向我展示，真正的友谊不只是共同兴趣，更是彼此扶持、支持彼此的梦想、庆祝彼此的成功。",
+          "我深深钦佩你的一个令人难以置信的素质，那就是敏锐的观察力。此外，你拥有感知并理解周围世界的能力。生活难以预测，幸好一路上有你相伴。与你相处轻松自在。每当我需要倾诉或分享喜悲，只需一个电话或短信，你就在身边。",
+          "每当我感到低落又无聊时，你都会热情地为我加油。你的鼓励话语一直是巨大的动力来源，推动我克服困难。",
+          "谢谢你，我亲爱的朋友，做最了不起的自己！",
+          "你最好的朋友， Jeremy"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling — reminisce",
+          "note": "<p><em>raremenise</em> is a misspelling of <span class=\"hl-good\">reminisce</span> (remember fondly).</p>",
+          "answer": "reminisce"
+        },
+        "40": {
+          "concept": "Word choice — past",
+          "note": "<p>Context needs the adjective <span class=\"hl-good\">past</span> years, not a mistaken form.</p>",
+          "answer": "past"
+        },
+        "41": {
+          "concept": "Grammar — shown",
+          "note": "<p>Past participle after <em>You've taught and … me</em> → <span class=\"hl-good\">shown</span> (not <em>snow</em>).</p>",
+          "answer": "shown"
+        },
+        "42": {
+          "concept": "Parallelism — supporting",
+          "note": "<p>Parallel to <em>being there … celebrating</em> → <span class=\"hl-good\">supporting</span> each other's dreams.</p>",
+          "answer": "supporting"
+        },
+        "43": {
+          "concept": "Number agreement — qualities",
+          "note": "<p><em>One of the … qualities</em> still lists a trait; the plural noun <span class=\"hl-good\">qualities</span> fits <em>one of the</em> pattern.</p>",
+          "answer": "qualities"
+        },
+        "44": {
+          "concept": "Spelling — perceive",
+          "note": "<p><em>persieve</em> → correct <span class=\"hl-good\">perceive</span>.</p>",
+          "answer": "perceive"
+        },
+        "45": {
+          "concept": "Spelling — unpredictable",
+          "note": "<p><em>unpridictable</em> → <span class=\"hl-good\">unpredictable</span>.</p>",
+          "answer": "unpredictable"
+        },
+        "46": {
+          "concept": "Tense — spent",
+          "note": "<p>Time + past simple narrative → <span class=\"hl-good\">spent</span> in company.</p>",
+          "answer": "spent"
+        },
+        "47": {
+          "concept": "Vocabulary — lethargic",
+          "note": "<p>Contrast with bored → <span class=\"hl-good\">lethargic</span> (tired, low energy).</p>",
+          "answer": "lethargic"
+        },
+        "48": {
+          "concept": "Spelling — enthusiastically",
+          "note": "<p><em>entruziaticaly</em> → adverb <span class=\"hl-good\">enthusiastically</span>.</p>",
+          "answer": "enthusiastically"
+        },
+        "49": {
+          "concept": "Word class — motivation",
+          "note": "<p>After <em>source of</em> → noun <span class=\"hl-good\">motivation</span>, not the verb <em>motivate</em>.</p>",
+          "answer": "motivation"
+        },
+        "50": {
+          "concept": "Vocabulary — obstacles",
+          "note": "<p>Overcome the <span class=\"hl-good\">obstacles</span> — plural noun fits the blank before the full stop.</p>",
+          "answer": "obstacles"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you heard about ChatGPT? If you have not, it is a language processing tool driven by Artificial Intelligence technology that has taken the world by [Q51]. Many people have been talking about its convenience and benefits, but [Q52] all inventions, we must be careful as not only will there be advantages but also [Q53] related to their use.",
+          "One huge benefit of ChatGPT is its [Q54] to generate responses to your questions at the [Q55] of light. Students who struggle to keep up [Q56] the pace in class or who wish to [Q57] on a topic would welcome it with open arms. By engaging with ChatGPT in a chat or [Q58] we can gather vast [Q59] on various topics. Since ChatGPT can operate round the [Q60], users can have access to its capabilities whenever they need or want to.",
+          "While using ChatGPT can be helpful, be wary of the negative consequences. Firstly, the responses generated may not always be [Q61]. To check for their accuracy, users should always [Q62] them with credible sources and websites. Secondly, ChatGPT is an artificial intelligence. Thus, it does not have emotions or empathy to deal with questions that [Q63] emotional understanding. Thirdly, ChatGPT is not always [Q64] with its responses. Sometimes, it may provide conflicting and different answers to the same question!",
+          "Bearing these factors in [Q65], it is important to use this tool responsibly. Technology can be incredibly useful, but it is crucial to understand its limitations."
+        ],
+        "zh": [
+          "你听说过 ChatGPT 吗？若还没有，它是一种由人工智能技术驱动的语言处理工具，已席卷全球。许多人谈论它的便利与好处，但和所有发明一样，我们必须谨慎：使用它们时不仅有优点，也可能有弊端。",
+          "ChatGPT 的一大优点是它能以光速般的速度为你的问题生成回答。跟不上课堂节奏、或想就某一主题做探究的学生都会欣然接纳它。通过聊天或讨论与 ChatGPT 互动，我们能收集大量各主题的资料。由于 ChatGPT 可以全天候运转，用户无论何时需要都能使用它的功能。",
+          "使用 ChatGPT 虽有帮助，也要警惕负面后果。首先，生成的回答未必总是准确；为核对准确性，用户应始终用可信来源与网站加以交叉验证。其次，ChatGPT 是人工智能，没有情感与共情，无法妥善处理需要情感理解的问题。再次，它的回答并不总是一致的，有时对同一问题会给出相互矛盾、彼此不同的答案。",
+          "牢记这些因素，负责任地使用这一工具十分重要。科技可以极为有用，但认清其局限同样关键。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的动词短语 taken the world by 完美结合，构成全行业、各类文体中极其高频热门的专属流行语习语 take the world by storm，意为风靡全球、在全世界“掀起狂潮”。",
+          "answer": "storm"
+        },
+        "52": {
+          "concept": "比较与类比引导词",
+          "note": "用来修饰名词短语 all inventions。前文提到了需要一分为二地看待它，此处引出类比，指代“正如（like）”所有发明创造一样，我们在享受便利的同时也必须保持谨慎。",
+          "answer": "like"
+        },
+        "53": {
+          "concept": "反义名词对照",
+          "note": "与前文的名词 advantages（优势/好处）通过并列连词 but also 形成鲜明的正反呼应，用来指代伴随其使用过程而衍生出的“劣势”、“弊端”或“风险”，故填复数名词 disadvantages / drawbacks / risks / downsides。",
+          "answer": "disadvantages/drawbacks/risks/downsides"
+        },
+        "54": {
+          "concept": "名词固定句型结构",
+          "note": "由形容词性物主代词 its 修饰，后接不定式符号 to generate。完美契合表示功能与潜力的核心经典结构 have the ability to do something，表示其生成回复的惊人“能力”。",
+          "answer": "ability"
+        },
+        "55": {
+          "concept": "经典比喻习语搭配",
+          "note": "与其前置的介词短语 at the 和后置的名词短语 of light 完美组合。构成形容速度快到极致的经典专属天文级比喻习语 at the speed of light，意为以“光速”做出响应。",
+          "answer": "speed"
+        },
+        "56": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词不定式结构 keep up 极其后文的 the pace 完美组合。构成在各类教育和时间管理主题中频繁考核的地道特定短语 keep up with，表示“跟上”课堂的进度。",
+          "answer": "with"
+        },
+        "57": {
+          "concept": "动词与介词特定搭配",
+          "note": "不定式符号 wish to 后接动词原形。与后置的介词短语 on a topic 组合，指那些渴望对某个课题进行深度“研究”、“探讨”或“钻研”的学生，故填入动词原形 research / read / expand / elaborate / micro-study（此处 research 最佳）。",
+          "answer": "research/read/expand/elaborate"
+        },
+        "58": {
+          "concept": "名词语意与场景平行并列",
+          "note": "与前面的名词 a chat（聊天）通过并列连词 or 连接，跟在介词 in 后面。指通过与人工智能展开对话、聊天或“讨论（discussion）”、“交流（conversation）”，从而获取知识。",
+          "answer": "discussion/conversation"
+        },
+        "59": {
+          "concept": "不可数名词语意与量词修饰",
+          "note": "前面有形容词 vast（海量的/巨大的）修饰。用来形容我们可以借此搜集到关于各门学科的庞大“信息”、“数据”或“知识”，故填不可数名词 information / data / knowledge / amounts（填入 amounts 需构成 vast amounts of，此处后接 on，故 information 最佳）。",
+          "answer": "information/data/knowledge"
+        },
+        "60": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的介词短语 operate round the 完美结合。构成英语中用于形容全天候、不间断全天候运行的经典核心专属时间习语 operate round the clock，意为“24小时连轴转/夜以继日地工作”。",
+          "answer": "clock"
+        },
+        "61": {
+          "concept": "形容词语意与后文呼应",
+          "note": "作为系动词 be 之后的表语。后文直接提到了 To check for their accuracy（为了核查它们的准确性），属于典型的后文词汇同义变体线索提示，故此处必然对应填入代表“准确的”、“可靠的”或“正确的”形容词 accurate / reliable / correct / true / factual。",
+          "answer": "accurate/reliable/correct/true/factual"
+        },
+        "62": {
+          "concept": "动词与介词特定搭配",
+          "note": "前面有情态动词 should，后接动词原形，后面跟有介词短语 with...。指用户应当把人工智能给出的答案与权威网站进行“交叉核对”、“对比”或“核实”，构成 crosscheck/compare/verify... with 结构。",
+          "answer": "crosscheck/compare/verify/check"
+        },
+        "63": {
+          "concept": "定语从句主谓一致与动词语意",
+          "note": "由关系代词 that 引导的定语从句修饰复数先行词 questions，从句谓语动词用原形。指去处理那些“需要”、“要求”或“涉及”情感理解的复杂问题，故填入动词原形 need / require / involve / demand。",
+          "answer": "need/require/involve/demand"
+        },
+        "64": {
+          "concept": "形容词与后文语意对照",
+          "note": "作为表语形容词。后文通过 Sometimes（有时）引出它会给出前后矛盾、截然不同的回答，说明它在生成回复时并不总是“前后一致的”、“稳定的”或“可靠的”，故填入形容词 consistent / reliable / accurate / uniform。",
+          "answer": "consistent/reliable/accurate/uniform"
+        },
+        "65": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的动词现在分词短语 Bearing these factors in 完美组合。构成在各类议论文、总结发言中极其高频考查的经典标志性谢幕习语 bear something in mind，意为将这些因素牢记在“心”。",
+          "answer": "mind"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "The monitors were very pleased when they received the certificates.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ with great __________"
+        },
+        "67": {
+          "stem_plain": "Only Mason and Benjamin have not submitted the consent form to the teacher.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Everybody, other than Mason and Benjamin, __________"
+        },
+        "68": {
+          "stem_plain": "Mrs Tan asked her husband, \"How did you come here?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mrs Tan asked __________"
+        },
+        "69": {
+          "stem_plain": "This popular restaurant is always fully booked.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Due to its __________"
+        },
+        "70": {
+          "stem_plain": "The master chef is the chief judge. Everyone sang praises about him.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ whom __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "Noun phrase with with + abstract noun",
+          "zh": "班长们收到证书时感到极大的愉快。",
+          "note": "题干用 <em>very pleased when they received</em> 表'收到证书很高兴'；提示 <em>with great</em> 后只能接<strong>名词</strong>，故把'高兴'名词化为 <em>pleasure</em>，并压缩为 <em>received … with great pleasure</em> 一句；主语仍为 <em>The monitors</em>，勿改证书、勿拆成两句。",
+          "answer": "The monitors received the certificates with great pleasure."
+        },
+        "67": {
+          "concept": "Quantifier + other than + SV agreement",
+          "zh": "除了梅森和本杰明以外，其他人都已经把同意书交给老师了。",
+          "note": "<em>Only A and B have not …</em> 与 <em>Everybody other than A and B has …</em> 同义；<em>Everybody</em> / <em>everyone</em> 作主语时谓语用<strong>单数</strong> <em>has</em>；<em>other than</em> 引出被排除的两人，宾语 <em>the consent form to the teacher</em> 须完整保留。",
+          "answer": "Everybody, other than Mason and Benjamin, has submitted the consent form to the teacher."
+        },
+        "68": {
+          "concept": "Reported question — word order + backshift",
+          "zh": "谭太太问丈夫他是怎么到那儿去的。",
+          "note": "引述 wh- 问句：①语序改陈述；②人称随被指对象（<em>you → he</em>）；③地点随视角（<em>here → there</em>）；④<code>come here</code> 常改写为 <code>go there</code>；⑤时态后退（<em>did … come → had … gone</em>）。",
+          "answer": "Mrs Tan asked her husband how he had gone there."
+        },
+        "69": {
+          "concept": "Due to + noun at sentence front",
+          "zh": "由于人气高，这家餐厅总是一席难求。",
+          "note": "<em>Due to</em> 后须接<strong>名词</strong>，故把形容词 <em>popular</em> 写成 <em>popularity</em>；原因短语置首后，主句仍说明'订满'这一结果；<em>this popular restaurant</em> 与 <em>the restaurant</em> 同指，勿增删条件。",
+          "answer": "Due to its popularity, the restaurant is always fully booked."
+        },
+        "70": {
+          "concept": "Non-defining relative with whom",
+          "zh": "这位主厨是首席评委，人人都称赞他。",
+          "note": "两句合一：先行词为人，从句里作 <em>about</em> 的宾语用 <strong>whom</strong>（不用 <em>who</em>）；从句前后<strong>逗号</strong>隔开，谓语 <em>is the chief judge</em> 仍与 <em>chef</em> 单复一致；<em>sang praises about</em> 搭配勿写成 <em>to</em>。",
+          "answer": "The master chef, whom everyone sang praises about, is the chief judge."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Which five-word phrase in paragraph one suggests that Mrs Li was worn out?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Why was Mrs Li able to pick the thief up effortlessly?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "In paragraph 2, which two actions of Mrs Li showed that she did not trust Ming?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q73a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Choose a word from paragraphs 1 and 2 which has similar meaning to each of the words below.",
+          "marks": 3,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Word",
+              "rows": [
+                "a) seemingly",
+                "b) intuition",
+                "c) distinguish"
+              ]
+            },
+            "col_2": {
+              "header": "Your answer",
+              "rows": [
+                "[Q74a]",
+                "[Q74b]",
+                "[Q74c]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the word(s) in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **easy target** (line 5)",
+                "(b) **the root cause** (line 9)",
+                "(c) **some** (line 25)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]",
+                "[Q75c]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "What did Ming do which showed that he was very hungry? | a) | b) | | :--- | :--- | | | |",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Complete the table below with information from lines 34 – 41.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "How Ming felt",
+              "rows": [
+                "guilty",
+                "determined"
+              ]
+            },
+            "col_2": {
+              "header": "What Ming did to show how he felt",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Based on lines 16 – 41, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Mrs Li was not interested in Ming's pleas.",
+                "(b) Mrs Li had spent a lot of money on her son's treatment.",
+                "(c) Mrs Li used to be a spendthrift."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]",
+                "[Q78e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q78b]",
+                "[Q78d]",
+                "[Q78f]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "What was the consequence the boy thought he would face when he was caught red-handed?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "(a) Mrs Li told Ming, \"...tough times don't last, but tough people do.\" In what way did Ming turn out to be 'tough'? (b) What is one quality that Ming displayed which made him 'tough'?",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Mrs Li was returning home after a hard day at work. She could hear her",
+          "2": "stomach rumbling. All of a sudden, she felt a tug and in a swift motion, someone had",
+          "3": "snatched her frayed bag. Snap! Thud! Her bag strap had broken. The thief had tripped on",
+          "4": "his shoes in his haste to escape and fallen to the ground. Little did he know that his",
+          "5": "supposedly **easy target** was trained in martial arts. The petite lady was startled and",
+          "6": "stunned for a moment, but she quickly took a deep breath and calmed herself down. She",
+          "7": "then turned around, bent down and picked the boy up effortlessly.",
+          "8": "Although she felt upset, her first instinct was not to harbour anger and",
+          "9": "resentment but was more concerned about **the root cause** of the thief's action. \"Why did",
+          "10": "you do that?\" the woman probed. Head hung low, he shrugged. \"Now, pick up my bag!\" she",
+          "11": "ordered. Still holding him by his wrist, she bent down enough for him to retrieve her bag.",
+          "12": "Sensing the boy's attempt to escape, Mrs Li tightened her grip, only to hear him mutter an",
+          "13": "apology tearfully. \"If you were my son, I'd teach you to discern right from wrong!\" she",
+          "14": "snapped.",
+          "15": "\"Please, please let me go. I promise ...\"",
+          "16": "Mrs Li looked at the boy squarely and cut him off. \"Don't think about getting",
+          "17": "away so easily.\" Perspiration dotted his brow. He began to struggle again and that was",
+          "18": "when Mrs Li's bag dropped unexpectedly. A photograph fell out. The scrawny teenager in",
+          "19": "the picture caught the boy's attention. \"That's my son. He was young and full of aspirations",
+          "20": "despite his poor health. I wiped out my savings trying to treat him but ...\" Her voice trailed",
+          "21": "off, choking with emotions.",
+          "22": "\"What's your name?\" Mrs Li asked after gathering her composure.",
+          "23": "\"Ming. Are... you going to... call the police?\"",
+          "24": "\"What for? I just stepped out of the bakery when you tried to steal my bag.",
+          "25": "Are you hungry? Would you like **some**?\" She held up the paper bag. The boy's face",
+          "26": "contorted into a mixture of confusion and disbelief. Was he dreaming? The unmistakable",
+          "27": "growling sound from his tummy confirmed he was not. Mrs Li chuckled. \"Join me,\" she",
+          "28": "invited, pointing at an empty bench just a few steps ahead of them. Ming's eyes sparkled.",
+          "29": "He smiled genuinely for the first time. The offer was irresistible. When was the last time he",
+          "30": "had had a decent meal? The boy could not recall.",
+          "31": "\"I just wanted to buy a pair of shoes,\" Ming mumbled as he stuffed the buns into",
+          "32": "his mouth. Mrs Li smiled and took out more bread which he quickly snatched from her",
+          "33": "hand.",
+          "34": "\"You could have got yourself a job. When I was your age, I too had indulged in",
+          "35": "luxurious items that were beyond my means,\" she said. \"Looking back, I could have",
+          "36": "thought twice before I spent.\" Ming locked and unlocked his fingers, staring hard at his",
+          "37": "shoes. To his astonishment, he noticed that the woman was no longer watching him or her",
+          "38": "bag like a hawk. Ming sat properly having made up his mind that he did not want to be",
+          "39": "mistrusted anymore. \"Behave yourself and don't make the same mistake again. Remember",
+          "40": "this - tough times don't last, but tough people do.\" With that, she stood up and bade",
+          "41": "him farewell. Speechless and thankful, Ming felt really lucky.",
+          "42": "With hard work comes success. Over time the young man transformed his life.",
+          "43": "He eventually became a wealthy entrepreneur who never forgot the kind woman.",
+          "44": "Ming credited his saviour's forgiveness as the turning point that inspired him to truly change",
+          "45": "for the better."
+        },
+        "paragraphs": {
+          "1": "李太太工作了一整天后回家，又累又饿。有人猛地扯断她破旧的包带把包抢走；小偷匆忙逃跑时绊了一跤摔倒。他本以为这是个容易得手的对象，却不知道这位身材娇小的女士练过武术。她先是一惊，随即深呼吸冷静下来，转身轻松把男孩从地上扶起。",
+          "8": "她虽难过，第一反应却不是积怨，而是想知道他偷窃的根源。她追问原因，命令他捡起包，仍抓着他的手腕不让他逃；听到他含泪道歉，她厉声说若他是她儿子，就要教他明辨是非。",
+          "15": "“请、请放我走，我保证……”",
+          "16": "李太太直视男孩，打断他，不让他轻易脱身。他额头冒汗又挣扎起来，这时她的包意外掉落，一张照片滑了出来。相中瘦削的少年吸引了男孩的注意；她哽咽讲述儿子年少多病、花光积蓄医治却仍无力回天，话到一半声音渐弱。",
+          "22": "她镇定下来后问男孩叫什么名字。",
+          "23": "“明。你……你要报警吗？”",
+          "24": "“报什么警？我刚离开面包店你就抢我的包。你饿吗？要不要吃一点？”她举起纸袋。男孩脸上交织着困惑与难以置信，肚子咕咕作响证实并非做梦。她笑着邀请他到几步外的空长椅上一起吃；明的眼睛亮了起来，久违地真心微笑——他已想不起上次好好吃饭是什么时候。",
+          "31": "“我只是想买一双鞋。”明嘴里塞满包子含糊说道。李太太笑着又拿出更多面包，他连忙从她手里接过。",
+          "34": "“你可以去找份工作。我年轻时也曾为买不起的奢侈品挥霍。”她说若当初花钱前三思就好了。明反复攥紧又松开手指盯着自己的鞋；令他惊讶的是，她不再像鹰一样紧盯着他和包。他坐端正，决心不再被怀疑。她嘱咐他守规矩、别重蹈覆辙，并留下“难熬的日子不会持久，坚强的人却可以”的话，随后起身道别；明无言以对，满怀感激，觉得自己很幸运。",
+          "42": "努力终有回报。年轻人慢慢改写人生，后来成为富有的企业家，从未忘记那位善良的女士。他把恩人的宽恕视为真正改过的转折点。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Pick-out — five-word phrase",
+          "note": "<ol><li>Paragraph one is lines 1–7 in Booklet A.</li><li>Look for wording that shows Mrs Li is worn out / tired from work.</li><li>Line 1 opens with <em>Mrs Li was returning home after a hard day at work</em> — the five-word phrase <strong>a hard day at work</strong> signals fatigue.</li></ol>",
+          "answer": [
+            "a hard day at work"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "Why — cause from the passage",
+          "note": "<ol><li>The question asks for the reason she could lift the thief easily.</li><li>Lines 4–5 say the <em>easy target</em> was <strong>trained in martial arts</strong>.</li><li>Link that training to effortless lifting in your own words.</li></ol>",
+          "answer": [
+            "Mrs Li was trained in martial arts so she was able to pick the thief up effortlessly."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "Two actions — distrust",
+          "note": "<ol><li>Paragraph 2: find concrete things Mrs Li does to Ming.</li><li>Line 11: she keeps holding him <strong>by his wrist</strong>.</li><li>Lines 11–12: when he tries to escape, she <strong>tightens her grip</strong> — both show suspicion.</li></ol>",
+          "answer": {
+            "73a": "She held him by his wrist.",
+            "73b": "Mrs Li tightened her grip when Ming tried to escape."
+          }
+        },
+        "74": {
+          "concept": "Synonym replacement from paragraphs 1–2",
+          "note": "<ol><li>Locate the underlined senses in lines 5–9.</li><li><em>seemingly</em> → passage wording for “as it appears” → <strong>supposedly</strong>.</li><li><em>intuition</em> → instinctive feeling → <strong>instinct</strong>.</li><li><em>distinguish</em> right from wrong → <strong>discern</strong>.</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "supposedly",
+            "74b": "instinct",
+            "74c": "discern"
+          }
+        },
+        "75": {
+          "concept": "Reference — who/what phrases mean",
+          "note": "<ol><li>Use the line cues in the table to scan the passage.</li><li>(a) <em>easy target</em> refers to Mrs Li herself as the victim who is actually capable.</li><li>(b) <em>the root cause</em> points to why Ming steals — wanting shoes.</li><li>(c) <em>some</em> (bread offer) refers to the bakery bread she is holding.</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "Mrs Li",
+            "75b": "Ming wanted to buy a pair of shoes",
+            "75c": "the bread Mrs Li had just bought from the bakery"
+          }
+        },
+        "76": {
+          "concept": "Evidence — hunger actions",
+          "note": "<ol><li>Look for eating actions after Mrs Li offers food.</li><li>Line 31: he <strong>stuffs the buns into his mouth</strong>.</li><li>Lines 31–32: he <strong>snatches</strong> more bread quickly — both show great hunger.</li></ol>",
+          "answer": [
+            "He stuffed the buns into his mouth.",
+            "Ming snatched bread quickly from Mrs Li’s hand."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "Table completion — feelings vs actions (lines 34–41)",
+          "note": "<ol><li>Lines 35–36: Ming feels guilty — he <strong>locks and unlocks his fingers, staring at his shoes</strong>.</li><li>Lines 37–38: he feels determined — he <strong>sits properly</strong> after deciding he does not want to be mistrusted.</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "Ming locked unlocked his fingers, staring hard at his shoes.",
+            "77b": "Ming sat properly having made up his mind that he did not want to be mistrusted anymore."
+          }
+        },
+        "78": {
+          "concept": "True / False with reasons (lines 16–41)",
+          "note": "<ol><li>(a) True: she <strong>cuts him off</strong> when he pleads — lines 15–16.</li><li>(b) True: she wiped savings for her son's treatment — lines 19–20.</li><li>(c) True: she admits she used to buy luxury items beyond her means — lines 34–36.</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "True",
+            "78b": "She cut him off when he pleaded with her to let him go",
+            "78c": "True",
+            "78d": "Mrs Li wiped out her savings to try to treat her son",
+            "78e": "True",
+            "78f": "Mrs Li used to indulge in luxurious items that were beyond her means and she spent her money on the items without thinking twice"
+          }
+        },
+        "79": {
+          "concept": "Fear — expected consequence",
+          "note": "<ol><li>Ming's question in line 23 shows his fear.</li><li>He asks if she will <strong>call the police</strong>.</li><li>That is the consequence he expects when caught stealing.</li></ol>",
+          "answer": [
+            "Ming thought Mrs Li would call the police when he was caught red-handed."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "Moral of tough people + trait",
+          "note": "<ol><li>Part (a): later life in lines 42–43 — he works hard and becomes wealthy.</li><li>Part (b): the quotation contrasts tough times with tough people → the trait is <strong>perseverance</strong> / resilience.</li></ol>",
+          "answer": [
+            "He worked hard and became successful and wealthy.",
+            "Perseverance."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

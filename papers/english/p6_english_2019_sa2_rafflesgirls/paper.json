@@ -1,0 +1,431 @@
+{
+  "paperid": "p6_english_2019_sa2_rafflesgirls",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Dummy 1 grammer mcq, any option is ok _____.",
+          "options": {
+            "1": "option1",
+            "2": "option2",
+            "3": "option3",
+            "4": "option4"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Dummy 1 vocabulary item: She felt ________ after the long hike.",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "对stem_plain的中文翻译",
+          "note": "对正确option 的解释",
+          "concept": "题型概念-Concept",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "The recruits were told to **Option 1** at the parade square before the inspection."
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "选项2",
+              "eg": "Sales of the toy **Option 2** sharply after reports of a safety defect."
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "选项3",
+              "eg": "Several branches **Option 3** onto the road during last night's thunderstorm."
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "选项4",
+              "eg": "The plans for the rebuilding of the orphanage **Option 4** as there was no donor for the project."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘at one point’ 是固定短语，表示‘在某一时刻’、‘一度’。",
+          "answer": "C"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "根据上下文语境，表示过去能够做某事，用情态动词过去式 could。",
+          "answer": "D"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘depending on’ 是固定搭配，表示‘取决于……’、‘根据……’。",
+          "answer": "L"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘respond well to’ 是固定搭配，意为对治疗‘反应良好’或‘见效’。",
+          "answer": "P"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘go into detail’ 是固定短语，表示‘深入细节’、‘详述’。",
+          "answer": "G"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "此处位于句首并有逗号隔开，作副词用，表示转折关系，选 however（然而）。",
+          "answer": "E"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘affect them’ 此处的 them 代指前文复数名词 teammates（队友们）。",
+          "answer": "N"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘while’ 引导时间状语从句，表示‘当她说话的时候’、‘在她说话的同时’。",
+          "answer": "Q"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "本句主语是单数核心词 ‘period of time’，全篇为过去时态，故系动词用 was。",
+          "answer": "H"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘neither... nor...’ 是固定关联连词，表示‘既不是……也不是……’。",
+          "answer": "K"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "about",
+          "B": "are",
+          "C": "at",
+          "D": "could",
+          "E": "however",
+          "F": "in",
+          "G": "into",
+          "H": "is",
+          "J": "me",
+          "K": "nor",
+          "L": "on",
+          "M": "or",
+          "N": "them",
+          "P": "to",
+          "Q": "while"
+        },
+        "cloze": [
+          "\"Doctor, do you think I can get back my normal life?\" May asked [Q29] one point.",
+          "I replied that while I did not know much about her case, I [Q30] tell her what I had learnt about the recovery of athletes who suffered from fractures. I said that depending [Q31] the severity of the facture, quite a number responded well [Q32] treatment. However, I was reluctant to go [Q33] too much detail as I was not her doctor and I would not be in the position to answer her questions properly.",
+          "May's eyes sparkled when she spoke about her teammates. [Q34], it was clear that she was concerned about how her current situation would affect [Q35]. As she spoke about her sports career, she started to sigh.",
+          "I did not know what to say. Looking into her eyes, I tried to think of a way to comfort her. Without realising it, I had begun holding May's hand. Since I did not have anything to say, I just sat quietly [Q36] she talked. The conversation went on for about twenty minutes. Finally, May stopped talking. \"Thank you for listening to my problems. I feel relieved now. You may not know this but this short period of time you have spent having conversations with me [Q37] important to me.\"",
+          "It is neither expensive medicine [Q38] state-of-the-art technology that patients need. They just need someone with the patience and willingness to lend a listening ear."
+        ],
+        "zh": [
+          "“医生，你认为我能恢复正常生活吗？”阿美在某一时刻问道。",
+          "我回答说，虽然我对她的病例了解不多，但我可以告诉她我所了解到的关于骨折运动员康复的情况。我说，根据骨折的严重程度，相当多的人对治疗反应良好。然而，我不想探讨太多细节，因为我不是她的医生，我也没有资格正确回答她的问题。",
+          "当阿美谈到她的队友时，她的眼睛闪闪发光。然而，很明显，她担心自己目前的状况会如何影响他们。当她谈到自己的体育生涯时，她开始叹气。",
+          "我不知道该说什么。看着她的眼睛，我试图想出一个安慰她的办法。不知不觉中，我开始握住阿美的手。因为我没有什么可说的，当她说话时我只是静静地坐着。谈话持续了大约二十分钟。最后，阿美停止了说话。“谢谢你听我的烦恼。我现在感到轻松多了。你可能不知道，但你花时间陪我聊天的这短短的一段时间对我来说非常重要。”",
+          "病人需要的既不是昂贵的药物，也不是最先进的技术。他们只需要一个有耐心、愿意倾听的人。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

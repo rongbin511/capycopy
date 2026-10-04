@@ -1,0 +1,503 @@
+{
+  "paperid": "p6_english_2005_sa2_rosyth",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Prototype grammar item: The team ________ ready for the match.",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "15": {
+          "stem_plain": "The shopkeeper ________ the customer's request for an exchange as the product was defective.",
+          "options": {
+            "1": "acceded to",
+            "2": "conceded to",
+            "3": "proceeded with",
+            "4": "succeeded with"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "15": {
+          "zh": "由于产品有缺陷，店主同意了顾客的退换货要求。",
+          "note": "“acceded to”意为“同意（某人的请求/要求）”。因为商品有缺陷（defective），店主答应顾客退换货（request for an exchange）的做法合情合理，搭配最为贴切。",
+          "concept": "动词短语搭配 Phrasal Verbs",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "acceded to",
+              "zh": "同意，应允（指在他人请求或要求后表示同意或准许，多用于正式场合）",
+              "eg": "The government finally acceded to the public demands for tax reform."
+            },
+            {
+              "opt": "2",
+              "word": "conceded to",
+              "zh": "让步，承认（指不情愿地承认某事属实或在辩论、斗争中让步）",
+              "eg": "He was forced to concede to his opponent after losing the major argument."
+            },
+            {
+              "opt": "3",
+              "word": "proceeded with",
+              "zh": "继续进行（指在停顿或做完一件事后，开始或继续进行下一项活动）",
+              "eg": "After answering a few questions, the lecturer proceeded with the lesson."
+            },
+            {
+              "opt": "4",
+              "word": "succeeded with",
+              "zh": "在……方面取得成功（指在某项 activity 中获得了预期的成功结果）",
+              "eg": "The team succeeded with their new marketing strategy, boosting sales."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16 (prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "动词短语搭配 Phrasal Verbs",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "after",
+          "B": "before",
+          "C": "during",
+          "D": "since"
+        },
+        "cloze": [
+          "Prototype grammar cloze: We arrived [Q29] the show had already started."
+        ],
+        "zh": [
+          "示例语法填空段落。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "动词短语搭配 Phrasal Verbs",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing: The [Q39(childrens)] played in the park."
+        ],
+        "zh": [
+          "示例改错题段落。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun rose [Q51] the horizon."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "Prototype",
+          "note": "Prototype blank.",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "67": {
+          "stem_plain": "If you listen hard, you will hear the bird chirping.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "67": {
+          "concept": "条件状语从句 — 连词 'unless' 的主从句转换",
+          "zh": "除非你仔细听，否则你听不到鸟叫声。",
+          "note": "从句连词：unless 相当于 if... not，因此主句需要改为否定形式 'will not hear'，以保持句意前后一致。",
+          "answer": "You will not hear the bird chirping unless you listen hard."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Circle one word that best describes how Lisa felt in lines 7–8. **DO NOT CIRCLE MORE THAN ONE WORD.**",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "hurried",
+            "worried",
+            "surprised",
+            "excited"
+          ]
+        },
+        "75": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "When Sarah first told Peter about the huge honeydew, she was not confident she could find it again.",
+                "Peter searched for the huge honeydew because he wanted very much to taste the juicy fruit.",
+                "Peter had difficulty carrying the huge honeydew."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q75a]",
+                "[Q75c]",
+                "[Q75e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q75b]",
+                "[Q75d]",
+                "[Q75f]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Choose a word from lines 23–37 which has a similar meaning to the given word for each question listed below.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Given word",
+              "rows": [
+                "experienced",
+                "disabled",
+                "manoeuvre"
+              ]
+            },
+            "col_2": {
+              "header": "A word from the passage",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "What are the misunderstandings that people have about having a Sherpa guide during an expedition?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q77a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q77b]"
+            }
+          ]
+        },
+        "80": {
+          "stem_plain": "(a) Which of the following words best describe Jane's mother? Put a tick (✓) in the box beside your answer. Tick only **ONE** box.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "arrogant",
+            "pitiful",
+            "empathetic",
+            "unreasonable"
+          ],
+          "max_selections": 1
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Wayne paced around thinking what to do next. \"You are wearing out the carpet,\" Joey",
+          "2": "told his friend. \"Just stay calm and we will figure out a solution.\" Wayne did not reply,",
+          "3": "deep in thought over the predicament they were in. He glanced at the clock on the",
+          "4": "wall. It had been an hour since their ordeal began and they had run out of options.",
+          "5": "After several minutes of silence, Wayne finally spoke, \"We've got to make a run for",
+          "6": "it with the loot. That's our only choice. We'll take two of them along with us.\" He",
+          "7": "waved his revolver at the group of people huddled at one corner of the room. There",
+          "8": "was a collective gasp from the people as they shuddered at what might happen to them",
+          "9": "next. Joey did not share Wayne's assessment. \"Are you serious? The store is",
+          "10": "completely surrounded by the police. We do not stand a chance once we leave the",
+          "11": "store,\" he said, the fear all too evident in his voice.",
+          "12": "Joey stood up slowly, wiping the sweat from his forehead. He glared at Wayne with a",
+          "13": "look of anxiety mixed with resentment. He knew he should not have gone along with",
+          "14": "his accomplice's plan. \"I should never have listened to you. Look at the mess it has",
+          "15": "landed us in.\" Joey's fear had transformed into anger as he grabbed Wayne by the",
+          "16": "collar with one hand. Taken aback by the sudden aggression, Wayne pushed him away",
+          "17": "instinctively. Joey stumbled, lost his balance and fell backwards. There was a loud",
+          "18": "thud as his head hit the cashier's counter. As Joey's lifeless body slumped to the floor,",
+          "19": "the rifle he had been holding went off without warning. The trigger had inadvertently",
+          "20": "been pulled when he lost grip of it.",
+          "21": "A few of the hostages screamed when the shot rang out. Wayne was momentarily",
+          "22": "stunned as the bullet had missed him only by a few inches and lodged itself in the wall",
+          "23": "behind him. Sensing that this was the opportunity he needed, Keong, the store",
+          "24": "assistant sprang to his feet and charged headlong into Wayne. The impact flung both",
+          "25": "men into the tables that had been stacked against the door by the gunmen. Wayne",
+          "26": "recovered more quickly and immediately threw a punch. Keong was hit squarely on",
+          "27": "the jaw and was knocked unconscious.",
+          "28": "Emboldened by Keong's actions, the other hostages moved towards Wayne. Sensing",
+          "29": "this, Wayne scrambled for his revolver which lay just beside him. Having retrieved it,",
+          "30": "he pointed it at them and threatened, \"Don't come any closer or you will get it.\" The",
+          "31": "hostages immediately froze, realising the consequence if they moved a step closer.",
+          "32": "\"Put that down!\" a voice hollered behind Wayne. Shocked, he slowly turned round to",
+          "33": "see several officers pointing their weapons at him. He knew that the game was up. He",
+          "34": "had not noticed that the police had broken through the barricade during his struggle",
+          "35": "with Keong."
+        },
+        "paragraphs": {
+          "1": "韦恩来回走动，思考下一步该做什么。“你在磨损地毯，”乔伊对他的朋友说。“冷静点，我们会找到解决办法的。”韦恩没有回答，陷入对他们所处困境的的沉思。他看了一眼墙上的钟。自他们的苦难开始以来已经过去了一个小时，他们已经无路可走。",
+          "5": "沉默了几分钟后，韦恩终于开口了：“我们必须带着赃物逃跑。那是我们唯一的选择。我们会带他们中的两个人一起走。”他对着蜷缩在房间角落的一群人挥舞着他的左轮手枪。人们集体倒吸了一口凉气，一想到接下来会发生什么就浑身发抖。乔伊并不同意韦恩的评估。“你是认真的吗？商店完全被警察包围了。一旦我们离开商店，我们就没有半点机会，”他说，声音里满是恐惧。",
+          "12": "乔伊慢慢站起身，擦了擦额头上的汗。他瞪着韦恩，眼神里充满了焦虑与怨恨。他知道自己不该盲从这个同伙的计划。“我真不该听你的。看看这把我们带入了怎样的烂摊子。”乔伊的恐惧转化为了愤怒，他用一只手揪住了韦恩的衣领。韦恩被这突如其来的侵犯吓了一跳，本能地推开了他。乔伊踉跄了一下，失去了平衡摔倒在地上。发出一声沉重的闷响，他的头撞在了收银台上。当乔伊毫无生气的身体瘫倒在地上时，他一直拿着的步枪毫无预警地走火了。当他松开手时，扳机被无意中扣动了。",
+          "21": "枪声响起时，几名人质尖叫起来。韦恩瞬间惊呆了，因为子弹只差几英寸就打中了他，并卡在身后的墙里。意识到这是他需要的机会，店员阿强（Keong）一跃而起，迎头冲向韦恩。撞击力将两人推向枪手堆放在门前的桌子上。韦恩恢复得更快，随即挥出一拳。阿强下巴结结实实挨了一拳，被打晕了过去。",
+          "28": "受到阿强行动的鼓舞，其他人质向韦恩围了过来。察觉到这一点，韦恩急忙去拿掉在身旁的左轮手枪。拿回枪后，他指着他们威胁道：“别再靠近，否则有你们好看的。”人质们立刻僵住了，意识到如果再往前走一步的后果。",
+          "32": "“把枪放下！”韦恩身后传来一声大喝。他大吃一惊，缓缓转过身，看到几名警察正用武器指着他。他知道大势已去。他没有注意到警察在自己与阿强搏斗期间已经突破了路障。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>7–8</strong> Lisa 催 Luke 躲起来 surprise。</li><li><strong>情感：</strong>期待、兴奋 → <strong>excited</strong>。</li><li><strong>排除：</strong>hurried 偏匆忙；worried/surprised 不符语境。</li></ol>",
+          "answer": [
+            "excited"
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>全表事实真伪判定题——判断 True/False 并在对应行给出独立一句话作为依据（3 分）。</li><li><strong>第一行 False：</strong>行 13 原文 <em>'I'm going to get it after school today...'</em> 展现了极其明确的必得决心，并非没有信心。</li><li><strong>第二行 False：</strong>行 17-18 明确说明彼得去搜寻是由于 <em>'Could what Sarah had said be true? My curiosity aroused...'</em>（源于好奇心与验证真假），而想品尝（mouth watered）是在**找到后（When I reached... I found it!）**才发生的次要反应。</li><li><strong>第三行 True：</strong>行 21 细节词 <span class='hl-good'>staggered with it</span>（摇摇晃晃地搬运）属于强力行为线索，侧面佐证了搬运该庞然大物的吃力程度。</li><li><strong>失分点：</strong>若 True/False 判断错误，整行直接 0 分；理由中若直接保留第一人称（如 I/My）而没有转换为第三人称（He/She），由于代词指代错误不给分。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "False",
+            "75b": "She told Peter she was going to get the honeydew after school that day.",
+            "75c": "False",
+            "75d": "He wanted to see if what Sarah had said about the fruit was true.",
+            "75e": "True",
+            "75f": "He staggered to the bushes while carrying it."
+          }
+        },
+        "76": {
+          "concept": "同义替换表",
+          "note": "<ol><li><strong>范围：</strong>行 23–37。</li><li><strong>inexperienced → novice：</strong>行 23–24 有 <em>novice climbers</em>。</li><li><strong>veteran → expert：</strong>行 31 <em>expert navigators</em> 与经验丰富同向。</li><li><strong>incapacitated：</strong>行 28 原词 <em>incapacitated</em>。</li><li><strong>negotiate：</strong>行 32 原词 <em>negotiate icefalls</em>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "veteran",
+            "76b": "incapacitated",
+            "76c": "negotiate"
+          }
+        },
+        "77": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>定位：</strong>行 26–28 连续否定大众误解。</li><li><strong>要点一：</strong>以为有夏尔巴就一定能获救。</li><li><strong>要点二：</strong>低估供氧与救援难度（最强夏尔巴也无法独自抬人、氧气不能随叫随到）。</li></ol>",
+          "answer": {
+            "77a": "They believe they will always be rescued if they get in trouble simply because a Sherpa guide is with them.",
+            "77b": "They believe extra oxygen can be delivered to 8400 metres at a moment’s notice / that one Sherpa alone can lower an incapacitated climber."
+          }
+        },
+        "80": {
+          "concept": "勾选题+依据",
+          "note": "<ol><li><strong>(a) 行 55–56：</strong>母亲因 Jane 议论 Tom 的吃法而斥责她，站在客人一边 → <strong>empathetic</strong>（有同理心）。</li><li><strong>(b) 依据：</strong>母亲理解 Tom 的处境，要求 Jane 勿<strong>高高在上</strong>地评论客人习惯。</li><li><strong>排除：</strong>arrogant/pitiful/unreasonable 与母亲维护 Tom 尊严的言行不符。</li></ol>",
+          "answer": [
+            "empathetic"
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Sulin.",
+          "**Write an email to Devi to encourage her to join your team.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the date and venue of the competition",
+          "two reasons you want her to be in your team",
+          "what the winning team can look forward to",
+          "the last day to register for the competition"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Sim,",
+          "My name is Jie and I am from class Primary 6B. I am writing **on behalf of** my class to **seek your permission** to hold a performance for our teachers on 29 October 2021.",
+          "--As-- my classmates and I will be **posted to** our secondary schools in just three months, we would like to do something special for all our teachers to **show our appreciation** for what they have done for us over the last six years.",
+          "Yours sincerely,\nJie Wong"
+        ],
+        "markdown": [
+          "这个关于向校长申请举办感恩表演的正式信函（Situational Writing）是一篇非常标准且展现了极高语言素养的 PSLE 实用文体高分范文。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n* **完美覆盖所有要点**：\n  * **写信目的与日期**：第一段开门见山，代表全班申请在2021年10月29日举办表演（“seek your permission... on 29 October 2021”）。\n  * **举办表演的原因**：三个月后就要毕业并分派到中学，想表达对老师六年教导的感恩（“show our appreciation... over the last six years”）。\n  * **表演人员与形式**：由作者（Jie）、Siti和Dev共同创作一首专门献给老师的歌，并由全班同学一起演唱（“sing it with the rest of our class”）。\n  * **两个其他细节**：细节①是这是一首专为老师创作的歌曲；细节②是希望全校保密，以便给老师们制造一个惊喜（“keep the plan under wraps”）。",
+          "### 2. 完美遵从正式公文的格式与礼仪 (Perfect Formal Register & Tone)\n* **称呼与结语极为得体**：邮件开头使用了正式的 `\"Dear Mr Sim,\"`，结尾使用了尊重的 `\"Yours sincerely,\"` 配合全名 `\"Jie Wong\"`，完全符合写给校长的标准行政书信格式。\n* **语气极具修养**：整封信充满了恳切与尊重。在提出请求时使用了 `\"seek your permission\"`（寻求您的批准），在表达渴望时使用了高级委婉的语气助词 `\"we would like to\"` 和 `\"we would really appreciate it if...\"`，非常得体。",
+          "### 3. 精准使用高级地道习语与固定搭配 (Advanced Vocabulary & Idioms)\n* 文章的词汇密度和地道程度非常抢眼：\n  * 用 `\"on behalf of\"` 精准表达“代表全班”；\n  * 用 `\"dedicated to\"` 表达这首歌是“专门献给”老师的；\n  * 最出彩的是使用了地道高级习语 `\"keep the plan under wraps\"`（对计划进行保密），这让文章的语言质感直接拔高到了 AL1 的顶尖水平。",
+          "### 4. 逻辑顺畅，首尾呼应 (Smooth Transitions & Professional Closing)\n* 段落之间过渡自然。使用 `--As--` 引出背景原因（因为即将毕业、因为想保留惊喜），使得每一个请求都师出有名。\n* 结尾段使用经典的商务/行政书信结语 `\"favourable response\"`（令人满意的答复），展现了极强的应用文写作功底。"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

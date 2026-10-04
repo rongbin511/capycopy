@@ -1,0 +1,157 @@
+{
+  "paperid": "p6_math_2020_sa2_psle",
+  "sections": {
+    "401": {
+      "questions": {
+        "1": {
+          "stem_plain": "Round 21 345 to the nearest thousand.",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "20 000",
+            "2": "21 000",
+            "3": "21 300",
+            "4": "22 000"
+          }
+        },
+        "2": {
+          "stem_plain": "What is the missing number in the box? $$6\\frac{3}{4} = \\frac{\\Box}{4}$$",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "18",
+            "2": "24",
+            "3": "27",
+            "4": "63"
+          }
+        },
+        "3": {
+          "stem_plain": "How many of the marked angles in the figure are smaller than 90° ?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "5",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "image": "q3.jpeg"
+        },
+        "4": {
+          "stem_plain": "Compute: $10 + \\frac{1}{10} + \\frac{1}{1000} = \\underline{\\hspace{2cm}}$",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "11.01",
+            "2": "10.11",
+            "3": "10.011",
+            "4": "10.101"
+          }
+        },
+        "5": {
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "$43^\\circ$",
+            "2": "$44^\\circ$",
+            "3": "$45^\\circ$",
+            "4": "$47^\\circ$"
+          },
+          "stem_plain": "ABCD is a square. Find $\\angle x$.",
+          "image": "q5.jpeg"
+        },
+        "6": {
+          "stem_plain": "What is the duration from 09:35 to 14:00?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "4 h 25 min",
+            "2": "4 h 35 min",
+            "3": "5 h 25 min",
+            "4": "5 h 35 min"
+          }
+        },
+        "7": {
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "$\\frac{3}{7}$, $\\frac{7}{10}$, $\\frac{7}{12}$",
+            "2": "$\\frac{7}{12}$, $\\frac{7}{10}$, $\\frac{3}{7}$",
+            "3": "$\\frac{7}{10}$, $\\frac{3}{7}$, $\\frac{7}{12}$",
+            "4": "$\\frac{7}{10}$, $\\frac{7}{12}$, $\\frac{3}{7}$"
+          },
+          "stem_plain": "Arrange the fractions from the largest to the smallest: $\\frac{7}{12}$, $\\frac{3}{7}$, $\\frac{7}{10}$"
+        },
+        "8": {
+          "stem_plain": "Which of the following is the same as 2 kg 30 g?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "230 g",
+            "2": "2030 g",
+            "3": "2300 g",
+            "4": "20 030 g"
+          }
+        },
+        "9": {
+          "stem_plain": "The diagram shows the front view and top view of a solid made with some cubes.\n\nWhich of the following could be the solid?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "A and B only",
+            "2": "A and C only",
+            "3": "B and C only",
+            "4": "C only"
+          },
+          "image": "q9.jpeg"
+        },
+        "10-11": {
+          "interaction": "grouped",
+          "options": {},
+          "stem_plain": "Use the information below to answer Questions 10 and 11. \n The bar graphs show the sale of child tickets and adult tickets to a funfair over four days.The scale of the graph for adult tickets is not shown.",
+          "shared": true,
+          "image": "q10-11.jpeg",
+          "items": {
+            "10": {
+              "stem_plain": "How many child tickets were sold in total on Tuesday and Thursday?",
+              "marks": 1,
+              "interaction": "mcq",
+              "options": {
+                "1": "35",
+                "2": "50",
+                "3": "52",
+                "4": "60"
+              }
+            },
+            "11": {
+              "stem_plain": "The ratio of the number of adult tickets sold on Monday to the total number of tickets sold on that day was $4 : 5$. How many adult tickets were sold on Wednesday?",
+              "marks": 1,
+              "interaction": "mcq",
+              "options": {
+                "1": "18",
+                "2": "45",
+                "3": "60",
+                "4": "90"
+              }
+            }
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "answer": "2"
+        },
+        "5": {
+          "answer": "2"
+        },
+        "6": {},
+        "7": {
+          "answer": "2"
+        },
+        "9": {},
+        "10-11": {}
+      },
+      "passages": {}
+    }
+  }
+}

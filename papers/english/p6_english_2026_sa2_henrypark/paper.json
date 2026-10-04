@@ -1,0 +1,1547 @@
+{
+  "paperid": "p6_english_2026_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The class monitor, together with a group of students, ________ very excited about the upcoming National Day celebration.",
+          "marks": 1,
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "were",
+            "4": "have been"
+          }
+        },
+        "2": {
+          "stem_plain": "________ the difficult questions in the paper, Ahmad managed to complete the test on time.",
+          "marks": 1,
+          "options": {
+            "1": "Due to",
+            "2": "Instead of",
+            "3": "In spite of",
+            "4": "Because of"
+          }
+        },
+        "3": {
+          "stem_plain": "Due to the heavy downpour, the furniture ________ damp since last night.",
+          "marks": 1,
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "has been",
+            "4": "have been"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Let's work together for this project, ________?\" Lydia proposed.",
+          "marks": 1,
+          "options": {
+            "1": "shall we",
+            "2": "may we",
+            "3": "can we",
+            "4": "will we"
+          }
+        },
+        "5": {
+          "stem_plain": "There's been a decrease in the amount of food wastage, ________?",
+          "marks": 1,
+          "options": {
+            "1": "is there",
+            "2": "isn't there",
+            "3": "has there",
+            "4": "hasn't there"
+          }
+        },
+        "6": {
+          "stem_plain": "Please keep this secret between you and ________.",
+          "marks": 1,
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "mine",
+            "4": "myself"
+          }
+        },
+        "7": {
+          "stem_plain": "By the time I got to school this morning, Candice ________ waiting there for me for 30 minutes.",
+          "marks": 1,
+          "options": {
+            "1": "was",
+            "2": "had been",
+            "3": "has been",
+            "4": "have been"
+          }
+        },
+        "8": {
+          "stem_plain": "Neither Jeremy nor his teammates ________ to school every morning.",
+          "marks": 1,
+          "options": {
+            "1": "walk",
+            "2": "walks",
+            "3": "has walked",
+            "4": "have walked"
+          }
+        },
+        "9": {
+          "stem_plain": "Had I known about the traffic jam, I ________ a different route.",
+          "marks": 1,
+          "options": {
+            "1": "will take",
+            "2": "would take",
+            "3": "will have taken",
+            "4": "would have taken"
+          }
+        },
+        "10": {
+          "stem_plain": "________ the good news, my entire family celebrated with joy.",
+          "marks": 1,
+          "options": {
+            "1": "Receive",
+            "2": "Received",
+            "3": "To receive",
+            "4": "Having received"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — 插入语结构 (together with)",
+          "zh": "班长和一群学生对即将到来的国庆庆祝活动感到非常兴奋。",
+          "note": "考点：当主语后面连接由 together with, as well as, along with 等引导的介词短语时，谓语动词的单复数形式由前面的核心主语（The class monitor，单数）决定。描述一般状态，故选 is。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "介词短语辨析 — 让步关系表达 (In spite of)",
+          "zh": "尽管试卷里有难题，阿hmad还是准时完成了测试。",
+          "note": "考点：后半句提到了“准时完成”，与前半句的“题目很难”构成让步/转折关系。In spite of 意为“尽管”，符合句意；Due to / Because of 表示因果；Instead of 表示替代。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "主谓一致与动词时态 — 不可数名词与现在完成时时间状语 (since)",
+          "zh": "由于暴雨，家具自昨晚以来一直潮湿。",
+          "note": "考点：1. 时间状语 since last night 提示句子需要使用现在完成时；2. furniture（家具）是不可数名词，谓语动词必须使用单数形式 has been。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "反意疑问句 — 以 Let's 开头的祈使句附加疑问部分",
+          "zh": "“让我们为了这个项目一起工作吧，好吗？”莉迪亚提议道。",
+          "note": "考点：以 Let's 开头的祈使句，表示建议或邀请对方一起加入行动，其反意疑问句部分有固定的表达方式，即 shall we。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "反意疑问句 — There be 结构的现在完成时反意疑问句",
+          "zh": "食物浪费的数量已经减少了，不是吗？",
+          "note": "考点：陈述句部分是 There's been (There has been) 结构的肯定形式，因此反意疑问句部分要对应使用否定形式 hasn't there。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "代词的人称格 — 介词后的宾格代词 (between)",
+          "zh": "请把这个秘密保守在你我之间。",
+          "note": "考点：between 是介词，后面连接并列的人称代词时，所有代词都需要使用宾格形式（you 是宾格，对应的单数第一人称宾格是 me）。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "动词时态 — 过去完成进行时 (had been doing)",
+          "zh": "今天早上当我到达学校时，坎迪斯已经在那里等了我30分钟了。",
+          "note": "考点：By the time 引导的时间状语从句使用的是一般过去时（got），而主句的动作“等待”在这个过去时间点之前就已经发生，并且持续了“30分钟”（for 30 minutes），即“过去的过去”，因此需使用过去完成进行时（had been waiting）。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "主谓一致与时态 — Neither... nor... 句型与时间状语 (every morning)",
+          "zh": "杰里米和他的队友们每天早上都不步行去学校。",
+          "note": "考点：1. Neither... nor... 结构遵循“就近原则”，谓语动词的单复数与邻近的主语（his teammates，复数）保持一致；2. 时间状语 every morning 提示使用一般现在时，故复数主语搭配动词原形 walk。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "虚拟语气 — 条件状语从句的倒装与对过去的虚拟",
+          "zh": "如果我早知道堵车，我就会走另一条路了。",
+          "note": "考点：句首的 Had I known... 是 If I had known... 的倒装形式，表示对过去事实的虚拟。主句对应的谓语动词形式应该为 would have + 过去分词（would have taken）。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "分词短语作状语 — Having + 过去分词 (Perfect Participle) 表示先后发生",
+          "zh": "在收到好消息后，我的全家人都欢快地庆祝起来。",
+          "note": "考点：句子的前后两个动作有明显的先后顺序，“收到好消息”发生在“庆祝”之前，所以使用现在分词的完成式 Having received 来作时间/原因状语。",
+          "answer": "4"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The teacher ________ the students' artwork on the wall.",
+          "options": {
+            "1": "put up",
+            "2": "set aside",
+            "3": "turn down",
+            "4": "brought about"
+          }
+        },
+        "12": {
+          "stem_plain": "He ________ disobeyed the rules, knowing that his actions would have serious consequences.",
+          "options": {
+            "1": "blindly",
+            "2": "wilfully",
+            "3": "impulsively",
+            "4": "unwittingly"
+          }
+        },
+        "13": {
+          "stem_plain": "Being a kind-hearted girl, Matilda would offer to help anyone ________.",
+          "options": {
+            "1": "jump the gun",
+            "2": "cut to the chase",
+            "3": "at the drop of a hat",
+            "4": "once in a blue moon"
+          }
+        },
+        "14": {
+          "stem_plain": "The residents were ________ when they saw that their house was completely burnt down by the fire, leaving them homeless.",
+          "options": {
+            "1": "dejected",
+            "2": "disturbed",
+            "3": "devastated",
+            "4": "disappointed"
+          }
+        },
+        "15": {
+          "stem_plain": "The torrential rain began to ________ to a light drizzle by evening.",
+          "options": {
+            "1": "lessen",
+            "2": "reduce",
+            "3": "subside",
+            "4": "decrease"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "老师把学生的艺术作品挂在了墙上。",
+          "note": "‘put up’是短语动词，意思是张贴、挂起，符合将作品展示在墙上的语境。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "put up",
+              "zh": "张贴，挂起，建造",
+              "eg": "They put up a notice on the board to announce the meeting date."
+            },
+            {
+              "opt": "2",
+              "word": "set aside",
+              "zh": "留出，拨出",
+              "eg": "She tried to set aside some time every morning for reading."
+            },
+            {
+              "opt": "3",
+              "word": "turn down",
+              "zh": "拒绝，调小（音量）",
+              "eg": "He had to turn down the invitation because he was too busy."
+            },
+            {
+              "opt": "4",
+              "word": "brought about",
+              "zh": "引起，导致",
+              "eg": "The new manager brought about many positive changes in the shop."
+            }
+          ]
+        },
+        "12": {
+          "zh": "他故意违反了规定，明明知道他的行为会带来严重的后果。",
+          "note": "‘wilfully’意思是故意地、任性地，与后文“明知有严重后果”的语境完全吻合。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "blindly",
+              "zh": "盲目地",
+              "eg": "You should not blindly follow fashion trends without thinking."
+            },
+            {
+              "opt": "2",
+              "word": "wilfully",
+              "zh": "故意地，任性地",
+              "eg": "He wilfully damaged the public property and was fined by the police."
+            },
+            {
+              "opt": "3",
+              "word": "impulsively",
+              "zh": "冲动地",
+              "eg": "She impulsively bought the expensive dress without checking her budget."
+            },
+            {
+              "opt": "4",
+              "word": "unwittingly",
+              "zh": "不知不觉地，无意地",
+              "eg": "He unwittingly revealed the secret plan to his rival during lunch."
+            }
+          ]
+        },
+        "13": {
+          "zh": "作为一个心地善良的女孩，马蒂尔达会毫不犹豫地向任何人提供帮助。",
+          "note": "‘at the drop of a hat’是一个习语，意思是“毫不犹豫地、立即”，形容乐于助人的迫切态度。",
+          "concept": "Idioms MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "jump the gun",
+              "zh": "操之过急，行动过早",
+              "eg": "Do not jump the gun and celebrate before the results are announced."
+            },
+            {
+              "opt": "2",
+              "word": "cut to the chase",
+              "zh": "开门见山，直奔主题",
+              "eg": "We have limited time, so please cut to the chase and state your main idea."
+            },
+            {
+              "opt": "3",
+              "word": "at the drop of a hat",
+              "zh": "毫不犹豫地，立即",
+              "eg": "If you need assistance, call me and I will come at the drop of a hat."
+            },
+            {
+              "opt": "4",
+              "word": "once in a blue moon",
+              "zh": "千载难逢地，极少",
+              "eg": "My busy uncle visits our house once in a blue moon due to work."
+            }
+          ]
+        },
+        "14": {
+          "zh": "当居民们看到他们的房子被大火完全烧毁、让他们无家可归时，他们感到痛不欲生。",
+          "note": "‘devastated’形容极度震惊和绝望的，最适合用来表达家园被毁、无家可归的沉重打击。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dejected",
+              "zh": "沮丧的，灰心的",
+              "eg": "He felt dejected after failing his driving test for the second time."
+            },
+            {
+              "opt": "2",
+              "word": "disturbed",
+              "zh": "受到打扰的，心神不宁的",
+              "eg": "The teacher was disturbed by the noisy behavior of the class."
+            },
+            {
+              "opt": "3",
+              "word": "devastated",
+              "zh": "极度震惊的，痛不欲生的",
+              "eg": "She was devastated by the sudden loss of her favorite pet cat."
+            },
+            {
+              "opt": "4",
+              "word": "disappointed",
+              "zh": "失望的",
+              "eg": "The boy was disappointed when the football match was canceled."
+            }
+          ]
+        },
+        "15": {
+          "zh": "到傍晚时分，倾盆大雨开始减弱为绵绵细雨。",
+          "note": "‘subside’意思是（雨、风、暴风雨或情绪等）趋于平静、减弱，与天气现象最为搭配。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lessen",
+              "zh": "减少，减轻 (通常指数量或程度的变小)",
+              "eg": "The doctor gave him medication to lessen the intense pain."
+            },
+            {
+              "opt": "2",
+              "word": "reduce",
+              "zh": "减少，降低 (通常后接宾语)",
+              "eg": "Drivers must reduce their speed when driving through school zones."
+            },
+            {
+              "opt": "3",
+              "word": "subside",
+              "zh": "减弱，平息 (指风雨等自然现象自然消退)",
+              "eg": "We waited in the shop for the heavy storm to subside before leaving."
+            },
+            {
+              "opt": "4",
+              "word": "decrease",
+              "zh": "减少，下降 (多用于数量或数字的递减)",
+              "eg": "The temperature will decrease quickly after the sun goes down."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "Professor Marlo was a well-known inventor. His workshop was a ________ of tubes, levers and spinning wheels.",
+          "options": {
+            "1": "unit",
+            "2": "section",
+            "3": "display",
+            "4": "collection"
+          }
+        },
+        "17": {
+          "stem_plain": "One morning, his assistant, Pip, looking ________, approached the workshop door and froze.",
+          "options": {
+            "1": "wary",
+            "2": "clumsy",
+            "3": "deprived",
+            "4": "exhausted"
+          }
+        },
+        "18": {
+          "stem_plain": "In the centre of the room sat an enormous machine, its fraying wires ________ holding together.",
+          "options": {
+            "1": "purely",
+            "2": "merely",
+            "3": "scarcely",
+            "4": "carefully"
+          }
+        },
+        "19": {
+          "stem_plain": "\"Professor, is that safe?\" Pip asked, ________ to step any closer.",
+          "options": {
+            "1": "unable",
+            "2": "unafraid",
+            "3": "unwilling",
+            "4": "undeterred"
+          }
+        },
+        "20": {
+          "stem_plain": "The old man acknowledged that the machine was, perhaps, a little ________.",
+          "options": {
+            "1": "averse",
+            "2": "unusual",
+            "3": "hazardous",
+            "4": "complicated"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "zh": "马洛教授是一位著名的发明家。他的作坊里聚集着许多管道、杠杆和旋转的轮子。",
+          "note": "‘cluster’指聚集在一起的人或物，在语境中意为堆积、聚集，与‘collection’（收集物、聚集在一起的东西）意思最接近。",
+          "concept": "Vocabulary Context MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unit",
+              "zh": "单位，单元",
+              "eg": "The text book is divided into a single introductory unit and four main chapters."
+            },
+            {
+              "opt": "2",
+              "word": "section",
+              "zh": "部分，区域",
+              "eg": "The sports section of the morning newspaper covers local football scores."
+            },
+            {
+              "opt": "3",
+              "word": "display",
+              "zh": "陈列，展览",
+              "eg": "The museum put a rare display of ancient pottery near the entrance."
+            },
+            {
+              "opt": "4",
+              "word": "collection",
+              "zh": "收藏品，聚集物",
+              "eg": "She has a large collection of colorful stamps from around the world."
+            }
+          ]
+        },
+        "17": {
+          "zh": "一天早上，他的助手皮普看起来精疲力竭，走到作坊门口突然呆住了。",
+          "note": "‘dead on his feet’是一个习语，字面意思是“站着死去了”，实际意思是“极度劳累、精疲力竭”，对应‘exhausted’。",
+          "concept": "Idioms Context MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "wary",
+              "zh": "警惕的，谨慎的",
+              "eg": "The stray dog was very wary of strangers approaching its path."
+            },
+            {
+              "opt": "2",
+              "word": "clumsy",
+              "zh": "笨拙的",
+              "eg": "His clumsy movements caused him to knock the water glass over."
+            },
+            {
+              "opt": "3",
+              "word": "deprived",
+              "zh": "被剥夺的，缺乏的",
+              "eg": "The plants grew weak because they were deprived of sunlight."
+            },
+            {
+              "opt": "4",
+              "word": "exhausted",
+              "zh": "精疲力竭的",
+              "eg": "The marathon runners felt completely exhausted after crossing the line."
+            }
+          ]
+        },
+        "18": {
+          "zh": "房间中央坐落着一台巨大的机器，它磨损的电线仅仅勉强连接在一起。",
+          "note": "‘just barely’意思是仅仅、勉强，常用来表达刚好达到某界限，近义词是‘scarcely’（几乎不、勉强）。",
+          "concept": "Vocabulary Context MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "purely",
+              "zh": "纯粹地，完全地",
+              "eg": "The choice to move abroad was purely based on his career goals."
+            },
+            {
+              "opt": "2",
+              "word": "merely",
+              "zh": "仅仅，只",
+              "eg": "He is merely a regular helper and does not make big project decisions."
+            },
+            {
+              "opt": "3",
+              "word": "scarcely",
+              "zh": "几乎不，勉强，刚好",
+              "eg": "The voice was so quiet that I could scarcely hear the main words."
+            },
+            {
+              "opt": "4",
+              "word": "carefully",
+              "zh": "仔细地，小心地",
+              "eg": "The scientist carefully added the chemical liquids into the tube."
+            }
+          ]
+        },
+        "19": {
+          "zh": "“教授，那安全吗？”皮普问道，不愿意再走近一步。",
+          "note": "‘reluctant’意思是勉强的、不情愿的，与‘unwilling’（不愿意的）意思相近。",
+          "concept": "Vocabulary Context MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unable",
+              "zh": "不能的，无法的",
+              "eg": "She was unable to attend the conference because of a flight delay."
+            },
+            {
+              "opt": "2",
+              "word": "unafraid",
+              "zh": "不怕的，无畏的",
+              "eg": "The courageous child stood unafraid before the big friendly horse."
+            },
+            {
+              "opt": "3",
+              "word": "unwilling",
+              "zh": "不愿意的，不情愿的",
+              "eg": "The boy was unwilling to share his favorite toy with his brother."
+            },
+            {
+              "opt": "4",
+              "word": "undeterred",
+              "zh": "未被吓退的，不受阻挠的",
+              "eg": "Undeterred by the heavy wind, the hikers continued up the mountain."
+            }
+          ]
+        },
+        "20": {
+          "zh": "老头儿承认，这台机器也许确实有一点危险。",
+          "note": "‘dangerous’意思是危险的，与形容词‘hazardous’（危险的、有害的）构成直接近义词。",
+          "concept": "Vocabulary Context MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "averse",
+              "zh": "反感的，反对的",
+              "eg": "He is not averse to hard work if the payment is fair."
+            },
+            {
+              "opt": "2",
+              "word": "unusual",
+              "zh": "不同寻常的，独特的",
+              "eg": "Seeing heavy snow in this warm region is an unusual event."
+            },
+            {
+              "opt": "3",
+              "word": "hazardous",
+              "zh": "危险的，有危害的",
+              "eg": "The workers wore safety gear to handle the hazardous waste material."
+            },
+            {
+              "opt": "4",
+              "word": "complicated",
+              "zh": "复杂的，难懂的",
+              "eg": "The instructions were too complicated for the beginners to follow."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Professor Marlo was a well-known inventor. His workshop was a [Q16(cluster)] of tubes, levers and spinning wheels. Nobody quite knew what any of it did, but the old man was rarely seen without grease on his fingers and a grin on his face.",
+          "One morning, his assistant, Pip, looking [Q17(dead on his feet)], approached the workshop door and froze. Something was different. In the centre of the room sat an enormous machine, its fraying wires [Q18(just barely)] holding together. A faint hum filled the air.",
+          "\"Professor, is that safe?\" Pip asked, [Q19(reluctant)] to step any closer.",
+          "The old man acknowledged that the machine was, perhaps, a little [Q20(dangerous)]. \"But where's the fun if there's no risk?\" he chuckled, his eyes twinkling."
+        ],
+        "zh": [
+          "马洛教授是一位著名的发明家。他的作坊里聚集着许多管道、杠杆和旋转的轮子。没有人确切知道这一切有什么用，但很少看到这个老头的手指上没有油污，脸上没有笑容。",
+          "一天早上，他的助手皮普看起来精疲力竭，走到作坊门口突然呆住了。有些东西变得不一样了。房间中央坐落着一台巨大的机器，它磨损的电线仅仅勉强连接在一起。空气中弥漫着微弱的嗡嗡声。",
+          "“教授，那安全吗？”皮普问道，不愿意再走近一步。",
+          "老头儿承认，这台机器也许确实有一点危险。“但如果没有冒险，那还有什么乐趣呢？”他咯咯地笑着，眼睛里闪烁着光芒。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to Text 1, what is the main purpose of the poster titled \"I CAN ACT AGAINST SCAMS!\"?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to share stories of scam cases in Singapore",
+            "2": "to recruit volunteers for the Young anti-Scam Ambassador Workshop",
+            "3": "to show how the crime prevention organisations help the public deal with scams",
+            "4": "to raise awareness about scams and teach people how to protect themselves from them"
+          }
+        },
+        "22": {
+          "stem_plain": "In the slogan \"Together, We Can Be Scam-Smart\", the use of the word \"Together\" primarily suggests that ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "collective effort is required to effectively fight scams",
+            "2": "everyone must undergo the same training programme",
+            "3": "scams can only be stopped if people live in the same community",
+            "4": "the organisers and the public will deal with the scams by scanning the QR code"
+          }
+        },
+        "23": {
+          "stem_plain": "In Text 1, how does the design of the poster most effectively persuade the public to support the \"I CAN ACT AGAINST SCAMS!\" initiative?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It includes a guide to explain the step-by-step process of reporting a scam.",
+            "2": "It places the logos of authoritative organisations near the top to establish trust.",
+            "3": "It uses bold, capitalised letters in the heading to demand the reader's immediate attention.",
+            "4": "It uses a variety of font styles and sizes to distinguish between information meant for children and adults."
+          }
+        },
+        "24": {
+          "stem_plain": "In Text 2, what does Ms Sarah Lee suggest when she says that \"students are a crucial line of defence\"?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Students are the only ones capable of identifying modern scam tactics.",
+            "2": "Students can play an active role in protecting their family members from scams.",
+            "3": "Students need to be tech-savvy to participate in the \"I Can Act Against Scams\" event.",
+            "4": "Students should be the ones to report all suspicious activities to the Singapore Police Force."
+          }
+        },
+        "25": {
+          "stem_plain": "Which idea is expressed in both Text 1 and Text 2?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Scams are always easy to identify and avoid.",
+            "2": "Role-playing is the most effective part of anti-scam workshops.",
+            "3": "People should be alert and act against scams by following simple steps.",
+            "4": "Only people who are good with technology can learn how to avoid scams."
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "海报通过“3-Step Guide”（三步指南）传授防诈知识，并推广相关的普及工作坊与测试，核心目的是提升大众的防诈骗意识并教导如何自我保护。因此选择选项4。",
+          "concept": "视觉文本主旨判断",
+          "answer": "4"
+        },
+        "22": {
+          "note": "标语中的“Together”（共同/齐心协力）强调防范诈骗不仅仅是个人的事，而是需要整个社会和集体的共同努力（collective effort），这与文本2中提到“这是关于整个社区保持警惕”相互呼应。因此选择选项1。",
+          "concept": "关键词含义与修辞意图",
+          "answer": "1"
+        },
+        "23": {
+          "note": "海报顶部醒目地放置了新加坡警察部队（SPF）和全国罪案防范理事会（NCPC）等权威机构的徽标。这种设计手段可以有效建立公信力与信任感，从而说服公众支持该项倡议。因此选择选项2。",
+          "concept": "视觉设计元素的作用",
+          "answer": "2"
+        },
+        "24": {
+          "note": "文本2中Ms Sarah Lee明确解释了原因：“because we realised students are a crucial line of defence in protecting their families from the latest scam tactics”，即学生能积极保护其家人免受诈骗。因此选择选项2。",
+          "concept": "特定表述的含义推断",
+          "answer": "2"
+        },
+        "25": {
+          "note": "文本1（海报）详细列出了“Sense, Check, Act”这三个简单直接的防诈步骤；文本2中Ms Sarah Lee也提到通过练习这三个步骤来应对可疑请求。两文共同传达了“人们应该保持警惕并通过遵循简单步骤来对抗诈骗”的观点。因此选择选项3。",
+          "concept": "跨文本共同核心观点提炼",
+          "answer": "3"
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "指示代词",
+          "note": "“those of humans” 意为“人类的（个性）”。用复数指示代词those指代前文提到的复数名词personalities，避免重复。",
+          "answer": "N"
+        },
+        "27": {
+          "concept": "介词搭配",
+          "note": "“rescuing swimmers from shark attacks” 意为“从鲨鱼袭击中解救游泳者”，rescue... from... 为固定搭配。",
+          "answer": "E"
+        },
+        "28": {
+          "concept": "定语从句关系代词",
+          "note": "先行词是“researchers”（研究人员），在定语从句中作主语，故用关系代词who引导。",
+          "answer": "Q"
+        },
+        "29": {
+          "concept": "转折连词",
+          "note": "“However, this close bond...” 意为“然而，这种亲密的纽带并不局限于它们自己的物种”，起到承上启下的转折作用，置于句首需大写。",
+          "answer": "F"
+        },
+        "30": {
+          "concept": "介词搭配",
+          "note": "“swimming across oceans” 意为“横渡海洋”，表示从海洋的一侧游到另一侧。",
+          "answer": "A"
+        },
+        "31": {
+          "concept": "不定式目的状语/固定短语",
+          "note": "“in order to” 意为“为了/以便”，此处与前面的from afar以及后面的avoid结合，完整结构为 “from afar in order to avoid...”，或者可根据选项填入in（配合后文的to），即“in order to”。",
+          "answer": "G"
+        },
+        "32": {
+          "concept": "形容词性物主代词",
+          "note": "“protect their habitats” 意为“保护它们的栖息地”，their指代前文提及的复数名词these creatures/dolphins。",
+          "answer": "L"
+        },
+        "33": {
+          "concept": "条件状语从句连词",
+          "note": "“Unless we take action...” 意为“除非我们采取行动，否则……”，引导否定条件状语从句，置于句首需大写。",
+          "answer": "P"
+        },
+        "34": {
+          "concept": "介词搭配",
+          "note": "“It is the responsibility of everyone” 意为“这是每个人的责任”，the responsibility of 为固定搭配。",
+          "answer": "K"
+        },
+        "35": {
+          "concept": "限定词",
+          "note": "“Every effort to protect...” 意为“每一项保护海洋的努力”，every修饰单数可数名词effort，置于句首需大写。",
+          "answer": "D"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "across",
+          "B": "and",
+          "C": "by",
+          "D": "every",
+          "E": "from",
+          "F": "however",
+          "G": "in",
+          "H": "into",
+          "J": "its",
+          "K": "of",
+          "L": "their",
+          "M": "them",
+          "N": "those",
+          "P": "unless",
+          "Q": "who"
+        },
+        "cloze": [
+          "Dolphins have long fascinated humans due to their intelligence and playfulness. Recent studies suggest that these marine mammals have distinct personalities, much like [Q26] of humans. This natural connection often stems from stories of dolphins rescuing swimmers [Q27] shark attacks. This is why there are now many researchers [Q28] study these creatures, believing that their sociable nature is a survival mechanism. They live in pods and rely on one another to hunt. [Q29], this close bond is not limited to their own species.",
+          "Dolphins often show curiosity towards humans, sometimes swimming [Q30] oceans just to interact with boats. While it is tempting to treat them as pets, we must remember they are wild. We should admire them from afar [Q31] order to avoid disrupting their natural habits. Efforts are being made to protect [Q32] habitats from pollution and its harmful effects. [Q33] we take action to keep the oceans clean, these magnificent creatures will face a decline in population. It is the responsibility [Q34] everyone to ensure that dolphins continue to thrive. [Q35] effort to protect the oceans will benefit the world's marine life. Preserving these intelligent animals and their environment is a legacy we must leave for future generations."
+        ],
+        "zh": [
+          "由于海豚的聪明和贪玩，它们长期以来一直吸引着人类。最近的研究表明，这些海洋哺乳动物具有独特的个性，非常类似于人类的个性。这种天生的联系往往源于海豚从鲨鱼袭击中营救游泳者的故事。这就是为什么现在有许多研究人员在研究这些生物，他们相信它们善于社交的天性是一种生存机制。它们生活在群体中，并依靠彼此进行捕猎。然而，这种紧密的纽带并不局限于它们自己的物种。",
+          "海豚经常对人类表现出好奇心，有时为了与船只互动而横渡海洋。虽然把它们当成宠物很诱人，但我们必须记住它们是野生动物。我们应该从远处赞美它们，以便避免破坏它们的自然习性。人们正在努力保护它们的栖息地免受污染及其有害影响。除非我们采取行动保持海洋清洁，否则这些雄伟的生物将面临数量减少的局面。确保海豚继续繁衍是每个人的责任。每一项保护海洋的努力都将造福于世界的海洋生物。保护这些聪明的动物及其环境是我们必须为后代留下的遗产。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "词形变化 (不定式)",
+          "note": "在动词不定式结构“wanted to + 动词原形”中，conducts 应当改为动词原形 conduct。",
+          "answer": "conduct"
+        },
+        "37": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“科学设备”的名词 ekuipment 应纠正为 equipment。",
+          "answer": "equipment"
+        },
+        "38": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“温度”的名词 tempreture 应纠正为 temperature。",
+          "answer": "temperature"
+        },
+        "39": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“惊人的、壮丽的”形容词 breadthtaking 应纠正为 breathtaking。",
+          "answer": "breathtaking"
+        },
+        "40": {
+          "concept": "词性转换",
+          "note": "此处应用副词修饰动词 floated，表示“静静地漂浮”，应将名词 silence 改为副词形式 silently。",
+          "answer": "silently"
+        },
+        "41": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“远处”的名词 deestence 应纠正为 distance。",
+          "answer": "distance"
+        },
+        "42": {
+          "concept": "词性转换",
+          "note": "在形容词性物主代词 their 后面应该使用名词作宾语，表示“观察它们的行为”，应将动词 behave 改为名词形式 behaviour（或 behavior）。",
+          "answer": "behaviour"
+        },
+        "43": {
+          "concept": "词形变化 (比较级)",
+          "note": "与后面的 than 连用表示“比平时更远”，应将形容词原形 far 改为比较级形式 farther（或 further）。",
+          "answer": "farther"
+        },
+        "44": {
+          "concept": "词形变化 (时态)",
+          "note": "整篇故事是使用过去时态来记叙上个月的科学考察，动词 worry 应当改为过去式形式 worried。",
+          "answer": "worried"
+        },
+        "45": {
+          "concept": "单词拼写",
+          "note": "拼写错误，副词“成功地”应将 sucsessfuly 纠正为 successfully。",
+          "answer": "successfully"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Last month, Dr Sarah Chen and her team of five scientists embarked on an exciting expedition to the Arctic. They wanted to [Q36(conducts)] a study on how climate change was affecting the polar bears and their habitat. The team packed warm clothing, scientific [Q37(ekuipment)] and enough food supplies for three weeks. The [Q38(tempreture)] was -30°C when they arrived at the research station. The landscape was [Q39(breadthtaking)], with endless stretches of white snow and ice. Huge icebergs floated [Q40(silence)] in the dark blue ocean, creating a magnificent sight. On their first day, the scientists spotted a family of polar bears in the [Q41(deestence)].",
+          "The mother bear was teaching her two cubs how to hunt for seals. Dr Chen carefully observed their [Q42(behave)] through her binoculars and recorded detailed notes. She noticed that the bears had to travel much [Q43(far)] than usual to find food because the ice was thinner as compared to previous years. The team discovered that the ice was melting faster than expected. This [Q44(worry)] them because polar bears depend on the ice to hunt and survive.",
+          "Despite the harsh conditions and freezing winds, the team completed their research [Q45(sucsessfuly)]. They gathered valuable information that would help scientists around the world better understand the effects of global warming on Arctic wildlife."
+        ],
+        "zh": [
+          "上个月，萨拉·陈博士和她的五人科学家团队踏上了前往北极的令人兴奋的探险之旅。他们想针对气候变化如何影响北极熊及其栖息地进行一项研究。该团队打包了保暖衣物、科学设备以及足够维持三周的食物供应。当他们到达研究站时，气温为零下30摄氏度。这里的景色令人叹为观止，白雪和寒冰无边无际地延伸着。巨大的冰山在深蓝色的海洋中静静地漂浮，创造出一幅壮丽的景象。在第一天，科学家们就在远处发现了一个北极熊家族。",
+          "母熊正在教它的两只幼崽如何捕猎海豹。陈博士通过双筒望远镜仔细观察了它们的行为，并记录了详细的笔记。她注意到，与往年相比，由于冰层变薄，北极熊必须比平时走得更远才能找到食物。团队发现冰层融化的速度比预期的要快。这让他们感到担忧，因为北极熊依赖冰层来捕猎和生存。",
+          "尽管环境恶劣、寒风凛冽，该团队还是成功完成了他们的研究。他们收集了宝贵的信息，这将有助于全世界的科学家更好地了解全球变暖对北极野生动物的影响。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "动词词义辨析",
+          "note": "can live/survive for over 3,000 years 意为能“存活”超过3000年，情态动词 can 后接动词原形。",
+          "answer": "live"
+        },
+        "47": {
+          "concept": "名词固定搭配",
+          "note": "grow to a height of... 为固定搭配，意为“生长到……的高度”。",
+          "answer": "height"
+        },
+        "48": {
+          "concept": "名词固定搭配/词义辨析",
+          "note": "their incredible ability/capacity to survive 意为它们生存的令人难以置信的“能力”，ability 与动词不定式 to do 搭配。",
+          "answer": "ability"
+        },
+        "49": {
+          "concept": "动词词义辨析与保护语境",
+          "note": "protects/shields the tree's living tissue 意为这种天然盔甲“保护”树木的活体组织免受热力伤害，主语为单数 armour，故动词加 s。",
+          "answer": "protects"
+        },
+        "50": {
+          "concept": "介词固定搭配",
+          "note": "depend on/upon... 为固定搭配，意为“依赖/依靠”。",
+          "answer": "on"
+        },
+        "51": {
+          "concept": "动词固定短语/词义辨析",
+          "note": "release thousands of tiny seeds 意为“释放出”成千上万的微小种子，引起球果打开并释放种子，主语为复数 cones，故用动词原形。",
+          "answer": "release"
+        },
+        "52": {
+          "concept": "动词短语固定搭配",
+          "note": "wipes out competing plants 意为大火也“消灭/彻底清除”了有竞争关系的植物，wipe out 为固定短语。",
+          "answer": "out"
+        },
+        "53": {
+          "concept": "副词词义辨析",
+          "note": "instead of growing deep underground 意为而不是往地下“深处”生长，与前文的 horizontally（水平地）构成对比。",
+          "answer": "deep"
+        },
+        "54": {
+          "concept": "介词固定搭配",
+          "note": "in all directions 为固定搭配，意为“朝向四面八方/各个方向”。",
+          "answer": "in"
+        },
+        "55": {
+          "concept": "介词固定搭配",
+          "note": "stay upright during/in storms 意为在暴风雨中保持直立，表示在某一时期或环境下，填 during 最契合语境。",
+          "answer": "during"
+        },
+        "56": {
+          "concept": "副词/否定词辨析",
+          "note": "they never stop growing 意为它们在整个生命周期中“从不”停止生长，与后文的 throughout their entire lifespan 呼应。",
+          "answer": "never"
+        },
+        "57": {
+          "concept": "动词词义辨析",
+          "note": "Some of the largest specimens weigh as much as... 意为一些最大的标本“重达”……，此处用作谓语动词，主语为复数 specimens，故用原形。",
+          "answer": "weigh"
+        },
+        "58": {
+          "concept": "连词引导宾语从句",
+          "note": "Scientists believe that... 意为科学家们认为/相信……，that 引导宾语从句，常可省略但在此处作为标准关系连词最为合适。",
+          "answer": "that"
+        },
+        "59": {
+          "concept": "名词固定搭配",
+          "note": "poses a serious threat/danger to... 为固定搭配，意为对……构成严重的“威胁/危险”。",
+          "answer": "threat"
+        },
+        "60": {
+          "concept": "形容词词义辨析",
+          "note": "make it difficult/hard for young sequoias to survive 意为使年轻红杉的存活变得“困难”，构成 make it + adj. + for sb. to do sth. 的句型。",
+          "answer": "difficult"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Deep in the forests of California stand some of the most magnificent trees on Earth - the giant sequoias. These ancient giants can [Q46(live)] for over 3,000 years and grow to a [Q47(height)] of more than 80 metres.",
+          "What makes these trees truly special is their incredible [Q48(ability)] to survive forest fires. While most trees would be destroyed by flames, giant sequoias have developed thick, fire-resistant bark that can be up to 60 centimetres thick. This natural armour [Q49(protects)] the tree's living tissue from heat damage.",
+          "Surprisingly, giant sequoias actually depend [Q50(on)] forest fires to reproduce. The intense heat from fires causes their cones to open and [Q51(release)] thousands of tiny seeds. The fire also wipes [Q52(out)] competing plants and creates the perfect soil conditions for new sequoia seedlings to grow.",
+          "These remarkable trees have a unique root system that spreads horizontally instead of growing [Q53(deep)] underground. Although the roots extend only about two metres down, they can spread over 30 metres [Q54(in)] all directions. This wide network helps the massive trees stay upright [Q55(during)] storms and strong winds.",
+          "Giant sequoias grow incredibly slowly, adding only about one centimetre to their diameter each year. However, they [Q56(never)] stop growing throughout their entire lifespan. Some of the largest specimens [Q57(weigh)] as much as 2,000 tonnes - equivalent to about 400 elephants!",
+          "Scientists believe [Q58(that)] climate change must be slowed down because it poses a serious [Q59(threat)] to these ancient giants. Higher temperatures and changing rainfall patterns could make it [Q60(difficult)] for young sequoias to survive. Conservation efforts are now underway to protect these magnificent trees for future generations."
+        ],
+        "zh": [
+          "在加利福尼亚州的森林深处，耸立着地球上一些最壮丽的树木——巨杉。这些古老的巨人可以存活3000年以上，并能生长到80多米的高度。",
+          "让这些树木真正特殊的是它们令人难以置信的在森林火灾中幸存的能力。虽然大多数树木都会被火焰摧毁，但巨杉已经进化出了厚实的抗火树皮，厚度可达60厘米。这种天然的盔甲可以保护树木的活体组织免受热力伤害。",
+          "令人惊讶的是，巨杉实际上依赖森林火灾来繁衍后代。火灾带来的炽热高温促使它们的球果打开并释放出成千上万的微小种子。大火还会彻底清除有竞争关系的植物，并为新红杉幼苗的生长创造出完美的土壤条件。",
+          "这些非凡的树木拥有独特的根系，它们水平蔓延，而不是向地下深处生长。虽然它们的根只向下延伸约两米，但它们可以向四面八方蔓延超过30米。这种宽广的根系网络有助于这些庞然大物在暴风雨和强风中保持直立。",
+          "巨杉生长得极其缓慢，每年直径仅增加约一厘米。然而，在它们的整个生命周期中，它们从不停止生长。一些最大的标本重达2000吨——相当于大约400只大象的重量！",
+          "科学家们认为，必须减缓气候变化，因为它对这些古老的巨人构成了严重的威胁。更高的温度和不断变化的降雨模式可能会使年轻的红杉难以存活。目前人们正在开展保护工作，以保护这些壮丽的树木，造福子孙后代。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "The Environment Monitors put up eye-catching posters. Every student will remember to recycle their paper waste.",
+          "marks": 2,
+          "cue": "... so that ..."
+        },
+        "62": {
+          "stem_plain": "Cindy prefers designing digital animations. Her cousins are fond of building Lego structures.",
+          "marks": 2,
+          "cue": "... whereas ..."
+        },
+        "63": {
+          "stem_plain": "\"You must complete the prototype by this Monday!\" Mr Chen informed the students.",
+          "marks": 2,
+          "cue": "Mr Chen informed the students"
+        },
+        "64": {
+          "stem_plain": "The Parents Association was very generous. More students benefited from the financial assistance provided.",
+          "marks": 2,
+          "cue": "The Parents Association's"
+        },
+        "65": {
+          "stem_plain": "Mrs Ling told her students that they would be late for dismissal if they did not pack their bags quickly.",
+          "marks": 2,
+          "cue": "The students"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "目的状语从句 — 连词 so that 的用法",
+          "zh": "环保委员们张贴了引人注目的海报，以便每个学生都能记住回收他们的废纸。",
+          "note": "改写要点：使用复合连词 so that 连接两个独立的句子，后半句作目的状语从句，主从句逻辑顺畅，标点正确即可。",
+          "answer": "The Environment Monitors put up eye-catching posters so that every student will remember to recycle their paper waste."
+        },
+        "62": {
+          "concept": "并列连词表示对比 — whereas 的用法",
+          "zh": "辛迪更喜欢设计数字动画，而她的表兄弟们则喜欢拼搭乐高结构。",
+          "note": "改写要点：whereas 表示转折与对比，通常放在两个分句之间，用逗号隔开。前后两句的动作并列，注意保留完整句式结构。",
+          "answer": "Cindy prefers designing digital animations, whereas her cousins are fond of building Lego structures."
+        },
+        "63": {
+          "concept": "间接引语 — 含有情态动词的陈述句/祈使命令的转述与指示代词转换",
+          "zh": "陈先生通知学生们，他们必须在那个星期一之前完成原型。",
+          "note": "改写要点：1. 引导词用 that（可省略）；2. 人称代词转换：You -> they；3. 情态动词时态移位：must -> had to；4. 指示代词转换：this Monday -> that Monday。",
+          "answer": "Mr Chen informed the students that they had to complete the prototype by that Monday."
+        },
+        "64": {
+          "concept": "词性转换 — 形容词变名词 (generous -> generosity)",
+          "zh": "家长会的慷慨让更多的学生从提供的经济资助中受益。",
+          "note": "改写要点：句首给出了所有格 The Parents Association's，后面需要将形容词 generous 转换为对应的名词形式 generosity 作为主语。原句的第二个句子通过动词（如 allowed 或 enabled）或连词顺接组合，此处最地道的处理是转化为使动句：The Parents Association's generosity allowed more students to benefit from the financial assistance provided.",
+          "answer": "The Parents Association's generosity allowed more students to benefit from the financial assistance provided."
+        },
+        "65": {
+          "concept": "间接引语逆向转换/主被动语态调整 — 复杂主从句的间接引语转换",
+          "zh": "学生们被林太太告知，如果他们不赶快收拾书包，放学就会迟到。",
+          "note": "改写要点：原句是以 Mrs Ling 开头的主动语态转述句，改写要求以 The students 开头，需将其转换为被动语态结构 \"The students were told by Mrs Ling that...\"，后面的宾语从句及条件状语从句部分保持不变。",
+          "answer": "The students were told by Mrs Ling that they would be late for dismissal if they did not pack their bags quickly."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "What was Aoto doing when the police officer found him? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "67": {
+          "stem_plain": "\"Kenji nodded sympathetically at his mother's struggles.\" (lines 15-16). Explain fully what the \"struggles\" refer to. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "68": {
+          "stem_plain": "Based on lines 7 - 44, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement(s)",
+              "rows": [
+                "(a) Aoto's illness caused him to forget what time it was.",
+                "(b) Kenji got the idea for his invention while visiting his parents' laboratory.",
+                "(c) Kenji tested the invention on his father while he slept."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q68a]",
+                "[Q68c]",
+                "[Q68e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q68b]",
+                "[Q68d]",
+                "[Q68f]"
+              ]
+            }
+          }
+        },
+        "69": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answer on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) there (line 19)",
+                "(b) he (line 34)",
+                "(c) prototype (line 37)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q69a]",
+                "[Q69b]",
+                "[Q69c]"
+              ]
+            }
+          }
+        },
+        "70": {
+          "stem_plain": "Based on the passage, fill in the blanks below to show the cause-and-effect relationship in Kenji's invention process. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "cause",
+              "effect"
+            ],
+            "cause": {
+              "header": "Cause",
+              "rows": [
+                "a) [Q70a]",
+                "The sensor was very thin."
+              ]
+            },
+            "effect": {
+              "header": "Effect",
+              "rows": [
+                "Kenji spent a lot of time experimenting with small gadgets.",
+                "b) [Q70b]"
+              ]
+            }
+          }
+        },
+        "71": {
+          "stem_plain": "Fill in the following table with two-word phrases from Paragraph 6 that show Kenji's emotions when he faced challenges with his invention. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "emotion",
+              "two_word_phrase"
+            ],
+            "emotion": {
+              "header": "Emotion",
+              "rows": [
+                "(a) discouraged",
+                "(b) stressed"
+              ]
+            },
+            "two_word_phrase": {
+              "header": "Two-word phrase",
+              "rows": [
+                "[Q71a]",
+                "[Q71b]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "When Kenji started to work on his prototype, why did he find that \"turning his idea into reality was not easy\" (line 28)? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "73": {
+          "stem_plain": "Using information from lines 27 - 41, answer the following questions.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "Refer to lines 27 - 41. Tick ONE positive trait Kenji possesses. [1m]",
+              "interaction": "radio_comp",
+              "options": [
+                "courageous",
+                "generous",
+                "empathetic",
+                "resilient"
+              ]
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "Support your answer with evidence from the passage. [1m]",
+              "interaction": "open_ended"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "How do we know that Kenji was humble enough to continue to make his product better? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "75": {
+          "stem_plain": "Explain clearly why Kenji thought that \"his small idea had made a big impact\". [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "Literal Retrieval",
+          "note": "<ol><li><strong>题型：</strong>直接信息提取题——考查学生根据首段事实准确抓取角色特定行为细节的能力（1分）。</li><li><strong>得分点：</strong>定位到行3，指出他当时在公路附近游荡（<span class='hl-good'>wandering near the highway</span>）。</li><li><strong>失分点：</strong>回答过于宽泛（如只回答“走失了”），没有精准定位到“游荡”的具体身体行动特征。</li></ol>",
+          "type": "comprehension",
+          "answer": "He was wandering near the highway."
+        },
+        "67": {
+          "concept": "Contextual Inference & Synthesis",
+          "note": "<ol><li><strong>题型：</strong>代词/概念全面阐释题——要求深入剖析母亲面临的多重具体“挣扎与困难”（2分）。</li><li><strong>得分点：</strong>需要全面（fully）概括两点。1分归于<span class='hl-good'>caring for her father every day</span>（每天都在不辞辛劳地照顾患病的父亲）；另1分归于<span class='hl-good'>forcing herself to stay awake many nights to listen carefully in case he tried to leave his bed again</span>（许多个夜晚不得不强迫自己保持清醒以防止父亲再次偷偷下床走失）。</li><li><strong>失分点：</strong>只回答了“每天照顾父亲”这一项，缺失了“夜间强忍睡意看护”的并列核心挣扎。</li></ol>",
+          "type": "comprehension",
+          "answer": "The struggles refer to Kenji's mother having to care for her father every day, and forcing herself to stay awake many nights to listen carefully in case he tried to leave his bed and wander off."
+        },
+        "68": {
+          "concept": "True/False with Justification",
+          "note": "<ol><li><strong>题型：</strong>判断正误并说明理由题——考查跨段落核对核心事实并完成对应逻辑推断的能力（3分）。</li><li><li><strong>a) 小题：</strong><span class='hl-good'>True</span>。理由：文中第7-8行明确指出“The illness often caused him to forget where he was or what time it was”（疾病经常导致他忘记时间）。</li><li><li><strong>b) 小题：</strong><span class='hl-good'>False</span>。理由：第21-24行明确指出，他是某天晚上在床边看护祖父时（while checking on his grandfather），观察到祖父双腿移到床边并踩到地板的动作，从而突然触发了灵感，而不是在参观实验室时想到的。</li><li><li><strong>c) 小题：</strong><span class='hl-good'>False</span>。理由：第42-43行指出，他在睡觉前是把袜子穿在了祖父（Aoto）的脚上进行测试，而不是在父亲睡觉时在父亲身上做测试（父亲只是在白天清醒时试穿了原型并称赞其舒适度）。</li><li><strong>失分点：</strong>判断错误全题无分；理由句指代混淆或逻辑错误不得分。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "Q68a": "True",
+            "Q68b": "The passage states that Aoto's illness often caused him to forget where he was or what time it was.",
+            "Q68c": "False",
+            "Q68d": "Kenji got the idea for his invention one evening while he was checking on his grandfather and noticed his grandfather's feet pressing against the floor.",
+            "Q68e": "False",
+            "Q68f": "Kenji tested the invention at bedtime by helping his grandfather, Aoto, put on the sock, rather than testing it on his father while his father slept."
+          }
+        },
+        "69": {
+          "concept": "Contextual Referencing",
+          "note": "<ol><li><strong>题型：</strong>代词/术语指代还原题——考查返回原文精准还原指示代词、人称代词和抽象名词具体内涵的能力（3分）。</li><li><li><strong>(a) there (行 19)：</strong>向前追溯行17，明确指向 <span class='hl-good'>his parents' laboratory</span>（他父母的实验室）。</li><li><li><strong>(b) he (行 34)：</strong>结合上下文对话，父亲问他“又卡住了吗？”，肯基头也不抬地回答，故指代的是 <span class='hl-good'>Kenji's father</span>（肯基的父亲）。</li><li><li><strong>(c) prototype (line 37)：</strong>结合前文，指的是他研发出来的核心实体，即 <span class='hl-good'>a sock with a pressure sensor attached to the bottom</span>（底部附有压力传感器的袜子/可工作的发明原型）。</li><li><strong>失分点：</strong>(c)小题仅写了一双普通袜子（regular sock）而遗漏了其最本质的“带传感器”的科技发明属性。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "Q69a": "His parents' laboratory",
+            "Q69b": "Kenji's father",
+            "Q69c": "A sock with a pressure sensor attached to the bottom"
+          }
+        },
+        "70": {
+          "concept": "Cause and Effect Mapping",
+          "note": "<ol><li><strong>题型：</strong>因果关系链条填空题——考查根据文中事实进行逻辑的前置条件和后置结果提取能力（2分）。</li><li><li><strong>(a) 原因得分点：</strong>定位行17-18，由于他从小就喜欢参观父母的实验室（<span class='hl-good'>Kenji loved visiting his parents' laboratory since he was little</span>），这极大地激发了他对科技的热爱，从而导致他在那里花大量时间做小零件实验。</li><li><li><strong>(b) 结果得分点：</strong>定位行38-39，正因为传感器非常薄（The sensor was very thin），所以带来的直接物理结果是父亲试穿时感到非常舒适/惊讶（<span class='hl-good'>the sock felt very comfortable when his father tried it on</span>）。</li><li><strong>失分点：</strong>因果错位或信息提炼不切中要害。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "Q70a": "Kenji loved visiting his parents' laboratory ever since he was little.",
+            "Q70b": "The sock felt very comfortable when Kenji's father tried it on."
+          }
+        },
+        "71": {
+          "concept": "Phrase Matching / Emotion Identification",
+          "note": "<ol><li><strong>题型：</strong>两字限定词组匹配提取题——考查从第六段（行27-35）中精准抓取两字神态细节以映射目标情感标签的能力（2分）。</li><li><li><strong>(a) discouraged：</strong>对应行33，他感到气馁、受挫时的两字动作神态是肩膀耷拉着（<span class='hl-good'>shoulders slumped</span>）。</li><li><li><strong>(b) stressed：</strong>对应行34，他感到压力大、正在苦思冥想解决难题时的两字面部神态是眉头紧锁（<span class='hl-good'>brows furrowed</span>）。</li><li><li><strong>失分点：</strong>多抄或漏抄单词使得词组不符合“两字词组（two-word phrases）”的严格限制，或包含不属于第六段的内容。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "Q71a": "shoulders slumped",
+            "Q71b": "brows furrowed"
+          }
+        },
+        "72": {
+          "concept": "Multi-point Retrieval / Challenge Analysis",
+          "note": "<ol><li><strong>题型：</strong>双要素困难阻碍提取题——深入剖析他在将灵感转化为原型时遭遇的两大技术瓶颈（2分）。</li><li><li><strong>得分点：</strong>答出两个不同维度的难关。难关一（硬件限制）：他需要找到一个<span class='hl-good'>sensor that was small and comfortable enough to wear</span>，这花了他很长时间。难关二（系统限制）：他必须攻克无线信号传输的硬仗（uphill battle），因为信号有时<span class='hl-good'>did not reach the phone even when the sensor was working fine</span>。</li><li><strong>失分点：</strong>只回答了找传感器很难，缺失了信号传输不稳定的技术难关，未满足2分题的多要件完整性。</li></ol>",
+          "type": "comprehension",
+          "answer": "He had to find a sensor that was small and comfortable enough to wear which took a long time, and he had to overcome the uphill battle of creating a system where the wireless signal sometimes failed to reach the smartphone even when the sensor worked fine."
+        },
+        "73": {
+          "concept": "Character Trait & Evidence Synthesis",
+          "note": "<ol><li><strong>题型：</strong>性格特征判定与证据搭配题——根据指定行数提取并判定其最优精神标签并匹配对应行为（2分）。</li><li><li><strong>(a) 小题得分点：</strong>面对屡次失败卡壳、肩膀耷拉、眉头紧锁的困境，他依然头也不抬地回答“不会太久”，并且“refused to give up”（拒绝放弃），这展现出他强大的韧性与抗挫折能力，故勾选 <span class='hl-good'>resilient</span>（坚韧的）。</li><li><li><strong>(b) 小题得分点：</strong>匹配支撑的证据事实，即文中写道他<span class='hl-good'>refused to give up</span>，或者在遇到困难（stuck）时依然继续埋头苦干并坚称不会被困住太久（Not for long）。</li><li><strong>失分点：</strong>(a)中误选了其他特质；(b)中给出的文本证据不具有支持韧性特质的针对性。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "resilient",
+            "73b": "When he was stuck and his father noticed him with slumped shoulders and furrowed brows, Kenji stated \"Not for long\" and refused to give up."
+          }
+        },
+        "74": {
+          "concept": "Character Trait Retrieval / Inference",
+          "note": "<ol><li><strong>题型：</strong>特定性格证据定位题——寻找能够体现主角“谦逊（humble）”品质的具体情节动作（1分）。</li><li><li><strong>得分点：</strong>精确定位行47-49，指出他在收到看护人员关于老人不喜欢穿袜子睡觉的负面反馈时，他表现得<span class='hl-good'>thanked them for their feedback and continued to improve it</span>（为反馈向他们致谢，并且即便后来获奖了依然继续改进它）。</li><li><strong>失分点：</strong>误写成他获得了很多奖项，获奖本身不能体现谦逊，只有“面对意见虚心接受并不断改进”才能呼应题目。</li></ol>",
+          "type": "comprehension",
+          "answer": "He thanked the caregivers for their feedback when they told him some elderly did not like wearing socks to sleep, and he continued to improve his invention even after receiving several awards."
+        },
+        "75": {
+          "concept": "Deep Comprehension / Core Impact Synthesis",
+          "note": "<ol><li><strong>题型：</strong>主旨升华成效总结题——考查对这项发明在社会和家庭层面带来的宏观“巨大影响（big impact）”进行归纳提炼的能力（2分）。</li><li><li><strong>得分点：</strong>必须答出两方面的社会效益。1分归于<span class='hl-good'>it helped his own mother rest more peacefully at night</span>（帮助他自己的母亲在夜间得到了久违的安宁休息）；另1分归于<span class='hl-good'>it helped other families and elderly care centres protect their patients/family members from wandering away</span>（走向了更广阔的社会，帮助了其他家庭和许多老年护理中心的患者，使他们免受走失风险）。</li><li><strong>失分点：</strong>只停留在自己家庭内部的改变，没有归纳出护理中心和其他家庭也纷纷采用这一更广泛的社会大成效。</li></ol>",
+          "type": "comprehension",
+          "answer": "He realized that his invention allowed his own mother to rest more peacefully at night for the first time in a long while, and it also went on to help many other caregivers from different families and elderly care centres protect their patients and loved ones from wandering away safely."
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Kenji Sato would never forget the night a police officer knocked on their",
+          "2": "door after midnight. His mother hurried to open it and found the police officer",
+          "3": "standing outside with his grandfather, Aoto. \"I found him wandering near the",
+          "4": "highway,\" the officer explained kindly. \"He seemed a little lost.\" Kenji's mother",
+          "5": "thanked the officer and gently guided her father back to bed. Kenji watched",
+          "6": "worriedly as his grandfather, tired and confused, shuffled down the hallway.",
+          "7": "Aoto suffered from Alzheimer's disease. The illness often caused him to",
+          "8": "forget where he was or what time it was. Sometimes, in the middle of the night,",
+          "9": "he would quietly get out of bed and start wandering around the house.",
+          "10": "That night had frightened the whole family. Somehow, Aoto had left the",
+          "11": "house and walked all the way towards the busy highway nearby. The next",
+          "12": "morning, Kenji noticed how exhausted his mother looked. She had been caring",
+          "13": "for her father every day, and many nights she forced herself to stay awake,",
+          "14": "listening carefully in case he tried to leave his bed again. \"If I fall asleep,\" she",
+          "15": "said tiredly, \"he might wander off.\" Kenji nodded sympathetically at his mother's",
+          "16": "struggles. There had to be a way to help her.",
+          "17": "Ever since he was little, Kenji loved visiting his parents' laboratory. This",
+          "18": "greatly influenced his love for science and technology. Many hours were spent",
+          "19": "there, experimenting with small gadgets. Now he began to wonder if technology",
+          "20": "could solve his family's problem.",
+          "21": "One evening, while checking on his grandfather, Kenji noticed something",
+          "22": "important. His grandfather slowly swung his legs over the side of the bed. A",
+          "23": "moment later, his feet pressed against the floor. Suddenly, an idea formed in",
+          "24": "Kenji's mind. If a device could detect that footstep, it could warn someone",
+          "25": "immediately. The moment his grandfather stood up, a signal could be sent to a",
+          "26": "phone, alerting the caregiver before he wandered away.",
+          "27": "Excited by his idea, Kenji began researching how sensors worked. He",
+          "28": "quickly found that turning his idea into reality was not easy. He needed a sensor",
+          "29": "that was small and comfortable enough to wear. It took a long time to find the",
+          "30": "perfect one. Then, there was another uphill battle – he had to create a system",
+          "31": "that could send a wireless signal to a smartphone. The signal sometimes did not",
+          "32": "reach the phone even when the sensor was working fine. Some days, Kenji's",
+          "33": "father would find him poring over his notes, shoulders slumped. \"Stuck again?\"",
+          "34": "he would ask. Hardly glancing up, his brows furrowed, Kenji would reply, \"Not",
+          "35": "for long.\" He refused to give up.",
+          "36": "After many months of experimenting, Kenji finally created a working",
+          "37": "prototype. To his father, it looked just like a regular sock. What he did not know",
+          "38": "was that it was a sock with a pressure sensor attached to the bottom. His father",
+          "39": "tried it on and was amazed at how comfortable it felt. Kenji beamed. \"That's",
+          "40": "because the sensor is so thin!\" When his father suggested for him to try attaching",
+          "41": "the sensor to other pieces of clothing, Kenji took his idea seriously.",
+          "42": "That night, Kenji tested the invention. He helped Aoto put on the sock at",
+          "43": "bedtime. Each time Aoto stepped out of bed, the phone received a message.",
+          "44": "For the first time in a long while, his mother could rest more peacefully at night.",
+          "45": "Caregivers from other families and many elderly care centres approached",
+          "46": "Kenji to make his special socks for their family members or patients. He happily",
+          "47": "did so. Afterwards, some caregivers told him that some of the elderly did not like",
+          "48": "wearing socks to sleep. Kenji thanked them for their feedback. Even though",
+          "49": "Kenji later received several awards for his invention, he continued to improve it.",
+          "50": "He was happy that his small idea had made a big impact on many people's lives."
+        },
+        "paragraphs": {
+          "1": "肯基·佐藤永远不会忘记那个午夜过后，一名警察敲开他们家门的夜晚。他的母亲急忙去开门，发现警察正和他的祖父青人站在外面。“我发现他在公路附近游荡，”警察和蔼地解释道，“他看起来有点迷路了。”肯基的母亲向警察道谢，温柔地扶着父亲回到床上。肯基担忧地看着疲惫而困惑的祖父，拖着步子走过走廊。",
+          "7": "青人患有阿尔茨海默病。这种疾病经常导致他忘记自己身在何处，或者现在是什么时间。有时，在半夜里，他会悄悄地起床，开始在房子周围徘徊。",
+          "10": "那个夜晚吓坏了全家人。青人竟然不知怎么地离开了家，一路走向附近繁忙的公路。第二天早上，肯基注意到母亲看起来极其疲惫。她每天都在照顾父亲，而且许多个夜晚她都强迫自己保持清醒，仔细聆听以防父亲再次试图离开床。“如果我睡着了，”她疲惫地说，“他可能会走失。”肯基对母亲的挣扎同情地了点头。必须要有一个办法来帮助她。",
+          "17": "从很小的时候起，肯基就喜欢参观父母的实验室。这极大地影响了他对科学和技术的热爱。许多个小时都花在里面，用来用小零件做实验。现在他开始思考，技术是否能够解决他家人的这个难题。",
+          "21": "一天晚上，在查看祖父的情况时，肯基注意到了一些重要的事情。他的祖父缓缓地把双腿移到床边。片刻之后，他的脚踩到了地板上。突然，一个想法在肯基的脑海中形成。如果有一个设备能够检测到那一记脚步，它就能立刻警告别人。当祖父站起来的那一刻，一个信号就可以发送到手机上，在祖父走失之前向看护人员发出警报。",
+          "27": "由于这个想法而感到兴奋，肯基开始研究传感器是如何工作的。他很快发现，把想法变成现实并不容易。他需要一个足够小且足够舒适可以穿着的传感器。花了他很长时间才找到最完美的一个。接着，这是另一场艰巨的硬仗——他必须建立一个能够向智能手机发送无线信号的系统。有时，即使传感器工作正常，信号也无法传达到手机上。有几天，肯基的父亲会发现他正埋头钻研笔记，肩膀耷拉着。“又卡住了吗？”父亲会问。肯基头也不抬，眉头紧锁，回答道：“不会太久的。”他拒绝放弃。",
+          "36": "经过多个月的实验，肯基终于制作出了一个可以工作的原型。在父亲看来，它看起来就像一双普通的袜子。父亲不知道的是，这是一双底部附有压力传感器的袜子。他的父亲试穿了一下，并对它感觉如此舒适而感到惊讶。肯基欣然微笑道：“那是由于传感器非常薄！”当父亲建议他尝试把传感器附到其他衣服上时，肯基认真地对待了这个想法。",
+          "42": "那天晚上，肯基测试了这项发明。他在睡觉前帮助青人穿上了袜子。每当青人步出床铺时，手机就会收到一条信息。在很长一段时间里，他的母亲第一次能够在夜间更安宁地休息了。",
+          "45": "来自其他家庭的看护人员以及许多老年护理中心联系了肯基，要求为他们的家人或病人制作这种特殊的袜子。他愉快地照办了。后来，一些看护人员告诉他，部分老人不喜欢穿着袜子睡觉。肯基为他们的反馈向他们表示了感谢。尽管肯基后来因他的发明获得了多项奖项，但他依然继续改进它。他很高兴自己的小想法对许多人的生活产生了巨大的影响。"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "paperid": "p6_english_2026_sa2_mgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Dummy 1 grammer mcq, any option is ok _____.",
+          "options": {
+            "1": "option1",
+            "2": "option2",
+            "3": "option3",
+            "4": "option4"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Most shopping malls in Singapore are ________ by MRT or bus.",
+          "options": {
+            "1": "available",
+            "2": "attainable",
+            "3": "accessible",
+            "4": "approachable"
+          }
+        },
+        "12": {
+          "stem_plain": "Arun is a/an ________ team member. When his group did not have enough materials for their Science project, he came up with the idea of using plastic bottles to complete their model.",
+          "options": {
+            "1": "resourceful",
+            "2": "industrious",
+            "3": "exceptional",
+            "4": "collaborative"
+          }
+        },
+        "13": {
+          "stem_plain": "\"While we cannot say for sure, the time needed to recover after a serious case of food poisoning is ________ one week,\" added the doctor.",
+          "options": {
+            "1": "exactly",
+            "2": "generally",
+            "3": "constantly",
+            "4": "specifically"
+          }
+        },
+        "14": {
+          "stem_plain": "After applying some ointment on my injured elbow, the pain slowly ________. I was able to bend my arm again after some time.",
+          "options": {
+            "1": "wore on",
+            "2": "wore off",
+            "3": "wore out",
+            "4": "wore away"
+          }
+        },
+        "15": {
+          "stem_plain": "Marine biologists are studying the long term ________ of a tsunami on coastal habitats.",
+          "options": {
+            "1": "results",
+            "2": "outcomes",
+            "3": "inferences",
+            "4": "implications"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "新加坡的大多数购物中心都可以通过地铁或巴士到达。",
+          "note": "‘accessible’通常与 by/to 连用，意思是易于到达的、可进入的，常用于形容交通的便利性。",
+          "concept": "Vocabulary Collocation MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "available",
+              "zh": "可获得的，有空的",
+              "eg": "Free Wi-Fi is available in all public areas of the hotel."
+            },
+            {
+              "opt": "2",
+              "word": "attainable",
+              "zh": "可达到的，可实现的",
+              "eg": "Setting smaller milestones makes the final goal seem more attainable."
+            },
+            {
+              "opt": "3",
+              "word": "accessible",
+              "zh": "易于到达的，可进入的",
+              "eg": "The remote island is only accessible by private boat or ferry."
+            },
+            {
+              "opt": "4",
+              "word": "approachable",
+              "zh": "平易近人的，可接近的",
+              "eg": "Our new form teacher is highly approachable and pleasant to talk to."
+            }
+          ]
+        },
+        "12": {
+          "zh": "阿伦是一个足智多谋的团队成员。当他的小组没有足够的科学项目材料时，他想出了利用塑料瓶来完成他们模型的点子。",
+          "note": "‘resourceful’意思是足智多谋的、机智的，形容在缺乏资源时善于寻找解决方法的能力。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "resourceful",
+              "zh": "足智多谋的，善于解决问题的",
+              "eg": "A resourceful camp leader can build a shelter out of simple branches."
+            },
+            {
+              "opt": "2",
+              "word": "industrious",
+              "zh": "勤奋的，刻苦的",
+              "eg": "The industrious workers completed the house building before the winter."
+            },
+            {
+              "opt": "3",
+              "word": "exceptional",
+              "zh": "杰出的，异常的",
+              "eg": "She showed exceptional musical talent at a very young age."
+            },
+            {
+              "opt": "4",
+              "word": "collaborative",
+              "zh": "合作的，协作的",
+              "eg": "The research paper was a collaborative effort by three scientists."
+            }
+          ]
+        },
+        "13": {
+          "zh": "“虽然我们不能完全确定，但严重食物中毒后的恢复时间通常为一周，”医生补充道。",
+          "note": "‘generally’意思是通常、普遍地，符合医生针对无法确定的病情做出一般性推断的语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "exactly",
+              "zh": "确切地，精确地",
+              "eg": "The train arrived at exactly noon, just as the schedule stated."
+            },
+            {
+              "opt": "2",
+              "word": "generally",
+              "zh": "通常地，普遍地",
+              "eg": "The weather in this coastal city is generally warm and sunny."
+            },
+            {
+              "opt": "3",
+              "word": "constantly",
+              "zh": "不断地，经常地",
+              "eg": "He is constantly checking his phone for new work updates."
+            },
+            {
+              "opt": "4",
+              "word": "specifically",
+              "zh": "特意地，明确地",
+              "eg": "This product was specifically designed for people with sensitive skin."
+            }
+          ]
+        },
+        "14": {
+          "zh": "在我受伤的肘部涂了一些药膏后，疼痛慢慢消退了。一段时间后，我能够再次弯曲手臂了。",
+          "note": "‘wore off’是短语动词，意思是（药效、感觉或疼痛）逐渐消退、消失。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "wore on",
+              "zh": "（时间）消逝，缓缓流逝",
+              "eg": "As the boring presentation wore on, some people fell asleep."
+            },
+            {
+              "opt": "2",
+              "word": "wore off",
+              "zh": "逐渐消退，消失",
+              "eg": "The effects of the anesthesia began to wear off after the surgery."
+            },
+            {
+              "opt": "3",
+              "word": "wore out",
+              "zh": "磨损，使精疲力竭",
+              "eg": "The long, steep mountain hike completely wore out the young tourists."
+            },
+            {
+              "opt": "4",
+              "word": "wore away",
+              "zh": "磨损，侵蚀（表面等）",
+              "eg": "The ocean waves gradually wore away the soft rocks along the cliff."
+            }
+          ]
+        },
+        "15": {
+          "zh": "海洋生物学家正在研究海啸对海岸栖息地的长期潜在影响。",
+          "note": "‘implications’在这里指可能引发的后果、深远影响，常与 long term 连用语境契合。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "results",
+              "zh": "结果，成效 (多指直接的、可见的产物)",
+              "eg": "The exam results will be posted on the notice board tomorrow."
+            },
+            {
+              "opt": "2",
+              "word": "outcomes",
+              "zh": "结果，结局 (多指过程最终带来的结局)",
+              "eg": "The final outcomes of the election were hard to predict accurately."
+            },
+            {
+              "opt": "3",
+              "word": "inferences",
+              "zh": "推论，推断",
+              "eg": "The detectives drew logical inferences from the missing keys."
+            },
+            {
+              "opt": "4",
+              "word": "implications",
+              "zh": "深远影响，潜在后果",
+              "eg": "The new government rules have major implications for small businesses."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "不定冠词",
+          "note": "“underwent an extensive revamp” 意为“经历了全面的翻新”，修饰单数可数名词revamp，且形容词extensive以元音音素开头，故用an。",
+          "answer": "B"
+        },
+        "27": {
+          "concept": "定语从句关系代词",
+          "note": "先行词是“prisoners of war (POWs) and civilians”（战俘与平民，指人），在定语从句中作主语，故用关系代词who引导。",
+          "answer": "Q"
+        },
+        "28": {
+          "concept": "介词搭配/动作发出者",
+          "note": "“built by POWs” 意为“由战俘们所建造”，此处为被动语态的省略形式，用介词by引出动作的执行者。",
+          "answer": "E"
+        },
+        "29": {
+          "concept": "情态动词表能力",
+          "note": "“where prisoners could find comfort...” 意为“战俘们可以在那里寻得一丝慰藉”，表示在过去艰苦环境下的可能性与能力，故用could。",
+          "answer": "C"
+        },
+        "30": {
+          "concept": "介词搭配",
+          "note": "“a quiet space for reflection” 意为“一个供人沉思的宁静空间”，用介词for引出空间的特定用途或目的。",
+          "answer": "F"
+        },
+        "31": {
+          "concept": "介词搭配",
+          "note": "“is home to...” 为固定搭配，意为“是……的所在地/家园”。",
+          "answer": "N"
+        },
+        "32": {
+          "concept": "形容词性物主代词",
+          "note": "“its own story of resilience” 意为“它自己的关于坚韧的故事”，用its指代前面提到的单数名词“Every artefact”（每件文物）。",
+          "answer": "J"
+        },
+        "33": {
+          "concept": "定语从句关系代词",
+          "note": "先行词是单数名词短语“its own story of resilience”，指物，在非限制性定语从句中作主语，故用which引导。",
+          "answer": "R"
+        },
+        "34": {
+          "concept": "情态动词表建议",
+          "note": "“should make a visit to this site” 意为“应当去参观这个遗址”，此处作情态动词表示对历史感兴趣的人的推荐或建议。",
+          "answer": "L"
+        },
+        "35": {
+          "concept": "介词搭配",
+          "note": "“bridges the gap between A and B” 为固定搭配，意为“消除/弥合A与B之间的差距（连接过去与现在）”，置于句首需大写。",
+          "answer": "D"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "could",
+          "D": "between",
+          "E": "by",
+          "F": "for",
+          "G": "have",
+          "H": "in",
+          "J": "its",
+          "M": "their",
+          "L": "should",
+          "N": "to",
+          "R": "which",
+          "Q": "who"
+        },
+        "cloze": [
+          "The Changi Chapel and Museum stands as a reminder of Singapore's wartime history.",
+          "Originally opened in 2001, the museum underwent [Q26] extensive revamp to modernise itself. It serves to honour the prisoners of war (POWs) and civilians [Q27] were held in the Changi area during the Japanese Occupation.",
+          "The original chapel was built [Q28] POWs during their imprisonment. These brave individuals used whatever materials they could find, such as attap leaves and scrap metal, to construct a place of worship. The chapel provided a crucial sanctuary where prisoners [Q29] find comfort amidst harsh conditions. Today, a faithful replica of the chapel sits in the open-air area of the museum, allowing visitors a quiet space [Q30] reflection.",
+          "The main exhibition area is home [Q31] a massive collection of personal items, photographs, and letters donated by the survivors and their families. Every artefact has [Q32] own story of resilience [Q33] has been preserved for future generations. For example, visitors can view secret messages hidden within everyday objects, demonstrating the creativity of the prisoners.",
+          "Anyone who is interested in history [Q34] make a visit to this site. It bridges the gap [Q35] the painful past and the peaceful present, teaching the younger generation the true value of psychological defence and strength."
+        ],
+        "zh": [
+          "樟宜礼拜堂与博物馆是新加坡战时历史的见证与提醒。",
+          "该博物馆最初于2001年开放，随后经历了一次全面的翻新以实现现代化。它的设立是为了向在日本占领期间被关押在樟宜地区的战俘（POW）和平民表达敬意。",
+          "最初的礼拜堂是由战俘在被监禁期间建造的。这些勇敢的人利用了他们能找到的任何材料（例如亚答叶和废金属）来建造一个朝拜场所。礼拜堂提供了一个关键的庇护所，战俘们可以在艰苦的环境中寻得一丝慰藉。如今，一座忠实还原该礼拜堂的复制品坐落在博物馆的露天区域，为游客提供了一个沉思的宁静空间。",
+          "主展览区馆藏着由幸存者及其家属捐赠的大量个人物品、照片和书信。每件文物都有它自己关于坚韧的故事，并且这些故事已被保存下来供后代铭记。例如，游客可以一睹隐藏在日常用品中的秘密信息，这展现了战俘们的创造力。",
+          "任何对历史感兴趣的人都应当去参观这个遗址。它弥合了痛苦的过去与和平的现在之间的鸿沟，教导年轻一代心理防线与力量的真正价值。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "Jade admired her grandfather as he was wise.",
+          "marks": 2,
+          "cue": "... because of"
+        },
+        "62": {
+          "stem_plain": "Both the bicycle shops in the park are closed today.",
+          "marks": 2,
+          "cue": "Neither of"
+        },
+        "63": {
+          "stem_plain": "The electrician fixed the lights. They now work perfectly.",
+          "marks": 2,
+          "cue": "... as a result of"
+        },
+        "64": {
+          "stem_plain": "\"Did you remember to return the library book?\" Jill asked Jack.",
+          "marks": 2,
+          "cue": "Jill asked Jack if"
+        },
+        "65": {
+          "stem_plain": "My aunt was upset about the rude staff. She complained to the manager.",
+          "marks": 2,
+          "cue": "... and made"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "词性转换 — 形容词变名词 (wise -> wisdom)",
+          "zh": "翡翠因为她祖父的聪明才智而钦佩他。",
+          "note": "改写要点：because of 是复合介词，后面应接名词或名词短语。需要将形容词 wise 转换为对应的名词形式 wisdom，并结合物主代词组成 his wisdom 放在 because of 后面。",
+          "answer": "Jade admired her grandfather because of his wisdom."
+        },
+        "62": {
+          "concept": "代词转换与主谓一致 — Neither of 结构的肯定转换",
+          "zh": "公园里的两家自行车店今天都没有开门。",
+          "note": "改写要点：Neither of 后面接复数名词短语 the bicycle shops in the park。依据语法规则，Neither of + 复数名词作主语时，谓语动词在正式语体中通常用单数，但原句 are closed 表状态，也可以用 is closed 表示“两个中没有一个是……”。在新加坡PSLE的标准答案中，Neither of the bicycle shops in the park is open today / is closed today，需要特别注意原句 closed 与 open 的表述转换以保持句意完全一致，即原句“都关了”等于“没有一个是开着的”或者使用肯定形式配合 neither 的否定语义：Neither of the bicycle shops in the park is open today。",
+          "answer": "Neither of the bicycle shops in the park is open today."
+        },
+        "63": {
+          "concept": "词性转换与介词短语修饰 — 动词变名词 (fixed -> fix / fixing)",
+          "zh": "由于电工的修理，灯现在运行得很完美。",
+          "note": "改写要点：as a result of 后面必须跟名词短语。将第一个句子的主谓结构转换为 the electrician's fix 或 the electrician fixing the lights 这一所有格/动名词短语形式，前半句作为结果顺接：The lights now work perfectly as a result of the electrician's fix。",
+          "answer": "The lights now work perfectly as a result of the electrician's fix."
+        },
+        "64": {
+          "concept": "间接引语 — 一般疑问句的转述与时态/人称代词转换",
+          "zh": "吉尔问杰克他是否记得还图书馆的书。",
+          "note": "改写要点：1. 一般疑问句用 if 引导，后接陈述句语序；2. 一般过去时（did remember）向后推一个时态变为过去完成时（had remembered）；3. 人称代词转换：you -> he。",
+          "answer": "Jill asked Jack if he had remembered to return the library book."
+        },
+        "65": {
+          "concept": "句式合并与词性转换 — 动词变名词 (complained -> complaint)",
+          "zh": "我阿姨对粗鲁的员工感到很不高兴，并向经理提出了投诉。",
+          "note": "改写要点：根据提示词 and made，需要将动词 complained 转换为名词短语 made a complaint。前半句保留完整的主谓结构，连接词 and 后省略重复的主语 she：My aunt was upset about the rude staff and made a complaint to the manager。",
+          "answer": "My aunt was upset about the rude staff and made a complaint to the manager."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

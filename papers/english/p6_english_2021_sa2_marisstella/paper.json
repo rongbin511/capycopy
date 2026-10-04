@@ -1,0 +1,1597 @@
+{
+  "paperid": "p6_english_2021_sa2_marisstella",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "I mistook my sister's slippers for __________ and wore them to the market.",
+          "options": {
+            "1": "my",
+            "2": "her",
+            "3": "hers",
+            "4": "mine"
+          }
+        },
+        "2": {
+          "stem_plain": "Lina found time to volunteer at the home for the elderly __________ her hectic schedule.",
+          "options": {
+            "1": "despite",
+            "2": "however",
+            "3": "although",
+            "4": "whenever"
+          }
+        },
+        "3": {
+          "stem_plain": "The puzzle is so challenging that neither Ben nor his sisters __________ it yet.",
+          "options": {
+            "1": "solve",
+            "2": "solves",
+            "3": "has solved",
+            "4": "have solved"
+          }
+        },
+        "4": {
+          "stem_plain": "\"It is eleven o'clock __________ my watch. It's time to return to the classroom,\" James told his classmates at the canteen.",
+          "options": {
+            "1": "at",
+            "2": "by",
+            "3": "on",
+            "4": "from"
+          }
+        },
+        "5": {
+          "stem_plain": "\"The naughty boys burst the balloon on purpose, __________?\" the monitor asked me, as he looked at the balloon fragments on the floor.",
+          "options": {
+            "1": "do they",
+            "2": "did they",
+            "3": "don't they",
+            "4": "didn't they"
+          }
+        },
+        "6": {
+          "stem_plain": "All the students, except Roy whose parents did not give their consent, __________ in the upcoming Sports Day.",
+          "options": {
+            "1": "participate",
+            "2": "participated",
+            "3": "participating",
+            "4": "are participating"
+          }
+        },
+        "7": {
+          "stem_plain": "With the __________ time left, the contestants managed to add the finishing touches to their dishes before the cooking competition ended.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "8": {
+          "stem_plain": "Before the sky turned dark, the children had successfully __________ the firewood for their campfire.",
+          "options": {
+            "1": "lie",
+            "2": "lay",
+            "3": "laid",
+            "4": "lain"
+          }
+        },
+        "9": {
+          "stem_plain": "He did not know __________ storybooks those were and thus could not return them to the owner.",
+          "options": {
+            "1": "which",
+            "2": "whom",
+            "3": "where",
+            "4": "whose"
+          }
+        },
+        "10": {
+          "stem_plain": "\"I was looking forward to finally __________ the latest edition of the game console, but it was sold out,\" Jane told her parents.",
+          "options": {
+            "1": "buy",
+            "2": "buys",
+            "3": "buying",
+            "4": "bought"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "代词 — Possessive pronoun — mine",
+          "zh": "我把姐姐的拖鞋错当成自己的，穿着去了市场。",
+          "note": "物主代词 (Possessive pronoun)：mine 单独作宾语，相当于 my slippers；陈述句，一般过去时。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "让步 — Concession — despite + noun",
+          "zh": "尽管日程繁忙，莉娜还是抽时间去养老院做义工。",
+          "note": "让步：despite + 名词短语；although 后接从句。陈述句，一般过去时。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "现在完成时 — Neither … nor + present perfect",
+          "zh": "这道谜题太难了，本和他的姐妹们至今还没解出来。",
+          "note": "neither…nor 就近一致 (Proximity agreement)；yet 用现在完成时 have solved。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "介词 — Preposition — by my watch",
+          "zh": "“我的表十一点了，该回教室了。”詹姆斯在食堂对同学说。",
+          "note": "固定搭配 by my watch 表“按我的表”；直接引语，一般现在时。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "反意疑问句 — question tag, past simple positive",
+          "zh": "“那些淘气的男孩是故意弄爆气球的，不是吗？”班长看着地上的碎片问我。",
+          "note": "附加问句 (Question tag)：一般过去时肯定句用 didn't + 主语。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "现在进行时 — Present continuous — future arrangement",
+          "zh": "除父母未同意的罗伊外，所有学生都将参加即将举行的运动日。",
+          "note": "现在进行表将来安排；except 插入语不改变主语 all the students 的复数谓语。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "量词 — Quantifier — little + uncountable",
+          "zh": "所剩时间不多，参赛者在烹饪比赛结束前还是给菜肴做了最后的点缀。",
+          "note": "little + 不可数名词表“所剩不多”；few + 可数复数。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "分词 — Past participle — lay / laid",
+          "zh": "天还没黑，孩子们已成功为营火堆好木柴。",
+          "note": "过去完成时 had + 过去分词；lay 表“放置”，过去分词 laid。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "关系词 — Possessive relative — whose",
+          "zh": "他不知道那些是谁的故事书，因此无法还给主人。",
+          "note": "关系代词 whose 表所属，后接名词 storybooks。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "动名词 — Gerund after look forward to",
+          "zh": "“我一直盼着终于能买到最新款游戏机，可惜卖光了。”简对父母说。",
+          "note": "look forward to 中 to 为介词，后接动名词 buying。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "It was such a windy morning that Peter could hear the __________ of the leaves in the trees as he walked through the park.",
+          "options": {
+            "1": "ruffling",
+            "2": "rustling",
+            "3": "bustling",
+            "4": "swaying"
+          }
+        },
+        "12": {
+          "stem_plain": "Mr Toh was __________ to see his door ajar as he remembered closing it that morning.",
+          "options": {
+            "1": "dazed",
+            "2": "agitated",
+            "3": "distraught",
+            "4": "bewildered"
+          }
+        },
+        "13": {
+          "stem_plain": "Uncle Roger's stories of adventures in foreign lands __________ my imagination, as I visualised myself being there with him.",
+          "options": {
+            "1": "subdued",
+            "2": "captured",
+            "3": "sustained",
+            "4": "fascinated"
+          }
+        },
+        "14": {
+          "stem_plain": "He could not __________ his defeat in the competition and cried bitterly the whole night.",
+          "options": {
+            "1": "get by",
+            "2": "get over",
+            "3": "get away",
+            "4": "get behind"
+          }
+        },
+        "15": {
+          "stem_plain": "Due to illegal hunting, the population of the elephants in the wildlife reserve has __________.",
+          "options": {
+            "1": "receded",
+            "2": "withered",
+            "3": "dwindled",
+            "4": "subsided"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "风很大，彼得穿过公园时能听见树叶沙沙作响。",
+          "note": "选（2）rustling：风声里树叶的沙沙声。ruffling 非声响；bustling 指热闹；swaying 指摆动。",
+          "concept": "词汇辨析 — rustling（沙沙作响）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "ruffling",
+              "zh": "弄皱，弄乱；翻动（动词现在分词，指风或手使原本平整的纸张、衣服或头发表面变得杂乱不平，也可指引申指人情绪被激怒或产生情绪波动）",
+              "eg": "The cool morning breeze kept ruffling the loose pages of her diary while she was trying to read near the open window."
+            },
+            {
+              "opt": "2",
+              "word": "rustling",
+              "zh": "沙沙作响（动词现在分词/动名词，专门指树叶、纸张、丝绸面料等轻薄物体互相摩擦时发出的清脆、微弱且连续的声响）",
+              "eg": "Peter suddenly heard the faint rustling of dry leaves in the thick bushes, which made him suspect a small animal was hiding there."
+            },
+            {
+              "opt": "3",
+              "word": "bustling",
+              "zh": "繁华的，熙熙攘攘的（形容词/动词现在分词，常修饰地点，指某个场所充满了来来往往的人群，处于极其热闹、充满活力且非常忙碌的状态）",
+              "eg": "The traditional morning market was bustling with excited shoppers who were eagerly looking for fresh food ingredients."
+            },
+            {
+              "opt": "4",
+              "word": "swaying",
+              "zh": "摇摆，摇晃（动词现在分词，指高大的树木、吊灯、旗帜等长条形或悬挂状物体受风力或推力影响，做前后或左右的平稳晃动）",
+              "eg": "The sturdy branches of the tall banyan trees were swaying gently in the wind, providing plenty of refreshing shade to the playground."
+            }
+          ]
+        },
+        "12": {
+          "zh": "杜先生看到门半开着，十分困惑——他记得早上关好了。",
+          "note": "选（4）bewildered：对反常现象感到困惑。dazed 偏晕；agitated/distraught 情绪更激烈。",
+          "concept": "词汇辨析 — bewildered（困惑的；茫然的）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dazed",
+              "zh": "神志恍惚的，发懵的（形容词，指由于头部受到猛烈撞击、过度疲劳、遭遇突发变故或惊吓，导致思维迟钝、反应麻木的状态）",
+              "eg": "He looked completely dazed after the nasty fall from his bicycle and struggled to remember where he was going."
+            },
+            {
+              "opt": "2",
+              "word": "agitated",
+              "zh": "焦躁不安的，激动的（形容词，指内心由于极度担忧、愤怒、紧张或害怕，导致言行举止表现得极度急躁、坐立难安）",
+              "eg": "She grew increasingly agitated during the long wait for her medical results, constantly pacing back and forth in the corridor."
+            },
+            {
+              "opt": "3",
+              "word": "distraught",
+              "zh": "极度心烦意乱的，伤心欲绝的（形容词，指由于至亲去世、遭遇灾难或听到极坏的噩耗，导致精神受到沉重打击，陷入极度痛苦和焦虑之中）",
+              "eg": "The tragic news of her pet's sudden disappearance left her distraught, and she could not stop weeping throughout the evening."
+            },
+            {
+              "opt": "4",
+              "word": "bewildered",
+              "zh": "困惑不解的，茫然的（形容词，指面对完全出乎意料、违背常理、令人费解的反常现象时，脑海中充满疑惑、百思不得其解的状态）",
+              "eg": "Mr Toh was thoroughly bewildered to see his front door standing wide ajar, as he clearly remembered locking it securely this morning."
+            }
+          ]
+        },
+        "13": {
+          "zh": "罗杰叔叔在异国冒险的故事吸引了我的想象，我仿佛与他同在。",
+          "note": "选（2）captured：capture one's imagination 为固定搭配。fascinated 不接 imagination 作宾语。",
+          "concept": "词汇辨析 — captured（吸引；抓住）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "subdued",
+              "zh": "压制，克制；使平静（动词，指用武力或权力控制住局势、对手，或者指使喧闹的人群、强烈的负面情感平息、缓和下来）",
+              "eg": "The beautiful classical music safely subdued the noisy crowd inside the secondary school auditorium during the brief power outage."
+            },
+            {
+              "opt": "2",
+              "word": "captured",
+              "zh": "夺取，赢得（注意/想象力等）；捕获（动词，指成功牢牢吸引、抓住了某人的全部兴趣或创造力，常与 imagination 或 attention 连用）",
+              "eg": "The historical adventure tales completely captured my imagination and kept me reading late into the night."
+            },
+            {
+              "opt": "3",
+              "word": "sustained",
+              "zh": "维持，支撑，使延续（动词，指在生理或心理上给予某人足够的力量、生命力或支持，使其能够经受住长期的困境与折磨）",
+              "eg": "A lingering glimmer of hope sustained them through the severe hardship of surviving the winter after their crops were ruined."
+            },
+            {
+              "opt": "4",
+              "word": "fascinated",
+              "zh": "使着迷，吸引（动词，指因为某物或某人极具趣味、神秘感或独特魅力，而引发他人极度强烈的好奇心并使其全神贯注）",
+              "eg": "The professional magician's mind-boggling tricks fascinated the young children, who watched his swift hand movements with wide eyes."
+            }
+          ]
+        },
+        "14": {
+          "zh": "他无法从比赛失利中走出来，整晚痛哭。",
+          "note": "选（2）get over：从打击中恢复。get by 表凑合；get away/behind 语义不符。",
+          "concept": "词汇辨析 — get over（克服；从…中恢复）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "get by",
+              "zh": "勉强应付，凑合过活（短语动词，指在金钱、食物或能力极其有限的情况下，设法克服重重困难、勉强维持基本生活或顺利度过难关）",
+              "eg": "With careful planning and cutting down on luxury items, we can easily get by on a very small weekly grocery budget."
+            },
+            {
+              "opt": "2",
+              "word": "get over",
+              "zh": "克服，从……中恢复过来（短语动词，指逐步摆脱疾病的折磨，或在心理上战胜严重的痛苦、打击、失败或尴尬经历）",
+              "eg": "He could not get over his disappointing defeat in the final match, constantly thinking about the critical mistake he made."
+            },
+            {
+              "opt": "3",
+              "word": "get away",
+              "zh": "逃脱，离开；度假（短语动词，指从小范围的抓捕、危险中成功逃跑，或指暂时离开繁重的工作岗位去外地放松休息）",
+              "eg": "The panicking thief tried to get away by running down the narrow alleyway, but the security guards managed to corner him."
+            },
+            {
+              "opt": "4",
+              "word": "get behind",
+              "zh": "落后，拖延（进度）（短语动词，指由于懒惰或效率低下，导致工作、学习任务或分期付款进度未能赶上原定的截止日期）",
+              "eg": "Do not get behind with your regular English homework assignments, or you will find it extremely difficult to catch up later."
+            }
+          ]
+        },
+        "15": {
+          "zh": "由于非法捕猎，该野生动物保护区内的大象数量已经逐渐减少。",
+          "note": "“dwindled”意为“逐渐减少、缩小”，常专门用来修饰数量（population/numbers）、资源或资金的日渐缩减。本题中大象群体数量因偷猎不断下降，用 dwindled 最为精准。",
+          "concept": "词汇辨析 Vocabulary-Word Choice",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "receded",
+              "zh": "后退，消退（动词过去式，主要指潮水、发际线、记忆在距离上逐渐退去，或者希望、威胁等程度变小）",
+              "eg": "The dangerous floodwaters receded slowly over several days, allowing the displaced families to return home."
+            },
+            {
+              "opt": "2",
+              "word": "withered",
+              "zh": "枯萎，干枯（动词过去式，特指植物因缺水、高温而失去生机变干枯，或指人的身体部位、权力、情感日渐衰弱消亡）",
+              "eg": "The delicate vegetable crops withered rapidly in the intense heatwaves that swept across the local farming province."
+            },
+            {
+              "opt": "3",
+              "word": "dwindled",
+              "zh": "逐渐减少，日渐微薄（动词过去式，特指体量、资金、资源或特定种群的数量在一段时间内连续不断地变小、变少或降低）",
+              "eg": "Due to extensive illegal hunting, the wild elephant population in the northern sector of the wildlife reserve has dwindled dramatically."
+            },
+            {
+              "opt": "4",
+              "word": "subsided",
+              "zh": "平息，消退，下沉（动词过去式，特指暴风雨、狂风、海浪、红肿、生理疼痛等强烈状态逐渐变弱，或指建筑物、土地出现沉降）",
+              "eg": "The severe throbbing headache finally subsided after the patient took a dose of pain relief medication and rested."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "lazing around",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "idling",
+            "2": "relaxing",
+            "3": "loitering",
+            "4": "unwinding"
+          }
+        },
+        "17": {
+          "stem_plain": "uneasy",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "panicky",
+            "2": "confused",
+            "3": "intimidated",
+            "4": "apprehensive"
+          }
+        },
+        "18": {
+          "stem_plain": "allayed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "pacified",
+            "2": "soothed",
+            "3": "alleviated",
+            "4": "cultivated"
+          }
+        },
+        "19": {
+          "stem_plain": "friendly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "amiable",
+            "2": "devoted",
+            "3": "gracious",
+            "4": "affectionate"
+          }
+        },
+        "20": {
+          "stem_plain": "in the thick of the action",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "kept busy",
+            "2": "included in",
+            "3": "guided along",
+            "4": "being recruited"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was the December holidays. Instead of [Q16 (lazing around)], I decided to volunteer at the Children's Home for their annual Christmas party. I was [Q17 (uneasy)] about whether I would do a good job or not. However, my fears were [Q18 (allayed)] as soon as I stepped into the place, as the existing volunteers were [Q19 (friendly)] and guided me on what to do.",
+          "I was soon [Q20 (in the thick of the action)], helping with the packing of goodie bags and putting up the decorations. It was such a joy to see the happy faces of the children as they streamed into the hall, squealing in delight as they saw the decorations and goodie bags. The party turned out to be a huge success."
+        ],
+        "zh": [
+          "十二月假期里，我没有无所事事，而是决定去儿童之家参加圣诞派对义工。我担心自己能否做好，但一进门，担忧就减轻了——现有义工很友好，指导我该做什么。",
+          "我很快忙了起来，帮忙装礼品袋、布置装饰。孩子们涌进大厅时喜笑颜开，派对大获成功。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — lazing around（无所事事；虚度）",
+          "zh": "十二月假期里，我没有无所事事，而是决定去儿童之家做义工。",
+          "note": "应选（1）idling：懒散度日。relaxing/unwinding 偏正当休息；loitering 含游荡义。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "idling",
+              "zh": "无所事事；虚度",
+              "eg": "Stop <strong>idling</strong> and help with the chores."
+            },
+            {
+              "opt": "2",
+              "word": "relaxing",
+              "zh": "放松",
+              "eg": "She spent the afternoon <strong>relaxing</strong> by the pool."
+            },
+            {
+              "opt": "3",
+              "word": "loitering",
+              "zh": "游荡；逗留",
+              "eg": "Boys were <strong>loitering</strong> near the shop."
+            },
+            {
+              "opt": "4",
+              "word": "unwinding",
+              "zh": "放松 unwind",
+              "eg": "He listened to music to <strong>unwind</strong>."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — uneasy（忧虑的；担心的）",
+          "zh": "我担心自己能否做好，心里有些不安。",
+          "note": "应选（4）apprehensive：对结果感到担心。panicky 太急；confused 非情绪；intimidated 指被他人吓到。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "panicky",
+              "zh": "惊慌的",
+              "eg": "She felt <strong>panicky</strong> before the test."
+            },
+            {
+              "opt": "2",
+              "word": "confused",
+              "zh": "困惑的",
+              "eg": "I was <strong>confused</strong> by the directions."
+            },
+            {
+              "opt": "3",
+              "word": "intimidated",
+              "zh": "胆怯的；受 intimidation 的",
+              "eg": "He felt <strong>intimidated</strong> by the coach."
+            },
+            {
+              "opt": "4",
+              "word": "apprehensive",
+              "zh": "忧虑的；担心的",
+              "eg": "I was <strong>apprehensive</strong> about the new job."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — allayed（减轻；缓解）",
+          "zh": "我一进门，担忧就减轻了，因为现有义工很友好。",
+          "note": "应选（3）alleviated：缓解恐惧。pacified/soothed 多指安抚人；cultivated 语义相反。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pacified",
+              "zh": "使平静",
+              "eg": "She <strong>pacified</strong> the crying child."
+            },
+            {
+              "opt": "2",
+              "word": "soothed",
+              "zh": "抚慰",
+              "eg": "The music <strong>soothed</strong> her nerves."
+            },
+            {
+              "opt": "3",
+              "word": "alleviated",
+              "zh": "减轻；缓解",
+              "eg": "Kind words <strong>alleviated</strong> my fears."
+            },
+            {
+              "opt": "4",
+              "word": "cultivated",
+              "zh": "培养",
+              "eg": "They <strong>cultivated</strong> good habits."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — friendly（和蔼可亲的）",
+          "zh": "现有义工和蔼可亲，指导我该做什么。",
+          "note": "应选（1）amiable：友善易相处。devoted 强调奉献；gracious/affectionate 语气不同。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "amiable",
+              "zh": "和蔼可亲的",
+              "eg": "The volunteers were <strong>amiable</strong> and helpful."
+            },
+            {
+              "opt": "2",
+              "word": "devoted",
+              "zh": "忠诚的；投入的",
+              "eg": "She is <strong>devoted</strong> to her work."
+            },
+            {
+              "opt": "3",
+              "word": "gracious",
+              "zh": "亲切的；雅量的",
+              "eg": "The host was <strong>gracious</strong> to every guest."
+            },
+            {
+              "opt": "4",
+              "word": "affectionate",
+              "zh": "充满深情的",
+              "eg": "He gave an <strong>affectionate</strong> hug."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — in the thick of the action（忙个不停）",
+          "zh": "我很快忙了起来，帮忙装礼品袋、布置装饰。",
+          "note": "应选（1）kept busy：置身忙碌之中。其余三项不表“忙于核心活动”。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "kept busy",
+              "zh": "忙个不停",
+              "eg": "I was <strong>kept busy</strong> with party preparations."
+            },
+            {
+              "opt": "2",
+              "word": "included in",
+              "zh": "被包括在内",
+              "eg": "She was <strong>included in</strong> the team."
+            },
+            {
+              "opt": "3",
+              "word": "guided along",
+              "zh": "被引导前行",
+              "eg": "Tourists were <strong>guided along</strong> the trail."
+            },
+            {
+              "opt": "4",
+              "word": "being recruited",
+              "zh": "正在被招募",
+              "eg": "He is <strong>being recruited</strong> for the club."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following is true of the Harvest Town Day Tour?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The tour bus will depart from Harvest Town at 10 p.m.",
+            "2": "All schoolchildren get to do the tour at a reduced price.",
+            "3": "Participants should reach City Centre Bus Terminal by 6 a.m.",
+            "4": "Participants will be served only lunch and dinner during the tour."
+          }
+        },
+        "22": {
+          "stem_plain": "Which of the following words is used to describe the fruits grown on these farms?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "local",
+            "2": "fresh",
+            "3": "unique",
+            "4": "seasonal"
+          }
+        },
+        "23": {
+          "stem_plain": "According to the TourPro website, the tour guide is well-informed about the __________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "past events related to the villages",
+            "2": "unique roles played by the villages",
+            "3": "well-known residents of the villages",
+            "4": "products that are sold in the villages"
+          }
+        },
+        "24": {
+          "stem_plain": "Why are many exclamation marks used in Jessica's comments?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to catch readers' attention",
+            "2": "to evoke a feeling of anticipation",
+            "3": "to make her comments seem more favourable",
+            "4": "to convey what a pleasant experience her family had had"
+          }
+        },
+        "25": {
+          "stem_plain": "Jessica was initially worried that her children would __________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "not understand what the tour guide was saying",
+            "2": "be bored by the information given by the tour guide",
+            "3": "not pay attention when the tour guide shared information",
+            "4": "be overwhelmed by the amount of information given by the tour guide"
+          }
+        },
+        "26": {
+          "stem_plain": "Mdm Low decides to go on the tour. She has to make a trip to the TourPro office to __________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "book a place on the tour",
+            "2": "make payment for the tour",
+            "3": "sign up for optional activities",
+            "4": "submit her health declaration"
+          }
+        },
+        "27": {
+          "stem_plain": "Mr Tan received a full refund of the payment he had made for the tour. What could have happened?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "There were limited places available.",
+            "2": "The tour had fewer than 20 participants.",
+            "3": "He had cancelled his reservation in November.",
+            "4": "He had withdrawn from the tour due to his sickness."
+          }
+        },
+        "28": {
+          "stem_plain": "The timeline is provided on the website for the following possible reasons except __________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to interest people in the tour",
+            "2": "to show people what needs to be done",
+            "3": "to make the information more reader-friendly",
+            "4": "to draw people's attention to the various deadlines"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "细节 — Detail check — tour facts（信息定位）",
+          "note": "<p>Brochure: tour <em>6 a.m. to 10 p.m.</em>, pick-up at <em>City Centre Bus Terminal</em> → participants must be there by <span class=\"hl-good\">6 a.m.</span> (3).</p><p>(1) confuses end time with departure from Harvest Town; (2) only children 10 and below pay $38, not all schoolchildren; (4) <em>all meals and refreshments</em> are provided, not only lunch and dinner.</p>",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "宣传品 — Word from flyer — fruit description（宣传品考点）",
+          "note": "<p>Fruit-farm panel invites you to sample <em>seasonal produce</em> → fruits described as <span class=\"hl-good\">seasonal</span> (4).</p><p><em>local</em>, <em>fresh</em>, and <em>unique</em> appear elsewhere but not as the label for the fruit itself.</p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "题型 — Tour guide knowledge（题型考点）",
+          "note": "<p>Village visit: guide will <em>acquaint you with their rich history</em> → well-informed about <span class=\"hl-good\">past events related to the villages</span> (1).</p><p>(2)–(4) are not what the site highlights about the guide's commentary.</p>",
+          "answer": "1"
+        },
+        "24": {
+          "concept": "目的 — Punctuation purpose — testimonial tone（目的考点）",
+          "note": "<p>Jessica's comment is enthusiastic → exclamation marks help <span class=\"hl-good\">convey what a pleasant experience her family had had</span> (4).</p><p>They are not mainly to grab attention (1), build anticipation before the trip (2), or merely sound more favourable without describing the experience (3).</p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "推理 — Inference — Jessica's worry（推理考点）",
+          "note": "<p>Jessica feared her children would <em>get tired of taking in all that information</em> → worried they would be <span class=\"hl-good\">overwhelmed by the amount of information</span> (4).</p><p>The text shows the guide was humorous and the children enjoyed listening, so the worry was undue—not about understanding (1), boredom alone (2), or inattention (3).</p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "题型 — Procedure — payment（题型考点）",
+          "note": "<p><em>Payments must be made in cash or by credit card at the TourPro office</em> → Mdm Low visits the office to <span class=\"hl-good\">make payment for the tour</span> (2).</p><p>Booking (1), optional activities (3), and health declaration (4) are done online via account, not at the office.</p>",
+          "answer": "2"
+        },
+        "27": {
+          "concept": "推理 — Inference — full refund（推理考点）",
+          "note": "<p>Policy: minimum <em>20 participants</em> required; if the tour is cancelled, payment is refunded in full. <span class=\"hl-good\">Fewer than 20 participants</span> (2) can cancel the tour → Mr Tan gets a full refund.</p><p>(3) November cancellation yields only 50%; (4) sickness withdrawal follows partial-refund rules, not automatic full refund.</p>",
+          "answer": "2"
+        },
+        "28": {
+          "concept": "判断 — Purpose of timeline — NOT true（找出错误项）",
+          "note": "<p>The timeline tracks reservations, payment, optional activities, and health forms — it <span class=\"hl-good\">shows what needs to be done</span> (2), highlights <span class=\"hl-good\">deadlines</span> (4), and organises steps in a <span class=\"hl-good\">reader-friendly</span> way (3).</p><p>It is <span class=\"hl-bad\">not</span> mainly to <span class=\"hl-bad\">interest people in the tour</span> (1) — that is the job of the promotional panels and testimonial.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "each",
+          "H": "was",
+          "B": "one",
+          "J": "were",
+          "C": "others",
+          "K": "whatever",
+          "D": "their",
+          "L": "when",
+          "E": "them",
+          "M": "where",
+          "F": "though",
+          "N": "whichever",
+          "G": "to",
+          "P": "whom",
+          "Q": "up"
+        },
+        "cloze": [
+          "My school held the water sports carnival after the mid-year examinations. To accommodate the entire school population, it was held at the large swimming complex adjacent [Q29] the school.",
+          "I was honoured to be part of the organising committee this year. The day before the competition, I, together with some committee members [Q30] putting up banners and decorations to spruce [Q31] the swimming complex. [Q32] were assembling the carnival packs. Everyone attending the carnival would receive [Q33] of these, consisting of a clapper, a cap, snacks and packet drinks. [Q34] tired out after working long hours, we were looking forward to the carnival.",
+          "The red-letter day arrived. The competitive events had attracted many participants, many of [Q35] signed up for multiple events. [Q36] supporters were trying to outdo one another with loud cheers and making a din with the clappers. [Q37] the outcome of the events, everyone showed good sportsmanship and congratulated the winners heartily. For non-competitive swimmers, there were also water games and tele-matches [Q38] some teachers gamely joined in. Everyone had a splashing good time."
+        ],
+        "zh": [
+          "学校在中考后举办水上运动会。为容纳全校师生，场地设在毗邻学校的大型游泳综合体。",
+          "今年我有幸加入筹委会。比赛前一天，我和部分委员一起布置横幅装饰，把游泳场打扮一新；其他人则在组装嘉年华礼包——每位到场者都会收到一份，内有响板、帽子、零食和饮料。虽然劳累，大家仍期待盛会。",
+          "大赛日来临。许多选手报名多项赛事；他们的支持者高声呐喊、挥舞响板。无论赛果如何，人人都展现体育精神，热烈祝贺获胜者。非竞赛选手还有水上游戏和接力，一些老师也踊跃参与。人人玩得尽兴。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — adjacency (*adjacent to*)",
+          "note": "the large swimming complex adjacent to the school. = 看前后搭配，选 to。",
+          "answer": "G — to"
+        },
+        "30": {
+          "concept": "主谓 — 时态/一致",
+          "note": "together with some committee members was putting up banners and decorations = 主谓一致 → was。",
+          "answer": "H — was"
+        },
+        "31": {
+          "concept": "短语动词 — *spruce up*",
+          "note": "结合句意选 up。",
+          "answer": "Q — up"
+        },
+        "32": {
+          "concept": "代词 — *others*",
+          "note": "others were assembling the carnival packs. = 结合句意选 others。",
+          "answer": "C — others"
+        },
+        "33": {
+          "concept": "数量词 — *one of these*",
+          "note": "attending the carnival would receive one of these, consisting of a = 结合句意选 one。",
+          "answer": "B — one"
+        },
+        "34": {
+          "concept": "让步 — though",
+          "note": "though tired out after working long = 结合句意选 though。",
+          "answer": "F — though"
+        },
+        "35": {
+          "concept": "代词 — *whom* after *of*",
+          "note": "attracted many participants, many of whom signed up for multiple events. = 结合句意选 whom。",
+          "answer": "P — whom"
+        },
+        "36": {
+          "concept": "指示/所有格 — their",
+          "note": "their supporters were trying to outdo = 结合句意选 their。",
+          "answer": "D — their"
+        },
+        "37": {
+          "concept": "Concessive determiner — *whatever*",
+          "note": "whatever the outcome of the events, = 结合句意选 whatever。",
+          "answer": "K — whatever"
+        },
+        "38": {
+          "concept": "关系词 — *where*",
+          "note": "also water games and tele-matches where some teachers gamely joined in. = 定语/名词性从句 → where。",
+          "answer": "M — where"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Myopia, also known as short-sightedness, is a vision disorder where distant objects appear blurry. The prevalence of myopia in Singapore [Q39(are)] among the highest in the world. During the pandemic, eye-care [Q40(proffesionnals)] are seeing even more children who are [Q41(start)] to have myopia, or whose conditions have worsened due to increased screen time.",
+          "The number of hours [Q42(spending)] on digital devices has increased [Q43(dramekticaly)] because of home-based learning. To make matters worse, most young children do not have a concept of [Q44(where)] blurred vision is. As such, their myopia is [Q45(dieknosed)] and treated only at a later stage. This puts them at a greater risk of [Q46(develop)] higher degrees of myopia when they are older.",
+          "Parents should therefore look [Q47(into)] for signs of myopia in their children. These include holding a book very close to the eyes or [Q48(squianking)] the eyes. Ultimately, children should take the [Q49(responseblity)] of caring for their eyes, such as taking [Q50(freequant)] vision breaks. Hopefully, the rate of myopia in children can be reduced."
+        ],
+        "zh": [
+          "近视是一种看远处物体模糊的视力问题。新加坡近视患病率居世界前列。疫情期间，眼科专业人员发现更多儿童开始近视，或因屏幕使用时间增加而使情况恶化。",
+          "电子设备的使用时数因居家学习而大幅增加。更糟的是，许多幼童并不明白“视力模糊”是什么意思，因此近视往往到较晚才被诊断和治疗，这使他们在年长时更易发展成高度近视。",
+          "因此，家长应注意孩子是否出现近视迹象，例如把书拿得很近或眯眼。最终，孩子也应承担爱护眼睛的责任，例如定时休息、放松视力。希望儿童近视率能够下降。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Subject–verb agreement — singular *is*",
+          "note": "<p>The subject is <em>the prevalence</em> (singular) → <span class=\"hl-good\">is</span>, not <span class=\"hl-bad\">are</span>.</p>",
+          "answer": "Is"
+        },
+        "40": {
+          "concept": "Spelling — *professionals*",
+          "note": "<p><em>proffesionnals</em> is misspelled. Correct: <span class=\"hl-good\">professionals</span>.</p>",
+          "answer": "Professionals"
+        },
+        "41": {
+          "concept": "Progressive aspect — *starting*",
+          "note": "<p>After <em>who are</em>, use <span class=\"hl-good\">starting</span>: <em>children who are starting to have myopia</em>.</p>",
+          "answer": "Starting"
+        },
+        "42": {
+          "concept": "Past participle — *spent*",
+          "note": "<p><em>The number of hours <span class=\"hl-good\">spent</span> on digital devices</em> — reduced passive sense.</p>",
+          "answer": "Spent"
+        },
+        "43": {
+          "concept": "Spelling — adverb *drastically*",
+          "note": "<p><em>dramekticaly</em> → <span class=\"hl-good\">drastically</span>.</p>",
+          "answer": "Drastically"
+        },
+        "44": {
+          "concept": "Noun clause introducer — *what*",
+          "note": "<p><em>a concept of <span class=\"hl-good\">what</span> blurred vision is</em> — not <span class=\"hl-bad\">where</span>.</p>",
+          "answer": "What"
+        },
+        "45": {
+          "concept": "Spelling — *diagnosed*",
+          "note": "<p><em>dieknosed</em> → <span class=\"hl-good\">diagnosed</span>.</p>",
+          "answer": "Diagnosed"
+        },
+        "46": {
+          "concept": "Gerund after preposition — *developing*",
+          "note": "<p><em>risk of <span class=\"hl-good\">developing</span> higher degrees of myopia</em>.</p>",
+          "answer": "Developing"
+        },
+        "47": {
+          "concept": "Phrasal verb — *look out for*",
+          "note": "<p>Idiom: <span class=\"hl-good\">look out for</span> signs of myopia. <span class=\"hl-bad\">Look into for</span> is ungrammatical.</p>",
+          "answer": "Out"
+        },
+        "48": {
+          "concept": "Spelling — *squinting*",
+          "note": "<p><em>squianking</em> → <span class=\"hl-good\">squinting</span>.</p>",
+          "answer": "Squinting"
+        },
+        "49": {
+          "concept": "Spelling — noun *responsibility*",
+          "note": "<p><em>responseblity</em> → <span class=\"hl-good\">responsibility</span>.</p>",
+          "answer": "Responsibility"
+        },
+        "50": {
+          "concept": "Spelling — adjective *frequent*",
+          "note": "<p><em>freequant</em> → <span class=\"hl-good\">frequent</span>.</p>",
+          "answer": "Frequent"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Nowadays, people are able to go on tours and learn new skills like baking and painting, all from the comfort of their homes. [Q51] participants need are just a computer and internet connection. You can even pay and be [Q52] by a clown online. Such live virtual experiences have been gaining in [Q53] especially with many busy parents who signed up for their children to keep them [Q54] as these parents had run out of activities they could do with their children. The tour guide, instructor or entertainer are live on Zoom to provide the virtual experience and interact [Q55] their clients.",
+          "Some cooks who have switched from conducting in-person to virtual cooking classes say they are earning much [Q56] than before. This is despite the fact that they are [Q57] a lower fee than for in-person classes. How is this even [Q58]? Well, they can now take in students from all over the world, who want to learn how to cook via Zoom. The [Q59] of students is also not restricted by the space in the cooking studio anymore. Hundreds and even thousands can sign up for each session.",
+          "One such cook, Mr Shanker, confessed that two years ago, he would not have [Q60] of conducting online cooking classes. [Q61] did he think that he would have students from all over the world. However, now he is even thinking of increasing the capacity of his online classes and expanding into new cuisines.",
+          "Mr Shanker [Q62] to launch an online cooking class for Singapore food, showcasing chilli prawns instead of our famous chilli crabs. [Q63] crabs are less accessible than prawns for overseas participants, he has to modify our famous chilli crab dish by [Q64] crabs with prawns. If the participants do not have some of the ingredients, Mr Shanker will [Q65] alternatives. As can be seen, a lot of hard work is also required for planning and conducting online classes."
+        ],
+        "zh": [
+          "如今人们可在家上网参加导览、学烘焙和绘画等。参与者只需电脑和网络；甚至可在线付费请小丑表演。这类直播虚拟体验日益流行，许多忙碌家长为孩子报名以让孩子有事可做。导游、导师或表演者通过 Zoom 实时互动。",
+          "一些厨师从线下改线上授课，收入反而更高，尽管收费低于线下课。秘诀在于可招收全球学员，每场人数不再受工作室空间限制，可达数百甚至上千人。",
+          "厨师 Shanker 坦言两年前从没想过开网课，更没想到会有全球学生；如今他正考虑扩大网课规模、拓展新菜系。",
+          "他计划推出新加坡菜网课，用辣椒虾示范而非辣椒蟹——因海外学员较难买到螃蟹，故用明虾替代；若学员缺食材，他会提供替代方案。线上课程同样需要大量备课与授课功夫。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "习语与从句主语搭配",
+          "note": "修饰并引导主语从句 participants need are...。完美契合表示某项事务所需要的全部核心前提的经典专属倒装习语 All participants need is/are...，意为“参与者所需要的全部不过是……”。位于句首需大写。",
+          "answer": "All"
+        },
+        "52": {
+          "concept": "被动语态过去分词形式",
+          "note": "与前面的并列被动标志词 pay and be 完美组合，后面有介词 by 引导。在讨论小丑在线演出的特定娱乐场景下，指付费并“被”小丑所“娱乐”、“逗乐”或“吸引”，故填过去分词形式 entertained / amused / attracted / delighted。位于句中需小写（原答案表首字母大写为笔误，答题以规范小写为准）。",
+          "answer": "entertained/amused/attracted/delighted"
+        },
+        "53": {
+          "concept": "动词与名词固定搭配",
+          "note": "作为动词现在分词形式 gaining 的核心宾语，后接介词 in。指这些线上虚拟活动在市场上“赢得了名气”或“变得越来越流行”，完美契合高频书面短语 gain in popularity / popularity。位于句中需小写。",
+          "answer": "popularity"
+        },
+        "54": {
+          "concept": "形容词充当使役结构宾补",
+          "note": "与前面的使役动词结构 keep them 完美组合，后面需要接形容词充当宾语补足语。结合后文忙碌的父母无暇陪伴的背景，指通过网课来让孩子们“忙碌起来（busy）”、“有事可做（occupied/engaged）”或“感到开心（entertained）”，从而解放家长。",
+          "answer": "busy/occupied/engaged/entertained"
+        },
+        "55": {
+          "concept": "动词与介词固定搭配",
+          "note": "与前面的动词原形 interact 极其后文的名词短语 their clients 完美组合。构成在各类线上教学及交际文体中出题率极高的核心专属短语动词 interact with，意为在连线上与客户进行“实时互动”。",
+          "answer": "with"
+        },
+        "56": {
+          "concept": "比较级句型形式与语意",
+          "note": "后文出现了明确的比较连词 than before。指转型线上后，老师们赚到了比以前“更多”的收入，前面有程度修饰词 much，故填限定词/副词比较级 more。",
+          "answer": "more"
+        },
+        "57": {
+          "concept": "现在进行时动词语意搭配",
+          "note": "前面有助动词 are，后面接现在分词（V-ing）构成现在进行时。与后文的名词短语 a lower fee（更低的费用）搭配，指虽然他们在线上向学生“收取（charging）”或“索要（asking）”更低的学费，但总收入却更高了。",
+          "answer": "charging/asking"
+        },
+        "58": {
+          "concept": "形容词作表语引出设问",
+          "note": "作为特殊疑问句结构中的表语形容词。针对上文“收费低却赚得多”的看似反常的经济现象进行转折设问，指这究竟是怎么“可能的（possible/feasible/achievable）”，用以引发读者思考。",
+          "answer": "possible/feasible/achievable"
+        },
+        "59": {
+          "concept": "名词语意与主谓一致",
+          "note": "作为后接单数系动词 is not restricted 的主语。结合后文“打破了实体工作室的建筑空间限制”，说明此处特指线上招收学生的“人数”、“规模”或“容量”，完美契合专属搭配 The number of students（填入 capacity 亦完全通顺）。位于句首需大写。",
+          "answer": "Number/Capacity"
+        },
+        "60": {
+          "concept": "情态虚拟语气过去分词搭配",
+          "note": "前面有情态虚拟完成时否定结构 would not have，后接过去分词，且后面有介词短语 of conducting...。指在两年前，他压根就绝对不会“想到（thought）”或“梦到（dreamt/dreamed）”自己未来会去开展网络授课。",
+          "answer": "thought/dreamt/dreamed"
+        },
+        "61": {
+          "concept": "否定副词置于句首引起的部分倒装",
+          "note": "置于句首，后面触发了助动词提前的部分倒装语序（did he think...）。用以承接前一句的否定逻辑，表达“他也完全没有料想到”自己未来会拥有遍布全球的学生。可填入否定连词/副词 Neither 或 Nor。位于句首需大写。",
+          "answer": "Neither/Nor"
+        },
+        "62": {
+          "concept": "一般现在时主谓一致与动词语意",
+          "note": "主语为单数第三人称 Mr Shanker，后接不定式符号 to launch。指他目前非常“渴望（wants/wishes/intends/hopes/plans）”或“准备”去推出一门全新的新加坡南洋美食网课，谓语动词需用单三形式。",
+          "answer": "wants/wishes/intends/hopes/plans"
+        },
+        "63": {
+          "concept": "从属原因连词形式",
+          "note": "引导原因状语从句。用来连接前后两句，指出“由于/因为（As / Since / Because）”螃蟹对于海外学员而言在采购上不如大虾那么方便，他不得不对菜谱进行改良。位于句首需大写。",
+          "answer": "As/Since/Because"
+        },
+        "64": {
+          "concept": "介词后的动名词与专属短语",
+          "note": "介词 by 后面需要接动名词（V-ing）形式。与后文的 crabs with prawns 完美组合，构成在各类烹饪、配方改良文体中极高频常考的经典专属替代动作搭配 replacing A with B 或者是 substituting A with B（使用代词 B 来替代 A），指通过用大虾来“代替”螃蟹。",
+          "answer": "replacing/substituting"
+        },
+        "65": {
+          "concept": "情态动词后的动词原形搭配",
+          "note": "前面有情态助动词 will，后面必须接动词原形。与后面的名词宾语 alternatives（替代品/备选方案）搭配，指如果学员买不到特定香料，老师在课堂上也会主动为他们“提供（provide/offer/suggest/recommend/give）”替代方案。",
+          "answer": "provide/offer/suggest/recommend/give"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "The twins do not enjoy cycling. Their brother does not enjoy cycling.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Neither __________"
+        },
+        "67": {
+          "stem_plain": "The air conditioner was maintained regularly. It still broke down.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Despite regular __________"
+        },
+        "68": {
+          "stem_plain": "The animal is elusive. It is a rare occurrence to see it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "To see such __________"
+        },
+        "69": {
+          "stem_plain": "Mr Wee gave his dog up for adoption. He was reluctant to do so.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was with __________"
+        },
+        "70": {
+          "stem_plain": "Mother asked Joe, \"Why didn't you take the shortcut home?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mother wanted to know __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "关联结构 — Neither … nor",
+          "zh": "双胞胎和他们的哥哥都不喜欢骑自行车。",
+          "note": "Neither A nor B + V；动词与离它最近的主语 brother 一致，用单数 enjoys。",
+          "answer": "Neither the twins nor their brother enjoys cycling."
+        },
+        "67": {
+          "concept": "让步结构 — Despite + noun",
+          "zh": "尽管定期保养，空调还是坏了。",
+          "note": "Despite + N 表让步；maintain → maintenance。",
+          "answer": "Despite regular maintenance, the air conditioner still broke down."
+        },
+        "68": {
+          "concept": "不定式 — Infinitive subject",
+          "zh": "能见到如此难觅的动物是难得的事。",
+          "note": "To see such … animal 作主语，后接 is a rare occurrence。",
+          "answer": "To see such an elusive animal is a rare occurrence."
+        },
+        "69": {
+          "concept": "强调句 — It was with … that (cleft)",
+          "zh": "魏先生是在很不情愿的情况下把狗送养的。",
+          "note": "强调句 It was with + N + that；reluctant → reluctance。",
+          "answer": "It was with reluctance that Mr Wee gave his dog up for adoption."
+        },
+        "70": {
+          "concept": "间接引语 — Reported wh-question",
+          "zh": "妈妈想知道乔尔为什么没有走捷径回家。",
+          "note": "间接引语：陈述语序；didn't take → had not taken；you → he。",
+          "answer": "Mother wanted to know why Joel had not taken the shortcut home."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Pick out a four-word phrase from the first paragraph that suggests that the bowlers were proud to be part of the ceremony.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "What was Seng's dream?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on information from lines 6 to 16, fill in the blanks in the following table.",
+          "marks": 3,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "How Seng felt",
+              "rows": [
+                "nervous",
+                "[Q73b]",
+                "stressed"
+              ]
+            },
+            "col_2": {
+              "header": "What made Seng feel that way",
+              "rows": [
+                "[Q73a]",
+                "Kamal laughed at his plight.",
+                "[Q73c]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Explain why Seng felt **\"it was pointless to ask her\"**. (lines 20–21)",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "a) What task was considered **\"a tall order\"** (line 29)? b) Why was it considered a tall order?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Seng had taken part in many Olympics prior to this one in Japan.",
+                "(b) Seng was hesitant to go to the ceremony after the girl ran off with his jacket.",
+                "(c) The stitches on the long rip was not obvious."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]",
+                "[Q76e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]",
+                "[Q76f]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Based on lines 20–29, fill in the following table.",
+          "marks": 2,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "When the girl took off her coat and looked at Seng",
+                "When the girl ran off with the jacket"
+              ]
+            },
+            "col_2": {
+              "header": "What Kamal thought the girl wanted",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]"
+              ]
+            },
+            "col_3": {
+              "header": "What the girl actually wanted",
+              "rows": [
+                "She wanted Seng to take the jacket off and pass it to her.",
+                "She wanted to take it away to sew the tear in the jacket."
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Seng bowed on two occasions in the story. a) How was the second time different from the first one? b) Explain why Seng bowed that way the second time.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **it (line 14)**",
+                "(b) **the risk (line 23)**",
+                "(c) **all (line 41)**"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q79a]",
+                "[Q79b]",
+                "[Q79c]"
+              ]
+            }
+          }
+        },
+        "80": {
+          "stem_plain": "",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "Pick out a four-word phrase in the last paragraph which tells us how the girl who helped Seng had affected the Singapore Olympic team.",
+              "question": "[Q80a]"
+            },
+            {
+              "stem_plain": "What did the Singapore Olympic team do to show their appreciation to the girl.",
+              "question": "[Q80b]"
+            }
+          ]
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "For years, Seng had trained tirelessly, so as to excel in bowling. Now in Tokyo, Japan for",
+          "2": "their maiden Olympic experience, he and his teammates were enjoying the fruits of their labour.",
+          "3": "They were representing Singapore in bowling at this prestigious sports event. Seng’s dream had",
+          "4": "finally come true. With heads held high, they were making their way to the Olympic stadium to",
+          "5": "join the athletes from all over the world for the opening ceremony.",
+          "6": "Seng and the other bowlers were in high spirits. Everything was perfect – well, almost",
+          "7": "everything. Seng’s eyes nearly popped out when he saw that the sleeve of his jacket had been",
+          "8": "torn. It was the red and white jacket with the Olympic logo at the back, worn by every Singapore",
+          "9": "Olympic athlete. He realised he must have torn it while trying to yank the jacket off the clothes",
+          "10": "hanger in his rush to get to the stadium. “I can’t do anything about it now,” he thought, as he",
+          "11": "broke out in cold sweat.",
+          "12": "His teammate, Kamal, giggled. How could he laugh at his plight? “Stop it, Kamal!” said",
+          "13": "Seng, feeling agitated. “I don’t think anyone will notice.”",
+          "14": "“They’ll notice it,” said Kamal. “The spectators will notice things like that.”",
+          "15": "Seng thought about what Kamal said. Worried about that, he let out a sigh, feeling",
+          "16": "stressed.",
+          "17": "Suddenly, a teenaged Japanese girl came up to Seng and pointed at his jacket. She",
+          "18": "started speaking but he could not understand her. Then, she tugged at his jacket sleeve, near",
+          "19": "where the tear was.",
+          "20": "“What do you want?” Seng asked curiously, even though he knew it was pointless to",
+          "21": "ask her. Suddenly, she started taking off her own coat. Then she looked up at him.",
+          "22": "“She wants you to take off your jacket for her to try on!” Kamal said.",
+          "23": "Seng hesitated for a moment but decided to take the risk and handed the jacket to the",
+          "24": "girl. He did not think that would cause much delay and he would still be able to make it for the",
+          "25": "opening ceremony in time. She took it and bowed. He bowed slightly too. However, when he",
+          "26": "raised his head again, he saw her running off with his jacket!",
+          "27": "“Thief! She’s...” Kamal shouted, “...stealing it!” Seng ran a few steps after her before he",
+          "28": "stopped. In a flash, she had disappeared along the crowded street, much to Seng’s dismay. It",
+          "29": "would be a tall order to get the jacket back, even if Seng was a sprinter.",
+          "30": "“What do I do now?” Seng asked sorrowfully.",
+          "31": "“You’ll just have to go as you are,” Kamal replied, dragging him along.",
+          "32": "Twenty minutes later, they were standing with the other athletes, as the ceremony was",
+          "33": "about to start. “First, the tear. Then, the thief. What rotten luck!” Seng thought. Then, he felt a",
+          "34": "tugging, this time on his shirt sleeve. He looked down. It was the Japanese girl, holding a neatly-",
+          "35": "folded item. “You thief! You can’t escape now!” Kamal burst out, as he gripped her by the arm.",
+          "36": "Seng took the jacket from her – and he immediately understood. The long rip in the sleeve",
+          "37": "was gone. It had been sewn so perfectly that he could not even see the thread. He had to hold it",
+          "38": "up close to see the stitches. Kamal was looking at the girl with his mouth open. She smiled at",
+          "39": "them and bowed again. Seng bowed a very deep bow to her this time.",
+          "40": "The music began and the ceremony started. Thousands of athletes marched together.",
+          "41": "Moving with the same rhythm and the same joy, all were determined to be the best that he or she",
+          "42": "could be. There was an extra marcher in the ceremony on that proud day - a beaming Japanese",
+          "43": "girl. Having tugged at the heartstrings of the Singapore Olympic team, especially Seng, she had",
+          "44": "been invited to march with them."
+        },
+        "paragraphs": {
+          "1": "多年来，Seng 为在保龄球项目上出类拔萃而刻苦训练。如今他与队友来到日本东京，首次参加奥运，代表新加坡参加保龄球项目——梦想终于成真。他们昂首挺胸，前往奥运主体育场，与来自世界各地的运动员会合，参加开幕式。",
+          "6": "Seng 和队友们兴高采烈，一切似乎都完美——嗯，差不多。当看到奥运夹克袖子被撕破时，他简直不敢相信。那是每名新加坡奥运选手都会穿的、背后印有奥运标志的红白夹克。他想来是赶去体育馆时从衣架上猛拽下来时不小心撕破的。“现在也修不了了，”他一边想一边冒冷汗。",
+          "12": "队友 Kamal 咯咯笑起来。他竟会笑自己的倒霉事？“别笑了，Kamal！”Seng 恼怒地说。“我觉得没人会注意到。”“他们会注意到的，”Kamal 说，“观众会注意到这种事。”Seng 想着 Kamal 的话，忧心忡忡地叹了口气，压力倍增。突然，一个日本少女走向 Seng，指了指他的夹克。她开始说话，但他听不懂。接着她拽了拽他夹克靠近破口处的袖子。",
+          "20": "“你想干什么？”Seng 好奇地问，尽管他知道问也没用。突然，她开始脱自己的外套，抬头看着他。“她要你脱下夹克让她试穿！”Kamal 说。Seng 犹豫了一下，还是决定冒险把夹克递给她。他觉得这耽误不了多久，仍能及时赶到开幕式。她接过夹克鞠躬，他也微微鞠躬。然而当他再次抬头，却看见她拿着他的夹克跑开了！",
+          "27": "“小偷！她……”Kamal 大喊，“……在偷！”Seng 追了几步又停下。转眼间，她消失在拥挤的街人群中，让 Seng 沮丧不已。即便 Seng 是短跑健将，要把夹克要回来也绝非易事。",
+          "30": "“我现在该怎么办？”Seng 伤心地问。“就这样去吧，”Kamal 回答，拖着他继续往前走。",
+          "32": "二十分钟后，他们与其他运动员站在一起，开幕式即将开始。“先是破口，再是小偷。真倒霉！”Seng 想。这时感到有人在拽——这次是衬衫袖子。他低头一看，是那个日本女孩，拿着整齐折叠的东西。“你这个小偷！跑不掉了！”Kamal 冲上去抓住她的胳膊。Seng 从她手中接过夹克——立刻明白了：长袖上的大裂口不见了。缝得如此完美，他根本看不见线头，得凑近才看得出针脚。Kamal 张口望着女孩。她对他们微笑，再次鞠躬。这次 Seng 向她深深鞠了一躬。",
+          "40": "音乐响起，仪式开始。数千运动员步调一致、满怀喜悦地一起行进，每个人都决心发挥最佳水平。在那光荣的一天，游行队伍中多了一位特殊的参加者——笑逐颜开的日本女孩。她深深打动了新加坡奥运队，尤其是 Seng，于是被邀请与他们一同行进。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>在第一段找出<strong>四个词</strong>的短语，说明选手为开幕式而<strong>自豪</strong>。</li><li><strong>范围：</strong>行 <strong>1–5</strong>。</li><li><strong>证据：</strong>行 4 <em>With heads held high, they were making their way to the Olympic stadium</em>。</li><li><strong>书写：</strong>抄写四词短语 <strong>With heads held high</strong>。</li></ol>",
+          "answer": [
+            "With heads held high"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>问法：</strong>直接答 Seng 的<strong>梦想</strong>。</li><li><strong>证据：</strong>行 2–3 <em>representing Singapore in bowling</em>；行 3–4 <em>Seng's dream had finally come true</em>。</li><li><strong>组织：</strong>点明代表新加坡 + 保龄球 + 奥运。</li></ol>",
+          "answer": [
+            "Seng's dream was to represent Singapore in bowling at the Olympics."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>6–16</strong>；填空顺序 (a) 右列 row0、(b) 左列 row1、(c) 右列 row2。</li><li><strong>(a) nervous：</strong>行 10–11 无法处理破口。</li><li><strong>(b)：</strong>行 13 <em>agitated</em>。</li><li><strong>(c) stressed：</strong>行 14–16 观众会注意到。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "He could not do anything about the tear on his jacket.",
+            "73b": "Agitated",
+            "73c": "The spectators would notice the tear on his Olympic jacket."
+          }
+        },
+        "74": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>问法：</strong>解释为何 <em>pointless to ask her</em>（行 20–21）。</li><li><strong>推理：</strong>她是日本人 → 英语提问 → 听不懂 → 白问。</li></ol>",
+          "answer": [
+            "The girl was Japanese, so asking her a question in English would be pointless as she would not understand him."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>(a)：</strong>行 29 <em>get the jacket back</em>。</li><li><strong>(b)：</strong>行 28 <em>disappeared along the crowded street</em>。</li></ol>",
+          "answer": [
+            "Seng getting his jacket back from the girl.",
+            "The girl had disappeared into the crowded street."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>(a) FALSE：</strong>行 2 <em>maiden Olympic experience</em>。</li><li><strong>(b) TRUE：</strong>行 31 Kamal <em>dragging him along</em>。</li><li><strong>(c) TRUE：</strong>行 37 <em>sewn so perfectly … could not even see the thread</em>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "False",
+            "76b": "This was Seng's maiden Olympic experience",
+            "76c": "True",
+            "76d": "Kamal had to drag him along to the ceremony",
+            "76e": "True",
+            "76f": "The stitches had been sewn so perfectly that Seng could not even see the thread"
+          }
+        },
+        "77": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>20–29</strong>；只填 Kamal 的误解（col2）。</li><li><strong>情景一：</strong>行 22 以为要试穿。</li><li><strong>情景二：</strong>行 27 以为要偷。</li></ol>",
+          "answer": {
+            "77a": "He thought the girl wanted to try on Seng's jacket.",
+            "77b": "The girl wanted to steal the jacket."
+          },
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "分问综合简答",
+          "note": "<ol><li><strong>(a)：</strong>行 25 微微鞠躬 vs 行 39 <em>very deep bow</em>。</li><li><strong>(b)：</strong>缝好夹克；无法用日语交流，以深鞠躬致谢。</li></ol>",
+          "answer": [
+            "The second bow was deeper.",
+            "He bowed deeply to thank her sincerely as he could not speak Japanese."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a) it（行 14）：</strong>夹克袖子破口。</li><li><strong>(b) the risk（行 23）：</strong>开幕式迟到。</li><li><strong>(c) all（行 41）：</strong>所有运动员。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "79a": "The tear on Seng's Olympic jacket sleeve.",
+            "79b": "Being late for the opening ceremony.",
+            "79c": "All the athletes at the Olympics."
+          }
+        },
+        "80": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>(a)：</strong>行 43 四词短语 <em>tugged at the heartstrings</em>。</li><li><strong>(b)：</strong>行 44 邀请她一同游行。</li></ol>",
+          "answer": {
+            "80a": "tugged at the heartstrings",
+            "80b": "The Singapore Olympic team invited her to march with them."
+          }
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

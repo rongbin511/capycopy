@@ -1,0 +1,967 @@
+{
+  "paperid": "p6_english_2014_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "6": {
+          "stem_plain": "\"Let the children play a little longer in the park. I can see that they ________ so much fun,\" said Mr Ang to his wife.",
+          "options": {
+            "1": "have",
+            "2": "are having",
+            "3": "were having",
+            "4": "had been having"
+          }
+        },
+        "7": {
+          "stem_plain": "\"She's left the room for some time, ________?\" I asked.",
+          "options": {
+            "1": "isn't she",
+            "2": "didn't she",
+            "3": "hasn't she",
+            "4": "wasn't she"
+          }
+        },
+        "8": {
+          "stem_plain": "\"We go for a walk in the park with our children every Sunday ________ it rains,\" Mrs Chan told her neighbour.",
+          "options": {
+            "1": "yet",
+            "2": "unless",
+            "3": "instead",
+            "4": "despite"
+          }
+        },
+        "9": {
+          "stem_plain": "\"________ the attendance of the class is what I do every day,\" the teacher said.",
+          "options": {
+            "1": "Update",
+            "2": "Updates",
+            "3": "Updated",
+            "4": "Updating"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Our grandparents' habit ________ to cook dinner for us every day till they became too old to do so,\" said Barry.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "11": {
+          "stem_plain": "When the boys knocked against the flower pot, Clara saw it ________ over.",
+          "options": {
+            "1": "topple",
+            "2": "topples",
+            "3": "toppled",
+            "4": "was toppling"
+          }
+        },
+        "12": {
+          "stem_plain": "There was a surge ________ excitement when the national team scored a goal.",
+          "options": {
+            "1": "of",
+            "2": "for",
+            "3": "with",
+            "4": "towards"
+          }
+        }
+      },
+      "answers": {
+        "6": {
+          "note": "由前半句的“I can see”（我能看到）可知，说话者正在观察当下正在发生的动作，因此应当使用现在进行时 “are having”。",
+          "concept": "动词时态 — Present continuous tense",
+          "zh": "“让孩子们在公园里多玩一会儿吧。我能看到他们现在玩得很开心，”安先生对妻子说。",
+          "answer": "2"
+        },
+        "7": {
+          "note": "句中的 “She's left” 后面接的是过去分词 left，且有时间状语 “for some time”，说明它是 “She has left” 的现在完成时缩写。根据“前肯后否”原则，反义疑问部分应为 “hasn't she”。",
+          "concept": "反义疑问句 — Question tags — Present perfect tense",
+          "zh": "“她离开房间已经有一段时间了，不是吗？”我问。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "“unless” 意为“除非”，用来引导一个否定条件，意为：除非下雨，否则每个周日都会去公园散步。",
+          "concept": "条件连词辨析 — Conditional conjunctions — unless",
+          "zh": "“除非下雨，否则每个星期天我们都会带孩子们去公园散步，”陈太太告诉她的邻居。",
+          "answer": "2"
+        },
+        "9": {
+          "note": "这里需要动名词短语（Updating the attendance...）作整个句子的主语，表示“登记考勤”这一件具体的事情。句首单词需大写。",
+          "concept": "动名词作主语 — Gerunds as subjects",
+          "zh": "“登记班级考勤是我每天都要做的事，”老师说。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "句子的核心主语是 “habit”（单数名词）。根据后半句的 “till they became too old” 可知，这是过去存在的习惯，因此应该使用一般过去时单数形式 “was”。",
+          "concept": "主谓一致与时态 — Subject-verb agreement & Past tense",
+          "zh": "巴里说：“直到我们祖父母年纪太大无法做饭之前，他们过去的习惯是每天为我们做晚饭。”",
+          "answer": "3"
+        },
+        "11": {
+          "note": "本题考查感官动词 saw 的用法：saw someone/something do/doing something。选项中 “topple” 为动词原形，表示看到了花盆“倒下”这完整一幕的过程。",
+          "concept": "感官动词用法 — Verbs of perception — see something do",
+          "zh": "当男孩们撞到花盆时，克拉拉看到它倒了下去。",
+          "answer": "1"
+        },
+        "12": {
+          "note": "固定短语搭配。“a surge of ...” 意为“一阵……（感情、情绪的）高涨/涌动”。",
+          "concept": "名词量词搭配 — Noun collocations — a surge of",
+          "zh": "当国家队进球时，现场涌起了一阵兴奋的狂潮。",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "16": {
+          "stem_plain": "\"Young children are naturally ________. That's why they enjoy exploring their surroundings,\" explained the pre-school teacher to the parents.",
+          "options": {
+            "1": "invasive",
+            "2": "intruding",
+            "3": "inquisitive",
+            "4": "interfering"
+          }
+        },
+        "17": {
+          "stem_plain": "The researcher was given an award for her ________ inventions which helped to solve many scientific problems.",
+          "options": {
+            "1": "talented",
+            "2": "ingenious",
+            "3": "resourceful",
+            "4": "knowledgeable"
+          }
+        },
+        "18": {
+          "stem_plain": "The artist took pains to draw ________ details in his painting.",
+          "options": {
+            "1": "dainty",
+            "2": "refined",
+            "3": "intricate",
+            "4": "polished"
+          }
+        },
+        "19": {
+          "stem_plain": "After many hours of chasing the tiger, the hunter's efforts became more and more ________.",
+          "options": {
+            "1": "weary",
+            "2": "fragile",
+            "3": "feeble",
+            "4": "delicate"
+          }
+        },
+        "20": {
+          "stem_plain": "Rui Yong was so ________ writing his book that he ate and slept little.",
+          "options": {
+            "1": "taken in by",
+            "2": "taken up with",
+            "3": "taken aback by",
+            "4": "taken away from"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "16": {
+          "note": "后文的“enjoy exploring their surroundings（喜欢探索周围环境）”表明了孩子们拥有强烈的求知欲与好奇心，因此使用“inquisitive（好奇的）”最为贴切。",
+          "zh": "“幼儿天生充满好奇心。这就是为什么他们喜欢探索周围的环境，”幼儿园老师向家长们解释道。",
+          "concept": "词汇-语境线索 Vocabulary-Contextual Clues",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "invasive",
+              "zh": "侵入性的，侵略性的（指具有破坏性地进入、扩散或占领别的地方）",
+              "eg": "The medical team performed a non-invasive procedure on the patient."
+            },
+            {
+              "opt": "2",
+              "word": "intruding",
+              "zh": "闯入的，打扰的（动词intrude的现在分词形式，指在不被邀请的情况下进入）",
+              "eg": "The sound of loud music kept intruding on her thoughts."
+            },
+            {
+              "opt": "3",
+              "word": "inquisitive",
+              "zh": "好奇的，好问的（指有强烈学习欲望，对事物充满好奇并喜欢探究）",
+              "eg": "The inquisitive boy asked a lot of questions about how planets form."
+            },
+            {
+              "opt": "4",
+              "word": "interfering",
+              "zh": "干涉的，多管闲事的（指在不该过问的情况下瞎插手别人的事情）",
+              "eg": "She resented her neighbor's interfering attitude toward her family choices."
+            }
+          ]
+        },
+        "17": {
+          "zh": "这位研究人员因她那些帮助解决了许多科学难题的精妙发明而获得了奖项。",
+          "note": "“ingenious”在此处用来修饰“inventions（发明）”，意为“精妙的、设计巧妙的”。虽然其他选项也可以形容人，但只有 ingenious 最适合直接修饰物或发明创造。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "talented",
+              "zh": "有才华的，有天赋的（通常用来直接修饰具有某种能力的人）",
+              "eg": "The talented young pianist won first prize in the national competition."
+            },
+            {
+              "opt": "2",
+              "word": "ingenious",
+              "zh": "心灵手巧的，精妙的（指人和发明、计划、设计等极其新颖、巧妙和有效）",
+              "eg": "The engineer came up with an ingenious plan to bridge the river."
+            },
+            {
+              "opt": "3",
+              "word": "resourceful",
+              "zh": "足智多谋的，机智的（指人在遇到困难时善于找寻方法或资源解决问题）",
+              "eg": "A resourceful camp leader can handle unexpected weather changes easily."
+            },
+            {
+              "opt": "4",
+              "word": "knowledgeable",
+              "zh": "博学的，见多识广的（指人对某个特定领域或许多方面拥有非常丰富的知识）",
+              "eg": "Our history teacher is highly knowledgeable about ancient civilizations."
+            }
+          ]
+        },
+        "18": {
+          "zh": "这位艺术家费尽心思地在画中描绘出那些错综复杂的细节。",
+          "note": "“intricate details”是一个非常常用的固定搭配，意为“精细且复杂的细节”。前文的“took pains（费尽心思）”也侧面说明了这些细节非常繁复难画。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dainty",
+              "zh": "娇小的，精致的（指小巧玲珑、优雅美观的衣物、餐点或动作）",
+              "eg": "She served delicious tea in dainty porcelain cups to the guests."
+            },
+            {
+              "opt": "2",
+              "word": "refined",
+              "zh": "精炼的，优雅的高尚的（指经过改良变得纯净，或者人的举止有教养）",
+              "eg": "The rich hotel features a highly refined decor that attracts tourists."
+            },
+            {
+              "opt": "3",
+              "word": "intricate",
+              "zh": "错综复杂的，精细的（指包含许多细小部分、线条极其复杂精细的结构或图案）",
+              "eg": "The carver spent months working on the intricate design of the wooden box."
+            },
+            {
+              "opt": "4",
+              "word": "polished",
+              "zh": "擦亮的，完美的（指表面光滑有光泽，或技术技巧经过练习变得纯熟）",
+              "eg": "The writer submitted a polished manuscript to the publisher after edits."
+            }
+          ]
+        },
+        "19": {
+          "zh": "在追赶老虎数小时后，猎人的努力变得越来越无力了。",
+          "note": "“feeble efforts”是一个固定搭配，意为“无力的尝试/徒劳的努力”。经过长时间的消耗，行动者的力量减弱，后续进行的努力也变得越来越软弱无力。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "weary",
+              "zh": "疲惫的，疲倦的（用来形容人的身体或精神状态感到非常劳累）",
+              "eg": "The weary travelers finally arrived at their cozy destination after dark."
+            },
+            {
+              "opt": "2",
+              "word": "fragile",
+              "zh": "易碎的，脆弱的（指物体结构薄弱容易打破，或身体虚弱承受不住打击）",
+              "eg": "Be extra careful when moving those fragile glass vases into the box."
+            },
+            {
+              "opt": "3",
+              "word": "feeble",
+              "zh": "微弱的，无力的（指动作、努力、声音等因为力量不足而显得软弱、成效甚微）",
+              "eg": "The sick old man made a feeble attempt to stand up from his chair."
+            },
+            {
+              "opt": "4",
+              "word": "delicate",
+              "zh": "娇嫩的，精致的（指皮肤、花朵娇嫩，或健康状况脆弱需要小心照料）",
+              "eg": "The baby's delicate skin needs protection from the strong sunlight."
+            }
+          ]
+        },
+        "20": {
+          "zh": "瑞容太专注于写他的书了，以至于很少吃饭和睡觉。",
+          "note": "短语动词“taken up with”在这里意为“一心专注于、忙于”。后文提到他“ate and slept little（很少吃睡）”，证明他的时间和精力全部被写书给占满了。",
+          "concept": "短语动词 Phrasal Verbs",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "taken in by",
+              "zh": "被……欺骗，蒙蔽（指听信了谎言或被假象所误导）",
+              "eg": "She was completely taken in by the dishonest salesman's clever story."
+            },
+            {
+              "opt": "2",
+              "word": "taken up with",
+              "zh": "一心专注于，忙于（指时间和精力被某件事或某个人完全占据）",
+              "eg": "Lately, he has been entirely taken up with planning his new business."
+            },
+            {
+              "opt": "3",
+              "word": "taken aback by",
+              "zh": "被……吓了一跳，震惊（指因为极其突发的意外事件或消息而感到极其惊讶）",
+              "eg": "We were all taken aback by her sudden decision to resign yesterday."
+            },
+            {
+              "opt": "4",
+              "word": "taken away from",
+              "zh": "被从……带走/夺走（指某人或某物被移开、剥夺或带离原处）",
+              "eg": "The child was safely taken away from the dangerous area by rescuers."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "21": {
+          "stem_plain": "engaging",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "attractive",
+            "2": "desirable",
+            "3": "appealing",
+            "4": "encouraging"
+          }
+        },
+        "22": {
+          "stem_plain": "persisted with",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "stopped",
+            "2": "resumed",
+            "3": "disrupted",
+            "4": "continued"
+          }
+        },
+        "23": {
+          "stem_plain": "earnest",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "excited",
+            "2": "sincere",
+            "3": "respectful",
+            "4": "industrious"
+          }
+        },
+        "24": {
+          "stem_plain": "inspired",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "motivated",
+            "2": "compelled",
+            "3": "influenced",
+            "4": "persuaded"
+          }
+        },
+        "25": {
+          "stem_plain": "boosted",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "raised",
+            "2": "elevated",
+            "3": "increased",
+            "4": "advanced"
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "词义辨析 — “engaging”形容故事引人入胜、有吸引力，与“appealing（有吸引力的、动人的）”意思最接近。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "attractive",
+              "zh": "有吸引力的，漂亮的（多指外表）",
+              "eg": "The hotel has an attractive garden at the back."
+            },
+            {
+              "opt": "2",
+              "word": "desirable",
+              "zh": "值得拥有的，满意的",
+              "eg": "The house is located in a highly desirable neighborhood."
+            },
+            {
+              "opt": "3",
+              "word": "appealing",
+              "zh": "引人入胜的，有吸引力的",
+              "eg": "The colorful illustrations make the book very appealing to children."
+            },
+            {
+              "opt": "4",
+              "word": "encouraging",
+              "zh": "鼓舞人心的",
+              "eg": "The company reported encouraging sales results this month."
+            }
+          ]
+        },
+        "22": {
+          "note": "词义辨析 — “persisted with”指不顾无趣的氛围而坚持做某事，即“continued（继续）”。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stopped",
+              "zh": "停止",
+              "eg": "The rain stopped just before our outdoor trip began."
+            },
+            {
+              "opt": "2",
+              "word": "resumed",
+              "zh": "重新开始，恢复",
+              "eg": "The game resumed after a brief lunch break."
+            },
+            {
+              "opt": "3",
+              "word": "disrupted",
+              "zh": "使中断，打乱",
+              "eg": "The severe storm completely disrupted train services."
+            },
+            {
+              "opt": "4",
+              "word": "continued",
+              "zh": "继续，坚持",
+              "eg": "Despite the noisy background, he continued reading the news."
+            }
+          ]
+        },
+        "23": {
+          "note": "词义辨析 — “earnest”形容人态度真诚、诚挚、认真的，与“sincere（真诚的、诚挚的）”完全同义。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "excited",
+              "zh": "兴奋的",
+              "eg": "The kids were excited about going to the zoo tomorrow."
+            },
+            {
+              "opt": "2",
+              "word": "sincere",
+              "zh": "真诚的，诚挚的",
+              "eg": "Please accept our sincere apologies for the delay."
+            },
+            {
+              "opt": "3",
+              "word": "respectful",
+              "zh": "恭敬的，有礼貌的",
+              "eg": "Students should maintain a respectful attitude toward teachers."
+            },
+            {
+              "opt": "4",
+              "word": "industrious",
+              "zh": "勤奋的",
+              "eg": "The industrious workers completed the project ahead of schedule."
+            }
+          ]
+        },
+        "24": {
+          "note": "词义辨析 — “inspired”指激发起意志或动力，此处与“motivated（使有动机、激发起……的积极性）”意思最契合。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "motivated",
+              "zh": "使有积极性，激发起信心",
+              "eg": "The coach's speech motivated the players to win the final game."
+            },
+            {
+              "opt": "2",
+              "word": "compelled",
+              "zh": "强迫，不得不",
+              "eg": "Heavy snow compelled us to stay indoors all afternoon."
+            },
+            {
+              "opt": "3",
+              "word": "influenced",
+              "zh": "影响",
+              "eg": "His choice was deeply influenced by his father's career choice."
+            },
+            {
+              "opt": "4",
+              "word": "persuaded",
+              "zh": "说服",
+              "eg": "She successfully persuaded her mother to buy a new laptop."
+            }
+          ]
+        },
+        "25": {
+          "note": "词义辨析 — 固定搭配“boosted his morale”指提高、振奋士气或斗志，在此语境下用“raised（提高、振奋）”作为近义替换最契合。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "raised",
+              "zh": "提升，增高（士气、声音、价格等）",
+              "eg": "The team's first goal immediately raised their team morale."
+            },
+            {
+              "opt": "2",
+              "word": "elevated",
+              "zh": "提高（尤指地位、层次或物理高度）",
+              "eg": "He was elevated to the rank of head chef due to his skills."
+            },
+            {
+              "opt": "3",
+              "word": "increased",
+              "zh": "增加（数量、程度等）",
+              "eg": "The store increased the prices of milk and eggs this week."
+            },
+            {
+              "opt": "4",
+              "word": "advanced",
+              "zh": "推进，向前进发展",
+              "eg": "The scientist advanced his research into the field of green energy."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mrs Iris Wee was a famous writer. One day, at a book club where Mrs Wee was present, a teenager, Colin, stood up to read a story which he had written. However, most of the audience did not find his story [Q21(engaging)] and they looked bored.",
+          "Still, Colin [Q22(persisted with)] reading his story and was not afraid to ask Mrs Wee for her views after he finished reading. Seeing how [Q23(earnest)] Colin was, Mrs Wee gave him some advice and told him not to give up. What Mrs Wee said not only [Q24(inspired)] Colin to continue writing, but also [Q25(boosted)] his morale. Since then, Colin went on to write many beautiful stories."
+        ],
+        "zh": [
+          "艾里斯·吴太太（Mrs Iris Wee）是一位著名的作家。有一天，在吴太太出席的一个读书会上面，一个名叫科林的青少年站起来朗读他自己写的一篇故事。然而，大多数观众并没有觉得他的故事引人入胜，大家都显得很无聊。",
+          "尽管如此，科林还是坚持读完了他的故事，并且在读完后毫无惧色地向吴太太征求意见。看到科林态度如此诚挚，吴太太给了他一些建议，并叮嘱他不要放弃。吴太太所说的话不仅激发了科林继续写作的动力，同时也振奋了他的士气。从那以后，科林陆续写出了许多优美的故事。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "31": {
+          "concept": "非谓语动词（动词不定式表目的状语）",
+          "note": "‘To escape the sweltering heat...’，位于句首的动词不定式短语 to do 在此充当目的状语，意为‘为了躲避酷热’。",
+          "answer": "P"
+        },
+        "32": {
+          "concept": "副词修饰语（限定范围固定搭配）",
+          "note": "‘only active at night’，副词 only 修饰后面的形容词 active，表示‘仅仅在夜间活跃’，与白天睡觉形成强烈对比。",
+          "answer": "J"
+        },
+        "33": {
+          "concept": "介词搭配（固定表达形式）",
+          "note": "‘at its lowest’ 意为‘处于最低点’，介词 at 常用来引入处于某种程度或状态的极值点。",
+          "answer": "D"
+        },
+        "34": {
+          "concept": "连词用法（让步状语从句）",
+          "note": "‘While/Although some animals are active...’，根据所给选项，连词 though 在此引导让步状语从句，意为‘尽管一些动物在夜间活跃，但也有其他动物在白天活跃’。",
+          "answer": "N"
+        },
+        "35": {
+          "concept": "代词（不定代词作主语表示对照）",
+          "note": "‘there are others which are active...’，不定代词 others 在此指代‘其他动物’，与前文的 some animals（一些动物）构成前后并列对照结构。",
+          "answer": "K"
+        },
+        "36": {
+          "concept": "非谓语动词（现在分词/动名词作介词宾语）",
+          "note": "‘by being active mainly at dawn’，介词 by 后面接动名词/现在分词 being 构成介宾短语，表示手段或方式，意为‘通过主要在黎明时分活跃（来躲避炎热）’。",
+          "answer": "E"
+        },
+        "37": {
+          "concept": "并列连词/副词（因果或条件从句逻辑顺承）",
+          "note": "‘As the day progresses and the temperature increases...’，连词 and 在此连接由连词 As 引导的两个并列的伴随状语从句，表示‘随着一天的推进以及温度的升高’。",
+          "answer": "A"
+        },
+        "38": {
+          "concept": "限定词/代词（结合上下文排序指代）",
+          "note": "‘Another way animals keep cool...’，不定代词 another 意为‘另一种（方式）’，用来承接前文提到的睡眠和黎明活跃等机制，引出第三种防暑手段。",
+          "answer": "B"
+        },
+        "39": {
+          "concept": "动词时态与主谓一致（一般现在时单数）",
+          "note": "‘Another way... is to look for...’，本句的核心主语为单数名词 way（方式），全篇在客观叙述自然界常识，故系动词选用 is 引导后面的不定式作表语。",
+          "answer": "G"
+        },
+        "40": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘burrow into it’ 是固定短语，表示‘钻入/挖洞进入……内部（这里指泥土中）’。",
+          "answer": "F"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "B": "another",
+          "C": "are",
+          "D": "at",
+          "E": "being",
+          "F": "into",
+          "G": "is",
+          "H": "not",
+          "J": "only",
+          "K": "others",
+          "L": "so",
+          "M": "these",
+          "N": "though",
+          "P": "to",
+          "Q": "was"
+        },
+        "cloze": [
+          "Animals have various ways of surviving in the desert which can be extremely hot during the day but cold at night. [Q31] escape the sweltering heat, animals such as bats and foxes sleep in cool caves by day. Known as nocturnal creatures, they are [Q32] active at night when the temperature in the desert is [Q33] its lowest.",
+          "[Q34] some animals are active at night, there are [Q35] which are active during the day. These animals can cope with the heat in various ways. For example, some birds escape the heat by [Q36] active mainly at dawn. As the day progresses [Q37] the temperature increases, the birds look for cool, shady spots where they spend the rest of the day.",
+          "[Q38] way animals keep cool in the day [Q39] to look for soil that is moist and burrow [Q40] it. The moisture in the soil is absorbed by the skin of the animals and as a result, the animals are able to retain moisture."
+        ],
+        "zh": [
+          "动物有各种各样的办法在沙漠中生存。沙漠在白天可能极其炎热，但在夜间却十分寒冷。为了躲避酷热，蝙蝠和狐狸等动物白天在凉爽的洞穴里睡觉。它们被称为夜行动物，仅在沙漠温度处于最低点时的夜间才出来活动。",
+          "尽管一些动物在夜间活跃，但也有其他动物在白天活跃。这些动物可以通过各种方式来应对炎热。例如，一些鸟类通过主要在黎明时分活跃来躲避炎热。随着一天的推移和温度的升高，鸟类会寻找凉爽、遮阴的地方，并在那里度过一天的其余时间。",
+          "动物在白天保持凉爽的另一种方式是寻找潮湿的土壤并钻入其中。土壤中的水分被动物的皮肤吸收，结果，动物能够保持体内的水分。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：表示“备用房间、空闲房间”，正确拼写应为 spare，而非 space。",
+          "answer": "spare"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 aquarium（名词，意为鱼缸、水族箱）。",
+          "answer": "aquarium"
+        },
+        "43": {
+          "concept": "形容词/动词时态 - Adjectives/Verb Tenses",
+          "note": "词性与结构错误：在系动词 was 后面应接形容词形式 agreed 构成表语状态，或者直接用动词过去式 agreed（表示母亲同意了他的想法），去掉多余的 was。",
+          "answer": "agreed"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 approximately（副词，意为大约、大概）。",
+          "answer": "approximately"
+        },
+        "45": {
+          "concept": "现在分词 - Present Participles",
+          "note": "非谓语动词/主动含义：此处用现在分词短语作伴随状语，表示“迈克的母亲知道孩子们有多兴奋”，应将 know 改为现在分词形式 knowing。",
+          "answer": "knowing"
+        },
+        "46": {
+          "concept": "过去分词 - Past Participles",
+          "note": "语态错误：表示菜肴“被端上来”，应使用被动语态（were + 过去分词），将 serving 改为过去分词形式 served。",
+          "answer": "served"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 appetizing（形容词，意为令人食指大动的、诱人的）。",
+          "answer": "appetizing"
+        },
+        "48": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：“让某人感到好笑/开心的是”应用固定短语 to the amusement of，而非 on the amusement of。",
+          "answer": "to"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 leisurely（形容词/副词，意为悠闲的、漫不经心的）。",
+          "answer": "leisurely"
+        },
+        "50": {
+          "concept": "动词原形 - Infinitives",
+          "note": "动词不定式后的动词形式与拼写：在不定式符号 to 后面应接动词原形，正确拼写为 familiarize（意为熟悉、使熟悉）。",
+          "answer": "familiarize"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mike and his family were moving to a new flat. Mike and his brother [Q41(would each have a space room)] to themselves. Mike planned to keep an [Q42(akwerium)] in his room so that he could rear a few guppies. His mother was [Q43(agree)] to his idea as long as Mike took responsible care of them.",
+          "On the day of the move, Mike and his family took [Q44(aproksimately)] six hours to shift into their new flat. Mike's mother, [Q45(know)] how excited the boys were, reminded them to unpack their boxes before exploring their new flat.",
+          "After a hard day's work, the family went to a food centre for dinner. By the time the dishes were [Q46(serving)], everyone was so hungry that every dish looked so delicious and [Q47(apertaising)]. Mike and his brother gobbled up their satay and noodles, much [Q48(on)] the amusement of their parents.",
+          "After dinner, the family took a slow and [Q49(leisherly)] walk in their new neighbourhood to [Q50(famillerais)] themselves with the surroundings. They even made a few new friends during their stroll."
+        ],
+        "zh": [
+          "迈克和他的家人正在搬进一个新公寓。迈克和他的哥哥每个人都将拥有自己独立的备用房间。迈克计划在房间里放一个鱼缸，这样他就可以养几条孔雀鱼。他的母亲同意了他的想法，只要迈克能尽责地照顾好它们。",
+          "在搬家的那天，迈克和他的家人花了大约六个小时才搬进新家。迈克的母亲知道男孩子们有多兴奋，于是提醒他们，在四处探索新公寓之前，要先打开箱子收拾好行李。",
+          "经过一整天的辛勤劳作，一家人前往熟食中心吃晚饭。当菜肴被端上来的时候，大家都已经饿坏了，每一道菜看起来都那么美味、令人食指大动。迈克和他的哥哥狼吞虎咽地吃着他们的沙爹和面条，这让他们的父母感到好笑不已。",
+          "晚饭后，一家人在他们的新社区里慢悠悠地散步，以便熟悉周围的环境。在散步期间，他们甚至结识了几个新朋友。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun rose [Q51] the horizon."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "Prototype",
+          "note": "Prototype blank.",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "\"Who drank my cup of tea?\" Mr Gan asked his daughter.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mr Gan asked his daughter who __________ ."
+        },
+        "67": {
+          "stem_plain": "Fred could speak several languages. Everyone was impressed.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Everyone found it __________ ."
+        },
+        "68": {
+          "stem_plain": "Rita can perform magic tricks. No other student can do so.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The only __________ ."
+        },
+        "69": {
+          "stem_plain": "There were two mountains. They were connected by a bridge.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Connecting __________ ."
+        },
+        "70": {
+          "stem_plain": "Ben questioned whether the newspaper reports were accurate.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The accuracy __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "间接引语 — 特殊疑问句语序与时态、人称转换",
+          "note": "间接引语：由 who 引导的疑问句作宾语从句。由于 who 本身作主语，语序保持不变；时态由过去时 drank 变为过去完成时 had drunk；物主代词 my 变 his。",
+          "zh": "颜先生问他的女儿是谁喝了他的那杯茶。",
+          "answer": "Mr Gan asked his daughter who had drunk his cup of tea."
+        },
+        "67": {
+          "concept": "词性转换与形式宾语 — 'find it + Adj. + that 从句'",
+          "zh": "每个人都觉得弗雷德能说几种语言这件事令人印象深刻。",
+          "note": "综合改写：将形容词 impressed（感到印象深刻的）转换为修饰事物的 impressive（令人印象深刻的），利用 it 作形式宾语，后接 that 引导的真正宾语从句。",
+          "answer": "Everyone found it impressive that Fred could speak several languages."
+        },
+        "68": {
+          "concept": "定语从句 — 限定词 'the only' 修饰先行词",
+          "zh": "唯一会表演魔术的学生是丽塔。",
+          "note": "句式改写：整合两句逻辑，以“The only student”作为主语核心，后接 who 引导的定语从句修饰，最后用系动词 is 连接结论 Rita。",
+          "answer": "The only student who can perform magic tricks is Rita."
+        },
+        "69": {
+          "concept": "全部倒装 — 分词短语置于句首",
+          "zh": "连接这两座山的是一座桥。",
+          "note": "倒装句：现在分词短语 Connecting the two mountains 置于句首引起全部倒装，谓语动词使用过去时 was，由其后真正的主语 a bridge 决定单复数。",
+          "answer": "Connecting the two mountains was a bridge."
+        },
+        "70": {
+          "concept": "词性转换与被动语态 — 形容词变名词 'accuracy'",
+          "zh": "报纸报道的准确性受到了本的质疑。",
+          "note": "综合改写：由提示词名词 The accuracy 出发，用 of 引出修饰对象，并将原句动词 questioned 转换为被动语态形式 was questioned by...",
+          "answer": "The accuracy of the newspaper reports was questioned by Ben."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "This is a prototype open-ended passage.",
+          "2": "Replace with numbered booklet text when ready."
+        },
+        "paragraphs": {
+          "1": "这是开放式阅读示例段落。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

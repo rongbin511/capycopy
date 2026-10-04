@@ -1,0 +1,1553 @@
+{
+  "paperid": "p6_english_2025_sa2_taonan",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The jury ________ unable to reach a verdict due to the fact that they had different opinions.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "Mei Ling, along with her uncle, ________ chess regularly since she developed a love for the game.",
+          "options": {
+            "1": "plays",
+            "2": "is playing",
+            "3": "has played",
+            "4": "has been playing"
+          }
+        },
+        "3": {
+          "stem_plain": "Mrs Rai looked on with pride as her son delivered a speech that he had prepared by ________ .",
+          "options": {
+            "1": "herself",
+            "2": "himself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Emily never forgets to remind her grandmother to take her medicine, ________ ?\" remarked Mother.",
+          "options": {
+            "1": "will she",
+            "2": "isn't she",
+            "3": "does she",
+            "4": "doesn't she"
+          }
+        },
+        "5": {
+          "stem_plain": "\"Attend to the guests promptly ________ they need assistance,\" the restaurant manager reminded his staff during his briefing.",
+          "options": {
+            "1": "shall",
+            "2": "must",
+            "3": "could",
+            "4": "should"
+          }
+        },
+        "6": {
+          "stem_plain": "The Long Island Project is by far ________ scheme to combat rising sea levels along Singapore's coastline.",
+          "options": {
+            "1": "a significant",
+            "2": "a more significant",
+            "3": "the very significant",
+            "4": "the most significant"
+          }
+        },
+        "7": {
+          "stem_plain": "The government introduced electric buses ________ the high costs as they were committed to a greener public transport system.",
+          "options": {
+            "1": "owing to",
+            "2": "in spite of",
+            "3": "because of",
+            "4": "resulting from"
+          }
+        },
+        "8": {
+          "stem_plain": "The tour guide, ________ company had conducted the Angkor Wat historical tour, has received excellent reviews.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "where",
+            "4": "whose"
+          }
+        },
+        "9": {
+          "stem_plain": "If you have plans to visit this modern city, be sure to put ________ at least two hours for a complete experience.",
+          "options": {
+            "1": "away",
+            "2": "aside",
+            "3": "behind",
+            "4": "across"
+          }
+        },
+        "10": {
+          "stem_plain": "There is ________ doubt that Janice will win the award given her outstanding performance.",
+          "options": {
+            "1": "any",
+            "2": "few",
+            "3": "little",
+            "4": "much"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "名词 — Collective noun as plural",
+          "zh": "陪审团因意见不同而无法达成裁决。",
+          "note": "jury 在这里被视为多个成员，因为后文用 they。当你发现句子中有 different (不同的), separate (各自的) 或者 they/their 等暗示个体的词时，选复数准没错。类似的可单可复集体名词还有 family, team, staff, audience, class, crowd, etc.",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "现在完成时 — Present perfect with since",
+          "zh": "Mei Ling 自从爱上这个游戏以来，就经常下棋。",
+          "note": "since 引导过去起点，主句用现在完成时。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "代词 — Reflexive pronoun",
+          "zh": "Rai 太太自豪地看着儿子发表他自己准备的演讲。",
+          "note": "himself 指代 her son。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "反意疑问句 — Question tag",
+          "zh": "Emily 从不忘记提醒祖母吃药，是吗？",
+          "note": "应选（3）does she：陈述含 never 表否定，附加问句 (Question tag) 用肯定形式 does she。will she 时态不符；isn't she 助动词不对；doesn't she 与 never 构成双重否定。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "条件句 — Conditional use of should",
+          "zh": "如果客人需要帮助，要迅速照顾他们。",
+          "note": "Should they need = If they need，是正式条件结构。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "最高级 — Superlative after by far",
+          "zh": "Long Island Project 是目前应对新加坡海岸线海平面上升最重要的方案。",
+          "note": "by far 常与最高级连用。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "让步 — Concession",
+          "zh": "尽管成本高，政府仍推出电动巴士，因为他们致力于更环保的公共交通系统。",
+          "note": "in spite of 后接名词短语，表示让步。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "关系词 — Possessive relative pronoun",
+          "zh": "那位导游的公司曾负责吴哥窟历史之旅，他获得了极好评价。",
+          "note": "whose 表示 company 属于 / 关联 tour guide。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "短语动词 — Phrasal verb",
+          "zh": "如果你计划参观这座现代城市，务必预留至少两小时，以获得完整体验。",
+          "note": "put aside time = 预留时间。",
+          "answer": "2"
+        },
+        "10": {
+          "concept": "量词 — quantifier with uncountable noun",
+          "zh": "鉴于 Janice 的出色表现，几乎毫无疑问她会获奖。",
+          "note": "little doubt 表示几乎没有疑问。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "When the tsunami warning alarm went off, residents were told to ________ the area immediately and head for higher ground.",
+          "options": {
+            "1": "depart",
+            "2": "survey",
+            "3": "observe",
+            "4": "evacuate"
+          }
+        },
+        "12": {
+          "stem_plain": "Many tourists are unaware of the ________ effects their visits can have on the heritage sites. A number have suffered irreparable damage.",
+          "options": {
+            "1": "subtle",
+            "2": "unlimited",
+            "3": "temporary",
+            "4": "devastating"
+          }
+        },
+        "13": {
+          "stem_plain": "The lack of proper shelter during heavy rain has become a major ________ for the school community.",
+          "options": {
+            "1": "lapse",
+            "2": "concern",
+            "3": "obstruction",
+            "4": "interference"
+          }
+        },
+        "14": {
+          "stem_plain": "My little nephew ________ when he saw blood trickling down his grazed knee.",
+          "options": {
+            "1": "passed up",
+            "2": "passed off",
+            "3": "passed out",
+            "4": "passed over"
+          }
+        },
+        "15": {
+          "stem_plain": "The students were hesitant to ________ speak in front of the discipline master for fear of being reprimanded.",
+          "options": {
+            "1": "eagerly",
+            "2": "tactfully",
+            "3": "candidly",
+            "4": "deliberately"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "海啸警报响起时，居民被告知立即撤离该地区并前往高地。",
+          "note": "应选（4）'evacuate'：题干语境最宜表达'（紧急情况下）疏散；撤离'。'depart'义为'出发；启程'：与题干语境或搭配要求不一致。'survey'义为'勘察；调查'：与题干语境或搭配要求不一致。'observe'义为'观察；遵守（规则）'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — evacuate（（紧急情况下）疏散；撤离）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "depart",
+              "zh": "出发；启程",
+              "eg": "The flight will <strong>depart</strong> from Changi Airport in fifteen minutes."
+            },
+            {
+              "opt": "2",
+              "word": "survey",
+              "zh": "勘察；调查",
+              "eg": "Engineers were sent to <strong>survey</strong> the land before construction began."
+            },
+            {
+              "opt": "3",
+              "word": "observe",
+              "zh": "观察；遵守（规则）",
+              "eg": "She likes to sit by the window and <strong>observe</strong> the birds in the garden."
+            },
+            {
+              "opt": "4",
+              "word": "evacuate",
+              "zh": "（紧急情况下）疏散；撤离",
+              "eg": "All residents had to <strong>evacuate</strong> the block when smoke filled the corridor."
+            }
+          ]
+        },
+        "12": {
+          "zh": "许多游客没有意识到他们的到访可能对遗产地造成毁灭性影响。",
+          "note": "应选（4）'devastating'：题干语境最宜表达'毁灭性的；严重打击的'。'subtle'义为'微妙的；不易察觉的'：与题干语境或搭配要求不一致。'unlimited'义为'无限的；无限制的'：与题干语境或搭配要求不一致。'temporary'义为'暂时的；临时的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — devastating（毁灭性的；严重打击的）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "subtle",
+              "zh": "微妙的；不易察觉的",
+              "eg": "There was a <strong>subtle</strong> difference between the two paintings that only an expert could see."
+            },
+            {
+              "opt": "2",
+              "word": "unlimited",
+              "zh": "无限的；无限制的",
+              "eg": "The buffet offers <strong>unlimited</strong> servings of chicken rice for one fixed price."
+            },
+            {
+              "opt": "3",
+              "word": "temporary",
+              "zh": "暂时的；临时的",
+              "eg": "The headache turned out to be <strong>temporary</strong> and went away after a short rest."
+            },
+            {
+              "opt": "4",
+              "word": "devastating",
+              "zh": "毁灭性的；严重打击的",
+              "eg": "The earthquake had a <strong>devastating</strong> impact on the small fishing village."
+            }
+          ]
+        },
+        "13": {
+          "zh": "大雨时缺乏适当遮蔽处已成为学校社区的一大担忧。",
+          "note": "应选（2）'concern'：题干语境最宜表达'担忧；关切的事'。'lapse'义为'（短暂的）失误；疏忽'：与题干语境或搭配要求不一致。'obstruction'义为'障碍物；阻碍'：与题干语境或搭配要求不一致。'interference'义为'干扰；干涉'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — concern（担忧；关切的事）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lapse",
+              "zh": "（短暂的）失误；疏忽",
+              "eg": "A momentary <strong>lapse</strong> in concentration cost him the chess match."
+            },
+            {
+              "opt": "2",
+              "word": "concern",
+              "zh": "担忧；关切的事",
+              "eg": "The headmaster's main <strong>concern</strong> is the safety of every pupil during the trip."
+            },
+            {
+              "opt": "3",
+              "word": "obstruction",
+              "zh": "障碍物；阻碍",
+              "eg": "A fallen tree was the main <strong>obstruction</strong> on the road this morning."
+            },
+            {
+              "opt": "4",
+              "word": "interference",
+              "zh": "干扰；干涉",
+              "eg": "Static <strong>interference</strong> made the radio broadcast almost impossible to hear."
+            }
+          ]
+        },
+        "14": {
+          "zh": "我的小侄子看到擦伤的膝盖流血时昏了过去。",
+          "note": "应选（3）'passed out'：题干语境最宜表达'昏倒；失去知觉'。'passed up'义为'错过；放弃（机会）'：与题干语境或搭配要求不一致。'passed off'义为'顺利完成；冒充'：与题干语境或搭配要求不一致。'passed over'义为'略过不谈；未被选中（升职）'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — passed out（昏倒；失去知觉）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "passed up",
+              "zh": "错过；放弃（机会）",
+              "eg": "He <strong>passed up</strong> the chance to study abroad in order to care for his sick father."
+            },
+            {
+              "opt": "2",
+              "word": "passed off",
+              "zh": "顺利完成；冒充",
+              "eg": "The talent show <strong>passed off</strong> without a single technical hitch."
+            },
+            {
+              "opt": "3",
+              "word": "passed out",
+              "zh": "昏倒；失去知觉",
+              "eg": "She <strong>passed out</strong> in the hot sun after standing for the entire assembly."
+            },
+            {
+              "opt": "4",
+              "word": "passed over",
+              "zh": "略过不谈；未被选中（升职）",
+              "eg": "He was <strong>passed over</strong> for promotion even though he had worked there for years."
+            }
+          ]
+        },
+        "15": {
+          "zh": "学生们因害怕被训斥，不敢在训导主任面前坦率发言。",
+          "note": "应选（3）'candidly'：题干语境最宜表达'坦率地；直言不讳地'。'eagerly'义为'热切地；急切地'：与题干语境或搭配要求不一致。'tactfully'义为'圆滑地；得体地'：与题干语境或搭配要求不一致。'deliberately'义为'故意地；有意地'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — candidly（坦率地；直言不讳地）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "eagerly",
+              "zh": "热切地；急切地",
+              "eg": "She <strong>eagerly</strong> opened the parcel from her overseas friend."
+            },
+            {
+              "opt": "2",
+              "word": "tactfully",
+              "zh": "圆滑地；得体地",
+              "eg": "She <strong>tactfully</strong> changed the subject when she saw her friend was upset."
+            },
+            {
+              "opt": "3",
+              "word": "candidly",
+              "zh": "坦率地；直言不讳地",
+              "eg": "She <strong>candidly</strong> admitted that the project was harder than she had expected."
+            },
+            {
+              "opt": "4",
+              "word": "deliberately",
+              "zh": "故意地；有意地",
+              "eg": "He <strong>deliberately</strong> took the longer route home to avoid bumping into his bully."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "realised",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "released",
+            "2": "revealed",
+            "3": "manifested",
+            "4": "materialised"
+          }
+        },
+        "17": {
+          "stem_plain": "Enchanted",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Gratified",
+            "2": "Energised",
+            "3": "Captivated",
+            "4": "Unaffected"
+          }
+        },
+        "18": {
+          "stem_plain": "laboriously",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "hastily",
+            "2": "tirelessly",
+            "3": "strenuously",
+            "4": "purposefully"
+          }
+        },
+        "19": {
+          "stem_plain": "to a great extent",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "briefly",
+            "2": "visibly",
+            "3": "purely",
+            "4": "mainly"
+          }
+        },
+        "20": {
+          "stem_plain": "stand the test of time",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "last",
+            "2": "endure",
+            "3": "sustain",
+            "4": "deepen"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Kiri was on a trip to Cambodia with his granddaughter, Sophea. After months of planning, their dream was finally [Q16 (realised)] as they travelled to Kampong Thom, where he grew up. [Q17 (Enchanted)] by the beautiful fields and the distant clamour of roosters crowing, Sophea walked to the river where her grandfather had once spent hours fishing.",
+          "The duo trekked [Q18 (laboriously)] up the hill, perspiration dotting their brows. They could see the vast countryside stretching before them from the summit. The view mirrored [Q19 (to a great extent)] the stories Kiri had told her of his childhood — untouched, vivid, and full of quiet wonder. Kiri was confident that although time had passed, the bond he shared with Sophea would [Q20 (stand the test of time)] with each cherished memory. This trip would be etched in their hearts and minds forever."
+        ],
+        "zh": [
+          "Kiri 和孙女 Sophea 一起去柬埔寨旅行。经过数月计划，他们的梦想终于实现了，他们来到 Kampong Thom，也就是 Kiri 长大的地方。Sophea 被美丽的田野和远处公鸡啼叫的喧闹声迷住，走向祖父曾经花数小时钓鱼的河边。",
+          "两人吃力地爬上山，额头上点点汗珠。从山顶望去，他们看见辽阔的乡间景色在眼前展开。眼前的景色在很大程度上反映了 Kiri 曾经讲述给她听的童年故事：纯净、生动，并充满宁静的惊奇。Kiri 相信，虽然时间已经流逝，他和 Sophea 之间的情感纽带会随着每一段珍贵回忆而经得起时间考验。这次旅行将永远铭刻在他们心中。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — realised（实现；成为现实）",
+          "zh": "经过数月计划，他们的梦想终于实现了，他们来到 Kampong Thom，也就是 Kiri 长大的地方。",
+          "note": "应选（4）'materialised'：短文划线的 <em>realised</em> 在此指梦想终于实现（成为现实），非“意识到”。'released'义为'释放；公布'，与 dream 搭配不当。'revealed'义为'揭示'，不表示“实现”。'manifested'义为'显现'，多指症状或迹象，不如 materialised 贴切。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "released",
+              "zh": "释放；发布",
+              "eg": "The witness was <strong>released</strong> after giving a short statement."
+            },
+            {
+              "opt": "2",
+              "word": "revealed",
+              "zh": "揭示；显示",
+              "eg": "The survey <strong>revealed</strong> surprising results."
+            },
+            {
+              "opt": "3",
+              "word": "manifested",
+              "zh": "显现",
+              "eg": "Symptoms <strong>manifested</strong> within a few hours."
+            },
+            {
+              "opt": "4",
+              "word": "materialised",
+              "zh": "实现；成为现实",
+              "eg": "Their dream finally <strong>materialised</strong> after months of planning."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — Enchanted（迷住；吸引）",
+          "zh": "Sophea 被美丽的田野和远处公鸡啼叫的喧闹声迷住，走向祖父曾经花数小时钓鱼的河边。",
+          "note": "应选（3）'Captivated'：短文划线的 <em>Enchanted</em> 指被美景深深吸引。'Gratified'义为'感到满足'，与“被景色迷住”无关。'Energised'义为'精力充沛'，未体现 enchanted 的“着迷”之义。'Unaffected'义为'不受影响'，与语境相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Gratified",
+              "zh": "感到满足",
+              "eg": "She felt <strong>gratified</strong> by their warm applause."
+            },
+            {
+              "opt": "2",
+              "word": "Energised",
+              "zh": "精力充沛的",
+              "eg": "A short rest <strong>energised</strong> the hikers."
+            },
+            {
+              "opt": "3",
+              "word": "Captivated",
+              "zh": "迷住；吸引",
+              "eg": "Sophea was <strong>captivated</strong> by the beautiful fields."
+            },
+            {
+              "opt": "4",
+              "word": "Unaffected",
+              "zh": "不受影响的",
+              "eg": "The village remained <strong>unaffected</strong> by the floods."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — laboriously（费力地；艰难地）",
+          "zh": "两人费力地爬上山，额头上点点汗珠。",
+          "note": "应选（3）'strenuously'：短文划线的 <em>laboriously</em> 指费力、艰难地爬山。'wearily'义为'疲倦地'，侧重疲惫而非“费力”。'slowly'义为'缓慢地'，未突出 laboriously 的“艰难”。'carefully'义为'小心地'，与 perspiration dotting their brows 的吃力感不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hastily",
+              "zh": "匆忙地；草率地",
+              "eg": "She <strong>hastily</strong> packed her bag because the bus was already at the stop."
+            },
+            {
+              "opt": "2",
+              "word": "tirelessly",
+              "zh": "不知疲倦地",
+              "eg": "She answered <strong>tirelessly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "strenuously",
+              "zh": "费力地；艰难地",
+              "eg": "They climbed <strong>strenuously</strong> up the steep hill."
+            },
+            {
+              "opt": "4",
+              "word": "purposefully",
+              "zh": "有目的地",
+              "eg": "She answered <strong>purposefully</strong> before the bell rang."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — to a great extent（主要地； largely）",
+          "zh": "眼前的景色在很大程度上反映了 Kiri 曾经讲述给她听的童年故事：纯净、生动，并充满宁静的惊奇。",
+          "note": "应选（4）'mainly'：短文划线的 <em>to a great extent</em> 指景色在很大程度上反映童年故事。'partially'义为'部分地'，程度弱于 to a great extent。'slightly'义为'略微'，与 greatly 相反。'barely'义为'几乎不'，语义相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "briefly",
+              "zh": "简短地；短暂地",
+              "eg": "They <strong>briefly</strong> paused at the entrance before entering the cave."
+            },
+            {
+              "opt": "2",
+              "word": "visibly",
+              "zh": "显眼地；明显地",
+              "eg": "She was <strong>visibly</strong> shaken after hearing the bad news."
+            },
+            {
+              "opt": "3",
+              "word": "purely",
+              "zh": "纯地",
+              "eg": "She answered <strong>purely</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "mainly",
+              "zh": "主要地； largely",
+              "eg": "The view <strong>mainly</strong> reflected his childhood stories."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — stand the test of time（忍受；忍耐）",
+          "zh": "Kiri 相信，虽然时间已经流逝，他和 Sophea 之间的情感纽带会随着每一段珍贵回忆而经得起时间考验。",
+          "note": "应选（2）'endure'：短文划线的 <em>stand the test of time</em> 指情感纽带经得起时间考验。'survive'义为'存活'，多用于生命或组织。'persist'义为'持续存在'，不强调“经受考验”。'remain'义为'保持'，未体现 test of time 的“历经考验”之义。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "last",
+              "zh": "最后的",
+              "eg": "The pupils found the word <strong>last</strong> useful in their composition."
+            },
+            {
+              "opt": "2",
+              "word": "endure",
+              "zh": "忍受；忍耐",
+              "eg": "The hikers had to <strong>endure</strong> sudden rain for the last hour of the climb."
+            },
+            {
+              "opt": "3",
+              "word": "sustain",
+              "zh": "维持；维系（生命、工作）",
+              "eg": "A steady supply of clean water is needed to <strong>sustain</strong> life in the desert."
+            },
+            {
+              "opt": "4",
+              "word": "deepen",
+              "zh": "深化",
+              "eg": "Her essay used <strong>deepen</strong> in a clear, natural sentence."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the poster in Text 1, the movie",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "features Willow Park",
+            "2": "is inspired by true events",
+            "3": "is directed by Elliot Drake",
+            "4": "stars Leo Graham and Felicity Vale"
+          }
+        },
+        "22": {
+          "stem_plain": "Based on the poster in Text 1, which of the following best fits the film that will be screened in the park?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Thriller",
+            "2": "Animation",
+            "3": "Documentary",
+            "4": "Science Fiction"
+          }
+        },
+        "23": {
+          "stem_plain": "\"Many mysteries to unravel... Will he escape?\" The image in the poster best supports this by giving the impression that the boy is ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "curious and relaxed",
+            "2": "bored and distracted",
+            "3": "confused and hesitant",
+            "4": "determined and fearless"
+          }
+        },
+        "24": {
+          "stem_plain": "\"Ready for a magical night under the stars with your loved ones?\" Why did the writer ask the question in Text 1?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to spark people's interest in magic",
+            "2": "to make people connect with the movie",
+            "3": "to invite people to join Willow Film Club",
+            "4": "to encourage people to attend the movie screening"
+          }
+        },
+        "25": {
+          "stem_plain": "Text 2 supports the message of the poster in Text 1 as it also",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "promotes indoor and outdoor activities",
+            "2": "encourages people to have more picnics",
+            "3": "focusses on the need to build a strong community",
+            "4": "highlights spending fruitful time with family members"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Reading poster details（题型考点）",
+          "breakdown": {
+            "zh": "这部电影受真实事件启发。",
+            "note": "海报写着 Based on a true story。"
+          },
+          "note": "The poster states <span class=\"hl\">Based on a true story by Felicity Vale</span>, so the movie is inspired by true events.",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "推理 — Genre inference（推理考点）",
+          "breakdown": {
+            "zh": "这部电影是惊悚片。",
+            "note": "mysteries、danger、escape 都制造悬念。"
+          },
+          "note": "Phrases like <span class=\"hl\">Many mysteries to unravel</span>, <span class=\"hl\">danger closes in</span> and <span class=\"hl\">Will he escape?</span> create suspense, matching a thriller.",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "推理 — Image inference（推理考点）",
+          "breakdown": {
+            "zh": "这个男孩坚定而无畏。",
+            "note": "海报问题强调他面对危险仍探索。"
+          },
+          "note": "The question describes a boy facing danger and mystery. The best supported impression is that he is <span class=\"hl-good\">determined and fearless</span>.",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "目的 — Author's purpose（目的考点）",
+          "breakdown": {
+            "zh": "作者提出这个问题，是为了鼓励人们参加电影放映。",
+            "note": "这是宣传海报，目的在于吸引观众。"
+          },
+          "note": "The poster is promotional. The opening question invites readers to imagine an enjoyable night and attend the screening.",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Comparing two texts（题型考点）",
+          "breakdown": {
+            "zh": "Text 2 支持海报的信息，因为它关注建立强大社区的需要。",
+            "note": "Text 2 说明家庭纽带形成社区核心。"
+          },
+          "note": "Text 2 says strong family bonds form the heart of a thriving community, supporting Text 1's invitation to spend time with loved ones.",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "D": "being",
+          "G": "having",
+          "K": "some",
+          "N": "to",
+          "B": "an",
+          "E": "had",
+          "H": "on",
+          "L": "still",
+          "P": "while",
+          "C": "behind",
+          "F": "has",
+          "J": "since",
+          "M": "those",
+          "Q": "with"
+        },
+        "cloze": [
+          "Within the Singapore Botanic Gardens stands a living landmark of national pride. Native [Q26] Singapore, the Tembusu Tree can grow up to 40 metres tall. Its most distinctive feature — a gently curled, low-hanging branch — reaches outward as if offering a reminder of its presence to [Q27] who walk past. Also known affectionately as the \"Five-dollar Tree\", this is the tree that graces the back of the note. Few would expect such [Q28] iconic image to be not only real but also [Q29] accessible to the public. The image is so ingrained in our everyday life that people often overlook the significance [Q30] the symbol.",
+          "This heritage tree is believed to have existed [Q31] the Botanic Gardens was officially founded in 1859. Close to two centuries old, this tree [Q32] been admired by generations, some of whom return just to marvel at its resilience. [Q33] its thick, weathered trunk and an expansive canopy of branches, the tree represents the enduring spirit of a nation. Standing unshaken by storms [Q34] remaining deeply grounded in its values, it never forsakes the roots that define it. The Tembusu Tree is truly a symbol of what Singapore takes pride in — [Q35] anchored and forward-looking. Such is the spirit of the country."
+        ],
+        "zh": [
+          "在新加坡植物园内矗立着一座承载国家自豪感的活地标。Tembusu Tree 原产于新加坡，能长到 40 米高。它最具特色的部分是一根轻轻弯曲、低垂的树枝，向外伸展，仿佛提醒路过的人它的存在。它也被亲切地称为“五元树”，因为它正是印在钞票背面的那棵树。很少有人会想到这样一个标志性图像不仅是真实存在的，而且仍然向公众开放。这个图像深深融入我们的日常生活，以至于人们常常忽略这个象征背后的意义。",
+          "这棵遗产树被认为自植物园于 1859 年正式成立以来就已存在。接近两百岁的这棵树一直受到几代人的欣赏，其中一些人回来只是为了惊叹它的韧性。凭借粗壮、饱经风霜的树干和广阔的树冠，它代表了一个国家持久的精神。它在风暴中屹立不摇，同时深深扎根于自身价值，从未背弃定义它的根。Tembusu Tree 真正象征着新加坡引以为傲的东西：扎根并向前看。这正是这个国家的精神。"
+        ]
+      },
+      "answers": {
+        "26": {
+          "concept": "固定搭配 — native to",
+          "note": "native to Singapore = 新加坡本土的。",
+          "answer": "N — to"
+        },
+        "27": {
+          "concept": "指示 — those",
+          "note": "to those who walk past = 对路过的人。",
+          "answer": "M — those"
+        },
+        "28": {
+          "concept": "冠词 — an",
+          "note": "such an iconic image = 如此标志性的形象。",
+          "answer": "B — an"
+        },
+        "29": {
+          "concept": "副词 — still",
+          "note": "still accessible to the public = 仍可向公众开放。",
+          "answer": "L — still"
+        },
+        "30": {
+          "concept": "介词 — behind",
+          "note": "significance behind the symbol = 象征背后的意义。",
+          "answer": "C — behind"
+        },
+        "31": {
+          "concept": "时间 — since",
+          "note": "since the Gardens was founded = 自植物园建立以来。",
+          "answer": "J — since"
+        },
+        "32": {
+          "concept": "现在完成 — has",
+          "note": "this tree has been admired = 这棵树备受赞赏。",
+          "answer": "F — has"
+        },
+        "33": {
+          "concept": "介词 — With",
+          "note": "With its trunk and canopy = 凭借粗干与树冠。",
+          "answer": "Q — with"
+        },
+        "34": {
+          "concept": "同时 — while",
+          "note": "storms while remaining grounded = 经历风雨仍扎根。",
+          "answer": "P — while"
+        },
+        "35": {
+          "concept": "动名词 — being",
+          "note": "being anchored and forward-looking = 既扎根又前瞻。",
+          "answer": "D — being"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Good morning! I am Daryl, your Head Prefect. I am thrilled to share with you a meaningful project that could really benefit from your [Q36(invovment)] . Collaborating with the Computer Club, the prefects will be organising a two-day computer [Q37(litracy)] workshop for the elderly folks in our neighbourhood. This [Q38(inntaitive)] is our first outreach effort to bridge the digital divide [Q39(by)] the young and old generations. Thus, we are inviting committed and [Q40(emphatick)] student volunteers to guide the elderly participants.",
+          "It is easy for us to take such a skill set for granted [Q41(because)] for someone who did not grow up with digital technology, [Q42(those)] can be rather intimidating. Do you know how lonely it can be when you can't connect to the digital world around us?",
+          "By sharing your knowledge and [Q43(applies)] your skills, you'll not only empower our seniors, but also sharpen your [Q44(comunikation)] and coaching skills. If you're ready to step up and give back, sign up at the booth just outside the General Office today. We look forward to [Q45(seen)] you at the workshop! Thank you."
+        ],
+        "zh": [
+          "早上好！我是 Daryl，你们的总学长。我很高兴与大家分享一个有意义的项目，这个项目非常需要你们的参与。学长团将与电脑俱乐部合作，为我们社区的年长者举办为期两天的电脑读写能力工作坊。这项倡议是我们的第一次外展努力，旨在弥合年轻一代与老一代之间的数码鸿沟。因此，我们邀请有责任心和有同理心的学生志愿者来指导年长参与者。",
+          "我们很容易把这样的技能视为理所当然，但是对于没有在数码科技环境中成长的人来说，这可能相当令人畏惧。你知道当一个人无法连接到周围的数码世界时，会有多孤独吗？",
+          "通过分享知识并应用技能，你们不仅能帮助长者，也能提升自己的沟通和指导能力。如果你准备好挺身而出、回馈社会，就今天到总办公室外的摊位报名吧。我们期待在工作坊见到你！谢谢。"
+        ]
+      },
+      "answers": {
+        "36": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">invovment</span> is misspelt. The correct spelling is <span class=\"hl-good\">involvement</span>.",
+          "answer": "involvement"
+        },
+        "37": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">litracy</span> should be <span class=\"hl-good\">literacy</span>.",
+          "answer": "literacy"
+        },
+        "38": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">inntaitive</span> should be <span class=\"hl-good\">initiative</span>.",
+          "answer": "initiative"
+        },
+        "39": {
+          "concept": "Preposition",
+          "note": "The fixed expression is <code>bridge the divide <span class=\"hl-good\">between</span> X and Y</code>.",
+          "answer": "between"
+        },
+        "40": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">emphatick</span> should be <span class=\"hl-good\">empathetic</span>.",
+          "answer": "empathetic"
+        },
+        "41": {
+          "concept": "Conjunction",
+          "note": "The sentence contrasts what is easy for young people with what is intimidating for the elderly, so <span class=\"hl-good\">but</span> is needed.",
+          "answer": "but"
+        },
+        "42": {
+          "concept": "Pronoun reference",
+          "note": "The pronoun refers to the singular idea of a skill set / digital technology, so use <span class=\"hl-good\">this</span>.",
+          "answer": "this"
+        },
+        "43": {
+          "concept": "Parallel structure",
+          "note": "It must be parallel with <code>sharing your knowledge</code>: <span class=\"hl-good\">applying</span> your skills.",
+          "answer": "applying"
+        },
+        "44": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">comunikation</span> should be <span class=\"hl-good\">communication</span>.",
+          "answer": "communication"
+        },
+        "45": {
+          "concept": "Gerund after phrasal verb",
+          "note": "After <code>look forward to</code>, use a noun or gerund: <span class=\"hl-good\">seeing</span>.",
+          "answer": "seeing"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The Museum of Toys is nestled in the heart of our city. Driven by his passion for design and art, Marcus, an enthusiastic toy [Q46], often imagined a space where visitors from all [Q47] of life could rediscover the past, and rekindle childhood memories of playing with favourite figurines and stuffed toys. His dream finally came true in 2007 when he successfully set up this museum, [Q48] his personal collection from more than forty countries.",
+          "Offering a fascinating journey through time, the museum displays toys from the 1840s. Toys [Q49] action figures, wind-up robots and miniature cars awe children and adults [Q50]. These toys were carefully designed to move or make sounds when [Q51] up with a key in the winding slot, showing the creativity of the toy designers. [Q52] of the highlights of the museum is the mechanical toy, which can be set in motion [Q53] a button, or pushing a lever, [Q54] of relying on batteries.",
+          "\"These toys were not mere ornaments. In fact, they were companions during our childhood days,\" said the museum owner, his [Q55] carrying a note of nostalgia. He hoped that the place would provide visitors with a holistic experience, educating them about the stories behind each toy and how toys had gradually evolved [Q56] the years. This emotional connection to the past can foster feelings of elation and warmth, and at the same time offer a sense of continuity between generations.",
+          "It is indeed amazing to note [Q57] these toy characters were part of the children's playtime [Q58] technology took over. Central to the museum's mission of learning and discovery, the place offers an educational experience which helps visitors to [Q59] to the past in an entertaining and informative way. Truly, the Museum of Toys is a magical place where toys come to [Q60]. Today, it continues to promote that belief."
+        ],
+        "zh": [
+          "玩具博物馆坐落在市中心。出于对设计与艺术的热爱，热衷收藏的 Marcus 常想象一个空间，让各行各业访客重温童年、与心爱的玩偶和毛绒玩具重逢。2007 年，他成功创办博物馆，展出来自四十多个国家的个人收藏。",
+          "博物馆带领访客穿越时光，展示十九世纪四十年代起的玩具：动作人偶、发条机器人、微型车等令大人小孩惊叹。这些玩具经精心设计，可用钥匙在发条槽上紧，展现设计师的创意。馆内亮点之一是机械玩具，按按钮或推杠杆即可启动，而不必依赖电池。",
+          "馆主说，这些玩具不只是摆设，更是童年伙伴；他希望访客获得整体体验，了解每件玩具背后的故事及其多年演变，与过去的情感联结能带来喜悦与温暖，并在代际之间延续连续感。",
+          "令人感慨的是，这些玩具角色曾属于科技兴起前的儿童游戏时光。博物馆以学习与探索为使命，以有趣、有益的方式帮助访客与过去对话。玩具博物馆确是魔法之地，玩具仿佛活了起来；如今它仍在传播这一信念。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "名词",
+          "note": "指因为爱好而收集、保存物品的人。文中后面提到了 Marcus 展出他的“个人收藏（personal collection）”。",
+          "answer": "collector"
+        },
+        "47": {
+          "concept": "习语",
+          "note": "属于固定短语 all walks of life（各行各业/各阶层的人），指具有不同背景 and 职业的人群。",
+          "answer": "walks"
+        },
+        "48": {
+          "concept": "现在分词",
+          "note": "意为向公众公开展示、陈列他的私人藏品。这两个词在语法和语境上都完全正确且互为同义词。",
+          "answer": "displaying/showcasing"
+        },
+        "49": {
+          "concept": "举例",
+          "note": "用于引出具体玩具的例子。填 like 或是与后面的“as”连用构成固定搭配 such 均可。",
+          "answer": "like/such"
+        },
+        "50": {
+          "concept": "固定搭配",
+          "note": "固定句式 children and adults alike，意思是“无论是大人还是小孩都同样地……”。",
+          "answer": "alike"
+        },
+        "51": {
+          "concept": "动词形式",
+          "note": "这是动词“wind”的过去分词。机械玩具需要用钥匙在发条槽里 wound up（拧紧发条）才能动。",
+          "answer": "wound"
+        },
+        "52": {
+          "concept": "固定结构",
+          "note": "固定语法结构 One of the...（……其中之一），用于从复数群体中挑出特定的一项亮点。",
+          "answer": "One"
+        },
+        "53": {
+          "concept": "动名词",
+          "note": "若填 pressing，能与后面的“pushing a lever”在语法上构成完美的名词动名词对称结构；若填介词 by，则直接表示启动的方法。",
+          "answer": "pressing/by"
+        },
+        "54": {
+          "concept": "固定搭配",
+          "note": "与后面的“of”连用构成 instead of，表示替代方案，即“而不是依赖电池”。",
+          "answer": "instead"
+        },
+        "55": {
+          "concept": "名词",
+          "note": "与后面的“带着一丝怀旧之情”相呼应，形容他说话的声音、语气或字里行间。（填 words 或 tone 亦通顺）。",
+          "answer": "voice"
+        },
+        "56": {
+          "concept": "介词",
+          "note": "表示“这些年来”或“随着时间的推移”。over the years 是更为高频的地道固定短语，而 throughout the years 在语意上也通顺。",
+          "answer": "throughout/over"
+        },
+        "57": {
+          "concept": "从句引导",
+          "note": "动词固定搭配 note that，这里的“that”作连词，用于引出后面的事实从句。",
+          "answer": "that"
+        },
+        "58": {
+          "concept": "时间介词",
+          "note": "用于梳理时间线，表示这些传统玩具在现代数字技术占领（technology took over）孩子们的时间“之前”是他们的玩伴。",
+          "answer": "before"
+        },
+        "59": {
+          "concept": "动词搭配",
+          "note": "两个词都能与“to the past”完美搭配。填 connect 能更好地呼应前一句中提到的“emotional connection（情感纽带）”，而 relate 表达“产生共鸣”也符合语境。",
+          "answer": "relate/connect"
+        },
+        "60": {
+          "concept": "习语",
+          "note": "属于固定英语成语 come to life 的一部分，意思是“栩栩如生”或“活了过来”。",
+          "answer": "life"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "Our relatives insisted on paying us a visit. It was raining heavily.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No matter how __________"
+        },
+        "62": {
+          "stem_plain": "The children do not like fried chicken wings. They like fruits and vegetables instead.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The children prefer __________"
+        },
+        "63": {
+          "stem_plain": "\"What is your decision after hearing all the available options?\" my mother asked me.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "My mother asked me __________"
+        },
+        "64": {
+          "stem_plain": "The team members were sorry about not running faster during the final event.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The team members wished that __________"
+        },
+        "65": {
+          "stem_plain": "The lifts are maintained regularly to ensure that they function properly.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The regular __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "61": {
+          "concept": "让步结构 — No matter how + adjective",
+          "zh": "不管雨下得多大，我们的亲戚仍坚持来拜访我们。",
+          "note": "<code>No matter how</code> 后接形容词 <code>heavy</code>，再接完整从句 <code>the rain was</code>。",
+          "answer": "No matter how heavy the rain was, our relatives insisted on paying us a visit."
+        },
+        "62": {
+          "concept": "比较结构 — Prefer A to B",
+          "zh": "孩子们比起炸鸡翅更喜欢水果和蔬菜。",
+          "note": "<code>prefer A to B</code> 表示“比起 B 更喜欢 A”。",
+          "answer": "The children prefer fruits and vegetables to fried chicken wings."
+        },
+        "63": {
+          "concept": "间接引语 — Reported question",
+          "zh": "妈妈问我听完所有可选方案后，我的决定是什么。",
+          "note": "直接问句改间接引语时，要把疑问句语序改成陈述句语序。",
+          "answer": "My mother asked me what my decision was after hearing all the available options."
+        },
+        "64": {
+          "concept": "虚拟语气 — Wish about the past",
+          "zh": "队员们希望自己在最后一项比赛中跑得更快。",
+          "note": "对过去的遗憾用过去完成时：<code>had run</code>。",
+          "answer": "The team members wished that they had run faster during the final event."
+        },
+        "65": {
+          "concept": "名词化 — Verb to noun form",
+          "zh": "电梯的定期保养确保它们正常运作。",
+          "note": "<code>maintain</code> 变成名词 <code>maintenance</code>，与题目给的 <code>The regular</code> 组成名词短语。",
+          "answer": "The regular maintenance of the lifts ensures that they function properly."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "We can infer that the writer did not like his performance outfit. Give two reasons why he felt that way.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q66a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q66b]"
+            }
+          ]
+        },
+        "67": {
+          "stem_plain": "Besides having to wear the costume, state two other reasons for the writer's anxiety about the performance.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q67a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q67b]"
+            }
+          ]
+        },
+        "68": {
+          "stem_plain": "Fill in each blank with a word that best describes the writer's feelings.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "*A room with an expectant audience... and that was what I had to wear?* (lines 5–6)",
+              "question": "This tells me that the writer was afraid of being [Q68a]."
+            },
+            {
+              "stem_plain": "*Somehow, everyone's outfit looked far more presentable than mine.* (line 8)",
+              "question": "This tells me that the writer was [Q68b] of his classmates' costumes."
+            }
+          ]
+        },
+        "69": {
+          "stem_plain": "Fill in the following table by identifying the correct words or sentence from lines 10–18.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "prompt",
+              "from_passage"
+            ],
+            "prompt": {
+              "header": "Question",
+              "rows": [
+                "(a) Which **five-word phrase** tells us that Leon did not mind his costume?",
+                "(b) Which **sentence** suggests that teamwork was valued?"
+              ]
+            },
+            "from_passage": {
+              "header": "Words / sentence from the passage",
+              "rows": [
+                "[Q69a]",
+                "[Q69b]"
+              ]
+            }
+          }
+        },
+        "70": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage?",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word from the passage",
+              "rows": [
+                "(a) **scene** (line 6)",
+                "(b) **those** (line 16)",
+                "(c) **It** (line 39)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refers to",
+              "rows": [
+                "[Q70a]",
+                "[Q70b]",
+                "[Q70c]"
+              ]
+            }
+          }
+        },
+        "71": {
+          "stem_plain": "\"*Lying there, humiliation scorched my face.*\" (line 28). What made the writer feel that way?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Based on lines 19–36, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Initially, the laughter during the practice session made the writer want to give up acting.",
+                "(b) On the performance night, the writer was not mentally prepared."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q72a]",
+                "[Q72c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q72b]",
+                "[Q72d]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Referring to lines 19–30, what made the writer change his mindset about facing his fears?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Complete the table below. What is the purpose for each of the characters' actions?",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "character",
+              "action",
+              "purpose"
+            ],
+            "character": {
+              "header": "Character",
+              "rows": [
+                "Writer",
+                "Leon"
+              ]
+            },
+            "action": {
+              "header": "Action",
+              "rows": [
+                "made silly twitches on the rabbit's ears",
+                "gave the writer a thumbs-up"
+              ]
+            },
+            "purpose": {
+              "header": "Purpose",
+              "rows": [
+                "[Q74a]",
+                "[Q74b]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "What doubt did the writer have in the beginning and how had this attitude changed after the performance?",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — *The Pink Rabbit*",
+        "lines": {
+          "1": "Creak... The closet door groaned in protest as I tugged it open, its hinges",
+          "2": "squealing like they, too, wanted no part in what lay inside. Hanging limply before me was",
+          "3": "a rabbit costume — not the soft, storybook kind, but a garish ensemble of neon pink fur",
+          "4": "with ears that drooped like they had given up hope. Its oversized head sagged to one",
+          "5": "side. My heart sank. This was it. My debut performance. My graduation day. A room with",
+          "6": "an expectant audience... and that was what I had to wear? Taking in the **scene**, I noticed",
+          "7": "the others — fluffy sheep, dignified goats, even cows that looked halfway decent.",
+          "8": "Somehow, everyone's outfit looked far more presentable than mine. There and then, I",
+          "9": "had the urge to slip away.",
+          "10": "\"Where are you going, Gary?\" Leon's voice stopped me. He was fiddling with",
+          "11": "the long frayed tail of his goat costume, looking as ridiculous as I felt, yet standing tall all",
+          "12": "the same. He gave a look — the kind that only best friends would, halfway between",
+          "13": "challenge and comfort. \"It's okay to be nervous,\" he said, his voice filled with quiet",
+          "14": "determination. \"We all start somewhere. You've put in blood, sweat and tears for this.",
+          "15": "You're not backing out now, are you? We're all in this together.\" His words hit me. The",
+          "16": "long rehearsals, the endless retakes, the body aches. Had I forgotten all **those**? I took",
+          "17": "a deep breath. Not for the costumes but the effort. Not for the pink rabbit but for the",
+          "18": "people who believed in me. I was not going to run away. Not this time.",
+          "19": "Two days later at the full-dress rehearsal, my confidence cracked. The",
+          "20": "auditorium was buzzing with quiet chatter. My silly costume made every movement a",
+          "21": "chore; each hop felt unnatural, blown out of proportion. I shuffled out, my heart pounding",
+          "22": "like a drum. The spotlight lit the stage as if it were preparing to expose my secret. I began",
+          "23": "my scene. Then came the giggles. Small at first, then spreading like wildfire. My",
+          "24": "shoulders slumped when I stumbled over a line. Laughter. More laughter. The gnawing",
+          "25": "doubt clawed at me — was that failure? What a disaster! If there were a trapdoor, I would",
+          "26": "gladly vanished. Exiting the stage after my part, my oversized foot caught on a mess of",
+          "27": "wires. Like a puppet with its strings cut, I tripped and landed on my knees. Laughter",
+          "28": "exploded. Lying there, humiliation scorched my face. All of a sudden, something",
+          "29": "changed. I remembered Leon's words. \"We all start somewhere.\" I knew I had to face",
+          "30": "my fears. Slowly, the nerves faded away.",
+          "31": "Then came the opening night. The curtain rose to thunderous applause.",
+          "32": "My stomach churned with butterflies, but this time, I welcomed them. As I hopped into",
+          "33": "the spotlight, the audience erupted into laughter — not mockery, but delight. Every",
+          "34": "exaggerated movement, every silly twitch of my ears added to the joy. I was not being",
+          "35": "laughed at. Instead, my antics were making the guests laugh. Backstage, Leon flashed",
+          "36": "me a thumbs-up. The fears were irrational. I had made peace with them.",
+          "37": "\"See? You did it! You're a natural,\" he said when the final applause rang out.",
+          "38": "I smiled, the joy of the moment finally sinking in.",
+          "39": "\"Thanks for talking me out of leaving. **It** isn't so bad after all,\" I replied, tugging",
+          "40": "at the floppy ears. \"This outfit still looks ridiculous.\" Leon grinned. In that pink fluff, I had",
+          "41": "learnt about courage and that the stage was not about perfection. It was about showing",
+          "42": "up, even when I was scared. My debut performance was a success."
+        },
+        "paragraphs": {
+          "1": "吱呀一声……当我用力拽开衣柜门时，门轴发出抗议般的呻吟，仿佛它们也不愿面对里面的东西。面前挂着一套软瘫瘫的兔子戏服——不是童话书里那种柔软可爱的样子，而是一套俗艳的霓虹粉绒毛服，耳朵耷拉着，透着一种绝望感。我心头一沉。就是它了。我的首次登台。我的毕业典礼。面对满屋期待的观众……我就得穿这个？环顾四周，我注意到其他人的装扮——毛茸茸的小羊、庄重的山羊，甚至是看起来还算体面的奶牛。不知为何，每个人的衣服都比我的要体面。就在那一刻，我产生了溜之大吉的冲动。",
+          "10": "“你要去哪儿，Gary？”Leon 的声音叫住了我。他正摆弄着山羊装上那条磨损的长尾巴，看起来和我一样滑稽，但他依然站得笔直。他看了我一眼——那是只有好朋友才会有的眼神，一半是挑战，一半是安慰。“紧张很正常，”他语气坚定地低声说道，“凡事都有个开头。你为这付出了无数血汗和泪水。你现在不打算退缩吧？我们休戚与共。”他的话击中了我。长时间的排练、无数次的重录、全身的酸痛。难道我都把这些忘了？我深吸一口气。不是为了这身衣服，而是为了付出的努力。不是为了这只粉红兔，而是为了那些相信我的人。我不会逃跑。这次不会。",
+          "19": "两天后的全场彩排，我的信心彻底崩塌。礼堂里充斥着细碎的交谈声。我那愚蠢的戏服让每一个动作都成了累赘；每一次蹦跳都显得极其不自然，甚至被无限放大。我挪步上场，心跳如鼓。聚光灯照在舞台上，仿佛正准备揭露我的秘密。我开始表演。接着传来了咯咯笑声。起初很小，随后像野火般蔓延开来。当我念错台词时，肩膀垂了下来。笑声。更多的笑声。纠结的自我怀疑啃噬着我——这就是失败吗？简直是一场灾难！如果有个活门，我真想立刻消失。下场时，我笨重的大脚被一堆电线绊住了。我像个被剪断线的木偶一样摔倒，双膝着地。笑声彻底爆发。躺在那里，羞愧感灼烧着我的脸。突然间，情况发生了变化。我想起了 Leon 的话。“凡事都有个开头。”我知道我必须面对恐惧。慢慢地，紧张感消退了。",
+          "31": "首演之夜终于到来。幕布在雷鸣般的掌声中升起。虽然我依旧紧张得胃里打结，但这次我接纳了这种感觉。当我蹦入聚光灯下，观众席爆发出了笑声——那不是嘲讽，而是欢悦。每一个夸张的动作，每一个滑稽的耳朵抽动，都增添了欢乐。我并没有被嘲笑。相反，我的滑稽动作带给宾客们快乐。后台，Leon 对我竖起了大拇指。恐惧是毫无道理的。我已经与它们达成了和解。",
+          "37": "“看吧？你做到了！你是个天生的演员，”当谢幕的掌声响起时，他说道。我笑了，成功的喜悦终于沉淀在心底。",
+          "39": "“谢谢你劝我不要离开。其实这一切也没那么糟，”我拽着那对耷拉的耳朵回答道。“这身衣服看起来还是很蠢。”Leon 咧嘴笑了。穿着这身粉红绒毛，我学会了勇气，也明白了舞台的意义不在于完美。而是在于即便心怀恐惧，依然选择站出来。我的处子秀成功了。"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——说明作者<strong>不喜欢表演服装</strong>的两条理由，证据应在<strong>对外观/质地的描写</strong>里。</li><li><strong>范围：</strong>第一段约<strong>行 1–9</strong>（行 10 起为 Leon 对话；不要把“想溜走、怕观众”等<strong>上台心理</strong>当作本题“讨厌衣服”的主证据，以免与第 67 题重叠）。</li><li><strong>关键词：</strong>圈 <em>did not like</em>、<em>outfit</em>，优先找颜色、剪裁、头套、耳朵等<strong>可见细节</strong>。</li><li><strong>证据：</strong>行 3–4 <em>garish ensemble of neon pink fur</em>、耳朵 <em>drooped</em>；行 4–5 头套 <em>oversized head sagged</em>，任选<strong>两条不同角度</strong>（颜色扎眼 / 走形松垮）即可。</li><li><strong>失分点：</strong>只写“很丑、很丢脸”而无文中具体词；或两条其实同义重复。</li><li><strong>书写提示：</strong>两行各一句，尽量嵌入 <em>neon pink</em>、<em>drooped</em>、<em>oversized</em> 等原文用语。</li></ol>",
+          "answer": {
+            "66a": "The costume had neon pink fur.",
+            "66b": "The rabbit head was oversized / the ears drooped / the head sagged to one side."
+          }
+        },
+        "67": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题；题干有 <strong><em>Besides having to wear the costume</em></strong>，两条理由必须写<strong>服装以外</strong>的上台焦虑来源。</li><li><strong>范围：</strong>行 5–7 点出 <em>expectant audience</em> 与首演压力；行 19–25 彩排段写笑场、忘词、失败感——可与“怕出丑、怕被笑”挂钩。</li><li><strong>关键词：</strong>圈 <em>two other reasons</em>、<em>anxiety about the performance</em>，不要复述第 66 题的“衣服丑”。</li><li><strong>证据一：</strong>行 5–6 <em>A room with an expectant audience</em> ⇒ 害怕在众人面前表演。</li><li><strong>证据二：</strong>行 23–25 彩排笑声、<em>stumbled over a line</em>、<em>What a disaster</em> ⇒ 怕忘词/出错、怕被嘲笑。</li><li><strong>失分点：</strong>两条都仍在写服装颜色/头套；或只写一条。</li><li><strong>书写提示：</strong>一条偏“人际/场面压力”，一条偏“对自己发挥的担忧”，更不易重复。</li></ol>",
+          "answer": {
+            "67a": "He was worried about performing before an expectant audience.",
+            "67b": "He was afraid he might make mistakes / forget his lines and be laughed at."
+          }
+        },
+        "68": {
+          "concept": "语境词汇填空",
+          "note": "<ol><li><strong>题型：</strong>语境词汇填空——根据所给引文，各填<strong>一词</strong>概括感受；词性多为形容词，需与后文介词搭配（(b) 后接 <em>of</em>）。</li><li><strong>(a) 范围与线索：</strong>引文见行 5–6；反问“在期待的观众面前就要穿这个？”⇒ 怕在众人面前<strong>出丑、丢脸</strong>，对应 <span class=\"hl-good\">embarrassed</span>。</li><li><strong>(b) 范围与线索：</strong>引文见行 8；<em>far more presentable than mine</em> ⇒ 横向比较后心里不平衡，对应 <span class=\"hl-good\">jealous / envious</span> + <em>of</em>。</li><li><strong>失分点：</strong>词义对但搭配错（如不能接 <em>of</em> 的词）；或写成动词/名词形式不符句型。</li><li><strong>书写提示：</strong>若卷面要求一词，优先写 <strong>jealous</strong> 或 <strong>envious</strong> 其一，勿冗长短语。</li></ol>",
+          "answer": {
+            "68a": "embarrassed.",
+            "68b": "jealous / envious."
+          }
+        },
+        "69": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>题型：</strong>表格摘录题——题干限定 <strong>行 10–18</strong>，须<strong>逐字抄写</strong>原文短语/句子，勿改时态、勿多词少词。</li><li><strong>(a) 关键词：</strong>题干要<strong>恰好五个词</strong>的短语；在行 11–12 找到 <span class=\"hl-good\">standing tall all the same</span>（standing / tall / all / the / same），说明 Leon 虽穿得滑稽仍<strong>站得挺、坦然</strong>，即不介意自己的服装。</li><li><strong>(b) 关键词：</strong>题干要<strong>一句完整句子</strong>体现<strong>团队合作</strong>；行 15 直接点题：<span class=\"hl-good\">We're all in this together.</span></li><li><strong>失分点：</strong>(a) 抄成六个词或断行拆开；(b) 抄半句缺引号内句号。</li><li><strong>书写提示：</strong>先数词再落笔；(b) 建议连引号内标点一起抄，保持与原文一致。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "69a": "standing tall all the same.",
+            "69b": "We're all in this together."
+          }
+        },
+        "70": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代题——判断代词/名词在上下文中的<strong>具体所指</strong>，通常向前一句或同句并列成分找先行内容。</li><li><strong>(a) scene（行 6）：</strong>前句写“观众与要穿的戏服”，本句 <em>Taking in the scene</em> 承接“所看到的场面”⇒ 指 <strong>台上/更衣区里其他演员及其服装</strong>等整体画面（答案可用 performers / costumes 等概括）。</li><li><strong>(b) those（行 16）：</strong>紧接上一句列举 <em>long rehearsals, the endless retakes, the body aches</em>，随后 <em>Had I forgotten all those?</em> ⇒ <strong>those</strong> 指这三类辛苦付出。</li><li><strong>(c) It（行 39）：</strong>对话里 <em>It isn't so bad after all</em> 的 <strong>It</strong> 指<strong>当下处境/留下来完成演出这件事</strong>（亦可概括为穿兔装上台的经历），与后文“舞台不是追求完美”呼应。</li><li><strong>失分点：</strong>只写“它”而不说明指什么；或把行 41 的 <em>It was about showing up</em> 与行 39 的 <em>It</em> 混为同一指代。</li><li><strong>书写提示：</strong>用完整名词短语作答，必要时点出“前文刚提到的……”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "70a": "The other performers / the costumes worn by his classmates.",
+            "70b": "The long rehearsals, endless retakes and body aches.",
+            "70c": "Wearing the pink rabbit costume / the performance experience."
+          }
+        },
+        "71": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>因果简答题——题干引号句在行 28，要问“何以羞辱感灼脸”，应<strong>往前行</strong>找直接事件。</li><li><strong>范围：</strong>行 26–28：下台时脚绊电线、跪倒、全场爆笑，紧接着 <em>Lying there, humiliation scorched my face</em>。</li><li><strong>证据链：</strong>行 26–27 <em>foot caught on a mess of wires … tripped and landed on my knees</em> + 行 27–28 <em>Laughter exploded</em> ⇒ 身体出丑 + 被笑 ⇒ 羞辱感。</li><li><strong>失分点：</strong>只写“很丢脸”而不写绊线摔倒；或把原因写成后来的 Leon 安慰（那是行 29 以后的心态转折）。</li><li><strong>书写提示：</strong>用一两句把“动作 + 观众反应 + 情绪”串起来，可嵌入 <em>wires</em>、<em>tripped</em>、<em>laughter</em> 等原文词。</li></ol>",
+          "answer": [
+            "His oversized foot caught on a mess of wires as he was exiting the stage, causing him to trip, land on his knees and make the audience laugh."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误 + 依据，范围<strong>行 19–36</strong>；每行先判 T/F，再<strong>一句原文向证据</strong>。</li><li><strong>(a) True：</strong>彩排笑场后他自觉灾难、想钻地缝（行 25–26 <em>If there were a trapdoor, I would gladly vanished</em>）并伴随羞辱（行 28），说明当时的笑与失败感让他<strong>强烈想逃离舞台/放弃当下表演</strong>。</li><li><strong>(b) False：</strong>开幕夜行 32 <em>My stomach churned with butterflies, but this time, I welcomed them</em> 并接着完成表演 ⇒ 并非“毫无心理准备”，而是<strong>带着紧张仍主动上场</strong>。</li><li><strong>失分点：</strong>(b) 只写“他不紧张”而无引用 <em>welcomed</em>；(a) 只写情绪词不写 <em>trapdoor / vanished</em> 等行为证据。</li><li><strong>书写提示：</strong>理由句务必含<strong>动词证据</strong>（如 trapdoor / welcomed / hopped into the spotlight）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "True",
+            "72b": "He felt humiliated and would have gladly vanished if there had been a trapdoor",
+            "72c": "False",
+            "72d": "He was mentally prepared; his stomach churned with butterflies, but he welcomed them"
+          }
+        },
+        "73": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>原因简答题，范围<strong>行 19–30</strong>（题干已限定）；要找“心态转变的<strong>触发点</strong>”。</li><li><strong>转折点：</strong>行 28–29 摔倒羞辱之后，<em>All of a sudden, something changed</em>。</li><li><strong>证据：</strong>行 29–30 他记起 Leon 的话 <span class=\"hl-good\">We all start somewhere</span>，并得出 <em>I knew I had to face my fears</em>，紧张随后缓解（<em>the nerves faded away</em>）。</li><li><strong>整合：</strong>答案应把“记起朋友鼓励”与“决定面对恐惧”绑在一起写；勿只抄一句口号而不写“因此改变”。</li><li><strong>失分点：</strong>把原因写成开幕夜观众反应（行 31 以后超出范围）。</li><li><strong>书写提示：</strong>可引用引号内原话，并点出这是 <strong>turning point</strong> 后立刻发生的事。</li></ol>",
+          "answer": [
+            "He remembered Leon's words, 'We all start somewhere,' and realised that he should face his fears despite being laughed at."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>题型：</strong>表格“目的”题——看<strong>动作发生的语境 + 直接结果</strong>，用不定式短语概括 purpose。</li><li><strong>Writer 动耳朵：</strong>行 33–35 观众笑声是 <em>delight</em>，耳朵夸张动作 <em>added to the joy</em>，且点明 <em>making the guests laugh</em> ⇒ 目的：逗乐观众、增添演出趣味（与彩排被嘲笑对比）。</li><li><strong>Leon 竖拇指：</strong>行 35–36 发生在后台、演出成功后 ⇒ 目的：肯定、鼓励、赞许朋友表现。</li><li><strong>失分点：</strong>把竖拇指写成“催他上台”（文中是<strong>演完后</strong>）；把动耳朵写成“掩饰紧张”（与文本“制造欢乐”不符）。</li><li><strong>书写提示：</strong>purpose 用 <strong>to + 动词</strong> 开头更贴评分习惯；可各写一条因果链。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "to make the audience laugh / add joy to the performance.",
+            "74b": "to praise encourage Gary for doing well."
+          }
+        },
+        "75": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>对比变化题——题干要求写<strong>起初的怀疑</strong>与<strong>演出后态度</strong>，需一头一尾各抓证据。</li><li><strong>起初（约行 1–9、19–25）：</strong>怕出丑、怕被笑、觉得自己会失败（如行 24–25 <em>was that failure? What a disaster!</em>），并一度想逃。</li><li><strong>之后（约行 33–42）：</strong>明白观众是欣赏式的笑（<em>not mockery, but delight</em>），自认 debut <em>a success</em>，并总结勇气是 <em>showing up, even when I was scared</em>。</li><li><strong>整合：</strong>答案前半写“怀疑/恐惧是什么”，后半写“如何改观 + 学到什么”，中间可用 <em>After the performance</em> 类衔接。</li><li><strong>失分点：</strong>只写后半不交代起初；或把“学会勇气”写成空洞口号而无文中 <em>showing up</em> 等措辞支撑。</li><li><strong>书写提示：</strong>一题两分通常<strong>前后各一句</strong>，各扣一条证据即可。</li></ol>",
+          "answer": [
+            "At first, he doubted himself and feared being laughed at. After the performance, he saw it as a success and learnt that courage means showing up even when scared."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

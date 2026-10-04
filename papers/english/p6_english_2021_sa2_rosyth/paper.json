@@ -1,0 +1,1601 @@
+{
+  "paperid": "p6_english_2021_sa2_rosyth",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Neither Jason nor his brothers _________ to take a nap at the moment. They will go to bed earlier tonight.",
+          "options": {
+            "1": "want",
+            "2": "wants",
+            "3": "wanted",
+            "4": "wanting"
+          }
+        },
+        "2": {
+          "stem_plain": "I wish to visit my uncle _________ I have not met for two years.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Your grandparents hardly visited the zoo, _________ they?\" Sarah asked me.",
+          "options": {
+            "1": "do",
+            "2": "did",
+            "3": "don't",
+            "4": "didn't"
+          }
+        },
+        "4": {
+          "stem_plain": "A number of volunteers _________ coming forward to help this Sunday. They will take turns to patrol the neighbourhood.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "5": {
+          "stem_plain": "My brother would have bought the bicycle if he _________ enough money.",
+          "options": {
+            "1": "saved",
+            "2": "had saved",
+            "3": "would save",
+            "4": "would have saved"
+          }
+        },
+        "6": {
+          "stem_plain": "The monitor received _________ support from his classmates for his suggestions, so he had to change the plan.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "7": {
+          "stem_plain": "_________ the spike in robbery cases, the vigilant villagers are taking turns to keep watch at night.",
+          "options": {
+            "1": "Owing to",
+            "2": "In spite of",
+            "3": "Apart from",
+            "4": "Regardless of"
+          }
+        },
+        "8": {
+          "stem_plain": "The actor and actress _________ their lines for the skit since 8 a.m. this morning.",
+          "options": {
+            "1": "are rehearsing",
+            "2": "had rehearsed",
+            "3": "had been rehearsing",
+            "4": "have been rehearsing"
+          }
+        },
+        "9": {
+          "stem_plain": "Sam saw a girl crying in the park. He helped her _________ for her parents.",
+          "options": {
+            "1": "look",
+            "2": "looks",
+            "3": "looked",
+            "4": "looking"
+          }
+        },
+        "10": {
+          "stem_plain": "Gopal has a good grasp _________ the current environmental issues. You can speak to him should you need any help.",
+          "options": {
+            "1": "in",
+            "2": "by",
+            "3": "of",
+            "4": "for"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — Subject–verb agreement (neither … nor)",
+          "zh": "杰森和他的兄弟们此刻都不想小睡，他们今晚会更早上床。",
+          "note": "主谓一致 (Subject–verb agreement)：<em>neither … nor</em> 谓语与最近主语一致；<em>brothers</em> 为复数 → 复数动词；一般现在时表示此刻。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "关系词 — Relative pronoun (object — whom)",
+          "zh": "我想去看望两年没见面的叔叔。",
+          "note": "关系代词 (Relative pronoun)：<em>whom</em> 指人作宾语；正式书面常用。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "反意疑问句 — Question tag (hardly)",
+          "zh": "“你祖父母几乎没去过动物园，是吗？”莎拉问我。",
+          "note": "附加问句 (Question tag)：<em>hardly</em> 含否定意味，附加部分用肯定；与过去式 <em>visited</em> 配 <em>did</em>。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "主谓一致 — Subject–verb agreement (a number of)",
+          "zh": "许多志愿者本周日将站出来帮忙，轮流在社区巡逻。",
+          "note": "主谓一致：<em>a number of</em> + 复数名词 → 复数谓语。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "虚拟语气 — Third conditional",
+          "zh": "要是我哥哥当时存够了钱，他就会买那辆自行车。",
+          "note": "虚拟语气 (Third conditional)：与过去事实相反，条件从句用过去完成时。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "量词 — Quantifier (uncountable — little)",
+          "zh": "班长几乎没得到同学对他建议的支持，只好改计划。",
+          "note": "数量词 (Quantifier)：<em>little</em> + 不可数名词表“几乎没有”。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "原因连接 — Cause (Owing to)",
+          "zh": "由于盗窃案激增，警惕的村民轮流夜间守望。",
+          "note": "因果连接 (Cause)：<em>Owing to</em> + 名词短语表原因。",
+          "answer": "1"
+        },
+        "8": {
+          "concept": "现在完成时 — Present perfect continuous",
+          "zh": "男女演员从今天早上八点起一直在排练小品台词。",
+          "note": "时态 (Tense)：现在完成进行时表示从过去某时持续到现在的动作。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "不定式 — Bare infinitive after help",
+          "zh": "萨姆看见公园里有个女孩在哭，便帮她找父母。",
+          "note": "动词用法：<em>help + 宾语 + 动词原形</em> 表协助做某事。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "介词 — Preposition (grasp of)",
+          "zh": "戈帕尔很了解当前环境问题，有需要可以问他。",
+          "note": "介词搭配 (Preposition)：<em>a grasp of</em> 对……的掌握/理解。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Tom's plan to visit the outdoor camp _________ due to the heavy rain. He was upset.",
+          "options": {
+            "1": "fell in",
+            "2": "fell for",
+            "3": "fell out",
+            "4": "fell through"
+          }
+        },
+        "12": {
+          "stem_plain": "In some countries, tough punishments are meted out to litterbugs because they serve as a _________ to would-be offenders.",
+          "options": {
+            "1": "restraint",
+            "2": "deterrent",
+            "3": "restriction",
+            "4": "hindrance"
+          }
+        },
+        "13": {
+          "stem_plain": "Despite my grandmother's failing eyesight, she took pains to sew a scarf for me _________. I love the fine details on it.",
+          "options": {
+            "1": "intensely",
+            "2": "profusely",
+            "3": "adequately",
+            "4": "meticulously"
+          }
+        },
+        "14": {
+          "stem_plain": "The investigators were determined to solve the crime. They _________ and combed the forest for clues.",
+          "options": {
+            "1": "called it a day",
+            "2": "sat on the fence",
+            "3": "covered their tracks",
+            "4": "left no stone unturned"
+          }
+        },
+        "15": {
+          "stem_plain": "Mrs Lee lost her cool and shouted at the manager. He tried to _________ her in a soothing voice so that she would calm down.",
+          "options": {
+            "1": "allay",
+            "2": "pacify",
+            "3": "relieve",
+            "4": "subdue"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "大雨导致汤姆去户外营的计划落空，他很沮丧。",
+          "note": "选4：<em>fall through</em> 指计划失败。fall in 陷进；fall for 上当；fall out 闹翻。",
+          "concept": "词汇辨析 — fell through（落空；未能实现）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fell in",
+              "zh": "集合，列队；塌陷（短语动词，军事术语指士兵按顺序排队集合，亦可指房顶等结构向内塌陷）",
+              "eg": "The recruits were told to <strong>fall in</strong> at the parade square before the formal morning inspection started."
+            },
+            {
+              "opt": "2",
+              "word": "fell for",
+              "zh": "上当，受骗；迷恋（短语动词，指轻信了谎言、诡计而被蒙骗，或指深深地爱上了某人）",
+              "eg": "The salesman was so charming that many customers <strong>fell for</strong> his tricks and bought the useless products."
+            },
+            {
+              "opt": "3",
+              "word": "fell out",
+              "zh": "争吵，闹翻（短语动词，指与人因为发生严重争执、误会而导致原有的友好关系破裂、不再说话）",
+              "eg": "After the fierce argument over the project, the twins <strong>fell out</strong> and did not talk to each other for a whole week."
+            },
+            {
+              "opt": "4",
+              "word": "fell through",
+              "zh": "落空，失败，未能实现（短语动词，特指计划、协议、安排或交易因突发意外情况而中途夭折、泡汤）",
+              "eg": "Tom's plan to visit the outdoor camp <strong>fell through</strong> due to the heavy rain that flooded the entire campsite area."
+            }
+          ]
+        },
+        "12": {
+          "zh": "一些国家对乱扔垃圾者严惩，以震慑潜在违法者。",
+          "note": "选2：<em>deterrent</em> 威慑因素。restraint 自我克制；hindrance 阻碍。",
+          "concept": "词汇辨析 — deterrent（威慑；制止因素）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "restraint",
+              "zh": "克制，抑制，约束力（名词，指控制自己情感或行为的冷静态度，或者阻止人或物体自由行动的物理约束装置）",
+              "eg": "He showed admirable <strong>restraint</strong> by not answering the rude remark made by his frustrated opponent during the debate."
+            },
+            {
+              "opt": "2",
+              "word": "deterrent",
+              "zh": "威慑因素，遏制物（名词，指某种能够让人因顾忌后果而不敢或不愿意去做某事的威慑力量、法律或惩罚措施）",
+              "eg": "Heavy fines act as a strong <strong>deterrent</strong> to irresponsible drivers who speed in school zones during morning assembly."
+            },
+            {
+              "opt": "3",
+              "word": "restriction",
+              "zh": "限制，约束规定（名词，指由法律、规则或官方机构正式出台的，对行动范围、数量或资源使用的严格控制措施）",
+              "eg": "Strict <strong>restrictions</strong> were placed on industrial water use during the prolonged drought to conserve the reservoir."
+            },
+            {
+              "opt": "4",
+              "word": "hindrance",
+              "zh": "障碍，妨碍物（名词，指让事情变得更困难、行动更缓慢，或阻碍计划顺利进行的人、具体物体或抽象情况）",
+              "eg": "The heavy backpack proved to be a major <strong>hindrance</strong> as we hiked up the steep, slippery slope in the pouring rain."
+            }
+          ]
+        },
+        "13": {
+          "zh": "尽管祖母视力变差，仍费心为我织围巾，细节精致。",
+          "note": "选4：<em>meticulously</em> 细致入微。intensely/profusely 不符“费心细节”。",
+          "concept": "词汇辨析 — meticulously（一丝不苟地）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intensely",
+              "zh": "强烈地，极度地（指力量、情感、注意力或活动达到极高强度的状态）",
+              "eg": "The pupils watched intensely as the scientist poured the chemicals during the volatile reaction."
+            },
+            {
+              "opt": "2",
+              "word": "profusely",
+              "zh": "大量地，倾泻地（通常用来形容流汗、流血、道歉或致谢等多得惊人、连绵不断）",
+              "eg": "He apologised profusely for stepping on her new shoes and offered to wipe the dirt off immediately."
+            },
+            {
+              "opt": "3",
+              "word": "adequately",
+              "zh": "充分地，足够地（指数量、质量或条件刚好满足特定的基本客观需要，满足及格线）",
+              "eg": "The hall was adequately ventilated for the large crowd, preventing the room from becoming stuffy."
+            },
+            {
+              "opt": "4",
+              "word": "meticulously",
+              "zh": "一丝不苟地，极其细心地（指做事情花费巨大的心思，对极其微小的细节都给予高度专注）",
+              "eg": "The watchmaker meticulously cleaned every gear before reassembling the antique pocket watch."
+            }
+          ]
+        },
+        "14": {
+          "zh": "调查人员决心破案，彻底搜查森林寻找线索。",
+          "note": "选4：习语 <em>leave no stone unturned</em> 竭尽全力。",
+          "concept": "词汇辨析 — left no stone unturned（不遗余力；彻底搜查）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "called it a day",
+              "zh": "收工；作罢",
+              "eg": "After ten hours of digging, the volunteers decided to <strong>call it a day</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "sat on the fence",
+              "zh": "骑墙观望",
+              "eg": "When asked which team would win, he <strong>sat on the fence</strong> and refused to choose."
+            },
+            {
+              "opt": "3",
+              "word": "covered their tracks",
+              "zh": "掩盖踪迹",
+              "eg": "The thief tried to <strong>cover his tracks</strong> by wiping away the fingerprints."
+            },
+            {
+              "opt": "4",
+              "word": "left no stone unturned",
+              "zh": "不遗余力；彻底搜查",
+              "eg": "The police <strong>left no stone unturned</strong> while searching for the missing child."
+            }
+          ]
+        },
+        "15": {
+          "zh": "李太太发火对经理大喊，他试图用温和的语气安抚她。",
+          "note": "选2：<em>pacify</em> 安抚。allay 减轻忧虑；subdue 语气过强。",
+          "concept": "词汇辨析 — pacify（安抚；平息）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "allay",
+              "zh": "减轻，消除（恐惧、忧虑、怀疑）（动词，指通过提供事实或安慰，使内心不好的强烈情绪缓和或完全消失）",
+              "eg": "The nurse's calm words helped to <strong>allay</strong> the boy's fear of the injection before the medical procedure began."
+            },
+            {
+              "opt": "2",
+              "word": "pacify",
+              "zh": "安抚，平息（愤怒、不满等）（动词，指通过顺从他人的要求、说好话或采取退让措施，使愤怒的人或群体恢复平静）",
+              "eg": "The manager spoke gently to <strong>pacify</strong> the angry customer who was complaining about the defective electronic product."
+            },
+            {
+              "opt": "3",
+              "word": "relieve",
+              "zh": "缓解，减轻（疼痛、痛苦、压力）（动词，指使身体上的疼痛、疾病折磨，或精神上的沉重负担得到明显的减轻或消除）",
+              "eg": "The cooling cream helped to <strong>relieve</strong> the intense itching on her arm caused by the sudden mosquito bites."
+            },
+            {
+              "opt": "4",
+              "word": "subdue",
+              "zh": "制服，征服，压制（动词，指利用武力、强权或压倒性的力量来击败敌人、控制住反抗者，或强行抑制住强烈的情感）",
+              "eg": "The security guards managed to <strong>subdue</strong> the violent prisoner quickly without injuring anyone else inside the corridor."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "(1) intuitively",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "intuitively",
+            "2": "hesitantly",
+            "3": "cautiously",
+            "4": "deliberately"
+          }
+        },
+        "17": {
+          "stem_plain": "(1) raging",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "raging",
+            "2": "hurried",
+            "3": "confused",
+            "4": "hysterical"
+          }
+        },
+        "18": {
+          "stem_plain": "(1) barged",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "barged",
+            "2": "charged",
+            "3": "stormed",
+            "4": "scrambled"
+          }
+        },
+        "19": {
+          "stem_plain": "(1) admired",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "admired",
+            "2": "favoured",
+            "3": "endorsed",
+            "4": "commended"
+          }
+        },
+        "20": {
+          "stem_plain": "(1) warmth",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "warmth",
+            "2": "fondness",
+            "3": "satisfaction",
+            "4": "tenderness"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Jimmy and Ahmad were watching a movie at Nex Shopping Mall. Suddenly, the fire alarm sounded. [Q16 (Without a second thought)], many cinemagoers scampered towards the exits.",
+          "Some of them shoved their way in a frantic manner and shouted uncontrollably at the top of their voices. Soon, the lights came on and a staff announced that it was a false alarm. Just then, Jimmy and Ahmad chanced upon an elderly lady lying sprawled on the ground and went forward to help her.",
+          "Soon, the manager of the theatre rushed to the elderly lady apologetically and attended to her. Fortunately, she was fine. He also [Q17 (lauded)] Jimmy and Ahmad for their selfless act. The elderly lady thanked the boys and smiled, with [Q18 (contentment)]. She was impressed by their kind act."
+        ],
+        "zh": [
+          "Jimmy 和 Ahmad 正在 Nex Shopping Mall 看电影。突然，火警响起。许多观众不假思索地朝出口奔去。",
+          "有些人疯狂地推挤，声嘶力竭地大喊。很快灯亮了，工作人员宣布是误报。就在这时，Jimmy 和 Ahmad 偶然看见一位老妇人倒在地上，便上前帮忙。",
+          "不久，影院经理匆忙赶来，向老妇人道歉并照料她。幸好她并无大碍。经理还称赞 Jimmy 和 Ahmad 的无私举动。老妇人向男孩们道谢，满意地微笑，对他们的善举印象深刻。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — (1) intuitively（故意地；有意地）",
+          "note": "应选（4）'deliberately'：短文划线的 <em>intuitively</em> 在此语境下与此义最接近。'intuitively'：义为'凭直觉地'，与短文语境或搭配要求不一致。'hesitantly'：义为'犹豫地'，与短文语境或搭配要求不一致。'cautiously'：义为'谨慎地；小心地'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "许多观众不假思索地朝出口奔去。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intuitively",
+              "zh": "凭直觉地，本能地（副词，指不依赖逻辑推理或系统学习，而是完全依靠天生的直觉或本能感知做出反应）",
+              "eg": "Even without instructions, she <strong>intuitively</strong> knew how to soothe the crying baby based on her maternal instincts."
+            },
+            {
+              "opt": "2",
+              "word": "hesitantly",
+              "zh": "犹豫地，吞吞吐吐地（副词，指因为内心感到不确定、缺乏自信、害怕或羞怯，而在行动或言语上显得迟疑不决）",
+              "eg": "He <strong>hesitantly</strong> raised his hand to ask a question, worried that his classmates might laugh at him."
+            },
+            {
+              "opt": "3",
+              "word": "cautiously",
+              "zh": "谨慎地，小心翼翼地（副词，指为了避免发生危险、犯错或造成不好的后果，在行为举止上格外小心和提防）",
+              "eg": "She moved <strong>cautiously</strong> across the icy bridge to avoid slipping and falling into the freezing stream below."
+            },
+            {
+              "opt": "4",
+              "word": "deliberately",
+              "zh": "故意地，有意地；沉着从容地（副词，指经过深思熟虑、带着明确的目的性去实施某项行为，绝非无心之失）",
+              "eg": "He <strong>deliberately</strong> took the longer route home to avoid bumping into his bully near the community sports clinic."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — (1) raging（歇斯底里的）",
+          "note": "应选（4）'hysterical'：短文划线的 <em>raging</em> 在此语境下与此义最接近。'raging'：与题干语境或搭配要求不一致。'hurried'：义为'匆忙的'，与短文语境或搭配要求不一致。'confused'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "有些人疯狂地推挤，声嘶力竭地大喊。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "raging",
+              "zh": "狂怒的，狂暴的（形容词，指人极度愤怒、大发雷霆，或用来形容暴风雨、洪水等自然力量极其猛烈、无法控制）",
+              "eg": "The raging storm damaged several wooden huts near the shore and caused severe flooding along the coast."
+            },
+            {
+              "opt": "2",
+              "word": "hurried",
+              "zh": "仓促的，匆忙的（形容词/动词过去式，指因为时间紧迫而做得很急促、通常不够细致或缺乏条理）",
+              "eg": "The coach hurried the exhausted soccer players back to the school bus right after the intense tournament ended."
+            },
+            {
+              "opt": "3",
+              "word": "confused",
+              "zh": "困惑的，混乱的（形容词/动词过去式，指大脑感到迷茫、无法清晰思考，或者将两件截然不同的事物搞混了）",
+              "eg": "The complex math calculations confused the secondary school pupils, leaving them unsure of how to proceed."
+            },
+            {
+              "opt": "4",
+              "word": "hysterical",
+              "zh": "歇斯底里的，情绪狂乱的；极其滑稽的（形容词，指由于极度恐惧、愤怒或焦虑而导致情绪完全失控、又哭又闹的状态，或口语中指令人捧腹大笑的）",
+              "eg": "The pupils found the word hysterical useful in their descriptive composition to describe the panicked crowd fleeing the fire."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — (1) barged（巴尔格）",
+          "note": "应选（1）'barged'：短文划线的 <em>barged</em> 在此语境下与此义最接近。'charged'：义为'猛冲'，与短文语境或搭配要求不一致。'stormed'：义为'冲进'，与短文语境或搭配要求不一致。'scrambled'：义为'争抢；爬'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "有些人猛冲推挤，声嘶力竭地大喊。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "barged",
+              "zh": "闯入，撞撞跌跌地冲（动词，指粗鲁、冒失、不顾礼貌地突然冲进某个房间，或在人群中横冲直撞）",
+              "eg": "Without knocking on the principal's office door, the angry parent barged into the room to demand an immediate explanation."
+            },
+            {
+              "opt": "2",
+              "word": "charged",
+              "zh": "冲锋；控告；收费（动词，指为了进攻而猛冲过去，也可以指警方正式控告某人犯罪，或要求支付费用）",
+              "eg": "The fierce guard dogs charged toward the boundary fence when they spotted a suspicious intruder loitering near the house."
+            },
+            {
+              "opt": "3",
+              "word": "stormed",
+              "zh": "气冲冲地走；猛攻（动词，指因为极度愤怒而大步流星地闯入或冲出某处，或指军队对阵地发起强攻）",
+              "eg": "The frustrated customer stormed out of the stationery shop after the shopkeeper refused to honor her request for an exchange."
+            },
+            {
+              "opt": "4",
+              "word": "scrambled",
+              "zh": "争抢；攀爬，急忙凑数（动词，指为了获取某物而手脚并用地混乱争夺，或者由于时间紧迫而极其仓促地移动或做准备）",
+              "eg": "The excited children scrambled eagerly for the scattered sweets that were thrown into the crowd during the festive party."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — (1) admired（表彰）",
+          "note": "应选（4）'commended'：短文划线的 <em>admired</em> 在此语境下与此义最接近。'admired'：与题干语境或搭配要求不一致。'favoured'：义为'偏爱'，与短文语境或搭配要求不一致。'endorsed'：义为'公开支持；赞同'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "经理还称赞 Jimmy 和 Ahmad 的无私举动。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "admired",
+              "zh": "钦佩，赞赏，仰慕（动词，指由于某人展现出卓越的才华、坚韧的品质或伟大的成就，而对其中怀有由衷的敬意与好感）",
+              "eg": "Many young artists admired the maestro's intricate oil painting style and hoped to achieve a similar level of skill."
+            },
+            {
+              "opt": "2",
+              "word": "favoured",
+              "zh": "偏爱，更喜欢；青睐（动词，指在诸多备选方案、人或事物中，心理上或行动上表现出明显的倾向性与支持）",
+              "eg": "The head coach favoured a strategic defensive plan in the final match to secure their fragile lead against the rival team."
+            },
+            {
+              "opt": "3",
+              "word": "endorsed",
+              "zh": "公开支持，代言，赞同（动词，指名人公开为某种产品作广告推广，或指官方、机构正式表明对某项政策或计划的赞成）",
+              "eg": "The famous footballer endorsed a new brand of running shoes in the television advertisement, boosting its global sales."
+            },
+            {
+              "opt": "4",
+              "word": "commended",
+              "zh": "表彰，赞扬，推荐（动词，指官方或长辈在公开场合，对某人优秀的表现、职责的履行或勇敢的行为给予正式的口头或书面褒奖）",
+              "eg": "The coach warmly commended the players after the intense match for showing great teamwork and sportsmanship under extreme pressure."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — (1) warmth（满意）",
+          "note": "应选（3）'satisfaction'：短文划线的 <em>warmth</em> 在此语境下与此义最接近。'warmth'：义为'温暖'，与短文语境或搭配要求不一致。'fondness'：义为'喜爱'，与短文语境或搭配要求不一致。'tenderness'：义为'温柔'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "老妇人向男孩们道谢，满意地微笑，对他们的善举印象深刻。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "warmth",
+              "zh": "温暖，热情（名词，指物理上舒适的温度，或引申为待人接物时表现出的友善、亲切与热忱）",
+              "eg": "The host welcomed the foreign visitors with great warmth, making them feel right at home immediately."
+            },
+            {
+              "opt": "2",
+              "word": "fondness",
+              "zh": "喜爱，钟爱（名词，指对某人、某种动物或某项爱好产生的一种温和、持久且深厚的喜爱之情，常与介词 for 连用）",
+              "eg": "Over the years, the secondary school pupils developed a deep fondness for English literature and creative writing."
+            },
+            {
+              "opt": "3",
+              "word": "satisfaction",
+              "zh": "满意，满足感（名词，指当愿望得以实现、工作顺利完成，或者某事达到预期良好结果时内心所感受到的欣慰与舒适）",
+              "eg": "The dedicated builder looked at the newly renovated school library with a great sense of professional satisfaction."
+            },
+            {
+              "opt": "4",
+              "word": "tenderness",
+              "zh": "温柔，慈爱；触痛（名词，指态度上的温和、体贴与柔情，或者在医学上指身体某部位因发炎或受伤在受压时产生的疼痛感）",
+              "eg": "The mother gently wrapped her injured daughter in a dry blanket, her eyes filled with boundless love and tenderness."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "What is the main purpose of the poster?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "promote awareness of good eye health",
+            "2": "attract residents to donate used spectacles",
+            "3": "foster positive relationships among the residents",
+            "4": "encourage the elderly to receive free eye-checks"
+          }
+        },
+        "22": {
+          "stem_plain": "Why is an exclamation mark used in the heading, \"Travelling Eye Care Carnival Back at Serangoon Community Club!\"?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to show that the carnival is about eye care",
+            "2": "to draw attention to the venue for the carnival",
+            "3": "to emphasise that the carnival has been held before",
+            "4": "to convey excitement about the return of the carnival"
+          }
+        },
+        "23": {
+          "stem_plain": "Anyone who buys a coupon booklet will",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "win attractive prizes",
+            "2": "enjoy a free eye check",
+            "3": "receive a free reusable bag",
+            "4": "get $50 cash from the sponsors"
+          }
+        },
+        "24": {
+          "stem_plain": "According to the poster, which of the following is **not** true of Mrs Cheryl Lee?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Her children wear glasses.",
+            "2": "She benefited from the Talk for Parents.",
+            "3": "She believes that eye conditions can be rectified.",
+            "4": "Her children take eye breaks when they use the computer."
+          }
+        },
+        "25": {
+          "stem_plain": "Mr Lim, aged 60, wants to get an eye-screening. What must he do?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "turn up at Hibiscus Room anytime",
+            "2": "buy his ticket at the reception counter on Level One",
+            "3": "book his ticket in advance with any of the ophthalmologists",
+            "4": "visit any of the rooms between 1 September to 24 October 2021"
+          }
+        },
+        "26": {
+          "stem_plain": "Gopal wants to support the Recycle for Sight Project. He can",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "be a volunteer to fix spectacles",
+            "2": "donate a pair of old glasses which has a missing lens",
+            "3": "call Ms Lily to enquire how he could volunteer his services",
+            "4": "go to Orchid Room and hand his old spectacles to the volunteers"
+          }
+        },
+        "27": {
+          "stem_plain": "Residents who take part in the Dine-in-the-Dark Experience will",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "email Mr Simon Loh to register",
+            "2": "eat with a visually-impaired person",
+            "3": "discuss what they will get to eat during the meal",
+            "4": "keep their mobile phones with them during the meal"
+          }
+        },
+        "28": {
+          "stem_plain": "The sponsors of the Eye Care Carnival are",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Eye Research Institute and Eye-Visionary",
+            "2": "Eye Aid Optics and Serangoon Community Club",
+            "3": "Eye-Visionary Pte Ltd and Optics-National Pte Ltd",
+            "4": "Serangoon Community Club and Optics-National Pte Ltd"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "主旨 — main purpose（主要目的）",
+          "note": "<p><p>Poster promotes eye health activities (screening, talks, recycling spectacles) → <span class=\"hl-good\">promote awareness of good eye health</span>.</p></p>",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "目的 — Punctuation purpose（目的考点）",
+          "note": "<p><p>Heading celebrates the carnival <strong>back</strong> at the club → exclamation mark conveys <span class=\"hl-good\">excitement about the return</span>.</p></p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "题型 — Promotion detail（题型考点）",
+          "note": "<p><p>Coupon booklet perk includes a <span class=\"hl-good\">free reusable bag</span> (stated in carnival offers).</p></p>",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "细节 — detail check NOT-true（找出错误项）",
+          "note": "<p><p>Testimonial supports eye breaks / glasses — option <span class=\"hl-good\">(4)</span> (children take eye breaks) is the statement marked NOT true per key; verify against poster image if disputed.</p></p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Registration procedure（题型考点）",
+          "note": "<p><p>Eye-screening for seniors requires <span class=\"hl-good\">booking in advance with an ophthalmologist</span> per poster instructions.</p></p>",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "题型 — Recycle for Sight（题型考点）",
+          "note": "<p><p>To volunteer or enquire about helping → <span class=\"hl-good\">call Ms Lily</span> (contact line on poster).</p></p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "题型 — Dine-in-the-Dark（题型考点）",
+          "note": "<p><p>Experience pairs diners with <span class=\"hl-good\">a visually-impaired person</span> to build empathy.</p></p>",
+          "answer": "2"
+        },
+        "28": {
+          "concept": "题型 — Sponsors（题型考点）",
+          "note": "<p><p>Footer logos name <span class=\"hl-good\">Eye-Visionary Pte Ltd and Optics-National Pte Ltd</span>.</p></p>",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "about",
+          "D": "could",
+          "G": "one",
+          "K": "out",
+          "N": "was",
+          "B": "also",
+          "E": "instead",
+          "H": "or",
+          "L": "some",
+          "P": "were",
+          "C": "by",
+          "F": "of",
+          "J": "others",
+          "M": "that",
+          "Q": "yet"
+        },
+        "cloze": [
+          "What do you think researchers have discovered in the Amazon? You will often think of rare birds, plants [Q29] different insect species. Although these can be discovered there, [Q30] of the most unusual languages in the world exist in the Amazon too.",
+          "Everett, a researcher from America, knows a lot [Q31] these languages. One day, Everett, together with a friend, [Q32] swimming in the river when a woman from a tribe threw part of a monkey carcass into the water near them. When the water began frothing, the men realised [Q33] they were actually sharing the river with the piranhas — a type of sharp-toothed, predatory fish. Everett [Q34] later found that the river was filled with crocodiles too!",
+          "Everett learnt his lesson to be cautious before going for a swim and he also started to learn the language of the different tribes. It was an uphill task because none of the tribesmen [Q35] speak English. Everett plunged into the language, [Q36] first learning the basics. He pointed at objects until a tribesman named them for him. Then, Everett repeated the sounds the speaker had made until he got the pronunciation correct. Finally, he would confirm each new word he had learnt with [Q37] in the tribes.",
+          "[Q38], the tribe never considered him to be a true speaker of the language. To them, he was more like a very clever talking parrot who sounded like a real person."
+        ],
+        "zh": [
+          "你以为研究人员在亚马逊发现了什么？你常会想到珍稀鸟类、植物或各种昆虫。尽管那里确实能发现这些，世界上一些最奇特的语言也存在于亚马逊。",
+          "来自美国的研究员 Everett 对这些语言了解很多。一天 Everett 与朋友在河中游泳，部落一名妇女把一块猴尸扔进他们附近的水中。水面起泡时，他们才意识到河里竟有食人鱼——一种尖牙掠食鱼类。Everett 后来发现河里还有鳄鱼！",
+          "Everett 吸取教训，游泳前更加谨慎，并开始学习各部落语言。这很艰难，因为部落里没人会说英语。他全身心投入，先学基础：指着物体直到族人说出名称，再反复模仿直至发音正确，最后向族人确认每个新词。",
+          "然而，部落从不把他视为真正的语言使用者。在他们看来，他更像一只很会说话的聪明鹦鹉，听起来像真人。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "连词 — or",
+          "note": "think of rare birds, plants or different insect species. = 句间逻辑 → or。",
+          "answer": "H — or"
+        },
+        "30": {
+          "concept": "固定搭配",
+          "note": "these can be discovered there, one of the most unusual languages = 结合句意选 one。",
+          "answer": "G — one"
+        },
+        "31": {
+          "concept": "about",
+          "note": "from America, knows a lot about these languages. = 结合句意选 about。",
+          "answer": "A — about"
+        },
+        "32": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Everett, together with a friend, was swimming in the river when = 主谓一致 → was。",
+          "answer": "N — was"
+        },
+        "33": {
+          "concept": "关系/连接词 — that",
+          "note": "began frothing, the men realised that they were actually sharing the = 指示词 that 回指上文。",
+          "answer": "M — that"
+        },
+        "34": {
+          "concept": "副词",
+          "note": "Everett also later found that the river = 结合句意选 also。",
+          "answer": "B — also"
+        },
+        "35": {
+          "concept": "情态 — could",
+          "note": "because none of the tribesmen could speak English. = 情态动词 could。",
+          "answer": "D — could"
+        },
+        "36": {
+          "concept": "介词 — by",
+          "note": "Everett plunged into the language, by first learning the basics. = 看前后搭配，选 by。",
+          "answer": "C — by"
+        },
+        "37": {
+          "concept": "代词",
+          "note": "word he had learnt with others in the tribes. = 结合句意选 others。",
+          "answer": "J — others"
+        },
+        "38": {
+          "concept": "连词 — yet",
+          "note": "yet , the tribe never considered = 句间逻辑 → yet。",
+          "answer": "Q — yet"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Exercise might seem like a chore to many. However, health experts have emphasised that it is [Q39(krutial)] to get up and move about regularly.",
+          "Many people often spend a lot of time sitting and [Q40(stare)] at their computer screens.",
+          "In fact, most adolescents [Q41(those)] days do not meet the standards for the ideal amount of [Q42(neccessary)] physical activity. During puberty, the brain develops dramatically. Sadly, the number of physical activities tends to decline [Q43(since)] the children become adolescents. Unlike younger children, most adolescents lead more [Q44(serdanteri)] lives.",
+          "One reason is because many of them [Q45(spends)] more time in front of computer screens.",
+          "This is rather unfortunate because exercise can be good for both the body and the brain. Exercise is good for one's [Q46(mucels)] and bones. Regular physical activity, coupled with [Q47(suffishent)] amount of sleep, helps adolescents grow up into adults with stronger bones.",
+          "Exercise is also good for the brain. It [Q48(increased)] the amount of oxygen and blood that gets to the brain and even determines how the brain is [Q49(struktured)] . Working out can produce chemicals in our bodies that might also help in the [Q50(prevent)] of depression.",
+          "Research has proven that a workout after learning something helps to form and retain long-term memories."
+        ],
+        "zh": [
+          "对许多人来说，锻炼似乎是一件烦人的差事。然而，健康专家强调，定期起身活动至关重要。",
+          "很多人常常久坐，盯着电脑屏幕。",
+          "事实上，如今大多数青少年达不到理想运动量标准。青春期大脑发育显著；遗憾的是，孩子进入青春期后，体育活动往往减少。与年幼孩子不同，多数青少年过着更为久坐的生活。",
+          "原因之一是他们花更多时间在电脑前。",
+          "这很不幸，因为运动对身心都有益。运动有益于肌肉和骨骼。规律运动，加上充足睡眠，有助于青少年长成骨骼更强壮的成年人。",
+          "运动也对大脑有益。它能增加输送到大脑的氧气和血量，甚至影响大脑结构。锻炼还能在体内产生可能有助于预防抑郁的化学物质。",
+          "研究证明，学习后锻炼有助于形成并巩固长期记忆。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling",
+          "note": "<p>Correct spelling → <span class=\"hl-good\">crucial</span> (not <em>krutial</em>).</p>",
+          "answer": "crucial"
+        },
+        "40": {
+          "concept": "Parallel structure",
+          "note": "<p>After <em>sitting and</em> → parallel <span class=\"hl-good\">staring</span> at screens.</p>",
+          "answer": "staring"
+        },
+        "41": {
+          "concept": "Demonstrative",
+          "note": "<p>Present time reference → <span class=\"hl-good\">these</span> days (not <em>those</em>).</p>",
+          "answer": "these"
+        },
+        "42": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">necessary</span> physical activity.</p>",
+          "answer": "necessary"
+        },
+        "43": {
+          "concept": "Conjunction",
+          "note": "<p>Contrast as children become adolescents → <span class=\"hl-good\">as</span> (not <em>since</em> wrongly used).</p>",
+          "answer": "as"
+        },
+        "44": {
+          "concept": "Spelling / word choice",
+          "note": "<p>Sedentary lifestyle → <span class=\"hl-good\">sedentary</span> (not <em>serdanteri</em>).</p>",
+          "answer": "sedentary"
+        },
+        "45": {
+          "concept": "Subject–verb agreement",
+          "note": "<p>Many of them → <span class=\"hl-good\">spend</span> (not <em>spends</em>).</p>",
+          "answer": "spend"
+        },
+        "46": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">muscles</span> and bones.</p>",
+          "answer": "muscles"
+        },
+        "47": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">sufficient</span> amount of sleep.</p>",
+          "answer": "sufficient"
+        },
+        "48": {
+          "concept": "Verb form",
+          "note": "<p>General truth → <span class=\"hl-good\">increases</span> (present simple).</p>",
+          "answer": "increases"
+        },
+        "49": {
+          "concept": "Spelling",
+          "note": "<p>How the brain is <span class=\"hl-good\">structured</span>.</p>",
+          "answer": "structured"
+        },
+        "50": {
+          "concept": "Word form",
+          "note": "<p>Help in the <span class=\"hl-good\">prevention</span> of depression (noun after <em>the</em>).</p>",
+          "answer": "prevention"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Almost one-third of all the food produced in the world goes to waste. This amount equals to more than a billion tons of food that is [Q51] away. It is equivalent to food that is enough to feed every undernourished person on [Q52] earth.",
+          "Many environmentalists have cautioned that when we waste food, we also waste all the resources it takes to grow, transport and package the food. When food is wasted and ends up in the landfill to decompose, [Q53] produces methane — a greenhouse gas which is even more potent [Q54] to carbon dioxide. About six to eight percent of all greenhouse gas emissions could be reduced if we stop wasting food.",
+          "As the world's population gradually [Q55], our challenge is not to produce more food [Q56] to reduce food wastage. There are many ways to [Q57] the challenge. From delivering the leftovers [Q58] those in need, to freezing our food or being a smarter shopper, these are some small [Q59] to reduce our food waste.",
+          "The first solution is to [Q60] out a shopping list and buy only what we need. If we go to the supermarket without a plan, it can cause us to buy [Q61] than we require. By planning [Q62] of time and keeping to the list, we will not make redundant purchases.",
+          "Secondly, use your freezer well. Although there are many [Q63] of eating fresh food, their shelf life is short and many consumers end up discarding food that has turned bad. [Q64] to what many believe, frozen foods can be equally nutritious. If you cannot consume the [Q65] food quickly, you might want to consider buying frozen food instead. Frozen food stays edible for much longer and is a great way to avoid food wastage when it turns bad."
+        ],
+        "zh": [
+          "全球约三分之一的食物被浪费，相当于逾十亿吨食物被扔掉，足以养活世上所有营养不良的人。",
+          "浪费食物也浪费种植、运输、包装所需资源；填埋腐烂还会产生甲烷，其温室效应强于二氧化碳。若停止浪费，可减少约六成温室气体排放。",
+          "世界人口逐渐增加，挑战不是生产更多食物，而是减少浪费。有许多办法可以克服这一挑战：把剩菜送给需要的人、冷冻保存、理性购物等，都是减少浪费的小方法。",
+          "首先列购物清单只买所需；无计划逛超市易买多。提前规划并照清单购物，可避免多余采购。",
+          "善用冷冻柜：鲜食保质期短易变质；与普遍看法相反，冷冻食品同样营养。若不能很快吃完，可考虑买冷冻食品，保质期更长、减少变质浪费。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "被动语态短语动词",
+          "note": "前面有被动语态标志结构 is，后面接过去分词。与后面的副词 away 完美组合，指代超过十亿吨原本好端端的食物被无情地“扔掉”、“倒掉”或“处理掉”，故填过去分词形式 thrown / cast / tossed / given / discarded（由于 away 限制，此处 thrown 最佳）。",
+          "answer": "thrown/cast/tossed/given/discarded"
+        },
+        "52": {
+          "concept": "定冠词固定习惯搭配",
+          "note": "与其后置的地理名词 earth 完美结合。在探讨全球环境、人口生存的宏观语境下，固定在前面搭配使用定冠词 the，构成 on the earth（或者是复合词 on Earth，此处已有 earth 且属特指，故唯一填入 the）。",
+          "answer": "the"
+        },
+        "53": {
+          "concept": "主从句代词语意承接",
+          "note": "充当由 when 引导的从句之后的主句主语。前文提到 when food is wasted and ends up in the landfill（当食物沦为垃圾并最终进入填埋场），此处顺理成章地使用单数第三人称指物代词 it 来回指不可数名词 food，表示“它”在腐烂时会释放有害气体。",
+          "answer": "it"
+        },
+        "54": {
+          "concept": "比较级句型形式",
+          "note": "前文出现了明确的比较级修饰结构 even more potent（甚至更为强效/威力更大）。根据英语语法比较级前后相互呼应的铁律，与之搭配并引出二氧化碳对比对象的必然是比较连词 than。",
+          "answer": "than"
+        },
+        "55": {
+          "concept": "一般现在时主谓一致",
+          "note": "在由 As 引导的时间/状态状语从句中，主语为单数名词短语 the world's population（世界人口，在语法上充当单数第三人称）。本句陈述目前正在发生且客观持续的演变事实，需用一般现在时，指人口正在逐渐“增加”、“增长”或“激增”，故填单三形式动词 increases / grows / expands / soars / rises。",
+          "answer": "increases/grows/expands/soars/rises"
+        },
+        "56": {
+          "concept": "并列对比关联句型形式",
+          "note": "与前文的否定词结构 not to produce more food 完美呼应。构成英语中用于打破常规、强调真正核心重点的经典正反转折对照句式 not... but...（不是……而是……），此空格位于后半句前缀，故填入并列连词 but，表示我们的挑战不是多产粮食，而是减少浪费。",
+          "answer": "but"
+        },
+        "57": {
+          "concept": "动词与名词固定搭配",
+          "note": "不定式符号 to 后接动词原形。与后面的名词宾语 the challenge（挑战）完美组合，构成在各类环保、生存议题里高频重复考核的经典专属动宾搭配 meet the challenge 或者是 overcome / tackle / face / address the challenge，意为“迎接/克服/应对这一挑战”。",
+          "answer": "meet/overcome/tackle/face/address"
+        },
+        "58": {
+          "concept": "动词与介词空间指向搭配",
+          "note": "与前面的动词现在分词形式 delivering 极其名词宾语 the leftovers 完美组合。指代物资跨越空间的走向，表示将吃剩的饭菜打包运送、提供“给”那些身处困境、急需帮助的弱势群体，故填入专属方向介词 to。",
+          "answer": "to"
+        },
+        "59": {
+          "concept": "名词语意与后置修饰呼应",
+          "note": "前面有形容词 small（小小的）修饰，后接不定式符号 to reduce...。呼应前文提到的 There are many ways...（有许多方法），指代这些都是我们可以用来减少食物垃圾的某些切实可行的“方法”、“手段”或“步骤”，故填复数名词 ways / steps / methods / strategies / solutions。",
+          "answer": "ways/steps/methods/strategies/solutions"
+        },
+        "60": {
+          "concept": "短语动词固定习惯搭配",
+          "note": "不定式符号 to 后接动词原形。与后面的副词 up 极其名词宾语 a shopping list 完美组合。构成日常事务及计划管理中的极高频常考特定短语动词 write out 或者是 work out / draw up / make out（由于 up 限制，此处 write out 不需要 up，而 work up/draw up/make up 均可构成“拟定/列出”购物清单的语意，填入 work 或者是 draw 最自然地道）。",
+          "answer": "work/draw/make/write"
+        },
+        "61": {
+          "concept": "比较级句型语意对照",
+          "note": "后文出现了明确的比较连词 than we require（超出我们的实际需要）。指盲目且没有计划的疯狂大采购，很容易在因果上导致我们买下了比实际需求“更多”的冗余商品，故填数量限定比较级 more。",
+          "answer": "more"
+        },
+        "62": {
+          "concept": "经典时间习语固定搭配",
+          "note": "与其后置的介词短语 of time 完美结合。属于各类日常规划、行程安排和备考文体中屡次高频考查的经典专属前置修饰习语 ahead of time，意为通过“提前/提前”做好周密的计划，我们就能杜绝冲动消费。",
+          "answer": "ahead"
+        },
+        "63": {
+          "concept": "名词语意与列举呼应",
+          "note": "前面有数量形容词 many 修饰，后接介词短语 of eating fresh food。指虽然多吃新鲜有机食品具有无数的“好处”、“优势”或“营养价值”，但它们的保质期往往很短，故填复数名词 benefits / advantages / merits / values。",
+          "answer": "benefits/advantages/merits/values"
+        },
+        "64": {
+          "concept": "经典避谣对比固定习惯搭配",
+          "note": "后接介词短语 to what many believe（与许多人的传统刻板认知相反）。用于引出科学辟谣线索（冷冻食品其实同样富含营养），完美契合在各类科普文、思想思辨文体中出题率极高的专属衔接习语 Contrary to...。位于句首需大写。",
+          "answer": "Contrary"
+        },
+        "65": {
+          "concept": "形容词语意与后文反义复现",
+          "note": "由定冠词 the 引导修饰。后文紧接着提出了一个替代折中方案 buy frozen food instead（转而购买冷冻食品），属于极其经典、高阶的“后文反义词复现”线索提示，与冷冻食品（frozen food）构成绝对对立和呼应的，必然是前文反复在赞美、但保质期短的“新鲜（fresh）”食材。",
+          "answer": "fresh"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "James cannot take part in the outdoor activity. He must ask his parents for permission.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________"
+        },
+        "67": {
+          "stem_plain": "\"Is it time for the English lesson?\" the student asked.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The student asked __________"
+        },
+        "68": {
+          "stem_plain": "Father felt that the watch was durable. He also felt it was affordable.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ not only __________"
+        },
+        "69": {
+          "stem_plain": "Tom was reliable. He was selected to be the class monitor.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Due to his __________"
+        },
+        "70": {
+          "stem_plain": "Jane forgot to bring her keys. She could not enter her house.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Having __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "条件句 — Unless",
+          "zh": "除非詹姆斯征得父母同意，否则他不能参加户外活动。",
+          "note": "条件句：<em>unless</em> = if … not；须保持情态与主语一致。",
+          "answer": "James cannot take part in the outdoor activity unless he asks his parents for permission."
+        },
+        "67": {
+          "concept": "间接引语 — Reported speech",
+          "zh": "学生问是否到了英语课时间。",
+          "note": "间接引语：一般疑问句用 <em>if/whether</em>；时态后移。",
+          "answer": "The student asked if it was time for the English lesson."
+        },
+        "68": {
+          "concept": "关联结构 — Not only … but also",
+          "zh": "父亲觉得手表不仅耐用而且负担得起。",
+          "note": "关联结构 <em>not only … but also</em> 连接并列形容词。",
+          "answer": "Father felt that the watch was not only durable but also affordable."
+        },
+        "69": {
+          "concept": "原因短语 — Due to + noun",
+          "zh": "由于汤姆可靠，他被选为班长。",
+          "note": "因果转换：形容词 → 名词 <em>reliability</em>，用 <em>Due to</em> 引导。",
+          "answer": "Due to his reliability, Tom was selected to be the class monitor."
+        },
+        "70": {
+          "concept": "分词短语 — Having + past participle",
+          "zh": "简忘了带钥匙，进不了家门。",
+          "note": "分词结构：<em>Having + 过去分词</em> 表先前完成的动作。",
+          "answer": "Having forgotten to bring her keys, Jane could not enter her house."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Which word in paragraph 1 shows that the top student always had to maintain the highest grades for six years in order to receive the academic medal?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "State two reasons why the narrator was confident she would receive the academic medal.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q72a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "From lines 7 to 9, which two words suggest that May and her sister were good at sports?",
+          "marks": 2,
+          "interaction": "textarea",
+          "options": [
+            "agile",
+            "careful",
+            "bossy",
+            "athletic",
+            "clumsy",
+            "impatient"
+          ],
+          "max_selections": 2
+        },
+        "74": {
+          "stem_plain": "From paragraph 3, what did Mr Li do that showed he was not comfortable before he spoke to the narrator about the change in the academic medal policy?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "From lines 4 to 17, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) May was the only one in her family to win the academic medal.",
+                "(b) Ling and May had participated in many sports competitions.",
+                "(c) May was the first to be asked to pay for her academic medal."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q75a]",
+                "[Q75c]",
+                "[Q75e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q75b]",
+                "[Q75d]",
+                "[Q75f]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "From lines 26 to 33, explain why May's father believed that she should not have to pay for the academic medal.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Based on the information from the story, fill in the blanks in the following table.",
+          "marks": 3,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "How the narrator felt",
+              "rows": [
+                "Sad",
+                "Nervous",
+                "[Q77c]"
+              ]
+            },
+            "col_2": {
+              "header": "Why the narrator felt this way",
+              "rows": [
+                "May had first learnt the news from Mr Li that she had to pay for the academic",
+                "[Q77b]",
+                "May felt that the School Board's change in its policy was unfair. "
+              ]
+            },
+            "col_3": {
+              "header": "What the narrator did as a result",
+              "rows": [
+                "[Q77a]",
+                "May clasped her hands behind her back as she gathered her courage to ask her father for money.",
+                "May locked herself in the room."
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **this** (line 15)",
+                "(b) **unforeseen expense** (line 18)",
+                "(c) **someone else** (line 23)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q78a]",
+                "[Q78b]",
+                "[Q78c]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the passage.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "May requested for fifteen dollars.",
+            "May completed her final examinations.",
+            "May told Mr Li she would not pay for the academic medal."
+          ]
+        },
+        "80": {
+          "stem_plain": "**\"One's success is not measured by a medal.\"** (line 30) Do you think Mr Li agreed with the above statement? Support your answer with evidence from the text. *End of Booklet B*",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "The village school that I attended carried out a tradition every year. The School",
+          "2": "Board would award an academic medal to the graduating top student with consistent best",
+          "3": "grades in all six years.",
+          "4": "My older sister, Ling, had won it a few years ago and I looked forward to receiving",
+          "5": "it too. I had been the top student for the past five years and I had also scored the highest",
+          "6": "in my sixth year. My parents could hardly make ends meet as the harvests from the farm",
+          "7": "was always limited. Hence, we could not afford the registration fees to participate in sports",
+          "8": "competitions. Therefore, even though Ling and I were very agile and athletic, we could",
+          "9": "never own a sports medal. This was our only chance.",
+          "10": "A week before the graduation ceremony, Mr Li, the principal, called for me. He",
+          "11": "fidgeted apprehensively with the papers on his desk. \"May,\" Mr Li eventually said, \"The",
+          "12": "academic medal has always been free. However, the School Board has changed its policy",
+          "13": "this year. They will charge fifteen dollars to cover the cost of the medal.\" A loud cry",
+          "14": "escaped my throat and I started to sob. Mr Li added with a sigh, \"If you are unable to pay",
+          "15": "for the cost of **this**, I will have no choice but to give it to the next highest scorer. Go home",
+          "16": "and discuss this with your family.\"",
+          "17": "That day, I cried all the way home, thinking of how to ask my father for this",
+          "18": "**unforeseen expense**. I really wanted the medal. It represented six years of my hard work.",
+          "19": "I found him bent over the rice plants in the fields. I was so nervous because I knew our",
+          "20": "family could not afford to spend beyond our means. I clasped my hands behind my back",
+          "21": "so that my father would not see me shaking, \"Father, I have a favour to ask of you. This",
+          "22": "year the academic medal is going to cost fifteen dollars. If I don't bring the money, it will",
+          "23": "be given to **someone else**.\" My last words came out in an eager rush.",
+          "24": "My father looked out tiredly at the field. I waited, hoping he would say that I could",
+          "25": "have the money. He turned and asked me quietly, \"What does the medal mean to you?\"",
+          "26": "I answered a little too quickly without realising the significance of my words, \"It",
+          "27": "means that I have earned the medal by having the highest grades for six years.\"",
+          "28": "It was too late. Father knew I understood that it was not about the money. He",
+          "29": "continued pulling the weeds before he spoke again, \"Then if you pay for it, it means you",
+          "30": "have not earned the medal, does it? One's success is not measured by a medal. Tell",
+          "31": "your principal I will not pay the fifteen dollars.\"",
+          "32": "In anger, I locked myself in the room that night. The Board's decision was",
+          "33": "infuriating. Why did they have to do this just when it was my turn? The issue was so unfair!",
+          "34": "The next day, I dragged myself into the principal's office. I willed myself not to cry",
+          "35": "as I told him of my father's decision. The principal muttered something incomprehensible",
+          "36": "as he stared out of the window. I waited for him. \"Why?\" he finally asked.",
+          "37": "\"My father said it would not be an academic medal if I had to pay for it,\" I struggled",
+          "38": "to reply steadily. I could feel my heart pounding as I tried to maintain my dignity.",
+          "39": "After a long while, Mr Li turned and looked me in the eye, \"Go home, May. I will",
+          "40": "ensure that you receive your medal at no cost. I will also inform the Board.\"",
+          "41": "I hardly believed what I heard. After school, I ran straight to the fields to look for my",
+          "42": "father. He did not ask me anything as I worked next to him. Finally, I stood up and said, \"I",
+          "43": "told Mr Li what you said and he says I'm getting the medal after all.\"",
+          "44": "Father simply smiled as he patted my head."
+        },
+        "paragraphs": {
+          "1": "我就读的那所乡村学校每年都有一个传统：校董会将向在整整六年中始终保持最优异成绩的毕业班顶尖学生颁发一枚学术奖章。",
+          "4": "我的姐姐玲几年前曾获得过这枚奖章，我也一直期待着能得到它。在过去的五年里，我一直是尖子生，而在第六年我的分数也是最高的。由于农场的收成有限，我的父母几乎无法维持生计。因此，我们付不起参加体育比赛的报名费。尽管玲和我都很敏捷且有运动天赋，但我们从未拥有过体育奖牌。这成了我们唯一的机会。",
+          "10": "毕业典礼前一周，校长李先生召见了我。他局促不安地摆弄着办公桌上的文件。他最终说道：“梅，学术奖章一直以来都是免费的。然而，校董会今年改变了政策，他们将收取十五美元来支付奖章的成本。”我不由自主地大叫一声，开始抽泣。李先生叹了口气补充道：“如果你付不起这笔费用，我别无选择，只能把它给分数第二高的学生。回家和你的家人商量一下吧。”",
+          "17": "那天我一路哭着回家，心里盘算着如何向父亲开口要这笔意外的开销。我真的很想要那枚奖章，它代表了我六年的辛勤努力。我发现他正弯腰在田里摆弄秧苗。我非常紧张，因为我知道家里负担不起超出生计的开支。我把双手紧锁在身后，以免父亲看到我在发抖：“爸爸，我想请您帮个忙。今年的学术奖章要花十五美元。如果我不带钱去，它就会给别人了。”我的最后几句话因急促而脱口而出。",
+          "24": "父亲疲惫地望着田野。我等待着，希望他能说我可以拿这笔钱。他转过头平静地问我：“这枚奖章对你意味着什么？”我没意识到这话的深意，回答得有些太快了：“这意味着我是通过六年最高分的成绩赢得了这枚奖章。”一切都太迟了，父亲知道我明白这不只是钱的问题。他在再次开口前继续拔着杂草：“那么如果你付钱买它，就意味着你并没有赢得这枚奖章，不是吗？一个人的成功不是用奖章来衡量的。告诉你的校长，我不会付那十五美元。”",
+          "32": "那天晚上，我愤怒地把自己锁在房间里。校董会的决定令人气愤。为什么偏偏轮到我的时候他们要这么做？这件事太不公平了！",
+          "34": "第二天，我拖着沉重的步子走进校长办公室。当我告诉他父亲的决定时，我强迫自己不要流泪。校长盯着窗外，嘴里嘟囔着一些听不清的话。我等着他。“为什么？”他最后问道。“我父亲说，如果我必须付钱买它，它就不再是学术奖章了，”我努力平稳地回答。当我试图维持自己的尊严时，我能感觉到心在剧烈跳动。过了很久，李先生转过头看着我的眼睛说：“回家吧，梅。我会确保你免费领到奖章。我也会通知校董会。”",
+          "41": "我简直不敢相信自己听到的话。放学后，我直接跑向田里找父亲。当我在他身边干活时，他什么也没问。最后，我站起来说：“我把您说的话告诉了李先生，他说我最终还是能拿到奖章。”父亲只是微微一笑，摸了摸我的头。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "词汇定位题",
+          "note": "<ol><li><strong>题型：</strong>在第一段找一词，说明优等生须六年成绩一贯最高才能得奖章。</li><li><strong>范围：</strong>第 1 段（行 1–3），奖章颁给 <em>consistent best grades in all six years</em>。</li><li><strong>证据：</strong><span class=\"hl-good\">consistent</span> 表“一贯、持续”。</li></ol>",
+          "answer": [
+            "consistent"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>两条理由说明叙述者为何确信能获奖章。</li><li><strong>证据：</strong>行 5–6：过去五年一直是 top student；第六年分数最高。</li><li><strong>书写：</strong>两条各一句，对应 <code>1.</code> / <code>2.</code> 空行。</li></ol>",
+          "answer": {
+            "72a": "The narrator had been the top student for the past five years",
+            "72b": "she had also scored the highest in her sixth year."
+          }
+        },
+        "73": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>题型：</strong>勾选两个词说明梅和姐姐擅长运动。</li><li><strong>证据：</strong>行 8：<em>very agile and athletic</em>，但因穷无法参赛。</li><li><strong>答案：</strong><span class=\"hl-good\">agile</span>、<span class=\"hl-good\">athletic</span>。</li></ol>",
+          "answer": "agile, athletic",
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>问法：</strong>第 3 段中李先生说话前何种举动显示不安。</li><li><strong>证据：</strong>行 11：<em>fidgeted apprehensively with the papers on his desk</em>。</li></ol>",
+          "answer": [
+            "Mr Li fidgeted apprehensively with the papers on his desk before informing the narrator about the change in the academic policy."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>范围：</strong>行 4–17。</li><li><strong>(a) FALSE：</strong>姐姐 Ling 几年前已获奖（行 4–5）。</li><li><strong>(b) FALSE：</strong>家穷付不起体育比赛注册费，并非参加过许多比赛（行 7–8）。</li><li><strong>(c) TRUE：</strong>当年校董会改政策，梅在读六年级（行 12–13）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "False",
+            "75b": "May's elder sister, Ling, had won the academic medal a few years ago",
+            "75c": "False",
+            "75d": "May's parents could hardly make ends meet and could not afford the registration fees to participate in sports competitions",
+            "75e": "True",
+            "75f": "The school board changed its policy that year when May was studying in her sixth year"
+          }
+        },
+        "76": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>行 26–31 父亲的话。</li><li><strong>(a)</strong> 付钱就等于没真正赢得奖章。</li><li><strong>(b)</strong> 成功不以奖章衡量；人可无奖章仍成功。</li></ol>",
+          "answer": [
+            "May's father believed that if she paid for it, she had not earned the medal. May's father believed that one can be successful even without a medal."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>题型：</strong>三行情绪—原因—行动；填空列为空白格。</li><li><strong>悲伤：</strong>行动格可留空或写哭泣后无额外行动。</li><li><strong>紧张：</strong>填买不起、不敢向父亲要钱的原因。</li><li><strong>愤怒：</strong>填认为政策不公；行动为锁门。</li></ol>",
+          "answer": {
+            "77a": "She let out a loud cry and sobbed.",
+            "77b": "May knew that their family could not afford to spend beyond their means.",
+            "77c": "Angry"
+          },
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>左栏词在文中的指称。</li><li><strong>(a) the medal：</strong>学术奖章本身。</li><li><strong>(b) unforeseen expense（行 18）：</strong>十五美元奖章费用。</li><li><strong>(c) someone else（行 23）：</strong>次高分学生。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "the academic medal",
+            "78b": "the fifteen dollars to cover the cost of the medal",
+            "78c": "the second highest scorer"
+          }
+        },
+        "79": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>逻辑：</strong>先完成期末考试 → 再向父亲要十五元 → 最后告诉李先生不付钱。</li><li><strong>答案：</strong><span class=\"hl-good\">2, 1, 3</span>（按事件发生顺序填入三格）。</li></ol>",
+          "answer": [
+            "2, 1, 3"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>问法：</strong>李先生是否同意“成功不以奖章衡量”。</li><li><strong>立场：</strong>是 — 他让梅回家并承诺免费颁奖、通知校董会（行 39–40）。</li><li><strong>证据：</strong>用行动支持父亲观点：奖章不应靠付钱获得。</li></ol>",
+          "answer": [
+            "Yes. Mr Li told May to go home and promised that she would get her medal without paying any money; he would also inform the Board."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

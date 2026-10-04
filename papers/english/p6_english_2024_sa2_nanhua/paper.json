@@ -1,0 +1,1581 @@
+{
+  "paperid": "p6_english_2024_sa2_nanhua",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"I _________ have left my wallet at home. I may need to return home to check,\" muttered Micah, sounding unsure.",
+          "options": {
+            "1": "must",
+            "2": "could",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "2": {
+          "stem_plain": "\"There _________ room for mistakes in this match. I want all of you to stay focused and do your best,\" the coach urged his players.",
+          "options": {
+            "1": "is little",
+            "2": "are few",
+            "3": "is much",
+            "4": "are many"
+          }
+        },
+        "3": {
+          "stem_plain": "Eddie _________ to wash the dishes, but the washing liquid had run out.",
+          "options": {
+            "1": "goes",
+            "2": "is going",
+            "3": "had gone",
+            "4": "would be going"
+          }
+        },
+        "4": {
+          "stem_plain": "Dara was determined to master the dance routine _________ long the training might take.",
+          "options": {
+            "1": "however",
+            "2": "whatever",
+            "3": "wherever",
+            "4": "whenever"
+          }
+        },
+        "5": {
+          "stem_plain": "Mother is worried about Father _________ all night for work, fearing that he might become tired and increase the risk of accidents.",
+          "options": {
+            "1": "drives",
+            "2": "driving",
+            "3": "having driven",
+            "4": "has been driving"
+          }
+        },
+        "6": {
+          "stem_plain": "Neither of the students could find the workbook because Mr Wong had taken _________ to the staff room.",
+          "options": {
+            "1": "it",
+            "2": "her",
+            "3": "him",
+            "4": "them"
+          }
+        },
+        "7": {
+          "stem_plain": "I could tell that Sophia was nervous to go on stage _________ her shaky voice.",
+          "options": {
+            "1": "at",
+            "2": "by",
+            "3": "over",
+            "4": "under"
+          }
+        },
+        "8": {
+          "stem_plain": "\"Elson's been a good role model to his peers. He'll make an excellent class monitor, _________?\" asked Teacher Ming.",
+          "options": {
+            "1": "isn't he",
+            "2": "won't he",
+            "3": "hasn't he",
+            "4": "wouldn't he"
+          }
+        },
+        "9": {
+          "stem_plain": "All the furniture in the classrooms _________ arranged neatly before the school holidays last week.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Keeping to my revision schedule since last term _________ easy, but I will keep on trying,\" I promised myself.",
+          "options": {
+            "1": "is not",
+            "2": "was not",
+            "3": "has not been",
+            "4": "had not been"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "情态动词 — Modal — epistemic possibility (could have + V3)",
+          "zh": "迈卡听起来不太确定，嘀咕道：“我可能把钱包落在家里了。我也许得回家看看。”",
+          "note": "情态动词 (Modal)：不确定的过去推测用 could have done；must have 表几乎断定；should have 多表“本该却未”。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "名词 — There is + little + uncountable noun",
+          "zh": "教练对队员们说：“这场比赛容不得多少差错。我希望大家保持专注、全力以赴。”",
+          "note": "there be 句型中 room（表示空间、余地）不可数，用 is little；few/many 搭配可数复数；much 与句意相反。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "过去完成时 — Past perfect — action before another past state",
+          "zh": "埃迪去洗碗了，但洗洁精已经用完了。",
+          "note": "过去完成时 (Past perfect) 表示“更早的过去”：先去洗，随后发现洗洁精没了；一般现在时与 had run out 时间线不符。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "副词 — Concessive adverb — however + adjective/adverb",
+          "zh": "无论训练要花多长时间，达拉都下定决心把舞蹈练熟。",
+          "note": "让步副词 however 后接形容词或副词，表“无论多么……”；whatever 多接名词短语；wherever/whenever 表地点或时间。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "介词 — Gerund after preposition — worried about + V-ing",
+          "zh": "妈妈担心爸爸为了工作整夜开车，怕他太累、增加出事风险。",
+          "note": "介词 about 后接动名词短语作宾语，表担心的事；不宜直接接谓语动词 drives。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "代词 — Pronoun reference — singular workbook → it",
+          "zh": "两名学生都找不到练习册，因为黄老师已经把它拿到教员室去了。",
+          "note": "代词指代：workbook 为单数事物，用 it；them 需复数先行词；him/her 指人。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "介词 — Preposition — tell by (evidence)",
+          "zh": "听她发抖的声音，我就知道索菲娅上台很紧张。",
+          "note": "固定搭配 tell by 表“凭……看出”；at/over/under 不构成此义。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "反意疑问句 — Question tag — modal will (He'll)",
+          "zh": "“埃尔森一直是同学的好榜样。他会成为出色的班长，对吧？”明老师问道。",
+          "note": "附加疑问句 (Question tag)：He'll = He will，肯定句用 won't he；isn't/hasn't 与 will 不一致。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "被动语态 — Collective / uncountable furniture + passive + past time",
+          "zh": "上周放假前，教室里所有的家具都已摆放整齐。",
+          "note": "furniture 不可数，谓语用单数 was；last week 用过去时；are/were 与标准主谓一致不符。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "现在完成时 — Present perfect — since + duration up to now",
+          "zh": "“从上学期一直坚持复习计划并不容易，但我会继续努力。”我对自己说。",
+          "note": "现在完成时 (Present perfect)：since last term 表示从过去延续至今的状态，用 has not been；had not been 需更早的过去参照。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Eline lacks the _________ of generosity. She rarely offers to share her things or help others in need.",
+          "options": {
+            "1": "virtue",
+            "2": "means",
+            "3": "tradition",
+            "4": "initiative"
+          }
+        },
+        "12": {
+          "stem_plain": "As a school prefect, Lisa ought to be _________ when her close friends were caught disobeying the school rules.",
+          "options": {
+            "1": "direct",
+            "2": "factual",
+            "3": "impartial",
+            "4": "indifferent"
+          }
+        },
+        "13": {
+          "stem_plain": "The new waterproof coating on the bag _________ water, keeping the surface dry even in heavy rain.",
+          "options": {
+            "1": "repels",
+            "2": "retains",
+            "3": "reduces",
+            "4": "releases"
+          }
+        },
+        "14": {
+          "stem_plain": "\"It is important to _________ your options carefully when you choose your secondary school,\" the principal reminded.",
+          "options": {
+            "1": "think up",
+            "2": "think for",
+            "3": "think over",
+            "4": "think back to"
+          }
+        },
+        "15": {
+          "stem_plain": "Every surface in the _________ clean kitchen was shining, with not a single speck of dust in sight.",
+          "options": {
+            "1": "barely",
+            "2": "widely",
+            "3": "radiantly",
+            "4": "spotlessly"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "伊琳缺乏慷慨这一美德，很少主动分享物品或帮助有需要的人。",
+          "note": "应选（1）'virtue'：与 generosity 搭配，指'美德、高尚品质'。'means'义为'方法；手段；财力'：不能作'慷慨这种品质'的名词。'tradition'义为'传统'：与句意不符。'initiative'义为'主动性'：并非 generosity 的同位品质名。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — virtue（美德；高尚品质）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "virtue",
+              "zh": "美德；高尚品质",
+              "eg": "Honesty is a <strong>virtue</strong> that every pupil should practise daily."
+            },
+            {
+              "opt": "2",
+              "word": "means",
+              "zh": "方法；手段；财力",
+              "eg": "The charity raised enough <strong>means</strong> to build a new reading corner."
+            },
+            {
+              "opt": "3",
+              "word": "tradition",
+              "zh": "传统；惯例",
+              "eg": "It is a school <strong>tradition</strong> to sing the anthem on Monday mornings."
+            },
+            {
+              "opt": "4",
+              "word": "initiative",
+              "zh": "主动性；首创精神",
+              "eg": "The prefect showed <strong>initiative</strong> by starting a recycling drive."
+            }
+          ]
+        },
+        "12": {
+          "zh": "身为级长，丽莎在密友违反校规被抓时也应保持公正。",
+          "note": "应选（3）'impartial'：级长对朋友须'公正、不偏袒'。'direct'义为'直率'：非公平处事。'factual'义为'基于事实'：未表达不偏私。'indifferent'义为'漠不关心'：与级长职责不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — impartial（公正的；不偏不倚的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "direct",
+              "zh": "直率的；直接的",
+              "eg": "The coach gave us <strong>direct</strong> feedback after the match."
+            },
+            {
+              "opt": "2",
+              "word": "factual",
+              "zh": "基于事实的；如实的",
+              "eg": "Write a <strong>factual</strong> report without exaggeration."
+            },
+            {
+              "opt": "3",
+              "word": "impartial",
+              "zh": "公正的；不偏不倚的",
+              "eg": "The judge remained <strong>impartial</strong> even when her cousin was on trial."
+            },
+            {
+              "opt": "4",
+              "word": "indifferent",
+              "zh": "漠不关心的；冷淡的",
+              "eg": "He seemed <strong>indifferent</strong> to whether we won or lost."
+            }
+          ]
+        },
+        "13": {
+          "zh": "包上新的防水涂层能排斥水分，即使大雨表面也保持干燥。",
+          "note": "应选（1）'repels'：防水涂层应'排斥'水。'retains'义为'保留'：会令包吸水。'reduces'义为'减少'：不能表达驱水。'releases'义为'释放'：与保持干燥相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — repels（排斥；击退（液体））",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "repels",
+              "zh": "排斥；击退（液体）",
+              "eg": "The wax coating <strong>repels</strong> raindrops from the jacket."
+            },
+            {
+              "opt": "2",
+              "word": "retains",
+              "zh": "保留；保持",
+              "eg": "This sponge <strong>retains</strong> water for a long time."
+            },
+            {
+              "opt": "3",
+              "word": "reduces",
+              "zh": "减少；降低",
+              "eg": "Carpooling <strong>reduces</strong> traffic during the morning rush."
+            },
+            {
+              "opt": "4",
+              "word": "releases",
+              "zh": "释放；放出",
+              "eg": "The dam <strong>releases</strong> water into the river each evening."
+            }
+          ]
+        },
+        "14": {
+          "zh": "校长提醒道：'选中学时，仔细斟酌各种选择很重要。'",
+          "note": "应选（3）'think over'：选校前须'仔细考虑'选项。'think up'义为'想出'：非斟酌已有选项。'think for'：此处非标准搭配，不能表达'仔细考虑选项'。'think back to'义为'回想起'：针对过去，非当下抉择。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — think over（仔细考虑；斟酌）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "think up",
+              "zh": "想出；编造",
+              "eg": "Can you <strong>think up</strong> a catchy title for our project?"
+            },
+            {
+              "opt": "2",
+              "word": "think for",
+              "zh": "为……思考",
+              "eg": "Parents often <strong>think for</strong> their young children."
+            },
+            {
+              "opt": "3",
+              "word": "think over",
+              "zh": "仔细考虑；斟酌",
+              "eg": "Take a night to <strong>think over</strong> the offer before you sign."
+            },
+            {
+              "opt": "4",
+              "word": "think back to",
+              "zh": "回想起",
+              "eg": "She liked to <strong>think back to</strong> her first day in Primary One."
+            }
+          ]
+        },
+        "15": {
+          "zh": "厨房里每一处表面都闪闪发亮，一尘不染，见不到一点灰尘。",
+          "note": "应选（4）'spotlessly'：与 clean 搭配表'一尘不染'。'barely'义为'几乎不'：与'处处发亮'矛盾。'widely'义为'广泛地'：不修饰洁净程度。'radiantly'义为'灿烂地'：不能作 spotlessly clean 的同等搭配。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — spotlessly（一尘不染地；极其洁净地）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "barely",
+              "zh": "几乎不；勉强",
+              "eg": "We could <strong>barely</strong> hear the speaker over the noise."
+            },
+            {
+              "opt": "2",
+              "word": "widely",
+              "zh": "广泛地；普遍地",
+              "eg": "The news spread <strong>widely</strong> across the island."
+            },
+            {
+              "opt": "3",
+              "word": "radiantly",
+              "zh": "灿烂地；容光焕发地",
+              "eg": "The bride smiled <strong>radiantly</strong> at her guests."
+            },
+            {
+              "opt": "4",
+              "word": "spotlessly",
+              "zh": "一尘不染地；极其洁净地",
+              "eg": "The pupils kept the science lab <strong>spotlessly</strong> clean after each lesson."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "collaborating",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "siding",
+            "2": "conspiring",
+            "3": "partnering",
+            "4": "associating"
+          }
+        },
+        "17": {
+          "stem_plain": "counter measures",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "defenses",
+            "2": "restraints",
+            "3": "corrections",
+            "4": "safeguards"
+          }
+        },
+        "18": {
+          "stem_plain": "strategic",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "visible",
+            "2": "critical",
+            "3": "attractive",
+            "4": "noticeable"
+          }
+        },
+        "19": {
+          "stem_plain": "go over",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "search",
+            "2": "identify",
+            "3": "monitor",
+            "4": "examine"
+          }
+        },
+        "20": {
+          "stem_plain": "sooner or later",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "easily",
+            "2": "promptly",
+            "3": "eventually",
+            "4": "consequently"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The police reported a 25% increase in shop theft in the first half of 2023. Commonly stolen items included food, alcoholic drinks, clothes, accessories and cosmetics. In response, the police have been [Q16 (collaborating)] with shop owners. Together, they came up with [Q17 (counter measures)] such as displaying theft warning signs at [Q18 (strategic)] places where most people can see and installing high-definition cameras with facial identification software within the retail premise. With the increased use of technology, the police can now [Q19 (go over)] footages more effectively to track the shoplifters. They reassured the public that the shoplifters will be arrested [Q20 (sooner or later)]. If convicted of theft, the offender can be jailed for up to seven years and fined."
+        ],
+        "zh": [
+          "警方通报，2023年上半年商店盗窃案上升25%。常被偷的物品包括食品、酒类、衣物、配饰和化妆品。为此，警方一直与店主合作，共同提出对策，例如在显眼位置张贴防盗警示，并在零售场所安装带面部识别软件的高清摄像头。随着科技使用增加，警方现在能更有效地查看监控录像追踪窃贼。他们向公众保证，窃贼迟早会被逮捕。若盗窃罪成立，罪犯最高可判七年监禁并罚款。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — collaborating（近义辨析）",
+          "note": "应选（3）'partnering'：短文划线的 <em>collaborating</em> 在此语境下与此义最接近。'siding'：与题干语境或搭配要求不一致。'conspiring'：与题干语境或搭配要求不一致。'associating'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "为此，警方一直与店主合作。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "siding",
+              "zh": "席德",
+              "eg": "The team kept <strong>siding</strong> until the task was done."
+            },
+            {
+              "opt": "2",
+              "word": "conspiring",
+              "zh": "密谋",
+              "eg": "The team kept <strong>conspiring</strong> until the task was done."
+            },
+            {
+              "opt": "3",
+              "word": "partnering",
+              "zh": "伙伴",
+              "eg": "The team kept <strong>partnering</strong> until the task was done."
+            },
+            {
+              "opt": "4",
+              "word": "associating",
+              "zh": "助理",
+              "eg": "The team kept <strong>associating</strong> until the task was done."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — counter measures（近义辨析）",
+          "note": "应选（4）'safeguards'：短文划线的 <em>counter measures</em> 在此语境下与此义最接近。'defenses'：与题干语境或搭配要求不一致。'restraints'：与题干语境或搭配要求不一致。'corrections'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "他们共同提出对策，例如在显眼位置张贴防盗警示。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "defenses",
+              "zh": "防御工事，防卫手段（指用来抵御敌人、攻击、疾病或批评的具体保护性结构、法律反驳或身体抵抗机制）",
+              "eg": "The ancient city built heavy stone walls as defenses to protect its residents from sudden enemy invasions."
+            },
+            {
+              "opt": "2",
+              "word": "restraints",
+              "zh": "克制，约束装置（指控制、阻止某人或某物自由行动的物理安全带、绳索，或在行为、财务上面临的限制）",
+              "eg": "The angry passenger had to be placed under physical restraints by the flight crew after attacking the flight attendants."
+            },
+            {
+              "opt": "3",
+              "word": "corrections",
+              "zh": "更正，批改；惩罚（指对作业、文字、数据中出现的差错进行修改，或者对犯错人员进行管教和改造的行为）",
+              "eg": "The English teacher used a red pen to mark the necessary corrections on the students' creative writing assignments."
+            },
+            {
+              "opt": "4",
+              "word": "safeguards",
+              "zh": "安全预防措施，保障（指为了防范潜在危险、欺诈、经济损失或系统漏洞而刻意制定的法规、系统或防御性对抗措施）",
+              "eg": "The online banking application implemented strict cybersecurity safeguards to prevent hackers from stealing customer account details."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — strategic（近义辨析）",
+          "note": "应选（2）'critical'：短文划线的 <em>strategic</em> 在此语境下与此义最接近。'visible'：与题干语境或搭配要求不一致。'attractive'：与题干语境或搭配要求不一致。'noticeable'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "并在零售场所安装带面部识别软件的高清摄像头。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "visible",
+              "zh": "可见的",
+              "eg": "The speaker chose <strong>visible</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "2",
+              "word": "critical",
+              "zh": "批判的",
+              "eg": "In class we discussed how <strong>critical</strong> fits everyday English."
+            },
+            {
+              "opt": "3",
+              "word": "attractive",
+              "zh": "吸引人的",
+              "eg": "In class we discussed how <strong>attractive</strong> fits everyday English."
+            },
+            {
+              "opt": "4",
+              "word": "noticeable",
+              "zh": "显",
+              "eg": "The speaker chose <strong>noticeable</strong> to match the tone of the passage."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — go over（近义辨析）",
+          "note": "应选（4）'examine'：短文划线的 <em>go over</em> 在此语境下与此义最接近。'search'：与题干语境或搭配要求不一致。'identify'：与题干语境或搭配要求不一致。'monitor'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "随着科技使用增加，警方现在能更有效地查看监控录像追踪窃贼。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "search",
+              "zh": "搜索",
+              "eg": "The speaker chose <strong>search</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "2",
+              "word": "identify",
+              "zh": "确认",
+              "eg": "The pupils found the word <strong>identify</strong> useful in their composition."
+            },
+            {
+              "opt": "3",
+              "word": "monitor",
+              "zh": "监视器",
+              "eg": "The pupils found the word <strong>monitor</strong> useful in their composition."
+            },
+            {
+              "opt": "4",
+              "word": "examine",
+              "zh": "检查",
+              "eg": "In class we discussed how <strong>examine</strong> fits everyday English."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — sooner or later（近义辨析）",
+          "note": "应选（3）'eventually'：短文划线的 <em>sooner or later</em> 在此语境下与此义最接近。'easily'：义为'容易地'，与短文语境或搭配要求不一致。'promptly'：与题干语境或搭配要求不一致。'consequently'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "他们向公众保证，窃贼迟早会被逮捕。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "easily",
+              "zh": "易西地",
+              "eg": "She answered <strong>easily</strong> before the bell rang."
+            },
+            {
+              "opt": "2",
+              "word": "promptly",
+              "zh": "迅速地",
+              "eg": "She answered <strong>promptly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "eventually",
+              "zh": "最终；终于",
+              "eg": "She was nervous at first but <strong>eventually</strong> enjoyed the camp."
+            },
+            {
+              "opt": "4",
+              "word": "consequently",
+              "zh": "结果地",
+              "eg": "She answered <strong>consequently</strong> before the bell rang."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "In the first paragraph, which word best describes language as comprising many different parts?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "verbal",
+            "2": "spoken",
+            "3": "complex",
+            "4": "immense"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the section \"Have you heard of the Kristang language?\", what makes the Kristang language \"critically endangered\"?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Singaporeans have not heard of the language.",
+            "2": "It is a unique heritage language spoken in Singapore.",
+            "3": "Fewer than 100 people in Singapore speak the language.",
+            "4": "There is a need for Singaporeans to preserve the language."
+          }
+        },
+        "23": {
+          "stem_plain": "According to the section \"Why keep a rarely used language?\", preserving languages is important for the following reasons except _________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to provide a sense of belonging",
+            "2": "to reflect the inner workings of a community",
+            "3": "to pass traditions from one generation to the next",
+            "4": "to help different communities connect with one another"
+          }
+        },
+        "24": {
+          "stem_plain": "Mrs Tan, a mother of two, wants to play a part in preserving languages. She can do so by _________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "learning heritage languages that interest her",
+            "2": "letting her children engage in cultural activities",
+            "3": "using her heritage language every once in a while",
+            "4": "urging her friends to take interesting classes with her"
+          }
+        },
+        "25": {
+          "stem_plain": "Why is the colon (:) used in \"Choose from a variety of languages offered:\"?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to rank the choice of languages",
+            "2": "to indicate a wide variety of languages",
+            "3": "to signal the start of a list of languages",
+            "4": "to give a summary of languages offered"
+          }
+        },
+        "26": {
+          "stem_plain": "Mr Li and his 9-year-old child want to take language classes on the same day. What can they do?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They can take Kristang B3 together.",
+            "2": "Mr Li can take Tamil B3 while his child takes Teochew B1.",
+            "3": "Mr Li can take Hokkien B3 while his child takes Baba Hokkien B1.",
+            "4": "Mr Li can take Baba Malay B3 while his child takes Baba Malay B1."
+          }
+        },
+        "27": {
+          "stem_plain": "Which statement is true about the language classes?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Registration must be done at www.nlc.sg.",
+            "2": "The fees for the three types of classes are different.",
+            "3": "The classes will be held at National Languages Centre.",
+            "4": "Students must attend the classes for seven days a week."
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this website?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to attract readers to take heritage language classes",
+            "2": "to spread knowledge of Singapore's heritage languages",
+            "3": "to encourage readers to preserve their heritage languages",
+            "4": "to provide registration details about heritage language classes"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        },
+        "27": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "D": "how",
+          "G": "it",
+          "K": "of",
+          "N": "to",
+          "B": "are",
+          "E": "in",
+          "H": "its",
+          "L": "since",
+          "P": "up",
+          "C": "can",
+          "F": "is",
+          "J": "may",
+          "M": "so",
+          "Q": "with"
+        },
+        "cloze": [
+          "Culture is our way of life. We display culture through our values, beliefs, customs, religious practices, languages, food, clothes, architecture and even [Q29] we interact with each other. For example, we [Q30] be able to identify a group of Japanese when we observe members bowing respectfully to each other in greeting; [Q31] bowing in Japanese culture is a sign of respect [Q32] countries with long histories have patterns of behaviour rooted within their social group [Q33] that when they have new members, these patterns of behaviour are automatically taught to them and accepted. Unfortunately, not all behaviour patterns [Q34] legal or civil. In some cultures, forced marriages of children occur because unwed girls may be viewed as a disgrace and a burden [Q35] their family. In societies that enforce [Q36] legal minimum age for marriage, child marriages are clearly regarded as unacceptable.",
+          "Culture evolves with globalisation, migration, and technology. As societies interact more, they exchange ideas and norms. Some societies strive to keep [Q37] with technology while others find it hard to balance tradition [Q38] modern ideas. This reflects the dynamic nature of human societies in an ever-changing world."
+        ],
+        "zh": [
+          "文化是我们的生活方式。 我们通过价值观、信仰、习俗、宗教实践、语言、饮食、服饰、建筑，甚至彼此互动的方式展现文化。 例如，当我们看到日本人互相恭敬鞠躬问候时，便能辨认出这一群体；在日本文化中，鞠躬是尊重的象征。 历史悠久的国家在其社会群体中有根深蒂固的行为模式，新成员加入时这些模式会自动传授并被接受。 不幸的是，并非所有行为模式都合法或文明。 在某些文化中，儿童被迫结婚，因为未婚女孩可能被视为耻辱和家庭的负担。 在设有法定最低结婚年龄的社会，童婚显然不可接受。",
+          "文化随全球化、移民和技术而演变。 社会交往越多，越会交流思想与规范。 一些社会努力与技术保持同步，另一些则难以在传统与现代观念之间取得平衡。 这反映了在不断变化的世界中人类社会的动态本质。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "关系/连接词 — how",
+          "note": "food, clothes, architecture and even how we interact with each other. = 定语/名词性从句 → how。",
+          "answer": "D — how"
+        },
+        "30": {
+          "concept": "情态 — can",
+          "note": "For example, we can be able to identify a = 情态动词 can。",
+          "answer": "C — can"
+        },
+        "31": {
+          "concept": "指示/所有格 — its",
+          "note": "结合句意选 its。",
+          "answer": "H — its"
+        },
+        "32": {
+          "concept": "原因 — since",
+          "note": "结合句意选 since。",
+          "answer": "L — since"
+        },
+        "33": {
+          "concept": "连词 — so",
+          "note": "句间逻辑 → so。",
+          "answer": "M — so"
+        },
+        "34": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Unfortunately, not all behaviour patterns are legal or civil. = 主谓一致 → are。",
+          "answer": "B — are"
+        },
+        "35": {
+          "concept": "介词 — to",
+          "note": "a disgrace and a burden to their family. = 看前后搭配，选 to。",
+          "answer": "N — to"
+        },
+        "36": {
+          "concept": "冠词 — a",
+          "note": "In societies that enforce a legal minimum age for marriage, = 冠词/限定词 a。",
+          "answer": "A — a"
+        },
+        "37": {
+          "concept": "介词 — up",
+          "note": "Some societies strive to keep up with technology while others find = 看前后搭配，选 up。",
+          "answer": "P — up"
+        },
+        "38": {
+          "concept": "介词 — with",
+          "note": "看前后搭配，选 with。",
+          "answer": "Q — with"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Jordan was finally embarking on his long-awaited camping trip. As he arrived at the [Q39(seclueded)] campsite, he realised that he had the entire place to himself. It was the perfect opportunity to set up his tent for the first time. He felt a surge of thrill at the adventure [Q40(awaits)] him. However, he didn't realise the difficulties that [Q41(lie)] ahead.",
+          "That night, a sudden storm blew [Q42(on)] , uprooting his tent and exposing him to rain and chilling winds. Despite being sheltered by a nearby tree, he was soaked and shivering [Q43(unncontrolably)] , quickly falling ill.",
+          "As dawn broke, Jordan tried to make his way back to the main road. However, his condition [Q44(deteriated)] and he collapsed. A passing hiker found him lying by the trail, and [Q45(immidately)] called for help. Jordan was rushed to the hospital, [Q46(which)] doctors treated him, but his recovery was slow, and he remained weak.",
+          "Meanwhile, his family had reported him missing to the police. A search team was sent out, [Q47(so)] no trace of Jordan was found for days. The family grew anxious, fearing the [Q48(worse)] . Finally, a breakthrough came when a nurse [Q49(reconiced)] Jordan from a missing person's poster at the hospital. She contacted the [Q50(authouritis)] , and his family was alerted. They rushed to his side, overjoyed to see him alive."
+        ],
+        "zh": [
+          "乔丹终于踏上了期盼已久的露营之旅。抵达僻静的营地时，他才发现整片营地只有自己一人。这正是他第一次搭帐篷的绝佳机会。想到即将展开的冒险，他一阵兴奋。然而，他并未意识到前方会有多少困难。",
+          "当晚，暴风雨骤然袭来，掀翻了他的帐篷，让他暴露在雨中和刺骨的寒风中。尽管有附近树木遮挡，他还是湿透并不停颤抖，很快病倒了。",
+          "黎明时分，乔丹试图回到主路。然而，他的情况恶化，最终倒下。一名路过的徒步者发现他在小径旁，立即呼叫救援。乔丹被紧急送往医院，医生为他治疗，但康复缓慢，他仍然虚弱。",
+          "与此同时，家人向警方报案说他失踪。搜救队出动，但数日找不到乔丹的踪迹。家人越来越焦虑，担心最坏的情况。终于，一名护士从医院里的寻人海报上认出了乔丹，联系了当局，家人得到通知。他们急忙赶到他身边，欣喜若狂地看到他活着。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "secluded"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "awaiting"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "lay"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "in"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "uncontrollably"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "deteriorated"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "immediately"
+        },
+        "46": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "where"
+        },
+        "47": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "but"
+        },
+        "48": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "worst"
+        },
+        "49": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "recognised"
+        },
+        "50": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "authorities"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Skating on Wheels — A Healthy and Fun Sport",
+          "Looking for a fun and engaging way to stay fit? Skating on wheels is a sport which attracts people of [Q51] ages and backgrounds, from young children to the elderly. It helps you stay active and keep your body [Q52] shape.",
+          "Skating engages various muscle groups, [Q53] those in the legs and core. It is a great aerobic exercise that [Q54] your heart pumping and boosts blood circulation. Skating regularly can contribute to a healthier circulatory system, cutting down the [Q55] of heart disease.",
+          "Skating also challenges your body awareness and stability by requiring you to maintain balance and coordination [Q56] in motion. It involves a range of motions [Q57] bending, twisting, and flexing the joints, which promotes joint flexibility and mobility as you glide and manoeuvre on skates. As a low-impact exercise, skating puts less stress on your joints [Q58] running or jumping. This makes it an [Q59] exercise for individuals with joint pain, providing a workout without excessive joint strain.",
+          "Besides its physical advantages, skating is [Q60] good for your mental health. The concentration [Q61] to maintain the continuous motion during skating helps clear your mind and promote relaxation.",
+          "Whether you are enjoying skating indoors at a rink or [Q62] on suitable pavements, remember to wear appropriate [Q63] gear, such as helmets, knee pads and elbow pads, to protect [Q64] from injuries. Additionally, start with a warm-up routine before skating to prepare your muscles for activity and prevent strains or pulls.",
+          "Overall, skating offers an extensive [Q65] of health benefits. So, take up skating if you have not tried this fun activity!"
+        ],
+        "zh": [
+          "轮滑——健康有趣的运动",
+          "想找个有趣又能强身健体的办法吗？轮滑吸引不同年龄与背景的人，从幼童到长者都有；它能让你保持活力、维持良好体态。",
+          "轮滑会调动多组肌肉，包括腿部与核心肌群。这是一项很好的有氧运动，能让心脏持续跳动、促进血液循环；经常滑轮滑有助于循环系统更健康，降低患心脏病的风险。",
+          "轮滑还考验身体觉察与平衡，要求你在运动中保持协调。动作包括弯曲、扭转、活动关节等，有助于关节灵活；作为低冲击运动，它对关节的压力小于跑步或跳跃，因此很适合关节疼痛者，能在不过度劳损关节的情况下锻炼。",
+          "除身体益处外，轮滑对心理健康也有好处。滑行时维持连续动作所需的专注，有助于清空思绪、放松身心。",
+          "无论在室内冰场还是户外合适的路面滑行，都要佩戴头盔、护膝、护肘等合适护具，以免受伤。滑前先做热身，让肌肉为活动做好准备，预防拉伤。",
+          "总之，轮滑带来广泛的健康益处。若你还没试过这项有趣活动，不妨开始吧！"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "形容词修饰",
+          "note": "修饰复数名词 ages。指轮滑吸引着来自“不同”、“所有”或“各种各样”年龄层和背景的人群，填入形容词 different / all / various / many 均可。",
+          "answer": "different/all/various/many"
+        },
+        "52": {
+          "concept": "固定习惯搭配",
+          "note": "后面紧跟名词 shape，完美契合日常健美语境中的极高频固定地道搭配 keep your body in shape，意思是保持健康的“体态”或“身材”。",
+          "answer": "in"
+        },
+        "53": {
+          "concept": "现在分词/介词引导列举",
+          "note": "用于引出具体的腿部和核心肌群例子，表示“包括（including）”这些部位。若填入介词 like 或是与 such 连用的 such as 在语意上也通顺。",
+          "answer": "including/like/such"
+        },
+        "54": {
+          "concept": "主谓一致与动词短语",
+          "note": "由关系代词 that 引导的定语从句修饰先行词 an aerobic exercise（单数第三人称）。后接名词和现在分词（your heart pumping），构成 keeps your heart pumping 结构，表示“让你的心脏持续跳动”。",
+          "answer": "keeps"
+        },
+        "55": {
+          "concept": "安全健康语境下的名词搭配",
+          "note": "通常与后面的介词 of 连用，构成健康科普文中的高频习惯搭配 cutting down the risk of heart disease 或者是 chance / danger，意为“降低患心脏病的风险”。",
+          "answer": "risk/chance/danger"
+        },
+        "56": {
+          "concept": "连词引导省略从句",
+          "note": "后接介词短语 in motion（在运动中）。强调在滑行的“同时”或者“当……时”需要维持平衡与协调，填入时间连词 while / when 或者是并列代词 structures。",
+          "answer": "while/when"
+        },
+        "57": {
+          "concept": "举例列举引导词",
+          "note": "后文具体列举了弯曲、扭转和伸展关节等一系列动作。填入 like 或者是与 such 连用构成 such as 均可，表示“例如”。",
+          "answer": "like/such"
+        },
+        "58": {
+          "concept": "比较级句型结构",
+          "note": "前面有比较级限制词 less stress on your joints，与之呼应并构成对比的必然是比较连词 than，用来指代轮滑对关节的压力“小于”跑步或跳跃。",
+          "answer": "than"
+        },
+        "59": {
+          "concept": "形容词搭配与特征定性",
+          "note": "前面有不定冠词 an，后接元音开头的形容词。用来形容轮滑是一项针对有关节疼痛人群非常“理想的”、“优秀的”或“合适的”运动（ideal / excellent / appropriate）。",
+          "answer": "ideal/excellent/appropriate"
+        },
+        "60": {
+          "concept": "副词递进逻辑衔接",
+          "note": "段落开头用 Besides 进行了物理益处的收尾。此处指轮滑对心理健康“也（also）”同样有好处，用来承上启下递进语意。",
+          "answer": "also"
+        },
+        "61": {
+          "concept": "过去分词短语作后置定语",
+          "note": "后接动词不定式符号 to maintain。修饰前面的主语名词 concentration，表示滑行过程中“所需要（required / needed）”的专注度，需填入过去分词形式。",
+          "answer": "required/needed"
+        },
+        "62": {
+          "concept": "语意反义对比副词",
+          "note": "与前半句的 indoors at a rink（在室内的溜冰场）通过并列连词 or 形成鲜明的空间对比。指在合适的便道等“室外”或“户外”滑行，故填 outdoors。",
+          "answer": "outdoors"
+        },
+        "63": {
+          "concept": "名词修饰复合结构",
+          "note": "修饰后面的名词 gear（装备）。后文列举了头盔、护膝和护肘，说明这些都属于“防护/安全”装备或者是“轮滑”装备，构成 safety gear 或者是 skating gear 复合名词。",
+          "answer": "safety/skating"
+        },
+        "64": {
+          "concept": "反身代词视角一致",
+          "note": "整篇文章都在采用第二人称 you（你）与读者直接对话。在此处构成固定搭配 protect yourself from injuries，表示保护“你自己”免受伤害。",
+          "answer": "yourself"
+        },
+        "65": {
+          "concept": "量词习惯短语搭配",
+          "note": "前面有表示修饰的形容词 extensive，与前面的不定冠词 an 连用。完美契合高频数量短语 an extensive range of... 或者是 variety / list，意为“广泛的一系列健康益处”。",
+          "answer": "range/variety/list"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Josh asked Mr Ng, \"Did you go to Sentosa during the June holidays?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Josh asked Mr Ng __________."
+        },
+        "67": {
+          "stem_plain": "Both of the books were unavailable at the library.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Neither of __________."
+        },
+        "68": {
+          "stem_plain": "Shawn announced that he had won an award.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Shawn made __________."
+        },
+        "69": {
+          "stem_plain": "The bell rang. The students rushed out of the classroom.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No sooner __________."
+        },
+        "70": {
+          "stem_plain": "Bella completed the marathon. She felt tired halfway through.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ **despite her** __________."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "间接引语 — Reported speech (yes/no question)",
+          "zh": "乔希问黄老师他是否在六月假期去了圣淘沙。",
+          "note": "间接引语：<em>Did you go …?</em> → <em>if he had gone …</em>；<em>June holidays</em> 保留。",
+          "answer": "Josh asked Mr Ng if he had gone to Sentosa during the June holidays."
+        },
+        "67": {
+          "concept": "关联结构 — Neither of + plural noun",
+          "zh": "这两本书在图书馆都借不到。",
+          "note": "关联结构：<em>Both … were unavailable</em> → <em>Neither of the books was available</em>；谓语用单数 <em>was</em>。",
+          "answer": "Neither of the books was available at the library."
+        },
+        "68": {
+          "concept": "名词化 — Verb → noun (announcement)",
+          "zh": "肖恩宣布他获奖了。",
+          "note": "名词化：<em>announced</em> → <em>made the announcement that …</em>；同位语从句保留获奖内容。",
+          "answer": "Shawn made the announcement that he had won an award."
+        },
+        "69": {
+          "concept": "时间连词 — No sooner … than",
+          "zh": "铃一响，学生们就冲出了教室。",
+          "note": "时间连词：<em>No sooner had the bell rung than …</em> 倒装；两动作紧接发生。",
+          "answer": "No sooner had the bell rung than the students rushed out of the classroom."
+        },
+        "70": {
+          "concept": "让步结构 — Despite + gerund phrase",
+          "zh": "尽管贝拉中途感到疲倦，她还是跑完了马拉松。",
+          "note": "让步结构：<em>Despite her feeling tired halfway through</em>；主句 <em>Bella completed the marathon</em>。",
+          "answer": "Bella completed the marathon despite her feeling tired halfway through."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "According to Mr Lee, what was the main objective of the recycling project?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Why was Lucy interested in the project?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Lucy \"**hesitated**\" (line 15) before responding to Max's request. What caused her hesitation?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "She wanted to [Q73a]."
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "She did not want to [Q73b]."
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Refer to line 17. (a) Circle the adjective that best describes Max's feeling. regretful / disappointed / relieved (b) What led him to feel that way?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **image** (line 7)",
+                "(b) **it** (line 14)",
+                "(c) **design concept** (line 28)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]",
+                "[Q75c]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Based on lines 18–30, state whether each statement in the table below is **true** or **false**, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Lucy faced difficulties in coming up with a design for the recycling project.",
+                "(b) Max had known Lucy to be a cheerful person.",
+                "(c) Lucy planned to ask Max to be her project partner."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]",
+                "[Q76e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]",
+                "[Q76f]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Pick out two separate phrases to show the students responded positively to the idea of environmental sustainability projects.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1"
+            ],
+            "col_1": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) two-word phrase from lines 1–5: [Q77a]",
+                "(b) five-word phrase from lines 36–42: [Q77b]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "List two features of Lucy and Max's recycling bin that helped in reinforcing their message of creating a litter-free world. The recycling bin had —",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q78a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q78b]"
+            }
+          ]
+        },
+        "79": {
+          "stem_plain": "Lucy and Max's classmates were \"**impressed with**\" (line 37) their project. Was Mr Lee similarly impressed? What information in the text tells you so?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "In line 42, Lucy realised that \"**Real change requires collective effort, and many hands make light work.**\" Give two separate instances from the text that had led Lucy to think so.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "\"real change requires collective effort\": [Q80a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "\"many hands make light work\": [Q80b]"
+            }
+          ]
+        }
+      },
+      "passages": {
+        "title": "Passage — *A Class Recycling Project*",
+        "lines": {
+          "1": "\"Our class recycling project will start next week. You can choose to do it alone or",
+          "2": "in pairs,\" Mr Lee, our science teacher, announced. \"Your goal is to design a recycling",
+          "3": "corner that will increase recycling rates in our classroom. The best idea will be adopted",
+          "4": "schoolwide.\" The classroom erupted into enthusiastic chatter as students began",
+          "5": "choosing their partners and started their discussions.",
+          "6": "Being a nature and animal lover, Lucy's interest was piqued. Momentarily, she",
+          "7": "imagined birds and fish thriving in an environment free of plastic pollution—an image",
+          "8": "inspired by hours of observing the wildlife at the lake she frequented. \"The first step",
+          "9": "toward a plastic-free habitat is forming the habit of recycling,\" she thought. \"I'm sure I",
+          "10": "can come up with a brilliant idea for the project!\" Her daydreaming was interrupted by a",
+          "11": "light tap from her best friend, Max.",
+          "12": "\"Do you still have that book on recycling? I'm sure there are many helpful tips that",
+          "13": "we could use for this project. Shall we work on this together?\" Max inquired expectantly.",
+          "14": "Lucy recalled having read the library book the previous night and placing it on",
+          "15": "her bedside table. \"Um...\" she hesitated, \"I returned it this morning... and I'm thinking",
+          "16": "of working on this project alone.\"",
+          "17": "\"Oh, I see,\" Max mumbled and walked away with his shoulders drooped.",
+          "18": "The next day, Lucy started working on her project. She had a unique concept for",
+          "19": "the recycling bin but struggled to construct it. The design required a standard of",
+          "20": "workmanship that was simply beyond her capability. Frustrated, she went for a walk",
+          "21": "downstairs.",
+          "22": "At that same time, Max saw Lucy trudging along, looking downcast and sighing.",
+          "23": "He called, \"Lucy?\" She looked up, surprised to find Max there. He had never seen her",
+          "24": "behaving like that before. \"What happened?\" he asked gently. Guilt-ridden, she",
+          "25": "confessed to lying about the book and apologised sincerely. Max forgave her readily.",
+          "26": "\"You're so good at handicrafts and using tools, unlike me!\" Lucy lamented.",
+          "27": "\"Well, if you need a partner, all you have to do is ask!\" Max replied with a twinkle",
+          "28": "in his eye. She did so, then excitedly described her **design concept** of the recycling bin.",
+          "29": "\"Cool! I like the idea of interactive features to inform users about environmental issues!\"",
+          "30": "Max chirped.",
+          "31": "Over the week, the pair worked tirelessly to build their recycling bin. They included",
+          "32": "sections for different types of materials and added sensors that would light up when an",
+          "33": "item was correctly sorted. A robotic voice would read out updates on the progress of the",
+          "34": "environmental efforts by various activist groups. They painted the bin with vibrant images",
+          "35": "of nature, showing a litter-free world to emphasise their message.",
+          "36": "Lucy and Max's hard work paid off. On presentation day, their classmates were",
+          "37": "impressed with their interactive recycling bin. Instantly, Mr Lee decided to nominate",
+          "38": "their project for the annual Environmental Innovation Award. He also commended the",
+          "39": "class for their efforts and further challenged them, \"Besides recycling, what else can we",
+          "40": "do for our environment?\" His question unleashed a torrent of innovative ideas. As Lucy",
+          "41": "watched her classmates electing to work on an additional environmental project, she",
+          "42": "reflected, \"Real change requires collective effort, and many hands make light work.\""
+        },
+        "paragraphs": {
+          "1": "“我们的班级回收项目将于下周开始。你们可以选择独立完成，也可以两人一组，”我们的科学老师李老师宣布道。“你们的目标是设计一个回收角，以提高我们教室的回收率。最好的方案将在全校推广。”随着学生们开始选择搭档并展开讨论，教室里爆发出了热烈的谈话声。",
+          "6": "作为一名大自然和动物爱好者，露西的兴趣被激发了。那一刻，她想象着鸟类和鱼类在没有塑料污染的环境中茁壮成长——这一画面源于她经常在湖边观察野生动物。她心想：“走向无塑料栖息地的第一步是养成回收习惯。我相信我能为这个项目想出一个绝妙的主意！”她的白日梦被好朋友马克思的轻轻拍打打断了。",
+          "12": "“你还有那本关于回收的书吗？我相信里面有很多对这个项目有用的提示。我们要一起合作吗？”马克思满怀期待地询问道。",
+          "14": "露西想起前一晚读过那本图书馆的书并把它放在了床头柜上。“嗯……”她犹豫了一下，“我今天早上把它还了……而且我正打算独自完成这个项目。”",
+          "17": "“噢，我明白了，”马克思嘟囔着，垂头丧气地走开了。",
+          "18": "第二天，露西开始动手做她的项目。她对回收箱有一个独特的构思，但在制作过程中遇到了困难。该设计要求的工艺水平简直超出了她的能力范围。感到沮丧的她下楼去散步。",
+          "22": "就在那时，马克思看到露西正步履沉重地走着，低着头叹着气。他喊道：“露西？”她抬起头，惊讶地发现马克思在那儿。他从未见过她表现出那个样子。“发生了什么事？”他温柔地问道。露西深感愧疚，坦白了关于书的谎言并真诚地道了歉。马克思欣然原谅了她。",
+          "26": "“你非常擅长手工和使用工具，不像我！”露西哀叹道。",
+          "27": "“好吧，如果你需要搭档，尽管开口就是了！”马克思眼里闪烁着光芒回答道。她便提出了邀请，然后兴奋地描述了她对回收箱的设计构思。“酷！我喜欢这个通过互动功能告知用户环境问题的点子！”马克思欢快地说道。",
+          "31": "在那一周里，两人不辞辛劳地建造他们的回收箱。他们设置了存放不同类型材料的分区，并增加了传感器，当物品被正确分类时传感器会亮起。一个机器人声音会朗读各种活动团体在环保工作进展方面的更新信息。他们在回收箱上涂满了生机勃勃的自然图像，展示了一个无垃圾的世界，以强化他们的理念。",
+          "36": "露西和马克思的努力得到了回报。在演示当天，同学们对他们的互动回收箱印象深刻。李老师当即决定提名他们的项目参加年度环境创新奖。他还表扬了全班同学的努力，并进一步挑战他们：“除了回收，我们还能为环境做些什么？”他的问题引发了一连串创新的想法。当露西看着同学们选择合作另一个环保项目时，她感慨道：“真正的改变需要集体的努力，人多力量大。”"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>要点直答——写出李老师宣布的回收项目<strong>主要目标</strong>。</li><li><strong>范围：</strong>第 1–3 行，李老师宣布处。</li><li><strong>关键词：</strong><em>main objective</em>、<em>recycling corner</em>、<em>increase recycling rates</em>。</li><li><strong>证据：</strong>第 2–3 行 <em>Your goal is to design a recycling corner that will increase recycling rates in our classroom.</em></li><li><strong>书写：</strong>须点明“设计回收角”且“提高教室回收率”；勿只写“做回收”而不提 corner / rates。</li></ol>",
+          "answer": [
+            "It is to design a recycling corner that would increase recycling rates in their classroom."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析——说明 Lucy 为何对项目感兴趣（通常两点各 1 分）。</li><li><strong>范围：</strong>第 6–9 行。</li><li><strong>证据 1：</strong>第 6 行 <em>nature and animal lover</em>，第 7 行想象无塑料污染环境中鸟类、鱼类繁盛的 <strong>image</strong>。</li><li><strong>证据 2：</strong>第 8–9 行她认为迈向无塑料家园的第一步是养成 <em>recycling</em> 习惯，并相信自己能想出好点子。</li><li><strong>失分：</strong>只写“喜欢环保”未提动物/塑料；或只写想象未写“回收习惯”。</li></ol>",
+          "answer": [
+            "Lucy was a nature and animal lover who wished for a plastic-free habitat. She believed that the first step was to form a habit of recycling."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点——解释第 15 行 <strong>hesitated</strong> 的原因；(a) 想做什么；(b) 不想做什么。</li><li><strong>范围：</strong>第 14–16 行。</li><li><strong>(a)：</strong>她想 <strong>独自完成</strong> 项目（<em>working on this project alone</em>）。</li><li><strong>(b)：</strong>她不想与 Max <strong>分享</strong> 那本关于回收的图书馆书 / 不想与他合作（答案键：share the library book with Max）。</li><li><strong>证据：</strong>第 15–16 行撒谎说已还书，实则想单干；前文第 12–13 行 Max 邀她共读该书合作。</li></ol>",
+          "answer": {
+            "73a": "work on the project alone",
+            "73b": "share the library book about recycling with Max"
+          }
+        },
+        "74": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>题型：</strong>圈选+简答——(i) 选形容词描述 Max 的感受；(ii) 用文中依据说明（各 1 分）。</li><li><strong>范围：</strong>第 17 行及第 12–16 行背景。</li><li><strong>(i)：</strong>Max 满怀期待邀 Lucy 合作，她却说要独自做 → Max <span class=\"hl-good\">disappointed</span>。<span class=\"hl-bad\">relieved</span> / <span class=\"hl-bad\">regretful</span> 不合语境。</li><li><strong>(ii)：</strong>他本想与 Lucy 一起做项目，她却拒绝合作、打算单干，令他失望。</li></ol>",
+          "answer": [
+            "disappointed",
+            "He expected Lucy to work with him when he asked her to work on the project together, but Lucy wanted to work alone."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——右栏写出左栏加粗词在文中的所指；三格各 1 分。</li><li><strong>(a) image（第 7 行）：</strong>鸟儿、鱼儿在无塑料污染环境中繁盛的画面/景象。</li><li><strong>(b) it（第 14–15 行）：</strong><em>I returned it</em> → 她借的关于回收的<strong>图书馆书</strong>（非床头桌子）。</li><li><strong>(c) design concept（第 28 行）：</strong>她对（互动）<strong>回收箱</strong>的构思/设计概念。</li><li><strong>书写：</strong>右栏完整句，常以 <em>It refers to …</em> 或名词短语说明所指。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "birds and fish thriving in an environment free of plastic pollution",
+            "75b": "the library book on recycling that Lucy had borrowed",
+            "75c": "To inform users about environmental issues."
+          }
+        },
+        "76": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——第 18–30 行；每行 True/False + 一句理由。</li><li><strong>(a) True：</strong>第 18–19 行有独特构思但 <em>struggled to construct</em>，工艺要求超出能力——是<strong>制作困难</strong>，非“想不出设计”。</li><li><strong>(b) True：</strong>第 22 行 Max <em>never seen her behaving like that before</em> → 以往印象她较开朗。</li><li><strong>(c) False：</strong>她起初并未打算找 Max；第 27 行是 Max 提醒“开口就行”后她才邀请他做搭档。</li><li><strong>书写：</strong>理由一句英文，与原文动词对齐。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "False",
+            "76b": "Lucy had a unique concept for the recycling bin but struggled to construct it because the design required a standard of workmanship that was beyond her capability",
+            "76c": "True",
+            "76d": "Max had never seen Lucy looking downcast and sighing before, suggesting he had known her to be cheerful",
+            "76e": "False",
+            "76f": "Max offered to be Lucy's project partner."
+          }
+        },
+        "77": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句——抄两个短语，表学生对环保项目反应积极；<strong>词数必须精确</strong>。</li><li><strong>(a) 两词，第 1–5 行：</strong>第 4 行 <span class=\"hl-good\">enthusiastic chatter</span>（教室热烈讨论）。</li><li><strong>(b) 五词，第 36–42 行：</strong>第 40 行 <span class=\"hl-good\">a torrent of innovative ideas</span>（李老师提问后迸发大量创意）。</li><li><strong>失分：</strong>词数不对；或抄与“积极反应”无关的短语。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "enthusiastic chatter",
+            "77b": "a torrent of innovative ideas"
+          }
+        },
+        "78": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点——列出回收箱两个特点，说明如何强化“无垃圾世界”信息（各 1 分）。</li><li><strong>范围：</strong>第 31–35 行。</li><li><strong>(a)：</strong>分格收纳不同材料，<strong>传感器</strong>在正确分类时亮灯。</li><li><strong>(b)：</strong>箱身绘有生机勃勃的<strong>自然图景</strong>，呈现无垃圾世界。</li><li><strong>失分：</strong>只写“好看”未写传感器或自然画；或写与 litter-free message 无关的功能。</li></ol>",
+          "answer": {
+            "78a": "sections for different types of materials with sensors that would light up when an item was correctly sorted",
+            "78b": "vibrant images of nature painted on the bin showing a litter-free world"
+          }
+        },
+        "79": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>题型：</strong>证据简答——先答 Yes/No，再引用文中信息说明 Mr Lee 是否同样印象深刻。</li><li><strong>范围：</strong>第 36–38 行；题干指向第 37 行 <strong>impressed with</strong>（同学反应）。</li><li><strong>结论：</strong><strong>Yes</strong>——李老师同样印象深刻。</li><li><strong>证据：</strong>第 37–38 行 <em>Instantly, Mr Lee decided to nominate their project for the annual Environmental Innovation Award</em>——立刻提名说明高度认可。</li></ol>",
+          "answer": [
+            "Yes, Mr Lee was similarly impressed with Lucy and Max's project. The information in the text that tells us this is the phrase \"*Instantly, Mr Lee decided to nominate their project for the annual Environmental Innovation Award.*\" His immediate decision to nominate the project indicates that he was impressed by it."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "分问综合简答",
+          "note": "<ol><li><strong>题型：</strong>分问综合——用文中<strong>两个独立事例</strong>分别对应两句谚语含义。</li><li><strong>(a) collective effort：</strong>第 40–41 行 Lucy 看见同学纷纷选择参与<strong>额外的环保项目</strong> → 集体行动。</li><li><strong>(b) many hands make light work：</strong>她独自做不出互动回收箱，与 Max <strong>合作</strong>后才完成（第 27–35、31 行）。</li><li><strong>失分：</strong>两例雷同；或 (b) 只写“Max 帮忙”未写自己做不出。</li></ol>",
+          "answer": {
+            "80a": "Lucy saw her classmates electing to work on an additional environmental project",
+            "80b": "Lucy was unable to complete the interactive recycling bin herself and was only able to do so with Max's help"
+          }
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

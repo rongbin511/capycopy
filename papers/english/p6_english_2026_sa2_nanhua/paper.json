@@ -1,0 +1,1227 @@
+{
+  "paperid": "p6_english_2026_sa2_nanhua",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"I am really looking forward to ________ the new science centre during our next learning journey,\" exclaimed Michelle.",
+          "options": {
+            "1": "visit",
+            "2": "visits",
+            "3": "visited",
+            "4": "visiting"
+          }
+        },
+        "2": {
+          "stem_plain": "\"You spent two hours watching videos? ________ unacceptable!\" Dad said sternly.",
+          "options": {
+            "1": "This is",
+            "2": "That is",
+            "3": "These are",
+            "4": "Those are"
+          }
+        },
+        "3": {
+          "stem_plain": "The captain of the badminton team, together with his team members, ________ hard every afternoon for the upcoming competition.",
+          "options": {
+            "1": "train",
+            "2": "trains",
+            "3": "training",
+            "4": "have trained"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Since the talk ended late, there is ________ time left for us to go to the playground,\" Sally told her friends.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "5": {
+          "stem_plain": "\"Learning a new language ________ easy so far, but I am enjoying the challenge,\" said Mr Tan.",
+          "options": {
+            "1": "is not",
+            "2": "was not",
+            "3": "has not been",
+            "4": "had not been"
+          }
+        },
+        "6": {
+          "stem_plain": "You will not be able to join the dance team ________ you pass the audition next Tuesday.",
+          "options": {
+            "1": "since",
+            "2": "unless",
+            "3": "although",
+            "4": "whereas"
+          }
+        },
+        "7": {
+          "stem_plain": "\"She'll be representing our school in the storytelling competition, ________?\" asked the principal.",
+          "options": {
+            "1": "isn't she",
+            "2": "won't she",
+            "3": "hasn't she",
+            "4": "wouldn't she"
+          }
+        },
+        "8": {
+          "stem_plain": "The football match was postponed ________ the thunderstorm warning.",
+          "options": {
+            "1": "in view of",
+            "2": "in line with",
+            "3": "on behalf of",
+            "4": "with reference to"
+          }
+        },
+        "9": {
+          "stem_plain": "Madam Tan reprimanded her son, \"You ________ left home earlier to avoid being caught in the heavy rain on your way to school.\"",
+          "options": {
+            "1": "must have",
+            "2": "could have",
+            "3": "would have",
+            "4": "should have"
+          }
+        },
+        "10": {
+          "stem_plain": "\"I witnessed the boy ________ the road before the traffic light turned green,\" the security guard reported.",
+          "options": {
+            "1": "cross",
+            "2": "crosses",
+            "3": "crossed",
+            "4": "had crossed"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "look forward to 中的 to 是介词，后面接动词时必须使用动名词形式（doing），故选 visiting。",
+          "concept": "动名词 — Gerunds — look forward to doing something",
+          "zh": "“我非常期待在我们的下一次学习之旅中参观新的科学中心，”米歇尔兴奋地大喊。",
+          "answer": "4"
+        },
+        "2": {
+          "note": "Dad 指代对方已经做过的一整件事（花了两个小时看视频），这是一个单数概念且指代刚提过的事，用 That is，意为“那太不能接受了！”",
+          "concept": "指示代词 — Demonstrative Pronouns — that for a past event",
+          "zh": "“你花了两个小时看视频？那太不可接受了！”爸爸严厉地说。",
+          "answer": "2"
+        },
+        "3": {
+          "note": "主语后接 together with 引导的短语时，核心主语依然是前者 The captain（单数第三人称）。结合时间状语 every afternoon 可知用一般现在时，谓语动词用单数形式 trains。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — together with",
+          "zh": "羽毛球队队长和他的队员们一起，为了即将到来的比赛，每天下午都刻苦训练。",
+          "answer": "2"
+        },
+        "4": {
+          "note": "time（时间）在此处是不可数名词，不能用 few 或 many 修饰；根据前半句“由于讲座结束得很晚”，可以推断出“几乎没有”时间去操场了，用表否定含义的 little 最符合语境。",
+          "concept": "量词与名词修饰 — Quantifiers — little with uncountable nouns",
+          "zh": "“由于讲座结束得很晚，我们几乎没有时间去操场玩了，”萨莉对朋友们说。",
+          "answer": "2"
+        },
+        "5": {
+          "note": "时间状语 so far（迄今为止）是现在完成时的标志，用来表示从过去持续到现在的状态，主语为 Learning a new language 动名词短语（视为单数），故选 has not been。",
+          "concept": "时态 — Tense — present perfect tense with 'so far'",
+          "zh": "“迄今为止，学习一门新语言并不容易，但我很享受这个挑战，”陈先生说。",
+          "answer": "3"
+        },
+        "6": {
+          "note": "unless 意为“除非”，用于引导条件状语从句。代入句意“除非你通过下周二的面试，否则你将无法加入舞蹈队”，逻辑最为通顺。",
+          "concept": "条件状语从句连词 — Conjunctions — unless",
+          "zh": "除非你通过下周二的面试，否则你将无法加入舞蹈队。",
+          "answer": "2"
+        },
+        "7": {
+          "note": "陈述部分 She'll be representing 是 She will be representing 的缩写。肯定句的反义疑问句后半部分应用否定形式，对应 will 的否定形式 won't 加上主语代词 she，故选 won't she。",
+          "concept": "反义疑问句 — Tag Questions — future tense with 'will'",
+          "zh": "“她将代表我们学校参加故事接龙比赛，不是吗？”校长问道。",
+          "answer": "2"
+        },
+        "8": {
+          "note": "in view of 意为“鉴于、考虑到、由于”，在此处表示因为雷暴警告而推迟球赛，完全符合因果逻辑；in line with 意为“符合/与……一致”；on behalf of 意为“代表”；with reference to 意为“关于”。",
+          "concept": "介词短语辨析 — Prepositional Phrases — in view of",
+          "zh": "鉴于雷暴警告，足球赛推迟了。",
+          "answer": "1"
+        },
+        "9": {
+          "note": "should have + 过去分词表示“过去本应该做某事而实际上未做”，常用于表达遗憾、责备或劝告。陈太太是在责备儿子过去没有早点出门，故选 should have。",
+          "concept": "情态动词完成式 — Modal Verbs — should have done",
+          "zh": "陈太太训斥儿子道：“你本应该早点出门的，这样就能避免在去学校的路上遇上暴雨了。”",
+          "answer": "4"
+        },
+        "10": {
+          "note": "witness sb. do sth. 为感官动词固定用法，表示目睹了某人做某事的全过程，后面需要接不带 to 的动词原形（省 to 不定式），故选择 cross。",
+          "concept": "非谓语动词 — Bare Infinitives — witness someone do something",
+          "zh": "“我亲眼目睹那个男孩在红绿灯变绿之前穿过了马路，”保安报告说。",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "After years of volunteering at the animal shelter, Jane has developed a strong ________ with the staff and the rescued animals.",
+          "options": {
+            "1": "rapport",
+            "2": "influence",
+            "3": "familiarity",
+            "4": "reputation"
+          }
+        },
+        "12": {
+          "stem_plain": "Even when faced with an angry and demanding customer, the manager remained ________ and calmly addressed the complaints.",
+          "options": {
+            "1": "cautious",
+            "2": "composed",
+            "3": "comforting",
+            "4": "courageous"
+          }
+        },
+        "13": {
+          "stem_plain": "Before submitting his final writing draft, Josh checked his work ________, scrutinising every word to ensure there were no grammatical mistakes.",
+          "options": {
+            "1": "briefly",
+            "2": "routinely",
+            "3": "confidently",
+            "4": "meticulously"
+          }
+        },
+        "14": {
+          "stem_plain": "When the fire alarm rang, the security guard immediately ________ the situation to determine if it was a real emergency.",
+          "options": {
+            "1": "looked for",
+            "2": "looked into",
+            "3": "looked over",
+            "4": "looked through"
+          }
+        },
+        "15": {
+          "stem_plain": "Samuel knew he had to ________ the opportunity and sign up for the leadership camp as the slots were limited.",
+          "options": {
+            "1": "find",
+            "2": "miss",
+            "3": "seize",
+            "4": "create"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "在动物收容所当了多年志愿者后，简与工作人员和获救的动物建立了深厚的融洽关系。",
+          "note": "‘rapport’指融洽、和谐的关系，符合语境中长期相处建立的情感纽带。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rapport",
+              "zh": "融洽，和睦的关系",
+              "eg": "The teacher established a warm rapport with her new students."
+            },
+            {
+              "opt": "2",
+              "word": "influence",
+              "zh": "影响，支配力",
+              "eg": "Her parents had a huge influence on her career choice."
+            },
+            {
+              "opt": "3",
+              "word": "familiarity",
+              "zh": "熟悉，精通",
+              "eg": "His familiarity with the local roads helped us avoid the traffic jam."
+            },
+            {
+              "opt": "4",
+              "word": "reputation",
+              "zh": "名声，声誉",
+              "eg": "The hospital has a great reputation for its patient care."
+            }
+          ]
+        },
+        "12": {
+          "zh": "即使面对愤怒且苛刻的顾客，经理依然保持镇静并冷静地处理了投诉。",
+          "note": "‘composed’表示保持镇静、沉着，与后面“冷静地处理投诉”完美对应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cautious",
+              "zh": "谨慎的，小心的",
+              "eg": "He is very cautious when driving on wet and slippery roads."
+            },
+            {
+              "opt": "2",
+              "word": "composed",
+              "zh": "镇静的，沉着的",
+              "eg": "She remained composed and confident during the intense interview."
+            },
+            {
+              "opt": "3",
+              "word": "comforting",
+              "zh": "令人欣慰的，安慰的",
+              "eg": "The kind words from his friend were very comforting to him."
+            },
+            {
+              "opt": "4",
+              "word": "courageous",
+              "zh": "勇敢的，有胆量的",
+              "eg": "The courageous firefighter rushed into the burning building to save the child."
+            }
+          ]
+        },
+        "13": {
+          "zh": "在提交最终写作初稿之前，乔希一丝不苟地检查了他的作品，仔细审视每一个字以确保没有语法错误。",
+          "note": "‘meticulously’意为极其细致地、一丝不苟地，与后面“仔细审视每一个字”相呼应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "briefly",
+              "zh": "短暂地，简短地",
+              "eg": "The speaker briefly explained the main points of the project."
+            },
+            {
+              "opt": "2",
+              "word": "routinely",
+              "zh": "例行公事地，通常",
+              "eg": "Dental check-ups are routinely done every six months."
+            },
+            {
+              "opt": "3",
+              "word": "confidently",
+              "zh": "自信地，确信地",
+              "eg": "She walked onto the stage and confidently delivered her speech."
+            },
+            {
+              "opt": "4",
+              "word": "meticulously",
+              "zh": "细致地，一丝不苟地",
+              "eg": "The scientist meticulously recorded the results of the experiment."
+            }
+          ]
+        },
+        "14": {
+          "zh": "当火警钟响起时，保安立即调查了情况，以确定这是否是真正的紧急情况。",
+          "note": "‘looked into’是短语动词，意思是调查、了解情况。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "looked for",
+              "zh": "寻找",
+              "eg": "I looked for my missing keys everywhere but could not find them."
+            },
+            {
+              "opt": "2",
+              "word": "looked into",
+              "zh": "调查，研究",
+              "eg": "The police are looked into the cause of the sudden accident."
+            },
+            {
+              "opt": "3",
+              "word": "looked over",
+              "zh": "快速检查，浏览",
+              "eg": "She looked over the contract quickly before signing it."
+            },
+            {
+              "opt": "4",
+              "word": "looked through",
+              "zh": "仔细查看，翻阅",
+              "eg": "He looked through the drawer to find his old passport."
+            }
+          ]
+        },
+        "15": {
+          "zh": "塞缪尔知道他必须抓住机会报名参加领导力夏令营，因为名额有限。",
+          "note": "‘seize the opportunity’是固定搭配，意为“抓住机会”。",
+          "concept": "Vocabulary Collocation MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "find",
+              "zh": "找到，发现",
+              "eg": "It is hard to find a quiet place to study in this busy library."
+            },
+            {
+              "opt": "2",
+              "word": "miss",
+              "zh": "错过，想念",
+              "eg": "If you don't wake up early, you will miss the morning train."
+            },
+            {
+              "opt": "3",
+              "word": "seize",
+              "zh": "抓住（机会、急躁抓取）",
+              "eg": "You should seize the chance to study abroad if it comes up."
+            },
+            {
+              "opt": "4",
+              "word": "create",
+              "zh": "创造，创造出",
+              "eg": "The artist used recycled materials to create a beautiful sculpture."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "constraints",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "burdens",
+            "2": "setbacks",
+            "3": "limitations",
+            "4": "boundaries"
+          }
+        },
+        "17": {
+          "stem_plain": "cease",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "delay",
+            "2": "pause",
+            "3": "reduce",
+            "4": "discontinue"
+          }
+        },
+        "18": {
+          "stem_plain": "seamlessly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "carefully",
+            "2": "smoothly",
+            "3": "systematically",
+            "4": "independently"
+          }
+        },
+        "19": {
+          "stem_plain": "dietary",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "medical",
+            "2": "physical",
+            "3": "personal",
+            "4": "nutritional"
+          }
+        },
+        "20": {
+          "stem_plain": "promptly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "on time",
+            "2": "with ease",
+            "3": "as planned",
+            "4": "on their own"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "近义词替换 — 限制/约束条件",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "burdens",
+              "zh": "负担；重担",
+              "eg": "Tax increases place financial burdens on low-income families."
+            },
+            {
+              "opt": "2",
+              "word": "setbacks",
+              "zh": "挫折；倒退",
+              "eg": "Despite some initial setbacks, the project was a success."
+            },
+            {
+              "opt": "3",
+              "word": "limitations",
+              "zh": "限制；局限性",
+              "eg": "Every legal system has its own practical limitations."
+            },
+            {
+              "opt": "4",
+              "word": "boundaries",
+              "zh": "边界；界限",
+              "eg": "The river forms the natural boundaries between the two states."
+            }
+          ]
+        },
+        "17": {
+          "note": "近义词替换 — 停止/中止运作",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "delay",
+              "zh": "推迟；耽误",
+              "eg": "Bad weather will delay the departure of our flight."
+            },
+            {
+              "opt": "2",
+              "word": "pause",
+              "zh": "暂停",
+              "eg": "He paused for a moment to catch his breath before continuing."
+            },
+            {
+              "opt": "3",
+              "word": "reduce",
+              "zh": "减少；降低",
+              "eg": "The company decided to reduce its budget for advertising."
+            },
+            {
+              "opt": "4",
+              "word": "discontinue",
+              "zh": "终止；不再继续",
+              "eg": "They will discontinue the train service during the winter months."
+            }
+          ]
+        },
+        "18": {
+          "note": "词汇理解 — 流畅地；无缝地",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "carefully",
+              "zh": "小心翼翼地",
+              "eg": "She walked carefully across the narrow wooden bridge."
+            },
+            {
+              "opt": "2",
+              "word": "smoothly",
+              "zh": "顺利地；流畅地",
+              "eg": "The presentation went smoothly without any technical issues."
+            },
+            {
+              "opt": "3",
+              "word": "systematically",
+              "zh": "系统地；有条不紊地",
+              "eg": "They systematically searched the entire area for clues."
+            },
+            {
+              "opt": "4",
+              "word": "independently",
+              "zh": "独立地",
+              "eg": "Students are expected to complete the research independently."
+            }
+          ]
+        },
+        "19": {
+          "note": "近义词替换 — 饮食的/营养的需求",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "medical",
+              "zh": "医疗的；医学的",
+              "eg": "He is under medical supervision following his surgery."
+            },
+            {
+              "opt": "2",
+              "word": "physical",
+              "zh": "身体的；物质的",
+              "eg": "Regular physical exercise is beneficial for overall health."
+            },
+            {
+              "opt": "3",
+              "word": "personal",
+              "zh": "个人的；私人的",
+              "eg": "Please keep your personal belongings with you at all times."
+            },
+            {
+              "opt": "4",
+              "word": "nutritional",
+              "zh": "营养的",
+              "eg": "The milk formula satisfies all the nutritional needs of infants."
+            }
+          ]
+        },
+        "20": {
+          "note": "近义词替换 — 准时地；及时地",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "on time",
+              "zh": "准时；按时",
+              "eg": "Despite the heavy traffic, she arrived at the office on time."
+            },
+            {
+              "opt": "2",
+              "word": "with ease",
+              "zh": "轻而易举地",
+              "eg": "The experienced gymnast finished the difficult routine with ease."
+            },
+            {
+              "opt": "3",
+              "word": "as planned",
+              "zh": "按计划进行",
+              "eg": "The weekend outdoor sports event took place as planned."
+            },
+            {
+              "opt": "4",
+              "word": "on their own",
+              "zh": "独自；靠他们自己",
+              "eg": "The children built a treehouse completely on their own."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Many schools in Singapore are currently grappling with a severe lack of canteen vendors. Individual stallholders often find it difficult to operate with many financial [Q16 (constraints)]. Moreover, the rising cost of ingredients and a lack of manpower have forced many vendors to [Q17 (cease)] operations. To address this issue, several schools are exploring alternatives such as the central kitchen model.",
+          "Under the new model, catering companies will supply meals directly to the schools. Students will be able to collect their pre-ordered food [Q18 (seamlessly)] from automated machines using their smart cards. Vendors will also be able to cater to the [Q19 (dietary)] needs of students more effectively. Schools believe this innovative approach will ensure that students can obtain their meals [Q20 (promptly)]. This will reduce the time needed to wait in queues during their recess break."
+        ],
+        "zh": [
+          "新加坡的许多学校目前正面临食堂摊贩严重短缺的问题。由于诸多的经济限制，各别摊主往往发现很难经营下去。此外，原材料成本的上涨和人手的短缺也迫使许多商家停止营业。为了解决这个问题，几所学校正在探索替代方案，例如中央厨房模式。",
+          "在新模式下，餐饮公司将直接把餐食配送到学校。学生们将能够使用智能卡，从自动化设备中顺利地取走他们预订的食物。商家也能够更有效地满足学生的饮食需求。学校相信这种创新方法将确保学生能够按时、及时地拿到餐食。这将减少他们在课间休息时排队等候的时间。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "主谓一致与被动语态",
+          "note": "本句主语核心词是不可数名词“amount”（an astonishing amount of plastic waste），因此谓语动词应该用单数形式。描述的是客观事实，用一般现在时的被动语态，故用is形式表示“被倾倒”。",
+          "answer": "J"
+        },
+        "27": {
+          "concept": "动词短语搭配",
+          "note": "“turn up”为固定动词短语，意为“出现/被发现”，此处“has now turned up”表示塑料垃圾现在出现在了寄居蟹的背上。",
+          "answer": "P"
+        },
+        "28": {
+          "concept": "定语从句关系代词",
+          "note": "此处是非限制性定语从句，先行词是“soft, curly bodies”（柔软、弯曲的身体），在从句中作主语，故用which引导。",
+          "answer": "Q"
+        },
+        "29": {
+          "concept": "原因状语从句连词",
+          "note": "“Because their tails are fragile...”意为“因为它们的尾巴很脆弱”，引导原因状语从句，置于句首需大写。",
+          "answer": "B"
+        },
+        "30": {
+          "concept": "反身代词",
+          "note": "“protect themselves from...”意为“保护它们自己免受……的伤害”，主语是they，故宾语用反身代词themselves。",
+          "answer": "M"
+        },
+        "31": {
+          "concept": "现在完成时助动词",
+          "note": "主语是复数概念“10 out of 16 land species”（16种陆地物种中的10种），后接“been observed”，构成现在完成时的被动语态（have been done），故填have。",
+          "answer": "F"
+        },
+        "32": {
+          "concept": "even的用法",
+          "note": "“such as bottle caps, and even broken lightbulbs” 意为“比如瓶盖，甚至还有破碎的灯泡”，用even表示递进或强调令人意想不到的事物。",
+          "answer": "C"
+        },
+        "33": {
+          "concept": "介词短语搭配",
+          "note": "“resulting in...”为固定搭配，意为“导致/结果是……”，后接名词词组表示结果。",
+          "answer": "H"
+        },
+        "34": {
+          "concept": "介词搭配",
+          "note": "“choose plastic materials over traditional shells” 意为“比起传统贝壳，更倾向于选择塑料材料”，搭配结构为“choose A over B”（相比B更喜欢/选择A）。",
+          "answer": "L"
+        },
+        "35": {
+          "concept": "宾语从句连接词",
+          "note": "“it is still unclear if hermit crabs are...” 意为“目前仍不清楚寄居蟹是否直接受到这种行为的威胁”，用if（是否）引导宾语从句。",
+          "answer": "G"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "are",
+          "B": "because",
+          "C": "even",
+          "D": "from",
+          "E": "has",
+          "F": "have",
+          "G": "if",
+          "H": "in",
+          "J": "is",
+          "K": "it",
+          "L": "over",
+          "M": "themselves",
+          "N": "to",
+          "P": "up",
+          "Q": "which"
+        },
+        "cloze": [
+          "Plastic waste is everywhere. Every day, an astonishing amount of plastic waste enough to fill 2,000 garbage trucks [Q26] dumped into the ocean. Plastic litter can be found at the bottom of the ocean and on top of Mount Everest. Surprisingly, plastic waste has now turned [Q27] on the backs of hermit crabs!",
+          "Hermit crabs are tiny animals with soft, curly bodies [Q28] leave them vulnerable to predators. [Q29] their tails are fragile, they must constantly look for empty shells to protect [Q30] from hungry birds and fishes. Studies show 10 out of 16 land species [Q31] been observed wearing plastic waste, such as bottle caps, and [Q32] broken lightbulbs.",
+          "Scientists believe this unusual behaviour may be due to the declining population of sea snails, resulting [Q33] fewer natural shells for the crabs. It is also possible that crabs choose plastic materials [Q34] traditional shells because they are lighter in weight and easier to carry.",
+          "While scientists agree that plastic pollution harms wildlife and ecosystems, it is still unclear [Q35] hermit crabs are directly endangered by this behaviour. This shows that plastic waste can affect even small animals."
+        ],
+        "zh": [
+          "塑料垃圾无处不在。每天，被倒入海洋的塑料垃圾数量多到惊人，足以装满2000辆垃圾车。在海底和珠穆朗玛峰顶都可以发现塑料垃圾。令人惊讶的是，塑料垃圾现在居然出现在了寄居蟹的背上！",
+          "寄居蟹是一种身体柔软且弯曲的微小动物，而这（种身体结构）使得它们容易受到捕食者的攻击。因为它们的尾巴很脆弱，所以它们必须不断寻找空贝壳来保护自己免受饥饿的鸟类和鱼类的伤害。研究表明，在16种陆地寄居蟹物种中，已有10种被观察到携带着塑料垃圾，比如瓶盖，甚至还有破碎的灯泡。",
+          "科学家认为，这种异常行为可能是由于海螺数量减少导致的，其结果就是寄居蟹能够获得的天然贝壳变少了。也有可能寄居蟹之所以选择塑料材料而非传统贝壳，是因为塑料重量更轻、更便于携带。",
+          "虽然科学家们一致认为塑料污染会危害野生动物和生态系统，但目前仍不清楚寄居蟹是否直接受到这种行为的威胁。这表明塑料垃圾甚至可以影响到微小的动物。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "followed a clear sequanse of events",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "a small object accidental hit the main character",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "she quickly spreading her panic",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "I thurruhly enjoyed the acting",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "Their high-energy seens made",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "cleverly used fast dielog to show",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "the importance of not jump to conclusions.",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "conveying a valued lesson about",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "I would certainly rekkomend this show",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "to anyone who enjoying a fun story",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "单词拼写",
+          "note": "拼写错误，应将表示“顺序、序列”的 sequanse 纠正为 sequence。",
+          "answer": "sequence"
+        },
+        "37": {
+          "concept": "词性转换",
+          "note": "原句中形容词 accidental 应当改为副词形式 accidentally，用以修饰后面的动词 hit。",
+          "answer": "accidentally"
+        },
+        "38": {
+          "concept": "词形变化 (时态)",
+          "note": "整篇叙事采用过去时态，横线处与前面的 quickly 连用作谓语，应将现在分词 spreading 改为动词过去式 spread。",
+          "answer": "spread"
+        },
+        "39": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示“彻底地、由衷地”喜欢，应将语音拼写 thurruhly 纠正为 thoroughly。",
+          "answer": "thoroughly"
+        },
+        "40": {
+          "concept": "单词拼写 (同音词误用)",
+          "note": "词义及拼写错误，此处指戏剧的“场景、画面”，应将 seens 纠正为 scenes。",
+          "answer": "scenes"
+        },
+        "41": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处指快速的“对话”，应将 dielog 纠正为 dialogue 或 dialog。",
+          "answer": "dialogue"
+        },
+        "42": {
+          "concept": "词形变化 (动名词)",
+          "note": "介词 of 后面跟动词时应用动名词形式，固定短语为 jump to conclusions，故此处应将 jump 改为 jumping。",
+          "answer": "jumping"
+        },
+        "43": {
+          "concept": "词性转换",
+          "note": "此处应用形容词修饰名词 lesson，表示“有价值的教训”，应将过去分词 valued 改为形容词 valuable。",
+          "answer": "valuable"
+        },
+        "44": {
+          "concept": "单词拼写",
+          "note": "拼写错误，应将表示“推荐”的 rekkomend 纠正为 recommend。",
+          "answer": "recommend"
+        },
+        "45": {
+          "concept": "词形变化 (谓语动词时态)",
+          "note": "此处为 who 引导的定语从句，从句中缺少谓语动词，修饰先行词单数代词 anyone 表述客观事实应用一般现在时，故将 enjoying 改为 enjoys。",
+          "answer": "enjoys"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Last week, I went to a local theatre to see a performance of Chicken Little. The story followed a clear [Q36(sequanse)] of events that everyone could easily follow. It began when a small object [Q37(accidental)] hit the main character, making her think the sky was falling. Overwhelmed by fear, she quickly [Q38(spreading)] her panic all the other animals in the woods.",
+          "I [Q39(thurruhly)] enjoyed the acting of the performers. Their high-energy [Q40(seens)] made the play realistic and comical. They cleverly used fast [Q41(dielog)] to show how confused they were as they ran around the stage. In the final act, the characters realised the importance of not [Q42(jump)] to conclusions.",
+          "It provided plenty of laughter while conveying a [Q43(valued)] lesson about seeking the truth. I would certainly [Q44(rekkomend)] this show to anyone who [Q45(enjoying)] a fun story with a deep meaning. The performance is a perfect example of how theatre can teach us important things while making us laugh."
+        ],
+        "zh": [
+          "上周，我去当地的一家剧院观看了《四眼天鸡》的表演。故事的发展有着清晰的顺序，每个人都能轻松看懂。故事开始于一个小物体意外撞到了主角，让她以为天要塌了。在恐惧的笼罩下，她迅速将恐慌蔓延到森林里的其他所有动物中。",
+          "我由衷地欣赏演员们的演技。他们充满活力的场景使这部剧既逼真又滑稽。他们巧妙地运用快速的对话来展现他们在舞台上奔跑时是多么的困惑。在最后一幕中，角色们意识到了不要过早下结论的重要性。",
+          "它带来了充满欢声笑语的体验，同时传达了关于寻找真相的有价值的教训。我绝对会把这部剧推荐给任何喜欢有深刻寓意的有趣故事的人。这场表演是一个完美的例子，诠释了戏剧如何能让我们在欢笑的同时学到重要的道理。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "连词引导时间状语从句",
+          "note": "until they open them 意为“直到他们打开它们”，与前面的否定表达连用，表示在打开之前不知道里面是什么。",
+          "answer": "until"
+        },
+        "47": {
+          "concept": "形容词词义辨析与对比",
+          "note": "the idea is not new 意为这个概念“并不新鲜/新颖”，与前半句的 modern trend（现代潮流）形成对比。",
+          "answer": "new"
+        },
+        "48": {
+          "concept": "分词作后置定语",
+          "note": "known as... 为固定短语，表示“被称为/以……为人所知”，此处的 known 过去分词短语修饰前面的 mystery prize tickets。",
+          "answer": "known"
+        },
+        "49": {
+          "concept": "名词固定搭配",
+          "note": "go to extremes / lead to extremes 意为“走向极端”，此处指狂热导致许多儿童甚至成人做出极端行为。",
+          "answer": "extremes"
+        },
+        "50": {
+          "concept": "形容词/限定词词义辨析",
+          "note": "In recent months 意为“在最近几个月里”，常用于引出最近发生或报道的新闻事实。",
+          "answer": "recent"
+        },
+        "51": {
+          "concept": "疑问副词引导句子",
+          "note": "So why are blind boxes so appealing? 意为“那么，为什么盲盒如此吸引人呢？”，用于引出下文对原因的探讨。",
+          "answer": "why"
+        },
+        "52": {
+          "concept": "形容词词义辨析",
+          "note": "limited in quantity 意为“数量有限”，符合稀有物品物以稀为贵的语境。",
+          "answer": "limited"
+        },
+        "53": {
+          "concept": "名词词义辨析",
+          "note": "a difficult task/mission has been successfully completed 意为一项艰巨的“任务”被成功完成了，比喻搜集到稀有款时的成就感。",
+          "answer": "task"
+        },
+        "54": {
+          "concept": "名词词义辨析",
+          "note": "share their experiences/finds/collections online 意为在网上分享他们的“经历/发现/收藏”。这里用 experiences 或 collections 均可，结合 unbox（开箱）语境，experiences 最为通用。",
+          "answer": "experiences"
+        },
+        "55": {
+          "concept": "动词固定短语",
+          "note": "join the trend 意为“加入这一潮流/跟风”，符合看到别人开箱视频后受到鼓舞也去购买的语境。",
+          "answer": "join"
+        },
+        "56": {
+          "concept": "形容词固定搭配",
+          "note": "be similar to... 意为“与……相似”，此处形容词短语作后置定语，表示盲盒的随机性带来了一种与赌博类似的预期循环。",
+          "answer": "similar"
+        },
+        "57": {
+          "concept": "名词固定短语",
+          "note": "in hopes/hope of getting a rare item 意为“抱着获得稀有物品的希望”，固定搭配为 in hope(s) of。",
+          "answer": "hope"
+        },
+        "58": {
+          "concept": "动词词义辨析",
+          "note": "hard to break/stop 意为这种循环很难被“打破/停止”，符合成瘾性行为的语境，break the cycle 为惯用搭配。",
+          "answer": "break"
+        },
+        "59": {
+          "concept": "名词固定搭配",
+          "note": "risky spending habits/behaviour 意为“危险的消费习惯/行为”，习惯常与 spending 连用，根据后文的单数 or 并列，这里填 habits/behaviour 均可，habits 更地道。",
+          "answer": "habits"
+        },
+        "60": {
+          "concept": "名词词义辨析",
+          "note": "rules and regulations 为固定复合名词短语，意为“规章制度/法律法规”，用来保护消费者。",
+          "answer": "regulations"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Blind boxes are small toys sold in sealed packaging. Buyers do not know what they will get [Q46(until)] they open them. Although blind boxes feel like a modern trend, the idea is not [Q47(new)]. In the 1950s, mystery prize tickets, also [Q48(known)] as Tikam-Tikam, were so common in Singapore that every street corner had a vendor selling them. The 1950s Tikam-Tikam craze led many children and even adults to extreme [Q49(extremes)] such as shoplifting just to get what they want. In [Q50(recent)] months, such acts have also been reported by shops selling blind boxes here.",
+          "So [Q51(why)] are blind boxes so appealing? One reason is our human desire to collect. People enjoy gathering complete sets, especially when some items are [Q52(limited)] in quantity. When a rare piece is finally found, it feels as if a difficult [Q53(task)] has been successfully completed. Another reason is social influence where collectors share their [Q54(experiences)] online through posts and live videos. Seeing others unbox rare items creates excitement and encourages more people to [Q55(join)] the trend.",
+          "However, the randomness of blind boxes creates a cycle of anticipation [Q56(similar)] to gambling. People keep buying more boxes in [Q57(hope)] of getting a rare item, only to end up with duplicates. Over time, this cycle can be hard to [Q58(break)] and the behaviour may even become addictive. This leads to risky spending [Q59(habits)] where people frequently spend more than intended or buy repeatedly without realising how quickly the cost is adding up. As a result, governments are considering rules and [Q60(regulations)] to better protect consumers, like the ban on Tikam-Tikam in 1961. Although blind boxes can be fun, it is important to know the potential harms and act responsibly."
+        ],
+        "zh": [
+          "盲盒是装在密封包装中销售的小型玩具。买家在打开它们之前不知道会得到什么。虽然盲盒给人一种现代潮流的感觉，但这个概念并不新鲜。在20世纪50年代，被称为“Tikam-Tikam”的神秘抽奖券在新加坡非常普遍，以至于每个街角都有小贩在售卖它们。50年代的 Tikam-Tikam 狂热导致许多儿童甚至成年人走向极端，比如为了得到他们想要的东西而顺手牵羊。最近几个月里，这里的盲盒零售店也报道了类似的违法行为。",
+          "那么，为什么盲盒如此有吸引力呢？原因之一是人类对收集的渴望。人们喜欢收集完整的套装，尤其是当某些物品数量有限时。当终于找到一个稀有款式时，感觉就像成功完成了一项艰巨的任务。另一个原因是社交网络的影响，收藏家们通过帖子和直播在网上分享他们的开箱体验。看到别人拆出稀有物品会让人兴奋，并鼓励更多的人加入这一潮流。",
+          "然而，盲盒的随机性创造了一种类似于赌博的期待循环。人们不断购买更多的盒子，希望能抽到稀有物品，结果却只是得到重复的款式。久而久之，这种循环可能很难被打破，这种行为甚至可能会让人上瘾。这导致了危险的消费习惯，人们经常花费超出预期的钱，或者重复购买却指没有意识到成本累积得有多快。因此，政府正在考虑制定规章制度来更好地保护消费者，就像1961年禁止 Tikam-Tikam 一样。虽然盲盒可以带来乐趣，但了解其潜在的危害并理智对待是非常重要的。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "\"Did you paint this picture?\" Mr Shelby asked his daughter.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Mr Shelby asked his daughter if"
+        },
+        "62": {
+          "stem_plain": "The prey never heard a sound because of the silent movement of the tiger.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "So silently did ... \nthe prey never heard a sound."
+        },
+        "63": {
+          "stem_plain": "Mike ignored the warning sign. He could have caused an accident.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "By"
+        },
+        "64": {
+          "stem_plain": "Polly contributed generously to the local charity.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Polly made a"
+        },
+        "65": {
+          "stem_plain": "Besides being long, the movie was also boring.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Not only was"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "间接引语 — 一般疑问句的转述与时态/指示代词转换",
+          "zh": "谢尔比先生问他的女儿她是否画了这幅画。",
+          "note": "改写要点：1. 一般疑问句用 if 或 whether 引导，语序改为陈述句语序；2. 一般过去时（did paint）向后推一个时态变为过去完成时（had painted）；3. 指示代词和人称代词转换：this->that, you->she。",
+          "answer": "Mr Shelby asked his daughter if she had painted that picture."
+        },
+        "62": {
+          "concept": "部分倒装 — So + 副词放句首引起的倒装结构",
+          "zh": "老虎移动得如此悄无声息，以至于猎物根本没有听到一点声音。",
+          "note": "改写要点：原句的名词短语 silent movement of the tiger 转换为动词加副词结构，且由于 \"So + 副词\" 置于句首，主句需要部分倒装（助动词提至主语前）：So silently did the tiger move that the prey never heard a sound.",
+          "answer": "So silently did the tiger move that the prey never heard a sound."
+        },
+        "63": {
+          "concept": "介词短语作方式状语 — By + 动名词短语",
+          "zh": "通过无视警告标志，迈克本可能会引发一场事故。",
+          "note": "改写要点：将第一个句子转化为由介词 By 引导的方式状语，后面接动名词形式 ignoring。主句 Mike could have caused... 保持独立完整性。",
+          "answer": "By ignoring the warning sign, Mike could have caused an accident."
+        },
+        "64": {
+          "concept": "词性转换 — 动词+副词变名词短语 (contributed generously -> generous contribution)",
+          "zh": "波莉向当地慈善机构做出了慷慨的捐款。",
+          "note": "改写要点：将动词 contributed 和修饰它的副词 generously 转换为名词短语 a generous contribution，并注意习惯搭配动词为 make (made a generous contribution to)。",
+          "answer": "Polly made a generous contribution to the local charity."
+        },
+        "65": {
+          "concept": "部分倒装 — 否定关联连词 Not only... but also... 句型",
+          "zh": "这部电影不仅长，而且很无聊。",
+          "note": "改写要点：当 Not only 位于句首时，前一个分句必须使用部分倒装语序（系动词 was 提到主语 the movie 前面）。后半句用 but also 连接或省略 but/also，通常保留 also：Not only was the movie long, but it was also boring.",
+          "answer": "Not only was the movie long, but it was also boring."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "The first night of the Primary 5 camp was difficult for Ryan. As the dormitory lights dimmed, the",
+          "2": "quiet forest outside made his heart beat faster. Unlike Marcus, who was already snoring loudly,",
+          "3": "Ryan lay sleepless in the dark. This was his first time staying away from home, and the thin, hard",
+          "4": "mattress made him miss his own comfortable bed.",
+          "5": "The next morning, the students headed to the High Elements course, which began with a",
+          "6": "daunting ten-metre climb. Marcus was appointed the group leader, and it was no surprise –",
+          "7": "during the practice sessions in school, he was the only one who had mastered all the safety",
+          "8": "knots. After putting on his safety gear, he checked every classmate's harness with a sharp gaze.",
+          "9": "Mr Lim, their form teacher, stood at the side observing him quietly, his clipboard tucked under his",
+          "10": "arm.",
+          "11": "Marcus scaled the rock wall with ease, but when it was Ryan's turn, his legs began to shake like",
+          "12": "jelly. He took one look at the sheer height of the wall and froze. \"Ryan! Don't just stand there!",
+          "13": "Start climbing! Everyone else is waiting for you,\" Marcus shouted from above. Ryan felt",
+          "14": "embarrassed. His face turned a deep crimson as the other students watched him tremble.",
+          "15": "Later that afternoon, the class went for a long hiking expedition. Exhausted, Ryan had slowed and",
+          "16": "was lagging behind. He often stopped to catch his breath. Marcus had a single-minded will to be",
+          "17": "the first group to reach the checkpoint. Suddenly, he snatched Ryan's water bottle. \"You're",
+          "18": "drinking too much and stopping too often!\" Marcus shouted. He shoved the bottle into his own",
+          "19": "bag and stomped off. Ryan stared wide-eyed at Marcus's back. The outburst caused the class to",
+          "20": "stop and murmur. Ryan felt his eyes moisten, but he forced himself to keep walking in silence.",
+          "21": "From the back of the group, Mr Lim saw everything but kept his distance.",
+          "22": "By evening, Ryan was in a sullen mood. During dinner, he sat alone at the edge of the campsite.",
+          "23": "\"All Marcus cares about is that silly trophy,\" he muttered under his breath.",
+          "24": "That night, Ryan could not sleep. He slipped out to the washroom to splash some water on his",
+          "25": "face. Near the benches, he heard soft sobbing. To his surprise, he saw Marcus sitting on the",
+          "26": "ground with his head between his knees. Marcus was holding the brass compass so tightly that",
+          "27": "his knuckles were white. Ryan froze. His first instinct was to walk away, but remembering how",
+          "28": "Marcus had treated him, he decided to stay and taunt his tormentor. However, as he watched",
+          "29": "Marcus shaking, his anger began to soften. Then he noticed an inscription on the back of the",
+          "30": "compass: Best Camper. Realising that the compass held sentimental value for Marcus, Ryan felt",
+          "31": "a lump forming in his throat.",
+          "32": "\"It's just a camp, Marcus,\" Ryan said gently. Marcus jumped and tried to hide it. \"Go away,\" he",
+          "33": "snapped, but his voice was shaky and lacked his usual confidence. Ryan sat down nearby. \"I'm so",
+          "34": "homesick I can't even eat,\" he admitted. Marcus finally relaxed and held up the compass. \"This",
+          "35": "was my brother's. He had won 'Best Camper' three years ago. My parents expect me to be just",
+          "36": "like him, but it's a Herculean task.\" Ryan finally understood why Marcus had behaved the way he",
+          "37": "did – he was terrified of letting his family down.",
+          "38": "The next morning, during the outdoor cooking session, Ryan struggled to light his fire. The tiny",
+          "39": "flame kept flickering out in the breeze, and his pot of water remained cold. Before he could give",
+          "40": "up, Marcus came over and crouched beside him. \"Stack the fuel tablets like this. It keeps the",
+          "41": "flame going,\" he said, arranging them. He used his own body to block the wind while Ryan tried"
+        },
+        "paragraphs": {
+          "1": "那是五年级营会的第一晚，对瑞恩来说很难熬。当宿舍的灯光熄灭时，外面寂静的森林让他的心跳加快。不像马库斯已经打着响亮的呼噜，瑞恩在黑暗中无法入睡。这是他第一次离开家住，薄而硬的床垫让他想念起自己舒适的床。",
+          "5": "第二天早上，学生们前往高空项目场地，首先要面对的是令人望而生畏的十米攀爬。马库斯被任命为小组长，这并不奇怪——在学校的练习课上，他是唯一掌握了所有安全结的人。穿戴好安全装备后，他用锐利的目光检查了每一个同学的安全带。他们的班主任林老师站在一边静静地看着他，夹子板夹在胳膊底下。",
+          "11": "马库斯轻松地爬上了岩壁，但当轮到瑞恩时，他的腿开始像果冻一样颤抖。他看了一眼高耸的岩壁，整个人都僵住了。“瑞恩！别光站在那儿！开始爬！其他人都在等你呢，”马库斯在上面喊道。瑞恩感到很尴尬。当其他学生看着他颤抖时，他的脸涨得通红。",
+          "15": "那天下午晚些时候，全班去进行长途远足。筋疲力尽的瑞恩放慢了速度，落在了后面。他经常停下来喘气。马库斯一心想要成为第一组到达检查点的小组。突然，他抢走了瑞恩的水壶。“你喝水太多了，而且停下来的次数太频繁了！”马库斯喊道。他把水壶塞进自己的包里，跺着脚走开了。瑞恩瞪大眼睛看着马库斯的背影。这次爆发引起了全班同学的停步和低声议论。瑞恩觉得眼眶湿润了，但他强迫自己保持沉默，继续往前走。在队伍的最后，林老师看到了这一切，但保持着距离。",
+          "22": "到了晚上，瑞恩的心情很沉闷。吃晚饭的时候，他独自坐在营地的边缘。“马库斯在乎的只有那个愚蠢的奖杯，”他低声嘟囔着。",
+          "24": "那天晚上，瑞恩睡不着。他溜到洗手间，往脸上泼了点水。在长椅附近，他听到一阵低声的抽泣。令他惊讶的是，他看到马库斯坐在地上，头埋在双膝之间。马库斯紧紧握着那只黄铜指南针，指关节都发白了。瑞恩僵住了。他的第一反应是走开，但想到马库斯之前是怎么对他的，他决定留下来嘲弄他的折磨者。然而，看着马库斯颤抖的样子，他的愤怒开始消退。接着，他注意到指南针背面有一行刻字：最佳营员。意识到这只指南针给马库斯带来了情感上的寄托，瑞恩觉得喉咙里一阵发紧。",
+          "32": "“这只是一个营会，马库斯，”瑞恩温柔地说。马库斯吓了一跳，试图把它藏起来。“走开，”他没好气地斥责道，但他的声音在颤抖，失去了往常的自信。瑞恩在旁边坐了下来。“我想家想得连饭都吃不下，”他承认道。马库斯终于放松下来，举起指南针。“这是我哥哥的。他三年前赢得了‘最佳营员’。我的父母希望我能像他一样，但这是一项艰巨的任务。”瑞恩终于明白了马库斯为什么要表现成那个样子——他害怕让家人失望。",
+          "38": "第二天早上，在野外烹饪课上，瑞恩费力地生火。微弱的火焰在微风中不断摇曳熄灭，他的那一锅水依然是凉的。在他准备放弃之前，马库斯走过来蹲在他身边。“像这样把燃料块叠起来。这能让火焰持续燃烧，”他一边说，一边把它们排列好。他用自己的身体挡住风，而瑞恩则在尝试"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

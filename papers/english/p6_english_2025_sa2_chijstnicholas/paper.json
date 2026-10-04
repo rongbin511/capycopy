@@ -1,0 +1,1543 @@
+{
+  "paperid": "p6_english_2025_sa2_chijstnicholas",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The choir, ________ beautiful voices impressed everyone, sang confidently on stage.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "2": {
+          "stem_plain": "Neither Miss Ellie nor the twins ________ the time to help us now.",
+          "options": {
+            "1": "has",
+            "2": "had",
+            "3": "have",
+            "4": "having"
+          }
+        },
+        "3": {
+          "stem_plain": "There is no access to the remote island except ________ boat.",
+          "options": {
+            "1": "in",
+            "2": "by",
+            "3": "on",
+            "4": "with"
+          }
+        },
+        "4": {
+          "stem_plain": "The children enjoyed their picnic at the park ________ the rain that came at the end of the day.",
+          "options": {
+            "1": "owing to",
+            "2": "in spite of",
+            "3": "in addition to",
+            "4": "resulting from"
+          }
+        },
+        "5": {
+          "stem_plain": "\"Would you like to try ________ pair of glasses here?\" asked the optician.",
+          "options": {
+            "1": "this",
+            "2": "that",
+            "3": "those",
+            "4": "these"
+          }
+        },
+        "6": {
+          "stem_plain": "Aminah noticed a man ________ suspiciously near the entrance and reported it to the store manager immediately.",
+          "options": {
+            "1": "acts",
+            "2": "acted",
+            "3": "acting",
+            "4": "has acted"
+          }
+        },
+        "7": {
+          "stem_plain": "Randy showed ________ perseverance and determination, given that he gave up halfway.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "8": {
+          "stem_plain": "\"Malcom hardly ever forgets his homework, ________ he?\" the teacher remarked.",
+          "options": {
+            "1": "did",
+            "2": "does",
+            "3": "didn't",
+            "4": "doesn't"
+          }
+        },
+        "9": {
+          "stem_plain": "\"Fish and chips, together with a cup of ice-cold soda, ________ what I want for lunch today,\" Peter said, feeling hungry.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "No sooner ________ the competition than she burst into tears of joy.",
+          "options": {
+            "1": "did she win",
+            "2": "had she won",
+            "3": "does she win",
+            "4": "was she winning"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "关系词 — Possessive relative pronoun",
+          "zh": "合唱团美妙的歌声给大家留下了深刻印象，它们在舞台上自信地演唱。",
+          "note": "whose 表示所属关系，相当于 the choir's。整个 whose 从句修饰 The choir。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "主谓一致 — Subject-verb agreement with neither/nor",
+          "zh": "Ellie 老师和那对双胞胎现在都没有时间帮我们。",
+          "note": "neither...nor 结构中，谓语通常与较近主语一致；twins 是复数，所以用 have。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "介词 — Transport preposition",
+          "zh": "除了乘船以外，没有办法到达那座偏远岛屿。",
+          "note": "by boat 是固定搭配，表示交通方式。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "转折 — Contrast connector",
+          "zh": "尽管一天结束时下了雨，孩子们还是享受了在公园的野餐。",
+          "note": "in spite of 后接名词短语，表示“尽管”。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "代词 — Demonstrative pronoun",
+          "zh": "你想试试这里这副眼镜吗？",
+          "note": "this 修饰近处的单数名词短语 this pair。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "感官动词 — Object complement after perception verb",
+          "zh": "Aminah 注意到一名男子在入口附近举止可疑，并立即向店经理报告。",
+          "note": "notice + object + -ing 表示看到某动作正在发生。",
+          "answer": "3"
+        },
+        "7": {
+          "concept": "量词 — Quantifier for uncountable nouns",
+          "zh": "鉴于 Randy 半途而废，他表现出的毅力和决心很少。",
+          "note": "perseverance 和 determination 是不可数抽象名词；little 表示“几乎没有”。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "反意疑问句 — Question tag",
+          "zh": "Malcom 几乎从不忘记作业，对吗？",
+          "note": "hardly ever 带有否定意义，所以反义疑问句用肯定 does he。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "主谓一致 — Subject-verb agreement",
+          "zh": "炸鱼薯条加一杯冰汽水，就是我今天午餐想吃的东西。",
+          "note": "Fish and chips 在这里指一道菜；together with 不改变主语单复数，所以用 is。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "倒装句 — Inversion after negative opener",
+          "zh": "她刚赢得比赛，就喜极而泣。",
+          "note": "学校答案给 did she win。标准结构常见为 No sooner had she won ... than ...；此处按学校答案。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The teacher's warm smile ________ her courage before she stepped onto the stage.",
+          "options": {
+            "1": "enhanced",
+            "2": "mustered",
+            "3": "assisted",
+            "4": "boosted"
+          }
+        },
+        "12": {
+          "stem_plain": "The jeweller took pains to craft ________ patterns on the necklace that looked like little flowers.",
+          "options": {
+            "1": "extravagant",
+            "2": "exemplary",
+            "3": "expensive",
+            "4": "exquisite"
+          }
+        },
+        "13": {
+          "stem_plain": "The teacher loved the students' ________ during the activity, as they came up with creative ideas on the spot.",
+          "options": {
+            "1": "unpredictability",
+            "2": "thoughtfulness",
+            "3": "spontaneity",
+            "4": "exhilaration"
+          }
+        },
+        "14": {
+          "stem_plain": "\"Just tell me clearly what you're ________ instead of beating round the bush,\" Tim said, feeling annoyed.",
+          "options": {
+            "1": "driving around",
+            "2": "driving out",
+            "3": "driving at",
+            "4": "driving to"
+          }
+        },
+        "15": {
+          "stem_plain": "Amos ________ a tall tale to explain his absence from class but his teacher did not believe him.",
+          "options": {
+            "1": "rehearsed",
+            "2": "presented",
+            "3": "retold",
+            "4": "spun"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "老师温暖的微笑在她上台前增强了她的勇气。",
+          "note": "应选（4）'boosted'：题干语境最宜表达'增强；提升（信心、销量）'。解析中强调的关键形式为'(4) boosted'，与正确项一致。'enhanced'义为'提升；增强（品质／效果）'：与题干语境或搭配要求不一致。'mustered'义为'鼓起（勇气）；召集'：与题干语境或搭配要求不一致。'assisted'义为'协助；帮助'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — boosted（增强；提升（信心、销量））",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "enhanced",
+              "zh": "提升；增强（品质／效果）",
+              "eg": "The new lighting <strong>enhanced</strong> the colours of the paintings in the gallery."
+            },
+            {
+              "opt": "2",
+              "word": "mustered",
+              "zh": "鼓起（勇气）；召集",
+              "eg": "He <strong>mustered</strong> all his courage to apologise to the entire class."
+            },
+            {
+              "opt": "3",
+              "word": "assisted",
+              "zh": "协助；帮助",
+              "eg": "Two volunteers <strong>assisted</strong> the elderly visitor in finding her seat."
+            },
+            {
+              "opt": "4",
+              "word": "boosted",
+              "zh": "增强；提升（信心、销量）",
+              "eg": "The teacher's praise <strong>boosted</strong> Mei Lin's confidence to speak up in class."
+            }
+          ]
+        },
+        "12": {
+          "zh": "珠宝匠费心在项链上制作精美得像小花一样的图案。",
+          "note": "应选（4）'exquisite'：题干语境最宜表达'精美绝伦的；精致的'。解析中强调的关键形式为'(4) exquisite'，与正确项一致。'extravagant'义为'奢华的；铺张浪费的'：与题干语境或搭配要求不一致。'exemplary'义为'模范的；典范的'：与题干语境或搭配要求不一致。'expensive'义为'昂贵的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — exquisite（精美绝伦的；精致的）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "extravagant",
+              "zh": "奢华的；铺张浪费的",
+              "eg": "The wedding had an <strong>extravagant</strong> banquet with twelve courses of food."
+            },
+            {
+              "opt": "2",
+              "word": "exemplary",
+              "zh": "模范的；典范的",
+              "eg": "Her <strong>exemplary</strong> behaviour earned her the Best Conduct Award."
+            },
+            {
+              "opt": "3",
+              "word": "expensive",
+              "zh": "昂贵的",
+              "eg": "Diamond rings are far too <strong>expensive</strong> for most schoolchildren to consider."
+            },
+            {
+              "opt": "4",
+              "word": "exquisite",
+              "zh": "精美绝伦的；精致的",
+              "eg": "The jeweller showed us an <strong>exquisite</strong> diamond ring from his private collection."
+            }
+          ]
+        },
+        "13": {
+          "zh": "老师喜欢学生们在活动中即兴而自然的表现。",
+          "note": "应选（3）'spontaneity'：题干语境最宜表达'自发性；即兴而为'。解析中强调的关键形式为'(3) spontaneity'，与正确项一致。'unpredictability'义为'不可预测性'：与题干语境或搭配要求不一致。'thoughtfulness'义为'体贴；周到'：与题干语境或搭配要求不一致。'exhilaration'义为'兴奋；欢欣'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — spontaneity（自发性；即兴而为）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unpredictability",
+              "zh": "不可预测性",
+              "eg": "The <strong>unpredictability</strong> of Singapore's weather makes packing for school tricky."
+            },
+            {
+              "opt": "2",
+              "word": "thoughtfulness",
+              "zh": "体贴；周到",
+              "eg": "Her <strong>thoughtfulness</strong> in remembering each friend's birthday touched everyone."
+            },
+            {
+              "opt": "3",
+              "word": "spontaneity",
+              "zh": "自发性；即兴而为",
+              "eg": "Their trip lacked <strong>spontaneity</strong> because every minute had been planned in advance."
+            },
+            {
+              "opt": "4",
+              "word": "exhilaration",
+              "zh": "兴奋；欢欣",
+              "eg": "She felt pure <strong>exhilaration</strong> as she crossed the finish line first."
+            }
+          ]
+        },
+        "14": {
+          "zh": "别拐弯抹角，直接告诉我你想表达什么。",
+          "note": "应选（3）'driving at'：题干语境最宜表达'（说话）想表达；暗示'。解析中强调的关键形式为'(3) driving at'，与正确项一致。'driving around'义为'开车四处转；漫无目的地开'：与题干语境或搭配要求不一致。'driving out'义为'驱赶出去；赶走'：与题干语境或搭配要求不一致。'driving to'义为'驾车前往（某地）'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — driving at（（说话）想表达；暗示）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "driving around",
+              "zh": "开车四处转；漫无目的地开",
+              "eg": "We spent the whole afternoon <strong>driving around</strong> looking for a parking space."
+            },
+            {
+              "opt": "2",
+              "word": "driving out",
+              "zh": "驱赶出去；赶走",
+              "eg": "The new manager is slowly <strong>driving out</strong> all of the old habits in the office."
+            },
+            {
+              "opt": "3",
+              "word": "driving at",
+              "zh": "（说话）想表达；暗示",
+              "eg": "I'm not sure what you are <strong>driving at</strong> — could you explain more clearly?"
+            },
+            {
+              "opt": "4",
+              "word": "driving to",
+              "zh": "驾车前往（某地）",
+              "eg": "We are <strong>driving to</strong> Malacca for the weekend instead of taking the bus."
+            }
+          ]
+        },
+        "15": {
+          "zh": "Amos 编了一个荒唐故事来解释他缺课的原因。",
+          "note": "应选（4）'spun'：题干语境最宜表达'旋转；编造（故事）'。解析中强调的关键形式为'(4) spun'，与正确项一致。'rehearsed'义为'排练；预演'：与题干语境或搭配要求不一致。'presented'义为'呈现；介绍；颁发'：与题干语境或搭配要求不一致。'retold'义为'复述；重新讲述'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — spun（旋转；编造（故事））",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rehearsed",
+              "zh": "排练；预演",
+              "eg": "She <strong>rehearsed</strong> her speech in front of a mirror until it sounded natural."
+            },
+            {
+              "opt": "2",
+              "word": "presented",
+              "zh": "呈现；介绍；颁发",
+              "eg": "He <strong>presented</strong> his project to the class with confidence and clear slides."
+            },
+            {
+              "opt": "3",
+              "word": "retold",
+              "zh": "复述；重新讲述",
+              "eg": "The grandmother <strong>retold</strong> the same fairy tale every Sunday afternoon."
+            },
+            {
+              "opt": "4",
+              "word": "spun",
+              "zh": "旋转；编造（故事）",
+              "eg": "The storyteller <strong>spun</strong> a fascinating tale that kept the children spellbound for hours."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "gingerly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "carefully",
+            "2": "excitedly",
+            "3": "gracefully",
+            "4": "respectfully"
+          }
+        },
+        "17": {
+          "stem_plain": "admiring",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "studying",
+            "2": "evaluating",
+            "3": "scrutinising",
+            "4": "appreciating"
+          }
+        },
+        "18": {
+          "stem_plain": "countless",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "unending",
+            "2": "incessant",
+            "3": "numerous",
+            "4": "persistent"
+          }
+        },
+        "19": {
+          "stem_plain": "in urgent need of",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "indifferent to",
+            "2": "desperate for",
+            "3": "obsessed with",
+            "4": "distressed about"
+          }
+        },
+        "20": {
+          "stem_plain": "hidden dangers",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "perils",
+            "2": "obstacles",
+            "3": "mysteries",
+            "4": "adventures"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Standing at its base, Ben looked up eagerly at the lighthouse. His heart quickened with the anticipation of what lay inside. Climbing the winding stairs [Q16 (gingerly)], he was mindful of the narrow steps beneath his feet.",
+          "In the lantern room, Ben paused, [Q17 (admiring)] the old, faded pictures of the lighthouse. \"300 years? How amazing!\" he gasped as he realised that the sturdy lantern had stood through [Q18 (countless)] storms. The light glowed faintly. Stepping closer to the lantern, he could feel its purpose to guide lost sailors home. Gazing out over the endless sea, he imagined ships battling fierce storms, [Q19 (in urgent need of)] a glimmer of hope. The lighthouse was a promise of safety, warning sailors of [Q20 (hidden dangers)].",
+          "Filled with wonder, Ben turned away from the lantern and continued his exploration to uncover the rest of the lighthouse's secrets."
+        ],
+        "zh": [
+          "站在灯塔底部，Ben 急切地抬头望着灯塔，因期待里面有什么而心跳加快。他小心翼翼地爬上蜿蜒的楼梯，留意脚下狭窄的台阶。",
+          "在灯室里，Ben 停下来欣赏灯塔那些陈旧褪色的照片。“300年？太神奇了！”当他意识到这盏坚固的灯经历了无数场暴风雨时，不禁惊叹。灯光微微发亮。他走近灯，感受到它引导迷路水手回家的使命。望着无边的大海，他想象船只在猛烈风暴中挣扎，迫切需要一丝希望。灯塔象征安全，提醒水手海上潜藏的危险。",
+          "Ben 心中充满惊奇，转身离开灯室，继续探索灯塔其余的秘密。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — gingerly（仔细地；小心地）",
+          "zh": "他小心翼翼地爬上蜿蜒的楼梯，留意脚下狭窄的台阶。",
+          "note": "应选（1）'carefully'：短文划线的 <em>gingerly</em> 在此语境下与此义最接近。'excitedly'：与题干语境或搭配要求不一致。'gracefully'：与题干语境或搭配要求不一致。'respectfully'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "carefully",
+              "zh": "仔细地；小心地",
+              "eg": "She <strong>carefully</strong> reviewed every line of the contract before signing it."
+            },
+            {
+              "opt": "2",
+              "word": "excitedly",
+              "zh": "兴奋地",
+              "eg": "She answered <strong>excitedly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "gracefully",
+              "zh": "优美地",
+              "eg": "She answered <strong>gracefully</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "respectfully",
+              "zh": "恭敬地",
+              "eg": "She answered <strong>respectfully</strong> before the bell rang."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — admiring（欣赏）",
+          "zh": "在灯室里，Ben 停下来欣赏灯塔那些陈旧褪色的照片。",
+          "note": "应选（4）'appreciating'：短文划线的 <em>admiring</em> 在此语境下与此义最接近。'studying'：与题干语境或搭配要求不一致。'evaluating'：与题干语境或搭配要求不一致。'scrutinising'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "studying",
+              "zh": "学习",
+              "eg": "The team kept <strong>studying</strong> until the task was done."
+            },
+            {
+              "opt": "2",
+              "word": "evaluating",
+              "zh": "评估",
+              "eg": "The team kept <strong>evaluating</strong> until the task was done."
+            },
+            {
+              "opt": "3",
+              "word": "scrutinising",
+              "zh": "仔细检查",
+              "eg": "The team kept <strong>scrutinising</strong> until the task was done."
+            },
+            {
+              "opt": "4",
+              "word": "appreciating",
+              "zh": "欣赏",
+              "eg": "The team kept <strong>appreciating</strong> until the task was done."
+            }
+          ]
+        },
+        "18": {
+          "zh": "瑞容太专注于写他的书了，以至于很少吃饭和睡觉。",
+          "note": "“numerous”在此语境下作为“countless（无数的）”的近义词，用来修饰可数名词复数“rainstorms（暴风雨）”，表示次数极多。而 unending 和 incessant 侧重于单次事件持续不中断，不符合多场独立暴风雨的语境。",
+          "concept": "词汇辨析 Vocabulary-Word Choice",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unending",
+              "zh": "无休止的，无穷无尽的（侧重于时间或空间上没有尽头、永不结束）",
+              "eg": "The travelers grew weary during their seemingly unending journey across the desert."
+            },
+            {
+              "opt": "2",
+              "word": "incessant",
+              "zh": "连续不断的，不停的（侧重于动作没有间断、令人厌烦地一直持续）",
+              "eg": "The incessant ticking of the clock kept him awake all night."
+            },
+            {
+              "opt": "3",
+              "word": "numerous",
+              "zh": "许多的，无数的（侧重于可数名词的数量很多，常作为 countless 的同义词）",
+              "eg": "She has won numerous awards throughout her long and successful career."
+            },
+            {
+              "opt": "4",
+              "word": "persistent",
+              "zh": "执着的，持续不散的（侧重于某种力量、努力或疾病在阻碍下依然坚持不懈或固执存在）",
+              "eg": "Despite the temporary treatment, he still suffered from a persistent cough."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — in urgent need of（绝望地）",
+          "zh": "他想象船只在猛烈风暴中挣扎，迫切需要一丝希望。",
+          "note": "应选（2）'desperate for'：短文划线的 <em>in urgent need of</em> 在此语境下与此义最接近。'indifferent to'：与题干语境或搭配要求不一致。'obsessed with'：与题干语境或搭配要求不一致。'distressed about'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "indifferent to",
+              "zh": "漠不关心",
+              "eg": "The passage phrase <strong>indifferent to</strong> appears in formal exam English."
+            },
+            {
+              "opt": "2",
+              "word": "desperate for",
+              "zh": "绝望地",
+              "eg": "The passage phrase <strong>desperate for</strong> appears in formal exam English."
+            },
+            {
+              "opt": "3",
+              "word": "obsessed with",
+              "zh": "沉迷于",
+              "eg": "The passage phrase <strong>obsessed with</strong> appears in formal exam English."
+            },
+            {
+              "opt": "4",
+              "word": "distressed about",
+              "zh": "苦恼于",
+              "eg": "The passage phrase <strong>distressed about</strong> appears in formal exam English."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — hidden dangers（危险）",
+          "zh": "灯塔象征安全，提醒水手海上潜藏的危险。",
+          "note": "应选（1）'perils'：短文划线的 <em>hidden dangers</em> 在此语境下与此义最接近。'obstacles'：与题干语境或搭配要求不一致。'mysteries'：与题干语境或搭配要求不一致。'adventures'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "perils",
+              "zh": "危险",
+              "eg": "In class we discussed how <strong>perils</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "obstacles",
+              "zh": "障碍",
+              "eg": "The pupils found the word <strong>obstacles</strong> useful in their composition."
+            },
+            {
+              "opt": "3",
+              "word": "mysteries",
+              "zh": "神秘",
+              "eg": "Her essay used <strong>mysteries</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "4",
+              "word": "adventures",
+              "zh": "冒险家",
+              "eg": "Her essay used <strong>adventures</strong> in a clear, natural sentence."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "**\"Choose healthy snacks for growing children.\"** The image in Text 1 supports this statement as the children shown are looking",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "full",
+            "2": "cheery",
+            "3": "intelligent",
+            "4": "comfortable"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the poster in Text 1, eating healthy snacks helps children to",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "excel in everything they do",
+            "2": "improve their concentration",
+            "3": "lose weight to build muscles",
+            "4": "cultivate a strong interest in learning"
+          }
+        },
+        "23": {
+          "stem_plain": "Based on Text 1, which of the following statements is not true ?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Sugary drinks and candies can be given as occasional treats.",
+            "2": "Snacks should be given in smaller portions to prevent overeating.",
+            "3": "Children are more likely to finish the snacks prepared by themselves.",
+            "4": "Snacks given should include two or more different coloured fruits or vegetables."
+          }
+        },
+        "24": {
+          "stem_plain": "**\"Do you know that healthy snacks can be delicious and easy to prepare?\"** Why did the writer ask the question in Text 2?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to enthuse students to participate in Health Awareness Week",
+            "2": "to show students how simple it is to make healthier food choices",
+            "3": "to encourage students to bring their own healthy snacks from home",
+            "4": "to get students thinking about their current snack habits and consider healthier options"
+          }
+        },
+        "25": {
+          "stem_plain": "Which one of the following phrases from Text 2 does not show the application of the healthy eating tips given in Text 1?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "[vendors] … used whole-grain noodles.",
+            "2": "[vendors] … replaced the sweetened sodas.",
+            "3": "[students] … created fun animal-shaped rice balls by themselves.",
+            "4": "[students] … are now more willing to pack or eat more nutritious snacks."
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Image support（题型考点）",
+          "breakdown": {
+            "zh": "图片通过展示拿着健康零食、看起来开心的孩子来支持这句话。",
+            "note": "cheery 表示愉快、开心，符合图片描述。"
+          },
+          "note": "The children in the image are described as holding healthy snacks and looking cheerful.",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "题型 — Reading poster details（题型考点）",
+          "breakdown": {
+            "zh": "吃健康零食有助于孩子提高专注力。",
+            "note": "Boost focus 与 improve concentration 意思相近。"
+          },
+          "note": "The poster says healthy eating helps <span class=\"hl\">Boost focus</span>, which means improving concentration.",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "题型 — False statement（题型考点）",
+          "breakdown": {
+            "zh": "含糖饮料和糖果不应作为偶尔的奖励。",
+            "note": "Text 1 明确说 Avoid sweets and sweet drinks，所以选项 1 不正确。"
+          },
+          "note": "Text 1 says to <span class=\"hl\">Avoid sweets and sweet drinks</span>, not to give them as treats.",
+          "answer": "1"
+        },
+        "24": {
+          "concept": "目的 — Author purpose（目的考点）",
+          "breakdown": {
+            "zh": "作者提出问题，是为了让学生思考自己目前的零食习惯并考虑更健康的选择。",
+            "note": "这是文章开头的 hook，引导读者反思。"
+          },
+          "note": "The opening question works as a hook that makes readers reflect on snack choices before the article describes healthier options.",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Comparing text evidence（题型考点）",
+          "breakdown": {
+            "zh": "这个调查结果并没有显示某一条健康饮食建议的具体应用。",
+            "note": "其他选项分别对应 whole grains、skip sugary treats、get children involved；选项 4 只是总体意愿变化。"
+          },
+          "note": "This is a survey result, not an example of applying a specific tip such as whole grains or avoiding sweet drinks.",
+          "answer": "4"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "about",
+          "D": "beyond",
+          "G": "for",
+          "K": "more",
+          "N": "their",
+          "B": "an",
+          "E": "but",
+          "H": "from",
+          "L": "since",
+          "P": "to",
+          "C": "and",
+          "F": "by",
+          "J": "how",
+          "M": "some",
+          "Q": "when"
+        },
+        "cloze": [
+          "Chimpanzees can help each other when injured. Scientists have found that chimpanzees not only treat their own wounds [Q26] they also provide 'first aid' to others. This discovery suggests that chimps may recognise [Q27] another chimp is hurt and try to help. A team of researchers came to this conclusion after reviewing years of previous studies [Q28] observing two groups of chimpanzees for months.",
+          "The researchers documented numerous cases where chimpanzees cared [Q29] their own injuries. Common behaviours included licking wounds and chewing plants to apply the material directly to open wounds. These methods can help remove dirt and prevent infections [Q30] chimp saliva and some plants contain healing chemicals.",
+          "Even [Q31] remarkable were seven examples of chimps helping others. For instance, a young male chimp was seen licking a wound on another chimp's leg, and in one case, a male helped a female escape [Q32] a rope trap. These acts were not limited [Q33] family members, showing how social care extends [Q34] family ties.",
+          "[Q35] behaviours are likely instinctive, but others appear to be learned. Scientists plan to continue studying these behaviours to better understand how chimps learn and care for each other."
+        ],
+        "zh": [
+          "黑猩猩受伤时可以互相帮助。科学家发现，黑猩猩不仅会处理自己的伤口，也会为其他黑猩猩提供“急救”。这一发现说明，黑猩猩可能能认出另一只黑猩猩什么时候受伤，并试着帮助。研究团队是在回顾多年以往研究并观察两组黑猩猩数月后得出这个结论的。",
+          "研究人员记录了许多黑猩猩照料自己伤口的案例。常见行为包括舔舐伤口，以及咀嚼植物后将物质直接涂抹在开放性伤口上。这些方法能帮助清除污垢并防止感染，因为黑猩猩唾液和某些植物含有疗愈化学物质。",
+          "更令人惊讶的是，有七个黑猩猩帮助其他同伴的例子。例如，有人看到一只年轻雄性黑猩猩舔另一只黑猩猩腿上的伤口；在一个案例中，一只雄性黑猩猩帮助一只雌性从绳索陷阱中逃脱。这些行为并不限于家庭成员，说明社会性照料会延伸到家庭纽带之外。",
+          "有些行为可能是本能的，但另一些看起来是后天学会的。科学家计划继续研究这些行为，以更好地了解黑猩猩如何学习并相互照料。"
+        ]
+      },
+      "answers": {
+        "26": {
+          "concept": "转折 — but",
+          "note": "not only … but (they) also = 不但……而且。",
+          "answer": "E — but"
+        },
+        "27": {
+          "concept": "时间 — when",
+          "note": "recognise when another chimp is hurt。",
+          "answer": "Q — when"
+        },
+        "28": {
+          "concept": "并列 — and",
+          "note": "studies and observing = 研究并观察。",
+          "answer": "C — and"
+        },
+        "29": {
+          "concept": "介词 — for",
+          "note": "cared for their injuries = 照料伤口。",
+          "answer": "G — for"
+        },
+        "30": {
+          "concept": "原因 — since",
+          "note": "since saliva … contain chemicals = 因为唾液含……",
+          "answer": "L — since"
+        },
+        "31": {
+          "concept": "比较 — more",
+          "note": "Even more remarkable were … = 更令人惊叹。",
+          "answer": "K — more"
+        },
+        "32": {
+          "concept": "介词 — from",
+          "note": "escape from a rope trap = 摆脱绳套。",
+          "answer": "H — from"
+        },
+        "33": {
+          "concept": "介词 — to",
+          "note": "not limited to family = 不限于家人。",
+          "answer": "P — to"
+        },
+        "34": {
+          "concept": "介词 — beyond",
+          "note": "extends beyond family ties = 超出家族范围。",
+          "answer": "D — beyond"
+        },
+        "35": {
+          "concept": "数量 — Some",
+          "note": "Some behaviours are likely … = 一些行为……",
+          "answer": "M — some"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Fitness trackers are wearable gadgets that help you understand how active and healthy you are. [Q36(We)] measure things like how much you move, your heart rate, and how well you have [Q37(sleeping)] . This information helps you learn more about your daily habits and overall health.",
+          "One key feature of fitness trackers is tracking your steps. They use built-in [Q38(sansers)] to count movement and [Q39(ditact)] if you are walking, running or climbing stairs. Many trackers also shine a light on your skin to check the rate [Q40(in)] which your heart is beating. You can view all this data on the device or in an app on your phone. For some people, starting out with new technology may feel a bit [Q41(donnting)] , but it becomes easier with use.",
+          "Fitness trackers let you set goals like walking 10,000 steps a day — a number [Q42(making)] popular by a Japanese doctor in the 1960s. These goals offer [Q43(valued)] motivation to stay active and healthy. Some trackers also monitor stress levels and sleep quality.",
+          "Although fitness trackers are not perfect, they can help detect [Q44(potenshielly)] serious health issues — some of which could turn [Q45(faytle)] if ignored. They are like small coaches on your wrist, guiding you towards better habits every day."
+        ],
+        "zh": [
+          "健身追踪器是可穿戴的小装置，能让你了解自己有多活跃和健康。它们能测量你活动了多少、你的心率，以及你睡得如何。这些信息能帮助你更了解自己的日常习惯和整体健康。",
+          "健身追踪器的一项关键功能是记录你的步数。它们用内置传感器来统计动作，并判断你是在走路、跑步还是爬楼梯。许多追踪器还会在皮肤上发光，检测心脏跳动的速率。你可以在设备或手机应用上查看所有数据。对一些人来说，刚开始使用新科技可能有点吓人，但用久了会更容易。",
+          "健身追踪器让你设定目标，比如每天走一万步——这个数字在二十世纪六十年代由一位日本医生推广而流行。这些目标提供了宝贵的动力，让人保持活跃和健康。有些追踪器还会监测压力水平和睡眠质量。",
+          "虽然健身追踪器并不完美，但它们可以帮助发现潜在严重的健康问题；其中一些如果被忽视，可能会致命。它们就像戴在手腕上的小教练，每天引导你养成更好的习惯。"
+        ]
+      },
+      "answers": {
+        "36": {
+          "concept": "Pronoun reference",
+          "note": "The pronoun refers to fitness trackers, so use plural <span class=\"hl-good\">They</span>.",
+          "answer": "They"
+        },
+        "37": {
+          "concept": "Past participle",
+          "note": "After <code>have</code>, use the past participle: <span class=\"hl-good\">have slept</span>.",
+          "answer": "slept"
+        },
+        "38": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">sansers</span> → <span class=\"hl-good\">sensors</span>.",
+          "answer": "sensors"
+        },
+        "39": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">ditact</span> → <span class=\"hl-good\">detect</span>.",
+          "answer": "detect"
+        },
+        "40": {
+          "concept": "Prepositional phrase",
+          "note": "Correct phrase: <code>the rate <span class=\"hl-good\">at</span> which your heart is beating</code>.",
+          "answer": "at"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">donnting</span> → <span class=\"hl-good\">daunting</span>.",
+          "answer": "daunting"
+        },
+        "42": {
+          "concept": "Past participle phrase",
+          "note": "The number was <span class=\"hl-good\">made</span> popular by a Japanese doctor.",
+          "answer": "made"
+        },
+        "43": {
+          "concept": "Adjective choice",
+          "note": "Motivation is <span class=\"hl-good\">valuable</span>; <code>valued</code> means appreciated.",
+          "answer": "valuable"
+        },
+        "44": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">potenshielly</span> → <span class=\"hl-good\">potentially</span>.",
+          "answer": "potentially"
+        },
+        "45": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">faytle</span> → <span class=\"hl-good\">fatal</span>.",
+          "answer": "fatal"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Bedtime stories are more than just fun — they help you in many important ways. Reading or listening to stories [Q46] you go to sleep can improve your mind, help you relax, and [Q47] make your life better.",
+          "[Q48] you hear or read stories, you pick up a variety of skills. You learn new words and see how sentences are put [Q49]. This makes it easier to understand [Q50] you read in school and improves your writing skills. Stories also introduce interesting characters and exciting adventures that can make you think differently [Q51] the world. Discussing stories you have read with family or friends can help you see things from different [Q52] of view. This is a skill that will help you in school and in real life.",
+          "Listening to or reading a story before bed [Q53] you calm your mind after a busy day. [Q54] of scrolling through your phone or playing video games right before sleep, stories let your brain slow down and get ready for rest. This enables you to fall asleep faster and sleep more deeply, so you [Q55] up feeling refreshed and ready for a new day.",
+          "Bedtime stories also [Q56] you how to handle challenges. Many stories show characters dealing [Q57] problems like friendship troubles, fears, or big changes. Seeing how these characters work [Q58] their difficulties can give you ideas on how to better handle your own. It also reminds you that everyone faces struggles from time to [Q59], and that is perfectly normal.",
+          "Exploring bedtime stories [Q60] a simple way to learn, relax, and understand yourself better. Try making stories part of your nightly routine — you might find that they make your nights calmer and your days brighter."
+        ],
+        "zh": [
+          "睡前故事不只是好玩——它们以多种重要方式帮助你。睡前阅读或听故事能提升思维、帮你放松，让生活更美好。",
+          "当你听或读故事时，会习得多种技能：学到新词、明白句子如何组织，也更容易理解学校读物并提高写作能力。故事还带来有趣人物与冒险，让你以不同方式思考世界；与家人朋友讨论所读故事，有助于从不同观点看问题——这是在校内外都管用的能力。",
+          "睡前听或读故事能在忙碌一天后平静心绪。与其睡前刷手机或打游戏，不如让大脑慢下来、准备休息，这样更快入睡、睡得更沉，第二天精神饱满。",
+          "睡前故事也教你如何应对挑战：许多故事呈现人物面对友谊困扰、恐惧或重大变化，看角色如何渡过难关，能给你处理自己问题的思路，也提醒你人人都会不时遇到困难，这很正常。",
+          "探索睡前故事是学习与认识自己的简单方式；试着把故事纳入每晚例行，或许你会发现夜晚更平静、白天更明亮。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "时间介词/连词",
+          "note": "结合主题“睡前故事（Bedtime stories）”，指在去睡觉“之前”（before）阅读或倾听故事。也可以填入 until 构成“一直读到你去睡觉为止”的语意。",
+          "answer": "before/until"
+        },
+        "47": {
+          "concept": "情态动词/副词",
+          "note": "与前面的 improve 构成并列的谓语部分。可以填入情态动词 can / may / will（能够/也许/将会让生活变得更好），或者填入副词 even（甚至让生活变得更好）来增强语气。",
+          "answer": "can/even/may/will"
+        },
+        "48": {
+          "concept": "时间/条件从句引导词",
+          "note": "引导状语从句。表示“当你（When）”或者“每当（Whenever）”听或读故事时，你就能学到很多技能。如果视作一种假设条件，填入 If 亦通顺。位于句首需大写。",
+          "answer": "When/Whenever/If"
+        },
+        "49": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词 past participle 形式 put 组合，构成地道固定短语 put together，意思是看到句子是如何被“组合/构建”在一起的。",
+          "answer": "together"
+        },
+        "50": {
+          "concept": "名词性从句关系代词",
+          "note": "作动词 understand 的宾语从句引导词，同时在从句中充当 read 的宾语，指代你在学校里读到的“东西”，故填代词 what。",
+          "answer": "what"
+        },
+        "51": {
+          "concept": "介词搭配",
+          "note": "动词 think 与介词搭配。表示故事能让你对这个世界产生不一样的“思考”或“看法”，构成 think about/of the world。",
+          "answer": "about/of"
+        },
+        "52": {
+          "concept": "习语搭配",
+          "note": "完美契合英语中表达观点的核心经典习语 points of view，意思是引导你从不同的“角度/观点”来看待事情。",
+          "answer": "points"
+        },
+        "53": {
+          "concept": "主谓一致与动词搭配",
+          "note": "主语为动名词短语 Listening to or reading a story，属于单数第三人称。指这件事能“帮助”你冷静下来，且后接动词原形 calm 构成 help sb do sth 结构，故填单三形式 helps。",
+          "answer": "helps"
+        },
+        "54": {
+          "concept": "对比结构连词",
+          "note": "后接介词 of，与之组合构成高频固定搭配 Instead of，表示“代替/而不是”在睡前刷手机或玩游戏。位于句首需大写。",
+          "answer": "Instead"
+        },
+        "55": {
+          "concept": "短语动词形式",
+          "note": "前面有助动词 so you，后接动词原形。与副词 up 组合构成最常用的清晨醒来短语 wake up 或 get up，表示你“醒来”时会感到精神饱满。",
+          "answer": "wake/get"
+        },
+        "56": {
+          "concept": "主谓一致与动词语义",
+          "note": "主语 Bedtime stories 为复数名词，谓语动词用原形。指故事能够“教（teach）”或“告诉（show/tell）”你该如何应对挑战。",
+          "answer": "teach/show/tell"
+        },
+        "57": {
+          "concept": "短语动词固定搭配",
+          "note": "与动词现在分词形式 dealing 完美组合，构成在各类考卷中极其高频出现的特定短语动词 deal with，意为“应对”或“处理”问题。",
+          "answer": "with"
+        },
+        "58": {
+          "concept": "短语动词固定搭配",
+          "note": "修饰动词 work，指看这些角色如何“解决”或“克服”他们的困难。构成短语动词 work through 或 work out（理清/解决困难）。",
+          "answer": "through/out"
+        },
+        "59": {
+          "concept": "习惯短语搭配",
+          "note": "属于极为经典的常用高频时间习语 from time to time，意思是指每个人“偶尔”或“有时”都会遇到挣扎与困境。",
+          "answer": "time"
+        },
+        "60": {
+          "concept": "主谓一致与系动词",
+          "note": "主语为单数动名词短语 Exploring bedtime stories，在语法上充当单数第三人称主语。此处需要填入单数系动词 is，构成“……是一种简单的方法”。",
+          "answer": "is"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "We did not want to miss the show so we left the house early.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ in case __________"
+        },
+        "62": {
+          "stem_plain": "\"Do you want to eat sushi tomorrow?\" Mother asked Andrea.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mother asked Andrea if __________"
+        },
+        "63": {
+          "stem_plain": "Charlie ran out of the house. He did not lock the door.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Without __________"
+        },
+        "64": {
+          "stem_plain": "The library will open earlier starting next Monday.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "With effect __________"
+        },
+        "65": {
+          "stem_plain": "Since he started working, I have hardly seen him.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Seldom __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "61": {
+          "concept": "句型转换 — Purpose clause with in case",
+          "zh": "我们提早离开家，以免错过演出。",
+          "note": "把原因改写成 <code>in case + clause</code>，表示“以防／以免”。",
+          "answer": "We left the house early in case we missed the show."
+        },
+        "62": {
+          "concept": "间接引语 — Reported speech",
+          "zh": "妈妈问 Andrea 第二天是否想吃寿司。",
+          "note": "直接引语的问题改成间接引语，语序变陈述句，时间词后移。",
+          "answer": "Mother asked Andrea if she wanted to eat sushi the next day."
+        },
+        "63": {
+          "concept": "介词短语 — Preposition + gerund",
+          "zh": "Charlie 没有锁门就跑出了屋子。",
+          "note": "<code>without + -ing</code> 表示“没有做某事”。",
+          "answer": "Without locking the door, Charlie ran out of the house."
+        },
+        "64": {
+          "concept": "句型转换 — Formal starting-date phrase",
+          "zh": "从下星期一开始，图书馆将更早开放。",
+          "note": "<code>With effect from</code> 是正式表达，意思是“自……起生效”。",
+          "answer": "With effect from next Monday, the library will open earlier."
+        },
+        "65": {
+          "concept": "倒装 — Inversion after negative adverb",
+          "zh": "自从他开始工作以来，我很少见到他。",
+          "note": "否定副词 <code>Seldom</code> 放句首时，后面要部分倒装。",
+          "answer": "Seldom have I seen him since he started working."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "From paragraph 1, state what the writer first observed which made him realise that they were moving",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "67": {
+          "stem_plain": "Based on lines 4–11, why did the writer's family have to move again?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "68": {
+          "stem_plain": "Why did the move **'feel heavier'** (lines 9–10) when the writer had to make a fresh start?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q68a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q68b]"
+            }
+          ]
+        },
+        "69": {
+          "stem_plain": "From paragraph 3, pick out a four-word phrase that tells us that the writer had to begin learning to live somewhere new again.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "70": {
+          "stem_plain": "From paragraph 4, how can we tell that Mama was positive despite the poor living conditions?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "71": {
+          "stem_plain": "Complete the table below by identifying how the writer felt at specific points in the story and explaining why he felt that way. Use evidence from lines 15–26.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "Event",
+              "rows": [
+                "Working in the grape fields",
+                "Listening to the other students speak quickly during group work"
+              ]
+            },
+            "col_2": {
+              "header": "One word to show how the writer felt",
+              "rows": [
+                "[Q71a]",
+                "[Q71c]"
+              ]
+            },
+            "col_3": {
+              "header": "Explain why the writer felt that way",
+              "rows": [
+                "[Q71b]",
+                "[Q71d]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage?",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **new home** (line 12)",
+                "(b) **that** (line 30)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q72a]",
+                "[Q72b]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Explain clearly what Papa meant when he reminded the writer that work **'came first'** (line 20) even though the writer wanted to go to school.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on lines 21–39, state whether each statement in the table below is True or False, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The teacher in the writer's new school was welcoming.",
+                "(b) The first time the writer had to read aloud in front of the class, he did so fluently.",
+                "(c) The writer started a conversation to make new friends."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]",
+                "[Q74e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]",
+                "[Q74f]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "(a) Circle one word that best describes how the writer felt about moving at the start of the story. **DO NOT CIRCLE MORE THAN ONE WORD.**",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "embarrassed",
+            "reluctant",
+            "nonchalant",
+            "determined"
+          ]
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "The mattress had been rolled up, and Mama was folding clothes without a word. It",
+          "2": "made sense now — why the cardboard boxes were stacked in the corner when I first walked",
+          "3": "in.",
+          "4": "\"We're moving again, Son,\" Papa said, not looking up. \"The strawberries are gone.",
+          "5": "Time to find new work.\"",
+          "6": "This was the life of a migrant family. It was not the first time the five of us had packed",
+          "7": "up our lives into a rusty old car. We followed the harvest. In spring, we picked strawberries.",
+          "8": "In summer, we picked grapes. Later in the year, we moved again to pick cotton. Each move",
+          "9": "meant leaving behind any friends I had just made. Still, something about this move felt",
+          "10": "heavier and I was unwilling to accept that. I had just begun to enjoy school and found it hard",
+          "11": "to give up my spot on the soccer team. But once again, I would have to make a fresh start.",
+          "12": "We arrived at our **new home** two days later. The sun was harsh, and the shed we",
+          "13": "were offered to stay in had cracked walls and a floor made of dirt. Mama did not complain.",
+          "14": "She simply said, \"We'll make it work,\" as she laid out our blankets.",
+          "15": "Work in the grape fields began the next day. I woke up early and followed Papa and",
+          "16": "my two older brothers into the rows of vines. The grapes looked beautiful hanging in",
+          "17": "bunches, but they were tough to cut, and the buckets grew heavier with each trip. My hands",
+          "18": "stung, and my back ached by mid-morning. \"Keep going,\" Papa said gently, \"We need the",
+          "19": "money.\" In the evening, we returned to the shed exhausted and silent. I missed school, but",
+          "20": "Papa reminded me that work came first.",
+          "21": "Eventually, I was allowed to attend the nearby school since the harvest was slowing",
+          "22": "down. On my first day, I walked into the classroom clutching a paper bag lunch. My new",
+          "23": "class was twice the size of the old one. The teacher greeted me kindly and pointed to an",
+          "24": "empty seat, but I felt everyone's eyes on me. During lessons, students spoke quickly and",
+          "25": "worked in groups, but I barely understood what anyone was saying. At that point, I wished I",
+          "26": "was back in my old school.",
+          "27": "One afternoon, the teacher announced that we would each take turns reading a",
+          "28": "paragraph aloud. My heart raced. When it was my turn, I stood up and began reading — but",
+          "29": "stumbled over several words. A few students giggled. I sat down quickly, face burning.",
+          "30": "**That** night, I did not eat much. Mama noticed that.",
+          "31": "\"You okay?\" she asked.",
+          "32": "\"I read badly today,\" I muttered. \"Everyone laughed.\"",
+          "33": "She placed a hand on my shoulder. \"Then read it again tonight. Show them what you",
+          "34": "can do.\"",
+          "35": "So I did. I read the paragraph over and over every night. Even after my brothers were",
+          "36": "asleep, I whispered the words under my breath.",
+          "37": "A week later, it was my turn again. This time, I read the paragraph without hesitation.",
+          "38": "The room was quiet, and when I finished, my teacher gave me a nod. After class, a boy",
+          "39": "walked over. \"Hey,\" he said, \"you read well. Want to sit with us at lunch?\"",
+          "40": "I nodded, surprised. It felt like I was beginning to belong again.",
+          "41": "That night, as I sat in the corner of the shed reading by the dim light of a lantern, I",
+          "42": "thought of how friendly the boy was at this new place. It dawned on me that I no longer felt",
+          "43": "afraid. The key to that was to keep an open mind."
+        },
+        "paragraphs": {
+          "1": "床垫已经卷了起来，妈妈一声不吭地叠着衣服。我现在明白了——为什么我刚进门时，墙角会堆着那些纸箱。",
+          "4": "爸爸头也不抬地说：“儿子，我们又要搬家了。草莓没了，该去找新活儿了。”",
+          "6": "这就是一个流动劳工家庭的生活。我们五个人搬进一辆生锈的旧车，把生活重新打包——这已经不是第一次了。我们跟着收成走。春天摘草莓，夏天摘葡萄，到了晚些时候又要搬家去摘棉花。每一次搬家，都意味着我刚交上的朋友又要说再见。可这一次搬家感觉格外沉重，我不愿意接受这个事实。我才刚开始喜欢上学校，舍不得足球队里的位置。可再一次，我不得不从头开始。",
+          "12": "两天后，我们到了所谓的新家。太阳晒得人难受，我们被安排住进的棚屋墙壁开裂，地是泥地。妈妈没有抱怨。她铺好毯子，只说：“我们会想办法撑过去的。”",
+          "15": "第二天葡萄园就开始干活了。我一早醒来，跟着爸爸和两个哥哥走进一行行葡萄藤。葡萄成串挂着，看起来很美，摘起来却很费劲，每桶越走越沉。到了上午一半，手又疼，背又酸。“继续干，”爸爸温和地说，“家里需要钱。”傍晚我们疲惫而沉默地回到棚屋。我想上学，爸爸提醒我眼下干活更重要。",
+          "21": "收成放慢后，我终于获准去附近的学校上学。第一天，我拎着纸袋装的午餐走进教室。新班级的人数是旧学校的两倍。老师友善地跟我打招呼，指了空位，可我总觉得所有人的眼睛都在看我。上课时同学们说得很快，还分组活动，我几乎听不懂他们在说什么。那一刻，我真想回到原来的学校。",
+          "27": "一天下午，老师宣布我们要轮流朗读段落。我的心怦怦直跳。轮到我时，我站起来开始读——却在好几个词上卡住了。有几个同学偷笑。我赶紧坐下，脸烧得发烫。",
+          "30": "那天晚上，我几乎没吃什么。妈妈注意到了。",
+          "31": "“你没事吧？”她问。",
+          "32": "“我今天读得很差，”我咕哝着说，“大家都在笑。”",
+          "33": "她把手搭在我肩上。“那就今晚再读一遍。让他们看看你能行。”",
+          "35": "于是我就照做了。每晚我把那段话读了一遍又一遍。哥哥们睡着了以后，我还在轻声念叨那些词。",
+          "37": "一周后，又轮到我。这一次，我毫不迟疑地读完了那段话。教室里很安静；读完后，老师朝我点了点头。下课后，一个男孩走过来。“嘿，”他说，“你读得很好。午饭想跟我们坐吗？”",
+          "40": "我惊讶地点点头。我觉得自己又快要属于这里了。",
+          "41": "那天晚上，我坐在棚屋角落，就着灯笼昏暗的光读书。我想起在这新地方那个男孩有多友善。我忽然明白，自己已不再害怕。关键在于保持开放的心态。"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>要点直答——题干限定 <em>first observed</em>、<em>paragraph 1</em>，须写<strong>他先看到的具体景象</strong>（一句完整句）。</li><li><strong>范围：</strong>第一段对应 <em>lines 1–3</em>（空行分段下，Papa 开口前）。</li><li><strong>证据：</strong>行 1–2 写 <em>mattress had been rolled up</em>、<em>Mama was folding clothes without a word</em>，与后文纸箱堆角呼应，点出<strong>收拾、搬迁</strong>。</li><li><strong>失分：</strong>只复述 Papa 的话而未写“先看见什么”；漏掉两项线索之一。</li></ol>",
+          "answer": [
+            "He saw that the mattress had been rolled up and Mama was folding clothes without a word."
+          ],
+          "type": "comprehension"
+        },
+        "67": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——说明“为何又要搬”，<strong>两层</strong>：当下原因 + 家庭生计模式。</li><li><strong>范围：</strong><em>lines 4–11</em>（Papa 的话至“又要重新开始”前）。</li><li><strong>直接原因：</strong>行 4–5 Papa 说 <em>strawberries are gone</em>、要 <em>find new work</em>。</li><li><strong>背景模式：</strong>行 6–8 点明 <em>migrant family</em>、<em>followed the harvest</em>，随季节换工种。</li><li><strong>书写：</strong>两句并成一句或两句均可，须同时出现 <span class=\"hl-good\">跟收成迁徙</span> 与 <span class=\"hl-good\">草莓没了要找新活</span>。</li></ol>",
+          "answer": [
+            "His family was a migrant family that followed the harvest. They had to move because the strawberries were gone and they needed to find new work."
+          ],
+          "type": "comprehension"
+        },
+        "68": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——解释 <em>feel heavier</em>（这次搬迁<strong>心里更沉重</strong>），两条原因各占一分。</li><li><strong>范围：</strong><em>lines 9–11</em>：<em>heavier</em> 与 <em>unwilling to accept</em> 紧接其后的原因句。</li><li><strong>要点一：</strong>行 10–11 <em>had just begun to enjoy school</em>——刚适应学校就要离开。</li><li><strong>要点二：</strong>同句 <em>hard to give up my spot on the soccer team</em>——舍不得校队位置。</li><li><strong>失分：</strong>只写“不想搬”而不回扣原文两处具体损失；两点顺序可与范文相反。</li></ol>",
+          "answer": {
+            "68a": "He found it hard to give up his spot on the soccer team.",
+            "68b": "He had just begun to enjoy school."
+          }
+        },
+        "69": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句题——从第三段抄<strong>恰好四个词</strong>的短语，语义须是“到新地方重新适应、重新开始”。</li><li><strong>范围：</strong>第三段以稿中空行为准，起自 <em>line 9</em> 至 <em>line 11</em>（<em>Each move…</em> 至 <em>fresh start</em>）。</li><li><strong>关键词：</strong><em>four-word phrase</em>、<em>begin learning to live somewhere new again</em>。</li><li><strong>答案：</strong>行 11 末 <em>make a fresh start</em> 正好四词，与“重新起步”同义。</li><li><strong>失分：</strong>抄超过或少于四词；抄到别段短语。</li></ol>",
+          "answer": [
+            "make a fresh start"
+          ],
+          "type": "comprehension"
+        },
+        "70": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>题型：</strong>证据简答题——问“如何看出妈妈积极”，须用<strong>文中行为/原话</strong>对照恶劣居住条件。</li><li><strong>范围：</strong>第四段 <em>lines 12–14</em>：先写破棚屋，再写妈妈反应。</li><li><strong>不利条件：</strong>行 12–13 <em>shed</em>、<em>cracked walls</em>、<em>floor made of dirt</em>。</li><li><strong>积极证据：</strong>行 13 <em>Mama did not complain</em>；行 14 <em>We'll make it work</em>——不抱怨并表态会想办法。</li><li><strong>书写：</strong>完整句；可只写不抱怨或只写原话，最好<strong>两点都点</strong>更稳。</li></ol>",
+          "answer": [
+            "Mama did not complain and simply said, “We'll make it work.”"
+          ],
+          "type": "comprehension"
+        },
+        "71": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>题型：</strong>表格简答题——两事件各写<strong>一词心情 + 一句理由</strong>，证据必须来自 <em>lines 15–26</em>。</li><li><strong>行优先填空：</strong>先葡萄园一行，再课堂小组一行；每行先填情感词（第二列），再填原因（第三列）。</li><li><strong>事件一（行 15–19）：</strong>体力描写 <em>tough to cut</em>、<em>buckets grew heavier</em>、<em>hands stung</em>、<em>back ached</em>、傍晚 <em>exhausted</em> → 情感可用 <span class=\"hl-good\">exhausted</span> / weary / drained。</li><li><strong>事件二（行 24–26）：</strong><em>spoke quickly</em>、<em>barely understood</em> → <span class=\"hl-good\">confused</span> / lost。</li><li><strong>失分：</strong>理由超出 15–26；只写感受不写证据；两格写反。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "exhausted",
+            "71b": "The grape bunches were tough to cut; the buckets grew heavier with each trip; his hands stung and his back ached by mid-morning.",
+            "71c": "confused",
+            "71d": "He barely understood what anyone was saying because the students spoke quickly."
+          }
+        },
+        "72": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——说明短语/代词在上下文中的<strong>具体所指</strong>，忌空泛。</li><li><strong>(a) new home（行 12–13）：</strong>上文写 <em>arrived at our new home</em>，紧接着具体化为 <em>the shed we were offered to stay in</em>，并描写 <em>cracked walls</em>、<em>floor made of dirt</em>，故 <em>new home</em> 指这处<strong>棚屋住所</strong>。</li><li><strong>(b) that（行 30）：</strong>回指上一句 <em>That night, I did not eat much</em>，Mama 注意到的是<strong>当晚吃得很少这件事</strong>。</li><li><strong>失分：</strong>只写“新家”不点出 shed；<em>that</em> 误指朗读出丑等别段信息。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "The shed with cracked walls",
+            "72b": "a dirt floor where the family was offered to stay. The fact that the writer did not eat much that night."
+          }
+        },
+        "73": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>题型：</strong>解释说明题——解释 Papa 说 <em>work came first</em> 的言外之意：相对上学，<strong>当下优先次序</strong>是什么。</li><li><strong>语境：</strong>行 19–20：晚上收工疲惫，<em>I missed school</em>，Papa 提醒 <em>We need the money</em> 与 <em>work came first</em> 呼应。</li><li><strong>含义：</strong>须写清<strong>挣钱/下地干活优先于返校</strong>，因家庭此刻要靠劳动换钱维持生计。</li><li><strong>延伸（可写）：</strong>后文行 21 <em>Eventually, I was allowed to attend… since the harvest was slowing down</em> 暗示忙季过后才有机会上学，与“先后次序”一致。</li><li><strong>失分：</strong>只复述字面不解释优先；未点出“需要钱/养家”。</li></ol>",
+          "answer": [
+            "Papa meant that earning money through field work had to come before school for the moment because the family needed money to survive and later support the writer's schooling."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——每行先判 <em>True/False</em>，再写<strong>一句理由</strong>，范围 <em>lines 21–39</em>。</li><li><strong>(a) True：</strong>行 23–24 老师 <em>greeted me kindly</em> 并 <em>pointed to an empty seat</em>，体现欢迎。</li><li><strong>(b) False：</strong>行 28–29 第一次朗读 <em>stumbled over several words</em>，与 <em>fluently</em> 相反。</li><li><strong>(c) False：</strong>行 38–39 下课后 <em>a boy walked over</em> 并开口邀请午餐同桌，是<strong>对方先搭话</strong>，非作者主动发起。</li><li><strong>若判错方向：</strong>须自问是否找错行或把“第二次读得顺”误当成第一次。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "True",
+            "74b": "The teacher greeted him kindly and pointed to an empty seat",
+            "74c": "False",
+            "74d": "He stumbled over several words when he read aloud the first time",
+            "74e": "False",
+            "74f": "After class, a boy walked over and invited him to sit with them at lunch; the boy started the conversation"
+          }
+        },
+        "75": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>题型：</strong>圈选+简答题——(a) 从四词中选<strong>最贴切</strong>的一项；(b) 用完整句写出篇末领悟。</li><li><strong>(a) 证据：</strong>行 9–10 <em>unwilling to accept</em> 与不愿割舍学校、球队呼应，态度是<strong>不情愿</strong> → <span class=\"hl-good\">reluctant</span>；<span class=\"hl-bad\">nonchalant</span>（无所谓）相反；<span class=\"hl-bad\">embarrassed</span> 侧重羞惭，非主线；<span class=\"hl-bad\">determined</span> 与抵触心理不符。</li><li><strong>(b) 范围：</strong>末段行 41–43：友好男孩、不再害怕、篇末点题句。</li><li><strong>要点：</strong>须写到 <em>keep an open mind</em> / 以开放心态面对新环境与人。</li><li><strong>书写：</strong>(a) 只能圈一词；(b) 须完整句。</li></ol>",
+          "answer": [
+            "reluctant",
+            "He learnt that he needed to keep an open mind about moving to new places and meeting new people."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

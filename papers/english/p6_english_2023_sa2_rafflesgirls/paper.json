@@ -1,0 +1,1587 @@
+{
+  "paperid": "p6_english_2023_sa2_rafflesgirls",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Had they left any later for the train station, they _________ the train.",
+          "options": {
+            "1": "will miss",
+            "2": "would miss",
+            "3": "will have missed",
+            "4": "would have missed"
+          }
+        },
+        "2": {
+          "stem_plain": "_________ the easing of Covid 19 restrictions, the number of participants attending secondary school open houses has increased in the past year.",
+          "options": {
+            "1": "On",
+            "2": "Due",
+            "3": "With",
+            "4": "When"
+          }
+        },
+        "3": {
+          "stem_plain": "As a member of society, we have to abide _________ the rules.",
+          "options": {
+            "1": "by",
+            "2": "off",
+            "3": "along",
+            "4": "around"
+          }
+        },
+        "4": {
+          "stem_plain": "Neither May nor her sisters _________ able to attend the ballet recital last week.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "5": {
+          "stem_plain": "Mdm Leela hardly buys her groceries from the supermarket anymore, _________ she?",
+          "options": {
+            "1": "did",
+            "2": "does",
+            "3": "didn't",
+            "4": "doesn't"
+          }
+        },
+        "6": {
+          "stem_plain": "The customer _________ order was forgotten was upset with the poor service at the restaurant.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "7": {
+          "stem_plain": "_________ Sally's outstanding performance, she remains humble.",
+          "options": {
+            "1": "But",
+            "2": "While",
+            "3": "Despite",
+            "4": "Although"
+          }
+        },
+        "8": {
+          "stem_plain": "\"That song was first _________ by Neil Humphreys!\" Grandmother exclaimed.",
+          "options": {
+            "1": "sing",
+            "2": "sang",
+            "3": "sung",
+            "4": "singing"
+          }
+        },
+        "9": {
+          "stem_plain": "Before we left the party, Li Na and _________ said goodbye to the host.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "her",
+            "4": "him"
+          }
+        },
+        "10": {
+          "stem_plain": "The cat lay in the sun and licked _________ paws lazily after eating.",
+          "options": {
+            "1": "it",
+            "2": "its",
+            "3": "it's",
+            "4": "their"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "Third conditional",
+          "zh": "要是他们再晚一点去火车站，就会错过火车了。",
+          "note": "第三条件句 (Third conditional)：与过去事实相反，主句用 would have missed。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "Preposition — with (accompanying factor)",
+          "zh": "随着新冠限制放宽，参加中学开放日的家长人数在过去一年增加。",
+          "note": "with 表“随着/在……情况下”；应选（3）。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "Phrasal verb — abide by",
+          "zh": "作为社会成员，我们必须遵守规则。",
+          "note": "固定搭配 abide by（遵守）；应选（1）。",
+          "answer": "1"
+        },
+        "4": {
+          "concept": "Subject–verb agreement — neither … nor",
+          "zh": "梅和她的姐姐们上周都没能去看芭蕾演出。",
+          "note": "neither…nor 就近一致，sisters 为复数，过去时用 were；应选（4）。",
+          "answer": "4"
+        },
+        "5": {
+          "concept": "Question tag — hardly … does she?",
+          "zh": "黎老师几乎不再去超市买菜了，是吗？",
+          "note": "hardly 含否定意义，附加问句用 does she?；应选（2）。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "Relative pronoun — whose",
+          "zh": "订单被遗忘的那位顾客对餐厅差劲的服务感到不满。",
+          "note": "定语从句表所属用 whose；应选（4）。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "Concession — despite",
+          "zh": "尽管莎莉表现出色，她仍然谦虚。",
+          "note": "despite + 名词；although + 从句；应选（3）。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "Passive voice — past participle",
+          "zh": "“那首歌最早是尼尔·汉弗莱斯唱的！”外婆叫道。",
+          "note": "被动语态用过去分词 sung；应选（3）。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "Pronoun — I (subject)",
+          "zh": "离开派对前，李娜和我向主人道别。",
+          "note": "并列主语用主格 I；应选（1）。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "Possessive — its",
+          "zh": "猫躺在阳光下，吃完后懒洋洋地舔爪子。",
+          "note": "物主代词 its（它的）；应选（2）。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "As a teacher, Mr Bill wants to _________ confidence in his students.",
+          "options": {
+            "1": "instil",
+            "2": "invest",
+            "3": "inaugurate",
+            "4": "incorporate"
+          }
+        },
+        "12": {
+          "stem_plain": "Looking through those old photographs _________ wonderful memories of my childhood days.",
+          "options": {
+            "1": "brought in",
+            "2": "brought back",
+            "3": "brought down",
+            "4": "brought forward"
+          }
+        },
+        "13": {
+          "stem_plain": "She has been encouraged by the _________ support of her friends. They have always stood by her.",
+          "options": {
+            "1": "undue",
+            "2": "unstable",
+            "3": "unwavering",
+            "4": "uninterrupted"
+          }
+        },
+        "14": {
+          "stem_plain": "Information was _________ to the pilots through their headphones.",
+          "options": {
+            "1": "transfused",
+            "2": "transmitted",
+            "3": "transported",
+            "4": "transformed"
+          }
+        },
+        "15": {
+          "stem_plain": "I promised my sister to keep the surprise party a secret and would not _________ details of her plan.",
+          "options": {
+            "1": "flaunt",
+            "2": "exhibit",
+            "3": "divulge",
+            "4": "advertise"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "比尔老师想在学生心中树立信心。",
+          "note": "应选（1）instil：灌输、树立（信心）。其余三项与“树立信心”搭配不当。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "instil",
+              "zh": "灌输；树立",
+              "eg": "As a teacher, Mr Bill wants to <strong>instil</strong> confidence in his students."
+            },
+            {
+              "opt": "2",
+              "word": "invest",
+              "zh": "投资",
+              "eg": "The reporter wrote that the rescue team had to act <strong>invest</strong> before the storm grew worse."
+            },
+            {
+              "opt": "3",
+              "word": "inaugurate",
+              "zh": "开创；就职",
+              "eg": "In her composition, Mei Ling showed how the word <strong>inaugurate</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "4",
+              "word": "incorporate",
+              "zh": "纳入",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>incorporate</strong> when reading historical plaques."
+            }
+          ]
+        },
+        "12": {
+          "zh": "翻看旧照片唤起了我童年美好的记忆。",
+          "note": "应选（2）brought back：唤起记忆。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "brought in",
+              "zh": "引进",
+              "eg": "The bakery has <strong>brought in</strong> a new chef from France to redesign the menu."
+            },
+            {
+              "opt": "2",
+              "word": "brought back",
+              "zh": "使想起",
+              "eg": "Looking through those old photographs <strong>brought back</strong> wonderful memories of my childhood days."
+            },
+            {
+              "opt": "3",
+              "word": "brought down",
+              "zh": "使倒下；降低",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>brought down</strong> when reading historical plaques."
+            },
+            {
+              "opt": "4",
+              "word": "brought forward",
+              "zh": "提前",
+              "eg": "After the experiment, the science teacher asked us to use <strong>brought forward</strong> in a complete sentence of our own."
+            }
+          ]
+        },
+        "13": {
+          "zh": "朋友们坚定不移的支持鼓舞了她。",
+          "note": "应选（3）unwavering：坚定、始终如一的。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "undue",
+              "zh": "过度的",
+              "eg": "In her composition, Mei Ling showed how the word <strong>undue</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "2",
+              "word": "unstable",
+              "zh": "不稳定的",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>unstable</strong> when reading historical plaques."
+            },
+            {
+              "opt": "3",
+              "word": "unwavering",
+              "zh": "坚定不移的",
+              "eg": "She has been encouraged by the <strong>unwavering</strong> support of her friends. They have always stood by her."
+            },
+            {
+              "opt": "4",
+              "word": "uninterrupted",
+              "zh": "不间断的",
+              "eg": "The coach reminded the players that <strong>uninterrupted</strong> is common in sports commentary and news reports."
+            }
+          ]
+        },
+        "14": {
+          "zh": "信息通过耳机传给飞行员。",
+          "note": "应选（2）transmitted：传输。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "transfused",
+              "zh": "输血",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>transfused</strong> when reading historical plaques."
+            },
+            {
+              "opt": "2",
+              "word": "transmitted",
+              "zh": "传输",
+              "eg": "Information was <strong>transmitted</strong> to the pilots through their headphones during the flight."
+            },
+            {
+              "opt": "3",
+              "word": "transported",
+              "zh": "运输",
+              "eg": "The coach reminded the players that <strong>transported</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "4",
+              "word": "transformed",
+              "zh": "转变",
+              "eg": "During morning assembly, our principal used <strong>transformed</strong> in a sentence about teamwork and responsibility."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我答应妹妹保密，不会泄露她惊喜派对的细节。",
+          "note": "应选（3）divulge：泄露秘密。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "flaunt",
+              "zh": "炫耀",
+              "eg": "After the experiment, the science teacher asked us to use <strong>flaunt</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "2",
+              "word": "exhibit",
+              "zh": "展览",
+              "eg": "The coach reminded the players that <strong>exhibit</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "3",
+              "word": "divulge",
+              "zh": "泄露",
+              "eg": "I promised my sister to keep the surprise party a secret and would not <strong>divulge</strong> details of her plan."
+            },
+            {
+              "opt": "4",
+              "word": "advertise",
+              "zh": "做广告",
+              "eg": "The reporter wrote that the rescue team had to act <strong>advertise</strong> before the storm grew worse."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "Irrefutably",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Tentatively",
+            "2": "Undoubtedly",
+            "3": "Mysteriously",
+            "4": "Questionably"
+          }
+        },
+        "17": {
+          "stem_plain": "unconventional",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "humble",
+            "2": "ordinary",
+            "3": "different",
+            "4": "unforgettable"
+          }
+        },
+        "18": {
+          "stem_plain": "persistence",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "insistence",
+            "2": "indulgence",
+            "3": "indifference",
+            "4": "intolerance"
+          }
+        },
+        "19": {
+          "stem_plain": "bright",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "agile",
+            "2": "creative",
+            "3": "eloquent",
+            "4": "ingenious"
+          }
+        },
+        "20": {
+          "stem_plain": "stick to",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "side with",
+            "2": "continue with",
+            "3": "do away with",
+            "4": "break off with"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Agatha Christie is known affectionately as the Queen of Crime. [Q16 (Irrefutably)] one of the world's top-selling authors, more than one billion copies of her novels have been sold.",
+          "Agatha's childhood was [Q17 (unconventional)] for many reasons, one of which being her Mother's [Q18 (persistence)] that she not learn to read until the age of eight. Fortunately, the [Q19 (bright)] young Agatha was able to teach herself and soon fell in love with English poetry.",
+          "Agatha published her detective fiction, plays and memoirs under her own name. However, she also authored six romantic novels under the pseudonym of Mary Westmacott. This was much to the chagrin of her publishers who felt she should [Q20 (stick to)] crime. For almost twenty years, the public had no clue that Christie and Westmacott were one and the same."
+        ],
+        "zh": [
+          "阿加莎·克里斯蒂被亲切地称为“犯罪女王”。她无疑是世界上最畅销的作家之一，小说销量已超过十亿册。",
+          "阿加莎的童年在许多方面不同寻常，原因之一是母亲坚持让她到八岁才学认字。所幸聪明的阿加莎自学成才，很快爱上了英语诗歌。",
+          "阿加莎以自己的名字出版侦探小说、戏剧和回忆录，但也以玛丽·韦斯特马科特的笔名写了六部爱情小说。出版商对此很不满，认为她应专心写犯罪题材；近二十年间，公众并不知道克里斯蒂与韦斯特马科特是同一人。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — Irrefutably（无疑地）",
+          "zh": "阿加莎·克里斯蒂被誉为“犯罪女王”，无疑是全球最畅销作家之一。",
+          "note": "应选（2）Undoubtedly。Tentatively/Mysteriously/Questionably 均非“无可争辩”之义。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Tentatively",
+              "zh": "试探性地",
+              "eg": "She <strong>tentatively</strong> agreed."
+            },
+            {
+              "opt": "2",
+              "word": "Undoubtedly",
+              "zh": "无疑地",
+              "eg": "He is <strong>undoubtedly</strong> the best."
+            },
+            {
+              "opt": "3",
+              "word": "Mysteriously",
+              "zh": "神秘地",
+              "eg": "The box vanished <strong>mysteriously</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "Questionably",
+              "zh": "可疑地",
+              "eg": "a <strong>questionably</strong> legal move"
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — unconventional（非传统的）",
+          "zh": "阿加莎的童年在许多方面不同寻常。",
+          "note": "应选（3）different：与众不同。humble/ordinary 偏“普通”；unforgettable 偏“难忘”而非“非传统”。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "humble",
+              "zh": "谦逊的",
+              "eg": "a <strong>humble</strong> background"
+            },
+            {
+              "opt": "2",
+              "word": "ordinary",
+              "zh": "普通的",
+              "eg": "an <strong>ordinary</strong> day"
+            },
+            {
+              "opt": "3",
+              "word": "different",
+              "zh": "不同的",
+              "eg": "a <strong>different</strong> approach"
+            },
+            {
+              "opt": "4",
+              "word": "unforgettable",
+              "zh": "难忘的",
+              "eg": "an <strong>unforgettable</strong> trip"
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — persistence（坚持）",
+          "zh": "母亲坚持让她到八岁才学认字。",
+          "note": "应选（1）insistence：坚持、执意。indulgence/indifference/intolerance 语义不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "insistence",
+              "zh": "坚持",
+              "eg": "his <strong>insistence</strong> on punctuality"
+            },
+            {
+              "opt": "2",
+              "word": "indulgence",
+              "zh": "纵容",
+              "eg": "parental <strong>indulgence</strong>"
+            },
+            {
+              "opt": "3",
+              "word": "indifference",
+              "zh": "漠不关心",
+              "eg": "her <strong>indifference</strong> to fame"
+            },
+            {
+              "opt": "4",
+              "word": "intolerance",
+              "zh": "不容忍",
+              "eg": "religious <strong>intolerance</strong>"
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — bright（聪明的）",
+          "zh": "聪明的阿加莎自学成才。",
+          "note": "应选（4）ingenious：机灵、有才智。agile 偏身体；eloquent 偏口才。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "agile",
+              "zh": "敏捷的",
+              "eg": "an <strong>agile</strong> gymnast"
+            },
+            {
+              "opt": "2",
+              "word": "creative",
+              "zh": "有创意的",
+              "eg": "a <strong>creative</strong> writer"
+            },
+            {
+              "opt": "3",
+              "word": "eloquent",
+              "zh": "雄辩的",
+              "eg": "an <strong>eloquent</strong> speaker"
+            },
+            {
+              "opt": "4",
+              "word": "ingenious",
+              "zh": "聪颖的",
+              "eg": "an <strong>ingenious</strong> solution"
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — stick to（坚持从事）",
+          "zh": "出版商认为她应坚持写犯罪小说。",
+          "note": "应选（2）continue with：继续从事。side with/do away with/break off with 均非“坚持写某类书”。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "side with",
+              "zh": "站在……一边",
+              "eg": "<strong>side with</strong> the winner"
+            },
+            {
+              "opt": "2",
+              "word": "continue with",
+              "zh": "继续做",
+              "eg": "<strong>continue with</strong> the project"
+            },
+            {
+              "opt": "3",
+              "word": "do away with",
+              "zh": "废除",
+              "eg": "<strong>do away with</strong> the rule"
+            },
+            {
+              "opt": "4",
+              "word": "break off with",
+              "zh": "与……断绝",
+              "eg": "<strong>break off with</strong> a friend"
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Why is an exclamation mark used in the heading, **'Join us at our 1st Chess Fair at the Riverville Community Club!'**?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to emphasise the venue of the fair",
+            "2": "to convey excitement about the fair",
+            "3": "to highlight the importance of the fair",
+            "4": "to stress that the club is organising the fair"
+          }
+        },
+        "22": {
+          "stem_plain": "Wei Xiong wants to attend the Advanced Workshop as well as play a friendly match with a Grand Master. He can do both at the fair on",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "16 Nov at 10 a.m. and 17 Nov at 10 a.m.",
+            "2": "16 Nov at 11 a.m. and 18 Nov at 12 noon",
+            "3": "16 Nov at 11 a.m. and 19 Nov at 10 a.m.",
+            "4": "16 Nov at 1.30 p.m. and 19 Nov at 12 noon"
+          }
+        },
+        "23": {
+          "stem_plain": "Which of the following is the most likely reason why Ali, an experienced chess player who is keen to improve his skills, might want to go to the fair?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "He can attend the Beginner Workshop.",
+            "2": "He can get to learn the basic rules of chess.",
+            "3": "He can get to take part in a friendly match with John Woo.",
+            "4": "He can get to teach those who have not played chess before."
+          }
+        },
+        "24": {
+          "stem_plain": "Which of the following statements is true about the Chess Fair?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "All visitors have to pay a small entrance fee.",
+            "2": "Workshops will be conducted in the Main Hall.",
+            "3": "There is no age restriction for the chess matches.",
+            "4": "It will start and end at the same time for the 4 days."
+          }
+        },
+        "25": {
+          "stem_plain": "What is the purpose of putting the schedule of the various workshops/matches in a table?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to highlight the events for the different days",
+            "2": "to create a sense of eagerness for all the events",
+            "3": "to encourage the participants to go for the workshops",
+            "4": "to organise the information for the readers' easy reference"
+          }
+        },
+        "26": {
+          "stem_plain": "What is the most important benefit of playing chess for children aged 7 to 9?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It helps to boost their brain development.",
+            "2": "It enhances their object recognition skills.",
+            "3": "It exercises only the left part of their brain.",
+            "4": "It improves their test scores in all subjects."
+          }
+        },
+        "27": {
+          "stem_plain": "According to the flyer, patients recovering from an accident play chess to",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "improve their motor skills",
+            "2": "take part in global competitions",
+            "3": "get acquainted with Ruy Lopez",
+            "4": "develop theories and tactics about the game"
+          }
+        },
+        "28": {
+          "stem_plain": "The main purpose of the flyer is to",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "introduce people to the history of chess",
+            "2": "educate people on the many benefits of chess",
+            "3": "encourage people to participate in the chess fair",
+            "4": "get people to play with their friends during the chess fair"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "标点/语气 — 感叹号",
+          "note": "<p>标题用感叹号传达对棋展的<strong>兴奋与邀请感</strong>，而非单纯强调地点或主办方（2）。</p>",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "信息匹配 — 日程表",
+          "note": "<p>高级班在<strong>19 Nov 10 a.m.</strong>；与大师友谊赛在<strong>16 Nov 11 a.m.</strong>（3）。</p>",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "读者推断 — 有经验棋手",
+          "note": "<p>Ali 想提高棋艺 → 与 John Woo 友谊赛（3），而非初学者班。</p>",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "细节判断 — 海报事实",
+          "note": "<p>比赛<strong>无年龄限制</strong>（3）；工作坊在 Lecture Theatre 1，非 Main Hall。</p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "表格功能 — 日程",
+          "note": "<p>表格把各天活动<strong>分类排列</strong>，方便读者查阅（4）。</p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "文章主旨 — 儿童益处",
+          "note": "<p>文章强调 7–9 岁儿童下棋最突出的益处是<strong>促进大脑发育</strong>（1）。</p>",
+          "answer": "1"
+        },
+        "27": {
+          "concept": "细节 — 康复用途",
+          "note": "<p>事故康复者下棋以<strong>改善运动技能</strong>（1）。</p>",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "传单目的",
+          "note": "<p>整份材料在宣传<strong>国际象棋展</strong>，鼓励参加（3），而非只讲历史或泛泛讲益处。</p>",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "are",
+          "D": "as",
+          "E": "but",
+          "F": "in",
+          "G": "is",
+          "H": "it",
+          "J": "on",
+          "K": "only",
+          "L": "their",
+          "M": "them",
+          "N": "then",
+          "P": "while",
+          "Q": "who"
+        },
+        "cloze": [
+          "Table salt, sodium chloride, is a naturally occurring mineral essential for animal life. [Q29] you might think that sugar is important, salt is one of the most widely used and oldest forms of food seasoning. Salt has long been central [Q30] civilised life. In ancient times, salt was used as [Q31] form of currency and to preserve foods, such as meat and fish. The importance of salt has also been represented in literature.",
+          "In the opening scene of Shakespeare's <em>King Lear</em>, the aged king asks his three daughters to prove [Q32] love for him. The older daughters flatter their father [Q33] ultimately betray him. The youngest daughter, [Q34] truly loves him, declines to answer, thinking it is a silly question. When Lear insists [Q35] a response, she offers an unusual reply, \"I love you...as fresh meat loves salt.\" Later in the play, Lear comes to understand that meat does love salt and people love meat [Q36] if it is salted.",
+          "Modest consumption of salt is healthy and even supplemental salt, meaning sodium chloride, in moderation [Q37] safe. However, modern society's consumption of salt by the teaspoon is as harmful [Q38] Lear's love of excessive flattery. How much salt do you consume in your daily diet?"
+        ],
+        "zh": [
+          "食盐（氯化钠）是动物生命必需的自然矿物。虽然你可能觉得糖很重要，但盐是最古老、用途最广的调味品之一，自古以来在文明生活中占有核心地位，曾用作货币并保存肉类和鱼类；盐的重要性在文学中也有体现。",
+          "在莎士比亚《李尔王》开场，李尔要求三个女儿证明对他的爱。姐姐们奉承他，最终却背叛了他；小女儿真心爱他，却不愿回答这愚蠢的问题。李尔坚持要答复时，她给出奇特的回答：“我爱你……如同鲜肉爱盐。”后来李尔才明白，肉确实需要盐，人也需要加盐的肉。",
+          "适量食盐有益健康，补充钠氯也安全；但现代人一勺一勺地吃盐，其害处如同李尔对阿谀的沉溺。你每天的盐摄入量是多少？"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "连词 — while（对比）",
+          "note": "句首 <em>While you might think sugar is important</em> 与后文“盐更重要”形成让步对比，故填'<strong>P — while</strong>'。",
+          "answer": "P — while"
+        },
+        "30": {
+          "concept": "介词 — in",
+          "note": "固定搭配 <em>central in civilised life</em>，表在文明生活中占核心，故填'<strong>F — in</strong>'。",
+          "answer": "F — in"
+        },
+        "31": {
+          "concept": "冠词 — a",
+          "note": "<em>as a form of currency</em> 泛指一种货币形式，用不定冠词 a，故填'<strong>A — a</strong>'。",
+          "answer": "A — a"
+        },
+        "32": {
+          "concept": "物主代词 — their",
+          "note": "三个女儿证明 <em>their</em> love，故填'<strong>L — their</strong>'。",
+          "answer": "L — their"
+        },
+        "33": {
+          "concept": "转折 — but",
+          "note": "姐姐奉承 <em>but</em> 最终背叛，故填'<strong>E — but</strong>'。",
+          "answer": "E — but"
+        },
+        "34": {
+          "concept": "关系代词 — who",
+          "note": "修饰 the youngest daughter，故填'<strong>Q — who</strong>'。",
+          "answer": "Q — who"
+        },
+        "35": {
+          "concept": "介词 — on",
+          "note": "<em>insists on a response</em> 固定搭配，故填'<strong>J — on</strong>'。",
+          "answer": "J — on"
+        },
+        "36": {
+          "concept": "副词 — only",
+          "note": "人们爱吃肉 <em>only if</em> it is salted，故填'<strong>K — only</strong>'。",
+          "answer": "K — only"
+        },
+        "37": {
+          "concept": "系动词 — is",
+          "note": "主语 supplementation … in moderation <em>is</em> safe，故填'<strong>G — is</strong>'。",
+          "answer": "G — is"
+        },
+        "38": {
+          "concept": "比较 — as … as",
+          "note": "<em>as harmful as</em> 同级比较，故填'<strong>D — as</strong>'。",
+          "answer": "D — as"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It is fun and green. It also allows children to go on a more [Q39(leisherly)] journey to school.",
+          "Barcelona's bike bus, or \"bicibus\", as the scheme is known [Q40(local)] , allows hundreds of children to cycle safely to school [Q41(at)] a convoy. \"Bicibus\" has been [Q42(sucesfull)] and it has taken over entire streets in Spain's second city.",
+          "The Barcelona City Council (BCC), in [Q43(supported)] of the citizen-led project, started the programme in March 2021 with one route in the city. It has [Q44(inspires)] similar schemes in Scotland and the United States with a [Q45(verriety)] of route types.",
+          "The BCC route starts at 8.30 am and covers [Q46(aproximately)] 2.5 kilometres in 25 minutes, dropping children at three schools [Q47(in)] the way. All these routes are in [Q48(operates)] on a daily basis.",
+          "The bike bus project has encouraged more long-term [Q49(sustaneable)] travelling habits among users. More than 700 people joined the different routes during the 2020-21 school year, which translates into about 15,000 [Q50(komutes)] to different Barcelona schools over that time. This project has indeed changed the transportation habits of children."
+        ],
+        "zh": [
+          "这既有趣又环保，还让孩子们能以更悠闲的方式上学。",
+          "巴塞罗那的“自行车巴士”（bicibus）在当地开展，让数百名儿童结队安全骑车上学。“bicibus”很成功，已占据西班牙第二大城市整条街道。",
+          "巴塞罗那市议会支持这一市民发起的项目，2021年3月推出首条路线，并启发了苏格兰和美国的类似计划，路线类型多样。",
+          "市议会路线约8:30出发，25分钟骑行约2.5公里，沿途三所学校下车；这些路线每日运营。",
+          "该项目鼓励用户养成更可持续的出行习惯。2020–21学年超过700人参与各条路线，相当于约1.5万次前往巴塞罗那各学校的“通勤”，确实改变了儿童的交通方式。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "拼写 — leisurely",
+          "note": "<p><em>leisherly</em> → <span class=\"hl-good\">leisurely</span> (unhurried).</p>",
+          "answer": "leisurely"
+        },
+        "40": {
+          "concept": "词类 — 副词 locally",
+          "note": "<p><em>local</em> (adj.) → adverb <span class=\"hl-good\">locally</span>.</p>",
+          "answer": "locally"
+        },
+        "41": {
+          "concept": "介词 — in a convoy",
+          "note": "<p>Ride <span class=\"hl-good\">in</span> a convoy, not <em>at</em>.</p>",
+          "answer": "in"
+        },
+        "42": {
+          "concept": "拼写 — successful",
+          "note": "<p><em>sucesfull</em> → <span class=\"hl-good\">successful</span>.</p>",
+          "answer": "successful"
+        },
+        "43": {
+          "concept": "词形 — largest",
+          "note": "<p>Official key: <span class=\"hl-good\">largest</span> (booklet box may sit on another underlined word). Scheme has <em>taken over entire streets</em>.</p>",
+          "answer": "largest"
+        },
+        "44": {
+          "concept": "时态 — inspired",
+          "note": "<p>Past narrative → <span class=\"hl-good\">inspired</span>, not <em>inspires</em>.</p>",
+          "answer": "inspired"
+        },
+        "45": {
+          "concept": "拼写 — variety",
+          "note": "<p><em>verriety</em> → <span class=\"hl-good\">variety</span>.</p>",
+          "answer": "variety"
+        },
+        "46": {
+          "concept": "拼写 — approximately",
+          "note": "<p><em>aprosimately</em> → <span class=\"hl-good\">approximately</span>.</p>",
+          "answer": "approximately"
+        },
+        "47": {
+          "concept": "介词 — on the way",
+          "note": "<p><em>on the way</em>, not <em>in the way</em> (which means blocking).</p>",
+          "answer": "on"
+        },
+        "48": {
+          "concept": "词类 — operation",
+          "note": "<p><em>operates</em> (verb) → noun <span class=\"hl-good\">operation</span> after <em>in</em>.</p>",
+          "answer": "operation"
+        },
+        "49": {
+          "concept": "拼写 — sustainable",
+          "note": "<p><em>sustaneable</em> → <span class=\"hl-good\">sustainable</span>.</p>",
+          "answer": "sustainable"
+        },
+        "50": {
+          "concept": "拼写 — commutes",
+          "note": "<p><em>komutes</em> → <span class=\"hl-good\">commutes</span>.</p>",
+          "answer": "commutes"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "In Singapore, you will find both old and new buildings co-existing. Today, the shophouses in Kampong Glam [Q51] still an important part of Singapore's past. Rather [Q52] let them deteriorate, these have been restored and are now home [Q53] small shops, art galleries, offices and restaurants.",
+          "This is [Q54] of the ways in which history is being protected in Singapore. The government recognises that traditional buildings are a critical part of our heritage as they are an obvious reflection [Q55] the country's multi-cultural society. Malay, Chinese, Indian, European and Arab architectural styles were [Q56] together to create something that became uniquely Singaporean.",
+          "Unfortunately, [Q57] all of these traditional buildings stand today. Quite a few were demolished during the first few years after the city-state [Q58] independence. These buildings had to be cleared to make [Q59] for new apartments, office buildings, factories and other necessities of the modern era. However, the government [Q60] the citizens began to feel this was taking [Q61] some of the atmosphere of old Singapore.",
+          "Thus began a programme to protect and [Q62] the nation's historic architecture. The Urban Redevelopment Authority (URA) [Q63] sure that young Singaporeans had a link to the past through the buildings and monuments that their forefathers had [Q64]. To date, it has given conservation status to over 7,000 buildings in Singapore to ensure that these important markers of our past will still be around in the [Q65]. This may include protecting a whole district such as Boat Quay, Chinatown, Little India and Kampong Glam."
+        ],
+        "zh": [
+          "在新加坡，新旧建筑并存。甘榜格南的店屋仍是新加坡历史的重要部分；与其任其破败，不如修复后用作小店、画廊、办公室和餐馆。",
+          "这是保护新加坡历史的方式之一。政府认识到传统建筑是遗产的关键，直观反映多元文化社会；马来、华人、印度、欧洲和阿拉伯建筑风格融合，形成独特的狮城风貌。",
+          "遗憾的是，并非所有传统建筑都留存至今。建国初期不少建筑被拆除，为公寓、办公楼、工厂等现代设施腾地；但政府与市民开始感到，这样做正在带走旧新加坡的氛围。",
+          "于是开始保护并修复历史建筑。市区重建局确保年轻人通过先辈建造的建筑与纪念碑与过去相连；迄今已有逾7000座建筑获保育地位，如驳船码头、牛车水、小印度和甘榜格南等整区。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "主谓一致与状态系动词",
+          "note": "主语为复数名词 the shophouses（店屋），陈述长期存在的客观事实。说明这些建筑“仍是”新加坡历史的一部分，故填复数现在时系动词 are。",
+          "answer": "are"
+        },
+        "52": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的 rather 完美组合，构成在各类考卷中极其高频重复考核的核心特定关联词短语 rather than，后面接动词原形 let，表示“宁愿……而不愿任其破败”。",
+          "answer": "than"
+        },
+        "53": {
+          "concept": "经典句型固定搭配",
+          "note": "与前面的名词 home 完美组合。在阐述地理、环境和文化承载的核心文章中，固定使用专属修饰结构 be home to someone/something，意为这里“是……的所在地/家园”。",
+          "answer": "to"
+        },
+        "54": {
+          "concept": "经典固定句型结构",
+          "note": "后接高频常见复数选择限制短语 of the ways...。指这是在新加坡保护历史的许多“方法之一”，固定使用单数代词 one（构成 one of the... 结构）。",
+          "answer": "one"
+        },
+        "55": {
+          "concept": "名词与介词固定搭配",
+          "note": "前面有名词 reflection。完美契合高频常考的经典名词加介词专属固定句式 a reflection of something，表示建筑是该国多元文化社会的显性“折射”或“反映”。",
+          "answer": "of"
+        },
+        "56": {
+          "concept": "被动语态短语动词搭配",
+          "note": "前面有系动词 were，后接过去分词构成被动语态，且后面紧跟副词 together。指各族的建筑风格被“融合”、“凝聚”或“汇聚”到了一起（brought / blended / woven / grouped，此处 filling brought 最契合新加坡多元历史的交融语境）。",
+          "answer": "brought/blended/woven/mixed"
+        },
+        "57": {
+          "concept": "部分否定句型结构",
+          "note": "修饰后面的限定结构 all of these traditional buildings。结合后文“相当一部分被拆除了”的语意，此处在句首构成经典的“部分否定”表达（not all...），意为“并非所有”传统建筑都留存至今。位于句首需大写。",
+          "answer": "Not"
+        },
+        "58": {
+          "concept": "一般过去时动词语意",
+          "note": "在时间状语从句中，叙述新加坡建国初期的历史事实，谓语动词需采用一般过去时。指这个城市国家“获得（found/gained/achieved/attained）”独立之后的最初几年，故填过去时动词。",
+          "answer": "found/gained/achieved/attained"
+        },
+        "59": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词 make 极其后面的介词 for 完美组合。构成在各类城市规划、经济转型文体中极高频常考的经典习语 make way for...，意为旧建筑不得不被清除，从而为新大楼和厂房“让路/腾出空间”。",
+          "answer": "way"
+        },
+        "60": {
+          "concept": "并列连词成分平行",
+          "note": "用于连接 the government（政府）和 the citizens（市民）两个平行的名词短语，共同充当从句的主语。在逻辑上表示顺承与携手并进，故填并列连词 and。",
+          "answer": "and"
+        },
+        "61": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词现在分词形式 taking 组合。指大规模拆迁正在一步步“剥夺”、“带走”或“剥离”老新加坡原本特有的文化氛围，构成短语动词 taking away 或者是 taking from（此处 away 最自然贴切）。",
+          "answer": "away"
+        },
+        "62": {
+          "concept": "动词与并列语义平行",
+          "note": "与前面的动词 protect（保护）通过并列连词 and 保持平行的动词原形结构。指国家开启了一项去保护并“修复（restore）”、“保存（preserve）”或“挽救（save）”历史建筑的宏伟计划。",
+          "answer": "restore/preserve/save"
+        },
+        "63": {
+          "concept": "一般过去时短语动词搭配",
+          "note": "主语为市区重建局（URA），叙述历史推行政策的过程，动词用过去时。与后面的 sure 组合，构成极高频考查的经典核心搭配 made sure，意为“确保”年轻一代能与过去保留纽带。",
+          "answer": "made"
+        },
+        "64": {
+          "concept": "过去完成时动词语意",
+          "note": "在定语从句中修饰 buildings and monuments，且前有过去完成时助动词 had，后接过去分词。指这些古迹都是他们先辈当年所“建造”、“设立”或“留下”的，故填 built / constructed / erected / left。",
+          "answer": "built/constructed/erected/left"
+        },
+        "65": {
+          "concept": "时间名词固定习惯搭配",
+          "note": "与其前置的定冠词 the 和介词 in 完美结合。属于各类历史保育和环保倡议文里的高频常考谢幕句式 in the future，意为确保这些历史见证者在“未来”依然能得以留存。",
+          "answer": "future"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Jo came in first in the singing contest. He jumped with joy.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Having __________"
+        },
+        "67": {
+          "stem_plain": "My father is repairing my bicycle over the weekend.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "My bicycle __________"
+        },
+        "68": {
+          "stem_plain": "The north and south of the country are separated by a mountain range.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Separating __________"
+        },
+        "69": {
+          "stem_plain": "Pete asked, \"Who drew this painting?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Pete asked __________"
+        },
+        "70": {
+          "stem_plain": "Devi was excited to sign up for the course.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was with __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "分词短语 — Having + V3",
+          "zh": "Having come in first in the singing contest, Jo jumped with joy.",
+          "note": "用 <em>Having + 过去分词</em> 把两句合并：先获奖，再高兴跳起来。",
+          "answer": "Having come in first in the singing contest, Jo jumped with joy."
+        },
+        "67": {
+          "concept": "被动语态",
+          "zh": "My bicycle is being repaired by my father over the weekend.",
+          "note": "主语改为 My bicycle，用现在进行被动 is being repaired。",
+          "answer": "My bicycle is being repaired by my father over the weekend."
+        },
+        "68": {
+          "concept": "分词作主语",
+          "zh": "Separating north and south of the country is a mountain range.",
+          "note": "Separating … 动名词短语作主语，谓语 is a mountain range。",
+          "answer": "Separating north and south of the country is a mountain range."
+        },
+        "69": {
+          "concept": "间接引语",
+          "zh": "Pete asked who had drawn that painting.",
+          "note": "陈述语序 who had drawn；that painting 指眼前画。",
+          "answer": "Pete asked who had drawn that painting."
+        },
+        "70": {
+          "concept": "强调句 — It was with … that",
+          "zh": "It was with excitement that Devi signed up for the course.",
+          "note": "It was with excitement that … 强调“怀着兴奋”。",
+          "answer": "It was with excitement that Devi signed up for the course."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Based on paragraph 1, what did the narrator do once a year?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Give two reasons why Mother would not be able to get home on time to cook dinner because of the heavy rain.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on lines 1–15, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The narrator and Mother went to the café in the morning.",
+                "(b) It had been raining before the narrator and Mother left the house.",
+                "(c) Mother believed that one had to be wary of men who were excessively nice."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]",
+                "[Q73e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]",
+                "[Q73f]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "In line 16, the old man said that he was **'in a bit of a predicament'**. Explain clearly what the predicament was.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Based on the information from lines 16–29, complete the following table.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "The old man offered his umbrella for five dollars.",
+                "Mother spotted the old man enter the café."
+              ]
+            },
+            "col_2": {
+              "header": "What Mother thought",
+              "rows": [
+                "Mother had doubts about the old man's intentions.",
+                "[Q75b]"
+              ]
+            },
+            "col_3": {
+              "header": "What Mother did",
+              "rows": [
+                "[Q75a]",
+                "Mother followed him to the café."
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "In line 25, the narrator asked Mother why she had initially been so suspicious of the man. What had Mother done earlier to make her ask that question?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word from the passage",
+              "rows": [
+                "(a) **it** (line 7)",
+                "(b) **them** (line 8)",
+                "(c) **she** (line 33)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refers to",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]",
+                "[Q77c]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "The narrator and Mother witnessed the old man take an umbrella before walking out of the door.",
+            "The narrator noticed that the old man was carrying a nice umbrella.",
+            "The narrator and Mother saw a woman with an umbrella."
+          ]
+        },
+        "79": {
+          "stem_plain": "Look at the table below. Complete the table by identifying the correct word/phrase in the passage from lines 28–35.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "(a) Which three-word phrase tells you that the narrator and Mother did not expect to see the old man again",
+                "(b) Which three-word phrase tells you that Mother finally knew the old man had an ulterior motive?"
+              ]
+            },
+            "col_2": {
+              "header": "Phrase from the passage",
+              "rows": [
+                "[Q79a]",
+                "[Q79b]"
+              ]
+            }
+          }
+        },
+        "80": {
+          "stem_plain": "Based on the passage, which two of the following words best describe the old man from lines 27–35? Put a tick (✓) in the box beside each of your answers. **DO NOT TICK MORE THAN TWO BOXES.**",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "devious",
+            "reliable",
+            "gullible",
+            "thoughtful",
+            "clever",
+            "honest"
+          ],
+          "max_selections": 2
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Yesterday afternoon, Mother took me to the dentist for my annual check-up. After that, we went",
+          "2": "to a café where Mother allowed me to get a slice of cake for a treat while she had a cup of coffee. While",
+          "3": "we were having our tea, dark clouds gathered ominously outside. By the time we went out of the café",
+          "4": "the weather had taken a turn for the worse. It had started to pour! We were not prepared as it had been",
+          "5": "a hot, sweltering day when we had left the house earlier. We stood outside the café watching sheets of",
+          "6": "rain coming down.",
+          "7": "\"**It** looks like it isn't going to stop. I'll be late cooking dinner,\" Mother murmured. We moved onto",
+          "8": "the pavement in the pouring rain, looking for a taxi. Lots of **them** were occupied and went by without",
+          "9": "stopping. Just then, a kind looking old man came up to us. He looked like he was about my grandfather's",
+          "10": "age. He gave a slight bow as he said to Mother, \"Excuse me, I was wondering if I could ask a small",
+          "11": "favour of you.\" I noticed, with some envy that he was holding a large umbrella over him, keeping him dry.",
+          "12": "I saw Mother looking at him suspiciously as she nodded her head, tightened her grip on my hand and",
+          "13": "drew me closer to her. \"With strange men, she had a golden rule which said that the nicer a man seemed",
+          "14": "to be, the more suspicious you must become of him. However, this old man seemed like a real",
+          "15": "gentleman. He was very polite, well-dressed and well-spoken.",
+          "16": "\"The truth of the matter is, I am in a bit of a predicament. I've left my wallet at home and I have",
+          "17": "no money for a taxi home!\" the old man said.",
+          "18": "\"Are you asking me for money?\" Mother interrupted.",
+          "19": "Mortified, the man exclaimed, \"Oh no! I apologise. Let me get to the point. I would like to offer",
+          "20": "you my umbrella if you could give me five dollars. As you can see, it is a very nice and new one! I",
+          "21": "walked a little too far today and I don't think my old legs could take the walk back!\"",
+          "22": "Upon hearing that, I could see that Mother was beginning to melt. Finally, she reached into her",
+          "23": "bag, took out the money and gave it to him but I could see that she still had her doubts. He bowed as",
+          "24": "he thanked my Mother and walked off. Seeing we now had an umbrella, we decided to walk home. As",
+          "25": "we walked, I asked Mother why she had initially been so suspicious of him. She told me she was being",
+          "26": "cautious as she was not sure what his intentions were but she was glad she had been able to help in the",
+          "27": "end. He had been, in her opinion, a real gentleman.",
+          "28": "A short while later, to our surprise, we spotted the same man and he did not look very tired nor",
+          "29": "did he look like he was trying to catch a taxi either! Curious, we watched as he hurried into a busy café",
+          "30": "where he appeared to peruse the menu before turning to leave. As he left, he surreptitiously took one",
+          "31": "of the umbrellas from the umbrella stand and walked out the door! We decided to follow him to see what",
+          "32": "he was up to. We did not have to wait long before we saw him stop to talk to a woman who was in a",
+          "33": "situation similar to what we had been in earlier. After a while, **she** gave him some money and in return,",
+          "34": "he gave her the umbrella before walking away quickly.",
+          "35": "\"Did you see that! So, that's his little game!\" Mother shrieked."
+        },
+        "paragraphs": {
+          "1": "昨天下午，妈妈带我去牙医做年度检查。之后我们去咖啡馆，她允许我吃点蛋糕，自己喝杯咖啡。喝茶时，外面乌云密布；出咖啡馆时天气骤变，大雨倾盆。我们出门时没做准备，因为出门前还是酷热天。我们站在咖啡馆外看雨幕。",
+          "7": "“看样子一时不会停，我做饭要晚了。”妈妈低声说。我们冒雨走到路边找出租车，很多车都有客或不停。这时一位和善的老人走来，年纪像外公。他向妈妈微微鞠躬，问能否帮个小忙。我羡慕地看到他撑着大伞。妈妈警惕地点头，握紧我的手把我拉近。她说对陌生男人要警惕：男人越和善越可疑；但这老人像绅士，彬彬有礼、衣着得体。",
+          "16": "“说实话，我遇到点麻烦：钱包忘在家里，没钱打车回家！”老人说。“你是向我要钱吗？”妈妈打断。老人窘迫地说不是，愿用伞换五块钱；伞很新，他走得太远，老腿走不回去。",
+          "22": "妈妈心软了，掏钱给他，但仍存疑。他鞠躬道谢离开。我们有伞便走回家。我问妈妈为何起初怀疑他；她说不知他意图，但庆幸帮到了人，在她看来他是绅士。",
+          "28": "不久我们惊讶地又见到他——他既不累也不像要打车。我们好奇地看他进繁忙咖啡馆，装看菜单又离开，偷偷从伞架拿走一把伞！我们跟去看他拦住一位处境与我们相仿的女士，她给钱，他交伞后快步离开。“看见了吗？这就是他的小把戏！”妈妈叫道。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "要点直答",
+          "note": "<ol><li>题型：问第一段里叙述者<strong>每年一次</strong>做什么。</li><li>范围：第1段（约第1–6行），牙医检查。</li><li>证据：第1行 <em>annual check-up</em>。</li><li>答：每年去牙医做检查。</li></ol>",
+          "answer": [
+            "Based on paragraph 1, the narrator went to the dentist for a check-up once a year."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li>问：大雨为何使妈妈不能准时回家做饭（两点）。</li><li>(a) 未带伞，母子无法干爽步行回家（第5–6行）。</li><li>(b) 出租车多满载或不停（第8–9行）。</li></ol>",
+          "answer": [
+            "Mother did not bring an umbrella to keep Mother and the narrator dry from the rain to walk back home.",
+            "Lots of the taxis were occupied and the taxis went by without stopping."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li>范围：第1–15行。</li><li>(a) False：牙医在下午，非早上。</li><li>(b) False：出门前酷热，未下雨。</li><li>(c) True：越和善越要警惕（第13–14行）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "False",
+            "73b": "They went to the café after the dentist appointment that took place in the afternoon",
+            "73c": "False",
+            "73d": "It was a hot and sweltering day before Mother and the narrator left the house",
+            "73e": "True",
+            "73f": "Mother thought that the nicer a man seemed to be, the more suspicious that one must become of him"
+          }
+        },
+        "74": {
+          "concept": "解释说明题",
+          "note": "<ol><li>定位第16–21行 <em>predicament</em>。</li><li>钱包在家、无钱打车；走太远、腿走不回去。</li><li>答句需写清“没钱打车”与“只能卖伞换钱”两层。</li></ol>",
+          "answer": [
+            "The predicament was the old man had left his wallet at home and he had no money for a taxi home. However, he had walked a little too far that day and he did not think his old legs could take the walk back."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li>范围：第16–29行。</li><li>第一行：妈妈仍怀疑却掏钱买伞。</li><li>第二行：见老人进咖啡馆，好奇跟踪。</li><li>填空顺序：先写“做了什么”，再写“当时想法”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "Thought about the old man for a while before reaching into her bag and giving him the money.",
+            "75b": "Mother was wondering what the old man was up to."
+          }
+        },
+        "76": {
+          "concept": "证据简答题",
+          "note": "<ol><li>问：妈妈<strong>先前</strong>做了什么，使 narrator 在25行发问。</li><li>证据：第12–13行握紧手、拉近距离——表现警惕。</li></ol>",
+          "answer": [
+            "Mother tightened her grip on the narrator's hand and drew the narrator closer to her."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "指代表",
+          "note": "<ol><li>(a) line 7 <em>it</em> → 雨（it isn't going to stop）。</li><li>(b) line 8 <em>them</em> → 出租车。</li><li>(c) line 33 <em>she</em> → 后来被骗的女士。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "The rain",
+            "77b": "Taxis",
+            "77c": "The woman who was in a similar situation as what the mother and the narrator had been in earlier."
+          }
+        },
+        "78": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li>时间线：先注意到伞（见面时）→ 偷伞 → 见女士拿伞。</li><li>故顺序 <strong>2, 1, 3</strong>。</li></ol>",
+          "answer": [
+            "2, 1, 3"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "摘录词句题",
+          "note": "<ol><li>范围：第28–35行。</li><li>(a) 没想到再见到：<em>to our surprise</em>（第28行）。</li><li>(b) 识破动机：<em>his little game</em>（第35行）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "79a": "to our surprise",
+            "79b": "his little game"
+          }
+        },
+        "80": {
+          "concept": "勾选题",
+          "note": "<ol><li>范围：第27–35行：骗伞、偷伞、再骗他人。</li><li>选 <strong>devious</strong>（狡诈）与 <strong>clever</strong>（机灵），勿选 honest/reliable。</li></ol>",
+          "answer": [
+            "devious",
+            "clever"
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

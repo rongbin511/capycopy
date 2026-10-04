@@ -1,0 +1,1557 @@
+{
+  "paperid": "p6_english_2025_sa2_plmgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Mother made Jun Jie ________ the vegetables on his plate.",
+          "options": {
+            "1": "ate",
+            "2": "eat",
+            "3": "eats",
+            "4": "eating"
+          }
+        },
+        "2": {
+          "stem_plain": "\"We don't have ________ furniture in our house. We have just finished renovating,\" explained Farah.",
+          "options": {
+            "1": "little",
+            "2": "a few",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "3": {
+          "stem_plain": "\"One of the boys ________ gone to fetch the principal,\" the teacher explained.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "has",
+            "4": "have"
+          }
+        },
+        "4": {
+          "stem_plain": "After her birthday party, Susan wrote letters to the friends ________ she wanted to thank.",
+          "options": {
+            "1": "who",
+            "2": "whom",
+            "3": "which",
+            "4": "whose"
+          }
+        },
+        "5": {
+          "stem_plain": "After our examinations, Father bought ice cream for my sister and ________ as a reward.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "my",
+            "4": "myself"
+          }
+        },
+        "6": {
+          "stem_plain": "Either Ai Ling or her parents ________ going to the market later to buy groceries.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "________ Raju obtains permission from his parents, he will not be allowed to go on the class field trip.",
+          "options": {
+            "1": "If",
+            "2": "Since",
+            "3": "Unless",
+            "4": "As long as"
+          }
+        },
+        "8": {
+          "stem_plain": "\"I ________ the piano every day after school, so I am sure I can perform well at the upcoming recital,\" said Susie.",
+          "options": {
+            "1": "practised",
+            "2": "had practised",
+            "3": "had been practising",
+            "4": "have been practising"
+          }
+        },
+        "9": {
+          "stem_plain": "\"She rarely eats sweets, ________ she?\" asked the dentist.",
+          "options": {
+            "1": "did",
+            "2": "does",
+            "3": "didn't",
+            "4": "doesn't"
+          }
+        },
+        "10": {
+          "stem_plain": "The patient is ________ treatment for an infection.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "under",
+            "4": "through"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "不定式 — Causative verb 'make' + bare infinitive",
+          "zh": "妈妈让俊杰把盘子里的蔬菜吃掉。",
+          "note": "make + 宾语 + 动词原形（使役动词），不用 eats/eating。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "量词 — Quantifier with uncountable noun (negative sentence)",
+          "zh": "“我们家没有多少家具，刚装修完。”她解释道。",
+          "note": "furniture 不可数，用 much；a few/many 接可数复数。",
+          "answer": "4"
+        },
+        "3": {
+          "concept": "主谓一致 — Subject–verb agreement with 'One of …'",
+          "zh": "“其中一个男孩已经去请校长了。”老师解释道。",
+          "note": "One of + 复数名词，谓语用单数 has；表示已去未回常用 has gone。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "关系词 — Object relative pronoun for people",
+          "zh": "生日会后，苏珊给想感谢的朋友们写信。",
+          "note": "介词后指人用 whom；friends 为先行词。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "代词 — Object pronoun in compound object",
+          "zh": "考试结束后，爸爸给我妹妹和我买了冰淇淋作奖励。",
+          "note": "介词 for 后接宾格 me；不用 I。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "主谓一致 — Subject–verb agreement — 'Either … or …' (proximity rule)",
+          "zh": "要么爱玲要么她父母稍后会去市场买菜。",
+          "note": "Either … or … 谓语与较近主语一致，parents 为复数，用 are going。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "条件句 — Conditional connector — 'Unless' (= If … not)",
+          "zh": "除非拉朱得到父母同意，否则不能参加班级郊游。",
+          "note": "Unless = if not，引导条件；Since/As long as 语气不同。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "现在完成时 — Present perfect continuous — ongoing action up to now",
+          "zh": "“我每天放学后一直在练钢琴，所以相信能在即将到来的演奏会发挥好。”苏茜说。",
+          "note": "从过去持续到现在的练习，用现在完成进行 have been practising。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "反意疑问句 — Question tag — 'rarely' is a negative adverb",
+          "zh": "“她很少吃糖，是吗？”牙医问。",
+          "note": "rarely 表否定意义，附加疑问用肯定 does she。",
+          "answer": "2"
+        },
+        "10": {
+          "concept": "固定介词 — Fixed preposition — 'under treatment'",
+          "zh": "病人正在接受感染治疗。",
+          "note": "固定搭配 under treatment for …。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The student was ________ because he refused to obey his teacher's instructions.",
+          "options": {
+            "1": "defiant",
+            "2": "frivolous",
+            "3": "impulsive",
+            "4": "unfriendly"
+          }
+        },
+        "12": {
+          "stem_plain": "After losing a few rounds in the chess game, she ________ defeat to her opponent.",
+          "options": {
+            "1": "receded",
+            "2": "acceded",
+            "3": "conceded",
+            "4": "interceded"
+          }
+        },
+        "13": {
+          "stem_plain": "By talking loudly and interrupting everyone, his ________ behaviour at the party made it hard for anyone to enjoy themselves.",
+          "options": {
+            "1": "hostile",
+            "2": "reserved",
+            "3": "obnoxious",
+            "4": "intimidating"
+          }
+        },
+        "14": {
+          "stem_plain": "\"My ________ is clear. I did not steal the wallet,\" the student insisted.",
+          "options": {
+            "1": "value",
+            "2": "moral",
+            "3": "principle",
+            "4": "conscience"
+          }
+        },
+        "15": {
+          "stem_plain": "They ________ in tears whenever they talk about their missing pet dog.",
+          "options": {
+            "1": "break out",
+            "2": "break down",
+            "3": "break away",
+            "4": "break through"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "这名学生公然违抗老师指示。",
+          "note": "应选（1）'defiant'：题干语境最宜表达'公然反抗的；蔑视的'。'frivolous'义为'轻浮的；不严肃的'：与题干逻辑及英语解析中的辨析不一致。'impulsive'义为'冲动的；不假思索的'：与题干逻辑及英语解析中的辨析不一致。'unfriendly'义为'不友善的；冷淡的'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — defiant（公然反抗的；蔑视的）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "defiant",
+              "zh": "公然反抗的；蔑视的",
+              "eg": "The <strong>defiant</strong> pupil folded his arms and refused to apologise to his teacher."
+            },
+            {
+              "opt": "2",
+              "word": "frivolous",
+              "zh": "轻浮的；不严肃的",
+              "eg": "Her <strong>frivolous</strong> giggling during the prayer annoyed the rest of the class."
+            },
+            {
+              "opt": "3",
+              "word": "impulsive",
+              "zh": "冲动的；不假思索的",
+              "eg": "Buying that expensive watch was an <strong>impulsive</strong> decision he later regretted."
+            },
+            {
+              "opt": "4",
+              "word": "unfriendly",
+              "zh": "不友善的；冷淡的",
+              "eg": "The new neighbour seemed <strong>unfriendly</strong>, never returning our cheerful greetings."
+            }
+          ]
+        },
+        "12": {
+          "zh": "连输几盘棋后，她向对手认输。",
+          "note": "应选（3）'conceded'：题干语境最宜表达'承认（失败）；让步'。'receded'义为'退去；后退'：与题干逻辑及英语解析中的辨析不一致。'acceded'义为'同意（请求）；答应'：与题干逻辑及英语解析中的辨析不一致。'interceded'义为'代为求情；调解'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — conceded（承认（失败）；让步）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "receded",
+              "zh": "退去；后退",
+              "eg": "As the tide <strong>receded</strong>, the children rushed forward to collect seashells on the wet sand."
+            },
+            {
+              "opt": "2",
+              "word": "acceded",
+              "zh": "同意（请求）；答应",
+              "eg": "The principal finally <strong>acceded</strong> to our request to extend the library opening hours."
+            },
+            {
+              "opt": "3",
+              "word": "conceded",
+              "zh": "承认（失败）；让步",
+              "eg": "After his king was trapped, the chess champion <strong>conceded</strong> defeat to his young opponent."
+            },
+            {
+              "opt": "4",
+              "word": "interceded",
+              "zh": "代为求情；调解",
+              "eg": "Mrs Lim <strong>interceded</strong> on Ben's behalf, asking the discipline master to give him another chance."
+            }
+          ]
+        },
+        "13": {
+          "zh": "他在派对上大声插嘴，举止令人反感。",
+          "note": "应选（3）'obnoxious'：题干语境最宜表达'讨人厌的；令人反感的'。'hostile'义为'敌对的；有敌意的'：语义暗示与题干要求不一致。'reserved'义为'矜持的；寡言的'：语义方向与句意相反。'intimidating'义为'令人生畏的；吓人的'：释义侧重与空格处逻辑不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — obnoxious（讨人厌的；令人反感的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hostile",
+              "zh": "敌对的；有敌意的",
+              "eg": "The two rival gangs gave each other <strong>hostile</strong> stares across the basketball court."
+            },
+            {
+              "opt": "2",
+              "word": "reserved",
+              "zh": "矜持的；寡言的",
+              "eg": "Sarah is so <strong>reserved</strong> that she barely speaks to anyone outside her closest friends."
+            },
+            {
+              "opt": "3",
+              "word": "obnoxious",
+              "zh": "讨人厌的；令人反感的",
+              "eg": "His <strong>obnoxious</strong> habit of chewing loudly with his mouth open ruined the dinner for everyone."
+            },
+            {
+              "opt": "4",
+              "word": "intimidating",
+              "zh": "令人生畏的；吓人的",
+              "eg": "The huge guard dog had an <strong>intimidating</strong> growl that kept strangers far from the gate."
+            }
+          ]
+        },
+        "14": {
+          "zh": "“我问心无愧，没偷钱包。”学生坚称。",
+          "note": "应选（4）'conscience'：题干语境最宜表达'良心；内心的是非感'。'value'义为'价值；价值观'：与题干语境或搭配要求不一致。'moral'义为'（故事的）寓意；道德教训'：与题干语境或搭配要求不一致。'principle'义为'原则；行事准则'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — conscience（良心；内心的是非感）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "value",
+              "zh": "价值；价值观",
+              "eg": "Honesty is a core <strong>value</strong> that my parents have taught me since I was young."
+            },
+            {
+              "opt": "2",
+              "word": "moral",
+              "zh": "（故事的）寓意；道德教训",
+              "eg": "The <strong>moral</strong> of the story is that hard work always beats raw talent."
+            },
+            {
+              "opt": "3",
+              "word": "principle",
+              "zh": "原则；行事准则",
+              "eg": "It is against my <strong>principle</strong> to lie, even when telling the truth gets me into trouble."
+            },
+            {
+              "opt": "4",
+              "word": "conscience",
+              "zh": "良心；内心的是非感",
+              "eg": "His <strong>conscience</strong> is clear because he returned every cent of the money he had borrowed."
+            }
+          ]
+        },
+        "15": {
+          "zh": "一谈起走失的宠物狗，他们就忍不住落泪。",
+          "note": "应选（2）'break down'：题干语境最宜表达'（情绪）崩溃；（机器）抛锚'。'break out'义为'（战争／火灾／疾病）突然爆发；逃脱'：与题干逻辑及英语解析中的辨析不一致。'break away'义为'脱离；挣脱'：与题干逻辑及英语解析中的辨析不一致。'break through'义为'突破；冲破（障碍）'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — break down（（情绪）崩溃；（机器）抛锚）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "break out",
+              "zh": "（战争／火灾／疾病）突然爆发；逃脱",
+              "eg": "A small fire <strong>broke out</strong> in the kitchen, but Father put it out before it could spread."
+            },
+            {
+              "opt": "2",
+              "word": "break down",
+              "zh": "（情绪）崩溃；（机器）抛锚",
+              "eg": "She <strong>broke down</strong> in tears the moment she heard that her grandmother had passed away."
+            },
+            {
+              "opt": "3",
+              "word": "break away",
+              "zh": "脱离；挣脱",
+              "eg": "The little boy tried to <strong>break away</strong> from his mother's grip and run towards the toy shop."
+            },
+            {
+              "opt": "4",
+              "word": "break through",
+              "zh": "突破；冲破（障碍）",
+              "eg": "After hours of practice, the gymnast finally <strong>broke through</strong> her mental block and landed the move."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "generate",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "eject",
+            "2": "expel",
+            "3": "release",
+            "4": "dispense"
+          }
+        },
+        "17": {
+          "stem_plain": "deter",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "stop",
+            "2": "avoid",
+            "3": "divert",
+            "4": "defeat"
+          }
+        },
+        "18": {
+          "stem_plain": "Residing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Living",
+            "2": "Lodging",
+            "3": "Occupying",
+            "4": "Frequenting"
+          }
+        },
+        "19": {
+          "stem_plain": "significantly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "slightly",
+            "2": "profoundly",
+            "3": "importantly",
+            "4": "considerably"
+          }
+        },
+        "20": {
+          "stem_plain": "feat",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "gesture",
+            "2": "milestone",
+            "3": "performance",
+            "4": "accomplishment"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The electric eel gets its name from its ability to generate electricity. Specialised organs within its body [Q16 (generate)] powerful electric shocks of up to 650 volts. Despite having this ability, electric eels are not naturally threatening. They use their electric shocks mainly to stun their prey and [Q17 (deter)] predators.",
+          "Electric eels are nocturnal and are most active at night. [Q18 (Residing)] in murky, dark waters, they have poor vision. Rather than relying on their sight, they give out weak electric signals that function like radar, allowing them to find their prey. Upon finding smaller fish, they send a [Q19 (significantly)] stronger shock to prevent their catch from escaping.",
+          "How strong can an electric eel's shock be? Well, the shock of an electric eel has been known to knock a horse off its feet. Truly, it is an astonishing [Q20 (feat)]!"
+        ],
+        "zh": [
+          "电鳗得名于其发电能力。体内特化器官可产生高达650伏的强大电击。尽管有此能力，电鳗并非天生具有威胁性，主要用电击击晕猎物并驱赶捕食者。",
+          "电鳗昼伏夜出，夜间最活跃。它们栖息于浑浊昏暗的水域，视力很差。与其依赖视觉，它们发出弱电信号，像雷达一样运作，帮助找到猎物。发现小鱼后，它们会发出明显更强的电击，防止猎物逃脱。",
+          "电鳗的电击能有多强？已知其电击曾把一匹马击倒在地。的确是一项惊人的本领！"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — generate（发布）",
+          "note": "应选（3）'release'：短文划线的 <em>generate</em> 在此语境下与此义最接近。'eject'：义为'eject / expel'，与短文语境或搭配要求不一致。'expel'：义为'eject / expel'，与短文语境或搭配要求不一致。'dispense'：义为'dispense'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "体内特化器官可产生高达650伏的强大电击。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "eject",
+              "zh": "喷射",
+              "eg": "In class we discussed how <strong>eject</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "expel",
+              "zh": "驱逐",
+              "eg": "The speaker chose <strong>expel</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "release",
+              "zh": "发布",
+              "eg": "Her essay used <strong>release</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "4",
+              "word": "dispense",
+              "zh": "分配",
+              "eg": "In class we discussed how <strong>dispense</strong> fits everyday English."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — deter（停止）",
+          "note": "应选（1）'stop'：短文划线的 <em>deter</em> 在此语境下与此义最接近。'avoid'：义为'avoid'，与短文语境或搭配要求不一致。'divert'：义为'divert'，与短文语境或搭配要求不一致。'defeat'：义为'失败；战败'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "主要用电击击晕猎物并阻止捕食者。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stop",
+              "zh": "停止",
+              "eg": "The speaker chose <strong>stop</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "2",
+              "word": "avoid",
+              "zh": "避免",
+              "eg": "In class we discussed how <strong>avoid</strong> fits everyday English."
+            },
+            {
+              "opt": "3",
+              "word": "divert",
+              "zh": "转移",
+              "eg": "The speaker chose <strong>divert</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "defeat",
+              "zh": "失败；战败",
+              "eg": "After his crushing <strong>defeat</strong>, the chess master vowed to train harder."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — Residing（丽芙）",
+          "note": "应选（1）'Living'：短文划线的 <em>Residing</em> 在此语境下与此义最接近。'Lodging'：义为'Lodging'，与短文语境或搭配要求不一致。'Occupying'：义为'Occupying'，与短文语境或搭配要求不一致。'Frequenting'：义为'Frequenting'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "它们栖息于浑浊昏暗的水域，视力很差。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Living",
+              "zh": "丽芙",
+              "eg": "The team kept <strong>Living</strong> until the task was done."
+            },
+            {
+              "opt": "2",
+              "word": "Lodging",
+              "zh": "住宿",
+              "eg": "The team kept <strong>Lodging</strong> until the task was done."
+            },
+            {
+              "opt": "3",
+              "word": "Occupying",
+              "zh": "占据",
+              "eg": "The team kept <strong>Occupying</strong> until the task was done."
+            },
+            {
+              "opt": "4",
+              "word": "Frequenting",
+              "zh": "经常",
+              "eg": "The team kept <strong>Frequenting</strong> until the task was done."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — significantly（考虑地）",
+          "note": "应选（4）'considerably'：短文划线的 <em>significantly</em> 在此语境下与此义最接近。'slightly'：义为'略微地；稍微'，与短文语境或搭配要求不一致。'profoundly'：义为'profoundly'，与短文语境或搭配要求不一致。'importantly'：义为'importantly'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "发现小鱼后，它们会发出明显更强的电击，防止猎物逃脱。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "slightly",
+              "zh": "略微地；稍微",
+              "eg": "Tilt the screen <strong>slightly</strong> so the sunlight does not glare on it."
+            },
+            {
+              "opt": "2",
+              "word": "profoundly",
+              "zh": "深刻地",
+              "eg": "She answered <strong>profoundly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "importantly",
+              "zh": "重要地",
+              "eg": "She answered <strong>importantly</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "considerably",
+              "zh": "考虑地",
+              "eg": "She answered <strong>considerably</strong> before the bell rang."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — feat（成就）",
+          "note": "应选（4）'accomplishment'：短文划线的 <em>feat</em> 在此语境下与此义最接近。'gesture'：义为'友好的举动；姿态'，与短文语境或搭配要求不一致。'milestone'：义为'milestone'，与短文语境或搭配要求不一致。'performance'：义为'performance'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "已知其电击曾把一匹马击倒在地。的确是一项惊人的成就！",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "gesture",
+              "zh": "友好的举动；姿态",
+              "eg": "Sharing his lunch was a thoughtful <strong>gesture</strong> that Perry appreciated."
+            },
+            {
+              "opt": "2",
+              "word": "milestone",
+              "zh": "里程碑",
+              "eg": "The pupils found the word <strong>milestone</strong> useful in their composition."
+            },
+            {
+              "opt": "3",
+              "word": "performance",
+              "zh": "表现",
+              "eg": "The speaker chose <strong>performance</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "accomplishment",
+              "zh": "成就",
+              "eg": "In class we discussed how <strong>accomplishment</strong> fits everyday English."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "The image in Text 1 that supports \"connect under the stars\" is ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "people having a picnic",
+            "2": "people relaxing in a cosy room",
+            "3": "people sitting under the open sky",
+            "4": "people coming together for a feast"
+          }
+        },
+        "22": {
+          "stem_plain": "Based on Text 1, the movie that is shown is most probably ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "a thriller",
+            "2": "a fantasy",
+            "3": "a comedy",
+            "4": "a documentary"
+          }
+        },
+        "23": {
+          "stem_plain": "Based on Text 1, which of the following is true about the event?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Adults will enjoy free-flow beverages.",
+            "2": "Interested parties can register on the spot.",
+            "3": "Participants must attend with family members.",
+            "4": "Children get free admission to the movie screening."
+          }
+        },
+        "24": {
+          "stem_plain": "What is the main purpose of Text 1?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to encourage people to watch more movies",
+            "2": "to attract people to attend a community event",
+            "3": "to provide people with the details of a new movie",
+            "4": "to remind people to spend time with their loved ones"
+          }
+        },
+        "25": {
+          "stem_plain": "How does the content of Text 2 support the message of the poster in Text 1?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It promotes indoor and outdoor activities.",
+            "2": "It encourages people to play more games.",
+            "3": "It highlights bringing family members together.",
+            "4": "It focuses on the need to build a strong community."
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "concept": "题型 — Image–text link — 'connect under the stars'（题型考点）",
+          "note": "<em>under the stars</em> means in the open at night, so the supporting image should literally show people outdoors with the sky visible → <span class=\"hl-good\">(3) people sitting under the open sky</span>. <span class=\"hl-bad\">(1) picnic</span>, <span class=\"hl-bad\">(2) cosy room</span> (indoors), and <span class=\"hl-bad\">(4) feast</span> all miss the open-sky cue.",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "标题 — Genre inference from movie title（标题考点）",
+          "note": "Movie title: <em>The Mystery of Maplewood Manor</em>. The keyword <em>Mystery</em> + a manor setting strongly suggests a suspenseful, mystery/thriller film → <span class=\"hl-good\">(1) a thriller</span>. <span class=\"hl-bad\">(2) fantasy</span> would imply magic/imaginary worlds; <span class=\"hl-bad\">(3) comedy</span> would be light-hearted; <span class=\"hl-bad\">(4) documentary</span> is non-fiction.",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "细节 — Detail check — admission price（信息定位）",
+          "note": "Poster: <em>Adult tickets at $5. <strong>Complimentary tickets for children!</strong></em> — children pay nothing → <span class=\"hl-good\">(4)</span>. <span class=\"hl-bad\">(1)</span> only popcorn and one drink are free, not free-flow beverages for adults; <span class=\"hl-bad\">(2)</span> registration must be online by 23 October, not on the spot; <span class=\"hl-bad\">(3)</span> family attendance is not required.",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "目的 — Author's purpose — promote a community event（目的考点）",
+          "note": "The poster is from the <em>Willow Movie Lovers Club</em> and invites people to register and turn up at Willow Park — its main purpose is to draw audiences to that local event → <span class=\"hl-good\">(2)</span>. <span class=\"hl-bad\">(1)</span> is too general (about more movies in life); <span class=\"hl-bad\">(3)</span> the poster gives event details, not movie review information; <span class=\"hl-bad\">(4)</span> spending time with loved ones is implied but not the primary purpose.",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "题型 — Cross-text link — family time as the shared theme（题型考点）",
+          "note": "Poster's tagline <em>Bring your loved ones</em> aligns most directly with Text 2's central message that family time strengthens bonds → <span class=\"hl-good\">(3)</span>. <span class=\"hl-bad\">(1)</span> lists indoor and outdoor activities, but the poster only describes one outdoor event; <span class=\"hl-bad\">(2)</span> games are only one example in Text 2; <span class=\"hl-bad\">(4)</span> 'strong community' is the bigger backdrop but the poster's pull is on the family unit, not the whole community.",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "D": "during",
+          "G": "in",
+          "K": "than",
+          "N": "these",
+          "B": "at",
+          "E": "even",
+          "H": "its",
+          "L": "their",
+          "P": "this",
+          "C": "despite",
+          "F": "if",
+          "J": "on",
+          "M": "then",
+          "Q": "thus"
+        },
+        "cloze": [
+          "Jellyfish can be found in oceans all around the world. [Q26] creatures have bell-shaped bodies and long tentacles that make them fascinating and mysterious. [Q27] jellyfish do not have a brain, heart or bones, some species can be highly dangerous to humans.",
+          "A jellyfish sting happens when [Q28] tentacles make contact with the skin. These tentacles contain tiny barbs that inject venom which may cause pain, swelling or [Q29] serious allergic reactions. Box jellyfish, for example, are among the most venomous marine creatures and have been known to cause fatalities [Q30] extreme cases.",
+          "In Singapore, jellyfish sightings and stings are reported more frequently [Q31] the warmer months. These happen particularly at popular beaches like Sentosa and East Coast Park. Lifeguards stationed [Q32] these beaches are trained to manage such situations calmly and quickly. [Q33] a person is stung, it is crucial not to scratch or rub the affected area as this could cause the venom to spread.",
+          "Medical experts advise that the sting should be rinsed with vinegar and [Q34] soaked in warm water to ease the pain. In more urgent cases, emergency medical attention must be sought without delay.",
+          "[Q35] their beauty, jellyfish should be observed from a safe distance. With the right precautions, a trip to the beach can still be safe and enjoyable."
+        ],
+        "zh": [
+          "水母可以在世界各地的海洋中找到。这些生物拥有钟形的身体和长长的触手，使它们既迷人又神秘。虽然水母没有大脑、心脏或骨头，但有些品种对人类来说仍然非常危险。",
+          "当水母的触手接触到皮肤时，就会发生蛰伤。这些触手上长着细小的倒钩，会注入毒液，可能引起疼痛、肿胀，甚至严重的过敏反应。例如，箱形水母是最具毒性的海洋生物之一，在极端情况下甚至会导致死亡。",
+          "在新加坡，气候较暖的几个月里，水母的目击和蛰伤报告更为频繁。这些情况特别容易发生在像圣淘沙和东海岸公园这样的热门海滩。驻守在这些海滩上的救生员都受过训练，能够冷静而迅速地处理这类情况。如果一个人被蛰，关键是不要抓挠或揉搓受影响的部位，否则可能会让毒液扩散。",
+          "医学专家建议，被蛰处应先用醋冲洗，然后浸泡在温水中以减轻疼痛。在更紧急的情况下，必须毫不拖延地寻求紧急医疗援助。",
+          "尽管水母十分美丽，但仍应从安全距离观察它们。只要采取正确的防范措施，去海滩的行程仍然可以既安全又愉快。"
+        ]
+      },
+      "answers": {
+        "26": {
+          "concept": "指示词 — these",
+          "note": "these creatures = 这些生物（水母）。",
+          "answer": "N — these"
+        },
+        "27": {
+          "concept": "让步 — although",
+          "note": "Although jellyfish do not have a brain … = 尽管没有大脑等器官。",
+          "answer": "A — although"
+        },
+        "28": {
+          "concept": "所有格 — its",
+          "note": "its tentacles make contact = 它的触手接触皮肤。",
+          "answer": "H — its"
+        },
+        "29": {
+          "concept": "强调 — even",
+          "note": "even serious allergic reactions = 甚至严重过敏。",
+          "answer": "E — even"
+        },
+        "30": {
+          "concept": "介词 — in",
+          "note": "fatalities in extreme cases = 在极端情况下致死。",
+          "answer": "G — in"
+        },
+        "31": {
+          "concept": "时间 — during",
+          "note": "during the warmer months = 在较暖的几个月。",
+          "answer": "D — during"
+        },
+        "32": {
+          "concept": "地点 — at",
+          "note": "stationed at these beaches = 驻守在这些海滩。",
+          "answer": "B — at"
+        },
+        "33": {
+          "concept": "条件 — if",
+          "note": "If a person is stung = 若有人被蛰。",
+          "answer": "F — if"
+        },
+        "34": {
+          "concept": "顺序 — then",
+          "note": "rinsed … and then soaked = 先冲洗再浸泡。",
+          "answer": "M — then"
+        },
+        "35": {
+          "concept": "让步 — Despite",
+          "note": "Despite their beauty = 尽管美丽仍须远观。",
+          "answer": "C — despite"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Nowadays, modern entertainment revolves around screens and social media. My own childhood was shaped [Q36(with)] simple, [Q37(tradishional)] games. These were moments of unfiltered joy, spent [Q38(to)] the company of neighbours who gradually [Q39(become)] lifelong friends.",
+          "Among the many games we played, five stones stood out for its [Q40(desepteve)] simplicity. What began as a casual pastime quickly became a contest of skill and precision. I remember spending countless afternoons practising the art of tossing and catching those bean bags, [Q41(determination)] to master every level.",
+          "Another game was zero point that [Q42(rekwired)] agility, timing, and a fair amount of courage. As the elastic rope rose higher with each round, so did the stakes — and the laughter. Failure [Q43(were)] met with good-natured teasing, and victory with loud cheers.",
+          "In [Q44(hionsight)] , those games did more than occupy our time. They nurtured [Q45(risiliense)] , cooperation, and a sense of community. These are the qualities that no digital game can ever truly replicate."
+        ],
+        "zh": [
+          "如今，现代娱乐主要围绕着屏幕和社交媒体展开。而我自己的童年则是由那些简单的传统游戏所塑造的。那是充满纯粹欢乐的时光，是在邻居们的陪伴中度过的，他们也渐渐成为我一生的朋友。",
+          "在我们玩过的众多游戏中，五颗石子因其看似简单却另有玄机的特点尤其令人难忘。原本只是随意的消遣，很快就变成了一场比拼技巧与准确度的较量。我记得自己用了无数个下午练习抛接那些豆袋的技巧，下定决心要征服每一关。",
+          "另一项游戏叫做“零点”，它需要敏捷、时机感和相当的勇气。随着每一轮橡皮绳越拉越高，挑战和笑声也水涨船高。失败时大家会善意地互相打趣，胜利时则迎来阵阵欢呼。",
+          "回头看，那些游戏远不止是消磨时间。它们培养了我们的韧性、合作精神，以及对社区的归属感。这些品质是任何电子游戏都无法真正复制的。"
+        ]
+      },
+      "answers": {
+        "36": {
+          "concept": "Passive agent — 'shaped by'",
+          "note": "<em>my childhood was shaped <strong>with</strong> simple, traditional games</em> → <span class=\"hl-good\">by</span>. The passive verb <em>was shaped</em> takes its agent with the preposition <em>by</em> (<em>shaped by N</em>), not <em>with</em>. <em>With</em> would introduce a tool, not the doer/cause.",
+          "answer": "by"
+        },
+        "37": {
+          "concept": "Spelling — '-tional' suffix",
+          "note": "<em>tradishional</em> → <span class=\"hl-good\">traditional</span>. The suffix is <em>-tional</em> (cf. <em>national, additional, optional</em>), spelt with <em>t</em> + <em>i</em> + <em>onal</em>; the /ʃ/ sound is hidden in the <em>ti</em>, never written as <em>sh</em> in this word family.",
+          "answer": "traditional"
+        },
+        "38": {
+          "concept": "Fixed preposition — 'in the company of'",
+          "note": "<em>spent <strong>to</strong> the company of neighbours</em> → <span class=\"hl-good\">in</span>. The fixed phrase is <code><strong>in</strong> the company of N</code> = together with someone. <em>To the company</em> is not idiomatic English.",
+          "answer": "in"
+        },
+        "39": {
+          "concept": "Past tense agreement",
+          "note": "The narrator is reflecting on childhood; the surrounding verbs are past (<em>was shaped, were moments, spent</em>). So <em>gradually <strong>become</strong> lifelong friends</em> must shift to past simple → <span class=\"hl-good\">became</span>.",
+          "answer": "became"
+        },
+        "40": {
+          "concept": "Spelling — '-ceptive' adjective",
+          "note": "<em>desepteve</em> → <span class=\"hl-good\">deceptive</span> (= misleadingly simple). Stem <em>decept-</em> + suffix <em>-ive</em>. Common error: spelling /s/ as <em>se</em> instead of <em>ce</em>, and <em>-ive</em> as <em>-eve</em>.",
+          "answer": "deceptive"
+        },
+        "41": {
+          "concept": "Word form — adjective for participial phrase",
+          "note": "<em>practising the art of tossing and catching those bean bags, <strong>determination</strong> to master every level</em> — the slot needs an adjective describing the writer (the implied subject of the participial clause), not the abstract noun → <span class=\"hl-good\">determined</span>. Pattern: <code>S + V, <strong>determined</strong> + to V</code> = resolved to do something.",
+          "answer": "determined"
+        },
+        "42": {
+          "concept": "Spelling — 're-' + 'quire'",
+          "note": "<em>rekwired</em> → <span class=\"hl-good\">required</span>. Latin-origin spelling: <em>re-</em> + <em>quire</em> (the /kw/ sound is always written <em>qu</em>, never <em>kw</em>, in Latin-derived words like <em>require, request, quiet</em>).",
+          "answer": "required"
+        },
+        "43": {
+          "concept": "Subject–verb agreement — uncountable subject",
+          "note": "<em>Failure <strong>were</strong> met with good-natured teasing</em> → <span class=\"hl-good\">was</span>. <em>Failure</em> here is uncountable (= the experience of failing in general), so it takes a singular verb. (Plural <em>Failures</em> + were would also work, but the question asks us to correct the existing word.)",
+          "answer": "was"
+        },
+        "44": {
+          "concept": "Spelling — 'hind-' + 'sight'",
+          "note": "<em>hionsight</em> → <span class=\"hl-good\">hindsight</span> = looking back at past events. Compound of <em>hind</em> (= behind, after) + <em>sight</em> (= seeing). Common error: writing <em>hion-</em> for <em>hind-</em>.",
+          "answer": "hindsight"
+        },
+        "45": {
+          "concept": "Spelling — '-ence' noun suffix",
+          "note": "<em>risiliense</em> → <span class=\"hl-good\">resilience</span> (= ability to recover quickly). Stem <em>resilient</em> → noun <em>resilience</em>. Common errors: writing <em>risi-</em> for <em>resi-</em> and <em>-ense</em> for <em>-ence</em> (compare <em>patient → patience</em>, not <em>patiense</em>).",
+          "answer": "resilience"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever stopped to think about where your bowl of rice comes from? As ordinary as it may seem, rice is one of the [Q46] important food crops in the world. It feeds more than half of the world's population every day.",
+          "Rice is believed to have been first [Q47] in China over 9,000 years ago. Since its cultivation, it has spread [Q48] Asia, Africa, and the Americas. Today, it is grown in more than one hundred countries [Q49] India, Indonesia, and Vietnam. Rice plants are typically grown in wet, muddy fields called paddies, [Q50] allow them to thrive.",
+          "There are many different [Q51] of rice, but they generally fall into two categories — long grain and short grain. Basmati rice from India and Jasmine rice from Thailand are long-grain types. They are [Q52] for their fragrant aroma. On the other hand, Japanese sushi rice is short-grain and becomes sticky when cooked.",
+          "Rice has [Q53] uses. In Asia, it is often steamed and served with meat or vegetables. In Spain, rice is cooked [Q54] seafood over a huge pan and in Japan, it is shaped into sushi. Even in desserts, rice [Q55] a key role in dishes like rice pudding or sweet glutinous rice cakes.",
+          "Aside from being a source of carbohydrates, rice also provides protein and essential vitamins. Brown rice is often considered [Q56] than white rice as it has not been polished and is higher in minerals and fibers. [Q57], both are great sources of energy.",
+          "Rice is more than just food — it is a [Q58] part of many cultures and traditions. In weddings across Asia, rice may be thrown to wish the couple prosperity. During [Q59], special rice dishes are prepared to honour ancestors and celebrate harvests.",
+          "The next time you see a bowl of rice, remember that it is not [Q60] a simple grain. It feeds billions and connects cultures across the globe."
+        ],
+        "zh": [
+          "你可曾想过碗里那勺饭从何而来？米饭看似平常，却是世界上最重要的粮食作物之一，每天养活全球一半以上人口。",
+          "据信稻米约九千多年前首次在中国栽培，此后传播至亚洲、非洲与美洲；如今在一百多个国家种植，如印度、印尼与越南。水稻通常种在称为稻田的湿润泥田，有利于生长。",
+          "稻米品种繁多，大致分长粒与短粒；印度香米与泰国茉莉香米为长粒，以香气著称；日本寿司米为短粒，煮熟后黏。",
+          "稻米用途广泛：亚洲常蒸饭配菜；西班牙用大盘与海鲜同煮；日本做成寿司；甜点里米饭也扮演要角，如米布丁、糯米糕。",
+          "除碳水化合物外，稻米还提供蛋白质与必需维生素；糙米因未精磨、矿物质与纤维较高，常被认为比白米更健康；不过两者都是良好能量来源。",
+          "稻米不仅是食物，也是许多文化传统的重要部分：亚洲婚礼有时撒米祝福新人；节庆期间会准备特色米食祭祖、庆祝丰收。",
+          "下次见到一碗饭，请记住它不只是简单谷物——它养活数十亿人，也把全球文化联结在一起。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "最高级形式",
+          "note": "构成最高级结构 one of the most important，用以形容稻米是世界上“最重要”的粮食作物之一。",
+          "answer": "most"
+        },
+        "47": {
+          "concept": "被动语态动词形式",
+          "note": "与前文 has been 构成被动语态，结合后文 cultivation（耕作/栽培），表示稻米最初在九千年前被“种植”或“驯化”（cultivated/grown/domesticated）。",
+          "answer": "cultivated/grown"
+        },
+        "48": {
+          "concept": "空间介词",
+          "note": "动词 spread 后接介词，表示稻米的种植在亚洲、非洲及美洲大陆“广泛传播”或“传遍”（across/throughout）。",
+          "answer": "across/throughout"
+        },
+        "49": {
+          "concept": "举例引导词",
+          "note": "用于引出具体的国家例子（印度、印尼和越南），填入 like 或是与 such 联用构成 such as 均可。",
+          "answer": "like/such"
+        },
+        "50": {
+          "concept": "非限制性定语从句引导词",
+          "note": "非限制性定语从句，逗号后需要填入关系代词 which 指代先行词 paddies（稻田），并在从句中作主语。",
+          "answer": "which"
+        },
+        "51": {
+          "concept": "名词词义辨析",
+          "note": "后文提到长粒米和短粒米两大类别，此空格指大米有许多不同的“种类”或“品种”（types/varieties/kinds）。",
+          "answer": "types/varieties/kinds"
+        },
+        "52": {
+          "concept": "被动语态固定习惯搭配",
+          "note": "构成固定搭配 be known for 或 be famous for，表示这些大米因其浓郁的香气而“闻名”或“为人所知”。",
+          "answer": "known/famous"
+        },
+        "53": {
+          "concept": "量词修饰结构",
+          "note": "修饰复数可数名词 uses（用途），表示大米有“许多”或“各种各样”的用途（many/various/different）。",
+          "answer": "many/various/different"
+        },
+        "54": {
+          "concept": "伴随/原料介词",
+          "note": "描述西班牙海鲜饭的烹饪方法，指大米“和”海鲜一起烹煮。",
+          "answer": "with"
+        },
+        "55": {
+          "concept": "主谓一致与习语搭配",
+          "note": "主语为单数名词 rice，构成地道固定习语 play a key role in，表示在某些甜点中“扮演着关键角色/起着重要作用”，动词需用单三形式 plays。",
+          "answer": "plays"
+        },
+        "56": {
+          "concept": "形容词比较级",
+          "note": "后文有比较连词 than，根据后文它未经过精制且富含矿物质和纤维，可知糙米通常被认为比白米更“健康”（healthier）。",
+          "answer": "healthier"
+        },
+        "57": {
+          "concept": "转折连词",
+          "note": "前文对比了糙米与白米的营养差异，后文通过 both（两者都是）进行语意转折，指出它们都是极好的能量来源。位于句首需大写（However/Nevertheless）。",
+          "answer": "However/Nevertheless"
+        },
+        "58": {
+          "concept": "形容词修饰",
+          "note": "用于修饰名词 part，表示大米是许多文化和传统中“重要的”、“巨大的”或“不可或缺的”一部分（big/huge/large/important）。",
+          "answer": "big/important/huge/large"
+        },
+        "59": {
+          "concept": "名词词义辨析",
+          "note": "介词 During（在……期间）后接名词。结合后文“祭奠祖先、庆祝丰收”，说明是在“节庆”或“节日”期间（celebrations/festivals）。",
+          "answer": "celebrations/festivals"
+        },
+        "60": {
+          "concept": "副词固定搭配",
+          "note": "与前面的否定词 not 连用，构成 not just 或 not merely，意思是“不仅仅是”一粒简单的谷物，起强调作用。",
+          "answer": "just/merely"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "Alex was anxious about the surgery. He had difficulty sleeping.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Due to his __________ ."
+        },
+        "62": {
+          "stem_plain": "\"What happened to you last night?\" Emma asked her brother.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Emma asked her brother __________ ."
+        },
+        "63": {
+          "stem_plain": "The rugby finals were suddenly cancelled. It caught everyone by surprise.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The sudden __________ ."
+        },
+        "64": {
+          "stem_plain": "The chefs are preparing the food for tonight's wedding banquet.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ by the chefs."
+        },
+        "65": {
+          "stem_plain": "Jill persevered and did very well for her examinations.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ because of __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "61": {
+          "concept": "原因短语 — Cause–effect → 'Due to + N'",
+          "zh": "由于担心手术，亚历克斯难以入睡。",
+          "note": "原因短语：<em>anxious about the surgery</em> → <em>Due to his anxiety about the surgery</em>；后接 <em>had difficulty sleeping</em>。",
+          "answer": "Due to his anxiety about the surgery, Alex had difficulty sleeping."
+        },
+        "62": {
+          "concept": "间接引语 — Direct → reported question (wh-)",
+          "zh": "艾玛问哥哥他前一晚发生了什么事。",
+          "note": "间接引语：wh- 问句 <em>what had happened to him the previous night</em>；时态后退。",
+          "answer": "Emma asked her brother what had happened to him the previous night."
+        },
+        "63": {
+          "concept": "名词化 — Verb → noun phrase (nominalisation)",
+          "zh": "橄榄球决赛的突然取消让所有人都感到意外。",
+          "note": "名词化：<em>were suddenly cancelled</em> → <em>The sudden cancellation of …</em> 作主语；谓语 <em>caught everyone by surprise</em>。",
+          "answer": "The sudden cancellation of the rugby finals caught everyone by surprise."
+        },
+        "64": {
+          "concept": "被动语态 — Active → passive (present continuous)",
+          "zh": "今晚婚宴的食物正在由厨师们准备。",
+          "note": "被动语态：<em>The food …</em> 作主语；<em>is being prepared by the chefs</em>。",
+          "answer": "The food for tonight's wedding banquet is being prepared by the chefs."
+        },
+        "65": {
+          "concept": "原因短语 — Verb → noun + 'because of + N'",
+          "zh": "由于坚持不懈，吉尔考试考得很好。",
+          "note": "原因短语：<em>persevered</em> → <em>because of her perseverance</em>；结果 <em>did very well for her examinations</em>。",
+          "answer": "Jill did very well for her examinations because of her perseverance."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "From the first paragraph, pick out a four-word phrase that tells us that the writer's mother's movements were less energetic.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "67": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "The writer's mother demonstrated a simple cartwheel.",
+            "The writer had her first gymnastics competition on balance beam.",
+            "The writer demonstrated a back handspring with control and grace."
+          ]
+        },
+        "68": {
+          "stem_plain": "Based on lines 10–28, state two ways how the writer's mother tried to hide her physical difficulties from her students.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q68a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q68b]"
+            }
+          ]
+        },
+        "69": {
+          "stem_plain": "How did the writer's mother support the writer when she was \"afraid to even do a forward roll\" (line 13)?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "70": {
+          "stem_plain": "The writer saw her mother \"hesitate for a moment, something she had never done before\" (line 31).",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) What did the writer's mother hesitate to do?",
+              "question": "[Q70a]"
+            },
+            {
+              "stem_plain": "(b) Explain clearly the reason why the writer's mother hesitated for a moment.",
+              "question": "[Q70b]"
+            }
+          ]
+        },
+        "71": {
+          "stem_plain": "Based on lines 5–43, state whether each statement in the table below is true or false. Then give one reason to support your answer.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The writer's mother was an accomplished gymnast in the past.",
+                "(b) The younger students did not pay attention to the writer when she demonstrated the movements."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q71a]",
+                "[Q71c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q71b]",
+                "[Q71d]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "Look at the table below. What do the word(s) in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **it** (line 11)",
+                "(b) **the impossible** (line 23)",
+                "(c) **That** (line 28)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q72a]",
+                "[Q72b]",
+                "[Q72c]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Two ways the writer's mother showed that she was touched by the writer's help.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q73a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Based on information from lines 13–43, how had the writer changed from when she was six years old to the present? Support your answer with evidence from the text.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "As a six-year-old",
+                "At present"
+              ]
+            },
+            "col_2": {
+              "header": "word/phrase to describe the writer",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]"
+              ]
+            },
+            "col_3": {
+              "header": "Evidence from the text",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "How would you describe the character of the writer's mother? Support your answer with evidence from the text.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) The writer's mother was",
+              "question": "[Q75a] ."
+            },
+            {
+              "stem_plain": "(b) Support your answer with evidence from the text.",
+              "question": "[Q75b]"
+            }
+          ]
+        }
+      },
+      "passages": {
+        "title": "Passage — Coach Chen",
+        "lines": {
+          "1": "Every Saturday morning, I watched Mum coach her gymnastics class. She moved so",
+          "2": "gracefully around the gymnasium that it was not hard to believe she had once been an",
+          "3": "Olympic gymnast. That day, though, something seemed different. The familiar scent of rubber",
+          "4": "mats filled the air, but she had lost her usual bounce.",
+          "5": "The early morning sun streamed through the high windows. Medals and trophies from",
+          "6": "years past lined the walls. Among them, proudly displayed in the center, was Mum's Olympic",
+          "7": "silver medal from Beijing 2008. I remembered how she used to let me wear it when I was little,",
+          "8": "telling me stories about her journey to the podium.",
+          "9": "\"One more time, girls!\" she called out, demonstrating a simple cartwheel.",
+          "10": "As she landed, she stumbled slightly and forced a smile. I saw how she was attempting",
+          "11": "to put less weight on her right ankle. The students did not notice **it**, but I did. It was the same",
+          "12": "ankle that had carried her through countless routines, but now seemed to be failing her.",
+          "13": "My mind wandered back to when I was six, afraid to even do a forward roll. The",
+          "14": "gymnasium had seemed enormous then. Mum would spot me, her hands ready to catch me",
+          "15": "if I fell. When I had crashed during my first competition on the balance beam, she had been",
+          "16": "there at the edge of the mat, encouraging me to continue. The memory was still vivid — the",
+          "17": "hushed audience, and my trembling legs as I stood up again.",
+          "18": "\"Every great gymnast falls, Sophie,\" she had whispered then, \"but only the best ones get",
+          "19": "back up.\"",
+          "20": "The gymnasium's mirrors reflected the morning light, just as they had done all those years",
+          "21": "ago. I remembered watching her practise after hours, chalking up her hands and working on",
+          "22": "the balance beam. She would flip and twist through the air as if gravity did not exist, making",
+          "23": "**the impossible** look effortless.",
+          "24": "Now, watching her massage her ankle between demonstrations, I understood why she",
+          "25": "had been doing more coaching and less demonstrating lately. Her body was not responding",
+          "26": "the way it used to. The doctor's words from last week echoed in my mind — \"Bone injury isn't",
+          "27": "healing well\" — but Mum had simply nodded and asked the doctor about modified exercises.",
+          "28": "**That** was her way of looking forward and finding solutions.",
+          "29": "\"Coach Chen,\" one of the younger students called out, her ponytail bouncing with",
+          "30": "excitement, \"Can you show us the back handspring again?\"",
+          "31": "I saw Mum hesitate for just a moment, something she had never done before. A flash of",
+          "32": "pain crossed her face, so brief that only someone who knew her well would notice. Before",
+          "33": "she could respond, I stepped onto the mat.",
+          "34": "\"Let me show you how,\" I offered, moving to the center. As I performed the move, I",
+          "35": "channeled everything she had ever taught me — the control, the grace in every movement.",
+          "36": "From the corner of my eye, I saw her watching me, and for a moment, I was that six-year-old",
+          "37": "again, desperate to make her proud.",
+          "38": "During the next exercise, when she asked for a volunteer to demonstrate a sequence, I",
+          "39": "raised my hand again.",
+          "40": "\"Let me show them, Mum,\" I said, performing the combination she had taught me years",
+          "41": "ago. The younger students followed my lead, their faces showing the same determination I",
+          "42": "once had. I heard Mum giving advice, just as clear and confident as ever, guiding the next",
+          "43": "generation of gymnasts.",
+          "44": "After class, as the students headed to the locker room, Mum pulled me into a hug.",
+          "45": "\"When did you grow up so much?\" she whispered, her voice slightly shaky.",
+          "46": "\"I learnt from the best,\" I replied, helping her put away the mats. \"Besides, you always",
+          "47": "said gymnastics is about pushing boundaries and inspiring others. Maybe it's time I helped",
+          "48": "inspire the next generation.\"",
+          "49": "In that moment, I understood that some legacies do not need medals to prove their worth."
+        },
+        "paragraphs": {
+          "1": "每逢周六早晨，我都会看妈妈指导她的体操课。她在体育馆里动作如此优美，不难相信她曾是奥运体操选手。但那天有些不一样。熟悉的橡胶垫气味弥漫空中，她却失去了往常的活力。",
+          "5": "清晨的阳光从高窗洒入。历年奖牌与奖杯陈列墙上，正中醒目地挂着妈妈 2008 年北京奥运会银牌。我记得小时候她常让我戴上，讲述她登上领奖台的经历。",
+          "9": "“再来一次，姑娘们！”她喊道，示范了一个简单的侧手翻。",
+          "10": "她落地时微微踉跄，却强装笑容。我看见她正努力把重心少放在右脚踝上。学生们没注意到这一点，我却注意到了。正是这只脚踝曾支撑她完成无数套路，如今却似乎在辜负她。",
+          "13": "我的思绪回到六岁那年，连前滚翻都不敢做。那时的体育馆显得巨大无比。妈妈会在一旁保护我，双手随时准备接住我。我第一次平衡木比赛摔下来时，她就在垫子边，鼓励我继续。那段记忆依然鲜明——寂静的观众，和我再次站起时颤抖的双腿。",
+          "18": "“每个伟大的体操运动员都会跌倒，索菲，”她当时轻声说，“但只有最优秀的人会重新站起来。”",
+          "20": "体育馆的镜子映着晨光，与多年前一样。我记得看她课后加练，在手上抹粉，在平衡木上练习。她在空中翻腾扭转，仿佛不受重力束缚，把看似不可能的动作做得毫不费力。",
+          "24": "如今看她示范间隙按摩脚踝，我明白她近来为何多指导、少示范。她的身体已不如从前。上周医生的话仍在耳边——“骨伤愈合不好”——妈妈只是点头，询问改良训练。那就是她向前看、找办法的方式。",
+          "29": "“陈教练，”一个小学员喊道，马尾随着兴奋跳动，“能再示范一次后空翻吗？”",
+          "31": "我看见妈妈犹豫了一瞬——她从未如此过。一丝痛楚掠过她的脸，短暂得只有熟悉她的人才看得出。还没等她回应，我已走上垫子。",
+          "34": "“让我来示范，”我说着走到中央。做动作时，我倾注她教的一切——每个动作的控制与优美。眼角余光见她注视着我，有一刻我又成了那个六岁孩子，拼命想让她骄傲。",
+          "38": "下一项练习，当她要人示范一套动作时，我又举起了手。",
+          "40": "“让我示范给他们看，妈妈，”我说着做出她多年前教我的组合。小队员们跟着我做，脸上带着我曾有的那份坚定。我听到妈妈依旧清晰自信地指点，引导下一代体操选手。",
+          "44": "课后，学员们去更衣室时，妈妈把我搂进怀里。",
+          "46": "“你什么时候长这么大了？”她轻声问，声音微微发颤。",
+          "49": "“我跟最好的学的，”我边帮她收垫子边说，“而且你总说体操在于突破界限、激励他人。也许该由我来激励下一代了。”那一刻我明白，有些传承不必用奖牌来证明价值。"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句题——从<strong>第一段</strong>抄<strong>四个英文词</strong>的短语，说明妈妈动作不如往常有活力（1 分）。</li><li><strong>范围：</strong>第一段为行 <strong>1–4</strong>（至 <em>lost her usual bounce</em> 前铺垫）。</li><li><strong>定位（行 4）：</strong><em>but she had <strong>lost her usual bounce</strong></em>；<em>bounce</em> 喻指轻快、活力，与题干 <em>less energetic</em> 对应。</li><li><strong>书写：</strong>照抄四字短语 <span class=\"hl-good\">lost her usual bounce.</span>（标点按卷面；勿多抄整句）。</li><li><strong>失分：</strong>抄 <em>Olympic gymnast</em> 等无关词；抄第二段及以后；改写词序。</li></ol>",
+          "answer": [
+            "lost her usual bounce."
+          ],
+          "type": "comprehension"
+        },
+        "67": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>题型：</strong>事件顺序排列——三行事件各标 <strong>1、2、3</strong>（1 分；Study 模式每行前用下拉选序号）。</li><li><strong>时间线：</strong>六岁第一次平衡木比赛（行 <strong>15</strong>）→ <strong>最早</strong> → <span class=\"hl-good\">1</span>；当日上午妈妈示范侧手翻（行 <strong>9</strong>）→ <span class=\"hl-good\">2</span>；同日稍后作者示范后空翻（行 <strong>34–35</strong>）→ <span class=\"hl-good\">3</span>。</li><li><strong>按卷面三行填写：</strong>侧手翻 → <span class=\"hl-good\">2</span>；第一次比赛 → <span class=\"hl-good\">1</span>；后空翻 → <span class=\"hl-good\">3</span>（答案键 <em>2, 1, 3</em>）。</li><li><strong>失分：</strong>三数顺序颠倒；把回忆当成“当天最先发生”。</li></ol>",
+          "answer": [
+            "2, 1, 3"
+          ],
+          "type": "comprehension"
+        },
+        "68": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——妈妈如何<strong>掩饰</strong>身体困难，不让学生察觉（2 分；lines <strong>10–28</strong>）。</li><li><strong>(a) 踉跄后强笑：</strong>行 10 <em>stumbled slightly and forced a smile</em> → 装作没事。</li><li><strong>(b) 示范间隙揉踝：</strong>行 24 <em>massage her ankle between demonstrations</em> → 趁间隙缓解疼痛、不让学生看见伤势。</li><li><strong>失分：</strong>只写一点；写作者示范或医生对话（超出“对学生掩饰”）。</li></ol>",
+          "answer": {
+            "68a": "When she stumbled slightly, she forced a smile.",
+            "68b": "Massaging her ankle in between demonstrations."
+          }
+        },
+        "69": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>要点直答——妈妈如何支持<strong>不敢做前滚翻</strong>的作者（1 分）。</li><li><strong>定位：</strong>题干引语在行 <strong>13</strong>；紧接行 <strong>14–15</strong>：<em>Mum would spot me, her hands ready to catch me if I fell.</em></li><li><strong>收束：</strong>改第三人称 → <span class=\"hl-good\">The writer's mother would spot the writer, her hands ready to catch the writer if she fell.</span></li><li><strong>失分：</strong>只写“鼓励”未写保护/ spotting；写比赛后安慰（非前滚翻情境）。</li></ol>",
+          "answer": [
+            "The writer's mother would spot the writer, her hands ready to catch the writer if she fell."
+          ],
+          "type": "comprehension"
+        },
+        "70": {
+          "concept": "分问综合简答",
+          "note": "<ol><li><strong>题型：</strong>分问综合简答——(a) 犹豫做什么；(b) 为何犹豫（各 1 分，共 2 分；Study 模式 (a)(b) 各一行填空）。</li><li><strong>(a) 行 30–31：</strong>学生要求再看后空翻，妈妈犹豫 → <span class=\"hl-good\">She hesitated to demonstrate the back handspring.</span></li><li><strong>(b) 行 26–27、31–32：</strong>骨伤未愈、踝痛 → <span class=\"hl-good\">The writer's mother's ankle was injured and already in a lot of pain.</span></li><li><strong>失分：</strong>(a) 写成“示范组合”；(b) 只写“累”未点脚踝/伤势。</li></ol>",
+          "answer": {
+            "70a": "She hesitated to demonstrate the back handspring.",
+            "70b": "The writer's mother's ankle was injured and already in a lot of pain."
+          }
+        },
+        "71": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——lines <strong>5–43</strong> 内逐行判 T/F 并各给<strong>一句</strong>理由（2 分）。</li><li><strong>(a) True：</strong>行 5–7 墙上历年奖牌、中央 <em>Olympic silver medal from Beijing 2008</em> → 昔日成就卓著。</li><li><strong>(b) False：</strong>行 41–42 <em>The younger students followed my lead</em>、脸上同样坚定 → 并非不理会作者。</li><li><strong>表格顺序：</strong>每行先填 True/False，再填 Reason；与 <code>answer</code> 行优先一致。</li><li><strong>失分：</strong>理由超出 5–43；T/F 与理由矛盾。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "True",
+            "71b": "The writer's mother had many medals and trophies from years past lined on the wall (including her Olympic silver medal from Beijing 2008)",
+            "71c": "False",
+            "71d": "The younger students followed the writer's lead, their faces showing the same determination the writer once had"
+          }
+        },
+        "72": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左列词语在文中的<strong>具体所指</strong>（3 分；右列填空）。</li><li><strong>(a) it（行 11）：</strong>回指行 10–11 妈妈<strong>少把重心放在右脚踝</strong> → <span class=\"hl-good\">How the writer's mother was attempting to put less weight on her right ankle.</span></li><li><strong>(b) the impossible（行 23）：</strong>回指行 22 空中翻腾、仿佛不受重力 → <span class=\"hl-good\">Flipping and twisting through the air as if gravity did not exist.</span></li><li><strong>(c) That（行 28）：</strong>回指行 27 向医生询问改良训练 → <span class=\"hl-good\">Asking the doctor about modified exercises.</span></li><li><strong>失分：</strong>只写“脚踝”“不可能”等空泛词；未用完整名词性短语。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "How the writer's mother was attempting to put less weight on her right ankle.",
+            "72b": "Flipping and twisting through the air as if gravity did not exist.",
+            "72c": "Asking the doctor about modified exercises."
+          }
+        },
+        "73": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——妈妈被作者帮助后<strong>感动的两种表现</strong>（2 分；课后行 <strong>44–45</strong>）。</li><li><strong>(a) 言语：</strong>行 45 颤抖低语 <em>When did you grow up so much?</em></li><li><strong>(b) 动作：</strong>行 44 <em>Mum pulled me into a hug</em> → 答案键用 <span class=\"hl-good\">Her mother pulled the writer into a hug.</span></li><li><strong>失分：</strong>写课中示范；只写一点。</li></ol>",
+          "answer": {
+            "73a": "The writer's mother asked shakily, 'When did you grow up so much?'",
+            "73b": "Her mother pulled the writer into a hug."
+          }
+        },
+        "74": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>题型：</strong>文中信息归纳表——六岁与<strong>现在</strong>对比：各写描述词 + 文中证据（4 分；lines <strong>13–43</strong>）。</li><li><strong>六岁：</strong>行 13 <em>afraid to even do a forward roll</em>；行 17 <em>trembling legs</em> → 词：<span class=\"hl-good\">scared / afraid</span>；证据照抄关键句。</li><li><strong>现在：</strong>行 34–35 示范后空翻 <em>control, the grace</em>；行 40–41 带领学生 → 词：<span class=\"hl-good\">confident</span>；证据：<em>She performed the move gracefully.</em></li><li><strong>表格：</strong>第二列词、第三列证据；行优先、从左到右与 <code>fill</code> 一致。</li><li><strong>失分：</strong>只填一词无证据；证据与“现在/六岁”时段不符。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "scared / afraid",
+            "74b": "She was afraid to do a forward roll, and when she crashed during her first competition, her legs trembled.",
+            "74c": "confident",
+            "74d": "She performed the move gracefully."
+          }
+        },
+        "75": {
+          "concept": "人物品质",
+          "note": "<ol><li><strong>题型：</strong>人物品质——(a) 用一个词形容妈妈；(b) 用文中证据支持（各 1 分，共 2 分；Study 模式 (a)(b) 各一行填空）。</li><li><strong>(a)：</strong>伤踝仍授课、示范、问改良训练（行 24–28、34–43）→ <span class=\"hl-good\">resilient</span>（坚韧不拔）。</li><li><strong>(b)：</strong><span class=\"hl-good\">Even when her ankle was injured, she did not give up and still wanted to teach and help the younger students.</span></li><li><strong>失分：</strong>(a) 只写“好妈妈”无品质词；(b) 证据与品质词无关。</li></ol>",
+          "answer": {
+            "75a": "The writer's mother was resilient.",
+            "75b": "Even when her ankle was injured, she did not give up and still wanted to teach and help the younger students."
+          }
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

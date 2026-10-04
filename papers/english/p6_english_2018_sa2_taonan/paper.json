@@ -1,0 +1,1149 @@
+{
+  "paperid": "p6_english_2018_sa2_taonan",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The players displayed strong sportsmanship _________ they were losing the game.",
+          "options": {
+            "1": "until",
+            "2": "despite",
+            "3": "although",
+            "4": "regardless of"
+          }
+        },
+        "2": {
+          "stem_plain": "\"You will not be able to concentrate if you are deprived _________ sleep,\" Mrs Lim told Nurul.",
+          "options": {
+            "1": "of",
+            "2": "on",
+            "3": "for",
+            "4": "with"
+          }
+        },
+        "3": {
+          "stem_plain": "_________ of the participants enjoys the writing camp, which is boring and poorly organised.",
+          "options": {
+            "1": "All",
+            "2": "Most",
+            "3": "None",
+            "4": "Some"
+          }
+        },
+        "4": {
+          "stem_plain": "Ali submits late work very often, _________?",
+          "options": {
+            "1": "is it",
+            "2": "isn't it",
+            "3": "does he",
+            "4": "doesn't he"
+          }
+        },
+        "5": {
+          "stem_plain": "\"If Siti _________ me that she was ill, I would not have scolded her,\" Mr Ahmad retorted.",
+          "options": {
+            "1": "told",
+            "2": "tells",
+            "3": "has told",
+            "4": "had told"
+          }
+        },
+        "6": {
+          "stem_plain": "The corn soup that the orphans love _________ sent to the children's home this morning.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "There were many important guests at the event, some of _________ were principals and ministers.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "8": {
+          "stem_plain": "\"I have just had my lunch but the wide array of delectable dishes _________ my mouth water!\" Weiming said to his mother.",
+          "options": {
+            "1": "make",
+            "2": "made",
+            "3": "is making",
+            "4": "has made"
+          }
+        },
+        "9": {
+          "stem_plain": "\"I'm sorry that your daughter _________ such a bad fall,\" the teacher told the parent.",
+          "options": {
+            "1": "has",
+            "2": "had",
+            "3": "have",
+            "4": "having"
+          }
+        },
+        "10": {
+          "stem_plain": "Bernard decided to write down the list of things to do lest he _________.",
+          "options": {
+            "1": "forget",
+            "2": "forgot",
+            "3": "forgets",
+            "4": "had forgotten"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "空格后面是一个完整的句子（they were losing the game），表达让步关系，因此需要选用连词 “although”。“despite” 和 “regardless of” 均为介词短语，其后只能接名词或动名词形式。",
+          "concept": "让步状语从句 — Conjunctions — although vs despite",
+          "zh": "尽管球员们正在输掉比赛，但他们依然展现出了强烈的运动家精神。",
+          "answer": "3"
+        },
+        "2": {
+          "note": "动词 “deprive”（剥夺/使丧失）的固定搭配是 “deprive somebody of something”，此处在其被动语态结构中依然搭配介词 “of”。",
+          "concept": "固定搭配与介词 — Verbs with Prepositions — deprive of",
+          "zh": "林太太对努鲁说：“如果你被剥夺了睡眠（睡眠不足），你将无法集中注意力。”",
+          "answer": "1"
+        },
+        "3": {
+          "note": "空格后面的谓语动词是单数形式 “enjoys”。在不定代词中，“All”、“Most” 和 “Some” 后面接复数名词的 of 短语时，谓语动词都必须用复数，只有 “None” 作主语时其谓语动词可以用单数形式。且后文提到“无聊且组织糟糕”，说明“没有人”喜欢，语意逻辑也最为通顺。",
+          "concept": "主谓一致与代词辨析 — Subject-Verb Agreement — None with singular verb",
+          "zh": "没有一个参与者喜欢这个写作训练营，因为它既无聊又组织得很糟糕。",
+          "answer": "3"
+        },
+        "4": {
+          "note": "陈述句使用的是一般现在时的肯定形式（submits），且主语为男性单数。对应的反意疑问句部分需要使用相应的现在时否定助动词，即 “doesn't he”。",
+          "concept": "反意疑问句 — Question Tags — Simple Present with Action Verbs",
+          "zh": "阿里经常很晚才交作业，对吧？",
+          "answer": "4"
+        },
+        "5": {
+          "note": "主句中的动词结构为 “would not have scolded”，表明这是对过去发生过的事情进行反事实假设的第三条件句。因此，if 引导的条件从句中必须使用过去完成时（had + 过去分词），即 “had told”。",
+          "concept": "虚拟语气 — Conditionals — Third Conditional",
+          "zh": "艾哈迈德先生反驳道：“如果阿西蒂当时告诉了我她生病了，我就不会责怪她了。”",
+          "answer": "4"
+        },
+        "6": {
+          "note": "句子的核心主语是不可数名词 “The corn soup”（玉米浓汤），定语从句 “that the orphans love” 仅充当修饰成分。结合时间状语 “this morning”，全句属于过去发生的被动动作，因此选用过去时单数形式 “was”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — Uncountable Nouns in Past Tense",
+          "zh": "孤儿们喜欢喝的玉米浓汤今天早上被送到了儿童之家。",
+          "answer": "3"
+        },
+        "7": {
+          "note": "这是一个非限定性定语从句，先行词是 “many important guests”（指人）。引导词处于介词 “of” 的后面作为宾语，必须使用宾格关系代词 “whom”。",
+          "concept": "定语从句 — Relative Clauses — Preposition + Whom",
+          "zh": "活动现场来了许多重要嘉宾，其中一些人是校长和部长。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "主语是 “the wide array of delectable dishes”（琳琅满目的美味佳肴），核心词是 “the wide array”（一整排/一大系列），通常被视为单数概念。并且这里是在描述当下食物“正在使”我流口水，因此选用现在进行时单数形式 “is making”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — Collective/Phrase Nouns",
+          "zh": "伟明对他的母亲说：“我刚刚才吃过午饭，但这琳琅满目的美味佳肴还是在让我流口水！”",
+          "answer": "3"
+        },
+        "9": {
+          "note": "老师是在对父母叙述一个刚刚发生过或过去已经完成的动作（摔了一跤）。“had a bad fall” 是固定动作搭配，这里需要使用一般过去时 “had”。",
+          "concept": "动词时态 — Verb Tenses — Simple Past",
+          "zh": "老师对家长说：“我很抱歉，您的女儿摔了这么重的一跤。”",
+          "answer": "2"
+        },
+        "10": {
+          "note": "连词 “lest” 意为“唯恐”或“免得”。在英语文法中，lest 引导的随附目的状语从句里，谓语动词必须使用虚拟语气结构，即 “should + 动词原形” 或者是直接“省略 should 的动词原形”（虚拟现在式）。因此此处只能填入动词原形 “forget”。",
+          "concept": "虚拟语气 — Subjunctive Mood — Lest with Bare Infinitive",
+          "zh": "伯纳德决定把要做的事情列成清单写下来，免得他忘记了。",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The greedy boy could not resist the ________ to bite into the large piece of cake.",
+          "options": {
+            "1": "drive",
+            "2": "instinct",
+            "3": "chance",
+            "4": "temptation"
+          }
+        },
+        "12": {
+          "stem_plain": "After the tsunami, the villagers felt tired as a result of ________ rebuilding their homes to start anew.",
+          "options": {
+            "1": "warily",
+            "2": "vigilantly",
+            "3": "confidently",
+            "4": "painstakingly"
+          }
+        },
+        "13": {
+          "stem_plain": "Many people told Evelyn that she would not succeed in conquering the mountain, but with her ________ efforts, she finally did.",
+          "options": {
+            "1": "steady",
+            "2": "endless",
+            "3": "persistent",
+            "4": "prolonged"
+          }
+        },
+        "14": {
+          "stem_plain": "The two students ________ with each other when they could not see eye to eye while they were working on the project.",
+          "options": {
+            "1": "fell in",
+            "2": "fell off",
+            "3": "fell out",
+            "4": "fell through"
+          }
+        },
+        "15": {
+          "stem_plain": "Being ________ towards the environment, the students threw their litter around haphazardly.",
+          "options": {
+            "1": "unkind",
+            "2": "uncaring",
+            "3": "insensitive",
+            "4": "inconsiderate"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "这个贪心的男孩忍不住诱惑，咬了一大口蛋糕。",
+          "note": "‘temptation’ 意为‘诱惑’。‘resist the temptation to do something’ 是固定搭配，表示‘抵制做某事的诱惑’。",
+          "concept": "名词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "drive",
+              "zh": "欲望，驱动力",
+              "eg": "Her strong **drive** to succeed helped her overcome many obstacles in her career."
+            },
+            {
+              "opt": "2",
+              "word": "instinct",
+              "zh": "本能，直觉",
+              "eg": "Birds fly south for the winter by **instinct**."
+            },
+            {
+              "opt": "3",
+              "word": "chance",
+              "zh": "机会",
+              "eg": "Please give me one more **chance** to prove that I can do the job well."
+            },
+            {
+              "opt": "4",
+              "word": "temptation",
+              "zh": "诱惑",
+              "eg": "The chocolate cake on the table was a huge **temptation** for the child on a diet."
+            }
+          ]
+        },
+        "12": {
+          "zh": "海啸过后，村民们因为艰苦地重建家园以重新开始而感到疲惫。",
+          "note": "‘painstakingly’ 意为‘费尽心地，艰苦地’，非常适合描述灾后重建家园所付出的巨大努力与辛劳。",
+          "concept": "副词辨析与神态关联 — Vocabulary — Adverbs",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "warily",
+              "zh": "小心翼翼地，警惕地",
+              "eg": "The cat stepped **warily** onto the frozen pond, testing the thin ice."
+            },
+            {
+              "opt": "2",
+              "word": "vigilantly",
+              "zh": "警觉地，密切注意地",
+              "eg": "The security guards monitored the building **vigilantly** throughout the night."
+            },
+            {
+              "opt": "3",
+              "word": "confidently",
+              "zh": "自信地",
+              "eg": "She walked onto the stage **confidently** and delivered a perfect speech."
+            },
+            {
+              "opt": "4",
+              "word": "painstakingly",
+              "zh": "费尽心地，精细艰苦地",
+              "eg": "The artist spent months **painstakingly** restoring the ancient painting."
+            }
+          ]
+        },
+        "13": {
+          "zh": "许多人告诉埃弗林她无法成功征服那座山，但凭借她坚持不懈的努力，她最终做到了。",
+          "note": "‘persistent’ 意为‘坚持不懈的，不屈不挠的’，常与 ‘efforts’（努力）连用，形容克服重重困难的毅力。",
+          "concept": "形容词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "steady",
+              "zh": "稳定的，持续的",
+              "eg": "The surgeon kept a **steady** hand during the complicated procedure."
+            },
+            {
+              "opt": "2",
+              "word": "endless",
+              "zh": "无休止的，无穷无尽的",
+              "eg": "The children had **endless** energy and played in the park all afternoon."
+            },
+            {
+              "opt": "3",
+              "word": "persistent",
+              "zh": "坚持不懈的，持续的",
+              "eg": "Through **persistent** practice, he eventually became a professional pianist."
+            },
+            {
+              "opt": "4",
+              "word": "prolonged",
+              "zh": "延长的，长期的",
+              "eg": "The country suffered economic difficulties after a **prolonged** period of war."
+            }
+          ]
+        },
+        "14": {
+          "zh": "这两个学生在项目中意见不合时，便与彼此发生了争吵。",
+          "note": "‘fell out’ 是短语动词，意为‘争吵，闹翻’。后半句的 ‘could not see eye to eye’（意见不合）提示了他们之间产生了矛盾。",
+          "concept": "短语动词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fell in",
+              "zh": "排队集合；（屋顶等）塌陷",
+              "eg": "The soldiers **fell in** quickly when the sergeant blew the whistle."
+            },
+            {
+              "opt": "2",
+              "word": "fell off",
+              "zh": "跌落；（数量等）减少，下降",
+              "eg": "Attendance at the weekly meetings **fell off** during the holiday season."
+            },
+            {
+              "opt": "3",
+              "word": "fell out",
+              "zh": "争吵，闹翻",
+              "eg": "The two best friends **fell out** over a minor misunderstanding and stopped talking."
+            },
+            {
+              "opt": "4",
+              "word": "fell through",
+              "zh": "废弃，报废；取消（计划）（动词，指因为某物变旧、无用、无法推行而将其当作废品扔掉，或彻底取消原定的政策与想法）",
+              "eg": "Our travel plans **fell through** because we could not secure the visas in time."
+            }
+          ]
+        },
+        "15": {
+          "zh": "由于对环境缺乏顾及（不体贴），学生们到处乱扔垃圾。",
+          "note": "‘inconsiderate’ 意为‘不体贴的，不顾及他人的/环境的’。‘inconsiderate towards...’ 表示对某人或某种环境没有公德心、不予顾及。",
+          "concept": "形容词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unkind",
+              "zh": "不友善的，刻薄的",
+              "eg": "It was very **unkind** of him to mock his classmate's mistake."
+            },
+            {
+              "opt": "2",
+              "word": "uncaring",
+              "zh": "冷漠的，不关心的",
+              "eg": "He was accused of being an **uncaring** father who ignored his children."
+            },
+            {
+              "opt": "3",
+              "word": "insensitive",
+              "zh": "麻木不仁的，不敏感的",
+              "eg": "Making jokes about the tragedy was highly **insensitive** to the victims' families."
+            },
+            {
+              "opt": "4",
+              "word": "inconsiderate",
+              "zh": "不体贴的，不顾及他人的",
+              "eg": "Playing loud music late at night is extremely **inconsiderate** to your neighbors."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "purposes",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "aims",
+            "2": "causes",
+            "3": "motives",
+            "4": "reasons"
+          }
+        },
+        "17": {
+          "stem_plain": "vital",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "suitable",
+            "2": "primary",
+            "3": "essential",
+            "4": "compulsory"
+          }
+        },
+        "18": {
+          "stem_plain": "evolving",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "altering",
+            "2": "varying",
+            "3": "nurturing",
+            "4": "changing"
+          }
+        },
+        "19": {
+          "stem_plain": "in harmony",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "jointly",
+            "2": "suitably",
+            "3": "collectively",
+            "4": "consistently"
+          }
+        },
+        "20": {
+          "stem_plain": "a cut above the rest",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "mighty",
+            "2": "invaluable",
+            "3": "exceptional",
+            "4": "indispensable"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “medicinal purposes”指医疗或药用“目的”，此处“aims”常用于表示具体的奋斗目标或意图，与“purposes”在表示使用的功能性目标时最接近。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "aims",
+              "zh": "目标，目的",
+              "eg": "The research group shared their main scientific aims."
+            },
+            {
+              "opt": "2",
+              "word": "causes",
+              "zh": "原因，起因",
+              "eg": "Scientists are trying to find the primary causes of the disease."
+            },
+            {
+              "opt": "3",
+              "word": "motives",
+              "zh": "动机，缘由（多指行为背后的主观意图）",
+              "eg": "The police questioned his true motives for helping."
+            },
+            {
+              "opt": "4",
+              "word": "reasons",
+              "zh": "理由，原因",
+              "eg": "There are many valid reasons to protect the environment."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “vital”表示极其重要、必不可少的，与“essential”意思完全相同。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "suitable",
+              "zh": "合适的，适宜的",
+              "eg": "This field provides a suitable habitat for wild bees."
+            },
+            {
+              "opt": "2",
+              "word": "primary",
+              "zh": "首要的，主要的",
+              "eg": "Our primary concern is the safety of the rare plants."
+            },
+            {
+              "opt": "3",
+              "word": "essential",
+              "zh": "必不可少的，极其重要的",
+              "eg": "Water and sunlight are essential for plant growth."
+            },
+            {
+              "opt": "4",
+              "word": "compulsory",
+              "zh": "强制的，义务的",
+              "eg": "Wearing safety gear is compulsory in the school laboratory."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “evolving”本意为演变、进化，指漫长渐进的发展和“改变”过程，此处选用“changing”最符合语境意义。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "altering",
+              "zh": "改变，改动（多指部分修改）",
+              "eg": "They are altering the design to make it safer."
+            },
+            {
+              "opt": "2",
+              "word": "varying",
+              "zh": "呈现不同，改变（侧重多样性、波动）",
+              "eg": "The temperature is varying between day and night."
+            },
+            {
+              "opt": "3",
+              "word": "nurturing",
+              "zh": "养育，培育",
+              "eg": "The young gardener is nurturing the delicate flowers carefully."
+            },
+            {
+              "opt": "4",
+              "word": "changing",
+              "zh": "改变，变化",
+              "eg": "The climate has been changing slowly over millions of years."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “in harmony with”意为与……和谐共处，强调共同地、作为一个整体去协作适应，与“collectively（共同地、集体地）”语境最契合。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "jointly",
+              "zh": "共同地，联合地（侧重多方合作完成某事）",
+              "eg": "The two companies jointly developed the organic medicine."
+            },
+            {
+              "opt": "2",
+              "word": "suitably",
+              "zh": "合适地，适当地",
+              "eg": "The plants were suitably arranged to receive enough light."
+            },
+            {
+              "opt": "3",
+              "word": "collectively",
+              "zh": "共同地，集体地（侧重作为一个整体）",
+              "eg": "The animals collectively adapted to the forest environment."
+            },
+            {
+              "opt": "4",
+              "word": "consistently",
+              "zh": "一致地，一贯地",
+              "eg": "He consistently supports local wildlife protection actions."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — 短语“a cut above the rest”意为高人一等、出类拔萃，即“exceptional（杰出的、异常优秀的）”。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "mighty",
+              "zh": "强有力的，巨大的",
+              "eg": "The mighty elephant walked through the thick forest."
+            },
+            {
+              "opt": "2",
+              "word": "invaluable",
+              "zh": "极有价值的，无价的",
+              "eg": "Your advice on plant care was absolutely invaluable."
+            },
+            {
+              "opt": "3",
+              "word": "exceptional",
+              "zh": "杰出的，卓越的，非凡的",
+              "eg": "She is an exceptional student who wins awards every year."
+            },
+            {
+              "opt": "4",
+              "word": "indispensable",
+              "zh": "不可或缺的",
+              "eg": "Bees are indispensable to the ecosystem of the orchard."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Most flowering plants are pollinated by animals. These include wild flowers and edible flowers used for medicinal [Q16(purposes)]. For many of these plants, the main pollinators would be the bees. However, many other insects are also [Q17(vital)] for the transfer of pollen from one flower to another. Plants and animals have been [Q18(evolving)] for millions of years and have adapted to exist [Q19(in harmony)] with other animals. The most unusual pollinators would have to be mammals and birds. Each pollinator plays a specific role and none should be seen as [Q20(a cut above the rest)]. Rather, the special characteristics of each pollinator should be appreciated."
+        ],
+        "zh": [
+          "大多数开花植物是由动物授粉的。这些包括用于药用目的的野生花卉和可食用花卉。对于其中许多植物来说，主要的授粉者是蜜蜂。然而，许多其他昆虫对于将花粉从一朵花转移到另一朵花也至关重要。植物和动物已经进化了数百万年，并已适应与其他动物和谐相处。最不寻常的授粉者应当是哺乳动物和鸟类。每种授粉者都发挥着特定的作用，任何一种都不应被看作是高人一等的。相反，每种授粉者的特殊特性都应该受到重视。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "情态动词（虚拟语气或假设推测）",
+          "note": "‘Would you be surprised to find...’，情态动词 would 与后面的动词原形 be 连用，在此引导一个委婉的疑问句，表示“如果你发现……你会感到惊讶吗？”",
+          "answer": "Q"
+        },
+        "30": {
+          "concept": "介词用法（表示空间地理方位）",
+          "note": "‘located in the Pacific Ocean’，表示“坐落在/位于太平洋中”，在浩瀚的海洋等广阔区域中，使用介词 in。",
+          "answer": "H"
+        },
+        "31": {
+          "concept": "并列连词/副词（并列顺承对照）",
+          "note": "‘2550 km long and 69 km wide’，连词 and 用来连接长和宽这两个并列的尺寸描述属性。",
+          "answer": "C"
+        },
+        "32": {
+          "concept": "冠词用法（定冠词特指）",
+          "note": "‘reaches the depth of nearly 11 km’，定冠词 the 在此特指后面由 of 介词短语修饰的特定深度数值。",
+          "answer": "M"
+        },
+        "33": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘known as the Challenger Deep’ 是固定搭配，意为‘被称为斐查兹海渊（挑战者深渊）’。",
+          "answer": "E"
+        },
+        "34": {
+          "concept": "动词时态与语态（虚拟语气中的过去式被动语态）",
+          "note": "‘if Mount Everest were dropped into...’，此处为 if 引导的对现在/未来事实相反的虚拟语气条件句，主语为单数 Mount Everest，在现代标准英语虚拟语气中，无论主语单复数，系动词统一使用 were。",
+          "answer": "P"
+        },
+        "35": {
+          "concept": "代词（指示代词指代前文情况）",
+          "note": "‘At this pressure’，指示代词 this 用来特指和强调前一句刚提到的“超过通常气压1000多倍的剧烈水压”。",
+          "answer": "N"
+        },
+        "36": {
+          "concept": "动词时态与主谓一致（一般现在时存在句）",
+          "note": "‘there are many more interesting details’ 构成 There be 存在句型，主语是复数名词 details（细节），且全文在陈述科学事实，故选 are。",
+          "answer": "D"
+        },
+        "37": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘found out about...’ 中 find out 意为‘查明、发现’，后跟介词 about 引入了解的具体对象，意为‘科学家们所了解到的关于马里亚纳海沟的细节’。",
+          "answer": "B"
+        },
+        "38": {
+          "concept": "连词用法（因果关系）",
+          "note": "‘This is because the Earth is not a perfect sphere’，固定句式 This is because... 意为‘这是因为……’，用来引出对前文“海沟不是离地心最近的海床”这一事实的科学原因解释。",
+          "answer": "F"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "about",
+          "C": "and",
+          "D": "are",
+          "E": "as",
+          "F": "because",
+          "G": "for",
+          "H": "in",
+          "J": "is",
+          "K": "should",
+          "L": "so",
+          "M": "the",
+          "N": "this",
+          "P": "were",
+          "Q": "would"
+        },
+        "cloze": [
+          "Have you heard of the Mariana Trench? [Q29] you be surprised to find that it is a large gap on the seabed and the deepest part of the world's oceans? This trench is located [Q30] the Pacific Ocean, an average of 200 km to the east of the Mariana Islands. The trench is a crescent-shaped scar embedded in the Earth's crust.",
+          "It measures about 2 550 km long [Q31] 69 km wide on average. Scientists have discovered that it reaches [Q32] depth of nearly 11 km at a small section known [Q33] the Challenger Deep. For comparison, if Mount Everest [Q34] dropped into the gap, its peak would still be over 1.6 km underwater.",
+          "At the bottom of the gap, the water pressure is so intense that it is more than 1 000 times the usual pressure. At [Q35] pressure, the density of water increases. In addition, there [Q36] many more interesting details which scientists have found out [Q37] this Mariana Trench. One such detail is the fact that the gap is not part of the seafloor closest to the centre of the Earth. This is [Q38] the Earth is not a perfect sphere. Still, the Mariana Trench is a source of marvel for many."
+        ],
+        "zh": [
+          "你听说过马里亚纳海沟吗？如果你发现它是海底的一个大裂口，并且是世界海洋中最深的地方，你会感到惊讶吗？该海沟位于太平洋，平均位于马里亚纳群岛以东200公里处。这条海沟是嵌入地壳的一道新月形伤疤。",
+          "它平均长约2550公里，宽约69公里。科学家们发现，在被称为“挑战者深渊”的一个狭小区域，它的深度达到了近11公里。相比之下，如果把珠穆朗玛峰放进这个裂口里，它的山峰仍然会在水下1.6公里以上。",
+          "在裂口的底部，水压是如此剧烈，以至于它是正常气压的1000多倍。在这种压力下，水的密度会增加。此外，还有许多关于这条马里亚纳海沟的更有趣细节被科学家们发现了。其中一个细节是，这个裂口并不是最靠近地心的那部分海底。这是因为地球并不是一个完美的球体。尽管如此，马里亚纳海沟对许多人来说依然是一个奇迹的源泉。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 ingredients（名词复数，意为要素、成分）。",
+          "answer": "ingredients"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 theories（名词复数，意为理论、说法）。",
+          "answer": "theories"
+        },
+        "41": {
+          "concept": "现在完成时中的过去分词 - Past Participles in Present Perfect",
+          "note": "时态与分词错误：现在完成时结构为 has + 过去分词，become 的过去分词仍是 become，而非现在分词形式 becoming。",
+          "answer": "become"
+        },
+        "42": {
+          "concept": "主谓一致 - Subject-Verb Agreement",
+          "note": "主谓一致：不定代词 no one 视为单数概念，对应的系动词应用 was，而非复数形式 were。",
+          "answer": "was"
+        },
+        "43": {
+          "concept": "过去分词 - Past Participles",
+          "note": "非谓语动词/被动含义：此处表示“在英国开展的一项研究”，应用过去分词形式 done 作后置定语，而非原形 do。",
+          "answer": "done"
+        },
+        "44": {
+          "concept": "现在分词/过去分词 - Participles",
+          "note": "非谓语动词作定语：修饰复数名词 people，表示主动选择的人，此处应用现在分词形式 choosing（或者用过去时从句 chose），通常小升初语法点在此处更倾向于改为分词作后置定语 choosing，或者是引导词后面的时态修正为 choosing。",
+          "answer": "choosing"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 significantly（副词，意为显著地、明显地）。",
+          "answer": "significantly"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 Conversely（副词，意为相反地）。",
+          "answer": "Conversely"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 happiness（名词，意为幸福、快乐）。",
+          "answer": "happiness"
+        },
+        "48": {
+          "concept": "主谓一致 - Subject-Verb Agreement",
+          "note": "主谓一致：句子的主语核心词是单数名词 the left foot，对应的谓语动词应用单数形式 is，而非复数 are。",
+          "answer": "is"
+        },
+        "49": {
+          "concept": "动词原形 - Infinitives",
+          "note": "动词不定式后的动词形式：在不定式符号 to 后面，必须接动词原形 activate（激活、启动），而非含有特殊印记或拼写错误的 activate 变体。",
+          "answer": "activate"
+        },
+        "50": {
+          "concept": "单词拼写与时态 - Spelling and Verb Tenses",
+          "note": "拼写错误：结合时间状语 back then（那时），此处应用动词 believe 的过去式，正确拼写为 believed，而非带有拼写错误的 beliefed。",
+          "answer": "believed"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Black cat, Friday the 13th and rabbit's feet. What do these things have in [Q39(ingridents)] common? Are these some ingredients for disasters and bad luck? If that is what you have in mind, you are superstitious. There are many [Q40(theorys)] to explain why Friday the 13th has [Q41(becoming)] synonymous with bad luck, yet, no one [Q42(were)] completely certain of the real reason. Coincidentally, a study [Q43(do)] in the United Kingdom last year revealed that despite fewer people [Q44(choose)] to travel on Friday the 13th, there were [Q45(signfecantly)] more hospital admissions due to accidents than there were on 'normal' Fridays! [Q46(Connversly)], some superstitions are supposed to bring good luck or [Q47(happinness)].",
+          "According to many folktales, only the left foot of the rabbit [Q48(are)] considered lucky, and the bearer had to rub it to [Q49(activade)] the luck. Coupled with that, some people back then [Q50(beliefed)] that the rabbit's foot was also a good source of protective magic.",
+          "So, now that you know the history, do not scoff at those lucky rabbit feet!"
+        ],
+        "zh": [
+          "黑猫、13号星期五和兔子脚。这些东西有什么共同点？它们是灾难和厄运的催化剂吗？如果你心里是这么想的，那你就有些迷信了。有很多种说法来解释为什么13号星期五会成为厄运的代名词，然而，没有人完全确定真正的原因。碰巧的是，去年在英国开展的一项研究表明，尽管在13号星期五选择出行的人较少，但由于事故而住院的人数却明显多于“正常”的星期五！相反，一些迷信思想也被认为能带来好运或幸福。",
+          "根据许多民间传说的说法，只有兔子的左脚才被认为是幸运的，拥有它的人必须摩擦它来激活好运。再加上当时有些人相信，兔子的脚也是保护性魔法的良好来源。",
+          "所以，既然你已经了解了这段历史，就不要嘲笑那些幸运的兔子脚了！"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "固定搭配 / 限定词",
+          "answer": "no",
+          "note": "与前后文构成固定表达‘it comes as no surprise that...’，意为‘……并不令人感到意外’。"
+        },
+        "52": {
+          "concept": "时间介词",
+          "answer": "since",
+          "note": "用于连接过去的一个具体时间点（1989年），表示‘自1989年以来’最广泛的一次翻修。"
+        },
+        "53": {
+          "concept": "固定搭配 / 介词",
+          "answer": "with",
+          "note": "与前面的动词过去分词短语构成固定搭配‘be equipped with’，意为‘配备有、装备有’。"
+        },
+        "54": {
+          "concept": "主谓一致 / 代词",
+          "answer": "One / Each",
+          "note": "由于后文的谓语动词是单数形式的‘was’，因此主语部分‘...of the major changes’必须搭配单数代词‘One（其中之一）’。"
+        },
+        "55": {
+          "concept": "固定搭配 / 介词",
+          "answer": "from",
+          "note": "与后文的‘to’连用，构成数量维度的固定搭配‘from... to...’，表示数量‘从103间增加到115间’。"
+        },
+        "56": {
+          "concept": "固定搭配 / 副词",
+          "answer": "also / even",
+          "note": "与前文的‘not only’呼应，组成关联连词短语‘not only... but also...’，意为‘不仅……而且还……’。"
+        },
+        "57": {
+          "concept": "固定搭配 / 介词",
+          "answer": "up",
+          "note": "与后文连用组成‘up to date’短语，‘keep something up to date’为固定搭配，意为‘使……保持最新状态/跟上时代’。"
+        },
+        "58": {
+          "concept": "动词原形",
+          "answer": "ensure / see / make sure",
+          "note": "位于动词不定式符号‘to’解开后接动词原形，引导后面的宾语从句，意为‘确保（ensure）’酒店保留其著名的氛围。"
+        },
+        "59": {
+          "concept": "固定搭配 / 介词",
+          "answer": "to / about",
+          "note": "‘be unique to someone/something’为固定语境表达，意为‘对……来说是独一无二的/所独有的（to）’。"
+        },
+        "60": {
+          "concept": "助动词 (被动语态)",
+          "answer": "be",
+          "note": "位于情态动词‘will’后，接动词原形‘be’，与后面的过去分词‘converted’共同构成一般将来时的被动语态（will be converted），意为‘将被改造’。"
+        },
+        "61": {
+          "concept": "上下文语境名词",
+          "answer": "shades / tones / colours / combinations",
+          "note": "修饰后文的奶油色和金色，‘shades of cream and gold’意为‘乳白与金黄的美妙色调/色彩（shades）’。"
+        },
+        "62": {
+          "concept": "上下文语境名词",
+          "answer": "name / title",
+          "note": "后文的破折号直接给出了新称谓‘the Jubilee Ballroom’，因此此处指被赋予一个新‘名字/名称（name）’。"
+        },
+        "63": {
+          "concept": "主谓一致 / 名词",
+          "answer": "layer / coat",
+          "note": "后面对应的谓语动词是单数助动词‘has been’，因此该处作为主语核心的名词必须填单数形式，表示外墙厚厚的一‘层（layer）’油漆。"
+        },
+        "64": {
+          "concept": "固定搭配 / 介词",
+          "answer": "by",
+          "note": "‘by hand’为固定短语，意为‘手工地、用手工’，表示油漆是用手工小心刮掉的。"
+        },
+        "65": {
+          "concept": "固定搭配 / 形容词",
+          "answer": "good",
+          "note": "‘as good as new’为固定习语搭配，意为‘完好如新、和新的一样（good）’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Singapore's Raffles Hotel will offer a host of new facilities and memorable dining experiences when it completes its ongoing renovation works. Thus, it comes as [Q51] surprise that the hotel will close its doors for a few months to facilitate the extensive works. The highly anticipated works are the most extensive [Q52] 1989. Once completed, the premises will be equipped [Q53] new amenities such as a heated swimming pool. new wedding venues and a gazebo (a small building with open sides in a garden). [Q54] of the major changes was announced at a press conference yesterday. Raffles Hotel will have more new suites. This will raise the hotel's current suite count [Q55] 103 to 115. These suites consist of not only one-bedroom suites but [Q56] two bedroom suites.",
+          "These renovations are designed to keep the hotel [Q57] to date while providing a higher level of service. At the same time, careful consideration has been undertaken to [Q58] that the hotel retains the famous ambience and what is unique [Q59] Raffles Hotel. Another part of the Raffles Hotel, the Jubilee Hall, will [Q60] converted into a 300-guest ballroom in two wonderful [Q61] of cream and gold. Adorned with chandeliers and an air-conditioned foyer, it will be given a new [Q62] - the Jubilee Ballroom.",
+          "As part of the renovations, the walls on the exterior of the building will undergo rigorous works too. The thick [Q63] of paint on the exterior of the building has been carefully scraped off [Q64] hand to prevent any damage to its facade. By doing so, the hotel will be as [Q65] as new after the massive overhaul. Additional updates will be released periodically as the hotel's restoration works continue."
+        ],
+        "zh": [
+          "新加坡莱佛士酒店在完成其正在进行的翻修工程后，将提供许多新设施和令人难忘的餐饮体验。因此，酒店将关闭数月以方便开展广泛工程，这并不令人感到意外。这些备受期待的工程是自1989年以来最广泛的一次。一旦完工，该场所将配备诸如温水游泳池、新婚礼场地和凉亭（花园中带有开放侧面的小型建筑）等新设施。昨天在新闻发布会上宣布了其中一项重大变化。莱佛士酒店将拥有更多新套房。这将使酒店目前的套房数量从103间增加到115间。这些套房不仅由一居室套房组成，而且还由两居室套房组成。",
+          "这些翻修旨在使酒店保持最新状态，同时提供更高水平的服务。与此同时，酒店也进行了仔细考虑，以确保酒店保留著名的氛围以及莱佛士酒店所独有的特色。莱佛士酒店的另一个部分——银禧礼堂，将被改造成一个可容纳300名宾客的宴会厅，呈现乳白与金黄这两种美妙的色调。该宴会厅配有吊灯和带空调的前厅，将被赋予一个新名字——银禧宴会厅。",
+          "作为翻修的一部分，建筑外墙也将经历严格的工程。建筑外侧厚厚的一层油漆已被手工小心地刮掉，以防止对其正面造成任何损坏。通过这样做，酒店在大规模彻底翻修后将完好如新。随着酒店修复工程的继续，更多更新消息将定期发布。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

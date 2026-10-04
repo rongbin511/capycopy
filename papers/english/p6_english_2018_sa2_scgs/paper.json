@@ -1,0 +1,1151 @@
+{
+  "paperid": "p6_english_2018_sa2_scgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The doctor, together with two nurses, _________ going to attend to the patient now.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "Kai Ling saw a boy from the next class _________ his finger into the cake mixture.",
+          "options": {
+            "1": "dip",
+            "2": "dips",
+            "3": "dipped",
+            "4": "were dipping"
+          }
+        },
+        "3": {
+          "stem_plain": "Javi peeked cautiously _________ his brother's shoulder, making sure that he was able to spy on the enemies yet not be seen by them.",
+          "options": {
+            "1": "on",
+            "2": "with",
+            "3": "over",
+            "4": "against"
+          }
+        },
+        "4": {
+          "stem_plain": "The children made _________ sandwiches for dinner.",
+          "options": {
+            "1": "herself",
+            "2": "yourself",
+            "3": "yourselves",
+            "4": "themselves"
+          }
+        },
+        "5": {
+          "stem_plain": "They seldom go to the market, _________ they?",
+          "options": {
+            "1": "do",
+            "2": "don't",
+            "3": "have",
+            "4": "haven't"
+          }
+        },
+        "6": {
+          "stem_plain": "The residents requested that the committee _________ the policy so that fewer people would be affected by the change.",
+          "options": {
+            "1": "amend",
+            "2": "amends",
+            "3": "amended",
+            "4": "was amending"
+          }
+        },
+        "7": {
+          "stem_plain": "I have not seen him _________ yesterday. I do not know where he is.",
+          "options": {
+            "1": "until",
+            "2": "since",
+            "3": "before",
+            "4": "despite"
+          }
+        },
+        "8": {
+          "stem_plain": "I have two brothers, but neither of them _________ married.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "9": {
+          "stem_plain": "I have to make a trip to the supermarket as I have _________ out of flour.",
+          "options": {
+            "1": "ran",
+            "2": "run",
+            "3": "runs",
+            "4": "running"
+          }
+        },
+        "10": {
+          "stem_plain": "My mother will be taking Helen and _________ to the cinema.",
+          "options": {
+            "1": "I",
+            "2": "my",
+            "3": "me",
+            "4": "mine"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "当主语后面接有 “together with...” 引导的短语时，谓语动词的单复数仅由前面的核心主语（The doctor，单数）决定。结合句末的 “now”，应使用现在时单数形式 “is”。",
+          "concept": "主谓一致 — Subject-Verb Agreement — Intervening Phrases",
+          "zh": "医生和两名护士现在正准备去照顾那位病人。",
+          "answer": "1"
+        },
+        "2": {
+          "note": "感官动词 “saw” 后面接复合宾语时，若表示看到动作发生的完整过程，非谓语动词部分需使用不带 to 的动词不定式（即动词原形 “dip”）。",
+          "concept": "感官动词 — Verbs of Perception — Bare Infinitive",
+          "zh": "凯玲看到隔壁班的一个男孩把手指伸进了蛋糕糊里。",
+          "answer": "1"
+        },
+        "3": {
+          "note": "“peek over one's shoulder” 是固定的空间动作搭配，表示“从某人的肩膀上方探头望过去”。",
+          "concept": "介词搭配与语境 — Prepositions — peek over",
+          "zh": "哈维小心翼翼地从他哥哥的肩膀上方望过去，确保自己既能暗中监视敌人，又不会被他们发现。",
+          "answer": "3"
+        },
+        "4": {
+          "note": "主语是 “The children”（孩子们，复数）。当动作的发出者和承受者（或受益者）指代相同的一群人时，需要使用第三人称复数反身代词 “themselves”（他们自己）。",
+          "concept": "代词 — Pronouns — Reflexive Pronouns",
+          "zh": "孩子们自己做了三明治当晚饭。",
+          "answer": "4"
+        },
+        "5": {
+          "note": "陈述部分含有半否定词 “seldom”（很少），因此整个陈述句在语气上属于否定句，反意疑问句部分要用肯定形式；“go” 是一般现在时，对应的肯定助动词为 “do”。",
+          "concept": "反意疑问句 — Question Tags — Semi-negative Adverbs",
+          "zh": "他们很少去市场，对吧？",
+          "answer": "1"
+        },
+        "6": {
+          "note": "在表示“建议、要求、命令”等动词（如 request, suggest, demand）后面的宾语从句中，谓语动词需要使用虚拟语气结构，即 “should + 动词原形” 或者是直接“省略 should 的动词原形”（虚拟现在式）。因此此处只能用原形 “amend”。",
+          "concept": "虚拟语气 — Subjunctive Mood — Mandative Subjunctive",
+          "zh": "居民们要求委员会修改这项政策，以便更少的人受到这一改变的影响。",
+          "answer": "1"
+        },
+        "7": {
+          "note": "前文 “I have not seen him” 使用了现在完成时，配合具体的时间起点 “yesterday”，应当使用介词 “since”（自……以来）。",
+          "concept": "动词时态与介词 — Present Perfect with Since",
+          "zh": "从昨天起我就没见过他了。我不知道他在哪里。",
+          "answer": "2"
+        },
+        "8": {
+          "note": "“neither of + 复数名词/代词” 结构作为句子的主语时，在正式英语文法中，其谓语动词通常视为单数。此外，这句在陈述一个客观现状，故使用一般现在时单数形式 “is”。",
+          "concept": "主谓一致 — Subject-Verb Agreement — Neither of",
+          "zh": "我有两个哥哥，但他们两个都没有结婚。",
+          "answer": "1"
+        },
+        "9": {
+          "note": "此处是现在完成时结构（have + 过去分词）。动词 run 的过去分词形式依然是其原形 “run”（变化形式为 run-ran-run）。短语 “run out of” 意思是“用光/耗尽”。",
+          "concept": "不规则动词变化与时态 — Irregular Verbs — Past Participle of Run",
+          "zh": "我得去一趟超市，因为我的面粉已经用光了。",
+          "answer": "2"
+        },
+        "10": {
+          "note": "空格处在句中位于动词短语 “will be taking” 后面，并与 “Helen” 一起充当并列宾语，因此必须使用人称代词的宾格形式 “me”。",
+          "concept": "代词格的选择 — Pronouns — Object Pronouns",
+          "zh": "我妈妈将带海伦和我一起去电影院。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Many people were outraged by the cruel act, and their letters of sympathy reflected this ________.",
+          "options": {
+            "1": "judgment",
+            "2": "sentiment",
+            "3": "conviction",
+            "4": "hypothesis"
+          }
+        },
+        "12": {
+          "stem_plain": "Kathleen ________ in front of the house before exiting her car.",
+          "options": {
+            "1": "pulled in",
+            "2": "pulled up",
+            "3": "pulled back",
+            "4": "pulled down"
+          }
+        },
+        "13": {
+          "stem_plain": "The government ________ a ban on the sale of alcohol. The citizens were forced to accept the new ban.",
+          "options": {
+            "1": "lifted",
+            "2": "debated",
+            "3": "imposed",
+            "4": "proposed"
+          }
+        },
+        "14": {
+          "stem_plain": "Patrick peeped ________ into Peiling's bag as he wanted to find out how she was able to store so many things inside.",
+          "options": {
+            "1": "indifferently",
+            "2": "inquisitively",
+            "3": "disinterestedly",
+            "4": "disapprovingly"
+          }
+        },
+        "15": {
+          "stem_plain": "He was ________ in his opposition to the plan, and nobody was able to change his decision.",
+          "options": {
+            "1": "resolute",
+            "2": "hesitant",
+            "3": "wavering",
+            "4": "supportive"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "许多人对这一残忍的行为感到愤怒，他们的慰问信反映出了这种情感。",
+          "note": "‘sentiment’ 意为‘情感，情绪，观点’。在这里指代前文人们因残忍行为而产生的同情与愤慨之情。",
+          "concept": "名词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "judgment",
+              "zh": "判断，评价（名词，指经过认真思考或根据证据而做出的看法、结论，或在法庭上由法官等做出的正式裁判与判决）",
+              "eg": "The judge will pass judgment on the case tomorrow."
+            },
+            {
+              "opt": "2",
+              "word": "sentiment",
+              "zh": "情感，观点（名词，指基于内心感受、情绪或态度而非纯粹理性产生的一种群体性倾向、看法或温柔怀旧的思绪）",
+              "eg": "Public sentiment has shifted against the proposed tax increase."
+            },
+            {
+              "opt": "3",
+              "word": "conviction",
+              "zh": "坚定的信念；定罪（名词，指经过长期思考而深信不疑的宗教或道德信仰、不可动摇的信念，或在法庭上宣告某人有罪的正式判决）",
+              "eg": "She holds a deep conviction that all people should be treated equally."
+            },
+            {
+              "opt": "4",
+              "word": "hypothesis",
+              "zh": "假设，假说（名词，指根据有限的证据提出来的、用作进一步调查或研究基础的设想、推测，其正确性尚未得到彻底证实）",
+              "eg": "The scientists developed a hypothesis to explain the strange data."
+            }
+          ]
+        },
+        "12": {
+          "zh": "凯瑟琳在房子前把车停下，然后走下了车。",
+          "note": "‘pulled up’ 是短语动词，指（车辆）驶停、停下。这与后面 “exiting her car”（下车）的语境完全吻合。",
+          "concept": "短语动词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pulled in",
+              "zh": "（车辆）靠停，驶向路边（动词短语，指驾驶车辆离开主车道向路边靠拢、驶入特定的停靠点、加油站、车站或驶进家门前的小车道）",
+              "eg": "The train pulled in at the station right on schedule."
+            },
+            {
+              "opt": "2",
+              "word": "pulled up",
+              "zh": "（车辆）驶停，停下（动词短语，指驾驶汽车等车辆在某一特定地点慢慢减速并最终完全停稳下来）",
+              "eg": "The taxi pulled up outside the hotel, and the passengers got out."
+            },
+            {
+              "opt": "3",
+              "word": "pulled back",
+              "zh": "撤退，拉回（动词短语，指军队或团队因战术需要或遇到阻碍而从原来的前进位置向后撤离，或者将伸出的手脚等身体部位迅速收回）",
+              "eg": "The army pulled back from the front lines to regroup."
+            },
+            {
+              "opt": "4",
+              "word": "pulled down",
+              "zh": "拆毁，推翻（动词短语，指用机械或人力将旧建筑物、墙壁、废弃房屋等彻底砸烂拆除，使其倒塌倾覆）",
+              "eg": "The old warehouse was pulled down to make way for a modern apartment block."
+            }
+          ]
+        },
+        "13": {
+          "zh": "政府对酒类销售实施了禁令。公民们被迫接受这一新禁令。",
+          "note": "‘imposed’ 意为‘强制实行，推行（禁令、法律等）’。常与 ‘a ban on...’ 连用，后文的 “forced to accept” 也进一步证实了该法案的强制性。",
+          "concept": "动词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lifted",
+              "zh": "解除（禁令、限制等）（动词，指官方正式宣布撤销、取消某项之前正在实施的法律、规定、封锁、禁令或限制，使其不再具有约束力）",
+              "eg": "The government finally lifted the travel restrictions after the outbreak ended."
+            },
+            {
+              "opt": "2",
+              "word": "debated",
+              "zh": "辩论，讨论（动词，指在公共会议、议会或正式场合上，持不同意见的人针对某个议题或政策发表各自的观点并进行激烈争论）",
+              "eg": "Parliament debated the new education policy for several hours."
+            },
+            {
+              "opt": "3",
+              "word": "imposed",
+              "zh": "强制实行，推推行（动词，指拥有权力或官方身份的机构强制性地把某种税收、法律、惩罚、规则或禁令加诸于某人或社会，要求必须接受）",
+              "eg": "The city imposed a curfew to ensure public safety during the storm."
+            },
+            {
+              "opt": "4",
+              "word": "proposed",
+              "zh": "提议，建议（动词，指向他人、会议或公众正式提出一项计划、想法、政策或解决办法，供大家讨论、考虑、批准或决定是否采纳）",
+              "eg": "The committee proposed a new plan to reduce traffic congestion."
+            }
+          ]
+        },
+        "14": {
+          "zh": "帕特里克好奇地窥视着佩玲的包，因为他想弄清楚她是怎么在里面装下那么多东西的。",
+          "note": "‘inquisitively’ 意为‘好奇地，爱打听地’。后半句 “wanted to find out...”（想要弄清楚……）点明了帕特里克强烈的好奇心理。",
+          "concept": "副词辨析与神态关联 — Vocabulary — Adverbs",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "indifferently",
+              "zh": "冷淡地，不在乎地（副词，指表现出毫无兴趣、完全不关心、缺乏热情或无动于衷的样子，对周围的人或事没有任何明显的偏好或情感波动）",
+              "eg": "He shrugged indifferently when asked which restaurant he preferred."
+            },
+            {
+              "opt": "2",
+              "word": "inquisitively",
+              "zh": "好奇地，打听地（副词，指表现出极想知道、多事探问或带有强烈研究、审视的态度，渴望弄清别人的秘密或事情的真相）",
+              "eg": "The child looked inquisitively at the strange mechanical toy."
+            },
+            {
+              "opt": "3",
+              "word": "disinterestedly",
+              "zh": "公正地，无私地；冷淡地（副词，指因为自身不涉及任何私利、不带偏见地从完全客观中立的立场出发来做事，或纯粹表示毫无个人兴趣和热忱）",
+              "eg": "The judge listened disinterestedly to both sides before making a fair decision."
+            },
+            {
+              "opt": "4",
+              "word": "disapprovingly",
+              "zh": "不赞成地，责备地（副词，指通过眼神、表情、言语或举动展现出对某人的行为、言论感到不满意、不赞同或认为其不对的否定态度）",
+              "eg": "The teacher looked disapprovingly at the students who were whispering during the exam."
+            }
+          ]
+        },
+        "15": {
+          "zh": "他在反对该计划的立场上非常坚定，没有人能改变他的决定。",
+          "note": "‘resolute’ 意为‘坚决的，坚定的’。后半句 “nobody was able to change his decision” 完美对应了态度的绝不动摇。",
+          "concept": "形容词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "resolute",
+              "zh": "坚决的，坚定的（形容词，指人的意志、信念或态度极其坚定不移，在面对困难、批评或诱惑时也绝不产生动摇、退缩或犹豫）",
+              "eg": "She remained resolute in her belief despite facing harsh criticism."
+            },
+            {
+              "opt": "2",
+              "word": "hesitant",
+              "zh": "犹豫的，踌躇的（形容词，指因为内心的不确定、担心出错、害怕结果、缺乏自信或拿不定主意，而表现出做动作时吞吞吐吐、迟疑不决的样子）",
+              "eg": "He was hesitant to pack his bags until the flight was officially confirmed."
+            },
+            {
+              "opt": "3",
+              "word": "wavering",
+              "zh": "动摇的，犹豫不决的（形容词，指在不同的选择、决定、观点或忠诚度之间摇摆不定，随着外界的影响而随时可能改变原有的立场）",
+              "eg": "His wavering support made the team feel uncertain about the project's future."
+            },
+            {
+              "opt": "4",
+              "word": "supportive",
+              "zh": "支持的，赞助的（形容词，指积极地向某人提供鼓励、情感上的安慰、物质或行动上的帮助，赞同并推动某事或某个计划的顺利进行）",
+              "eg": "My parents have always been very supportive of my career choices."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "outlook",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "tone",
+            "2": "foresight",
+            "3": "expectation",
+            "4": "perspective"
+          }
+        },
+        "17": {
+          "stem_plain": "accelerate",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "simplify",
+            "2": "escalate",
+            "3": "facilitate",
+            "4": "complicate"
+          }
+        },
+        "18": {
+          "stem_plain": "pronounced",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "serious",
+            "2": "alarming",
+            "3": "negative",
+            "4": "noticeable"
+          }
+        },
+        "19": {
+          "stem_plain": "sheer",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "pure",
+            "2": "strong",
+            "3": "general",
+            "4": "unyielding"
+          }
+        },
+        "20": {
+          "stem_plain": "diminish",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "affect",
+            "2": "shrink",
+            "3": "impact",
+            "4": "extend"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “outlook”指对生活的见解或态度，与“perspective（视角，观点）”意思最接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tone",
+              "zh": "语气，色调",
+              "eg": "He spoke in a firm tone to show his confidence."
+            },
+            {
+              "opt": "2",
+              "word": "foresight",
+              "zh": "深谋远虑，先见之明",
+              "eg": "She had the foresight to save money for future emergencies."
+            },
+            {
+              "opt": "3",
+              "word": "expectation",
+              "zh": "期待，预料",
+              "eg": "The event lived up to everyone's high expectation."
+            },
+            {
+              "opt": "4",
+              "word": "perspective",
+              "zh": "视角，观点，态度",
+              "eg": "Traveling gives you a broader perspective on different cultures."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “accelerate”指加快、促进进程，语境中表示负面情绪会加速衰老过程，这与“escalate（使恶化、加剧、升级）”的语义最匹配。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "simplify",
+              "zh": "使简化",
+              "eg": "The teacher tried to simplify the complex instructions for us."
+            },
+            {
+              "opt": "2",
+              "word": "escalate",
+              "zh": "加剧，恶化，升级",
+              "eg": "Spreading rumors will only escalate the conflict between them."
+            },
+            {
+              "opt": "3",
+              "word": "facilitate",
+              "zh": "促进，使便利（通常指让事情变容易）",
+              "eg": "Modern technology can facilitate faster communication globally."
+            },
+            {
+              "opt": "4",
+              "word": "complicate",
+              "zh": "使复杂化",
+              "eg": "Adding too many rules will only complicate the game further."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “pronounced”意为显着的、明显的，与“noticeable”同义。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "serious",
+              "zh": "严肃的，严重的",
+              "eg": "Pollution has become a serious problem in large cities."
+            },
+            {
+              "opt": "2",
+              "word": "alarming",
+              "zh": "令人担忧的，惊人的",
+              "eg": "There is an alarming increase in global temperatures."
+            },
+            {
+              "opt": "3",
+              "word": "negative",
+              "zh": "消极的，负面的",
+              "eg": "Negative thoughts can affect your daily work performance."
+            },
+            {
+              "opt": "4",
+              "word": "noticeable",
+              "zh": "显着的，明显的",
+              "eg": "There is a noticeable improvement in his speaking skills."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “sheer will”指纯粹的、完全由意志本身带来的力量，对应“pure（纯粹的，完全的）”。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pure",
+              "zh": "纯粹的，完全的",
+              "eg": "The victory was achieved through pure determination."
+            },
+            {
+              "opt": "2",
+              "word": "strong",
+              "zh": "强壮的，强烈的",
+              "eg": "He expressed a strong desire to finish the assignment."
+            },
+            {
+              "opt": "3",
+              "word": "general",
+              "zh": "一般的，普遍的",
+              "eg": "The manager gave a general outline of the project plans."
+            },
+            {
+              "opt": "4",
+              "word": "unyielding",
+              "zh": "坚强不屈的，坚硬的",
+              "eg": "She faced all the hardships with an unyielding spirit."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “diminish”指缩减、降低、减少（预期寿命等），这里与“shrink（缩水，减少）”最接近。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "affect",
+              "zh": "影响",
+              "eg": "Lack of sleep will badly affect your health."
+            },
+            {
+              "opt": "2",
+              "word": "shrink",
+              "zh": "缩减，减少，变小",
+              "eg": "Inflation can cause your savings to shrink over time."
+            },
+            {
+              "opt": "3",
+              "word": "impact",
+              "zh": "巨大影响，撞击",
+              "eg": "The internet has a huge impact on our daily lives."
+            },
+            {
+              "opt": "4",
+              "word": "extend",
+              "zh": "延长，扩展",
+              "eg": "The school decided to extend the deadline for the application."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Scientists have come up with proof of the power of positive thinking. They have found that people who have an optimistic [Q16(outlook)] on growing older live longer than those who are constantly worrying. The research suggests that people who feel bad about getting old [Q17(accelerate)] the ageing process. In contrast, a positive attitude will add more years to your life than not smoking or taking regular exercise.",
+          "The researchers, led by Dr Becca Levy, from Yale University, said the effect of a positive attitude towards ageing was greater than physiological measures such as low blood pressure and cholesterol. The effect was even more [Q18(pronounced)] than factors such as as keeping weight down and not smoking. Dr Levy's team believe the [Q19(sheer)] will to live partly explains the link between positive thinking and longevity. In general, negative self-perceptions can [Q20(diminish)] life expectancy. Optimism is thus the key to longevity."
+        ],
+        "zh": [
+          "科学家们已经找到了证明积极思考力量的证据。他们发现，对变老持乐观态度的人比那些经常担心的人活得更长。研究表明，对变老感到沮丧的人会加速衰老过程。相比之下，保持积极的态度比不吸烟或定期锻炼能给你的寿命增加更多年岁。",
+          "由耶鲁大学的贝卡·利维博士领导的研究小组表示，对变老保持积极态度的效果要大于低血压和胆固醇等生理指标。这种效果甚至比控制体重和不吸烟等因素更为显着。利维博士的团队认为，纯粹的求生欲望在一定程度上解释了积极思考与长寿之间的联系。总的来说，消极的自我认知会缩短预期寿命。因此，乐观是长寿的关键。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "介词用法（表示具体时间段或过程）",
+          "note": "‘during the game’ 是固定搭配，表示‘在比赛期间’、‘在比赛过程中’。",
+          "answer": "G"
+        },
+        "30": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘by no means’ 是固定介词短语，意为‘绝不’、‘一点也不’。",
+          "answer": "F"
+        },
+        "31": {
+          "concept": "动词时态与主谓一致（一般过去时复数）",
+          "note": "‘football boots were not in use’，句子有明确的过去时间状语 Before the year 1891（在1891年之前），主语为复数名词 boots，故系动词选 were。",
+          "answer": "Q"
+        },
+        "32": {
+          "concept": "代词（指示代词指代前文事物）",
+          "note": "‘this led to injuries...’，指示代词 this 在此指代前一句话提及的“钢制鞋头加固”这一情况，作主语意为‘这导致了受伤’。",
+          "answer": "P"
+        },
+        "33": {
+          "concept": "代词（结合上下文排序指代或不定代词）",
+          "note": "‘kicked another’，不定代词 another 在此作宾语，意为‘当一名球员不小心踢到另一个（球员）时’。",
+          "answer": "B"
+        },
+        "34": {
+          "concept": "并列连词/副词（并列转折关系）",
+          "note": "‘made of thick leather but were still quite heavy’ 引导转折句，意为‘由厚皮革制成，但仍然相当沉重’。",
+          "answer": "C"
+        },
+        "35": {
+          "concept": "限定词/数量词（修饰不可数名词）",
+          "note": "‘saw little change’，由于后文提到战争导致没有材料，因此1900年代初期足球鞋‘几乎没有发生改变’，little 修饰不可数名词 change 表示否定含义。",
+          "answer": "K"
+        },
+        "36": {
+          "concept": "代词（形容词性物主代词）",
+          "note": "‘their aftermaths’，物主代词 their 指代前文复数名词 The World Wars（世界大战），意为‘它们的余波/后果’。",
+          "answer": "N"
+        },
+        "37": {
+          "concept": "连词用法（插入语转折关系）",
+          "note": "‘however, Valsport and Gola were...’ 位于新分句首并用逗号隔开，作副词表示与前文“市场需求不存在”的对比转折，意为‘然而，这两个品牌在当时依然很流行’。",
+          "answer": "J"
+        },
+        "38": {
+          "concept": "介词/副词搭配（表示附加或伴随）",
+          "note": "‘besides being lighter’，介词 besides 在此表示‘除了……之外（还）’，后接动名词短语，意为‘除了更轻之外，新鞋子的帮也更低……’。",
+          "answer": "E"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "B": "another",
+          "C": "are",
+          "D": "beside",
+          "E": "besides",
+          "F": "by",
+          "G": "during",
+          "H": "few",
+          "J": "however",
+          "K": "little",
+          "L": "moreover",
+          "M": "on",
+          "N": "their",
+          "P": "this",
+          "Q": "were"
+        },
+        "cloze": [
+          "Football shoes, also called cleats or soccer boots, are special footwear that are worn while playing football. They are specifically designed for the pitch and cleats on the sole of the shoe aid the grip of the footballer [Q29] the game. Football boots are [Q30] no means a new concept but they have evolved throughout time, thanks to technology and better research.",
+          "Before the year 1891, football boots [Q31] not in use. Instead, the players wore work boots. These were obviously quite heavy on the foot. They were not designed for people to run in or kick a ball with. Furthermore, they usually had a reinforced toe. Sometimes made of steel, [Q32] led to injuries whenever one player accidentally kicked [Q33]. A revision around 1891 allowed football shoes to utilise small bars or studs on the shoes. Soon after that, work boots were replaced with actual football boots designed with leather in order to better perform in the sport. They were made of thick leather [Q34] were still quite heavy. They also laced up the ankle for better protection.",
+          "The early decades of the 1900s saw [Q35] change for football shoes. The World Wars and [Q36] aftermaths left little materials for new creations. Also, with so many men involved in the war efforts, the demand for updated boots was not there. During this time, [Q37], Valsport and Gola were the popular brands marketed to footballers.",
+          "After World War II, football boots began to change noticeably. [Q38] being lighter, the new boots also came up a little lower on the leg to improve flexibility. These lower boots were especially popular in places like Southern Europe and South America where conditions were less muddy than England."
+        ],
+        "zh": [
+          "足球鞋（也被称为 cleats 或 soccer boots）是在踢足球时穿着的特殊鞋类。它们是专门为球场设计的，鞋底的鞋钉有助于足球运动员在比赛期间增强抓地力。足球鞋绝非一个新概念，但得益于技术和更好的研究，它们随着时间的推移不断演变。",
+          "在1891年之前，专业的足球鞋还没有投入使用。相反，球员们当时穿着工作靴。这些鞋子穿在脚上显然相当笨重。它们并不是为了让人们在里面奔跑或踢球而设计的。此外，它们通常有一个加固的鞋头。有时鞋头是用钢制的，每当一名球员不小心踢到另一个球员时，这就会导致受伤。大约在1891年的一次修订允许足球鞋在鞋底使用小横条或鞋钉。此后不久，工作靴被真正由皮革设计的足球鞋所取代，以便在运动中表现得更好。它们由厚皮革制成，但仍然相当沉重。它们还在脚踝处系带以提供更好的保护。",
+          "1900年代的最初几十年，足球鞋几乎没有发生什么改变。世界大战及其余波几乎没有为新发明留下任何材料。此外，由于有那么多人投身于战争，对升级版球鞋的需求并不存在。然而，在这一时期，Valsport 和 Gola 是向足球运动员推销的流行品牌。",
+          "第二次世界大战后，足球鞋开始发生显着变化。除了更轻之外，新靴子的鞋帮也更低一些，以提高灵活性。这些低帮靴在南欧和南美等地方特别受欢迎，因为那里的环境不像英国那样泥泞。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 maneuvers / manoeuvres（动词单三形式，意为操纵、驾驶）。",
+          "answer": "maneuvers"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 destination（名词，意为目的地）。",
+          "answer": "destination"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 straight（副词，意为直接地、笔直地）。",
+          "answer": "straight"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 numerous（形容词，意为许多的、无数的）。",
+          "answer": "numerous"
+        },
+        "43": {
+          "concept": "过去分词 - Past Participles",
+          "note": "非谓语动词/主动伴随含义：此处用现在分词短语作伴随状语，表示“一路向山脉前行”，应将 headed 改为现在分词形式 heading。",
+          "answer": "heading"
+        },
+        "44": {
+          "concept": "连词 - Conjunctions",
+          "note": "连词逻辑错误：根据上下文让步或转折关系的逻辑，前面提到不为人知，后面说它是第九大国，通常改用 but 或 yet 表达“虽然不为人知，但它是……”。",
+          "answer": "but"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 towering（形容词，意为巍峨的、高耸的）。",
+          "answer": "towering"
+        },
+        "46": {
+          "concept": "限定词 - Quantifiers",
+          "note": "修饰错误：tourists 是可数名词复数，不能用 little 修饰，应改为 few 表示“很少有游客”。",
+          "answer": "few"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 disadvantage（名词，意为劣势、不利条件）。",
+          "answer": "disadvantage"
+        },
+        "48": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处宾语从句描述西方人当时普遍存在的一种主观错误认知，且主句是过去时 thought，因此从句中的 are 应改为过去时形式 were 保持时态一致。",
+          "answer": "were"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It is around 40 degrees Celsius and the heat is oppressive. Wind is blowing down from the mountains and over the plains, like a hairdryer on its high setting. It is a wonder the jeep is not overheating. Our driver, Oleg, deftly [Q39(manuevers)] the car between the sand dunes. At times, we are hitting speeds of 100 kilometres per hour. The desert is without end. Our [Q40(distenasion)] - the Alatau massif - lies far ahead of us, lost on the horizon.",
+          "It would have been easier to head [Q41(strieght)] for them but to do that, we would have had to cross [Q42(numeres)] dried up river beds and the banks are often too steep for the jeep. We zigzag through the desert, once part of the Silk Road, [Q43(headed)] for the mountains, which range in colour from red to yellow ochre.",
+          "Today, not much is known about Kazakhstan, [Q44(so it is)] the ninth-biggest country in the world. It stretches 1600 kilometres from north to south and 3000 kilometres from the Caspian Sea in the west to the [Q45(tawering)] Altai massif in the east. Despite its size, [Q46(little)] tourists visit.",
+          "\"We have a [Q47(disedventage)] in that our name ends in 'stan,'\" said our guide, Yrmek. \"Everyone in the west thought we [Q48(are)] like Afghanistan and at war. Actually, it is quite safe to travel around.\""
+        ],
+        "zh": [
+          "气温大约在40摄氏度左右，酷热难耐。风从山上吹下来，掠过平原，就像吹风机开到了最高档。吉普车居然没有过热，简直是个奇迹。我们的司机奥列格（Oleg）熟练地在沙丘之间驾驶着车辆。有时，我们的时速能达到100公里。沙漠漫无边际。我们的目的地——阿拉套山脉——就在我们前方遥远的地方，在地平线上若隐若现。",
+          "直接朝着它们前进本可以更轻松，但要做到这一点，我们必须穿过许多干涸的河床，而且河岸对吉普车来说往往过于陡峭。我们蜿蜒穿过曾经是丝绸之路一部分的沙漠，一路向山脉前行，这些山脉的颜色从红色到黄褐色不等。",
+          "如今，人们对哈萨克斯坦知之甚少，但它却是世界第九大国。它南北长1600公里，东西长3000公里，西起里海，东至巍峨的阿尔泰山脉。尽管它面积辽阔，但很少有游客来访。",
+          "“我们的名字以‘斯坦’结尾，这让我们处于劣势，”我们的导游叶尔梅克（Yrmek）说。“西方的每个人都以为我们像阿富汗一样，而且在打仗。实际上，在这里到处旅行是相当安全的。”"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "上下文语境名词",
+          "answer": "movement / campaign / trend / revolution",
+          "note": "结合后文‘called the \"No Poo\" Movement’，此空使用名词表示正在进行中的‘运动/潮流’。"
+        },
+        "52": {
+          "concept": "动词 (过去分词被动语态)",
+          "answer": "invented / introduced / developed / created",
+          "note": "前句指出香波是一个现代‘发明（invention）’，此处结合被动语态‘was + 过去分词’，表示香波是在19世纪末被‘发明’的。"
+        },
+        "53": {
+          "concept": "动词原形 / 固定搭配",
+          "answer": "need / require / advocate",
+          "note": "位于‘few of us’之后作谓语，结合皮肤科医生的观点，填入动词原形，意为我们中很少有人‘需要’每天洗头。"
+        },
+        "54": {
+          "concept": "动词 (一般现在时单数)",
+          "answer": "varies / differs / changes",
+          "note": "主语为不可数名词‘the necessity（必要性）’，后接‘from person to person（因人而异）’，故填入第三人称单数动词表示‘不同、变化’。"
+        },
+        "55": {
+          "concept": "上下文语境名词",
+          "answer": "practice / custom / tradition / habit",
+          "note": "指代前文‘印度的头部按摩’这一传统的‘做法/习俗（practice）’追溯到更早的几个世纪。"
+        },
+        "56": {
+          "concept": "系动词 (一般现在时单数)",
+          "answer": "is",
+          "note": "本句的主语是‘Shampooing in the modern sense（现代意义上的洗头）’（由 though 隔开），核心概念为单数，因此一般现在时的系动词用‘is’。"
+        },
+        "57": {
+          "concept": "固定搭配 / 现在分词",
+          "answer": "adding / applying / rubbing / putting",
+          "note": "结合后文‘...to the hair to absorb excess oil’，此处填入现在分词作主语或伴随，表示把粉末状干燥物质‘添加/涂抹（adding）’到头发上。"
+        },
+        "58": {
+          "concept": "形容词",
+          "answer": "dirty / greasy / oily",
+          "note": "结合后文分泌皮脂以及收集污垢的描述，此处表示头发确实会变‘脏（dirty）’。"
+        },
+        "59": {
+          "concept": "代词",
+          "answer": "it",
+          "note": "用来指代前面的单数名词词组‘the protein structure of the hair（头发的蛋白质结构）’，使其免于分叉。"
+        },
+        "60": {
+          "concept": "固定搭配 / 介词",
+          "answer": "of",
+          "note": "与前文搭配组成‘With the dawn of...’，为固定书面表达，意为‘随着……的黎明/到来’。"
+        },
+        "61": {
+          "concept": "动词",
+          "answer": "raise / raised / have / share / voice",
+          "note": "主语为复数‘Members’，此处填入动词与‘concerns’搭配表示‘提出（raise/raised）合理的担忧’。"
+        },
+        "62": {
+          "concept": "动词 (一般现在时复数)",
+          "answer": "contain / include / harbor",
+          "note": "主语为‘Some shampoos’，后接宾语‘potentially harmful chemicals（潜在有害化学物质）’，故使用复数动词表示‘含有（contain）’。"
+        },
+        "63": {
+          "concept": "固定搭配 / 介词",
+          "answer": "through / via / into / by",
+          "note": "与前文的被动语态‘be absorbed’及后文的‘the skin’连用，表示‘通过（through）’皮肤被吸收。"
+        },
+        "64": {
+          "concept": "逻辑连接词 (让步连词)",
+          "answer": "Although / While / Though",
+          "note": "位于句首大写引导让步状语从句，与后文的‘动物实验表明……’形成对比，意为‘尽管（Although）’人类研究的结果还不确定……"
+        },
+        "65": {
+          "concept": "数量限定词 / 副词",
+          "answer": "many / numerous / several",
+          "note": "修饰复数可数名词短语‘all-natural shampoos’，表示现今有‘如此多（many）’纯天然香波，以至于没有理由完全不用香波。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Shampooing can be complicated. First, there are the confusing instructions - lather, rinse, repeat. It does not say anything about stopping. Now, there is a [Q51] in progress, called the \"No Poo\" Movement, advocating no shampoo whatsoever.",
+          "Shampoo is indeed a modern invention. It was [Q52] around the end of the 19th century. According to dermatologists, few of us [Q53] shampooing every day. That said, the necessity for shampoo [Q54] from person to person, depending on your hair type and what you put in your hair each day.",
+          "The English word \"shampoo\" originated in India about 300 years ago and at first, comprised a head massage with some fragrant oil. The [Q55] likely dates back centuries before that. Shampooing in the modern sense, though, with water to produce a soapy lather, [Q56] only about 100 years old. Prior to this, shampooing involved [Q57] a dry substance, such as a vegetable starch or wood ash, to the hair to absorb excess oil.",
+          "The hair does get [Q58]. We secrete an oil called sebum to protect the protein structure of the hair so that [Q59] does not splinter. However, that same oil tends to collect dirt and scalp flakes. With the dawn [Q60] modern chemistry, scientists develop surfactants to remove dirt efficiently while leaving a soft feel.",
+          "Members of the \"No Poo\" Movement [Q61] a few valid concerns. Some shampoos [Q62] potentially harmful chemicals that can be absorbed [Q63] the skin. [Q64] the results of human studies are not conclusive, animal studies suggest that if enough of these potentially harmful chemicals are absorbed, they ultimately might destroy your skin or other organs.",
+          "Fortunately, these days, there are so [Q65] all-natural shampoos that there is no reason to go without shampoo. If you find them expensive, you can take the standard dermatologist's advice to wash just a few times a week."
+        ],
+        "zh": [
+          "洗头发可能会很复杂。首先，有一些令人困惑的指示——起泡、冲洗、重复。它没有说明什么时候该停下来。现在，一项正在进行中的运动，被称为“不洗头（No Poo）”运动，倡导完全不用香波。",
+          "香波确实是一项现代发明。它是在19世纪末左右被发明出来的。根据皮肤科医生的说法，我们中很少有人需要每天洗头。话虽如此，洗头的必要性因人而异，这取决于你的发质以及你每天在头发上涂抹了什么。",
+          "英文单词“shampoo”大约300年前起源于印度，起初包含伴有芳香精油的头部按摩。这种做法很可能可以追溯到那之前的几个世纪。不过，现代意义上的洗头——即用水产生肥皂泡沫——只有大约100年的历史。在此之前，洗头涉及将一种干燥的物质（如植物淀粉或木灰）涂抹到头发上，以吸收多余的油脂。",
+          "头发确实会变脏。我们分泌一种叫做皮脂的油脂来保护头发的蛋白质结构，使其不会分叉。然而，同样的油脂也往往会聚集污垢和头皮屑。随着现代化学的到来，科学家们开发出了表面活性剂，可以在保持柔软手感的同时高效清除污垢。",
+          "“不洗头”运动的成员提出了一些合理的担忧。一些香波含有潜在有害的化学物质，可以通过皮肤被吸收。尽管人类研究的结果还不确定，但动物实验表明，如果吸收了足够多这些潜在有害的化学物质，它们最终可能会破坏你的皮肤或其他器官。",
+          "幸运的是，如今有如此多的全天然香波，以至于没有理由完全不用香波。如果你觉得它们很贵，你可以接受皮肤科医生的标准建议，一周只洗几次。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

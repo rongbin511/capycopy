@@ -1,0 +1,1601 @@
+{
+  "paperid": "p6_english_2023_sa2_acsp",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Both my brother and __________ love Japanese food.",
+          "options": {
+            "1": "I",
+            "2": "us",
+            "3": "me",
+            "4": "we"
+          }
+        },
+        "2": {
+          "stem_plain": "Tim rarely loses his things, __________?",
+          "options": {
+            "1": "did he",
+            "2": "didn't he",
+            "3": "does he",
+            "4": "doesn't he"
+          }
+        },
+        "3": {
+          "stem_plain": "The poor lady gave the __________ that she had left to a beggar.",
+          "options": {
+            "1": "all",
+            "2": "little",
+            "3": "much",
+            "4": "some"
+          }
+        },
+        "4": {
+          "stem_plain": "The man with __________ you were speaking earlier is my neighbour.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "5": {
+          "stem_plain": "The necklace was on the table a while ago. Someone __________ have taken it.",
+          "options": {
+            "1": "will",
+            "2": "shall",
+            "3": "could",
+            "4": "should"
+          }
+        },
+        "6": {
+          "stem_plain": "Sharon, as well as her cousins, __________ in the same primary school.",
+          "options": {
+            "1": "study",
+            "2": "studies",
+            "3": "are studying",
+            "4": "have been studying"
+          }
+        },
+        "7": {
+          "stem_plain": "Everyone in the class __________ present at the workshop last week.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "To succeed, we must not give up __________ challenging the project is.",
+          "options": {
+            "1": "while",
+            "2": "despite",
+            "3": "although",
+            "4": "however"
+          }
+        },
+        "9": {
+          "stem_plain": "I sensed a chill __________ down my spine as I imagined the scene in the horror book.",
+          "options": {
+            "1": "running",
+            "2": "has run",
+            "3": "runs",
+            "4": "ran"
+          }
+        },
+        "10": {
+          "stem_plain": "The boy was praised by his teacher __________ his moral courage in stopping the bullying.",
+          "options": {
+            "1": "at",
+            "2": "in",
+            "3": "on",
+            "4": "for"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主语 — I（主格）",
+          "zh": "我哥哥和我都喜欢日本料理。",
+          "note": "并列主语用主格 I；应选（1）。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "附加问句 — doesn't he",
+          "zh": "蒂姆很少丢东西，不是吗？",
+          "note": "陈述含 rarely，附加问用 does he；应选（3）。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "量词 — all（全部）",
+          "zh": "可怜女士把所剩的全部给了乞丐。",
+          "note": "all 表“全部”；应选（1）。",
+          "answer": "1"
+        },
+        "4": {
+          "concept": "关系代词 — whom（宾格）",
+          "zh": "你刚才与之说话的那位男士是我邻居。",
+          "note": "介词 with 后指人用 whom；应选（3）。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "情态动词 — could（可能）",
+          "zh": "项链刚才还在桌上，可能被人拿走了。",
+          "note": "过去可能性用 could have；应选（3）。",
+          "answer": "3"
+        },
+        "6": {
+          "concept": "主谓一致 — studies",
+          "zh": "莎伦和她的堂兄妹在同一所小学读书。",
+          "note": "as well as 不影响主语单数；应选（2）。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "主谓一致 — was",
+          "zh": "班上人人上周都出席了工作坊。",
+          "note": "everyone 谓语单数，过去用 was；应选（3）。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "让步 — although",
+          "zh": "要成功，尽管项目艰难也不能放弃。",
+          "note": "固定句型结构是：however + 形容词/副词 + 主语 + 动词。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "分词 — running",
+          "zh": "想象恐怖书场景时我脊背发凉。",
+          "note": "running 表伴随动作；应选（1）。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "介词 — for（原因）",
+          "zh": "男孩因制止霸凌的道德勇气受到老师表扬。",
+          "note": "for 表原因；应选（4）。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Realising that his car was stolen, Mr Tan decided to __________ a police report.",
+          "options": {
+            "1": "file",
+            "2": "record",
+            "3": "deliver",
+            "4": "publish"
+          }
+        },
+        "12": {
+          "stem_plain": "To save up for the trip, John has decided to __________ on his spending.",
+          "options": {
+            "1": "cut up",
+            "2": "cut off",
+            "3": "cut out",
+            "4": "cut back"
+          }
+        },
+        "13": {
+          "stem_plain": "Marc was so __________ in his work that he missed watching his favourite show.",
+          "options": {
+            "1": "instilled",
+            "2": "indulged",
+            "3": "immersed",
+            "4": "imprisoned"
+          }
+        },
+        "14": {
+          "stem_plain": "Jane's speech was so __________ that everyone donated generously to the charity event she promoted.",
+          "options": {
+            "1": "confiding",
+            "2": "convincing",
+            "3": "commanding",
+            "4": "compromising"
+          }
+        },
+        "15": {
+          "stem_plain": "\"You'd better __________ if you want to make it to the finals!\" the coach warned the team.",
+          "options": {
+            "1": "break a leg",
+            "2": "take a rain check",
+            "3": "step up your game",
+            "4": "run around in circles"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "陈先生发现车被偷后，决定去警局正式报案。",
+          "note": "应选（1）'file'：固定搭配 <em>file a police report</em> 意为向警方正式备案。'record'义为'记录'，可说 record a statement，但不与 police report 构成标准搭配。'deliver'义为'递送'，用于物品，不能替换 file。'publish'义为'出版；发表'，用于书刊或消息，与报案无关。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — file（提交；备案）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "file",
+              "zh": "提交（正式备案）",
+              "eg": "Realising that his car was stolen, Mr Tan decided to <strong>file</strong> a police report at the neighbourhood station."
+            },
+            {
+              "opt": "2",
+              "word": "record",
+              "zh": "记录",
+              "eg": "The witness <strong>recorded</strong> her statement on video so the police could review what she saw."
+            },
+            {
+              "opt": "3",
+              "word": "deliver",
+              "zh": "递送",
+              "eg": "The courier promised to <strong>deliver</strong> the parcel to our flat before six o'clock."
+            },
+            {
+              "opt": "4",
+              "word": "publish",
+              "zh": "出版；发表",
+              "eg": "The school will <strong>publish</strong> the examination timetable on its website next Monday."
+            }
+          ]
+        },
+        "12": {
+          "zh": "约翰为旅行攒钱，决定削减自己的开支。",
+          "note": "应选（4）'cut back'：<em>cut back on spending</em> 意为减少花费。'cut up'义为'切碎'，用于切食物等。'cut off'义为'切断；断绝'，如切断电源。'cut out'义为'剪下；戒掉'，与削减开支无关。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — cut back（削减）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cut up",
+              "zh": "切碎",
+              "eg": "Please <strong>cut up</strong> the carrots into small cubes before you add them to the soup."
+            },
+            {
+              "opt": "2",
+              "word": "cut off",
+              "zh": "切断；断绝",
+              "eg": "The storm <strong>cut off</strong> electricity to hundreds of homes along the coast."
+            },
+            {
+              "opt": "3",
+              "word": "cut out",
+              "zh": "剪下；戒掉",
+              "eg": "She <strong>cut out</strong> a star shape from gold paper for the class decoration."
+            },
+            {
+              "opt": "4",
+              "word": "cut back",
+              "zh": "削减",
+              "eg": "To save up for the trip, John has decided to <strong>cut back</strong> on eating out every weekend."
+            }
+          ]
+        },
+        "13": {
+          "zh": "马克太专心工作，错过了最爱的节目。",
+          "note": "应选（3）'immersed'：<em>immersed in</em> 表全神贯注。'instilled'义为'灌输'，须接 values 等宾语，不能接 in his work。'indulged'常与 in 连用表沉溺享乐，不符'专心工作'语境。'imprisoned'义为'囚禁'，与题干无关。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — immersed（沉浸；专心于）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "instilled",
+              "zh": "灌输",
+              "eg": "The coach <strong>instilled</strong> a strong sense of teamwork in every player during camp."
+            },
+            {
+              "opt": "2",
+              "word": "indulged",
+              "zh": "沉溺；放纵",
+              "eg": "After exams, Marc <strong>indulged</strong> in ice cream every evening without guilt."
+            },
+            {
+              "opt": "3",
+              "word": "immersed",
+              "zh": "沉浸；专心于",
+              "eg": "Marc was so <strong>immersed</strong> in his work that he missed watching his favourite show."
+            },
+            {
+              "opt": "4",
+              "word": "imprisoned",
+              "zh": "囚禁",
+              "eg": "The suspect was <strong>imprisoned</strong> for five years after the court's verdict."
+            }
+          ]
+        },
+        "14": {
+          "zh": "简的演讲很有说服力，大家都为慈善活动慷慨捐款。",
+          "note": "应选（2）'convincing'：令人信服、促使听众捐款。'confiding'义为'倾诉的'，形容私下交心语气，不能形容动员捐款的演讲。'commanding'义为'威严的'，强调权威而非说服力。'compromising'义为'妥协的'，用于协议，不能修饰 speech。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — convincing（有说服力的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "confiding",
+              "zh": "倾诉的；推心置腹的",
+              "eg": "She spoke in a <strong>confiding</strong> tone, as if she were sharing a secret with a close friend."
+            },
+            {
+              "opt": "2",
+              "word": "convincing",
+              "zh": "有说服力的",
+              "eg": "Jane's speech was so <strong>convincing</strong> that everyone donated generously to the charity event she promoted."
+            },
+            {
+              "opt": "3",
+              "word": "commanding",
+              "zh": "威严的；指挥性的",
+              "eg": "The sergeant used a <strong>commanding</strong> voice to order the recruits to line up."
+            },
+            {
+              "opt": "4",
+              "word": "compromising",
+              "zh": "妥协的",
+              "eg": "After long talks, the two sides signed a <strong>compromising</strong> deal on the disputed land."
+            }
+          ]
+        },
+        "15": {
+          "zh": "教练提醒队员：“想进决赛就祝你们好运！”",
+          "note": "应选（1）'break a leg'：习语，祝好运（尤指上台或参赛前）。'take a rain check'义为'改期；改天'，用于婉拒邀请。'step up your game'义为'加把劲'，指提高水平，不是祝好运。'run around in circles'义为'瞎忙；毫无进展'，与教练祝愿无关。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — break a leg（祝好运）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "break a leg",
+              "zh": "祝好运（常用于演出或比赛前）",
+              "eg": "\"You'd better <strong>break a leg</strong> if you want to make it to the finals!\" the coach told the team."
+            },
+            {
+              "opt": "2",
+              "word": "take a rain check",
+              "zh": "改天吧；改期",
+              "eg": "I can't join dinner tonight — may I <strong>take a rain check</strong> and meet you next week instead?"
+            },
+            {
+              "opt": "3",
+              "word": "step up your game",
+              "zh": "加把劲；提升表现",
+              "eg": "If you want to win the championship, you must <strong>step up your game</strong> at every training session."
+            },
+            {
+              "opt": "4",
+              "word": "run around in circles",
+              "zh": "瞎忙；原地打转",
+              "eg": "We spent the whole afternoon <strong>running around in circles</strong> without finishing the science project."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "etiquette",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "values",
+            "2": "manners",
+            "3": "attributes",
+            "4": "upbringing"
+          }
+        },
+        "17": {
+          "stem_plain": "loud enough",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "visible",
+            "2": "legible",
+            "3": "audible",
+            "4": "credible"
+          }
+        },
+        "18": {
+          "stem_plain": "enclosed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "locked",
+            "2": "confined",
+            "3": "sheltered",
+            "4": "restricted"
+          }
+        },
+        "19": {
+          "stem_plain": "draw",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "calm",
+            "2": "clear",
+            "3": "confident",
+            "4": "conscious"
+          }
+        },
+        "20": {
+          "stem_plain": "inappropriately",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "informally",
+            "2": "unsuitably",
+            "3": "inadequately",
+            "4": "unintentionally"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — etiquette（礼仪）",
+          "note": "名词 etiquette 意为礼仪、礼节，在社会行为规范的考查语境中，通常与 manners（礼貌，举止，风度）互为核心近义词。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "values",
+              "zh": "价值观，价值",
+              "eg": "Our school places a strong emphasis on core family values and character development."
+            },
+            {
+              "opt": "2",
+              "word": "manners",
+              "zh": "礼貌，举止，风度",
+              "eg": "Parents always teach their children to have good manners when interacting with strangers."
+            },
+            {
+              "opt": "3",
+              "word": "attributes",
+              "zh": "特质，属性，特征",
+              "eg": "Patience and deep empathy are essential personal attributes for a professional nurse."
+            },
+            {
+              "opt": "4",
+              "word": "upbringing",
+              "zh": "教养，养育，抚育",
+              "eg": "His polite behavior in public spaces clearly reflects his strict and careful upbringing."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — loud enough（够响）",
+          "note": "短语 loud enough 意为声音足够响、能让人听见，直接对应高级形容词考点 audible（听得见的，清晰可闻的）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "visible",
+              "zh": "可见的，显而易见的",
+              "eg": "The distant mountain peak was clearly visible against the bright and clear morning sky."
+            },
+            {
+              "opt": "2",
+              "word": "legible",
+              "zh": "（字迹）可印刷的，清晰可读的",
+              "eg": "Please ensure your handwriting is neat and legible so the inspectors can read it easily."
+            },
+            {
+              "opt": "3",
+              "word": "audible",
+              "zh": "听得见的，清晰可闻的",
+              "eg": "The teacher spoke in a quiet voice, but every word remained perfectly audible to the pupils."
+            },
+            {
+              "opt": "4",
+              "word": "credible",
+              "zh": "可信的，可靠的",
+              "eg": "The witness provided a credible account that helped the police resolve the case quickly."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — enclosed（封闭）",
+          "note": "形容词 enclosed 意为封闭的、四周被围住的，在描写狭小、密闭空间的命题语境下，对应的核心近义词为 confined（封闭的，狭窄的）。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "locked",
+              "zh": "上锁的，锁好的",
+              "eg": "The supervisor double-checked to ensure that the main entrance door remained locked at night."
+            },
+            {
+              "opt": "2",
+              "word": "confined",
+              "zh": "封闭的，狭窄的，受限制的",
+              "eg": "It is impolite to play loud music when traveling inside tightly confined spaces like elevators."
+            },
+            {
+              "opt": "3",
+              "word": "sheltered",
+              "zh": "有遮蔽的，受保护的",
+              "eg": "The fishing boats stayed comfortably inside the sheltered harbor to avoid the raging storm."
+            },
+            {
+              "opt": "4",
+              "word": "restricted",
+              "zh": "受限的，保密的，禁止进入的",
+              "eg": "Drones are strictly forbidden from flying over this restricted military base area."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — draw attention（自知/引人注意）",
+          "note": "在此处的完形短文连贯语境下，原意指“时刻注意、意识到（他人的感受）”，短语 draw attention to oneself（吸引对自己的注意）反向延伸出的心理神态考点为 conscious（意识到的，自觉的，常与 of 连用）。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "calm",
+              "zh": "冷静的，平静的",
+              "eg": "The experienced captain remained calm and collected despite the sudden technical emergency."
+            },
+            {
+              "opt": "2",
+              "word": "clear",
+              "zh": "清楚的，显而易见的",
+              "eg": "The manager sent a clear message regarding the new operating procedures of the workshop."
+            },
+            {
+              "opt": "3",
+              "word": "confident",
+              "zh": "自信的，有把握的",
+              "eg": "She felt extremely confident that her team would secure the first prize in the project."
+            },
+            {
+              "opt": "4",
+              "word": "conscious",
+              "zh": "意识到的，自觉的，神志清醒的",
+              "eg": "When traveling abroad, we should always be conscious of local cultural traditions and rules."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — inappropriately（不当）",
+          "note": "副词 inappropriately 意为不合适地、不恰当地，在形容日常社交举止不合时宜的考点语境下，直接对应同义词 unsuitably（不适当地，不相称地）。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "informally",
+              "zh": "非正式地，随便地",
+              "eg": "The tech company layout allows employees to dress informally on Friday afternoons."
+            },
+            {
+              "opt": "2",
+              "word": "unsuitably",
+              "zh": "不适当地，不合时宜地，不当",
+              "eg": "The guests behaved unsuitably at the formal ceremony, which deeply annoyed the host."
+            },
+            {
+              "opt": "3",
+              "word": "inadequately",
+              "zh": "不足地，不充分地",
+              "eg": "The young athletes prepared inadequately for the marathon and struggled after thirty kilometers."
+            },
+            {
+              "opt": "4",
+              "word": "unintentionally",
+              "zh": "无意地，非故意地",
+              "eg": "He unintentionally offended his teammate by making a joke about his favorite sports team."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "We often feel annoyed by the inconsiderate behaviour of others in public places. Hence, we should practise good [Q16 (etiquette)]. For example, when speaking in public places, we should keep our voices low, but [Q17 (loud enough)] for our target audience only. This is especially important when we are in [Q18 (enclosed)] spaces like on board a bus, in a cinema, library or museum. We also need to be aware not to [Q19 (draw)] attention to ourselves by behaving [Q20 (inappropriately)]. We should not laugh loudly, play or run in busy places like shopping malls and supermarkets. Being considerate and respectful towards others will make shared spaces and experiences pleasant for everyone."
+        ],
+        "zh": [
+          "在公共场所我们常因他人不体贴而恼火，因此应讲究礼仪：说话低声但让听众听得见；在公交车、影院等封闭空间尤需注意；不要引人注意、举止不当；在商场等地不要大笑、玩耍或奔跑。体贴他人才能让共享空间愉快。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "What is the purpose of the question **'Do you know that there is a variety of farms found in Singapore?'**",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "list the number of local farms",
+            "2": "stress the importance of farming",
+            "3": "test the readers' knowledge about farming",
+            "4": "arouse the readers' curiosity about local farms"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the poster, to ensure that Singapore has enough food, we",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "purchase many overseas farms",
+            "2": "depend on both local and overseas farms",
+            "3": "increase the number of local farms by 30%",
+            "4": "insist that all local farms grow their food overseas"
+          }
+        },
+        "23": {
+          "stem_plain": "Which statement is true about local farms?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Only food grown in local farms is fresh.",
+            "2": "Visitors are not allowed to buy from local farms directly.",
+            "3": "All local farms organise treasure hunts and cooking classes for visitors.",
+            "4": "Visitors to local farms can look forward to participating in many activities."
+          }
+        },
+        "24": {
+          "stem_plain": "The main purpose of the poster is to",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "inform readers about the types of produce",
+            "2": "attract readers to organise activities in local farms",
+            "3": "persuade readers to buy more from overseas farms",
+            "4": "encourage readers to buy produce grown in local farms"
+          }
+        },
+        "25": {
+          "stem_plain": "The purpose of using the exclamation mark in the sentence **'Come and enjoy two weekends of fun-filled activities!'** is to",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "convince readers to visit local farms",
+            "2": "inform readers about the local farmers",
+            "3": "challenge readers to consider setting up local farms",
+            "4": "enthuse readers to attend the farmers' market event"
+          }
+        },
+        "26": {
+          "stem_plain": "Both Mrs Suni and her teenage daughter enjoy taking part in cooking competitions. They plan to attend the Granji Farmers' Market. Which is the most suitable date she should consider?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "2 September 2023",
+            "2": "3 September 2023",
+            "3": "7 October 2023",
+            "4": "8 October 2023"
+          }
+        },
+        "27": {
+          "stem_plain": "Lynette has registered for the baking workshop and wishes to find out if she will receive a free recipe book. She should send her query to",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Tim@KB.com.sg",
+            "2": "Dan@LFF.com.sg",
+            "3": "Gary@GFC.com.sg",
+            "4": "Kenny@PCZ.com.sg"
+          }
+        },
+        "28": {
+          "stem_plain": "Which statement is **not** true about the Granji Farmers' Market?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The Mini Zoo is organised for young children.",
+            "2": "At least two activities require payment of fees.",
+            "3": "Visitors can take part in the activities on selected weekends.",
+            "4": "Visitors who are interested in gardening may attend The Veggie Home talk."
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "修辞目的题",
+          "note": "<p>Opening question <span class=\"hl-good\">arouses curiosity</span> about local farms before facts.</p>",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "信息归纳题",
+          "note": "<p>Sidebar + text: Singapore uses <span class=\"hl-good\">local and overseas</span> food sources.</p>",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "细节判断题",
+          "note": "<p>Text lists tours, markets, animal activities → visitors can join <span class=\"hl-good\">many activities</span>.</p>",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "主旨题",
+          "note": "<p>Encourages readers to <span class=\"hl-good\">support/buy from local farms</span> and visit Kranji market.</p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "修辞目的题",
+          "note": "<p>Exclamation <span class=\"hl-good\">enthuses</span> readers about the farmers' market weekends.</p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "信息匹配题",
+          "note": "<p>Mother–daughter cooking competition → <span class=\"hl-good\">7 October 2023</span> (Granji Cooking Competition).</p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "信息定位题",
+          "note": "<p>Yummy Muffins workshop / recipe book → email <span class=\"hl-good\">Tim@KB.com.sg</span>.</p>",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "细节判断题（NOT true）",
+          "note": "<p>Muffins $20 + Cooking Competition fee → <span class=\"hl-good\">at least two</span> paid activities; Mini Zoo free.</p>",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "are",
+          "D": "despite",
+          "G": "of",
+          "K": "to",
+          "N": "while",
+          "B": "as",
+          "E": "however",
+          "H": "that",
+          "L": "were",
+          "P": "why",
+          "C": "by",
+          "F": "moreover",
+          "J": "them",
+          "M": "when",
+          "Q": "with"
+        },
+        "cloze": [
+          "Sneezing is a common experience we all share. On an average, each person sneezes about four times a day. Sneezing is our body's way [Q29] removing anything that may irritate our nose. We often sneeze [Q30] something tickles or irritates the inside of our nose. Our body has a sneeze centre [Q31] sends messages to some of our muscles which work together to produce a sneeze. These muscles [Q32] the chest muscles, muscles of our vocal cords and muscles in our throat.",
+          "Another interesting fact is that we cannot sneeze [Q33] our eyes open. This is only possible if we try really hard [Q34] we have to fight our body's reflex. No one really knows [Q35] this happens. Possibly, the brain sends a message to our eyes to close before we sneeze.",
+          "[Q36] avoid embarrassment in public places, we may have tried to hold our sneezes in. [Q37], we should not do that since it can be dangerous. When we hold [Q38] in, pressure builds up in the nasal passages and can damage the blood vessels in our eyes or nose. Sneezing is a natural response that we cannot control."
+        ],
+        "zh": [
+          "打喷嚏人人皆有，日均约四次，是身体排出刺激物的方式；鼻内受刺激时喷嚏中枢令肌肉协同打喷嚏。",
+          "有趣的是睁眼不能打喷嚏，除非强行对抗反射；大脑可能在打喷嚏前令眼睛闭合，原因未明。",
+          "为免尴尬有人憋喷嚏，但不宜如此——憋住会使鼻腔压力升高，损害眼鼻血管；打喷嚏是无法控制的自然反应。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — of",
+          "note": "这里使用介词 \"of\" 来连接前面的 \"way\"（方式），构成 \"way of doing something\" 的结构，解释打喷嚏是身体移除刺激物的一种手段。",
+          "answer": "G — of"
+        },
+        "30": {
+          "concept": "连词 — when",
+          "note": "这是一个引导时间状语从句的连词，说明了打喷嚏这种反应发生的具体时刻，即当鼻腔内部受到刺激的时候。",
+          "answer": "M — when"
+        },
+        "31": {
+          "concept": "关系词 — that",
+          "note": "这是一个关系代词，用来引导定语从句修饰前面的 \"sneeze centre\"（喷嚏中枢），并指代它完成了“向肌肉发送指令”这一功能。",
+          "answer": "H — that"
+        },
+        "32": {
+          "concept": "系动词 — are",
+          "note": "这是句子谓语动词的复数形式，用于列举并具体说明前文提到的“这些肌肉”到底包含哪些部分（胸部、声带及喉部肌肉）。",
+          "answer": "A — are"
+        },
+        "33": {
+          "concept": "介词 — with",
+          "note": "介词 \"with\" 在这里表示伴随状态，说明“睁着眼睛”是打喷嚏时（通常不会）伴随发生的一种身体姿态。",
+          "answer": "Q — with"
+        },
+        "34": {
+          "concept": "连词 — while",
+          "note": "连词 \"while\" 表示“在……期间”或“当……之时”，强调了试图睁眼这个动作必须在“对抗身体反射”的过程中发生。",
+          "answer": "N — while"
+        },
+        "35": {
+          "concept": "疑问词 — why",
+          "note": "疑问词 \"why\" 引导宾语从句，表达人们并不清楚这件事发生的具体原因或原理。",
+          "answer": "P — why"
+        },
+        "36": {
+          "concept": "方式 — by",
+          "note": "不定式 \"To\" 引导目的状语（原题中 by 需改为 To），表示我们抑制喷嚏是为了避免在公共场合感到尴尬。",
+          "answer": "K — To"
+        },
+        "37": {
+          "concept": "转折 — however",
+          "note": "转折连词 \"however\" 表示“然而”，强调了尽管抑制喷嚏可以避免尴尬，但这种做法仍然存在危险性。",
+          "answer": "E — however"
+        },
+        "38": {
+          "concept": "代词 — them",
+          "note": "这是一个代词，指代前文提到的复数名词 \"sneezes\"（喷嚏），用以说明将这些喷嚏憋回去会产生压力。",
+          "answer": "J — them"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "I lived with my family in my grandfather's wooden house built on stilts during my childhood days.",
+          "The house was [Q39(seetueted)] on a big piece of land that was fenced. The rusty gate of the [Q40(entrens)] was always locked. It [Q41(tower)] over me like a giant watching over the property.",
+          "I used to sit [Q42(in)] a big swing in the garden with my dog, Fluffy. She seemed to smile [Q43(wherever)] I made the swing go higher. I would pretend it was a bus and 'drive' the kids in the neighbourhood to a make-believe [Q44(destinayshen)] .",
+          "On some [Q45(okaysians)] , I cycled along the compound with a long umbrella in one hand. My grandfather's flock of geese had a habit of [Q46(pinch)] my legs with their sharp beaks. Therefore, the umbrella was actually an [Q47(imagineri)] sword to chase the nasty creatures away.",
+          "From my parents' bedroom window, I could [Q48(simple)] reach out to the tree to pluck rambutans. That [Q49(konveniens)] came at a price. I was bitten by fierce red ants several times [Q50(by)] the process.",
+          "The house was demolished soon after we moved. Today, I can only recall with fondness that house on stilts."
+        ],
+        "zh": [
+          "童年我住在外公高脚屋里。房子坐落在围起来的大地，生锈大门常锁，门高如我，像巨人守望。我常与狗 Fluffy 在花园秋千上；她似乎随秋千升高而笑。我把秋千当巴士，载邻居孩子到假想的目的地。有时我一手撑伞在院里骑车；鹅群爱啄我腿，伞是我驱赶它们的假想剑。从父母卧室窗可伸手摘红毛丹，便利的代价是被红火蚁咬过数次。搬家后房子被拆，今日我只能怀念那座高脚屋。",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "拼写 — situated",
+          "note": "<p><em>seetueted</em> → <strong>situated</strong> (located).</p>",
+          "answer": "situated"
+        },
+        "40": {
+          "concept": "拼写 — entrance",
+          "note": "<p><em>entrens</em> → <strong>entrance</strong>.</p>",
+          "answer": "entrance"
+        },
+        "41": {
+          "concept": "时态 — towered",
+          "note": "<p><em>tower</em> → past <strong>towered</strong> over me.</p>",
+          "answer": "towered"
+        },
+        "42": {
+          "concept": "介词 — on",
+          "note": "<p>sit <strong>on</strong> a swing (not in).</p>",
+          "answer": "on"
+        },
+        "43": {
+          "concept": "连词 — whenever",
+          "note": "<p><em>wherever</em> → <strong>whenever</strong> (each time).</p>",
+          "answer": "whenever"
+        },
+        "44": {
+          "concept": "拼写 — destination",
+          "note": "<p><em>destinayshen</em> → <strong>destination</strong>.</p>",
+          "answer": "destination"
+        },
+        "45": {
+          "concept": "拼写 — occasions",
+          "note": "<p><em>okaysians</em> → <strong>occasions</strong>.</p>",
+          "answer": "occasions"
+        },
+        "46": {
+          "concept": "语法 — pinching",
+          "note": "<p><em>pinch</em> → habit of <strong>pinching</strong>.</p>",
+          "answer": "pinching"
+        },
+        "47": {
+          "concept": "拼写 — imaginary",
+          "note": "<p><em>imagineri</em> → <strong>imaginary</strong> sword.</p>",
+          "answer": "imaginary"
+        },
+        "48": {
+          "concept": "词性 — simply",
+          "note": "<p><em>simple</em> (adj) → <strong>simply</strong> (adv).</p>",
+          "answer": "simply"
+        },
+        "49": {
+          "concept": "拼写 — convenience",
+          "note": "<p><em>konveniens</em> → <strong>convenience</strong>.</p>",
+          "answer": "convenience"
+        },
+        "50": {
+          "concept": "介词 — during",
+          "note": "<p><em>by the process</em> → <strong>during</strong> the process.</p>",
+          "answer": "during"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "New Year celebration is never complete without fireworks. Imagine seeing colourful lights bursting in the night sky to usher in the first day of the [Q51]. A fireworks display has always attracted [Q52] young and old. Thousands will flock to venues near the display area to get the best [Q53] of the fireworks. Countries around the [Q54] go to great lengths to put on the best show.",
+          "Do you know that fireworks were actually developed [Q55] China? The first natural 'firecrackers' were [Q56] of bamboo stalks. When thrown into a fire, the air pockets in the bamboo stalks would cause them to explode. The Chinese [Q57] that such loud explosion would ward off evil spirits. Later, bamboo stalks were filled with gunpowder which would explode when ignited. That was [Q58] the first man-made fireworks was invented.",
+          "Soon fireworks gained [Q59] in many countries. In Europe, they were widely used for religious festivals and entertainment. The Europeans eventually began to manufacture their own fireworks. They even [Q60] the Americans their first taste of fireworks when they settled in America. As interest in them grew, the use of fireworks [Q61] widespread. Many countries began to include them as [Q62] of a celebration. In this modern day, fireworks displays can be seen during special events [Q63] as Christmas and the New Year.",
+          "The anticipation of the boom [Q64] comes after the lights usually makes us happy. We are drawn to the suspense [Q65] create. No one ever complains after a fireworks display as it sparks joy, lifts our spirits and brings back happy memories."
+        ],
+        "zh": [
+          "新年离不开烟花：夜空绽放彩光迎接新年第一天；老少皆爱，万人涌向最佳观赏点；各国倾力打造盛典。",
+          "烟花源于中国：竹筒入火爆裂；古人相信巨响驱邪，后填火药成真正烟花。",
+          "烟花在多国流行；欧洲用于节庆；美国人初尝烟花；用途日广，成为庆典一部分，圣诞、新年皆可见。",
+          "爆竹声常令人愉悦；我们被悬念吸引，无人抱怨——烟花带来欢乐、振奋与美好回忆。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "名词语意与呼应",
+          "note": "句首提到 New Year celebration（新年庆祝活动），因此此处指在夜空中看到五彩斑斓的灯光绽放，用以迎接新一“年（year）”的第一天。",
+          "answer": "year"
+        },
+        "52": {
+          "concept": "定冠词与名词化形容词",
+          "note": "完美契合经典并列结构 attracted both young and old（吸引了老人和小孩）或者使用定冠词 the 构成 the young and old（年轻人和老年人这一群体），此处填入 both 或是 the 均可。",
+          "answer": "both/the"
+        },
+        "53": {
+          "concept": "名词语意修饰搭配",
+          "note": "修饰名词宾语。指成千上万的人涌向观赏区附近的场所，为了获得观赏烟花的最佳“视野”、“角度”或“位置”，构成 get the best view / vantage / spot of the fireworks 结构。",
+          "answer": "view/vantage/spot"
+        },
+        "54": {
+          "concept": "固定习惯搭配",
+          "note": "与前置的 Countries around the 完美组合。构成高频常考的地道地理名词短语 countries around the world（或 globe），意为“全世界”的国家都会不遗余力地呈现出最佳的表演。",
+          "answer": "world/globe"
+        },
+        "55": {
+          "concept": "地点介词搭配",
+          "note": "后接具体的国家名词 China。表示烟花最初是在中国被“开发”或“发明”出来的，使用表示地理空间的介词 in。",
+          "answer": "in"
+        },
+        "56": {
+          "concept": "被动语态短语动词",
+          "note": "前面有助动词 were，后面紧跟介词 of。完美契合高频常考的经典原料构成短语 be made of，表示最初的天然爆竹是由竹节“制成”的。",
+          "answer": "made"
+        },
+        "57": {
+          "concept": "一般过去时动词语意",
+          "note": "由于整段都在追溯古代中国的历史背景，谓语动词需采用一般过去时。指古时候的中国人“相信（believed）”、“认为（thought）”或“希望（hoped）”这种巨大的爆炸声能够驱走恶灵。",
+          "answer": "believed/thought/hoped"
+        },
+        "58": {
+          "concept": "表语从句连接词",
+          "note": "引导表语从句。结合前文关于竹节填入火药并发明出人造烟花的过程，此处填入连接词 how，构成固定句型 That was how...，表示“这就是第一款人造烟花被发明出来的‘过程/方式’”。",
+          "answer": "how"
+        },
+        "59": {
+          "concept": "动词与名词固定搭配",
+          "note": "作为动词 gained 的核心宾语。指烟花很快在许多国家“赢得了名气”、“变得流行”或“受到了欢迎”，完美契合高频书面短语 gain popularity / traction / recognition。",
+          "answer": "popularity/traction/recognition"
+        },
+        "60": {
+          "concept": "双宾语动词时态搭配",
+          "note": "后接双宾语结构 the Americans（间接宾语）和 their first taste（直接宾语），且叙述欧洲人过去定居美洲的历史。填入一般过去时动词 gave 或 offered，表示欧洲人甚至让美国人第一次“尝到”或“体验到”了烟花的魅力。",
+          "answer": "gave/offered"
+        },
+        "61": {
+          "concept": "一般过去时系动词",
+          "note": "主语为单数名词短语 the use of fireworks。由于前文有状态引导 as interest in them grew（随着兴趣的增长），此处填入过去时系动词 became 或 turned 搭配形容词 widespread，表示烟花的使用“变得”十分广泛。",
+          "answer": "became/turned"
+        },
+        "62": {
+          "concept": "名词固定习惯搭配",
+          "note": "与前后介词组合，构成在各类说明文中极其高频考核的核心经典搭配 as part of...，意思是许多国家开始将烟花包含进来，作为庆祝活动的“一部分”。",
+          "answer": "part"
+        },
+        "63": {
+          "concept": "举例引导词固定搭配",
+          "note": "与后面的 as 完美组合，构成最经典的举例固定标记语 such as，用于引出圣诞节和新年等具体的特殊节日例子。",
+          "answer": "such"
+        },
+        "64": {
+          "concept": "定语从句关系代词/副词",
+          "note": "引导定语从句修饰先行词 the boom（轰鸣声，指物）。从句中缺少主语，故填入关系代词 that 或 which。若视作关联引导，填入 when 表达“当……时”在语境中亦符合逻辑。",
+          "answer": "that/which/when"
+        },
+        "65": {
+          "concept": "定语从句主语代词",
+          "note": "在限定性定语从句中充当动词 create 的主语。指代前文复数概念的 fireworks（烟花）或者其产生的各种变化，故填入复数第三人称代词 they，表示“我们被它们所创造出的悬念感所深深吸引”。",
+          "answer": "they"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "The thief stole the truck when the owner was not looking. He confessed to it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The thief confessed to __________"
+        },
+        "67": {
+          "stem_plain": "\"A special guest will be visiting the school next week,\" the teacher informed the class.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The teacher informed the class __________"
+        },
+        "68": {
+          "stem_plain": "You will receive a free gift if you register for the competition today.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Unless __________"
+        },
+        "69": {
+          "stem_plain": "Mrs Tan came home from work. She had dinner immediately.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ as soon as __________"
+        },
+        "70": {
+          "stem_plain": "Rita was reluctant to complete her assignment. It upset her mother.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Rita's __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "合并句 — confessed to + -ing",
+          "zh": "小偷承认在车主没注意时偷了卡车。",
+          "note": "confessed to 后接动名词。",
+          "answer": "The thief confessed to stealing the truck when the owner was not looking."
+        },
+        "67": {
+          "concept": "间接引语",
+          "zh": "老师告知全班下周将有特别来宾到访学校。",
+          "note": "间接引语时态与时间词调整。",
+          "answer": "The teacher informed the class that a special guest would be visiting the school the following week."
+        },
+        "68": {
+          "concept": "Unless 改写",
+          "zh": "除非今天报名参赛，否则得不到免费礼物。",
+          "note": "Unless = if … not。",
+          "answer": "Unless you register for the competition today, you will not receive a free gift."
+        },
+        "69": {
+          "concept": "as soon as",
+          "zh": "谭太太下班一到家就吃晚饭。",
+          "note": "as soon as 连接两动作。",
+          "answer": "Mrs Tan had dinner as soon as she came home from work."
+        },
+        "70": {
+          "concept": "名词化 — reluctance",
+          "zh": "丽塔不愿完成作业的态度让母亲难过。",
+          "note": "reluctance 名词化作主语。",
+          "answer": "Rita's reluctance to complete her assignment upset her mother."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "From the first paragraph, pick out a three-word phrase that tells us that Danny was not keen to attend the camp.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Why was Danny looking forward to the night walk?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **The perfect companion** (line 10)",
+                "(b) **an accident** (line 25)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Based on lines 4–15, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Danny was attending a camp for the first time.",
+                "(b) When Danny went to get a drink, he thought he was alone in the canteen."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Circle one word that best describes how Danny felt when he saw the boy run off in lines 14–15. **DO NOT CIRCLE MORE THAN ONE WORD.**",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "uncertain",
+            "confused",
+            "annoyed",
+            "threatened"
+          ]
+        },
+        "76": {
+          "stem_plain": "From lines 16–26, pick out two separate phrases to show the characters' responses and explain why they responded that way.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "One word that shows Mr Halim was angry with Danny",
+                "Four-word Phrase that shows Danny was no longer affected by the incident"
+              ]
+            },
+            "col_2": {
+              "header": "One word / phrase from the passage",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]"
+              ]
+            },
+            "col_3": {
+              "header": "Why the character felt / responded that way",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Which two of the following words best describe Danny in lines 27–30? Put a tick (✓) in the box beside each of your answers. **DO NOT TICK MORE THAN TWO BOXES.**",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "disappointed",
+            "surprised",
+            "regretful",
+            "puzzled",
+            "curious",
+            "shocked"
+          ],
+          "max_selections": 2
+        },
+        "78": {
+          "stem_plain": "Based on lines 16–37, fill in the following table.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "When Mr Halim saw the spill",
+                "When Siva saw Danny approaching him"
+              ]
+            },
+            "col_2": {
+              "header": "What he thought had happened / would happen",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]"
+              ]
+            },
+            "col_3": {
+              "header": "What actually happened",
+              "rows": [
+                "[Q78b]",
+                "[Q78d]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Why was Danny's father pleasantly surprised to see him chatting animatedly with another boy? (lines 40–41)",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Why do you think Danny smiled and nodded (line 44)?",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "It was a Monday morning. Father was helping Danny pack his bag for a holiday camp the next day.",
+          "2": "\"Do I really have to go, Father?\" Danny asked, stomping his feet. \"Son, sometimes the best lessons in life",
+          "3": "are learnt at camps,\" Father encouraged. \"But I never have the right words to say when talking to someone",
+          "4": "new,\" Danny grunted. \"Alright, let's make a deal. If you learn something good at this camp, then this shall",
+          "5": "be the last holiday camp I sign you up for,\" Father promised. \"Deal,\" Danny replied, frowning as he recalled",
+          "6": "the uncomfortable conversations he had had with his camp mates the previous year.",
+          "7": "The first day at camp flew by with the flurry of activity. Right after dinner, everyone was busy",
+          "8": "packing their bags in their rooms in preparation for the night walk. That was something Danny looked",
+          "9": "forward to, especially since he had never gone on one before. Fumbling for coins in his pocket, Danny",
+          "10": "headed to the canteen to get a bottle of iced tea from the vending machine. \"Ah! **The perfect companion**",
+          "11": "for the night walk!\" he exclaimed as he took a few sips and exhaled. Just as Danny was about to secure",
+          "12": "the bottle cap, he heard footsteps. He was caught off-guard as someone suddenly brushed past him and",
+          "13": "hit his elbow. The bottle slipped out of his hands and fell to the floor. Light brown liquid gushed out,",
+          "14": "creating ugly puddles on the floor. Danny caught a glimpse of a boy in a green T-shirt running off into",
+          "15": "the distance. \"How rude!\" Danny shouted, gritting his teeth. \"Not even an apology!\"",
+          "16": "Just then, Mr Halim, the camp guide, approached Danny. \"What are you doing here, inste- \" he",
+          "17": "asked but stopped midway when he saw the mess on the floor. \"It wasn't me!\" Danny raised his voice in",
+          "18": "his defence. \"I'm sure there's an explanation for this, but there's no reason to use that tone with me,\" Mr",
+          "19": "Halim replied as he glared at Danny. \"You'll fix this mess you created before we head out for the night",
+          "20": "walk,\" he remarked and walked off in a hurry before Danny could explain himself.",
+          "21": "\"How unfortunate,\" Danny sulked. \"It wasn't even my fault to begin with.\" Getting down on his",
+          "22": "knees, he started wiping up the mess. In the silence of the night, all he could hear was the chirping of",
+          "23": "crickets in the distance. Twenty minutes had passed. Danny managed to calm himself down and think",
+          "24": "clearly. He recalled how Mother had given him a second chance when he broke her vase by mistake a",
+          "25": "week ago. Realising that what had happened just now might have been **an accident**, Danny resolved to",
+          "26": "let bygones be bygones.",
+          "27": "Soon, the floor was dry and Danny's work was done. As he got up to leave, he heard a strange",
+          "28": "sound. It seemed to be coming from behind a pillar. What could it be, Danny thought as he scratched his",
+          "29": "head. Everyone had left for the night walk. \"A lizard? A cricket?\" he mused as he inched forward, craning",
+          "30": "his neck to see what was behind the pillar. From a distance, he spotted something green sticking out of",
+          "31": "the pillar. He stopped dead in his tracks when he came face to face with the boy he had seen earlier.",
+          "32": "\"You... you...\" Danny started. \"Please don't yell at me,\" the boy begged. \"Let me explain. I'm Siva.",
+          "33": "I felt bad for causing the spill earlier when I ran to get my torch for the night walk. I knew I had to make up",
+          "34": "for what I had done earlier. That is why I've been here all this while, trying to find the courage to say sorry,\"",
+          "35": "he said meekly.",
+          "36": "\"Well, I was upset at first,\" Danny admitted. \"But not anymore. I figured you might not have done",
+          "37": "it on purpose,\" he added. Just then, the boys heard a familiar voice. \"I'm glad you've cleaned up the mess.",
+          "38": "Now, we can all head out for the night walk,\" Mr Halim remarked with a smile. Nodding his head, Danny",
+          "39": "replied, \"I'm sorry about the incident earlier, Mr Halim.\"",
+          "40": "The next day, Father went to the campsite to fetch Danny when the camp ended. He was",
+          "41": "pleasantly surprised to see Danny chatting animatedly with another boy. On the drive home, Danny could",
+          "42": "not stop talking about his new friend, Siva. \"I had a good time, Father, and I learnt a valuable lesson about",
+          "43": "second chances!\" Danny chirped. \"So, would you be keen to attend another camp the next holiday?\" Father",
+          "44": "asked. Looking at Father, Danny smiled and nodded."
+        },
+        "paragraphs": {
+          "1": "那是星期一早晨，父亲正在帮丹尼收拾第二天假日营要带的行李。丹尼跺着脚问：“爸爸，我真的非去不可吗？”父亲鼓励他：“儿子，人生中最宝贵的功课有时就是在营地里学到的。”丹尼咕哝着说：“可我跟陌生人说话总找不到合适的话。”父亲说：“咱们打个赌：要是这次营里你学到了好东西，这就是我给你报的最后一个假日营。”丹尼想起去年和室友那些憋脚的谈话，皱着眉头应了声“好”。",
+          "7": "营地第一天在忙忙碌碌中一晃而过。晚饭后，大家忙着在房间里收拾行李，准备夜间徒步。丹尼尤其期待这次活动，因为他从没参加过。他在口袋里掏硬币，到食堂售货机买冰茶。“啊！夜间徒步的绝配！”他喝了几口、长舒一口气。正要把瓶盖拧好时，他听见脚步声，有人猛然擦身而过撞到他胳膊，瓶子脱手落地，浅褐色的饮料溅了一地。丹尼瞥见一个穿绿T恤的男孩往远处跑。“太没礼貌了！”他咬牙喊道，“连句对不起都不说！”",
+          "16": "这时营地指导员哈林姆先生走了过来。“你在这儿干什么，不是——”他话说到一半，看见地上的狼藉便停住了。“不是我干的！”丹尼辩解说，嗓门也大了。哈林姆瞪着他说：“这事肯定有原因，但没必要用这种口气跟我说话。你把这儿收拾干净再去夜间徒步。”说完匆匆走了，丹尼还没来得及解释。",
+          "21": "“真倒霉。”丹尼闷闷不乐，“明明又不是我的错。”他跪下来擦地，夜里静悄悄的，只听得远处虫鸣。二十分钟过去了，他渐渐冷静下来、能想清楚些事。他想起一周前不小心打碎母亲的花瓶，母亲还是给了他一次机会。想到刚才发生的事也许只是意外，丹尼决定既往不咎。",
+          "27": "不一会儿地板干了，活儿也做完了。他起身要走，却听见一阵奇怪的声音，像是从柱子后面传来的。大家都在夜间徒步了，只有他还留在食堂。他挠着头琢磨：是蜥蜴？是蟋蟀？他探着脖子慢慢靠近，远远看见柱子后面露出一点绿色——与先前那个男孩撞了个正着，他顿时僵在原地。",
+          "32": "“你……你……”丹尼刚开口，那男孩便哀求道：“别吼我，让我解释。我是西瓦。刚才急着去拿夜间徒步的手电筒，才撞翻你的饮料，我一直过意不去，才会一直留在这儿，鼓起勇气跟你说对不起。”",
+          "36": "他怯生生地说：“我一开始很生气，但现在不了。我想你也不是故意的。”这时传来熟悉的声音。哈林姆笑着说：“清理干净了就好，咱们可以一起去夜间徒步了。”丹尼点点头：“哈林姆先生，刚才那件事对不起。”",
+          "40": "第二天营期结束，父亲到营地接丹尼，惊喜地看见儿子正和另一个男孩聊得热火朝天。回家路上丹尼滔滔不绝地讲新朋友西瓦，还嚷着说玩得很开心，学会了关于“第二次机会”的宝贵一课。父亲问：“那下个假期你还想再参加营地吗？”丹尼望着父亲笑了笑，点了点头。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘<strong>三个词</strong>的短语，表不愿参加营地。</li><li><strong>范围：</strong>第一段（行 <strong>1–6</strong>）。</li><li><strong>证据：</strong><em>Do I really have to go, Father?</em> 后 <em>stomping his feet</em> 表抗拒。</li><li><strong>答案：</strong><strong>Stomping his feet</strong>（三词）。</li></ol>",
+          "answer": [
+            "Stomping his feet."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>7–11</strong> 夜间步行前买饮料。</li><li><strong>证据：</strong><em>never gone on one before</em> → 期待、兴奋。</li><li><strong>答案：</strong>从未参加过夜间步行，想知道那是什么感觉。</li></ol>",
+          "answer": [
+            "Danny had never gone on a night walk before and was excited to know what it was like."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a) 行 10：</strong><em>The perfect companion</em> → 他买的<strong>冰茶瓶</strong>。</li><li><strong>(b) 行 25：</strong><em>an accident</em> → 男孩撞到他导致<strong>打翻冰茶</strong>的那件事。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "The bottle of iced tea Danny had bought.",
+            "73b": "A boy bumping into Danny had made him spill the bottle of iced tea that he had bought."
+          }
+        },
+        "74": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>4–15</strong>。</li><li><strong>(a) False：</strong>题干把“期待夜间步行”与“去买饮料”混为一谈；依据应写<strong>去年营里交谈不自在</strong>（与夜间步行期待无关）。</li><li><strong>(b) True：</strong>以为大家都在房间收拾，<strong>听到脚步才吃惊</strong>（行 12–13）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "False",
+            "74b": "He recalled uncomfortable conversations with his camp mates the previous year (line 6), so this was not his first camp",
+            "74c": "True",
+            "74d": "Everyone was busy packing in their rooms for the night walk (lines 7–8); he was caught off-guard when he heard footsteps in the canteen (lines 12–13)"
+          }
+        },
+        "75": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>14–15</strong> 男孩跑开。</li><li><strong>证据：</strong><em>How rude!</em>、<em>gritting his teeth</em> → <strong>annoyed</strong>。</li><li><strong>排除：</strong>uncertain/confused/threatened 不符愤怒语气。</li></ol>",
+          "answer": [
+            "annoyed"
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "表格信息归纳表",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>16–26</strong> 与 Halim 冲突及丹尼冷静后。</li><li><strong>(a)</strong> <em>glared</em> → 哈林姆生气。</li><li><strong>(b)</strong> 四词短语如 <em>raised his voice in</em>（his defence）→ 丹尼对哈林姆不礼貌。</li><li><strong>(c)</strong> <em>let bygones be bygones</em> → 决定释怀。</li><li><strong>(d)</strong> 想起母亲原谅他打碎花瓶 → 因此也能原谅别人。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "glared",
+            "76b": "Mr Halim was angry that Danny used a rude tone with him.",
+            "76c": "raised his voice in",
+            "76d": "Danny was rude to Mr Halim by raising his voice at him."
+          }
+        },
+        "77": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>27–30</strong> 柱后异响、好奇张望。</li><li><strong>puzzled：</strong>不知是什么，抓头思索。</li><li><strong>curious：</strong>踮脚查看柱后。</li><li><strong>排除：</strong>disappointed/regretful 不符；surprised/shocked 偏突发惊吓，不如“疑惑+好奇”贴切。</li></ol>",
+          "answer": [
+            "puzzled",
+            "curious"
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>16–37</strong>。</li><li><strong>哈林姆见泼洒：</strong>以为丹尼粗心打翻 → 实为别人撞到。</li><li><strong>西瓦见丹尼靠近：</strong>怕被打骂 → 丹尼已释怀并原谅。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "Danny had spilled the bottle of iced tea because of his carelessness.",
+            "78b": "A boy had bumped into Danny which caused the bottle of iced tea to slip out of his hands and drop onto the floor.",
+            "78c": "Siva thought that Danny would yell at him.",
+            "78d": "Danny forgave him."
+          }
+        },
+        "79": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>40–41</strong> 与首段对比。</li><li><strong>对比：</strong>去年不爱说话、找不到词；现在与 Siva 畅聊。</li><li><strong>故：</strong>父亲惊喜于他的变化。</li></ol>",
+          "answer": [
+            "The previous year, Danny did not like to talk to other people and was not keen to attend camp. Danny said that he could not find the right words when talking to someone new but now he was talking to someone new."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>定位：</strong>行 <strong>43–44</strong> 父亲问是否愿再参加营地。</li><li><strong>证据：</strong>本次营地开心、学到 second chances，故微笑点头表示<strong>愿意再来</strong>。</li></ol>",
+          "answer": [
+            "Danny wanted to attend the camp the next holiday as he enjoyed camp this holiday."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

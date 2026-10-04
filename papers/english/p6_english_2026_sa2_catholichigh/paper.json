@@ -1,0 +1,1508 @@
+{
+  "paperid": "p6_english_2026_sa2_catholichigh",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "She said that she would attend the rehearsal for the concert later, ________ she?",
+          "options": {
+            "1": "did",
+            "2": "didn't",
+            "3": "would",
+            "4": "wouldn't"
+          }
+        },
+        "2": {
+          "stem_plain": "Ronn wanted to attend the concert because his favourite singer Bruno ________ there.",
+          "options": {
+            "1": "performed",
+            "2": "had performed",
+            "3": "had been performing",
+            "4": "would be performing"
+          }
+        },
+        "3": {
+          "stem_plain": "________ her parents' tireless care, she recovered quickly from her illness.",
+          "options": {
+            "1": "Owing to",
+            "2": "In spite of",
+            "3": "Aligned to",
+            "4": "In addition to"
+          }
+        },
+        "4": {
+          "stem_plain": "The boy with ________ I shared my lunch is my best friend.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "5": {
+          "stem_plain": "After observing him ________ on the desk a few times, they realised that he was sending a coded message to someone in the room.",
+          "options": {
+            "1": "tap",
+            "2": "taps",
+            "3": "tapped",
+            "4": "had tapped"
+          }
+        },
+        "6": {
+          "stem_plain": "Having received the teacher's approval, the prefect committee ________ ready to conduct the activity now.",
+          "options": {
+            "1": "is",
+            "2": "was",
+            "3": "will be",
+            "4": "would be"
+          }
+        },
+        "7": {
+          "stem_plain": "Other than Tom, Jerry and ________, no one else was there.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "mine",
+            "4": "myself"
+          }
+        },
+        "8": {
+          "stem_plain": "We need to stop searching and rest. We ________ for more than twenty hours once the morning comes.",
+          "options": {
+            "1": "will search",
+            "2": "have searched",
+            "3": "have been searching",
+            "4": "will have been searching"
+          }
+        },
+        "9": {
+          "stem_plain": "Although there was ________ evidence to start with, the police managed to solve the case eventually.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "10": {
+          "stem_plain": "The trouble ________ this storybook is that its language is too difficult to understand.",
+          "options": {
+            "1": "of",
+            "2": "in",
+            "3": "with",
+            "4": "about"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "当主句含有宾语从句时，通常对主句的主谓结构进行反义疑问。主句动词是 She said（一般过去时，肯定式），因此反义疑问句应用否定助动词 didn't，主语用 she，故选 didn't she。",
+          "concept": "包含从句的反义疑问句 — Tag Questions — sentences with object clauses",
+          "zh": "“她说她晚些时候会参加音乐会的排练，不是吗？”",
+          "answer": "2"
+        },
+        "2": {
+          "note": "根据主句时态 wanted 可知整个事情发生在过去；“想要去听音乐会”是因为歌手“届时将要在那里演出”。在过去看将来的动作，应该使用过去将来进行时（would be doing），故选 would be performing。",
+          "concept": "时态综合 — Tense — past future continuous tense",
+          "zh": "罗恩想去听音乐会，因为他最喜欢的歌手布鲁诺届时将在那里演出。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "前半句“父母无微不至的照顾”是后半句“很快康复”的直接原因。Owing to 意为“由于、因为”，引导原因状语且后接名词短语，完全符合逻辑。",
+          "concept": "原因介词短语 — Prepositional Phrases — owing to",
+          "zh": "由于父母无微不至的照顾，她很快从疾病中康复了。",
+          "answer": "1"
+        },
+        "4": {
+          "note": "定语从句中的引导词放在介词 with 后面作宾语，指代人（The boy），必须使用宾格形式的关系代词 whom，组成 with whom 结构，故选 whom。",
+          "concept": "定语从句 — Relative Clauses — prep + whom",
+          "zh": "跟我一起分享午餐的那个男孩是我最好的朋友。",
+          "answer": "3"
+        },
+        "5": {
+          "note": "observe sb. do sth. 为感官动词的固定用法，表示观察到某人做某事或动作的全过程，后面需要接不带 to 的动词原形（省 to 不定式），故选择 tap。",
+          "concept": "非谓语动词 — Bare Infinitives — observe someone do something",
+          "zh": "在观察到他在桌子上轻敲了几次后，他们意识到他正在向房间里的某人发送密码信息。",
+          "answer": "1"
+        },
+        "6": {
+          "note": "The prefect committee（级长委员会）在此处作为一个整体名词作主语，结合句末的明确时间状语 now 可知，此处应用一般现在时的单数形式 is。",
+          "concept": "主谓一致与时间状语 — Subject-Verb Agreement — collective nouns & 'now'",
+          "zh": "在得到老师的批准后，级长委员会现在已经准备好开展活动了。",
+          "answer": "1"
+        },
+        "7": {
+          "note": "Other than 意为“除了……之外”，在句中相当于介词结构，其后连接的所有并列成分都必须使用人称代词的宾格形式。因此空格处应用 me，故选 me。",
+          "concept": "代词格的用法 — Pronoun Case — object pronoun after prepositions",
+          "zh": "除了汤姆、杰瑞和我，没有人在那里。",
+          "answer": "2"
+        },
+        "8": {
+          "note": "时间状语 once the morning comes 提示一个未来的时间点，而 for more than twenty hours 强调动作的持续。表示到未来某个时间为止动作已经持续了多久，应使用将来完成进行时（will have been doing），故选 will have been searching。",
+          "concept": "高级时态 — Tense — future perfect continuous tense",
+          "zh": "我们需要停止搜寻并休息了。一旦早晨来临，我们就已经连续搜寻了二十多个小时了。",
+          "answer": "4"
+        },
+        "9": {
+          "note": "evidence（证据）是不可数名词，不能用 few 或 many 修饰；根据连词 Although（虽然）带来的转折语气，前半句应指“几乎没有证据”，从而与后半句“警方还是成功破案”形成对比，故用具有否定含义的 little 最符合题意。",
+          "concept": "量词与名词修饰 — Quantifiers — little with uncountable nouns",
+          "zh": "虽然一开始几乎没有证据，但警方最终还是成功破获了这起案件。",
+          "answer": "2"
+        },
+        "10": {
+          "note": "the trouble with ... 为固定搭配，意为“……的问题所在、……的麻烦之处”，此处 with 用于引出存在问题或缺陷的具体对象，故选 with。",
+          "concept": "固定搭配与介词 — Prepositions — the trouble with something",
+          "zh": "这本故事书的麻烦之处在于它的语言太难理解了。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "After discussing the matter for over an hour, the judges voted ________ to disqualify the participant.",
+          "options": {
+            "1": "mutually",
+            "2": "intuitively",
+            "3": "concurrently",
+            "4": "unanimously"
+          }
+        },
+        "12": {
+          "stem_plain": "After insisting for hours that he had not broken the vase, Ryan finally ________ that he had knocked it over while chasing the cat.",
+          "options": {
+            "1": "denied",
+            "2": "conceded",
+            "3": "questioned",
+            "4": "surrendered"
+          }
+        },
+        "13": {
+          "stem_plain": "Corruption is often ________ in countries where laws are not strictly enforced.",
+          "options": {
+            "1": "rampant",
+            "2": "bountiful",
+            "3": "stringent",
+            "4": "infamous"
+          }
+        },
+        "14": {
+          "stem_plain": "The discipline master quickly ________ the fight between Eddie and Dylon before anyone got injured.",
+          "options": {
+            "1": "broke up",
+            "2": "broke off",
+            "3": "broke down",
+            "4": "broke away"
+          }
+        },
+        "15": {
+          "stem_plain": "After the competition, the players from every team showed ________ by gathering together to sing at the closing ceremony.",
+          "options": {
+            "1": "solidarity",
+            "2": "tolerance",
+            "3": "alignment",
+            "4": "consensus"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "在讨论这件事一个多小时后，评委们一致投票决定取消该参赛者的资格。",
+          "note": "‘unanimously’意思是全体一致地、无异议地，符合评委投票做决定的常规语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "mutually",
+              "zh": "相互地，彼此",
+              "eg": "The two companies reached a mutually beneficial business agreement."
+            },
+            {
+              "opt": "2",
+              "word": "intuitively",
+              "zh": "凭直觉地",
+              "eg": "The mother intuitively knew that her baby was crying due to hunger."
+            },
+            {
+              "opt": "3",
+              "word": "concurrently",
+              "zh": "同时发生地，兼任",
+              "eg": "The two separate prison sentences will be served concurrently."
+            },
+            {
+              "opt": "4",
+              "word": "unanimously",
+              "zh": "一致地，全体无异议地",
+              "eg": "The committee voted unanimously to approve the new school policy."
+            }
+          ]
+        },
+        "12": {
+          "zh": "在坚持了几个小时说自己没有打破花瓶之后，瑞安最终承认是他追猫时把花瓶撞倒了。",
+          "note": "‘conceded’意思是（勉强）承认，常用于长期否认某事后最终不得不承认事实。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "denied",
+              "zh": "否认，拒绝",
+              "eg": "The suspect firmly denied having any involvement in the neighborhood theft."
+            },
+            {
+              "opt": "2",
+              "word": "conceded",
+              "zh": "承认（属实），让步",
+              "eg": "After reviewing the evidence, he finally conceded that he made a mistake."
+            },
+            {
+              "opt": "3",
+              "word": "questioned",
+              "zh": "质问，怀疑",
+              "eg": "The detectives questioned the witness for several hours at the station."
+            },
+            {
+              "opt": "4",
+              "word": "surrendered",
+              "zh": "投降，自首",
+              "eg": "The enemy forces finally surrendered after a week of intense defense."
+            }
+          ]
+        },
+        "13": {
+          "zh": "在法律执行不严的国家，腐败往往很猖獗。",
+          "note": "‘rampant’意思是（坏事）猖獗的、泛滥的，与“法律执行不严”产生的后果完美呼应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rampant",
+              "zh": "猖獗的，泛滥的",
+              "eg": "Weeds grew rampant in the abandoned garden over the hot summer."
+            },
+            {
+              "opt": "2",
+              "word": "bountiful",
+              "zh": "丰富的，慷慨的",
+              "eg": "The local farmers celebrated a bountiful harvest of corn this year."
+            },
+            {
+              "opt": "3",
+              "word": "stringent",
+              "zh": "严格的，严厉的 (修饰法律、规则)",
+              "eg": "The laboratory follows stringent safety standards to prevent accidents."
+            },
+            {
+              "opt": "4",
+              "word": "infamous",
+              "zh": "声名狼藉的，臭名昭著的",
+              "eg": "The old pirate was infamous for his cruel attacks on historic merchant ships."
+            }
+          ]
+        },
+        "14": {
+          "zh": "训导主任迅速制止了埃迪和戴伦之间的打架，以免有人受伤。",
+          "note": "‘broke up’是短语动词，在这里指劝解、拆开、终止（冲突、打架）。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "broke up",
+              "zh": "终止（冲突），打碎，分手",
+              "eg": "A passerby stepped in and broke up the noisy argument on the street."
+            },
+            {
+              "opt": "2",
+              "word": "broke off",
+              "zh": "折断，突然中断（说话）",
+              "eg": "She broke off a piece of chocolate and shared it with her close friend."
+            },
+            {
+              "opt": "3",
+              "word": "broke down",
+              "zh": "（机器）故障，情绪崩溃",
+              "eg": "The elevator broke down, forcing everyone to use the main stairs."
+            },
+            {
+              "opt": "4",
+              "word": "broke away",
+              "zh": "逃脱，脱离",
+              "eg": "The captured horse broke away from the wooden fence and ran into the fields."
+            }
+          ]
+        },
+        "15": {
+          "zh": "比赛结束后，所有队伍的队员聚集在闭幕式上一起唱歌，展现了团结一致的精神。",
+          "note": "‘solidarity’意思是团结、齐心协力，后文不同队伍聚集唱歌正是这种精神的体现。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "solidarity",
+              "zh": "团结，团结一致",
+              "eg": "The community showed deep solidarity by raising funds for the fire victims."
+            },
+            {
+              "opt": "2",
+              "word": "tolerance",
+              "zh": "宽容，忍耐力",
+              "eg": "Working in customer service requires a great deal of patience and tolerance."
+            },
+            {
+              "opt": "3",
+              "word": "alignment",
+              "zh": "排成直线，联盟",
+              "eg": "The mechanic checked the wheel alignment of the car to ensure safety."
+            },
+            {
+              "opt": "4",
+              "word": "consensus",
+              "zh": "共识，一致意见",
+              "eg": "After much debate, the council finally reached a consensus on the project plan."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "assume",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "infer",
+            "2": "deem",
+            "3": "reason",
+            "4": "believe"
+          }
+        },
+        "17": {
+          "stem_plain": "potentially",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "possibly",
+            "2": "certainly",
+            "3": "apparently",
+            "4": "figuratively"
+          }
+        },
+        "18": {
+          "stem_plain": "compiles",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "collates",
+            "2": "connects",
+            "3": "constructs",
+            "4": "concentrates"
+          }
+        },
+        "19": {
+          "stem_plain": "expertise",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "talent",
+            "2": "reputation",
+            "3": "knowledge",
+            "4": "accomplishment"
+          }
+        },
+        "20": {
+          "stem_plain": "navigate",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "muddle",
+            "2": "meander",
+            "3": "manipulate",
+            "4": "manoeuvre"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "近义词替换 — 认为/假设",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "infer",
+              "zh": "推断",
+              "eg": "From the evidence, we can infer that the ghost story is false."
+            },
+            {
+              "opt": "2",
+              "word": "deem",
+              "zh": "认为；视作",
+              "eg": "The headmaster may deem it necessary to cancel the sports day."
+            },
+            {
+              "opt": "3",
+              "word": "reason",
+              "zh": "推论；思考",
+              "eg": "She tried to reason with the angry customer to settle the issue."
+            },
+            {
+              "opt": "4",
+              "word": "believe",
+              "zh": "相信；认为",
+              "eg": "Many scientists believe that life exists on other planets."
+            }
+          ]
+        },
+        "17": {
+          "note": "近义词替换 — 潜在地/可能地",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "possibly",
+              "zh": "可能地",
+              "eg": "This heavy rain could possibly delay our weekend football match."
+            },
+            {
+              "opt": "2",
+              "word": "certainly",
+              "zh": "无疑地；肯定地",
+              "eg": "Working hard will certainly improve your final examination scores."
+            },
+            {
+              "opt": "3",
+              "word": "apparently",
+              "zh": "显然地；表面上",
+              "eg": "Apparently, the store is closed today due to a sudden power outage."
+            },
+            {
+              "opt": "4",
+              "word": "figuratively",
+              "zh": "比喻地",
+              "eg": "He was speaking figuratively when he said he died of laughter."
+            }
+          ]
+        },
+        "18": {
+          "note": "近义词替换 — 汇编/搜集整理",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "collates",
+              "zh": "核对；整理；汇编",
+              "eg": "The software automatically collates all student data into a single sheet."
+            },
+            {
+              "opt": "2",
+              "word": "connects",
+              "zh": "连接",
+              "eg": "The local bridge connects the small village to the main highway."
+            },
+            {
+              "opt": "3",
+              "word": "constructs",
+              "zh": "建造；构建",
+              "eg": "The engineer constructs detailed models before building houses."
+            },
+            {
+              "opt": "4",
+              "word": "concentrates",
+              "zh": "集中；全神贯注",
+              "eg": "She concentrates on her homework to avoid making spelling errors."
+            }
+          ]
+        },
+        "19": {
+          "note": "近义词替换 — 专门知识/技能",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "talent",
+              "zh": "天赋；才能",
+              "eg": "The young girl showed an amazing talent for playing the violin."
+            },
+            {
+              "opt": "2",
+              "word": "reputation",
+              "zh": "名声；声誉",
+              "eg": "The restaurant has a great reputation for serving fresh seafood."
+            },
+            {
+              "opt": "3",
+              "word": "knowledge",
+              "zh": "知识；专门技能",
+              "eg": "His medical knowledge helped him save the injured man on the road."
+            },
+            {
+              "opt": "4",
+              "word": "accomplishment",
+              "zh": "成就；功绩",
+              "eg": "Finishing the marathon was a major personal accomplishment for her."
+            }
+          ]
+        },
+        "20": {
+          "note": "近义词替换 — 导航/驾驭行驶",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "muddle",
+              "zh": "胡乱应对；弄糟",
+              "eg": "Without a clear map, we had to muddle through the dense forest."
+            },
+            {
+              "opt": "2",
+              "word": "meander",
+              "zh": "蜿蜒而行；闲逛",
+              "eg": "The narrow river started to meander through the quiet valley."
+            },
+            {
+              "opt": "3",
+              "word": "manipulate",
+              "zh": "操纵；摆布",
+              "eg": "The magician knows how to manipulate the deck of cards skillfully."
+            },
+            {
+              "opt": "4",
+              "word": "manoeuvre",
+              "zh": "调遣；操纵行驶",
+              "eg": "The experienced driver managed to manoeuvre the truck through the tight alley."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "We know what number to call for an emergency. Many of us [Q16 (assume)] that when we call an emergency number, help will arrive quickly, no matter where we are in the world.",
+          "However in Kenya, there are more than 50 numbers for emergency services. Finding an emergency crew can be a [Q17 (potentially)] lengthy process there. The ambulance may take two to three hours to arrive. To solve this problem, a mobile app called Flare [Q18 (compiles)] all the available information on ambulances onto a single platform. Users of the app can choose the most appropriate services based on where the vehicle is as well as the [Q19 (expertise)] of the crew.",
+          "It also uses real-time traffic data to help ambulances [Q20 (navigate)] through the city's traffic jams. Since the use of the app, ambulance response time has gone down significantly."
+        ],
+        "zh": [
+          "我们都知道遇到紧急情况时该拨打什么电话。我们许多人认为，无论我们身处世界的哪个角落，只要拨打紧急电话，救援就会迅速赶到。",
+          "然而在肯尼亚，有50多个紧急服务电话。在那里，寻找紧急救援人员可能是一个漫长的过程。救护车可能需要两到三个小时才能到达。为了解决这个问题，一款名为 Flare 的手机应用程序将所有关于救护车的可用信息汇编整理到了同一个平台上。该应用程序的用户可以根据车辆所在位置以及车组人员的专业技能来选择最合适的服务。",
+          "它还利用实时交通数据来帮助救护车在城市的交通堵塞中穿行行驶。自从使用该应用程序以来，救护车的响应时间已显著缩短。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "What is the main purpose of the webpage?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to teach people how to feed wildlife",
+            "2": "to encourage people to keep wildlife as pets",
+            "3": "to explain where wildlife can be found in Singapore",
+            "4": "to explain why people should refrain from feeding wildlife"
+          }
+        },
+        "22": {
+          "stem_plain": "The webpage shows images of a variety of wildlife to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "show the fauna of Singapore's parks",
+            "2": "show which animals are the friendliest to visitors",
+            "3": "help readers decide which animals they should avoid",
+            "4": "remind readers that the advice applies to many kinds of wildlife"
+          }
+        },
+        "23": {
+          "stem_plain": "According to the webpage, what may happen if people feed wildlife?\n\nA. Wildlife may help reduce pests such as rats.\nB. Animals may stop searching for their own food.\nC. Wildlife may become unwell from eating food from humans.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A and B",
+            "2": "A and C",
+            "3": "B and C",
+            "4": "A, B and C"
+          }
+        },
+        "24": {
+          "stem_plain": "According to Ms Hazel Yoon's advice in Text 2, visitors should ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "bring suitable food for wild animals",
+            "2": "tend to injured animals themselves",
+            "3": "move closer only if the animals seem friendly",
+            "4": "report any odd animal behaviour to authorities"
+          }
+        },
+        "25": {
+          "stem_plain": "Which idea is found in both Text 1 and Text 2?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Wildlife will attack people if they are injured.",
+            "2": "Throwing rubbish into bins keeps parks clean.",
+            "3": "Wildlife should be allowed to find their own food.",
+            "4": "Visitors should report all wildlife sightings to the authorities."
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "网页的主标题为“Keep Wildlife Wild”（保持野生动物的野性），并给出了请勿喂食的明确指示。左下方的整个板块都在阐述“Why we should not feed wildlife”（为什么我们不应该喂食野生动物）。因此，网页的主要目的是解释为什么人们应该避免喂食野生动物。选择选项4。",
+          "concept": "网页主要目的与主旨判断",
+          "answer": "4"
+        },
+        "22": {
+          "note": "网页中展示了蜥蜴、水獭、猴子、乌龟、松鼠和鸟类等多种不同的野生动物。这种多样性是为了告诉并提醒读者，海报中给出的保护建议（不要喂食、保持距离）适用于“各种各样”的野生动物，而非仅限于某一种。因此选择选项4。",
+          "concept": "插图与视觉元素意图分析",
+          "answer": "4"
+        },
+        "23": {
+          "note": "根据网页左侧信息：喂食会导致“Animals may stop searching for their own food”（说明B正确）；并且“Human food is not suitable... and can make them ill”（说明人类食物会使它们生病，C正确）；而关于老鼠，原文说的是剩饭会“吸引”害虫而非“减少”害虫（A错误）。因此B和C正确，选择选项3。",
+          "concept": "细节辨析与正误判断",
+          "answer": "3"
+        },
+        "24": {
+          "note": "文本2中Ms Hazel Yoon明确建议：“If an animal appears injured or behaves in an unusual manner, report it to the relevant authorities...”（如果动物看起来受伤或行为异常，请向相关部门报告）。“Behaves in an unusual manner”对应选项中的“odd animal behaviour”。因此选择选项4。",
+          "concept": "特定专家建议检索",
+          "answer": "4"
+        },
+        "25": {
+          "note": "文本1（网页）右侧明确倡导“Let wildlife find its own food.”（让野生动物自己寻找食物）；文本2中专家也提到“Wild animals are healthiest when they continue to look for food in their natural environment...”（当野生动物继续在自然环境中寻找食物时是最健康的）。因此，两文共同传达了“应该让野生动物自己觅食”的观点。选择选项3。",
+          "concept": "跨文本共同核心观点提炼",
+          "answer": "3"
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "动词不定式搭配",
+          "note": "“tend to do something”为固定短语，意为“往往/倾向于做某事”。",
+          "answer": "N"
+        },
+        "27": {
+          "concept": "主谓一致与时态",
+          "note": "本句主语核心词是单数名词“calming effect”（由阅读带来的平静效果），表述客观规律应用一般现在时，故系动词用is。",
+          "answer": "L"
+        },
+        "28": {
+          "concept": "介词搭配",
+          "note": "“play an important role in doing something”为固定搭配，意为“在做某事中扮演重要角色/起重要作用”。",
+          "answer": "K"
+        },
+        "29": {
+          "concept": "现在完成时助动词与主谓一致",
+          "note": "主语是复数名词“they”，后接“to remember details”（此处have to意为不得不/需要），或者从整段看，这里是描述一般性动作，但根据所给选项，此处填have与后文to构成“have to”（必须/不得不），用于强调读者需要记住细节。",
+          "answer": "J"
+        },
+        "30": {
+          "concept": "副词修饰",
+          "note": "“even as people grow older”意为“甚至当人们变老时”，用副词even（甚至）来加强语气和强调。",
+          "answer": "E"
+        },
+        "31": {
+          "concept": "介词搭配",
+          "note": "“from different perspectives”为固定搭配，意为“从不同的角度/视角”。",
+          "answer": "G"
+        },
+        "32": {
+          "concept": "指示代词作主语",
+          "note": "“This improves empathy...”意为“这（指代前句提到的看清不同视角的状况）能提高同理心……”，用代词this指代上文提及的一整件事，置于句首需大写。",
+          "answer": "M"
+        },
+        "33": {
+          "concept": "介词搭配/非谓语动词伴随",
+          "note": "“through reading widely”意为“通过广泛的阅读”，用介词through表示途径和手段。",
+          "answer": "D"
+        },
+        "34": {
+          "concept": "不定冠词",
+          "note": "“an extended amount of time”意为“很长一段时间”，extended是以元音音素开头的单词，故使用不定冠词an。",
+          "answer": "B"
+        },
+        "35": {
+          "concept": "连词引导条件/让步/选择状语从句",
+          "note": "“whether through printed books or audiobooks”为固定让步状语从句搭配，意为“无论是通过纸质书还是有声读物”，与后面的or构成“whether ... or ...”结构，置于句首需大写。",
+          "answer": "P"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "are",
+          "D": "by / through",
+          "E": "even",
+          "F": "for",
+          "G": "from",
+          "H": "had",
+          "J": "have",
+          "K": "in",
+          "L": "is",
+          "M": "this",
+          "N": "to",
+          "P": "whether",
+          "Q": "with"
+        },
+        "cloze": [
+          "Reading is often seen as a hobby, but research suggests it may also support better health and a longer life. People who read regularly tend [Q26] experience less stress and enjoy stronger mental well-being. When reading, the brain slows down and is more engaged. The calming effect created from reading, similar to relaxation exercises, [Q27] what helps our body manage stress more effectively.",
+          "Reading also plays an important role [Q28] keeping the brain active. As readers follow a story, they [Q29] to remember details, understand new ideas, and imagine situations. Over time, reading helps the brain stay flexible and sharp, [Q30] as people grow older.",
+          "In addition, reading helps readers understand their emotions and see situations [Q31] different perspectives. [Q32] improves empathy and social understanding. Since loneliness is linked to poor health, staying mentally and emotionally grounded [Q33] reading widely can be beneficial.",
+          "Experts say that one does not need to read for [Q34] extended amount of time for reading to be helpful. Spending a short time each day reading books is enough to support brain health. [Q35] through printed books or audiobooks, reading remains a simple habit that offers lasting benefits. Let's pick up a book and start reading now!"
+        ],
+        "zh": [
+          "阅读通常被视为一种爱好，但研究表明它可能也有助于改善健康并延长寿命。定期阅读的人往往会体验到更少的压力，并享有更健康的心理状态。在阅读时，大脑的活动会变慢，并且会更加投入。阅读所带来的平静效果类似于放松练习，正是它帮助我们的身体更有效地管理压力。",
+          "阅读在保持大脑活跃方面也起着重要作用。当读者跟随故事情节时，他们需要记住细节、理解新观点并想象各种情景。随着时间的推移，即使在人们变老时，阅读也有助于大脑保持灵活和敏锐。",
+          "此外，阅读能帮助读者理解自己的情绪，并从不同的角度看待问题。这能提高同理心和社交理解力。由于孤独与健康状况不佳有关，通过广泛阅读来保持心理和情感上的稳固是有益的。",
+          "专家表示，一个人不需要阅读很长时间就能使阅读发挥益处。每天花一点时间看书就足以维护大脑健康。无论是通过纸质书还是有声读物，阅读都是一个能带来长久益处的简单习惯。让我们现在就拿起一本书开始阅读吧！"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "词形变化 (虚拟语气)",
+          "note": "在 insist that 引导的宾语从句中，谓语动词应用“should + 动词原形”（should可省略），因此将现在分词 helping 改为动词原形 help。",
+          "answer": "help"
+        },
+        "37": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示“无关紧要的”形容词应将 irellevent 纠正为 irrelevant。",
+          "answer": "irrelevant"
+        },
+        "38": {
+          "concept": "指示代词 (数的一致)",
+          "note": "修饰复数名词 recipes，且处于句首表示指代，应将错误印刷或不完整的 s recipes 修正为复数指示代词 These。",
+          "answer": "These"
+        },
+        "39": {
+          "concept": "词形变化 (主谓一致)",
+          "note": "句子主语为 Each ingredient（单数），整句叙述客观事实或说话内容，动词应用一般现在时的单三形式，将 telling 改为 tells。",
+          "answer": "tells"
+        },
+        "40": {
+          "concept": "单词拼写",
+          "note": "拼写错误，副词“不情愿地”应将语音拼写 rilaktantly 纠正为 reluctantly。",
+          "answer": "reluctantly"
+        },
+        "41": {
+          "concept": "单词拼写",
+          "note": "拼写错误，形容词“真正的、真诚的”应将 genuwin 纠正为 genuine。",
+          "answer": "genuine"
+        },
+        "42": {
+          "concept": "单词拼写",
+          "note": "拼写错误，形容词“清淡无味的”应将双写单字 blanned 纠正为 bland。",
+          "answer": "bland"
+        },
+        "43": {
+          "concept": "单词拼写 / 词性转换",
+          "note": "根据上下文语境及残缺单词提示，此处指“感到格外怀旧的”，形容词应纠正为 nostalgic。",
+          "answer": "nostalgic"
+        },
+        "44": {
+          "concept": "连词误用",
+          "note": "语境逻辑错误，此处表示“当莉莉品尝到饺子时，眼泪夺眶而出”，应用时间状语连词 When 代替 Until。",
+          "answer": "When"
+        },
+        "45": {
+          "concept": "词性转换",
+          "note": "定冠词 the 后面应跟名词作宾语，表示“家的温暖”，应将形容词 warm 改为名词形式 warmth。",
+          "answer": "warmth"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Lily dreaded visiting her grandmother's house every Sunday. While her cousins played video games, her grandmother always insisted that Lily [Q36(helping)] in the kitchen, learning traditional recipes that seemed completely [Q37(irellevent)].",
+          "\"Why do I need to learn this old-fashioned cooking?\" Lily complained. Her grandmother smiled patiently. \"[Q38(s)] recipes carry our family's history, dear. Each ingredient [Q39(telling)] a story about our ancestors.\" Lily rolled her eyes and participated rather [Q40(rilaktantly)], following instructions without [Q41(genuwin)] interest.",
+          "Years later, Lily went overseas to study in the university. She felt incredibly homesick. The cafeteria food tasted [Q42(blanned)] compared to her family's meals. Feeling particularly [Q43(nostal)], she decided to recreate her grandmother's dumpling recipe. [Q44(Until)] Lily tasted the dumplings, tears filled her eyes. They carried the [Q45(warm)] of home and love. She immediately called her grandmother. \"Grandma, I finally understand. Thank you for teaching me our family's treasures.\""
+        ],
+        "zh": [
+          "莉莉害怕每个周日去祖母家。当她的堂表兄弟们玩电子游戏时，她的祖母总是坚持让莉莉在厨房里帮忙，学习那些看起来完全无关紧要的传统食谱。",
+          "“为什么我需要学习这种老式烹饪？”莉莉抱怨道。祖母耐心地笑了笑。“孩子，这些食谱承载着我们家族的历史。每一种食材都在讲述一个关于我们祖先的故事。”莉莉翻了个白眼，相当不情愿地参与其中，毫无真正兴趣地遵循着指令。",
+          "几年后，莉莉去国外上大学。她感到无比想家。与家里的饭菜相比，食堂的食物尝起来平淡无味。感到特别怀旧的她，决定重新制作祖母的饺子食谱。当莉莉品尝到饺子时，泪水模糊了她的双眼。它们带来了家的温暖与爱。她立刻给祖母打了电话：“祖母，我终于明白了。谢谢您教给我我们家族的珍宝。”"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "动词词义辨析/过去式",
+          "note": "Singapore faced a serious problem. The country needed/required a bigger airport... 意为这个国家“需要”一个更大的机场，叙述历史事实用过去式。",
+          "answer": "needed"
+        },
+        "47": {
+          "concept": "疑问副词与句意理解",
+          "note": "but where could/should they build it? 意为但是他们“能/应该”在哪里建造它呢？前面是一个疑问词 where，空格填情态动词过去式以匹配整篇过去时语境。",
+          "answer": "could"
+        },
+        "48": {
+          "concept": "介词固定搭配",
+          "note": "the demand for air travel 为固定搭配，意为对航空旅行的“需求”。",
+          "answer": "for"
+        },
+        "49": {
+          "concept": "动词固定短语/过去式",
+          "note": "more people travelled/went by air 意为更多的人乘飞机“旅行/出行”，travel by air 为固定表达，此处用过去式。",
+          "answer": "travelled"
+        },
+        "50": {
+          "concept": "动词固定短语",
+          "note": "struggled to keep up with... 为固定短语，意为“艰难地跟上……/难以应付……”。",
+          "answer": "keep"
+        },
+        "51": {
+          "concept": "定语从句/指示代词",
+          "note": "Such an airport would be located... 意为“这样一座”机场将坐落在远离市中心的地方。用 Such 修饰单数名词短语，起衔接上下文的作用。",
+          "answer": "Such"
+        },
+        "52": {
+          "concept": "介词固定短语",
+          "note": "instead of over residential areas 意为飞机将飞越海面，“而不是”飞越居民区，构成对比转折。",
+          "answer": "instead"
+        },
+        "53": {
+          "concept": "介词固定短语",
+          "note": "In addition to... 为固定搭配，意为“除了……之外（还）”，置于句首需大写首字母 I。",
+          "answer": "addition"
+        },
+        "54": {
+          "concept": "倍数表达法与形容词比较级",
+          "note": "at least five times larger/bigger than... 意为比以前的机场至少“大”五倍，后面有 than，故前方搭配形容词比较级。",
+          "answer": "larger"
+        },
+        "55": {
+          "concept": "动词短语固定搭配",
+          "note": "图片中印有首字母提示 com-。To construct/complete the new airport 意为为了“建造/完工”新机场，此处填 construct 最符合填海造地、清理土地的语境。",
+          "answer": "construct"
+        },
+        "56": {
+          "concept": "连词/介词短语引导让步状语",
+          "note": "Despite being fraught with challenges 意为“尽管”充满了挑战，后接 v-ing 形式，表示让步转折，引导词也可用 In spite of。句首需大写。",
+          "answer": "Despite"
+        },
+        "57": {
+          "concept": "动词短语固定搭配",
+          "note": "The hard work paid off 为固定动词短语，意为“辛勤的付出得到了回报/取得了成功”。",
+          "answer": "off"
+        },
+        "58": {
+          "concept": "动词词义辨析/过去式",
+          "note": "Changi Airport started/began/commenced operating on 1 July 1981 意为樟宜机场于1981年7月1日“开始”运营，后接 v-ing 作宾语，且描述过去事实用过去式。",
+          "answer": "started"
+        },
+        "59": {
+          "concept": "副词固定短语",
+          "note": "Since then 为固定时间状语短语，意为“自那以后”，常与现在完成时（has expanded）连用，句首大写。",
+          "answer": "Since"
+        },
+        "60": {
+          "concept": "被动语态/动词短语固定搭配",
+          "note": "图片中留有残存手写字母 hints (overc...)。can be overcome 意为最困难的挑战也能被“克服/战胜”，情态动词的被动语态用 be + 过去分词形式，overcome 的过去分词仍为 overcome。",
+          "answer": "overcome"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Singapore is a small island with limited land space. In the 1970s, as air travel became more popular worldwide, Singapore faced a serious problem. The country [Q46(needed)] a bigger airport to handle more planes and passengers, but where [Q47(could)] they build it?",
+          "In the late 1970s, the demand [Q48(for)] air travel around the world rose dramatically as more people [Q49(travelled)] by air for business and holidays. As a result, the former Singapore International Airport at Paya Lebar struggled to [Q50(keep)] up with the increase in traffic volume. However, expanding the airport would sacrifice precious land space and create noise pollution over residential areas.",
+          "The alternative solution was to build a completely new airport in Changi. [Q51(Such)] an airport would be located away from the city centre and planes would fly over water [Q52(instead)] of over residential areas. In [Q53(addition)] to the earlier benefits mentioned, there was also the possibility of future expansion by reclaiming land from the sea.",
+          "Building Changi Airport was a mammoth undertaking. The airport was planned to be at least five times [Q54(larger)] than the airport at Paya Lebar. To [Q55(construct)] the new airport, existing land had to be cleared and new land had to be reclaimed from the sea. Given the scale of the project, the construction process encountered countless difficulties. [Q56(Despite)] being fraught with challenges, the project still finished ahead of schedule.",
+          "Moving an entire airport is very complex so the move from Paya Lebar to Changi was carefully planned. The hard work paid [Q57(off)] as the move to Changi Airport happened in just one night with the last flight leaving Paya Lebar in the evening of 30 June 1981.",
+          "Changi Airport [Q58(started)] operating on 1 July 1981 with the arrival of Singapore Airlines flight SQ101 from Kuala Lumpur, marking the beginning of a new era for Singapore aviation. [Q59(Since)] then, Changi Airport has expanded significantly, from one terminal to four, with a fifth terminal expected soon.",
+          "Today, Changi Airport stands as one of the world's most admired airports. This proves that with foresight and perseverance, even the most difficult challenges can be [Q60(overcome)]. These values continue to guide Singapore's aviation industry till today."
+        ],
+        "zh": [
+          "新加坡是一个土地面积有限的小岛。在20世纪70年代，随着航空旅行在世界范围内变得更加普及，新加坡面临着一个严重的问题。这个国家需要一个更大的机场来容纳更多的飞机和乘客，但是他们能在哪里建造它呢？",
+          "在20世纪70年代后期，随着越来越多的人因商务和度假而乘飞机出行，全球对航空旅行的需求急剧上升。因此，位于巴耶利峇的前新加坡国际机场很难跟上交通量的增长。然而，扩建该机场将牺牲宝贵的土地空间，并在居民区上空造成噪音污染。",
+          "另一种解决方案是在樟宜建造一个全新的机场。这样的一座机场将坐落在远离市中心的地方，飞机将在水面上空飞行，而不是在居民区上空。除了前面提到的好处之外，未来还有通过向大海填海造地来进行扩建的可能。",
+          "建造樟宜机场是一项艰巨的任务。该机场计划至少比巴耶利峇机场大五倍。为了建造新机场，必须清理现有的土地，并且必须向大海填海造地。鉴于工程规模庞大，施工过程遇到了无数困难。尽管充满挑战，该项目仍提前完工。",
+          "搬迁整个机场非常复杂，因此从巴耶利峇到樟宜的搬迁经过了周密的计划。辛勤的付出得到了回报，因为向樟宜机场的搬迁在短短一夜之间就完成了，最后一班航班于1981年6月30日傍晚离开巴耶利峇。",
+          "樟宜机场于1981年7月1日开始运营，随着新加坡航空公司从吉隆坡飞来的 SQ101 航班的抵达，标志着新加坡航空新时代的开始。从那时起，樟宜机场大幅扩建，从一个航站楼发展到四个，预计不久后将建成第五个航站楼。",
+          "今天，樟宜机场成为世界上最令人赞赏的机场之一。这证明了凭借远见和毅力，即使是最困难的挑战也能被克服。这些价值观直到今天仍然继续指引着新加坡的航空工业。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "As soon as the dog bit the stranger, its owner apologised profusely.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "No sooner"
+        },
+        "62": {
+          "stem_plain": "The wind blew the papers all over the classroom.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "The papers"
+        },
+        "63": {
+          "stem_plain": "She considered the offer carefully for a few days before accepting it.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "After a few days of"
+        },
+        "64": {
+          "stem_plain": "\"Did you seek Mrs Tan's help in this matter?\" my mother asked me.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "My mother asked me"
+        },
+        "65": {
+          "stem_plain": "You can succeed if you work hard and stay disciplined.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Only by"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "高级倒装句型 — No sooner... than... 结构与时态呼应",
+          "zh": "狗刚一咬那个陌生人，它的主人就立刻真诚地道歉了。",
+          "note": "改写要点：1. No sooner 位于句首时，所在分句必须部分倒装（助动词提前）；2. 动作发生在过去，倒装部分使用过去完成时（had the dog bitten）；3. 固定搭配连接词为 than，其后连接另一个动作，原句的 As soon as 语义已被包含，需省略。",
+          "answer": "No sooner had the dog bitten the stranger than its owner apologised profusely."
+        },
+        "62": {
+          "concept": "语态转换 — 主动语态变被动语态",
+          "zh": "纸张被风刮得满教室都是。",
+          "note": "改写要点：原句的宾语 The papers 提到句首作新主语。谓语动词 blew（一般过去时）转换为对应的复数被动语态形式 were blown，最后由 by 引出施动者 the wind。",
+          "answer": "The papers were blown all over the classroom by the wind."
+        },
+        "63": {
+          "concept": "词性转换 — 副词+动词变形容词+名词 (considered ... carefully -> careful consideration)",
+          "zh": "在对这个提议进行了几天的认真考虑之后，她接受了它。",
+          "note": "改写要点：介词 of 后面需要接名词短语。将原句的动词 considered 及其修饰副词 carefully 转换为名词短语 careful consideration。后续连接 before accepting it，主语 she 移至后半句作为主体：After a few days of careful consideration, she accepted the offer.",
+          "answer": "After a few days of careful consideration, she accepted the offer."
+        },
+        "64": {
+          "concept": "间接引语 — 一般疑问句的转述与时态/人称/指示代词转换",
+          "zh": "我妈妈问我在这件事上是否寻求了陈太太的帮助。",
+          "note": "改写要点：1. 一般疑问句的间接引语由 if 或 whether 引导，语序调整为陈述句语序；2. 一般过去时（did seek）向后推一个时态变为过去完成时（had sought）；3. 人称代词与指示代词转换：you -> I, this -> that。",
+          "answer": "My mother asked me if I had sought Mrs Tan's help in that matter."
+        },
+        "65": {
+          "concept": "部分倒装 — Only + 介词短语置于句首引起的倒装结构",
+          "zh": "只有通过刻苦努力并保持自律，你才能成功。",
+          "note": "改写要点：1. 介词 by 后接动名词短语 working hard and staying disciplined；2. 当 \"Only + 状语\" 置于句首修饰整个句子时，主句必须使用部分倒装语序，将情态动词 can 提到主语 you 的前面：can you succeed。",
+          "answer": "Only by working hard and staying disciplined can you succeed."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "Based on the first paragraph, what tells you that the library is \"seriously old\" (line 4)? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "67": {
+          "stem_plain": "With evidence from lines 7-18, state a difference between Maya's school library and the Seaside Library. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "library_type",
+              "evidence"
+            ],
+            "library_type": {
+              "header": "",
+              "rows": [
+                "Maya's school library",
+                "Seaside Library"
+              ]
+            },
+            "evidence": {
+              "header": "",
+              "rows": [
+                "[Q67a]",
+                "[Q67b]"
+              ]
+            }
+          }
+        },
+        "68": {
+          "stem_plain": "According to Mrs Chen, what made the Seaside Library less popular? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "69": {
+          "stem_plain": "From the fourth paragraph, pick out a three-word phrase that tells us that Mrs Chen was saddened that fewer people visited the Seaside Library nowadays. [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "70": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) one (line 13)",
+                "(b) this (line 17)",
+                "(c) them (line 30)"
+              ]
+            },
+            "true_false": {
+              "header": "What the word refer(s) to",
+              "rows": [
+                "[Q70a]",
+                "[Q70b]",
+                "[Q70c]"
+              ]
+            }
+          }
+        },
+        "71": {
+          "stem_plain": "Based on lines 7-31, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "",
+              "rows": [
+                "(a) Maya had planned to visit the Seaside Library during the school holidays.",
+                "(b) Maya knew what the huge wooden cabinet was for.",
+                "(c) The collection of handwritten letters that Sam found was well protected."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q71a]",
+                "[Q71c]",
+                "[Q71e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q71b]",
+                "[Q71d]",
+                "[Q71f]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "What was the \"magic of holding a real book\" (line 36)? Explain clearly how Maya's experience in the Seaside Library helped her understand that. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "73": {
+          "stem_plain": "Complete the chart below to show the reasons why the Seaside Library was closing. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "Reason 1: [Q73a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "Reason 2: [Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Based on lines 37-43, explain clearly what caused Maya's heart to sink. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "75": {
+          "stem_plain": "Explain clearly why Mrs Chen said, \"Perhaps there's still a future for old places like this\" (lines 42-43). [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "Literal Retrieval",
+          "note": "<ol><li><strong>题型：</strong>原因线索查找题——要求根据首段细节寻找证明图书馆非常古老的物理证据（2分）。</li><li><strong>得分点：</strong>必须指出两个物理状态特征。1分归于<span class='hl-good'>the paint on the bookshelves had flaked away</span>（书架上的油漆剥落）；另1分归于<span class='hl-good'>cobwebs occupied the corners of the ceiling</span>（天花板角落结了蜘蛛网）。</li><li><strong>失分点：</strong>漏掉其中一项或误把萨姆和陈太太说的话作为客观场景证据。</li></ol>",
+          "type": "comprehension",
+          "answer": "The paint on the towering bookshelves had flaked away in places and cobwebs occupied the forgotten corners of the high ceiling."
+        },
+        "67": {
+          "concept": "Comparative Evidence",
+          "note": "<ol><li><strong>题型：</strong>表格对比题——通过指定区域（行7-18）提取两所图书馆的差异化证据（2分）。</li><li><strong>得分点：</strong>可以从两个维度任选其一形成对应。角度一（桌面）：学校图书馆是<span class='hl-good'>clean and smooth tables</span>，海滨图书馆是<span class='hl-good'>wooden tables with countless scratches and stains</span>。角度二（检索工具）：学校使用电脑/屏幕搜索引擎，海滨图书馆没有电脑/使用木柜里的手写卡片目录。</li><li><strong>失分点：</strong>两边表格写的内容没有形成逻辑上的维度对应（如一边写桌子，另一边写电脑）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "67a": "The tables in the school library were clean and smooth.",
+            "67b": "The wooden tables in the Seaside Library bore countless scratches and stains."
+          }
+        },
+        "68": {
+          "concept": "Literal Retrieval",
+          "note": "<ol><li><strong>题型：</strong>直接因果提取题——根据陈太太的话语提取图书馆不受欢迎、去的人变少的原因（1分）。</li><li><strong>得分点：</strong>准确指出<span class='hl-good'>information can be found easily on the internet</span>（人们可以通过互联网轻松找到信息）。</li><li><strong>失分点：</strong>回答过于笼统（如“有了互联网”），没有指出互联网带来的“便捷检索”这一本质。</li></ol>",
+          "type": "comprehension",
+          "answer": "Information can be easily found on the internet nowadays."
+        },
+        "69": {
+          "concept": "Phrase Matching",
+          "note": "<ol><li><strong>题型：</strong>限定字数词组提取题——考查从第四段精准提取代表“忧伤、伤感”的“三个单词”词组（1分）。</li><li><strong>得分点：</strong>必须是精准的三个单词：<span class='hl-good'>eyes grew wistful</span>。</li><li><strong>失分点：</strong>多抄了主语（Mrs Chen's eyes grew wistful）导致字数超限，或者找错神态描写。</li></ol>",
+          "type": "comprehension",
+          "answer": "eyes grew wistful"
+        },
+        "70": {
+          "concept": "Contextual Referencing",
+          "note": "<ol><li><strong>题型：</strong>代词指代题——要求返回原文，将代词精确还原为上下文里的具体名词或动作（3分）。</li><li><strong>(a) one (行 13)：</strong>前文提及 huge wooden cabinet with hundreds of tiny drawers，陈太太滑开其中一个，指代 <span class='hl-good'>one of the tiny drawers</span>。</li><li><strong>(b) this (line 17)：</strong>指代前一句中玛雅尝试想象的找书动作，即 <span class='hl-good'>searching for books drawer by drawer, card by card</span>（一格格一卡卡地找书）。</li><li><strong>(c) them (line 30)：</strong>萨姆不认识他们中的任何一个，结合前文指代的是 <span class='hl-good'>the local residents (during World War II)</span>。</li><li><strong>失分点：</strong>指代不清或范围过宽，例如把 (a) 错写成整个木柜（cabinet）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "70a": "One of the tiny drawers in the huge wooden cabinet",
+            "70b": "Searching for books drawer by drawer, card by card using the card catalogue",
+            "70c": "The local residents who wrote the handwritten letters during World War II"
+          }
+        },
+        "71": {
+          "concept": "True/False with Justification",
+          "note": "<ol><li><strong>题型：</strong>判断正误并说明理由题——考查对文本表述的真实性进行核对及提供精准依据的能力（3分）。</li><li><li><strong>a) 小题：</strong><span class='hl-good'>False</span>。理由：文章第7行明确写道她是“stumbling across this forgotten library”（偶然撞见），说明并非提前计划。</li><li><li><strong>b) 小题：</strong><span class='hl-good'>False</span>。理由：第13行指出她带着“look of confusion”（困惑的神情），需要陈太太向她解释。</li><li><li><strong>c) 小题：</strong><span class='hl-good'>True</span>。理由：第30行明确说明这些战时信件被“carefully preserved in a glass case”（被精心地保存在玻璃柜中）。</li><li><strong>失分点：</strong>判断错误全分皆无；理由句若缺乏针对性（如仅重复陈述句本身）则不给分。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "False",
+            "71b": "She stumbled across the forgotten library while exploring the older part of town rather than planning it.",
+            "71c": "False",
+            "71d": "She had a look of confusion when looking at the cabinet until Mrs Chen explained its purpose to her.",
+            "71e": "True",
+            "71f": "The text states that the letters were carefully preserved in a glass case."
+          }
+        },
+        "72": {
+          "concept": "Text Comprehension / Synthesis",
+          "note": "<ol><li><strong>题型：</strong>概念阐释与经历结合题——要求先解释核心短语的含义，再结合文中具体情节阐述主人公如何体会到这一含义（2分）。</li><li><strong>得分点：</strong>1分归于准确概括出其含义，即<span class='hl-good'>sharing the memories, emotions and traces of the people who held it before</span>（分享前人的记忆与情感）；另1分归于结合玛雅的经历，即她看到<span class='hl-good'>Eleanor's name and handwritten year (1943)</span>并在抚摸字迹时感受到了温暖的紧密联结（felt a warm sense of connection）。</li><li><strong>失分点：</strong>只回答了陈太太对“魔力”的原话解释，没有扣合玛雅在读诗集时的具体情感共鸣经历。</li></ol>",
+          "type": "comprehension",
+          "answer": "The magic means sharing the memories, emotions, and traces of the people who held the book before. Maya understood this when she opened a poetry book, saw Eleanor's looping handwriting from 1943, and felt a warm sense of connection to a real person from the past, which the internet could never provide."
+        },
+        "73": {
+          "concept": "Cause and Effect / Information Extraction",
+          "note": "<ol><li><strong>题型：</strong>结构图表填空题——精准抓取议会决定关闭图书馆的两个并列原因（2分）。</li><li><strong>(a) 小题得分点：</strong>对应行38的 <span class='hl-good'>It was too expensive to maintain</span>（维护成本太高）。</li><li><strong>(b) 小题得分点：</strong>对应行38的 <span class='hl-good'>Not enough people use it</span>（没有足够的人使用它）。</li><li><strong>失分点：</strong>把因果关系颠倒，或者归咎于“因为有了互联网”等间接外部环境因素。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "The council found that the library was too expensive to maintain.",
+            "73b": "There were not enough people using the library."
+          }
+        },
+        "74": {
+          "concept": "Emotion Analysis / Cause Explanation",
+          "note": "<ol><li><strong>题型：</strong>心理状态原因分析题——结合后文深入剖析主人公“心沉下去”的根本原因（2分）。</li><li><strong>得分点：</strong>1分归于指出她听到<span class='hl-good'>the council wanted to close the library</span>（议会下个月将关闭图书馆）；另1分归于指出她害怕<span class='hl-good'>all the treasures/Eleanor's name/wartime letters would disappear</span>，感觉正在失去某些永远无法被替代的珍贵历史见证。</li><li><strong>失分点：</strong>仅照抄“Maya's heart sank”前后的表层句子，未能将“关闭”与“宝藏消失、无法替代”的失落感融合在一起完整表述。</li></ol>",
+          "type": "comprehension",
+          "answer": "Maya's heart sank because she learned that the council wanted to close the library next month, and she was devastated by the thought that all the irreplaceable treasures she had discovered—like Eleanor's name, old maps, and wartime letters—would disappear forever."
+        },
+        "75": {
+          "concept": "Inference / Concluding Intent",
+          "note": "<ol><li><strong>题型：</strong>引言意图推断题——分析人物在特定结尾语境下的心理转变及原因（2分）。</li><li><strong>得分点：</strong>1分归于指出玛雅做出的承诺，即<span class='hl-good'>promised to return the next day and bring their friends along</span>（承诺明天再来并带朋友来）；另1分归于指出这给陈太太带来了希望，认为<span class='hl-good'>more people would use the library and save it from closing</span>（会有更多人使用图书馆，从而使其免于关闭，拥有未来）。</li><li><strong>失分点：</strong>只描述陈太太脸色变亮（face brightened），没有提炼出“玛雅等年轻一代的实际支持行动重新点燃了老地方被激活的希望”这一深层原因。</li></ol>",
+          "type": "comprehension",
+          "answer": "Mrs Chen said this because Maya promised that she and Sam would return the next day and bring their friends along. This action gave Mrs Chen hope that more people would start visiting and using the library again, which could save it from being permanently closed."
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Maya pushed open the heavy wooden door and stepped into the library. The paint",
+          "2": "on the towering bookshelves had flaked away in places, exposing the dark wood beneath.",
+          "3": "Cobwebs occupied the forgotten corners of the high ceiling as golden sunlight streamed",
+          "4": "through the tall windows. \"This place is seriously old,\" whispered her younger brother,",
+          "5": "Sam, his voice echoing in the vast silence. \"Welcome to the Seaside Library,\" Mrs Chen,",
+          "6": "the elderly librarian, smiled.",
+          "7": "Stumbling across this forgotten library while exploring the older part of town during",
+          "8": "the school holidays, Maya could not wait to share her find with Sam. Unlike the clean and",
+          "9": "smooth tables in the school library, the wooden tables here bore countless scratches and",
+          "10": "stains from decades past. There were no computers humming here — just the peaceful",
+          "11": "stillness of a place that had once been well-loved and well-used.",
+          "12": "Maya paused in front of a huge wooden cabinet with hundreds of tiny drawers.",
+          "13": "Looking at Maya's look of confusion, Mrs Chen chuckled. Mrs Chen slid one open and",
+          "14": "pulled out a small handwritten card. \"This is a card catalogue. Each card tells you where",
+          "15": "to find a book on the shelves,\" Mrs Chen explained gently. \"Before computers, this was",
+          "16": "how everyone searched for books — drawer by drawer, card by card.\" Maya tried to imagine",
+          "17": "doing this every single day, instead of simply typing into a search engine on the screen,",
+          "18": "like how she would at her school library.",
+          "19": "\"It's a little empty for a beautiful place like this.\" Maya sighed in disappointment,",
+          "20": "looking around. \"We don't get many visitors these days since information can be found",
+          "21": "easily on the internet.\" Mrs Chen's eyes grew wistful. \"But there's something magical about",
+          "22": "holding a real book. You don't just hold the book, you share the memories, emotions and",
+          "23": "traces of the people who held it before.\"",
+          "24": "Maya smiled politely, unsure of what she meant. She reached for the nearest book,",
+          "25": "a worn poetry collection, and cracked it open. Inside the front cover, someone had written",
+          "26": "in faded ink: Eleanor, 1943. Maya ran her thumb over the looping handwriting and felt a",
+          "27": "warm sense of connection. Whoever Eleanor was, she had held this exact book and read",
+          "28": "these exact words. The internet had never once made Maya feel that.",
+          "29": "Across the room, Sam found a collection of handwritten letters from local residents",
+          "30": "during World War II, carefully preserved in a glass case. He did not know any of them, had",
+          "31": "never heard their names before, and yet every word written by them felt heavy and real.",
+          "32": "As the afternoon wore on, the siblings sat at different corners, turning brittle and",
+          "33": "yellowed pages slowly, each paper giving off a warm, faint smell. Maya found herself",
+          "34": "wondering about the people who had held this same book before her. Had they sat in this",
+          "35": "same quiet room, turning these same pages, feeling the same sense of peace? Maya",
+          "36": "finally understood what Mrs Chen meant earlier — the magic of holding a real book.",
+          "37": "\"The council wants to close this library next month,\" Mrs Chen mentioned. \"They",
+          "38": "say it's too expensive to maintain, and not enough people use it.\" Maya's heart sank. The",
+          "39": "thought of all the treasures she found disappearing — Eleanor's name, the old maps, the",
+          "40": "wartime letters — made her feel like she was losing something that could never be replaced.",
+          "41": "\"We'll be back tomorrow,\" Maya promised. \"And we'll bring our friends too.\" Mrs",
+          "42": "Chen's face brightened with hope. \"That'd be wonderful, dear. Perhaps there's still a future",
+          "43": "for old places like this.\""
+        },
+        "paragraphs": {
+          "1": "玛雅推开沉重的木门，走进了图书馆。高大书架上的油漆有些地方已经剥落，露出了里面深色的木头。高高天花板上被遗忘的角落里结满了蜘蛛网，金色的阳光从高大的窗户中洒进来。“这个地方真的很古老，”她的弟弟萨姆低声说，他的声音在巨大的寂静中回荡。“欢迎来到海滨图书馆，”年长的图书管理员陈太太微笑着说道。",
+          "7": "放学假期间，玛雅在探索小镇老城区时偶然发现了这座被遗忘的图书馆，她迫不及待地想和萨姆分享她的发现。与学校图书馆干净光滑的桌子不同，这里的木桌上布满了过去几十年留下的无数划痕和污渍。这里没有电脑的嗡嗡声——只有一处曾经备受喜爱和广泛使用的地方所特有的宁静。",
+          "12": "玛雅在一个有着数百个小抽屉的巨大木柜前停下脚步。看到玛雅困惑的神情，陈太太咯咯地笑了笑。陈太太滑开其中一个抽屉，拿出一张手写的小卡片。“这是卡片目录。每张卡片都会告诉你在书架的什么地方可以找到书，”陈太太温柔地解释道。“在有电脑之前，大家就是这样找书的——一格一格抽屉、一张一张卡片地找。”玛雅试着想象每天都这样做，而不是像她在学校图书馆那样，只需在屏幕上的搜索引擎中输入即可。",
+          "19": "“对于这样一个美丽的地方来说，这里有点空旷。”玛雅环顾四周，失望地叹了口气。“现在来看书的人不多了，因为信息可以在互联网上轻松找到。”陈太太的眼神变得忧郁。“但捧着一本真正的书有一种奇妙的魔力。你不仅是在看书，你还在分享以前捧过这本书的人的记忆、情感和痕迹。”",
+          "24": "玛雅礼貌地笑了笑，不太明白她的意思。她伸手拿过最靠近的一本书，那是一本破旧的诗集，她将它翻开。在内封里，有人用褪色的墨水写着：埃莉诺，1943年。玛雅用拇指抚摸着那连笔的手写字迹，感受到了一种温暖的连结感。不管埃莉诺是谁，她都曾捧过这完全相同的一本书，读过这完全相同的文字。互联网从未让玛雅有过这样的感受。",
+          "29": "在房间的另一边，萨姆发现了一批二战期间当地居民的手写信件，它们被精心保存在一个玻璃柜里。他一个也不认识，以前也从未听过他们的名字，然而他们写下的每一个字都让他觉得沉重而真实。",
+          "32": "随着下午时光流逝，姐弟俩坐在不同的角落，缓缓翻动着脆弱发黄的书页，每张纸都散发出一种温暖、淡淡的气味。玛雅不由得想知道以前捧过这同一本书的人。他们是否也曾坐在这间安静的房间里，翻动着相同的书页，感受着同样的平静？玛雅终于明白了陈太太之前所说的话——捧着一本真正的书的魔力。",
+          "37": "“议会下个月想关闭这座图书馆，”陈太太提及。“他们说维持运转的费用太高了，而且没有足够的人使用它。”玛雅的心沉了下去。一想到她发现的所有珍宝都会消失——埃莉诺的名字、旧地图、战时信件——就让她觉得仿佛在失去某些永远无法被替代的东西。",
+          "41": "“我们明天还会再来的，”玛雅承诺道。“我们也会带上我们的朋友。”陈太太的面容因希望而亮了起来。“那太好了，亲爱的。也许像这样古老的地方仍然有未来。”"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

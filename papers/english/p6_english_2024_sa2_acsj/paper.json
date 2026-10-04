@@ -1,0 +1,1595 @@
+{
+  "paperid": "p6_english_2024_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "We should be mindful that there is ________ misinformation online.",
+          "options": {
+            "1": "many",
+            "2": "few of",
+            "3": "enough",
+            "4": "plenty of"
+          }
+        },
+        "2": {
+          "stem_plain": "This game is ________ to master than I thought.",
+          "options": {
+            "1": "hard",
+            "2": "hardly",
+            "3": "harder",
+            "4": "hardest"
+          }
+        },
+        "3": {
+          "stem_plain": "________ the glowing reviews this hotel has for its rooms, it is usually empty.",
+          "options": {
+            "1": "Since",
+            "2": "Before",
+            "3": "Despite",
+            "4": "Although"
+          }
+        },
+        "4": {
+          "stem_plain": "Nadia wrote the story we told her that she should write about, ________ she?",
+          "options": {
+            "1": "did",
+            "2": "had",
+            "3": "didn't",
+            "4": "hadn't"
+          }
+        },
+        "5": {
+          "stem_plain": "We always mistake Bobby ________ Bertrand as they both look similar.",
+          "options": {
+            "1": "to",
+            "2": "of",
+            "3": "as",
+            "4": "for"
+          }
+        },
+        "6": {
+          "stem_plain": "Melissa saw Jake ________ some gummies from the container earlier that day.",
+          "options": {
+            "1": "take",
+            "2": "took",
+            "3": "taken",
+            "4": "has taken"
+          }
+        },
+        "7": {
+          "stem_plain": "No sooner had I sat down ________ Ms Toh walked in.",
+          "options": {
+            "1": "and",
+            "2": "than",
+            "3": "then",
+            "4": "when"
+          }
+        },
+        "8": {
+          "stem_plain": "My father yelled at Steve because he ________ the car the previous day.",
+          "options": {
+            "1": "damaged",
+            "2": "has damaged",
+            "3": "had damaged",
+            "4": "had been damaging"
+          }
+        },
+        "9": {
+          "stem_plain": "Ahmad, together with his friends, ________ going for the soccer match this evening.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Had Jenny cut the apples earlier, we ________ lost so much time in preparing the dessert,\" Peter lamented.",
+          "options": {
+            "1": "cannot have",
+            "2": "will not have",
+            "3": "could not have",
+            "4": "would not have"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "量词 — quantifier with uncountable noun",
+          "zh": "我们应该留心：网上有大量不实信息。",
+          "note": "misinformation 不可数；plenty of 可修饰不可数或可数复数；many/few of 需可数名词。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "比较级 — comparative adjective with than",
+          "zh": "这游戏比我想象的更难掌握。",
+          "note": "than 提示比较级，用 harder；hardly 意为“几乎不”；hardest 为最高级需 the。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "介词 — concession preposition",
+          "zh": "尽管这家旅馆的房间好评如潮，它却常常空房。",
+          "note": "Despite + 名词短语表让步；Although 后接从句；Since/Before 表原因或时间，不合句意。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "反意疑问句 — question tag, past simple positive",
+          "zh": "娜迪娅写了我们叫她写的那篇故事，不是吗？",
+          "note": "主句为一般过去时肯定 wrote，附加疑问用 didn't + 主语；不用 had（非过去完成）。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "固定介词 — mistake X for Y",
+          "zh": "我们总把博比错认成贝特朗，因为他们长得很像。",
+          "note": "固定搭配 mistake A for B（把 A 误认为 B）。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "不定式 — bare infinitive after perception verb",
+          "zh": "那天早些时候，梅丽莎看见杰克从容器里拿了一些软糖。",
+          "note": "感官动词 see + 宾语 + 动词原形，表示看到动作全过程。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "固定句型 — No sooner … than",
+          "zh": "我刚坐下，杜老师就走了进来。",
+          "note": "固定搭配 No sooner … than …；勿用 then/when。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "过去完成时 — past perfect for an earlier past event",
+          "zh": "我父亲骂了史蒂夫，因为他前一天弄坏了车。",
+          "note": "damage 发生在 yelled 之前，用过去完成时 had damaged。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "主谓一致 — subject-verb agreement, parenthetical phrase",
+          "zh": "艾哈迈德和他的朋友今晚要去看足球赛。",
+          "note": "together with 不改变主语单复数，真正主语 Ahmad 为单数；this evening 用现在进行表已安排行程。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "虚拟语气 — third conditional inversion",
+          "zh": "“要是珍妮早点切苹果，我们就不会在准备甜点上浪费那么多时间了。”彼得叹道。",
+          "note": "Had + 主语 + V3 为第三条件句倒装，主句用 would (not) have + V3。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "My mother has often encouraged me to work hard so as to ________ in life's journey.",
+          "options": {
+            "1": "get out",
+            "2": "get ahead",
+            "3": "get across",
+            "4": "get through"
+          }
+        },
+        "12": {
+          "stem_plain": "Daryl's fever has ________ so doctors expect that he will be able to return to school next week.",
+          "options": {
+            "1": "declined",
+            "2": "vanished",
+            "3": "subsided",
+            "4": "departed"
+          }
+        },
+        "13": {
+          "stem_plain": "While the students enjoyed being on a treasure hunt, many were ________ by a very obscure clue.",
+          "options": {
+            "1": "blocked",
+            "2": "stumped",
+            "3": "defeated",
+            "4": "obstructed"
+          }
+        },
+        "14": {
+          "stem_plain": "When the football match was over, the supporters of the winning team were ________ in euphoria, not realising that it had started to rain.",
+          "options": {
+            "1": "raving",
+            "2": "roving",
+            "3": "rebelling",
+            "4": "revelling"
+          }
+        },
+        "15": {
+          "stem_plain": "The student leader struggled to keep his ________ after observing his younger schoolmates deliberately littering the canteen.",
+          "options": {
+            "1": "aplomb",
+            "2": "assurance",
+            "3": "composure",
+            "4": "compassion"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "母亲常勉励我努力，以便在人生路上出人头地。",
+          "note": "应选（2）'get ahead'：题干语境最宜表达'出人头地；取得成功'。'get out'义为'（消息）传出去；离开'：与题干逻辑及英语解析中的辨析不一致。'get across'义为'传达；让人理解'：与题干逻辑及英语解析中的辨析不一致。'get through'义为'通过；接通（电话）；完成'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — get ahead（出人头地；取得成功）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "get out",
+              "zh": "（消息）传出去；离开",
+              "eg": "News of the surprise party will <strong>get out</strong> if you tell anyone in the class."
+            },
+            {
+              "opt": "2",
+              "word": "get ahead",
+              "zh": "出人头地；取得成功",
+              "eg": "To <strong>get ahead</strong> in life, you must be willing to work harder than your peers."
+            },
+            {
+              "opt": "3",
+              "word": "get across",
+              "zh": "传达；让人理解",
+              "eg": "The teacher used a diagram to <strong>get across</strong> the difficult science concept to the class."
+            },
+            {
+              "opt": "4",
+              "word": "get through",
+              "zh": "通过；接通（电话）；完成",
+              "eg": "I tried to call her all morning but I could not <strong>get through</strong> because the line was busy."
+            }
+          ]
+        },
+        "12": {
+          "zh": "达瑞尔烧退了，医生预计他下周能返校。",
+          "note": "应选（3）'subsided'：题干语境最宜表达'（情绪、风浪、疼痛）平息；减弱'。'declined'义为'下降；婉拒'：与题干逻辑及英语解析中的辨析不一致。'vanished'义为'消失；不见'：释义侧重与空格处逻辑不符。'departed'义为'离开；启程'：语义或语域与语境不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — subsided（（情绪、风浪、疼痛）平息；减弱）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "declined",
+              "zh": "下降；婉拒",
+              "eg": "Sales of the toy <strong>declined</strong> sharply after a safer model appeared on the market."
+            },
+            {
+              "opt": "2",
+              "word": "vanished",
+              "zh": "消失；不见",
+              "eg": "The magician waved his cloak and the white rabbit <strong>vanished</strong> in front of our eyes."
+            },
+            {
+              "opt": "3",
+              "word": "subsided",
+              "zh": "（情绪、风浪、疼痛）平息；减弱",
+              "eg": "Once the painkiller took effect, the throbbing in his ankle slowly <strong>subsided</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "departed",
+              "zh": "离开；启程",
+              "eg": "The last train to Tampines had already <strong>departed</strong> by the time we reached the platform."
+            }
+          ]
+        },
+        "13": {
+          "zh": "寻宝时线索晦涩，许多同学被难住了。",
+          "note": "应选（2）'stumped'：题干语境最宜表达'（被难题）难倒；困惑'。'blocked'义为'被堵住；阻塞'：与题干语境或搭配要求不一致。'defeated'义为'击败；战胜'：语义暗示与题干要求不一致。'obstructed'义为'阻碍；妨碍（视线／通道）'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — stumped（（被难题）难倒；困惑）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "blocked",
+              "zh": "被堵住；阻塞",
+              "eg": "Fallen leaves <strong>blocked</strong> the drain, so rainwater collected on the school field."
+            },
+            {
+              "opt": "2",
+              "word": "stumped",
+              "zh": "（被难题）难倒；困惑",
+              "eg": "The tricky riddle <strong>stumped</strong> even our cleverest classmate for almost an hour."
+            },
+            {
+              "opt": "3",
+              "word": "defeated",
+              "zh": "击败；战胜",
+              "eg": "Our team narrowly <strong>defeated</strong> the defending champions in the basketball final."
+            },
+            {
+              "opt": "4",
+              "word": "obstructed",
+              "zh": "阻碍；妨碍（视线／通道）",
+              "eg": "A tall lorry <strong>obstructed</strong> the driver's view of the traffic lights at the junction."
+            }
+          ]
+        },
+        "14": {
+          "zh": "获胜球迷沉浸在狂喜中，竟未察觉下雨。",
+          "note": "应选（4）'revelling'：题干语境最宜表达'尽情享受；狂欢'。'raving'义为'胡言乱语；极力称赞'：与题干逻辑及英语解析中的辨析不一致。'roving'义为'四处游荡；漫游'：与题干逻辑及英语解析中的辨析不一致。'rebelling'义为'反抗；造反'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — revelling（尽情享受；狂欢）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "raving",
+              "zh": "胡言乱语；极力称赞",
+              "eg": "All the food critics were <strong>raving</strong> about the new ramen stall in the food court."
+            },
+            {
+              "opt": "2",
+              "word": "roving",
+              "zh": "四处游荡；漫游",
+              "eg": "A pack of <strong>roving</strong> stray dogs was spotted near the construction site last night."
+            },
+            {
+              "opt": "3",
+              "word": "rebelling",
+              "zh": "反抗；造反",
+              "eg": "The teenagers were <strong>rebelling</strong> against the strict bedtime rule set by their parents."
+            },
+            {
+              "opt": "4",
+              "word": "revelling",
+              "zh": "尽情享受；狂欢",
+              "eg": "The winning team was <strong>revelling</strong> in their victory long after the final whistle blew."
+            }
+          ]
+        },
+        "15": {
+          "zh": "学生领袖目睹学弟妹乱扔垃圾，仍努力保持镇定。",
+          "note": "应选（3）'composure'：题干语境最宜表达'镇定；沉着'。'aplomb'义为'（在压力下）从容自信；镇定'：与题干逻辑及英语解析中的辨析不一致。'assurance'义为'保证；自信'：与题干逻辑及英语解析中的辨析不一致。'compassion'义为'同情；怜悯'：语义方向与句意相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — composure（镇定；沉着）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "aplomb",
+              "zh": "（在压力下）从容自信；镇定",
+              "eg": "She handled the tough interview questions with remarkable <strong>aplomb</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "assurance",
+              "zh": "保证；自信",
+              "eg": "He spoke with such <strong>assurance</strong> that everyone believed his version of the story."
+            },
+            {
+              "opt": "3",
+              "word": "composure",
+              "zh": "镇定；沉着",
+              "eg": "Even when the fire alarm rang, the teacher maintained her <strong>composure</strong> and led us out calmly."
+            },
+            {
+              "opt": "4",
+              "word": "compassion",
+              "zh": "同情；怜悯",
+              "eg": "She showed great <strong>compassion</strong> by giving her lunch to the hungry stray cat."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "concentration",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "focus",
+            "2": "attention",
+            "3": "consideration",
+            "4": "contemplation"
+          }
+        },
+        "17": {
+          "stem_plain": "out of place",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "unusual",
+            "2": "improper",
+            "3": "unsuitable",
+            "4": "inappropriate"
+          }
+        },
+        "18": {
+          "stem_plain": "characteristics",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "facets",
+            "2": "customs",
+            "3": "features",
+            "4": "mannerisms"
+          }
+        },
+        "19": {
+          "stem_plain": "catering for",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "coaching",
+            "2": "tailoring to",
+            "3": "pandering to",
+            "4": "accommodating"
+          }
+        },
+        "20": {
+          "stem_plain": "underprivileged",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "poor",
+            "2": "pathetic",
+            "3": "destitute",
+            "4": "disadvantaged"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Before classes begin, the corridors of Itsung's Women High school are filled with the sounds of cheerful chatter and lively greetings. Inside the classrooms, heads are bowed in [Q16 (concentration)] and hands are busy copying notes off the blackboard.",
+          "This is a scenario not [Q17 (out of place)] in a normal school, but what stands out are the telltale heads of silver hair and tight curls — [Q18 (characteristics)] associated with South Korean middle-aged aunties and grannies.",
+          "At this specific school, almost ninety percent of the students are in their seventies and eighties; [Q19 (catering for)] mature women who did not manage to receive or complete their education when they were younger. Their aim is to provide literacy and lifelong education to the educationally [Q20 (underprivileged)]. This is due to the fact that South Korea is among the world's fastest ageing societies, with almost twenty percent of their population aged 65 and above."
+        ],
+        "zh": [
+          "上课前，Itsung's Women High School 的走廊里充满欢快的交谈和热闹的问候。教室里，学生们低头专注，忙着把黑板上的笔记抄下来。",
+          "这在普通学校里并不稀奇，但显眼的是那些银发和紧卷发——这些是与韩国中年阿姨和奶奶相关的典型特征。",
+          "在这所特别的学校，近九成学生都已七八十岁；学校为年轻时未能接受或完成教育的成熟女性而设，旨在为缺乏教育机会的人提供识字和终身教育。这是因为 South Korea 是世界上老龄化最快的社会之一，近百分之二十的人口年龄在65岁及以上。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — concentration（专注）",
+          "note": "应选（1）'focus'：短文划线的 <em>concentration</em> 在此语境下与此义最接近。'attention'：义为'注意力'，与短文语境或搭配要求不一致。'consideration'：义为'考虑；体谅'，与短文语境或搭配要求不一致。'contemplation'：义为'沉思'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "教室里，学生们低头专注，忙着把黑板上的笔记抄下来。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "focus",
+              "zh": "专注",
+              "eg": "She needs silence to <strong>focus</strong> on her homework."
+            },
+            {
+              "opt": "2",
+              "word": "attention",
+              "zh": "注意力",
+              "eg": "Pay close <strong>attention</strong> to the safety briefing."
+            },
+            {
+              "opt": "3",
+              "word": "consideration",
+              "zh": "考虑；体谅",
+              "eg": "Thank you for your kind <strong>consideration</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "contemplation",
+              "zh": "沉思",
+              "eg": "She sat in quiet <strong>contemplation</strong> by the window."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — out of place（不寻常的）",
+          "note": "应选（1）'unusual'：短文划线的 <em>out of place</em> 在此语境下与此义最接近。'improper'：义为'不适当的'，与短文语境或搭配要求不一致。'unsuitable'：义为'不合适的'，与短文语境或搭配要求不一致。'inappropriate'：义为'不恰当的'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这在普通学校里并不稀奇，但显眼的是那些银发和紧卷发——这些是与韩国中年阿姨和奶奶相关的典型特征。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unusual",
+              "zh": "不寻常的",
+              "eg": "It is <strong>unusual</strong> to see snow here."
+            },
+            {
+              "opt": "2",
+              "word": "improper",
+              "zh": "不适当的",
+              "eg": "Wearing slippers to the ceremony would be <strong>improper</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "unsuitable",
+              "zh": "不合适的",
+              "eg": "The film is <strong>unsuitable</strong> for young children."
+            },
+            {
+              "opt": "4",
+              "word": "inappropriate",
+              "zh": "不恰当的",
+              "eg": "His joke was completely <strong>inappropriate</strong>."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — characteristics（特征）",
+          "note": "应选（3）'features'：短文划线的 <em>characteristics</em> 在此语境下与此义最接近。'facets'：义为'方面'，与短文语境或搭配要求不一致。'customs'：义为'习俗'，与短文语境或搭配要求不一致。'mannerisms'：义为'习惯动作'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这在普通学校里并不稀奇，但显眼的是那些银发和紧卷发——这些是与韩国中年阿姨和奶奶相关的典型特征。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "facets",
+              "zh": "方面",
+              "eg": "The problem has many <strong>facets</strong> to consider."
+            },
+            {
+              "opt": "2",
+              "word": "customs",
+              "zh": "习俗",
+              "eg": "Respect local <strong>customs</strong> when travelling abroad."
+            },
+            {
+              "opt": "3",
+              "word": "features",
+              "zh": "特征",
+              "eg": "The phone has several useful <strong>features</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "mannerisms",
+              "zh": "习惯动作",
+              "eg": "His nervous <strong>mannerisms</strong> revealed his anxiety."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — catering for（针对……定制）",
+          "note": "应选（2）'tailoring to'：短文划线的 <em>catering for</em> 在此语境下与此义最接近。'coaching'：义为'辅导；训练'，与短文语境或搭配要求不一致。'pandering to'：义为'迎合'，与短文语境或搭配要求不一致。'accommodating'：义为' accommodating'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "在这所特别的学校，近九成学生都已七八十岁；学校针对年轻时未能接受或完成教育的成熟女性而设。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "coaching",
+              "zh": "辅导；训练",
+              "eg": "She is <strong>coaching</strong> the junior netball team."
+            },
+            {
+              "opt": "2",
+              "word": "tailoring to",
+              "zh": "针对……定制",
+              "eg": "Lessons are <strong>tailoring to</strong> each pupil's level."
+            },
+            {
+              "opt": "3",
+              "word": "pandering to",
+              "zh": "迎合",
+              "eg": "Ads should not be <strong>pandering to</strong> every whim."
+            },
+            {
+              "opt": "4",
+              "word": "accommodating",
+              "zh": " accommodating",
+              "eg": "The staff were very <strong>accommodating</strong> to our requests."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — underprivileged（弱势的）",
+          "note": "应选（4）'disadvantaged'：短文划线的 <em>underprivileged</em> 在此语境下与此义最接近。'poor'：义为'差的；不足的'，与短文语境或搭配要求不一致。'pathetic'：义为'可怜的；差劲的'，与短文语境或搭配要求不一致。'destitute'：义为'赤贫的'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "他们的目标是为在受教育方面处于弱势的人提供识字和终身教育。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "poor",
+              "zh": "差的；不足的",
+              "eg": "With <strong>poor</strong> visibility, drivers switched on their fog lamps."
+            },
+            {
+              "opt": "2",
+              "word": "pathetic",
+              "zh": "可怜的；差劲的",
+              "eg": "That excuse sounds <strong>pathetic</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "destitute",
+              "zh": "赤贫的",
+              "eg": "The flood left many families <strong>destitute</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "disadvantaged",
+              "zh": "弱势的",
+              "eg": "The fund supports educationally <strong>disadvantaged</strong> children."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "What does the word \"Troublemakers\" in the title refer to?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "humans",
+            "2": "head lice",
+            "3": "parasites",
+            "4": "infestations"
+          }
+        },
+        "22": {
+          "stem_plain": "This article is an extract from ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "a daily newspaper",
+            "2": "a medical journal on Head Lice",
+            "3": "a magazine that advises parents on children",
+            "4": "a school magazine for secondary school students"
+          }
+        },
+        "23": {
+          "stem_plain": "Based on the section \"What are head lice?\", which of the following is not true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The nits are found on hair near the scalp.",
+            "2": "The eggs take about seven days to hatch.",
+            "3": "The nymphs shed their skin only once in their life.",
+            "4": "The adult lice are difficult to spot because they are tiny."
+          }
+        },
+        "24": {
+          "stem_plain": "Jason realises he has head lice. He most probably got it by ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "having poor personal hygiene",
+            "2": "wearing his dirty cap all the time",
+            "3": "attending a school with poor cleanliness",
+            "4": "being in close contact with an infected person"
+          }
+        },
+        "25": {
+          "stem_plain": "A person who has head lice would ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "feel itchy only behind the ears",
+            "2": "feel itchy right after an infection",
+            "3": "start feeling itchy due to the saliva of lice",
+            "4": "stop feeling itchy once the lice are removed"
+          }
+        },
+        "26": {
+          "stem_plain": "According to the article, which of the following statements is most likely true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Head lice only move by jumping.",
+            "2": "One should see the doctor at the onset of an infection.",
+            "3": "Head lice will not cause an infected person to have fever.",
+            "4": "Expose one's hair to bright light in order to get rid of head lice."
+          }
+        },
+        "27": {
+          "stem_plain": "Which of the following is not a reason hair conditioner is used during the treatment?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to kill the head lice",
+            "2": "to make the hair smoother",
+            "3": "to stop the head lice from moving",
+            "4": "to make it easier for the head lice to be removed"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of the article?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to uncover the myths of head lice",
+            "2": "to highlight the treatment for head lice",
+            "3": "to provide information about head lice",
+            "4": "to educate on the life cycle of head lice"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "标题 — title interpretation（标题理解）",
+          "note": "The article is about head lice; the title's <em>Tiny Troublemakers</em> = <span class=\"hl-good\">head lice</span>. <span class=\"hl-bad\">parasites</span> is a category but the article specifically discusses head lice (a type of parasite); <span class=\"hl-bad\">humans / infestations</span> are the victims and the event, not the troublemakers.",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "出处 — source identification（信息来源）",
+          "note": "The text says it is from <em>a magazine, Healthy Children</em>, written for caregivers. <span class=\"hl-good\">a magazine that advises parents on children</span> matches both <em>magazine</em> and the audience. <span class=\"hl-bad\">a daily newspaper</span> / <span class=\"hl-bad\">medical journal</span> / <span class=\"hl-bad\">school magazine for secondary school students</span> contradict the source line.",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "细节 — detail check NOT-true（找出错误项）",
+          "note": "The text says nymphs go through <em>three successive growth spurts</em> and <em>moult</em> during these spurts — i.e. they shed more than once. Statement (3) is therefore false. The other three statements (eggs near scalp, eggs hatch in about a week, adult lice are difficult to spot because they are tiny) all match the text.",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "应用 — Application — how lice spread（图文应用）",
+          "note": "The article gives two ways head lice spread: direct head-to-head contact, and sharing personal items. <span class=\"hl-good\">close contact with an infected person</span> matches the first. The article explicitly says personal hygiene/cleanliness has nothing to do with getting head lice, so (1), (2) and (3) are wrong.",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "推理 — symptom causation（症状成因）",
+          "note": "Itching is caused by sensitivity to <em>the saliva of head lice</em> — option (3) matches. <span class=\"hl-bad\">(1) only behind the ears</span> ignores the neck base; <span class=\"hl-bad\">(2) right after</span> contradicts <em>four to six weeks following infestation</em>; <span class=\"hl-bad\">(4) stop feeling itchy once removed</span> contradicts <em>itching can persist after lice are eliminated</em>.",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "交叉信息 — cross-reference, myths section（段落对应）",
+          "note": "The myths table directly states fever is a myth and that head lice do not cause fever → (3). <span class=\"hl-bad\">(1)</span> contradicts <em>they are crawling insects</em>; <span class=\"hl-bad\">(2)</span> contradicts <em>no need to consult a doctor as the remedy is quite simple</em>; <span class=\"hl-bad\">(4)</span> bright light is for inspection, not treatment.",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "细节 — conditioner purpose NOT-true（找出错误项）",
+          "note": "The text says hair conditioner <em>temporarily immobilises the head lice</em> and helps with combing — it does not kill them. So <span class=\"hl-good\">(1)</span> is the option that is NOT a reason. (2) smoother hair, (3) immobilising lice and (4) easier removal are all reasons mentioned.",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "主旨 — main purpose（主要目的）",
+          "note": "The article spans what lice are, how they spread, symptoms, myths, and treatment — overall a general informational piece → <span class=\"hl-good\">to provide information about head lice</span>. The other options describe individual sub-sections, not the whole article's purpose.",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "as",
+          "D": "for",
+          "G": "of",
+          "K": "through",
+          "N": "what",
+          "B": "but",
+          "E": "from",
+          "H": "on",
+          "L": "was",
+          "P": "where",
+          "C": "by",
+          "F": "not",
+          "J": "since",
+          "M": "were",
+          "Q": "with"
+        },
+        "cloze": [
+          "Imagine having to walk barefoot in the scorching heat with nothing to protect your feet from the fiery concrete. Shocking, isn't it? I am Sia Godika, a sixteen year-old [Q29] the motto — donate a sole, save a soul!",
+          "When I was thirteen, an incident left a mark [Q30] my heart that pushed me to act on my feelings [Q31] compassion for others. There was a construction site near my house [Q32] I noticed that the workers were working barefoot. Their feet were extremely dirty and cracked and some were also wounded due to the dire working conditions. [Q33] broke my heart was that many of them were children. The image of bleeding feet has been at the back of my mind ever [Q34] .",
+          "Upon research, I found out that these people without shoes were [Q35] only exposed to wounds but also countless diseases, allergies and infections caused [Q36] overexposed feet. I was horrified that millions in my country had no foot cover while 350 million pairs of shoes [Q37] being discarded annually. I knew I had to do something about it, so I founded <em>Sole Warriors</em>, with a mission to provide foot cover [Q38] refurbished shoes. I started encouraging people to donate shoes and received a good response. At our first distribution drive, we helped 700 people and there has been no stopping since then."
+        ],
+        "zh": [
+          "想象一下，要赤脚在炎热中行走，脚下什么也没有，挡不住滚烫的水泥地。 很震撼，对吧？ 我是十六岁的 Sia Godika，我的座右铭是——捐一双鞋底，救一个灵魂！",
+          "十三岁时，一件事在我心中留下印记，促使我将对他人关怀的感受付诸行动。 我家附近有一处建筑工地，我注意到工人们都赤脚干活。 他们的脚极其肮脏、开裂，有些还因恶劣工作条件而受伤。 令我心碎的是，其中许多还是孩子。 流血双脚的画面一直萦绕在我脑海。",
+          "经查阅资料，我发现这些无鞋者不仅容易受伤，还会因双脚长期暴露而患上无数疾病、过敏和感染。 我震惊于我国数百万人没有鞋穿，而每年却有三亿五千万双鞋被丢弃。 我知道必须做点什么，于是创立了“鞋底战士”，使命是用翻新鞋为双脚提供保护。 我开始鼓励人们捐鞋，反响良好。 在第一次发放活动中，我们帮助了700人，此后便一发不可收拾。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "形容词 + with (description)",
+          "note": "Sia Godika, a sixteen year-old with the motto — donate a = 结合句意选 with。",
+          "answer": "Q — with"
+        },
+        "30": {
+          "concept": "介词 — on",
+          "note": "an incident left a mark on my heart that pushed me = 看前后搭配，选 on。",
+          "answer": "H — on"
+        },
+        "31": {
+          "concept": "名词 + of (feelings of compassion)",
+          "note": "结合句意选 of。",
+          "answer": "G — of"
+        },
+        "32": {
+          "concept": "关系/连接词 — where",
+          "note": "construction site near my house where I noticed that the workers = 定语/名词性从句 → where。",
+          "answer": "P — where"
+        },
+        "33": {
+          "concept": "名词",
+          "note": "what broke my heart was that = 结合句意选 what。",
+          "answer": "N — what"
+        },
+        "34": {
+          "concept": "原因 — since",
+          "note": "back of my mind ever since . = 结合句意选 since。",
+          "answer": "J — since"
+        },
+        "35": {
+          "concept": "关系词 — not only … but also",
+          "note": "these people without shoes were not only exposed to wounds but = 定语/名词性从句 → not。",
+          "answer": "F — not"
+        },
+        "36": {
+          "concept": "介词 — by",
+          "note": "看前后搭配，选 by。",
+          "answer": "C — by"
+        },
+        "37": {
+          "concept": "主谓 — 时态/一致",
+          "note": "350 million pairs of shoes were being discarded annually. = 主谓一致 → were。",
+          "answer": "M — were"
+        },
+        "38": {
+          "concept": "介词 — in the role/form of",
+          "note": "mission to provide foot cover as refurbished shoes. = 看前后搭配，选 as。",
+          "answer": "A — as"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The Dugong is a large marine mammal that belongs to the same mammalian order as manatees. The species are sometimes called 'sea cows' and are thought to have evolved from an [Q39(ansester)] related to elephants.",
+          "Found in the Indo-West Pacific region, Dugongs are [Q40(beleeved)] to have spawned mermaid legends after sailors spotted them at sea and [Q41(mistake)] identified them as half-fish or half-human creatures.",
+          "The Dugong has a streamlined body with a rounded head, [Q42(resembles)] manatees. The dull brownish-grey skin is thick, smooth and [Q43(sparcely)] covered with hair. Its mouth is on the underside, facing downwards, and there are stiff bristles on the upper lip. They pull up the seagrass with their thick, flexible lips and shake the leaves to remove any sand and [Q44(daybree)] before swallowing.",
+          "Dugongs have been [Q45(sight)] mainly in the Johor Straits off the northeastern coast of mainland Singapore. Crocodiles and sharks are the natural predators of Dugongs, but humans are their primary threat. As a result of land [Q46(reclaim)] and water pollution, beds of seagrass, their main source [Q47(in)] food, have been destroyed. As they feed in shallow waters, they are often injured by the propellers of passing motorboats. They also get [Q48(entenghled)] in submerged fishing nets and drown.",
+          "Dugong are hunted for their thick layer of blubber. [Q49(Hunt)] is one of the leading causes of their [Q50(deermice)] . Their meat is said to taste like buffalo meat and their skin can be used to make leather or glue."
+        ],
+        "zh": [
+          "儒艮是一种大型海洋哺乳动物，与海牛同属一个目。这种动物有时被称为“海牛”，据认为是从与大象有关的祖先演化而来。",
+          "儒艮分布于印度—西太平洋地区。据说水手在海上见到儒艮后误认其为半鱼半人的生物，从而催生了美人鱼传说。",
+          "儒艮身体流线型，头部浑圆，外形像海牛。其暗褐灰色皮肤厚而光滑，毛发稀疏。嘴在腹面，朝下，上唇有硬毛。它们用厚而灵活的嘴唇拔起海草，抖落叶片上的沙子和碎屑后再吞下。",
+          "儒艮主要出现在新加坡本岛东北岸外的柔佛海峡。鳄鱼和鲨鱼是儒艮的天敌，但人类才是它们最大的威胁。由于填海和水污染，作为其主要食物来源的海草床遭到破坏。它们在浅水中觅食，常被过往摩托艇的螺旋桨弄伤，也会缠在沉入水中的渔网里溺亡。",
+          "人们猎杀儒艮以获取其厚层脂肪。捕猎是它们数量减少的主要原因之一。据说其肉味似水牛肉，皮可制皮革或胶水。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling — ancestor",
+          "note": "<em>ansester</em> is misspelt; the correct spelling is <span class=\"hl-good\">ancestor</span> (a person/animal from whom one is descended).",
+          "answer": "ancestor"
+        },
+        "40": {
+          "concept": "Spelling — believed (i before e)",
+          "note": "<em>beleeved</em> is misspelt. Apply the rule <em>i before e (except after c)</em>: the correct form is <span class=\"hl-good\">believed</span>.",
+          "answer": "believed"
+        },
+        "41": {
+          "concept": "Word form — adverb modifying a verb",
+          "note": "<em>and <span class=\"hl-bad\">mistake</span> identified</em> needs an adverb to modify <em>identified</em>: <span class=\"hl-good\">mistakenly</span> (= by mistake).",
+          "answer": "mistakenly"
+        },
+        "42": {
+          "concept": "Participle phrase modifying a noun",
+          "note": "After a comma, the phrase modifies <em>The Dugong … rounded head</em>: use the present-participle form <span class=\"hl-good\">resembling</span> manatees, not the finite verb <em>resembles</em>.",
+          "answer": "resembling"
+        },
+        "43": {
+          "concept": "Spelling — sparsely",
+          "note": "<em>sparcely</em> is misspelt. The correct spelling is <span class=\"hl-good\">sparsely</span> (= thinly, with gaps).",
+          "answer": "sparsely"
+        },
+        "44": {
+          "concept": "Spelling — debris",
+          "note": "<em>daybree</em> is a phonetic mis-spelling. The correct spelling is <span class=\"hl-good\">debris</span> (the silent <em>s</em> at the end is from French).",
+          "answer": "debris"
+        },
+        "45": {
+          "concept": "Past participle in a passive",
+          "note": "<em>have been + V3</em> requires a past participle. <em>sight</em> is the base form; the correct past participle is <span class=\"hl-good\">sighted</span> = seen / spotted.",
+          "answer": "sighted"
+        },
+        "46": {
+          "concept": "Word form — noun after a preposition",
+          "note": "After <em>land</em> (a noun), we need a noun to make a compound noun. <em>reclaim</em> is a verb; the correct noun form is <span class=\"hl-good\">reclamation</span>.",
+          "answer": "reclamation"
+        },
+        "47": {
+          "concept": "Preposition — source of food",
+          "note": "Fixed phrase <em>main source <span class=\"hl-good\">of</span> + N</em>. We say <em>source of food / income / energy</em>, not <em>source in food</em>.",
+          "answer": "of"
+        },
+        "48": {
+          "concept": "Spelling / past participle — entangled",
+          "note": "<em>entenghied</em> is misspelt and the wrong form. The correct form is <span class=\"hl-good\">entangled</span> (= caught and wrapped up in something).",
+          "answer": "entangled"
+        },
+        "49": {
+          "concept": "Gerund as subject of a sentence",
+          "note": "The subject of <em>is one of the leading causes…</em> needs to be a noun or gerund. <em>Hunt</em> is a verb; the gerund <span class=\"hl-good\">Hunting</span> = the activity of hunting fits as the subject.",
+          "answer": "Hunting"
+        },
+        "50": {
+          "concept": "Word choice — demise",
+          "note": "<em>deermice</em> is a phonetic mis-spelling. The intended word is <span class=\"hl-good\">demise</span> (= death / end), which fits <em>leading causes of their demise</em>.",
+          "answer": "demise"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The sound of clattering dishes, a sizzling grill and the blast of a fiery wok furnace. Some sounds are enough to make your mouth [Q51] . This assault on the senses is enough to make any person go [Q52] in the knees. Welcome to Singapore's community dining rooms where a nation of foodies come [Q53] to share in a national pastime. With a wide variety of stalls under one [Q54], each hawker boasts their own family recipe perfected over generations.",
+          "Dating as far [Q55] as the 1900s, hawker culture in Singapore [Q56] from the early migrant population. Their makeshift [Q57] were used to sell quick, affordable meals on street pavements. Their main advertisement? The lip-smacking aromas of delicacies being cooked and eaten on the [Q58] by hungry passers-by.",
+          "Fast-forward a couple of centuries and the government has brought hawkers under one roof. Hawker centres have [Q59] become clean and open kitchens. Customers can watch [Q60] their food is being prepared and served. In every [Q61] you look, there's a dizzying array of dishes to choose [Q62]. This has got to be one of the most extensive menus in the world!",
+          "So how do you [Q63] from the hundreds of stalls? The answer is simple. Look for the [Q64] line, of course. When it comes to hawker cuisine, the queue is the best testament to the [Q65] of food sold at the stall. It is evident that hawker centres have shaped the nation's eating habits. The Singaporean culture is family culture, community culture, and hawker culture all rolled into one."
+        ],
+        "zh": [
+          "盘碟叮当、烤架滋滋作响、猛火灶热浪扑面——有些声响就足以让人馋涎欲滴。感官的强烈冲击足以让人两腿发软。欢迎来到新加坡的“社区大饭厅”，各路食客齐聚一堂，共享国民消遣。同一屋檐下摊位林立，每位摊主都亮出代代相传的家传秘方。",
+          "小贩文化可追溯至二十世纪初，源自早期移民。他们用简陋摊位在街边人行道售卖快捷实惠的餐食。最好的广告？莫过于现做现吃、香气四溢的佳肴，引得路人驻足品尝。",
+          "快进两个世纪，政府把小贩集中到同一屋檐下。小贩中心如今已是干净敞亮的开放式厨房，顾客能看见食物如何烹制与上桌。无论你朝哪个方向望去，都有琳琅满目的菜式可挑，堪称世上最丰富的菜单之一。",
+          "面对成百上千个摊位该如何取舍？答案很简单：找队伍最长的那一列。说到小贩美食，排队就是对摊位食物品质的最佳见证。显然，小贩中心塑造了国人的饮食习惯；新加坡文化是家庭、社群与小贩文化融为一体的文化。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "习语搭配",
+          "note": "前文描写餐具碰撞声、烤肉架和猛火灶，刺激食欲。使用固定英文习语 make your mouth water，形容馋得“流口水”。",
+          "answer": "water"
+        },
+        "52": {
+          "concept": "固定习惯搭配",
+          "note": "强烈的感官冲击令人双腿发软。构成固定搭配 go weak in the knees（或是 go weak at the knees），意为“双腿发软/站不稳”。",
+          "answer": "weak"
+        },
+        "53": {
+          "concept": "副词搭配",
+          "note": "指全国各地的食客“聚在一起”共享国民消遣，构成固定副词组合 come together。",
+          "answer": "together"
+        },
+        "54": {
+          "concept": "固定习惯搭配",
+          "note": "用以形容众多摊位同处一个大建筑或场所内，完美契合地道短语 under one roof（在同一屋檐下）。",
+          "answer": "roof"
+        },
+        "55": {
+          "concept": "固定习惯搭配",
+          "note": "表示时间上的追溯，用于引出特定历史起点（追溯到20世纪10年代），构成固定短语 dating as far back as...。",
+          "answer": "back"
+        },
+        "56": {
+          "concept": "主谓一致与动词搭配",
+          "note": "主语为单数名词 hawker culture，根据后文 from the early migrant population，此处指小贩文化“起源于”早期移民。由于叙述历史背景，谓语动词采用过去时形式 originated 或 stemmed（构成 stemmed from）。",
+          "answer": "originated/stemmed"
+        },
+        "57": {
+          "concept": "语境名词辨析",
+          "note": "修饰复数名词。形容早期由街头小贩在人行道上临时搭建而成的“摊位”或“手推车”，填入复数名词 stalls / carts / vehicles 呼应后文。",
+          "answer": "stalls/carts/vehicles"
+        },
+        "58": {
+          "concept": "固定习惯搭配",
+          "note": "与前面的介词 on 完美组合，构成高频常考地道短语 on the spot，表示食物当场烹饪并在“现场”直接被饥饿的行人享用。",
+          "answer": "spot"
+        },
+        "59": {
+          "concept": "时间副词语意承接",
+          "note": "位于现在完成时结构 have... become 之间。与上文的过去历史进行快进对比，指代小贩中心“如今”已经变为了干净敞亮的厨房，故填时间副词 now。",
+          "answer": "now"
+        },
+        "60": {
+          "concept": "从句引导词",
+          "note": "作为时间或方式连词，引导宾语从句。表示顾客可以亲眼目睹食物“在被烹制时”或“被烹制的过程”，用 关联词 as / while / how 最为紧凑自然。",
+          "answer": "as/while/how"
+        },
+        "61": {
+          "concept": "固定习惯搭配",
+          "note": "修饰短语 In every... you look。表示“无论朝哪个方向看”去，都有琳琅满目的美食，构成固定表达 In every direction you look（或者是 In every corner / way）。",
+          "answer": "direction/corner/way"
+        },
+        "62": {
+          "concept": "动词与介词固定搭配",
+          "note": "作为动词不定式 to choose 的后置介词，与名词 array 搭配。表示从海量菜肴中“挑选出来”，构成 choose from 结构。",
+          "answer": "from"
+        },
+        "63": {
+          "concept": "助动词后的动词原形",
+          "note": "特殊疑问句 how do you... 结构中需要接动词原形。提出疑问：面对成百上千个摊位，你该如何进行“挑选”或“决定”（choose / select / decide）。",
+          "answer": "choose/select/decide"
+        },
+        "64": {
+          "concept": "形容词最高级形式",
+          "note": "前面有定冠词 the，后修饰名词 line（队伍）。指挑选地道美食的秘诀当然是寻找“最长的”队伍，故填形容词最高级 longest。",
+          "answer": "longest"
+        },
+        "65": {
+          "concept": "名词语境辨析",
+          "note": "构成修饰结构 testament to the... of food。指排起长队的现象本身，就是对这里所售食物的“高品质”或“美味度”最好的见证与认可（quality / taste / standard / deliciousness）。",
+          "answer": "quality/taste/standard/deliciousness"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "We admire Mr Kwan. He is our local football player.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ whom __________ ."
+        },
+        "67": {
+          "stem_plain": "The farmer grew this plot of corn from scratch.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "This plot of corn __________ ."
+        },
+        "68": {
+          "stem_plain": "\"Did you go for the class yesterday?\" Mr Heng asked his students.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mr Heng wanted to know __________ ."
+        },
+        "69": {
+          "stem_plain": "Mark could not decide. Hence, he was late.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ because of his __________ ."
+        },
+        "70": {
+          "stem_plain": "Produce the voucher to get your meal.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ or __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "定语从句 — Relative clause (whom)",
+          "zh": "关先生是我们敬佩的本地足球运动员。",
+          "note": "用<strong>非限制性定语从句</strong> <em>whom we admire</em>（宾格）修饰人名；从句两侧逗号；主句谓语 <em>is</em> 与 <em>Mr Kwan</em> 一致。",
+          "answer": "Mr Kwan, whom we admire, is our local football player."
+        },
+        "67": {
+          "concept": "被动语态 — Active → passive voice",
+          "zh": "这块玉米地从零开始由农夫种出来。",
+          "note": "主动 <em>The farmer grew…</em> 改被动：宾语 <em>This plot of corn</em> 作主语，<em>was grown</em>；施动者用 <em>by the farmer</em>；<em>from scratch</em> 保留。",
+          "answer": "This plot of corn was grown from scratch by the farmer."
+        },
+        "68": {
+          "concept": "间接引语 — Direct → reported (yes/no question)",
+          "zh": "恒老师想知道学生们前一天是否去上了课。",
+          "note": "一般疑问句改间接引语用 <em>if/whether</em>；<em>did you go</em>→<em>had gone</em>；<em>yesterday</em>→<em>the previous day</em>；<em>you</em>→<em>the students</em>。",
+          "answer": "Mr Heng wanted to know if the students had gone for the class the previous day."
+        },
+        "69": {
+          "concept": "名词（表原因） — Cause and effect (because of +)",
+          "zh": "马克因为犹豫不决而迟到了。",
+          "note": "<em>because of</em> 后接<strong>名词</strong>：<em>could not decide</em>→<em>indecisiveness</em>；前半写结果 <em>Mark was late</em>，与 <em>Hence, he was late</em> 同义合并为一句。",
+          "answer": "Mark was late because of his indecisiveness."
+        },
+        "70": {
+          "concept": "祈使句 + — or + 后果",
+          "zh": "出示代金券，否则你拿不到餐食。",
+          "note": "祈使句 + <em>or</em> + 否定后果，把 <em>…to get your meal</em>（目的）改写成警告语气：<em>or you will not get the meal</em>；保持一句。",
+          "answer": "Produce the voucher or you will not get the meal."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Pick out a sentence from the first paragraph that shows the chicken's attempt to escape.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "What two actions of Robert show that he disagreed with Mike's intention?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "i)",
+              "question": "[Q72a]"
+            },
+            {
+              "stem_plain": "ii)",
+              "question": "[Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Words from the passage",
+              "rows": [
+                "(a) **he** (line 5)",
+                "(b) **this** (line 13)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "From lines 15 – 23, pick out two separate phrases to show the characters' feelings and explain why they felt that way.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "Four-word phrase that shows Mr Omar was suspicious of Mike",
+                "Three-word phrase that indicates Mike was about to cry"
+              ]
+            },
+            "col_2": {
+              "header": "Phrase",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]"
+              ]
+            },
+            "col_3": {
+              "header": "Reason for feeling",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "What did Mike decide to do when he was washing up before dinner?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "State whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Mike had a plan all along to steal the chicken.",
+                "(b) Mike was confident that his parents would allow him to go out that evening.",
+                "(c) Mike found it difficult to see the chicken on his return to Mr Omar's home."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]",
+                "[Q76e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]",
+                "[Q76f]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "With reference to lines 27 to 38, write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Mike returned home but stayed outside.",
+            "Mike did not feel good about himself.",
+            "Mike intended to visit Mr Omar's home after dinner."
+          ]
+        },
+        "78": {
+          "stem_plain": "Explain clearly how Mike freed the chicken's leg.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Based on lines 31–45, which two of the following words correctly describe Mike's character? Put a ✓ in the box beside each of your answers.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "brave",
+            "respectful",
+            "selfish",
+            "indifferent",
+            "confident",
+            "reflective"
+          ],
+          "max_selections": 2
+        },
+        "80": {
+          "stem_plain": "Explain with evidence from the passage why Mike was uncertain if he had done enough to redeem himself (line 45).",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — The Chicken that crossed the Road",
+        "lines": {
+          "1": "Mike and Robert walked around aimlessly after school. Spotting a plump white chicken in a",
+          "2": "nearby alley, the twelve-year-old boys stared at it plucking at a discarded shirt that lay on a pile of",
+          "3": "garbage. As they did, an idea suddenly bubbled in Mike's mind. Nudging Robert, Mike grabbed a",
+          "4": "pillowcase from the ground and handed it to him, then told him to hold it open. Robert gave Mike a",
+          "5": "puzzled look but did as **he** was asked. As Mike approached the chicken, it moved slowly, a grave",
+          "6": "mistake, because Mike was quick. He grabbed it by its neck and held on tightly. The chicken",
+          "7": "desperately fluttered its wings, like a folding fan. When it finally calmed down, accepting its fate, Mike",
+          "8": "stuffed it into the pillowcase and sloppily tied the end.",
+          "9": "When Robert asked what his intention was, Mike replied, \"Sell it!\" Mike had decided that he",
+          "10": "would sell that strutting piece of poultry to a neighbour down the block, Mr Omar, who had once kept",
+          "11": "chickens in his garden. Looking shocked, Robert shook his finger at Mike and called out as he left,",
+          "12": "\"You are going to mess up!\"",
+          "13": "Mike felt uneasy at this pronouncement. Maybe **this** was not such a good idea, maybe it was",
+          "14": "wrong. With only a twinge of guilt, Mike hoisted his catch over his shoulder and headed home.",
+          "15": "Mr Omar was in his front garden when Mike spotted him. \"Mr Omar!\" Mike shouted. \"See what I",
+          "16": "have for you — a chicken.\" Mr Omar narrowed his right eye. A large man, with a temper to match, he",
+          "17": "was not someone to mess with. He would often yell at the neighbourhood kids, as he was not a big",
+          "18": "fan of theirs. All the children knew to keep out of his way. As Mike held open the bag, Mr Omar",
+          "19": "peeped in and offered him three dollars. Once the transaction was done, Mike ran home, trying not",
+          "20": "to think of the defenceless chicken looking up from inside the pillowcase.",
+          "21": "Mike sat on his front porch, catching his breath, and recalling Robert's words. He had not cried",
+          "22": "for at least a year but now he felt his eyes growing moist. When the tears began to roll down his",
+          "23": "cheek, he let them fall. Yes, he had done a dreadful thing.",
+          "24": "Later that evening, as he was washing up before dinner, he looked at himself in the mirror. He",
+          "25": "did not like what he saw there. He kept thinking about his actions and Robert's words. \"I'll save you,\"",
+          "26": "Mike whispered before joining his parents for the evening meal.",
+          "27": "After dinner, Mike cleaned up the kitchen before seeking permission to visit Robert, giving the",
+          "28": "excuse that he needed to borrow a book. As Mike made his way towards Mr Omar's house, he",
+          "29": "wondered if he could pull it off. Would he be found out? After all, Mr Omar was not someone to be",
+          "30": "trifled with.",
+          "31": "Mike was breathing fast. Thinking of what he had planned to do, Mike lost the courage to",
+          "32": "continue. He turned and started running home. Within minutes, he was in front of his home, but he",
+          "33": "did not go inside. Reflecting on all that had taken place, he did not feel like a good person. He had",
+          "34": "sold a chicken he did not own and had not rightfully profited from it.",
+          "35": "As he grew angry with himself, he started to breathe harder. \"Why am I such a coward?\" He",
+          "36": "turned around and once again, hurried to Mr Omar's house. Arriving there, he walked slowly into the",
+          "37": "garden. Then Mike heard a cluck, and then a scratching sound. Straining his eyes, he spotted the",
+          "38": "chicken. One of its legs was tied with plastic twine to the porch rail.",
+          "39": "Dropping down to all fours, Mike crept towards the porch. When he reached the animal, the little",
+          "40": "chicken stood quietly, as if aware of the purpose of his visit. Mike struggled to untie the knot with his",
+          "41": "numb fingers, but the knot would not come lose. Desperate, Mike lowered his face to the ground and",
+          "42": "began to nibble. Finally, he cut through the twine. Once the chicken was free, he lifted it into his arms",
+          "43": "and duck-walked across the porch.",
+          "44": "Running away from Mr Omar's house, Mike approached the alley, planning to leave the chicken",
+          "45": "there before going home. He was uncertain if he had done enough to redeem himself."
+        },
+        "paragraphs": {
+          "1": "放学后，Mike 和 Robert 漫无目的地四处走动。他们在附近一条小巷里看见一只肥硕的白鸡，正啄着垃圾堆里一件被丢弃的衬衫。两个十二岁的男孩盯着它看时，Mike 脑子里突然冒出一个主意。他推了推 Robert，从地上捡起一个枕套递给他，让他把口撑开。Robert 困惑地看了 Mike 一眼，但还是照做了。Mike 走近那只鸡时，它慢慢挪动——这是个严重的错误，因为 Mike 动作很快。他一把抓住鸡的脖子，紧紧不放。鸡拼命扑腾翅膀，像一把折扇。等它终于安静下来、似乎认命之后，Mike 把它塞进枕套，草草系紧袋口。",
+          "9": "Robert 问 Mike 打算干什么，Mike 回答说：“卖掉它！” Mike 决定把这只神气活现的家禽卖给街区下游的一位邻居 Omar 先生——他曾在自家花园里养过鸡。Robert 一脸震惊，指着 Mike 摇手指，在他离开时大声喊道：“你会搞砸的！”",
+          "13": "听到这话，Mike 心里一阵不安。也许这主意并不那么好，也许这样做是错的。他只感到一丝愧疚，便把“战利品”扛上肩，往家走去。",
+          "15": "Mike 看见 Omar 先生正在前院。他喊道：“Omar 先生！看看我给你带来了什么——一只鸡。” Omar 先生眯起右眼。他身材魁梧，脾气也与之相称，不是好惹的人。他常对附近的孩子大吼，并不怎么喜欢他们。所有孩子都懂得要躲着他。Mike 打开袋子给他看时，Omar 先生往里瞄了一眼，出价三美元。交易一完成，Mike 就跑回家，尽量不去想枕套里那只无助的鸡正抬头望着外面。",
+          "21": "Mike 坐在门廊上喘口气，想起 Robert 的话。他至少有一整年没哭过了，可现在却觉得眼睛湿润起来。泪水滚落脸颊时，他任由它们流下。是的，他做了一件可怕的事。",
+          "24": "那天晚上晚些时候，晚饭前洗漱时，他对着镜子看自己。他不喜欢镜中的自己。他不断回想自己的所作所为，还有 Robert 的话。“我会救你的，” Mike 低声说，然后才去和父母一起吃晚饭。",
+          "27": "晚饭后，Mike 收拾完厨房，征得同意去 Robert 家，借口是要借一本书。朝 Omar 先生家走去时，他一直在想自己能不能成功。会不会被发现？毕竟 Omar 先生可不是能随便招惹的人。",
+          "31": "Mike 呼吸急促。想到自己计划要做的事，他失去了继续前行的勇气。他转身朝家跑去。几分钟内就到了自家门前，却没有进去。回想发生的一切，他觉得自己算不上好人——他卖掉一只不属于他的鸡，还从中不当得利。",
+          "35": "他越生自己的气，呼吸就越急促。“我为什么这么胆小？” 他转过身，再次匆匆赶往 Omar 先生家。到了那里，他慢慢走进花园。接着 Mike 听见一声咯咯叫，又听见抓挠声。他使劲眯眼，看见了那只鸡——它的一条腿用塑料绳绑在门廊栏杆上。",
+          "39": "Mike 趴到地上，悄悄爬向门廊。靠近那只动物时，小鸡静静站着，仿佛明白他此行的目的。Mike 用发麻的手指拼命解结，结却解不开。情急之下，他低下脸贴到地上，开始用牙去咬。终于，他咬断了绳子。鸡一获自由，他便把它抱起来，蹲着穿过门廊。",
+          "44": "Mike 从 Omar 先生家跑开，来到小巷，打算把鸡留在那里再回家。他不确定自己做的是否足以弥补过错。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句题——从<strong>第一段</strong>抄<strong>一句</strong>，显示鸡<strong>试图逃脱</strong>（1 分）。</li><li><strong>范围：</strong>第一段为行 <strong>1–8</strong>（抓鸡、塞进枕套）。</li><li><strong>定位（行 7）：</strong><em>The chicken desperately fluttered its wings, like a folding fan</em> — 拼命扑翅 = 挣扎逃脱。</li><li><strong>收束：</strong>照抄整句 <span class=\"hl-good\">The chicken desperately fluttered its wings, like a folding fan.</span></li><li><strong>失分：</strong>抄 <em>moved slowly</em>、<em>finally calmed down</em>（非逃脱）；抄第二段及以后。</li></ol>",
+          "answer": [
+            "The chicken desperately fluttered its wings, like a folding fan."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——Robert <strong>两个</strong>表示不同意 Mike 打算的动作（2 分；i) / ii) 各一行）。</li><li><strong>(i) 行 4–5：</strong><em>Robert gave Mike a puzzled look</em> → <span class=\"hl-good\">He gave Mike a puzzled look.</span></li><li><strong>(ii) 行 11–12：</strong><em>shook his finger … You are going to mess up!</em> → <span class=\"hl-good\">He shook his finger at Mike and said that Mike was going to mess up.</span></li><li><strong>失分：</strong>只写一点；写 Mike 抓鸡（非 Robert 的反对）。</li></ol>",
+          "answer": {
+            "72a": "He gave Mike a puzzled look.",
+            "72b": "He shook his finger at Mike and said that Mike was going to mess up."
+          }
+        },
+        "73": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左列代词在文中的<strong>具体所指</strong>（2 分；右列两格填空）。</li><li><strong>(a) he（行 5）：</strong>回指行 4–5 被要求撑开枕套的 <em>Robert</em> → <span class=\"hl-good\">Robert</span>（或 Refers to Robert）。</li><li><strong>(b) this（行 13）：</strong>回指行 11–12 Robert 的警告，针对 Mike <strong>抓鸡卖掉</strong> 的整个打算 → <span class=\"hl-good\">Mike's plan to catch the chicken and sell it</span>。</li><li><strong>失分：</strong>只写“他”“这个”；<em>he</em> 误指 Mike；<em>this</em> 只写“警告”未点卖鸡计划。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "Robert",
+            "73b": "Mike's plan to catch the chicken and sell it."
+          }
+        },
+        "74": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>题型：</strong>文中信息归纳表——行 <strong>15–23</strong> 各抄<strong>短语</strong> + 写<strong>感受原因</strong>（4 分；两行 × Phrase / Reason 两列填空）。</li><li><strong>行 1（Mr Omar 怀疑）：</strong>四字短语行 16 <em>narrowed his right eye</em> → <span class=\"hl-good\">Narrowed his right eye</span>；原因：行 16–18 不喜邻里孩子、Mike 主动兜售 → 生疑。</li><li><strong>行 2（Mike 将哭）：</strong>三字短语行 22 <em>eyes growing moist</em> → <span class=\"hl-good\">Eyes growing moist</span>；原因：行 21–23 想起 Robert 的话、意识到自己卖了不该卖的鸡。</li><li><strong>表格顺序：</strong>行优先 — (a) 短语、(b) 原因、(c) 短语、(d) 原因，与 <code>fill</code> 一致。</li><li><strong>失分：</strong>短语字数不符；原因超出 15–23 或未对应人物。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "Narrowed his right eye",
+            "74b": "Mr Omar disliked the neighbourhood kids and was not a fan of theirs, so when Mike approached with something to offer, he became suspicious of Mike's motives.",
+            "74c": "Eyes growing moist",
+            "74d": "He recalled Robert's words and realised he had done a dreadful thing — selling a defenceless chicken that was not his."
+          }
+        },
+        "75": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>要点直答——晚饭前洗漱时 Mike <strong>决定做什么</strong>（1 分；完整句）。</li><li><strong>范围：</strong>行 <strong>24–26</strong>（照镜子、回想、低声自语）。</li><li><strong>证据：</strong>行 25 <em>I'll save you</em> — 决定救回鸡。</li><li><strong>收束：</strong><span class=\"hl-good\">Mike decided that he was going to save the chicken / take it back from Mr Omar's house.</span></li><li><strong>失分：</strong>只写“后悔”未写具体决定；写已救鸡之后的情节（行 35 以后）。</li></ol>",
+          "answer": [
+            "Mike decided that he was going to save the chicken — i.e. take it back from Mr Omar's house."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——每行先 T/F 再<strong>一句</strong>理由（3 分；三行）。</li><li><strong>(a) False：</strong>行 3 <em>an idea suddenly bubbled</em> — 见鸡后才起意，非早有偷鸡计划。</li><li><strong>(b) False：</strong>行 27–28 获准外出却<strong>撒谎借书</strong> — 说明对父母是否允许并不自信。</li><li><strong>(c) True：</strong>行 37 <em>Straining his eyes, he spotted the chicken</em> — 需使劲眯眼才看见 → 难以看清。</li><li><strong>书写：</strong>理由勿夹 (b)(c) 标号；与 <code>table.*.fill</code> 行优先一致。</li><li><strong>失分：</strong>T/F 与理由矛盾；理由无文中依据。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "False",
+            "76b": "Only after the chicken plucked at the discarded shirt did Mike think of trapping it with the shirt.",
+            "76c": "False",
+            "76d": "Even after asking permission, he lied to his parents that he needed to borrow a book, which shows he was not confident his parents would allow him to go out.",
+            "76e": "True",
+            "76f": "Mike had to strain his eyes before he could spot the chicken on the porch, which shows that he found it difficult to see the chicken."
+          }
+        },
+        "77": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>题型：</strong>事件顺序排列——三行事件各标 <strong>1、2、3</strong>（1 分；Study 模式每行前下拉选序号；范围行 <strong>27–38</strong>）。</li><li><strong>时间线：</strong>晚饭后打算去 Omar 家（<strong>最先</strong>）→ 胆怯跑回家但留门外（<strong>其次</strong>）→ 自觉不是好人（<strong>最后</strong>）。</li><li><strong>按卷面三行：</strong>回家留门外 → <span class=\"hl-good\">2</span>；自我感觉不好 → <span class=\"hl-good\">3</span>；晚饭后打算拜访 → <span class=\"hl-good\">1</span>（<em>2, 3, 1</em>）。</li><li><strong>失分：</strong>三数重复或缺号；把“打算去”放在“留门外”之后。</li></ol>",
+          "answer": [
+            "2, 3, 1"
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>题型：</strong>解释说明题——Mike <strong>如何</strong>解开绑在鸡腿上的绳（2 分；建议用 <em>First … Finally …</em>）。</li><li><strong>范围：</strong>行 <strong>39–42</strong>。</li><li><strong>为何不用手：</strong>行 40–41 手指发麻、结解不开。</li><li><strong>步骤：</strong>行 41–42 <em>lowered his face … began to nibble … Finally, he cut through the twine</em> — 用牙咬断塑料绳。</li><li><strong>收束：</strong><span class=\"hl-good\">First … nibble … Finally … cut through the twine with his teeth.</span></li><li><strong>失分：</strong>只写“解开”无方法；写抱走鸡未写咬绳。</li></ol>",
+          "answer": [
+            "He first lowered his face to the ground and began to nibble the plastic twine that was tied to the chicken's leg, and finally cut through the twine with his teeth."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>题型：</strong>勾选题——行 <strong>31–45</strong> 选<strong>两个</strong>词形容 Mike 的品格（2 分；勿超过两项）。</li><li><strong>应选：</strong><span class=\"hl-good\">brave</span>（行 35–42 虽怕 Omar 仍折返、潜入花园、用牙咬断绳子救鸡）+ <span class=\"hl-good\">reflective</span>（行 33 <em>Reflecting on all that had taken place</em>，反省自己所为）。</li><li><strong>排除：</strong><em>selfish / indifferent</em> 与他对鸡的同情不符；<em>confident</em> 与 <em>lost the courage</em> 矛盾；<em>respectful</em> 文中无体现。</li><li><strong>失分：</strong>勾选超过两个；选与文意相反项。</li></ol>",
+          "answer": [
+            "brave",
+            "reflective"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——结合全文证据，说明行 45 为何 <strong>不确定是否已足够弥补</strong>（2 分）。</li><li><strong>关键词：</strong><em>redeem himself</em> = 弥补过错；<em>uncertain … enough</em>。</li><li><strong>已做：</strong>行 42–43 救回鸡、放归。</li><li><strong>未了：</strong>行 19 卖得三美元，行 34 <em>had not rightfully profited</em> — <strong>未还钱</strong>给 Omar。</li><li><strong>收束：</strong>救鸡 ≠ 退还不当所得 → 故仍不确定是否“够”。</li><li><strong>失分：</strong>只写救鸡；只写卖鸡未写未退钱。</li></ol>",
+          "answer": [
+            "Mike sold the chicken for three dollars but, after taking the chicken back, he did not return the three dollars to Mr Omar; so although he had saved the chicken, he had still profited wrongly from the sale and was unsure if simply rescuing the chicken was enough to make up for that."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

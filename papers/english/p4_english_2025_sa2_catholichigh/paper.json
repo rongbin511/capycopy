@@ -1,0 +1,767 @@
+{
+  "paperid": "p4_english_2025_sa2_catholichigh",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "He accidentally dropped his pen ________ the floor.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "into",
+            "4": "towards"
+          }
+        },
+        "2": {
+          "stem_plain": "James and Janet ________ shocked to see the cockroach in the kitchen just now.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "Kaelyn ________ proud of herself when she completed her project.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Keep quiet. The discipline master ________ down the corridor now!\" Anna warned.",
+          "options": {
+            "1": "came",
+            "2": "comes",
+            "3": "is coming",
+            "4": "has come"
+          }
+        },
+        "5": {
+          "stem_plain": "Last Friday, our teacher ________ us two worksheets to complete as homework.",
+          "options": {
+            "1": "give",
+            "2": "gave",
+            "3": "gives",
+            "4": "has given"
+          }
+        },
+        "6": {
+          "stem_plain": "My brother uses ________ old laptop there to do his work.",
+          "options": {
+            "1": "this",
+            "2": "that",
+            "3": "these",
+            "4": "those"
+          }
+        },
+        "7": {
+          "stem_plain": "While my sister ________ home, she saw a kitten in the drain.",
+          "options": {
+            "1": "walks",
+            "2": "will walk",
+            "3": "has walked",
+            "4": "was walking"
+          }
+        },
+        "8": {
+          "stem_plain": "Muthu was late for school ________ he missed the school bus.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "and",
+            "4": "because"
+          }
+        },
+        "9": {
+          "stem_plain": "We decided to leave as there were ________ people waiting in the long queue.",
+          "options": {
+            "1": "few",
+            "2": "much",
+            "3": "many",
+            "4": "some"
+          }
+        },
+        "10": {
+          "stem_plain": "Li Feng was busy studying for his examination so he had ________ time to play computer games.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“on the floor” 是固定搭配，表示“在桌面上/地板上”。",
+          "concept": "介词辨析 — Prepositions — place",
+          "zh": "他不小心把笔掉在地板上了。",
+          "answer": "2"
+        },
+        "2": {
+          "note": "句尾有过去时间状语 “just now”（刚才），需用过去时；主语是 “James and Janet”（复数），因此系动词用 “were”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Plural)",
+          "zh": "詹姆斯和珍妮特刚才看到厨房里的蟑螂时被吓了一跳。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "“when” 引导的时间状语从句使用的是过去时（completed），主句也应使用过去时；主语 “Kaelyn” 为单数，因此用 “was”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Singular)",
+          "zh": "凯琳完成她的项目时，为自己感到骄傲。",
+          "answer": "3"
+        },
+        "4": {
+          "note": "句中有提示语 “Keep quiet”（保持安静）和时间副词 “now”（现在），表明动作正在发生，需用现在进行时。",
+          "concept": "动词时态 — Verb Tenses — Present Continuous Tense",
+          "zh": "“保持安静。训导主任现在正顺着走廊走过来！”安娜警告道。",
+          "answer": "3"
+        },
+        "5": {
+          "note": "句首有明确的过去时间状语 “Last Friday”（上周五），动词需用一般过去时，give 的过去式为 gave。",
+          "concept": "动词时态 — Verb Tenses — Simple Past Tense",
+          "zh": "上周五，我们的老师给了我们两张工作纸作为家庭作业。",
+          "answer": "2"
+        },
+        "6": {
+          "note": "句末有空间远指词 “there”（那里），且修饰的对象 “old laptop” 是单数，因此选用远指单数指示代词 “that”。",
+          "concept": "指示代词 — Demonstrative Pronouns — that",
+          "zh": "我哥哥用那台旧电脑在那里做他的工作。",
+          "answer": "2"
+        },
+        "7": {
+          "note": "“While”（当……时候）引导的从句通常表示一个持续性的背景动作，与主句的过去瞬间动作（saw）相对比，需用过去进行时。",
+          "concept": "动词时态 — Verb Tenses — Past Continuous Tense",
+          "zh": "我姐姐在走路回家的时候，看到排水沟里有一只小猫。",
+          "answer": "4"
+        },
+        "8": {
+          "note": "后半句“他错过了校车”是前半句“上学迟到”的原因，因此使用表原因的连词 “because”。",
+          "concept": "连词辨析 — Conjunctions — because",
+          "zh": "穆图上学迟到了，因为他错过了校车。",
+          "answer": "4"
+        },
+        "9": {
+          "note": "“people” 是可数名词复数，不能用 much 修饰；结合后文 “long queue”（长队）的语境，表示人“很多”，故选 many。",
+          "concept": "数量词修饰 — Quantifiers — countable nouns",
+          "zh": "我们决定离开，因为长队里有很多人在等待。",
+          "answer": "3"
+        },
+        "10": {
+          "note": "“time” 在此处表示时间，是不可数名词，不能用 few 修饰；结合前文 “busy studying”（忙于复习迎考），可知玩游戏的时间“很少/几乎没有”（表否定含义），故选 little。",
+          "concept": "数量词修饰 — Quantifiers — uncountable nouns",
+          "zh": "李峰正忙着复习考试，所以他几乎没有时间玩电脑游戏。",
+          "answer": "2"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Keith was ____________ when his brother, Tim, kept talking to him while he was doing his homework.",
+          "options": {
+            "1": "afraid",
+            "2": "annoyed",
+            "3": "disappointed",
+            "4": "embarrassed"
+          }
+        },
+        "12": {
+          "stem_plain": "\"We should not ____________ when someone is speaking,\" Mother advised Jun Hao.",
+          "options": {
+            "1": "interact",
+            "2": "interfere",
+            "3": "interrupt",
+            "4": "intervene"
+          }
+        },
+        "13": {
+          "stem_plain": "The room was so ____________ that I could hear the clock ticking.",
+          "options": {
+            "1": "still",
+            "2": "soft",
+            "3": "silent",
+            "4": "serene"
+          }
+        },
+        "14": {
+          "stem_plain": "Please ____________ the porcelain vase with care.",
+          "options": {
+            "1": "handle",
+            "2": "control",
+            "3": "operate",
+            "4": "manage"
+          }
+        },
+        "15": {
+          "stem_plain": "The lion ____________ around the wild boar, ready to pounce on it.",
+          "options": {
+            "1": "prowled",
+            "2": "galloped",
+            "3": "stomped",
+            "4": "scampered"
+          }
+        },
+        "16": {
+          "stem_plain": "The teacher reminded Tammy to pay this month's school ____________ to avoid any penalty.",
+          "options": {
+            "1": "fees",
+            "2": "rates",
+            "3": "prices",
+            "4": "charges"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "当基思做作业时，他的弟弟蒂姆一直跟他说话，这让他感到很烦躁。",
+          "note": "“annoyed”意思是“烦恼的、生气的”，最符合在专注于做作业时不断被别人打扰的情绪反应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "afraid",
+              "zh": "害怕的",
+              "eg": "The little girl was afraid of the dark and always slept with a nightlight."
+            },
+            {
+              "opt": "2",
+              "word": "annoyed",
+              "zh": "烦恼的、生气的",
+              "eg": "She grew annoyed with the flies buzzing around her food."
+            },
+            {
+              "opt": "3",
+              "word": "disappointed",
+              "zh": "失望的",
+              "eg": "He was disappointed that his favorite team lost the final soccer match."
+            },
+            {
+              "opt": "4",
+              "word": "embarrassed",
+              "zh": "尴尬的、难堪的",
+              "eg": "He felt embarrassed when he accidentally tripped and fell in front of everyone."
+            }
+          ]
+        },
+        "12": {
+          "zh": "“当别人说话时，我们不应该打断，”母亲建议俊豪道。",
+          "note": "“interrupt”意思是“打断（别人的讲话或行动）”，符合在别人发言（someone is speaking）时不要插嘴的礼貌守则。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "interact",
+              "zh": "互动、交流",
+              "eg": "The teacher used educational games to help the new pupils interact with each other."
+            },
+            {
+              "opt": "2",
+              "word": "interfere",
+              "zh": "干涉、干预",
+              "eg": "It is best not to interfere in other people's private family affairs."
+            },
+            {
+              "opt": "3",
+              "word": "interrupt",
+              "zh": "打断",
+              "eg": "Please do not interrupt me while I am making an important phone call."
+            },
+            {
+              "opt": "4",
+              "word": "intervene",
+              "zh": "介入、调停",
+              "eg": "The security guard had to intervene before the argument turned into a physical fight."
+            }
+          ]
+        },
+        "13": {
+          "zh": "房间里如此安静，以至于我都能听到时钟滴答作响的声音。",
+          "note": "“silent”意思是“寂静的、无声的”，用来形容环境毫无声音，所以连极其细微的滴答声（clock ticking）都能听到。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "still",
+              "zh": "静止的、不动的",
+              "eg": "The lake was so still that it looked like a giant glass mirror."
+            },
+            {
+              "opt": "2",
+              "word": "soft",
+              "zh": "柔软的、柔和的",
+              "eg": "The mother sang a soft lullaby to soothe her crying baby."
+            },
+            {
+              "opt": "3",
+              "word": "silent",
+              "zh": "寂静的、无声的",
+              "eg": "The library was completely silent as everyone was deeply engrossed in reading."
+            },
+            {
+              "opt": "4",
+              "word": "serene",
+              "zh": "安详的、宁静的",
+              "eg": "They enjoyed the serene atmosphere of the botanical garden in the morning."
+            }
+          ]
+        },
+        "14": {
+          "zh": "请小心拿放这个瓷瓶。",
+          "note": "“handle”意思是“拿、搬动、处理”，与“with care（小心地）”组合在一起构成常用语，指小心触碰或搬运易碎物品。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "handle",
+              "zh": "拿放、处理",
+              "eg": "The courier was reminded to handle the package containing electronics with care."
+            },
+            {
+              "opt": "2",
+              "word": "control",
+              "zh": "控制",
+              "eg": "The pilot worked hard to regain control of the aircraft during the storm."
+            },
+            {
+              "opt": "3",
+              "word": "operate",
+              "zh": "操作（机器等）",
+              "eg": "You must read the user manual carefully before you operate this new machinery."
+            },
+            {
+              "opt": "4",
+              "word": "manage",
+              "zh": "管理、应付",
+              "eg": "She managed to complete the difficult project on time despite the tight deadline."
+            }
+          ]
+        },
+        "15": {
+          "zh": "狮子在野猪周围潜行，准备扑向它。",
+          "note": "“prowled”意思是“（潜伏着）潜行、悄悄觅食”，专门用来形容猛兽捕食前为了不被猎物发现而蹑手蹑脚移动的行为。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "prowled",
+              "zh": "潜行（尤指野兽捕食）",
+              "eg": "The hungry leopard prowled through the tall grass in search of prey."
+            },
+            {
+              "opt": "2",
+              "word": "galloped",
+              "zh": "（马等）飞奔、奔驰",
+              "eg": "The frightened horses galloped across the open field away from the fire."
+            },
+            {
+              "opt": "3",
+              "word": "stomped",
+              "zh": "重踩、大步重踏",
+              "eg": "The angry giant stomped his massive feet and shook the entire house."
+            },
+            {
+              "opt": "4",
+              "word": "scampered",
+              "zh": "（小动物等）惊惶疾走、蹦蹦跳跳地跑",
+              "eg": "The little squirrels scampered up the tree when they heard the dog barking."
+            }
+          ]
+        },
+        "16": {
+          "zh": "老师提醒泰米支付本月的学费，以避免任何罚款。",
+          "note": "“fees”在这里与“school”搭配，表示“学费”，指向学校交纳的固定费用。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fees",
+              "zh": "费（如学费、会费等）",
+              "eg": "Members are required to pay their monthly subscription fees on time."
+            },
+            {
+              "opt": "2",
+              "word": "rates",
+              "zh": "率、收费率（如房产税率等）",
+              "eg": "The hotel offers cheaper room rates during the off-peak travel season."
+            },
+            {
+              "opt": "3",
+              "word": "prices",
+              "zh": "价格（货物的售价）",
+              "eg": "The prices of fresh vegetables fluctuated significantly due to the bad weather."
+            },
+            {
+              "opt": "4",
+              "word": "charges",
+              "zh": "收费（指服务或使用的费用）",
+              "eg": "There are extra delivery charges if you want the items sent to your house immediately."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "19": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "21": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "22": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "19": {
+          "concept": "代词（主格）",
+          "note": "日记作者说邀请了朋友们，下文提到‘我们’很享受，说明是‘Siti, Jane 和我’共同作主语，故选 I。",
+          "answer": "A"
+        },
+        "20": {
+          "concept": "代词（宾格）",
+          "note": "动词 enjoyed 的宾语，指代前文提到的电影 'Frozen'，单数代词用 it，故选 it。",
+          "answer": "B"
+        },
+        "21": {
+          "concept": "代词（主格）",
+          "note": "作从句主语，指代前文的女性 Jane，单数第三人称女性主格用 she，故选 she。",
+          "answer": "E"
+        },
+        "22": {
+          "concept": "代词（主格）",
+          "note": "作句子主语，指代上文的“我们（We had a whale of a time）”，故选 we。",
+          "answer": "D"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "I",
+          "B": "it",
+          "C": "us",
+          "D": "we",
+          "E": "she",
+          "F": "them"
+        },
+        "cloze": [
+          "Dear Diary, I invited my friends to my birthday party today. Siti, Jane and [Q19] watched the movie, 'Frozen'. We enjoyed [Q20] very much. Siti adored the snowman in the movie. Jane loved the moose because [Q21] is an animal lover. We had a whale of a time. [Q22] agreed to watch another movie during the next school holiday. Hurray!"
+        ],
+        "zh": [
+          "亲爱的日记，我今天邀请了朋友们来参加我的生日派对。西蒂、珍和我一起看了电影《冰雪奇缘》。我们非常喜欢它。西蒂很崇拜电影里的雪人。珍喜欢那只驼鹿，因为她是一个动物爱好者。我们玩得非常开心。我们约定好在下个学校假期期间再看一部电影。万岁！"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "29": {
+          "stem_plain": "Abel will not go to the park. He is feeling unwell.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... unless ..."
+        },
+        "30": {
+          "stem_plain": "They heard the fire alarm. Then they ran out of the building.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "After ..."
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "条件状语从句 — Conditional Clause ('unless')",
+          "zh": "除非阿贝尔感觉身体变好，否则他不会去公园。（或：阿贝尔不会去公园，除非他感觉好些。）",
+          "note": "unless 意为“除非……否则不”，相当于 if ... not。原句第二句说明他不舒服，使用 unless 连接时需要将第二句的否定意义扭转（即把 feeling unwell 替换为其反义 feeling well / better），或者从逻辑上表达“除非他感觉好起来”。",
+          "answer": "Abel will not go to the park unless he is feeling well."
+        },
+        "30": {
+          "concept": "时间状语从句 — Temporal Clause ('After')",
+          "zh": "在听到火警警报后，他们跑出了大楼。",
+          "note": "After 引导时间状语从句，用于连接有先后顺序的两个动作。听到警报在前，跑出大楼在后。改写时需注意去掉表示先后顺序的副词 Then，且主从句之间用逗号隔开。",
+          "answer": "After they heard the fire alarm, they ran out of the building."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "38": {
+          "stem_plain": "What made Ted sad? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "39": {
+          "stem_plain": "Why did Ted not do well for his Mathematics examination? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "40": {
+          "stem_plain": "What does \"a good plan\" in line 9 refer to? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "41": {
+          "stem_plain": "How did Ted overcome the challenge of solving word problems? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "42": {
+          "stem_plain": "What lesson did Ted learn? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "38": {
+          "concept": "Text Extraction / Character Emotion",
+          "note": "对应原文第1-3行：'Ted stared at his examination paper. His heart sank. He had scored only 28 out of 100 marks...'。泰德的心沉了下去、感到难过（sad）是因为他在数学考试中只得到了28分，这是他历史最低分。",
+          "answer": "He scored only 28 out of 100 marks for his Mathematics examination / It was the lowest score he had ever received for his Mathematics examination."
+        },
+        "39": {
+          "concept": "Text Extraction / Multiple Reasons",
+          "note": "对应原文第5-7行：'Ted admitted that he had not been paying attention in class and often did not complete his homework.' 泰德考得不好的两个原因：一是上课不专心，二是经常不完成家庭作业。分值为 2 分，需两点答全。",
+          "answer": "He had not been paying attention in class and often did not complete his homework."
+        },
+        "40": {
+          "concept": "Phrase Reference / Context Synthesis",
+          "note": "对应原文第8-9行：父亲提出了一个计划，即泰德应该在每天放学回家洗完澡后立即完成作业。母亲接着说 'This sounds like a good plan'。因此 'a good plan' 指代的就是父亲提出的这个要求/建议。",
+          "answer": "His father's suggestion that Ted should complete his homework immediately after taking his shower every day after school."
+        },
+        "41": {
+          "concept": "Text Extraction / Multi-Step Actions",
+          "note": "对应原文第13-15行：'He started asking questions whenever he was in doubt during lessons. In addition, he did extra practices daily.' 泰德克服应用题挑战的两个举措：一是在课上有疑问时主动提问，二是每天做额外练习。分值为 2 分。",
+          "answer": "He started asking questions whenever he was in doubt during lessons and did extra practices daily."
+        },
+        "42": {
+          "concept": "Inference / Character Development",
+          "note": "对应原文第20-22行：父母为他感到骄傲，因为他 'taking ownership of your schoolwork and being persistent in your learning' 并且 'learnt his lesson'。结合全文，他学到的教训就是应该对自己的学业负责并坚持学习。",
+          "answer": "He learnt to take ownership of his schoolwork and be persistent in his learning."
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Ted stared at his examination paper. His heart sank. He had scored only 28 out of",
+          "2": "100 marks for his Mathematics examination. It was also the lowest score he had ever",
+          "3": "received.",
+          "4": "At home, Ted's parents were disappointed with his result but they did not scold",
+          "5": "him. Instead, they sat down with him and asked him what had gone wrong. Ted",
+          "6": "admitted that he had not been paying attention in class and often did not complete his",
+          "7": "homework.",
+          "8": "His father told him that he should complete his homework immediately after taking",
+          "9": "his shower every day after school. \"This sounds like a good plan,\" his mother said.",
+          "10": "She added that Ted should sleep by 9 p.m. every night so as to stay awake and be",
+          "11": "alert during lessons in school the next day. Ted agreed to try out what they had",
+          "12": "suggested as he knew he had to start being responsible.",
+          "13": "For the next few weeks, Ted followed his parents' suggestions. At first, he found",
+          "14": "word problems very difficult. He started asking questions whenever he was in doubt",
+          "15": "during lessons. In addition, he did extra practices daily. Gradually, he began to enjoy",
+          "16": "solving word problems.",
+          "17": "For the next Mathematics examination, Ted felt more confident. He checked his",
+          "18": "answers carefully and tried his best. When his teacher handed back the marked paper,",
+          "19": "Ted's eyes widened. He scored 76 marks! His hard work had paid off! Ted showed his",
+          "20": "result to his parents. They gave him a big hug and said, \"Ted, we are so proud of you",
+          "21": "for taking ownership of your schoolwork and being persistent in your learning!\" They",
+          "22": "were pleased that their son had learnt his lesson."
+        },
+        "paragraphs": {
+          "1": "泰德盯着自己的试卷。他的心一沉。他在数学考试中只得了28分（满分100分）。这也是他有史以来拿到的最低分数。",
+          "4": "回到家，泰德的父母对他的成绩感到很失望，但他们并没有责备他。相反，他们和他坐在一起，问他到底是什么地方出了问题。泰德承认自己在课堂上一直没有专心听讲，而且经常不完成家庭作业。",
+          "8": "他的父亲告诉他，每天放学回家洗完澡后，他应该立即完成家庭作业。“这听起来是个不错的计划，”他的母亲说。她补充说，泰德每晚应该在9点前上床睡觉，以便在第二天的课堂上保持清醒和警觉。泰德同意尝试他们建议的方法，因为他知道自己必须开始承担起责任了。",
+          "13": "在接下来的几个星期里，泰德听从了父母的建议。起初，他觉得应用题非常困难。上课时每当遇到疑问，他就开始主动提问。此外，他每天都做额外的练习。渐渐地，他开始享受解答应用题的过程。",
+          "17": "在下一次数学考试中，泰德感到更有信心了。他仔细检查了自己的答案，并尽了最大努力。当老师把批改好的试卷发还给他时，泰德惊讶地瞪大了眼睛。他得了76分！他的努力得到了回报！泰德把成绩给父母看。他们给了他一个大大的拥抱，并说：“泰德，我们为你对自己的学业承担起责任以及在学习中能够坚持不懈而感到非常骄傲！”他们很高兴儿子吸取了教训。"
+        },
+        "image": "109-passage.jpeg"
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

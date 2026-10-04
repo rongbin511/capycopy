@@ -1,0 +1,1611 @@
+{
+  "paperid": "p6_english_2022_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "My teammates and _________ gifted the new student a new soccer ball to commemorate the start of _________ new soccer journey in our school.",
+          "options": {
+            "1": "I...he",
+            "2": "I...his",
+            "3": "me...he",
+            "4": "me...his"
+          }
+        },
+        "2": {
+          "stem_plain": "The student _________ the teacher spoke about is also an excellent chef.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whoever"
+          }
+        },
+        "3": {
+          "stem_plain": "\"The librarian arranged the books neatly, _________ she?\" asked Mrs Lam.",
+          "options": {
+            "1": "didn't",
+            "2": "shan't",
+            "3": "hasn't",
+            "4": "doesn't"
+          }
+        },
+        "4": {
+          "stem_plain": "If it _________, you would have gotten wet.",
+          "options": {
+            "1": "rains",
+            "2": "rained",
+            "3": "had rained",
+            "4": "have rained"
+          }
+        },
+        "5": {
+          "stem_plain": "Neither the twins nor Alona _________ Dev's stories.",
+          "options": {
+            "1": "enjoy",
+            "2": "enjoys",
+            "3": "are enjoying",
+            "4": "have enjoyed"
+          }
+        },
+        "6": {
+          "stem_plain": "The Lim Bo Seng Memorial was annouced as a national monument _________ memory of one of Singapore's war heroes.",
+          "options": {
+            "1": "in",
+            "2": "as",
+            "3": "for",
+            "4": "with"
+          }
+        },
+        "7": {
+          "stem_plain": "Not until they had discussed the topic _________ they _________ on their project.",
+          "options": {
+            "1": "do...work",
+            "2": "did...work",
+            "3": "had...worked",
+            "4": "have...worked"
+          }
+        },
+        "8": {
+          "stem_plain": "_________ how hot and dry the weather is, you must still exercise.",
+          "options": {
+            "1": "Owing to",
+            "2": "Giving rise to",
+            "3": "Regardless of",
+            "4": "Resulting from"
+          }
+        },
+        "9": {
+          "stem_plain": "_________ that the accused was innocent, some members of public decided to show support for him despite the backlash.",
+          "options": {
+            "1": "Belief",
+            "2": "Believe",
+            "3": "Believed",
+            "4": "Believing"
+          }
+        },
+        "10": {
+          "stem_plain": "The tourist from Myanmar spoke _________ English and it was difficult to speak to her.",
+          "options": {
+            "1": "few",
+            "2": "any",
+            "3": "little",
+            "4": "some"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "物主代词 — Compound subject + possessive",
+          "zh": "队友和我送给新生一个新足球，纪念他在我校开始新的足球旅程。",
+          "note": "并列主语用主格 I；his 指代 the new student 的所有格；陈述句一般过去时 gifted。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "关系词 — Relative pronoun — whom (object)",
+          "zh": "老师谈到的那名学生也是出色的厨师。",
+          "note": "关系代词 whom 指人作宾语；陈述句一般现在时 is。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "反意疑问句 — Question tag — past simple",
+          "zh": "“图书管理员把书排得整整齐齐，不是吗？”林太太问。",
+          "note": "附加问句 (Question tag)：一般过去时 arranged，用 didn't she；间接引语。",
+          "answer": "1"
+        },
+        "4": {
+          "concept": "虚拟语气 — Third conditional — If it had rained",
+          "zh": "要是当时下雨了，你就会淋湿。",
+          "note": "第三条件句 (Third conditional)：与过去事实相反，从句 had + 过去分词。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "主谓一致 — Subject–verb — neither … nor",
+          "zh": "双胞胎和阿洛娜都不喜欢德夫讲的故事。",
+          "note": "neither … nor 就近一致，Alona 为单数，动词 enjoys；陈述句一般现在时。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "介词 — Preposition — in memory of",
+          "zh": "林谋盛纪念堂被宣布为国家古迹，以纪念新加坡一位战争英雄。",
+          "note": "固定搭配 in memory of；被动语态 was announced；一般过去时。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "倒装句 — Inversion — Not until",
+          "zh": "直到讨论完这个话题，他们才开始做项目。",
+          "note": "Not until 倒装：did + 主语 + 动词原形 work；时间从句用过去完成时 had discussed。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "介词 — Preposition — Regardless of",
+          "zh": "不管天气多么炎热干燥，你仍必须锻炼。",
+          "note": "regardless of 表“不管”；祈使句 must still exercise。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "分词 — Participle phrase — Believing",
+          "zh": "相信被告无罪，一些公众仍决定支持他，尽管会遭到强烈反对。",
+          "note": "现在分词短语 Believing 表原因；主句一般过去时 decided。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "量词 — Quantifier — little + uncountable",
+          "zh": "那位来自缅甸的游客几乎不会说英语，很难和她交谈。",
+          "note": "little + 不可数名词 English；陈述句一般过去时 spoke。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The firefighter's reassurances were not effective in _________ the little girl's concerns about her pet dog in the burning building.",
+          "options": {
+            "1": "allaying",
+            "2": "finishing",
+            "3": "stopping",
+            "4": "extinguishing"
+          }
+        },
+        "12": {
+          "stem_plain": "The man was imprisoned after making _________ remarks and hurting the sentiments of a minority group.",
+          "options": {
+            "1": "deformed",
+            "2": "derogatory",
+            "3": "debilitating",
+            "4": "disheartening"
+          }
+        },
+        "13": {
+          "stem_plain": "Kelly, the head prefect, _________ confidence when she delivered her farewell speech to the graduating cohort.",
+          "options": {
+            "1": "exuded",
+            "2": "emitted",
+            "3": "ensued",
+            "4": "evolved"
+          }
+        },
+        "14": {
+          "stem_plain": "The long-distance runner realised that he was way ahead of his competitors and decided to _________ for a bit before his final burst.",
+          "options": {
+            "1": "let down",
+            "2": "let go",
+            "3": "let on",
+            "4": "let up"
+          }
+        },
+        "15": {
+          "stem_plain": "\"Just because you have _________ in rank does not mean you can treat your subordinates badly,\" Maxine said to her boss.",
+          "options": {
+            "1": "seniority",
+            "2": "authority",
+            "3": "inferiority",
+            "4": "superiority"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "消防员的安慰未能有效减轻小女孩对宠物狗在着火大楼里的担忧。",
+          "note": "选（1）allaying：allay concerns 固定搭配“缓解担忧”；陈述句一般过去时。",
+          "concept": "词汇辨析 — allaying（减轻；缓解）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "allaying",
+              "zh": "减轻，缓解；消除（动词的现在分词，指通过解释、安慰或提供证据，去消除、减少或平息内心的恐惧、担忧、怀疑或痛苦等负面情绪）",
+              "eg": "The firefighter's calm reassurances were unfortunately not effective in allaying the little girl's intense concerns about her pet dog trapped inside the burning building."
+            },
+            {
+              "opt": "2",
+              "word": "finishing",
+              "zh": "完成，结束；润饰（动词的现在分词，指将某项工作、比赛、任务或学业带入到最后的收尾阶段并彻底做完，或者对物品表面进行最后的抛光美化）",
+              "eg": "The construction crew is currently finishing the final safety inspections on the newly built pedestrian bridge before it opens to the public next week."
+            },
+            {
+              "opt": "3",
+              "word": "stopping",
+              "zh": "停止，阻拦；中断（动词的现在分词，指使正在移动、发生、运转的人、车辆、活动或机械完全停下来，或者指制止某种不良行为的延续）",
+              "eg": "The abrupt stopping of the train inside the dark tunnel caused a wave of mild panic among the passengers before the conductor made an announcement."
+            },
+            {
+              "opt": "4",
+              "word": "extinguishing",
+              "zh": "扑灭，熄灭；毁灭（动词的现在分词，指利用水、化学灭火剂或沙子使燃烧的火苗、火灾或香烟彻底熄灭，亦可引申指破灭某人的希望或热情）",
+              "eg": "The emergency response team spent hours extinguishing the volatile chemical fire that had threatened to blow up the entire industrial park infrastructure."
+            }
+          ]
+        },
+        "12": {
+          "zh": "那人因发表贬损言论伤害少数群体感情而被监禁。",
+          "note": "选（2）derogatory：侮辱性言论；被动 was imprisoned。",
+          "concept": "词汇辨析 — derogatory（贬损的；侮辱性的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "deformed",
+              "zh": "变形的，畸形的；损毁的（形容词，指物体的本来形状、外观或结构由于受到外力挤压、疾病、火灾或先天缺陷而发生严重改变，变得不规则或丑陋）",
+              "eg": "The metal frame of the bicycle became completely deformed after it was crushed beneath the heavy wheels of the delivery truck."
+            },
+            {
+              "opt": "2",
+              "word": "derogatory",
+              "zh": "贬损的，侮辱性的；有失体面的（形容词，指言论、态度或文字带有强烈的轻蔑、不尊重或批判色彩，旨在故意损害他人的名誉、尊严或形象）",
+              "eg": "The man was sentenced to imprisonment after making derogatory remarks online that deeply hurt the religious sentiments of a minority group."
+            },
+            {
+              "opt": "3",
+              "word": "debilitating",
+              "zh": "使人衰弱的，使人无力的（形容词，指某种严重的疾病、长期慢性的身体疼痛或极为恶劣的经济环境，不断消耗并彻底削弱一个人的体能、精力或意志力）",
+              "eg": "The elderly patient found it incredibly difficult to walk independently after battling a debilitating muscular disease for over five years."
+            },
+            {
+              "opt": "4",
+              "word": "disheartening",
+              "zh": "令人灰心的，使人沮丧的（形容词，指某个糟糕的消息、失败的结果或残酷的现实极其令人失望，从而彻底消磨掉一个人的斗志、信心或积极性）",
+              "eg": "It was truly disheartening for the young athletes to see their months of rigorous physical training canceled along with the tournament."
+            }
+          ]
+        },
+        "13": {
+          "zh": "级长凯莉在向毕业年级致告别辞时充满自信。",
+          "note": "选（1）exuded：exude confidence 流露自信；时间从句 when + 一般过去时。",
+          "concept": "词汇辨析 — exuded（散发；流露）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "exuded",
+              "zh": "散发，流露；渗出（动词，指一个人自然而然地暴露出某种强烈的特质、情感或态度，让人清晰地感受到，亦指皮肤、植物分泌或渗出液体、气味）",
+              "eg": "Kelly, the head prefect, exuded absolute confidence and poise when she delivered her inspiring farewell speech to the graduating cohort."
+            },
+            {
+              "opt": "2",
+              "word": "emitted",
+              "zh": "发出，放射；排放（动词，专门指某种光源、热源、机器或烟囱，向空气中释放出光线、热量、刺耳的噪音、气体、辐射或有毒烟雾）",
+              "eg": "The specialized laboratory equipment constantly emitted a low, rhythmic humming sound while processing the biological samples."
+            },
+            {
+              "opt": "3",
+              "word": "ensued",
+              "zh": "随后发生，接着发生；结果是（动词，指由于某一个突发事件、误会或激烈的争吵作为导火索，紧接着随之而来发生了一系列连锁反应或必然结果）",
+              "eg": "When the referee made a highly controversial decision, a massive argument ensued between the rival players and their head coaches."
+            },
+            {
+              "opt": "4",
+              "word": "evolved",
+              "zh": "逐渐发展，演变；进化（动词，指某种语言、技术、商业模式、传统或生物，在漫长的时间流逝中，经过一步步的微调逐渐变得更加复杂、成熟或先进）",
+              "eg": "The small family-owned grocery shop successfully evolved into a multi-national online retail empire over the course of three decades."
+            }
+          ]
+        },
+        "14": {
+          "zh": "长跑选手发现自己遥遥领先，决定在最后一冲前稍微放慢一点。",
+          "note": "选（4）let up：暂时放缓节奏；decided to + 动词原形。",
+          "concept": "词汇辨析 — let up（放松；减缓）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "let down",
+              "zh": "使失望，辜负；放下，放长（动词短语，指未能达到他人的期望、未能履行承诺而使人感到沮丧，或者指放长衣服、降下旗帜）",
+              "eg": "The young athlete promised his dedicated coach that he would train harder and would not let down his supporters in the upcoming finals."
+            },
+            {
+              "opt": "2",
+              "word": "let go",
+              "zh": "放开，松手；解雇，释放（动词短语，指停止用手紧握某物或某人，或者指由于公司缩减开支而解雇员工，亦引申指放弃执念或过去的记忆）",
+              "eg": "You must let go of the safety handle only when the roller coaster ride has come to a complete and proper standstill inside the station."
+            },
+            {
+              "opt": "3",
+              "word": "let on",
+              "zh": "泄露（秘密），吐露；假装（动词短语，常用于否定句或疑问句，指在说话时不经意地透露出保密的信息、意图或隐藏的事实）",
+              "eg": "Although Ken already knew about the grand surprise birthday party his friends were planning, he did not let on and acted completely clueless."
+            },
+            {
+              "opt": "4",
+              "word": "let up",
+              "zh": "放松，减缓；停止，停歇（动词短语，指某种糟糕的天气、剧烈的疼痛或紧张的工作状态在强度上有所减弱，亦指人在努力奋斗中放慢脚步）",
+              "eg": "The long-distance runner realised that he was way ahead of his competitors and decided to let up for a bit before saving his energy for the final burst."
+            }
+          ]
+        },
+        "15": {
+          "zh": "“你资历高并不意味着可以恶劣对待下属，”玛克欣对老板说。",
+          "note": "选（1）seniority：in rank 指职级资历；间接引语。",
+          "concept": "词汇辨析 — seniority（资历；年资）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "seniority",
+              "zh": "资历，年资；级别高（名词，指因在某公司或机构工作时间更长，或在军衔、职位上更高而享有的优先权或崇高地位）",
+              "eg": "“Just because you have seniority in rank does not mean you can treat your subordinates badly,” Maxine said boldly to her boss."
+            },
+            {
+              "opt": "2",
+              "word": "authority",
+              "zh": "权威，权力；官方机构（名词，指组织或法律赋予某人的管辖权、发号施令的合法权力，亦指政府管理部门或行业专家）",
+              "eg": "The school discipline master has the absolute authority to suspend any student who repeatedly violates the code of conduct."
+            },
+            {
+              "opt": "3",
+              "word": "inferiority",
+              "zh": "下等，劣势；自卑感（名词，指在质量、价值、技能或地位上低于他人，亦经常专门用于形容心理上的自惭形秽）",
+              "eg": "The psychologist explained that constant criticism from parents can easily instill a deep sense of psychological inferiority in young children."
+            },
+            {
+              "opt": "4",
+              "word": "superiority",
+              "zh": "优越性，优势；优越感（名词，指在质量、技术、数量或阶层上明显高于、好于他人，亦可指因自视甚高而表现出的傲慢态度）",
+              "eg": "The defending champions demonstrated their tactical superiority on the field by dominating the football match from start to finish."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "heinous",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "illicit",
+            "2": "elicit",
+            "3": "solicit",
+            "4": "explicit"
+          }
+        },
+        "17": {
+          "stem_plain": "pass off as",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "reveal to be",
+            "2": "believe to be",
+            "3": "pretend to be",
+            "4": "ascertain to be"
+          }
+        },
+        "18": {
+          "stem_plain": "contentious",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "violent",
+            "2": "vehement",
+            "3": "controversial",
+            "4": "confrontational"
+          }
+        },
+        "19": {
+          "stem_plain": "purportedly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "admittedly",
+            "2": "repeatedly",
+            "3": "supposedly",
+            "4": "undoubtedly"
+          }
+        },
+        "20": {
+          "stem_plain": "meander",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "lurk",
+            "2": "walk",
+            "3": "roam",
+            "4": "prowl"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — heinous（非法的；不正当的）",
+          "note": "形容词 heinous 意为极恶劣的、可鄙的。在此网络行为考查语境下，用于形容越界且违法的恶意举动，与 illicit（非法的，不正当的，违禁的）互为考卷上的近义替换选项。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "illicit",
+              "zh": "非法的，不正当的，违禁的",
+              "eg": "The cybercrime division was set up to crack down on any illicit activities on social media."
+            },
+            {
+              "opt": "2",
+              "word": "elicit",
+              "zh": "引出，诱出，启发（动词）",
+              "eg": "The English teacher designed interactive tasks to elicit a lively response from the pupils."
+            },
+            {
+              "opt": "3",
+              "word": "solicit",
+              "zh": "征求，请求，招揽（意见/捐款等）",
+              "eg": "The local charity group went door-to-door to solicit donations for the historic flooded estate."
+            },
+            {
+              "opt": "4",
+              "word": "explicit",
+              "zh": "明确的，清晰的，直白的",
+              "eg": "The laboratory supervisor provided explicit instructions to ensure the safety of all technicians."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — pass off as（假装是）",
+          "note": "动词短语 pass off as 意为冒充、假装成。在描写网络虚假身份的命题语境中，它直接对应高频动词短语 pretend to be（假装是，装作）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reveal to be",
+              "zh": "揭示为，显现出是（常见结构为 reveal it to be）",
+              "eg": "Thorough background checks completed by the tech firm revealed him to be a professional fraudster."
+            },
+            {
+              "opt": "2",
+              "word": "believe to be",
+              "zh": "相信是，认为（常见结构为 believe it to be）",
+              "eg": "Based on the security certificates provided, local engineers believe the server to be perfectly safe."
+            },
+            {
+              "opt": "3",
+              "word": "pretend to be",
+              "zh": "假装是，冒充，装作",
+              "eg": "These online trolls often pretend to be innocent users before spreading malicious rumors."
+            },
+            {
+              "opt": "4",
+              "word": "ascertain to be",
+              "zh": "确认是，查明是（常见结构为 ascertain it to be）",
+              "eg": "Independent inspectors arrived early to analyze the factory data and ascertain it to be correct."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — contentious（有争议的）",
+          "note": "形容词 contentious 意为容易引发争论的、有异议的。在讨论网络话题或社会焦点时，直接对应同义词 controversial（有争议的）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "violent",
+              "zh": "暴力的，猛烈的",
+              "eg": "The sudden dispute near the gate unfortunately escalated into a violent clash between the two groups."
+            },
+            {
+              "opt": "2",
+              "word": "vehement",
+              "zh": "激烈的，强烈的，慷慨激昂的",
+              "eg": "The newly appointed council members engaged in a vehement debate over the annual dynamic budget."
+            },
+            {
+              "opt": "3",
+              "word": "controversial",
+              "zh": "有争议的，引发争论的",
+              "eg": "The manager decided to postpone the presentation to avoid bringing up a controversial topic."
+            },
+            {
+              "opt": "4",
+              "word": "confrontational",
+              "zh": "对抗性的，挑衅的",
+              "eg": "The assistant was reminded that using a confrontational tone during the interview was inappropriate."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — purportedly（据称；据说）",
+          "note": "副词 purportedly 意为声称地、据称、据说。在表示缺乏真实证据但主观宣称的学术辨析中，直接对标常用副词 supposedly（据称，据说，应当）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "admittedly",
+              "zh": "公认地，无可否认地，诚然",
+              "eg": "Admittedly, completing the 100km super marathon in a single day was an exceptionally hard task."
+            },
+            {
+              "opt": "2",
+              "word": "repeatedly",
+              "zh": "反复地，一再地",
+              "eg": "The primary school pupils were warned repeatedly not to leave their bags in the open canteen."
+            },
+            {
+              "opt": "3",
+              "word": "supposedly",
+              "zh": "据说，据称，应当",
+              "eg": "Some misguided individuals defend these trolls, supposedly acting in the name of free speech."
+            },
+            {
+              "opt": "4",
+              "word": "undoubtedly",
+              "zh": "无疑地，必定",
+              "eg": "Through months of relentless practice, he is undoubtedly the best candidate for the title."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — meander（漫游；闲逛）",
+          "note": "动词 meander 本意指河流蜿蜒或人在街头漫步、闲逛，在网络空间的文学比喻描写中，引申为无特定目的地浏览，对应核心词汇 roam（漫游，闲逛）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lurk",
+              "zh": "潜伏，埋伏（网络用语指“潜水”）",
+              "eg": "Anonymous internet trolls love to lurk online, waiting for an opportunity to launch attacks."
+            },
+            {
+              "opt": "2",
+              "word": "walk",
+              "zh": "走，步行",
+              "eg": "The local residents enjoy taking a quiet walk along the scenic river path every evening."
+            },
+            {
+              "opt": "3",
+              "word": "roam",
+              "zh": "漫游，闲逛，流浪",
+              "eg": "When you roam the vast expanses of the Internet, remember to treat others with kindness."
+            },
+            {
+              "opt": "4",
+              "word": "prowl",
+              "zh": "（野兽等）潜行觅食，暗中巡游",
+              "eg": "The wild tiger spent hours on the prowl through the thick jungle, searching for its next meal."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "How does one deal with online trolls? These trolls with their [Q16 (heinous)] schemes have made it difficult for many online users to enjoy the Internet. They [Q17 (pass off as)] innocent online users at first. When the time is right, these users often leave behind vile comments on [Q18 (contentious)] online topics that provoke other users into an argument. Despite being disturbed by the rise of such trolls, many other users have come to defend them, [Q19 (purportedly)] under the banner of free speech. There is no real solution to trolls unfortunately. As you [Q20 (meander)] the vast network of the Internet, the best you can do is practise graciousness and kindness."
+        ],
+        "zh": [
+          "如何应对网络喷子？这些喷子用极其恶劣的伎俩让许多网民难以安心上网。他们起初假装成无辜用户，时机一到就在易引发争论的话题下留下恶毒评论，挑起争吵。尽管许多人对喷子泛滥感到不安，仍有人以言论自由为名为他们辩护。遗憾的是没有真正解决办法；漫游互联网时，最好以礼貌与善良待人。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "What is the main purpose of the event?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to show people the wonders of nature",
+            "2": "to share interesting facts about edible plants",
+            "3": "to get students to volunteer as ambassadors",
+            "4": "to encourage people to start their own edible gardens"
+          }
+        },
+        "22": {
+          "stem_plain": "The Miniature Garden workshop teaches participants to _________ .",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "recycle boxes",
+            "2": "grow herbs and vegetables",
+            "3": "cook greens from their garden",
+            "4": "monitor how their vegetables are growing"
+          }
+        },
+        "23": {
+          "stem_plain": "In the section 'How to make a Seed Ball', which of the following statements is true?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A seed ball contains only one seed.",
+            "2": "Birds and animals enjoy eating the seed balls.",
+            "3": "The craft paper provides nutrients for the seeds to grow.",
+            "4": "A mixture of compost and clay is used to wrap the seeds."
+          }
+        },
+        "24": {
+          "stem_plain": "Mila wants to take the guided tour around the farm. She _________ .",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "should make payment at the booth",
+            "2": "should register for the tour at 3 p.m.",
+            "3": "will be able to taste some of the fruits",
+            "4": "will get to try out new farming methods"
+          }
+        },
+        "25": {
+          "stem_plain": "According to the excerpt from Nature Magazine, what is one concern that Singaporeans have when it comes to urban farming?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Location of edible plants",
+            "2": "Singapore's small land space",
+            "3": "The amount of pesticide farmers use",
+            "4": "Supermarkets only have produce from other countries"
+          }
+        },
+        "26": {
+          "stem_plain": "According to the excerpt, City Farm builds 'edible gardens'. What does the term 'edible gardens' refer to?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "gardens that are free of pesticides",
+            "2": "gardens that owners look after themselves",
+            "3": "gardens that produce vegetables and fruits",
+            "4": "gardens that are built in urban spaces like shopping malls"
+          }
+        },
+        "27": {
+          "stem_plain": "City Farm contributes to local farming efforts by _________ .",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "offering farm tours and workshops on weekdays",
+            "2": "assisting people with the design of their edible gardens",
+            "3": "going to schools to help students build vegetable gardens",
+            "4": "educating Singaporeans on the need for imported produce"
+          }
+        },
+        "28": {
+          "stem_plain": "What does City Farm look for in a student ambassador?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A love for gardening",
+            "2": "Experience in urban farming",
+            "3": "Good at giving educational talks",
+            "4": "The ability to train other students"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "主旨 — Main purpose — City Farm event（主要目的）",
+          "note": "<p>Flyer promotes City Farm workshops/tours on starting <em>edible gardens</em> at home → main purpose <span class=\"hl-good\">(4)</span> encourage people to start their own edible gardens.</p><p>Other options describe side activities or ambassador recruitment, not the core event aim.</p>",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "细节 — Detail check — Miniature Garden workshop（信息定位）",
+          "note": "<p>Workshop theme: grow herbs/vegetables in small containers → <span class=\"hl-good\">(2)</span> grow herbs and vegetables.</p><p>Recycling boxes, cooking, or monitoring growth are not the stated focus.</p>",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "细节 — Detail check — Seed Ball steps（信息定位）",
+          "note": "<p>Seed-ball instructions: wrap seeds in <em>compost and clay</em> mixture → <span class=\"hl-good\">(4)</span> mixture of compost and clay is used to wrap the seeds.</p><p>Single seed, animals eating them, or craft paper as nutrients are not supported.</p>",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "细节 — Detail check — guided farm tour（信息定位）",
+          "note": "<p>Guided tour advert mentions tasting farm produce/fruits → Mila <span class=\"hl-good\">(3)</span> will be able to taste some of the fruits.</p><p>Payment booth, 3 p.m. registration, or trying new methods are other options.</p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "细节 — Detail check — Nature Magazine excerpt（信息定位）",
+          "note": "<p>Excerpt cites concern about <em>pesticide</em> use in urban farming → <span class=\"hl-good\">(3)</span> the amount of pesticide farmers use.</p><p>Land space, location, or imported produce are distractors.</p>",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "题型 — Vocabulary in context — edible gardens（题型考点）",
+          "note": "<p>City Farm builds gardens that grow food you can eat → <span class=\"hl-good\">(3)</span> gardens that produce vegetables and fruits.</p><p>Pesticide-free, self-maintained, or mall location are not the definition given.</p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "细节 — Detail check — City Farm services（信息定位）",
+          "note": "<p>City Farm helps design home edible gardens for residents → <span class=\"hl-good\">(2)</span> assisting people with the design of their edible gardens.</p><p>Weekday tours, school builds, or import education differ from the text.</p>",
+          "answer": "2"
+        },
+        "28": {
+          "concept": "细节 — Detail check — student ambassador（信息定位）",
+          "note": "<p>Ambassador criteria emphasise passion for gardening/plants → <span class=\"hl-good\">(1)</span> a love for gardening.</p><p>Other traits (communication, grades, etc.) are not the keyed requirement.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "B": "are",
+          "C": "at",
+          "D": "but",
+          "E": "from",
+          "F": "has",
+          "G": "have",
+          "H": "of",
+          "J": "in",
+          "K": "its",
+          "L": "on",
+          "M": "their",
+          "N": "when",
+          "P": "which",
+          "Q": "with"
+        },
+        "cloze": [
+          "The aardvark gets its name from a South African word meaning 'earth pig'. [Q29] the aardvark looks like a pig, especially with its body and snout, aardvarks actually share common ancestors [Q30] elephants and golden moles. Aardvarks are found throughout much of sub-Saharan Africa.",
+          "Aardvarks use [Q31] large front claws to dig holes at a rate of 0.5 metres in 15 seconds. This enables them to get to their favourite meal [Q32] termites and ants. Aardvarks have long, sticky tongues with [Q33] they slurp up and swallow tens of thousands of insects from termite mounds and ants nests.",
+          "Aardvarks are most active [Q34] night and tend to live alone. During the day, they sleep curled up [Q35] their burrows. As night falls, aardvarks will emerge cautiously from their dens, [Q36] the lookout for predators. They are able to see at night, [Q37] otherwise have poor vision and are colour-blind.",
+          "Humans are the aardvark's biggest threat. Some landowners do not like the holes left behind by the aardvarks. The use of pesticides to grow crops on land inhabited by aardvarks [Q38] also reduced the number of insects available for aardvarks to eat. It is not surprising then, that its numbers are decreasing."
+        ],
+        "zh": [
+          "土豚之名来自南非语，意为“地猪”。尽管土豚外形像猪，尤其身体和吻部，其实与大象、金毛鼹有共同祖先。土豚广泛分布于撒哈拉以南非洲大部分地区。",
+          "土豚用它们的大前爪挖洞，十五秒可挖半米，以便吃到最爱的白蚁和蚂蚁。它们有长而黏的舌头，可吸进并吞下数以万计的昆虫。",
+          "土豚多在夜间活动，常独居。白天蜷缩在洞穴睡觉。夜幕降临时，它们小心出洞，警惕捕食者。它们能在夜间视物，但总体视力差且色盲。",
+          "人类是土豚最大威胁。一些地主不喜欢土豚留下的洞。在土豚栖息地上使用农药也减少了它们可食的昆虫，因此土豚数量正在下降。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "让步 — although",
+          "note": "although the aardvark looks like a = 结合句意选 although。",
+          "answer": "A — although"
+        },
+        "30": {
+          "concept": "介词 — from",
+          "note": "看前后搭配，选 from。",
+          "answer": "E — from"
+        },
+        "31": {
+          "concept": "指示/所有格 — their",
+          "note": "Aardvarks use their large front claws to dig = 结合句意选 their。",
+          "answer": "M — their"
+        },
+        "32": {
+          "concept": "介词 — of",
+          "note": "get to their favourite meal of termites and ants. = 看前后搭配，选 of。",
+          "answer": "H — of"
+        },
+        "33": {
+          "concept": "关系/连接词 — which",
+          "note": "have long, sticky tongues with which they slurp up and swallow = 定语/名词性从句 → which。",
+          "answer": "P — which"
+        },
+        "34": {
+          "concept": "介词 — at night",
+          "note": "Aardvarks are most active at night and tend to live = 看前后搭配，选 at。",
+          "answer": "C — at"
+        },
+        "35": {
+          "concept": "介词 — in burrows",
+          "note": "day, they sleep curled up in their burrows. = 看前后搭配，选 in。",
+          "answer": "J — in"
+        },
+        "36": {
+          "concept": "固定搭配 — on the lookout",
+          "note": "emerge cautiously from their dens, on the lookout for predators. = 结合句意选 on。",
+          "answer": "L — on"
+        },
+        "37": {
+          "concept": "连词 — but",
+          "note": "able to see at night, but otherwise have poor vision and = 句间逻辑 → but。",
+          "answer": "D — but"
+        },
+        "38": {
+          "concept": "主谓 — 时态/一致",
+          "note": "on land inhabited by aardvarks has also reduced the number of = 主谓一致 → has。",
+          "answer": "F — has"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "His name is Flanagan and he is my four-legged friend. [Q39(From)] a mere eight kilogrammes, his lineage hails from the Spaniel family. He has [Q40(flop)] ears, a tail that never stops wagging, and a brown coat.",
+          "Some time ago, I [Q41(enlist)] Flanagan in a programme to assist children [Q42(which)] have difficulty reading aloud. Most of the children in the programme [Q43(pesieve)] reading as something to be dreaded, but reading to a dog that is not [Q44(jargemantal)] changes everything for them.",
+          "During our library time, I unroll Flanagan's paw-print rug in the children's reading corner. Flanagan sits [Q45(ajascent)] to a bright yellow bookcase neatly stacked [Q46(on)] all types of inviting books for a child to read and explore. [Q47(Purched)] on top of the bookcase is an adorable plush puppy with a striking [Q48(rezembalance)] to Flanagan.",
+          "When the first child arrives, Flanagan wags his tail to welcome her, and the reading session begins. Flanagan listens [Q49(conshiensiously)] as the child reads, sometimes placing a paw on the child's knee. His attentiveness as each child reads aloud is [Q50(amaze)] to observe. Flanagan has heard all sorts of stories. Each week, Flanagan makes a difference, changing a child's life story, one word at a time."
+        ],
+        "zh": [
+          "它叫弗拉纳根，是我的四条腿朋友。出生时只有八公斤，血统来自西班牙猎犬家族。它有耷拉的耳朵，尾巴摇个不停，皮毛是棕色的。",
+          "不久前，我让弗拉纳根参加一个帮助朗读有困难儿童的计划。大多数孩子原先把阅读视为可怕的事，但对一只不会评判的狗朗读，一切都改变了。",
+          "图书馆时间里，我在儿童阅读角铺开弗拉纳根的爪印地毯。弗拉纳根坐在明亮的黄色书架旁，书架上整齐堆满各种吸引孩子的图书。书架顶上放着一只可爱的毛绒小狗，与弗拉纳根惊人地相似。",
+          "第一个孩子到来时，弗拉纳根摇尾欢迎，朗读便开始了。弗拉纳根专心听孩子读，有时把爪子放在孩子膝上。每个孩子朗读时那份专注令人赞叹。弗拉纳根听过各种故事；每周它都在改变孩子的人生故事，一个字一个字地。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Word form — weighing",
+          "note": "现在分词 weighing 作后置定语。故填'weighing'。",
+          "answer": "weighing"
+        },
+        "40": {
+          "concept": "Spelling — floppy",
+          "note": "形容词 floppy 修饰 ears。故填'floppy'。",
+          "answer": "floppy"
+        },
+        "41": {
+          "concept": "Tense — enlisted",
+          "note": "一般过去时 enlisted。故填'enlisted'。",
+          "answer": "enlisted"
+        },
+        "42": {
+          "concept": "Relative pronoun — who",
+          "note": "指人用 who。故填'who'。",
+          "answer": "who"
+        },
+        "43": {
+          "concept": "Spelling — perceive",
+          "note": "拼写 perceive。故填'perceive'。",
+          "answer": "perceive"
+        },
+        "44": {
+          "concept": "Spelling — judgmental",
+          "note": "拼写 judgmental。故填'judgmental'。",
+          "answer": "judgmental"
+        },
+        "45": {
+          "concept": "Spelling — adjacent",
+          "note": "拼写 adjacent。故填'adjacent'。",
+          "answer": "adjacent"
+        },
+        "46": {
+          "concept": "Preposition — with",
+          "note": "be stacked with 堆满。故填'with'。",
+          "answer": "with"
+        },
+        "47": {
+          "concept": "Spelling — perched",
+          "note": "拼写 perched。故填'perched'。",
+          "answer": "perched"
+        },
+        "48": {
+          "concept": "Spelling — resemblance",
+          "note": "拼写 resemblance。故填'resemblance'。",
+          "answer": "resemblance"
+        },
+        "49": {
+          "concept": "Spelling — conscientiously",
+          "note": "拼写 conscientiously。故填'conscientiously'。",
+          "answer": "conscientiously"
+        },
+        "50": {
+          "concept": "Word form — amazing",
+          "note": "系表结构 is amazing。故填'amazing'。",
+          "answer": "amazing"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "A team of scientists have unearthed what is believed to be the largest spider fossil ever found. [Q51] near the Daohugou village in Northeastern China, the perfectly preserved specimen is a close relative of the modern-day spider known as the Golden Silk Orb-Weaver. It is a type of spider known for the impressive [Q52] it weaves.",
+          "Experts [Q53] that the fossil is about 165 million years old. What surprises them is its rather large size, which [Q54] about five centimeters when stretched from end to [Q55]. That is because this specimen of spider [Q56] during a period when oxygen levels were much higher, causing similar insects to [Q57] to almost monstrous sizes. For example, back [Q58], dragonflies sported a wingspan of up to a metre, while millipedes measured over two metres.",
+          "Similar [Q59] today's Golden Silk Orb-Weaver, this spider also had silk spinning organs on its leg, suggesting that it too was capable of spinning large webs, to [Q60] its prey.",
+          "Scientists believe that the ancient spider has been around for over 350 million years [Q61] the Earth was one big supercontinent known as Pangaea. However, the species was well spread out by the time Pangaea [Q62] up into seven continents and can therefore be found in many [Q63] of the world today. Since its close relative thrives in tropical climate, scientists speculate that the Daohugoa region used to be warmer and more humid [Q64] it is today.",
+          "Generally, [Q65] are not well-represented in the fossil records as their soft external skeletons do not preserve well. As such, this is a significant find in the world of paleontology."
+        ],
+        "zh": [
+          "科学家在中国东北大沟沟村附近发掘出据信是迄今最大的蜘蛛化石。保存完好的标本是现代金蛛的近亲，以所织的壮观大网著称。",
+          "专家称化石约一亿六千五百万年。令人惊讶的是体型：拉直约五厘米。该蜘蛛生活在氧气更高的时期，类似昆虫可长到近乎巨大；例如当时蜻蜓翼展可达一米，千足虫超过两米。",
+          "与今日金蛛相似，这种蜘蛛腿上也具吐丝器官，说明也能织大网诱捕猎物。",
+          "科学家认为这种古老蜘蛛已存在三亿五千万年以上，当时地球还是名为盘古大陆的超级大陆。盘古分裂成七大洲时该物种已广泛分布，故今日世界多地可见。因其近亲喜热带气候，推测大沟沟村一带曾更暖更湿。",
+          "一般而言，蛛形纲动物因外骨骼软而不易形成化石，故此次发现对古生物学意义重大。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "过去分词短语充当伴随/地点状语",
+          "note": "修饰主句主语 the perfectly preserved specimen。指这个标本是在中国东北的道虎沟村附近被“发现”、“出土”或“定位”的，故填过去分词形式 Discovered / Unearthed / Found / Located。位于句首需大写。",
+          "answer": "Discovered/Unearthed/Found/Located"
+        },
+        "52": {
+          "concept": "名词语意与动词特定搭配",
+          "note": "作为定语从句 it weaves 的核心宾语。在关于蜘蛛的科学场景下，结合动词 weave（织），与之完美搭配的必然是复数名词 webs，意为它能织出令人惊叹的“蛛网”。",
+          "answer": "webs"
+        },
+        "53": {
+          "concept": "现在时动词陈述句型",
+          "note": "主语为复数名词 Experts（专家），本句陈述目前达成的科学共识，用一般现在时。指专家们“估计”、“算出”或“认为”这块化石有1.65亿年历史，故填动词原形 estimate / calculate / state / say / believe。",
+          "answer": "estimate/calculate/state/say/believe"
+        },
+        "54": {
+          "concept": "主谓一致与一般现在时动词",
+          "note": "关系代词 which 引导定语从句修饰单数名词短语 its rather large size，从句谓语动词需用单三形式。结合后文“从头到尾约五厘米”的数值，指其尺寸“达到（reaches/measures）”或“是（is）”五厘米，故填 measures / reaches / is。",
+          "answer": "measures/reaches/is"
+        },
+        "55": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的介词短语 from end to 完美结合。构成英语中用于形容物体首尾总跨度、总长度的经典专属习惯短语 from end to end，意为“从一端到另一端”。",
+          "answer": "end"
+        },
+        "56": {
+          "concept": "一般过去时动词语意",
+          "note": "主语为这一特定的蜘蛛标本，后接 during a period（在那样的一个历史时期），叙述远古历史，谓语动词需采用一般过去时。指这种蜘蛛“生活”、“存在”或“繁衍”在那个含氧量极高的时代，故填 lived / existed / thrived。",
+          "answer": "lived/existed/thrived"
+        },
+        "57": {
+          "concept": "使役结构后的动词原形",
+          "note": "与前面的使役动词结构 causing similar insects to 完美组合，后接动词原形。指当时的高含氧量促使类似的昆虫“生长（grow）”或“发育成（develop）”近乎怪兽般的庞大体型。",
+          "answer": "grow/develop"
+        },
+        "58": {
+          "concept": "时间副词习惯短语",
+          "note": "与前置词 back 完美结合。构成在各类科学考古、历史讲述中极其核心和高频的专属回溯时间习语 back then，意为“在那个时候/在远古时期”，蜻蜓的翼展能达到一米。",
+          "answer": "then"
+        },
+        "59": {
+          "concept": "形容词与介词固定搭配",
+          "note": "后接名词短语 today's Golden Silk Orb-Weaver。完美契合高频常考的经典形容词加介词专属固定句式 be Similar to...，意为与现在的金丝蛛“相似”。",
+          "answer": "to"
+        },
+        "60": {
+          "concept": "动词不定式（目的）",
+          "note": "不定式符号 to 后接动词原形。在探讨捕食者结网的生物学场景下，指它结出巨网的目的是为了去“捕捉”、“引诱”或“套住”它的猎物，故填入动词原形 trap / catch / capture / snare / lure。",
+          "answer": "trap/catch/capture/snare/lure"
+        },
+        "61": {
+          "concept": "定语从句关系副词",
+          "note": "引导限定性定语从句，修饰表示时间跨度的先行词 350 million years。当时地球还是一块连成一体的超大古陆，在从句中充当时间状语，故填入关系副词 when。",
+          "answer": "when"
+        },
+        "62": {
+          "concept": "一般过去时短语动词搭配",
+          "note": "主语为超级古大陆 Pangaea，后接副词短语 up into seven continents，叙述地质历史。完美契合形容大陆板块分裂、裂开的特定短语动词 split up 或者是 broke up，需用过去时形式。",
+          "answer": "split/broke"
+        },
+        "63": {
+          "concept": "名词语意与呼应",
+          "note": "前面有数量形容词 many 修饰，后接介词短语 of the world today。指随着大陆漂移，这种生物如今已经广泛分布并被发现在世界上的许多“地区”、“角落”或“地方”，故填复数名词 regions / parts / corners / places / areas。",
+          "answer": "regions/parts/corners/places/areas"
+        },
+        "64": {
+          "concept": "形容词比较级句型",
+          "note": "前文出现了明确的比较级形容词 warmer and more humid。与之呼应并构成跨越时空对比的必然是比较连词 than，用以推测该地区在远古时期比“现在（than it is today）”更加温暖潮湿。",
+          "answer": "than"
+        },
+        "65": {
+          "concept": "名词语意与文体分类呼应",
+          "note": "修饰名词主语，后接复数谓语动词 are not well-represented。结合全篇的大主旨，此类生物因为软质外骨骼不易保存而极难形成化石。此处填入代指此类昆虫或蛛形纲的复数名词 spiders / insects / arachnids 均在科学层面上完全正确且符合考卷标准。位于句首需大写。",
+          "answer": "spiders/insects/arachnids"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Lucy tried very hard. She could not master the skill of skipping.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "However __________"
+        },
+        "67": {
+          "stem_plain": "John was relieved when he received the news that he had passed with flying colours.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ with great __________"
+        },
+        "68": {
+          "stem_plain": "\"I will meet you after school today,\" Mrs Lim said to her son.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mrs Lim told her son that __________"
+        },
+        "69": {
+          "stem_plain": "The children were curious. They opened the brightly-coloured box.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Out of __________"
+        },
+        "70": {
+          "stem_plain": "The principal invited the musician to speak to the students. The musician's song won an award.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ whose __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "让步结构 — However hard（Concession）",
+          "zh": "无论露西多么努力，她都学不会跳绳。",
+          "note": "However hard … 引导让步状语；合并为一句。",
+          "answer": "However hard Lucy tried, she could not master the skill of skipping."
+        },
+        "67": {
+          "concept": "名词化 — with great relief（Nominalisation）",
+          "zh": "约翰收到他以优异成绩通过的消息，大大松了一口气。",
+          "note": "with great relief 作状语；两句合并。",
+          "answer": "John received the news that he had passed with flying colours with great relief."
+        },
+        "68": {
+          "concept": "间接引语 — told … that（Reported speech）",
+          "zh": "林太太告诉儿子，她那天放学后会去接他。",
+          "note": "间接引语：时态后移 will→would，today→that day。",
+          "answer": "Mrs Lim told her son that she would meet him after school that day."
+        },
+        "69": {
+          "concept": "介词短语 — Out of curiosity（Prepositional phrase）",
+          "zh": "出于好奇，孩子们打开了那个色彩鲜艳的盒子。",
+          "note": "Out of + 名词，置于句首；合并两句。",
+          "answer": "Out of curiosity, the children opened the brightly-coloured box."
+        },
+        "70": {
+          "concept": "定语从句 — whose（Relative clause）",
+          "zh": "校长邀请了歌曲获奖的那位音乐家向学生讲话。",
+          "note": "whose 引导定语从句修饰 musician；一句合并。",
+          "answer": "The principal invited the musician whose song won an award to speak to the students."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Pick out a three-word phrase in paragraph one which suggest that Phil had something to do?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Why did Phil need to meet his younger brother before school began?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Explain clearly why Phil had grabbed Daniel?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "State whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Daniel was offended by Phil's accusation that he had stolen the jacket.",
+                "(b) Jimmy had previously used the jacket.",
+                "(c) Phil had been informed by his mother that she had given away some clothes."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]",
+                "[Q74e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]",
+                "[Q74f]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **it** (line 4)",
+                "(b) **that** (line 18)",
+                "(c) **someone** (line 31)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]",
+                "[Q75c]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Look at the table below. Based on lines 20 to 30, what was the action and the meaning behind the action for each of the characters. Write your answers in the blanks.",
+          "marks": 2,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "(a) Daniel",
+                "(b) Mrs Atkins"
+              ]
+            },
+            "col_2": {
+              "header": "Action",
+              "rows": [
+                "[Q76a]",
+                "**Her eyebrows shot up.** (line 27)"
+              ]
+            },
+            "col_3": {
+              "header": "What it meant",
+              "rows": [
+                "He gave permission for Mrs Atkins to check the label in his jacket.",
+                "[Q76b]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Choose a word between lines 30 to 40 which has a similar meaning to each given word or phrase below.",
+          "marks": 2,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Phrases",
+              "rows": [
+                "(a) extremely critical",
+                "(b) hesitantly"
+              ]
+            },
+            "col_2": {
+              "header": "Word from the passage",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Daniel received a gift from his grandmother.",
+            "Phil had outgrown the jacket.",
+            "Phil's mother had given the jacket to her cleaning lady."
+          ]
+        },
+        "79": {
+          "stem_plain": "Which two of the following words correctly describe how Daniel felt in lines 39–46? Put a tick in the box beside each of your answers. DO NOT TICK MORE THAN TWO BOXES.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "guilty",
+            "sad",
+            "humiliated",
+            "indifferent",
+            "afraid",
+            "confused"
+          ],
+          "max_selections": 2
+        },
+        "80": {
+          "stem_plain": "Explain clearly why Phil was embarrassed in line 41.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "It was Thursday morning just before assembly. Phil was on a mission. Hurrying along the",
+          "2": "Primary 3 corridor, he looked for his younger brother. Jimmy had left the house early to walk to school",
+          "3": "with a friend and had inadvertently forgotten his pocket money. As a Primary 6 boy, Phil had been",
+          "4": "entrusted to ensure that Jimmy had **it** in time for recess.",
+          "5": "Phil was about to pop into his brother's classroom when he thought he saw the back of his",
+          "6": "brother's jacket further ahead. It had to be Jimmy. No one else in the school had a jacket like that",
+          "7": "one.",
+          "8": "\"Hey Jimmy!\" he called out but his brother did not stop. Phil rushed forward and grabbed",
+          "9": "hold of the boy. But it wasn't Jimmy. It was someone Phil had never seen before and he was wearing",
+          "10": "Jimmy's jacket. As the boy struggled to break free, Mrs Atkins came striding towards them.",
+          "11": "Immediately, sensing the teacher's presence, Phil released his grip. Glaring at both boys, Mrs Atkins",
+          "12": "ordered them to follow her. Once they were at the school office, Mrs Atkins asked the younger of the",
+          "13": "two to explain.",
+          "14": "\"I was walking along the corridor when this boy grabbed me. I didn't do anything!\" explained",
+          "15": "Daniel.",
+          "16": "\"He stole my brother's jacket,\" explained Phil.",
+          "17": "\"Liar!\" Daniel immediately jumped to his feet and faced Phil, his fists clenched. \"I have never",
+          "18": "stolen anything! This jacket is from my grandmother, a birthday present. Stop saying **that**!\"",
+          "19": "\"Boys! I am sure this is a simple misunderstanding. Isn't possible that this is just an identical",
+          "20": "jacket, Phil?\" Mrs Atkins reasoned.",
+          "21": "Phil shook his head forcefully. \"My mother got that jacket for me when she was overseas",
+          "22": "some years ago. Go on, look at the label inside the collar. It will say 'Di Roma'. That's because she",
+          "23": "got it in Rome. That is my jacket which I've outgrown so Jimmy, my younger brother, has been using",
+          "24": "it.\"",
+          "25": "When Mrs Atkins asked Daniel for permission to look at the label, Daniel turned his back to",
+          "26": "her, indicating consent. The teacher gently pulled the collar of the jacket back. As she did,",
+          "27": "her eyebrows shot up. She stated that the jacket indeed had that specific label. Even as Phil started",
+          "28": "to accuse Daniel yet again of stealing, she told the boys to remain quietly seated while she made a",
+          "29": "quick telephone call.",
+          "30": "Returning a short while later, Mrs Atkins explained that she had called Daniel's mother. It turned",
+          "31": "out that both boys were right. **Someone** had given the jacket to Daniel's grandmother and she had",
+          "32": "given it to Daniel.",
+          "33": "Phil was about to make a scathing remark when something registered in his mind. It was only",
+          "34": "then that he remembered seeing his mother packing some clothes to give away. Turning to Daniel,",
+          "35": "he asked tentatively, \"Who is your grandmother? What's her name?\"",
+          "36": "Daniel curled his lip. \"None of your business. But her name is Lucy Taylor.\"",
+          "37": "Immediately, Phil's face reddened. \"Hey, I am sorry I grabbed you! You are right. It's your",
+          "38": "jacket.\"",
+          "39": "\"What?\" Daniel looked straight at Phil. \"You accuse me of stealing and now you tell me",
+          "40": "that the jacket is mine. Why?\"",
+          "41": "Phil looked at the floor, embarrassed. \"It's just that, I know your grandmother. You see,",
+          "42": "she's... she helps my mom to clean the house. I guess my mom must have given her the jacket.\"",
+          "43": "The words seemed to echo off the walls.",
+          "44": "Daniel looked like he had been punched in the stomach. He backed towards the office door,",
+          "45": "anger written all over his face. Yanking off the jacket, he threw it at Phil's feet. \"There's your jacket,",
+          "46": "Rich Kid! I don't need your charity!\"",
+          "47": "As Phil bent down to grab the jacket, he was full of remorse. Although all he had done was",
+          "48": "to tell the truth, he knew he was in the wrong. Standing up, jacket in hand, Phil resolved to be gracious",
+          "49": "and avoid making assumptions."
+        },
+        "paragraphs": {
+          "1": "周四早晨集会前，Phil 有事要做。他沿小三走廊找弟弟 Jimmy；Jimmy 一早与朋友步行上学，忘了零花钱，六年级的 Phil 受托确保弟弟课间前拿到钱。",
+          "5": "他正要进弟弟教室，却见前方有人穿着像弟弟的夹克；一定是 Jimmy，全校没人有同款。",
+          "8": "他喊 Jimmy，那人却不停；Phil 冲上去抓住对方，才发现是陌生人穿着 Jimmy 的夹克。男孩挣扎时 Atkins 老师走来；Phil 松手，老师带两人去办公室，让年纪较小的男孩说明。",
+          "14": "Daniel 说自己好好走路却被抓，什么也没做。",
+          "16": "Phil 说他偷了弟弟的夹克。",
+          "17": "Daniel 跳起来握拳喊骗子，称从未偷窃，夹克是祖母送的生日礼物。",
+          "19": "Atkins 老师说肯定是误会，也许是同款夹克。",
+          "21": "Phil 摇头说母亲在罗马买的 “Di Roma” 夹克，自己穿不下才给弟弟 Jimmy 穿。",
+          "25": "老师问能否看标签，Daniel 转身同意；老师拉衣领，眉毛扬起，确认标签；Phil 再指控时老师让两人坐着，她打电话。",
+          "30": "不久回来，说已联系 Daniel 母亲；两人都对——有人把夹克给了 Daniel 的祖母，她又给了 Daniel。",
+          "33": "Phil 正要刻薄发言时想起母亲打包送人；他试探问 Daniel 祖母姓名。",
+          "36": "Daniel 说名字不关你事，她叫 Lucy Taylor。",
+          "37": "Phil 脸红道歉，说夹克是 Daniel 的。",
+          "39": "Daniel 质问为何先指控偷窃又说夹克是他的。",
+          "41": "Phil 低头说祖母帮母亲打扫家里，母亲大概把夹克送给了她。",
+          "43": "话音在石壁间回荡。",
+          "44": "Daniel 像被打了一拳，怒脱下夹克扔在 Phil 脚边，喊不需要 Rich Kid 的施舍。",
+          "47": "Phil 捡起夹克满心懊悔，知自己错了，立志宽厚、不再妄下判断。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录三词短语（1 分）。</li><li><strong>范围：</strong>第一段，行 1–4。</li><li><strong>证据：</strong>行 1 <em>Phil was on a mission</em> 表示他有任务要做。</li><li><strong>答：</strong><em>on a mission</em>。</li></ol>",
+          "answer": [
+            "on a mission"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析（2 分）。</li><li><strong>范围：</strong>行 2–4。</li><li><strong>证据：</strong>Jimmy 忘了带 pocket money；Phil 受托确保弟弟 recess 前有钱。</li><li><strong>答：</strong>Phil 要把 Jimmy 早上忘带的零花钱交给他。</li></ol>",
+          "answer": [
+            "Phil had to give Jimmy the money he forgot to take that morning."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>解释原因（2 分）。</li><li><strong>范围：</strong>行 5–9。</li><li><strong>证据：</strong>Phil 以为穿夹克的是 Jimmy；叫喊后对方不停，他冲上去抓住 Daniel。</li><li><strong>答：</strong>Phil 见 Daniel 穿 Jimmy 的夹克以为是弟弟，叫不停便抓住他。</li></ol>",
+          "answer": [
+            "Phil saw Daniel wearing Jimmy's jacket and thought it was him, but when Phil called out for Jimmy, he did not stop and went to grab Daniel for him to stop walking."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>范围：</strong>行 17–18、21–23、33–34。</li><li><strong>(a) True：</strong>Daniel 闻言跳起、握拳面对 Phil，表被冒犯。</li><li><strong>(b) True：</strong>Phil 穿不下后让给 Jimmy 穿。</li><li><strong>(c) False：</strong>Phil 只见母亲打包旧衣，并未被告知。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "True",
+            "74b": "When Daniel heard Phil's accusation, he immediately jumped to his feet and faced Phil, with his fists clenched",
+            "74c": "True",
+            "74d": "Phil had outgrown the jacket so he had passed it on to his younger brother",
+            "74e": "False",
+            "74f": "Phil had seen his mother packing some clothes to give away but was not informed by her"
+          }
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>范围：</strong>行 4、18、31。</li><li><strong>(a) it：</strong>Jimmy 的 pocket money（行 4）。</li><li><strong>(b) that：</strong>Daniel 偷 Jimmy 夹克（行 18 指控内容）。</li><li><strong>(c) someone：</strong>Phil 的母亲（行 31 把夹克送人者）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "Jimmy's pocket money",
+            "75b": "Daniel stealing Jimmy's jacket",
+            "75c": "Phil's mother"
+          }
+        },
+        "76": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>范围：</strong>行 25–27。</li><li><strong>(a) Daniel：</strong>转身背对老师，表示同意看标签。</li><li><strong>(b) Mrs Atkins：</strong>眉毛扬起，因标签与 Phil 所说一致而震惊。</li></ol>",
+          "answer": {
+            "76a": "Daniel turned his back to Mrs Atkins.",
+            "76b": "She was shocked to see that the jacket had the same label as what Phil had said."
+          },
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "同义替换表",
+          "note": "<ol><li><strong>范围：</strong>行 30–40。</li><li><strong>(a) extremely critical →</strong>行 33 <em>scathing remark</em>。</li><li><strong>(b) hesitantly →</strong>行 35 <em>tentatively</em> asked。</li></ol>",
+          "answer": {
+            "77a": "scathing",
+            "77b": "tentatively"
+          },
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>顺序：</strong>3, 1, 2。</li><li><strong>(3) 最先：</strong>Phil 母亲把夹克送给清洁女工（行 31–32 背景）。</li><li><strong>(1) 其次：</strong>祖母把夹克作为礼物给 Daniel。</li><li><strong>(2) 最后：</strong>Phil 穿不下夹克（行 21–23）。</li></ol>",
+          "answer": [
+            "3, 1, 2"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>范围：</strong>行 39–46。</li><li><strong>证据：</strong>Daniel 被当众冤枉又得知奶奶为 Phil 家打扫，感到 <em>humiliated</em>；对 Phil 前后矛盾说法感到 <em>confused</em>。</li><li><strong>答：</strong>humiliated + confused。</li></ol>",
+          "answer": [
+            "humiliated",
+            "confused"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>行 41–42、31–32。</li><li><strong>证据：</strong>Phil 误控 Daniel 偷夹克；发现夹克是母亲送出的；羞于说明 Daniel 的祖母在自己家做清洁。</li><li><strong>答：</strong>错怪 Daniel、意识到夹克已送人、不好意思透露两家关系。</li></ol>",
+          "answer": [
+            "He had wrongly accused Daniel of stealing his jacket. He realized that the jacket had been given away. He was embarrassed to tell Daniel that his grandmother worked for Phil's mother."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

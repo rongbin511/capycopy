@@ -1,0 +1,690 @@
+{
+  "paperid": "p6_english_2012_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The boys continued with the game __________ being tired.",
+          "options": {
+            "1": "until",
+            "2": "despite",
+            "3": "although",
+            "4": "because"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "16": {
+          "stem_plain": "Even though she is good in both studies and sports, Devi remains ________ about her achievements.",
+          "options": {
+            "1": "modest",
+            "2": "arrogant",
+            "3": "generous",
+            "4": "pretentious"
+          }
+        },
+        "17": {
+          "stem_plain": "The police could not ________ the location of the crime scene as the victim had lost her memory.",
+          "options": {
+            "1": "detect",
+            "2": "decipher",
+            "3": "determine",
+            "4": "distinguish"
+          }
+        },
+        "18": {
+          "stem_plain": "Mike was scolded by his mother for ________ his responsibility of tidying up his room and making his sister do it instead.",
+          "options": {
+            "1": "shirking",
+            "2": "denying",
+            "3": "diverting",
+            "4": "escaping"
+          }
+        },
+        "19": {
+          "stem_plain": "Mr Tang forgot to pay the membership fee for his badminton club on time and ________ a small fine for the late payment.",
+          "options": {
+            "1": "attained",
+            "2": "incurred",
+            "3": "obtained",
+            "4": "acquired"
+          }
+        },
+        "20": {
+          "stem_plain": "John tried to ________ a conversation with the new student who had just joined the class.",
+          "options": {
+            "1": "strike at",
+            "2": "strike up",
+            "3": "strike off",
+            "4": "strike out"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "16": {
+          "note": "“Even though（尽管）”引导让步状语从句，主句内容应与从句的“优秀”形成反差。优秀的普通人保持“modest（谦虚的）”最符合逻辑。",
+          "zh": "尽管德维在学业和运动方面都很优秀，但她对自己的成就依然保持谦虚。",
+          "concept": "词汇-语境线索 Vocabulary-Contextual Clues",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "modest",
+              "zh": "谦虚的，低调的（指不吹嘘自己的成就或才能）",
+              "eg": "The famous scientist was remarkably modest about his great discoveries."
+            },
+            {
+              "opt": "2",
+              "word": "arrogant",
+              "zh": "傲慢的，自大的（指自高自大、看不起别人）",
+              "eg": "His arrogant behavior made him very unpopular among his colleagues."
+            },
+            {
+              "opt": "3",
+              "word": "generous",
+              "zh": "慷慨的，大方的（指乐于给予金钱、时间或帮助）",
+              "eg": "The billionaire made a very generous donation to the children's hospital."
+            },
+            {
+              "opt": "4",
+              "word": "pretentious",
+              "zh": "炫耀的，矫饰的（指为了令人印象深刻而装作很有抱负、很有才华或很富有）",
+              "eg": "The pretentious writer used complicated words to sound highly intellectual."
+            }
+          ]
+        },
+        "17": {
+          "zh": "由于受害者失去了记忆，警方无法确定案发现场的位置。",
+          "note": "“determine the location”是固定搭配，意为“确定/查明位置”。因为受害者失忆，警方无法“查明、确切获知”现场在哪。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "detect",
+              "zh": "察觉，发现（通常指发现隐藏的事物、气味、微小变化或罪行）",
+              "eg": "The dog was trained to detect the smell of illegal explosives."
+            },
+            {
+              "opt": "2",
+              "word": "decipher",
+              "zh": "破译，辨认（指破译密码、密码文或辨认极难看懂的字迹）",
+              "eg": "The codebreakers worked for days to decipher the secret message."
+            },
+            {
+              "opt": "3",
+              "word": "determine",
+              "zh": "确定，查明（指通过调查、研究或计算得出确切的结论或位置）",
+              "eg": "It is difficult to determine the exact age of these ancient ruins."
+            },
+            {
+              "opt": "4",
+              "word": "distinguish",
+              "zh": "区分，辨别（指看清或听清两者的区别，或在嘈杂中辨别出某人某物）",
+              "eg": "It was too dark to distinguish between the two different cars."
+            }
+          ]
+        },
+        "18": {
+          "zh": "迈克因为推卸整理房间的责任并让妹妹代替他做，受到了母亲的责备。",
+          "note": "“shirking one's responsibility”是英语里非常经典的固定搭配，意为“逃避/推卸责任”。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "shirking",
+              "zh": "逃避，推卸（专门指逃避应该履行的责任、工作或义务）",
+              "eg": "He was fired from his job for constantly shirking his daily duties."
+            },
+            {
+              "opt": "2",
+              "word": "denying",
+              "zh": "否认，拒绝给予（指声明某事不是真的，或拒绝给某人某物）",
+              "eg": "The suspect denied all charges brought against him by the police."
+            },
+            {
+              "opt": "3",
+              "word": "diverting",
+              "zh": "转移，使分心（指改变车辆路线，或者将注意力、资金转移到别处）",
+              "eg": "The loud noise outside succeeded in diverting the children's attention."
+            },
+            {
+              "opt": "4",
+              "word": "escaping",
+              "zh": "逃跑，逃脱（指逃离危险、监狱，通常不直接加名词作“逃避责任”）",
+              "eg": "The prisoners managed to escape from the maximum-security jail."
+            }
+          ]
+        },
+        "19": {
+          "zh": "唐先生忘记按时缴纳羽毛球俱乐部的会员费，结果因逾期付款而招致了少额罚款。",
+          "note": "“incur a fine”是法律与商业语境中的高频固定搭配，意为“招致/被处以罚款”。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "attained",
+              "zh": "获得，达到（指通过长期努力实现目标或获得某种地位）",
+              "eg": "She attained a very high position in the software development company."
+            },
+            {
+              "opt": "2",
+              "word": "incurred",
+              "zh": "招致，引起（通常指因为自己的过错或行为，招致了负面结果，如罚款、亏损或愤怒）",
+              "eg": "You will incur a severe penalty if you return the library book late."
+            },
+            {
+              "opt": "3",
+              "word": "obtained",
+              "zh": "获得，赢得（指通过努力、购买或索取得到某物）",
+              "eg": "He managed to obtain a copy of the confidential business report."
+            },
+            {
+              "opt": "4",
+              "word": "acquired",
+              "zh": "习得，购得（指通过学习掌握知识技能，或通过购买获得巨额资产）",
+              "eg": "The museum recently acquired a rare oil painting by a French artist."
+            }
+          ]
+        },
+        "20": {
+          "zh": "约翰试图与刚加入班级的新同学搭讪聊天。",
+          "note": "短语动词“strike up”与 conversation 搭配时，“strike up a conversation”是英语中表示“主动找人搭讪、攀谈、开始交谈”的固定短语。",
+          "concept": "短语动词 Phrasal Verbs",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "strike at",
+              "zh": "向……打击，猛扑（指向某个目标发起攻击或打击）",
+              "eg": "The desperate man tried to strike at the wild animal with a stick."
+            },
+            {
+              "opt": "2",
+              "word": "strike up",
+              "zh": "建立，开始（特别是开始与人交谈、建立友谊或演奏音乐）",
+              "eg": "It is usually easy for her to strike up friendships with classmates."
+            },
+            {
+              "opt": "3",
+              "word": "strike off",
+              "zh": "除名，删去（指从名册、名单中划掉名字，取消执业资格）",
+              "eg": "The dishonest doctor was struck off the official medical register."
+            },
+            {
+              "opt": "4",
+              "word": "strike out",
+              "zh": "独立谋生；（棒球）三振出局（指独立闯荡，或走向新方向）",
+              "eg": "He decided to leave his father's company and strike out on his own."
+            }
+          ],
+          "image": "a20.jpeg"
+        }
+      }
+    },
+    "103": {
+      "questions": {},
+      "passages": {
+        "cloze": [
+          "This is a [Q16 (prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "31": {
+          "concept": "关系从句（定语从句关系副词）",
+          "note": "‘present where you least expect them’，关系副词 where 引导地点状语从句或省略先行词的定语从句，意为‘在（那些）你最意想不到的地方存在’。",
+          "answer": "M"
+        },
+        "32": {
+          "concept": "并列连词/副词（否定词位于句首的部分倒装）",
+          "note": "‘Little do they know that...’，半否定词 little 位于句首时，句子要进行部分倒装。全篇客观陈述现状用一般现在时，主语为 they，故借用助动词 do 提前构成倒装，意为‘他们几乎不知道……’。",
+          "answer": "E"
+        },
+        "33": {
+          "concept": "连词用法（因果关系引导表语从句）",
+          "note": "‘This is because raw meat...’，固定句式 This is because... 意为‘这是因为……’，用来引导表语从句，解释前文水槽比浴室更脏的原因。",
+          "answer": "C"
+        },
+        "34": {
+          "concept": "情态动词（表示客观必须或强制要求）",
+          "note": "‘the sink must be scrubbed’，情态动词 must 与后面的被动语态原形 be scrubbed 连用，表示‘（水槽）必须用抗菌产品进行刷洗’。",
+          "answer": "H"
+        },
+        "35": {
+          "concept": "动词时态与主谓一致（一般现在时单数）",
+          "note": "‘Another unexpected place... is the bathtub’，本句的核心主语是单数第三人称名词 place（地方），全篇客观陈述科学事实，故系动词选用 is。",
+          "answer": "G"
+        },
+        "36": {
+          "concept": "并列连词/副词（并列转折关系）",
+          "note": "‘You may not believe it but it is true’，连词 but 在此连接两个并列的简短分句，表示轻微转折，意为‘你可能不相信，但这是真的’。",
+          "answer": "D"
+        },
+        "37": {
+          "concept": "介词搭配（动副短语固定搭配）",
+          "note": "‘build up’ 是固定短语，在此表示‘（细菌在浴缸里）聚集、滋生、堆积’。",
+          "answer": "L"
+        },
+        "38": {
+          "concept": "关系从句（“介词+关系代词”引导定语从句）",
+          "note": "‘some of whom might have handled...’，关系代词 whom 引导限制性定语从句，在介词 of 后面指代前文表示人的先行词 people（人们），作介词宾语。",
+          "answer": "P"
+        },
+        "39": {
+          "concept": "关系从句（非限制性定语从句指代整件事）",
+          "note": "‘..., which is a sure way to...’，关系代词 which 引导非限制性定语从句，用逗号与前文隔开，指代前面“小孩子经常把手指放进嘴里和鼻子里”这整一件事，并在从句中作主语。",
+          "answer": "N"
+        },
+        "40": {
+          "concept": "介词用法（表示工具、手段或途径）",
+          "note": "‘spread through hand contact’，介词 through 在此表示‘通过、经由……手段/途径（通过手部接触传播）’。",
+          "answer": "K"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "B": "are",
+          "C": "because",
+          "D": "but",
+          "E": "do",
+          "F": "in",
+          "G": "is",
+          "H": "must",
+          "J": "over",
+          "K": "through",
+          "L": "up",
+          "M": "where",
+          "N": "which",
+          "P": "whom",
+          "Q": "will"
+        },
+        "cloze": [
+          "You probably know that germs can make you sick, and that they are found in all kinds of places. But did you know that some of these germs are present [Q31] you least expect them? Many people are proud of how clean they keep their kitchens. Little [Q32] they know that kitchen sinks and sponges are actually dirtier than most bathrooms! This is [Q33] raw meat is often prepared at the sink, and the sink [Q34] be scrubbed with an antibacterial product to wash away the bacteria from the raw meat.",
+          "Another unexpected place where germs are found [Q35] the bathtub. You may not believe it [Q36] it is true: the place you go to get clean is actually quite dirty. Bathing washes germs off your body, but they may build [Q37] in the tub. As the tub is a fairly moist environment, bacteria grow quickly.",
+          "Shopping trolley handles are also extremely dirty. This should not be surprising since the trolleys are used by dozens of people every day, some of [Q38] might have handled raw food among their purchases.",
+          "Playgrounds are another place with lots of germs. Children put their fingers in their mouths and noses very often, [Q39] is a sure way to spread germs around. Eighty percent of infections are spread [Q40] hand contact, so one sure way to prevent the spread of germs is to wash your hands thoroughly and frequently."
+        ],
+        "zh": [
+          "你可能知道细菌会让你生病，而且它们存在于各种各样的地方。但你知不知道，其中一些细菌恰恰存在于你最意想不到的地方？许多人因自己把厨房收拾得多么干净而感到自豪。他们几乎不知道，厨房的水槽和海绵实际上比大多数浴室还要脏！这是因为生肉经常在水槽里处理，而水槽必须用抗菌产品进行刷洗，以洗掉生肉带来的细菌。",
+          "另一个容易发现细菌的意想不到的地方是浴缸。你可能不相信，但这是真的：你为了洗干净身体而去的那个地方，实际上却相当脏。洗澡能洗掉你身上的细菌，但它们可能会在浴缸里聚集滋生。由于浴缸是一个相当潮湿的环境，细菌会迅速生长。",
+          "超市购物推车的手柄也极其脏。这并不奇怪，因为这些推车每天都有几十个人在使用，他们中的一些人可能在购买的物品中处理过生肉/生食。",
+          "游乐场是另一个有很多细菌的地方。孩子们经常把手指放进嘴里和鼻子里，这正是让细菌四处传播的绝佳途径。百分之八十的感染是通过手部接触传播的，因此，预防细菌传播的一种可靠方法就是彻底且频繁地洗手。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 occasion（名词，意为场合、时刻）。",
+          "answer": "occasion"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 sumptuous（形容词，意为丰盛的、奢华的）。",
+          "answer": "sumptuous"
+        },
+        "43": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：在定冠词 the 后面充当宾语核心词，应用名词形式 satisfaction（满足感），而非动词 satisfy，固定搭配为 have the satisfaction of doing。",
+          "answer": "satisfaction"
+        },
+        "44": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性与平行结构：与连词 yet 前面的形容词 functional 保持一致，作表语应用形容词形式 decorative（具有装饰性的），而非动词原形 decorate。",
+          "answer": "decorative"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 elated（形容词，意为兴高采烈的、欣喜若狂的）。",
+          "answer": "elated"
+        },
+        "46": {
+          "concept": "助动词后的动词形式 - Verbs after Auxiliaries",
+          "note": "过去完成时中的过去分词：在过去完成时否定形式 had not 后面，应接动词的过去分词形式 spent，而非一般现在时单三形式 spends。",
+          "answer": "spent"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 sufficient（形容词，意为充足的、足够的）。",
+          "answer": "sufficient"
+        },
+        "48": {
+          "concept": "过去分词 - Past Participles",
+          "note": "非谓语动词/被动含义：修饰名词 appreciation，表示“孙辈们所展现出的感激之情”（被展现出的），应用过去分词形式 shown，而非原形 show。",
+          "answer": "shown"
+        },
+        "49": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词错误：表示“照顾他们”，固定动词短语搭配为 caring for，而非 caring with。",
+          "answer": "for"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 filial（形容词，意为孝顺的、子女的），filial grandchildren 意为孝顺的孙辈。",
+          "answer": "filial"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was Grandpa's birthday. Rani and her brother had made plans to ensure Grandpa would enjoy the special [Q41(okaysion)]. Early in the morning, the children prepared a [Q42(sumpshuous)] breakfast for him. Although their cooking skills were not excellent, they had the [Q43(satisfy)] of seeing Grandpa enjoy a relaxing morning.",
+          "Next, the children presented Grandpa with a photograph frame they had made themselves. It was functional yet [Q44(decorate)] because of the beautiful stars they had painted all over it. Grandpa was [Q45(eelayted)] with the gift. He was also glad the children had not [Q46(spends)] too much money. In fact, to him, just spending time with them was [Q47(suffishent)] to make him happy.",
+          "The appreciation [Q48(show)] by his grandchildren touched Grandpa very much. He had been cooking, cleaning and caring [Q49(with)] them ever since he retired three years ago. Seeing how [Q50(feliel)] his grandchildren were, he knew that all his sacrifices were well worth it. The day had indeed been very special for him."
+        ],
+        "zh": [
+          "今天是爷爷的生日。拉妮（Rani）和她的哥哥已经制定好了计划，以确保爷爷能尽情享受这个特别的时刻。清晨，孩子们为他准备了一顿丰盛的早餐。虽然他们的烹饪技术并不高超，但看到爷爷享受到一个轻松的早晨，他们感到由衷的满足。",
+          "接着，孩子们送给爷爷一个他们亲手制作的相框。它非常实用，同时又因为上面画满了美丽的星星而极具装饰性。爷爷收到礼物后欣喜若狂。他也很高兴孩子们没有花太多钱。事实上，对他来说，只要能和他们呆在一起，就已经足够让他感到快乐了。",
+          "孙辈们展现出的感激之情极大地打动了爷爷。自从三年前退休以来，他一直都在做饭、打扫卫生并照顾着他们。看到孙辈们如此孝顺，他知道自己所有的付出都是完全值得的。这一天对他来说确实非常特别。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun rose [Q51] the horizon."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "Prototype",
+          "note": "Prototype blank.",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "All the children except Ben enjoyed the movie.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Apart from __________ ."
+        },
+        "67": {
+          "stem_plain": "Ramu went to the party. His mother permitted him to go.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ with __________ ."
+        },
+        "68": {
+          "stem_plain": "Wati enjoyed the game so much that she decided to play it again.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Wati found the game so __________ ."
+        },
+        "69": {
+          "stem_plain": "Jane frequently argued with her brother over toys.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Jane's frequent __________ ."
+        },
+        "70": {
+          "stem_plain": "\"Who's your best friend?\" Fanny asked her brother.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Fanny asked her brother who __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "介词短语转换 — 'Apart from' 替换 'except'",
+          "note": "介词短语：使用 Apart from（除……之外）替换原句中的 except，后接名词 Ben 并用逗号与主句隔开。",
+          "zh": "除了本之外，所有的孩子都喜欢这部电影。",
+          "answer": "Apart from Ben, all the children enjoyed the movie."
+        },
+        "67": {
+          "concept": "词性转换与介词短语 — 动词变名词 'permission'",
+          "zh": "拉穆在母亲的允许下去了聚会。",
+          "note": "综合改写：主句保留前半句，利用介词短语 with... 表达伴随的条件，需要将动词 permitted 转换为所有格加名词的形式 his mother's permission。",
+          "answer": "Ramu went to the party with his mother's permission."
+        },
+        "68": {
+          "concept": "词性转换与结果状语从句 — 'find sth. so Adj. that...'",
+          "zh": "瓦蒂觉得这个游戏太有趣了，以至于她决定再玩一次。",
+          "note": "句式转换：在 found the game so... 结构中需要接形容词作宾补，因此把动词短语 enjoyed... so much 转换为形容词 enjoyable，后面保留 that 引导的结果状语从句。",
+          "answer": "Wati found the game so enjoyable that she decided to play it again."
+        },
+        "69": {
+          "concept": "词性转换与主干重构 — 动词变名词 'argument'",
+          "zh": "简和她弟弟频繁的争吵是因为玩具。",
+          "note": "综合改写：根据提示词形容词 frequent，需将动词 argued 转换为复数名词 arguments（或单数形式 argument）充当新主语核心，原句的状语 over toys 变为系表结构中的表语。",
+          "answer": "Jane's frequent arguments with her brother were over toys."
+        },
+        "70": {
+          "concept": "间接引语 — 特殊疑问句的语序与人称、时态转换",
+          "zh": "芬妮问她的弟弟谁是他最好的朋友。",
+          "note": "间接引语：由 who 引导宾语从句，从句必须使用陈述语序（主语 + 谓语）。形容词性物主代词 your 变 his，系动词 is 变为过去时 was。",
+          "answer": "Fanny asked her brother who his best friend was."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "This is a prototype open-ended passage.",
+          "2": "Replace with numbered booklet text when ready."
+        },
+        "paragraphs": {
+          "1": "这是开放式阅读示例段落。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you saw what happened in the pictures.",
+          "**Write a letter to your Principal, Mr Raj, requesting him to include in the assembly talk what Amy Tay did.**",
+          "You are to refer to the information on page 4 for your letter."
+        ],
+        "info": [
+          "the date you saw what happened",
+          "what Amy told the boy not to do, and why",
+          "what Amy immediately did for the boy",
+          "the advice Amy gave the boy about his worksheet",
+          "one important value that pupils can learn from Amy"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Raj,",
+          "I am Leanne Teoh of Primary 6A. I am writing this letter to inform you of what one of the pupils in my class, Amy Tay, did. I hope that you can mention it in your assembly talk next week.",
+          "--On 23 September 2012--, I was walking towards the school gate after lessons had ended. --As-- I was walking past the Eco Pond, I saw a lower primary male pupil in tears trying to use a stick to retrieve his worksheet which had fallen into the pond. --At that moment--, Amy came **rushing up** to him and asked him to stop in case he might fall over. She --then-- proceeded to **wade into the pond** to **retrieve** the worksheet for him.",
+          "--As-- Amy handed the worksheet to the boy, he thanked her for her help and explained that the wind had blown his worksheet into the pond. He --then-- asked Amy how he should hand in the worksheet --since-- it was already wet. Amy told him not to worry and told him that she would **accompany** him to ask his teacher for another one.",
+          "I feel that all pupils of the school can learn from Amy's actions and that we should all **strive** to help our fellow schoolmates whenever they are in need of help. --Thus--, I hope that you can **commend** Amy for her actions --since-- she is a **role model** for us to follow.\n\nYours sincerely,\nLeanne Teoh"
+        ],
+        "markdown": [
+          "这篇范文在新加坡小学离校考试（PSLE）的 Situational Writing（情境写作）中达到了**满分/极高分的标准**（Content 满分，Language 表现优秀且语气极为恰当）。以下是基于官方阅卷准则的深度解析：",
+          "### 1. 关键信息完整度 (Content Points - Perfect Score)\n* **无一遗漏**：完全满足了题目要求的所有五个核心信息：\n  * 事情发生的日期（23 September 2012）\n  * Amy 阻止男孩做什么以及原因（用木棍捞作业本；以防跌入池塘）\n  * Amy 立即为男孩做了什么（涉水走进池塘帮他捞起作业本）\n  * Amy 给男孩关于作业本的建议（不用担心，陪他一起去找老师要一本新的）\n  * 同学们能学到的一项重要价值观（乐于助人/strive to help our fellow schoolmates）。",
+          "### 2. 格式与正式语气 (Format & Formal Tone)\n* **符合官方信函规范**：这是一篇写给校长（Principal）的正式信函（Formal Letter）。文章没有使用不正式的缩写（如 I'm, don't），而是使用了完整的正式书写形式（I am, do not）。\n* **称呼与结语精准**：开头使用了正确的正式称呼 \"Dear Mr Raj\"，结尾使用了极其规范的正式结语 \"Yours sincerely\"，完美匹配写信给长辈/校长的身份。",
+          "### 3. 结构、衔接与高级词汇 (Vocabulary & Cohesion)\n* **逻辑线索清晰**：通过时间与动作的过渡词（如 `--On...--, --As--, --At that moment--, --then--, --Thus--, --since--`），将目击事件的整个动态过程串联得极为自然。\n* **用词高级且体裁得当**：文章在保持正式信函克制语调的同时，精准使用了 **retrieve**（取回）、**wade into**（涉水而入）、**accompany**（陪同）、**strive**（努力/奋斗）、**commend**（表彰）以及 **role model**（榜样）等高年级核心词汇。这些词汇的使用让信件显得非常有说服力和教养，是典型的 AL1 档次语言表现。",
+          "### 4. 终极 AL1 炫技升级建议 (AL1 Perfection Tips)\n* 在 PSLE 的情境写作中，该篇表现已臻完美，不需要做大改。若想在考场上让阅卷组长眼前一亮，可以将最后一段的价值观阐述稍微升华。例如：将 \"learn from Amy's actions\" 升级为 **emulate Amy's exemplary conduct**；或者将 \"whenever they are in need of help\" 改为 **whenever they are facing adversity**，从而在宏观上展现出更为深厚的文采。"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

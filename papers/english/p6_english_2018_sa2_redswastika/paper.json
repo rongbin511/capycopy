@@ -1,0 +1,1149 @@
+{
+  "paperid": "p6_english_2018_sa2_redswastika",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "_________ Ted felt disappointed with his mother for not turning up for his performance, he understood that she was held up by work.",
+          "options": {
+            "1": "Since",
+            "2": "While",
+            "3": "Unless",
+            "4": "Despite"
+          }
+        },
+        "2": {
+          "stem_plain": "\"Look out! The bus _________ the pavement now,\" Tom warned the pedestrians.",
+          "options": {
+            "1": "is mounting",
+            "2": "has mounted",
+            "3": "had mounted",
+            "4": "was mounting"
+          }
+        },
+        "3": {
+          "stem_plain": "\"You've watered all the plants in the nursery, _________ you?\" Mrs Wang asked her gardener.",
+          "options": {
+            "1": "don't",
+            "2": "didn't",
+            "3": "hadn't",
+            "4": "haven't"
+          }
+        },
+        "4": {
+          "stem_plain": "_________ did the director expect such overwhelming success at the box office for his first movie.",
+          "options": {
+            "1": "Less",
+            "2": "Little",
+            "3": "None",
+            "4": "Nonetheless"
+          }
+        },
+        "5": {
+          "stem_plain": "Xiu Ying recalled _________ Jasmine at a classmate's birthday celebration last year.",
+          "options": {
+            "1": "met",
+            "2": "meeting",
+            "3": "had met",
+            "4": "would meet"
+          }
+        },
+        "6": {
+          "stem_plain": "If he _________ a specialist sooner, his condition would not have deteriorated so quickly.",
+          "options": {
+            "1": "consults",
+            "2": "consulted",
+            "3": "had consulted",
+            "4": "have consulted"
+          }
+        },
+        "7": {
+          "stem_plain": "Knowing that all the evidence was against him, the burglar had no choice but to plead guilty _________ the charges that he had been accused of.",
+          "options": {
+            "1": "to",
+            "2": "in",
+            "3": "for",
+            "4": "with"
+          }
+        },
+        "8": {
+          "stem_plain": "Pandas are an endangered species and receive protection _________ the conservation law.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "under",
+            "4": "within"
+          }
+        },
+        "9": {
+          "stem_plain": "\"_________ you open all the windows, please? It is really stuffy in here,\" the tenants pleaded with their landlord.",
+          "options": {
+            "1": "Must",
+            "2": "Shall",
+            "3": "Could",
+            "4": "Should"
+          }
+        },
+        "10": {
+          "stem_plain": "The hope of seeing their loved ones again _________ survivors of disasters to persevere and not give up.",
+          "options": {
+            "1": "help",
+            "2": "helps",
+            "3": "helped",
+            "4": "is helping"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "连词 “While” 在此表示“尽管”或“虽然”，引导让步状语从句，连接前后两个存在轻微对立和转折的逻辑事实（尽管感到失望，但他表示理解）。",
+          "concept": "让步状语从句 — Conjunctions — Concession while",
+          "zh": "虽然泰德因为母亲没有来看他的演出而感到失望，但他理解她是被工作耽搁了。",
+          "answer": "2"
+        },
+        "2": {
+          "note": "由前半句的警告语 “Look out!” 以及句末的 “now” 可知，危险状况此时此刻正在发生，因此需要选用现在进行时态 “is mounting”。",
+          "concept": "动词时态 — Verb Tenses — Present Continuous",
+          "zh": "汤姆警告行人说：“小心！那辆公交车现在正在冲上人行道。”",
+          "answer": "1"
+        },
+        "3": {
+          "note": "反意疑问句的助动词应与主句的前半部分保持呼应。主句使用的 “You've watered...” 是现在完成时的肯定式（You have），所以疑问尾句需要采用相应的否定形式 “haven't you”。",
+          "concept": "反意疑问句 — Question Tags — Present Perfect",
+          "zh": "王太太问她的园丁：“你已经把苗圃里的所有植物都浇过水了，对吧？”",
+          "answer": "4"
+        },
+        "4": {
+          "note": "后文出现了 “did the director expect” 的助动词提前结构，这属于主谓倒装。句首需填入能触发倒装的半否定副词，故选 “Little” 表示“导演几乎没有料到”。",
+          "concept": "倒装句 — Inversion — Negative Adverbs",
+          "zh": "这位导演几乎没有料到他的第一部电影会在票房上获得如此巨大的成功。",
+          "answer": "2"
+        },
+        "5": {
+          "note": "动词 “recall” 意为“回想起”，其后若表示回想、记得过去做过的事情，习惯上接动名词形式（-ing）作为宾语。",
+          "concept": "非谓语动词 — Gerunds — Verbs followed by Gerunds",
+          "zh": "秀英回想起去年在一位同学的生日庆祝会上见过贾斯敏的情景。",
+          "answer": "2"
+        },
+        "6": {
+          "note": "主句 “would not have deteriorated” 表明这是一个对过去事实进行假设的虚拟条件句（第三条件句）。因此，if 引导的条件从句中必须使用过去完成时（had + 过去分词）。",
+          "concept": "虚拟语气 — Conditionals — Third Conditional",
+          "zh": "如果他早点去看专科医生，他的病情就不会恶化得这么快了。",
+          "answer": "3"
+        },
+        "7": {
+          "note": "“plead guilty to something” 是法律英语中的固定搭配，意思是“对……伏法认罪”或“承认犯有……罪”。",
+          "concept": "固定搭配与介词 — Fixed Phrases — Plead guilty to",
+          "zh": "得知所有证据都对自己不利后，这名窃贼别无选择，只能对被指控的罪名俯首认罪。",
+          "answer": "1"
+        },
+        "8": {
+          "note": "“under the law” 是固定法律介词表达法，表示“在法律的保护下”、“依据法律”或“受法律管辖”。",
+          "concept": "介词搭配 — Prepositions — Under the law",
+          "zh": "熊猫是一种濒危物种，受到野生动物保护法的法律保护。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "租客在诚恳地请求房东帮他们打开窗户。情态动词 “Could” 常在疑问句中用于提出委婉、礼貌的请求或询问，符合向长辈或房东提要求的语境。",
+          "concept": "情态动词 — Modal Verbs — Polite Requests",
+          "zh": "租客们恳求房东说：“请问您可以把所有窗户都打开吗？这里实在太闷热了。”",
+          "answer": "3"
+        },
+        "10": {
+          "note": "句子的核心主语是 “The hope...”（希望），属于单数名词（介词短语 of seeing... 只是修饰成分）。因此，一般现在时的谓语动词需要使用单数形式 “helps”。",
+          "concept": "主谓一致 — Subject-Verb Agreement — Singular Subjects",
+          "zh": "再次见到亲人的希望促使着灾难的幸存者们坚持下去，决不放弃。",
+          "answer": "2"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "As the chairman of the bank, Mr Koh has the ________ to make all the major decisions.",
+          "options": {
+            "1": "intuition",
+            "2": "birthright",
+            "3": "mandate",
+            "4": "prerogative"
+          }
+        },
+        "12": {
+          "stem_plain": "The children were ________ and planned a surprise party for their coach as soon as they found out she was leaving for good.",
+          "options": {
+            "1": "fickle",
+            "2": "impulsive",
+            "3": "precocious",
+            "4": "spontaneous"
+          }
+        },
+        "13": {
+          "stem_plain": "The contraband cigarettes were found in the boot of a car at the immigration checkpoint and ________ by the authority for further investigation.",
+          "options": {
+            "1": "usurped",
+            "2": "hijacked",
+            "3": "confiscated",
+            "4": "appropriated"
+          }
+        },
+        "14": {
+          "stem_plain": "The elaborate design on the beautiful tablecloth was so ________ stitched that it must have taken the embroiderer days to complete.",
+          "options": {
+            "1": "densely",
+            "2": "profusely",
+            "3": "intricately",
+            "4": "decoratively"
+          }
+        },
+        "15": {
+          "stem_plain": "The shopkeepers have finally ________ their differences and are working together to promote business at the mall.",
+          "options": {
+            "1": "put out",
+            "2": "put away",
+            "3": "put down",
+            "4": "put aside"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "作为银行董事长，许先生拥有做出所有重大决定的特权。",
+          "note": "‘prerogative’ 意为‘特权，独有的权利’。由于许先生是银行董事长（the chairman of the bank），做出重大决定属于他职位赋予的独有权力或特权。",
+          "concept": "名词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intuition",
+              "zh": "直觉（名词，指不通过逻辑推理、完全凭借下意识或第一感官就能迅速理解、感知或感知到某事的能力）",
+              "eg": "Often, a mother's intuition is enough to tell her when her child is in trouble."
+            },
+            {
+              "opt": "2",
+              "word": "birthright",
+              "zh": "与生俱来的权利，继承权（名词，指某人因为出生在某个特定的家庭、国家或由于特定的血统而依法或依传统理应享有的权利或财产）",
+              "eg": "Freedom of speech is a birthright that every human should enjoy from the moment they are born."
+            },
+            {
+              "opt": "3",
+              "word": "mandate",
+              "zh": "授权，委托（名词，指选民、上级或官方机构正式授予某人或某个政党去执行某项政策、管理国家或完成特定任务的正式权力）",
+              "eg": "The newly elected government has a clear mandate to improve the country's public healthcare system."
+            },
+            {
+              "opt": "4",
+              "word": "prerogative",
+              "zh": "特权，独有的权利（名词，指因为特定的职位、阶级、身份或特权，而专属某些特定个人或群体所拥有、他人不得擅自享有的决策权或特权）",
+              "eg": "In some countries, it is the prime minister's prerogative to choose the members of the cabinet."
+            }
+          ]
+        },
+        "12": {
+          "zh": "孩子们一时冲动（随兴起意），一听说教练要永远离开，就立刻为她策划了一个惊喜派对。",
+          "note": "‘spontaneous’ 意为‘自发的，随兴的’。句中 “as soon as they found out”（一听说就立刻……）表明这个行为是没有经过长期预谋，而是凭当时的氛围和情感驱使而自发做出的决定。",
+          "concept": "形容词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fickle",
+              "zh": "多变的，善变的（形容词，指人的情感、兴趣、忠诚度或天气等，极不稳定，容易在毫无预兆或理由的情况下反复无常地发生变化）",
+              "eg": "The fickle weather made it difficult for us to plan our weekend outdoor barbecue."
+            },
+            {
+              "opt": "2",
+              "word": "impulsive",
+              "zh": "冲动的，不假思索的（形容词，指人做事完全凭一时的情感或突如其来的念头驱使，完全不考虑后果或不去提前进行理智权衡）",
+              "eg": "He made an impulsive decision to buy the luxury watch without checking his bank balance."
+            },
+            {
+              "opt": "3",
+              "word": "precocious",
+              "zh": "早熟的（形容词，特指儿童在智力、某项技能、行为举止或心理成熟度上，表现出远远超出其年龄应有水平的发展）",
+              "eg": "The precocious child surprised the professors by solving a complex university math problem."
+            },
+            {
+              "opt": "4",
+              "word": "spontaneous",
+              "zh": "自发的，随兴的（形容词，指某项举动、情绪或决定是顺应自然、临时起意、或者完全出于内心的真情实感而突然做出的，而非提前刻意计划或被强迫）",
+              "eg": "The crowd burst into a spontaneous round of applause when the heroic firefighter saved the baby."
+            }
+          ]
+        },
+        "13": {
+          "zh": "走私香烟在移民检查站的一辆轿车后备箱中被发现，并被有关部门没收以作进一步调查。",
+          "note": "‘confiscated’ 意为‘（作为惩罚、出于法律或官方权力）没收，充公’。走私物品（contraband）被官方检查站（immigration checkpoint）查获后的法定处理程序就是没收。",
+          "concept": "动词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "usurped",
+              "zh": "篡夺，篡位（动词，指使用非法、武力、欺骗或不公正的手段，强行夺取属于他人的权力、王位、职位或统治地位）",
+              "eg": "The ambitious general usurped the throne and declared himself the supreme ruler of the nation."
+            },
+            {
+              "opt": "2",
+              "word": "hijacked",
+              "zh": "劫持（动词，指在交通工具如飞机、汽车、轮船等行驶途中，使用暴力或威胁手段强行将其控制并改变其既定航线）",
+              "eg": "The criminals hijacked a delivery truck and stole all the expensive electronics inside."
+            },
+            {
+              "opt": "3",
+              "word": "confiscated",
+              "zh": "没收，充公（动词，指政府、警方、海关、老师或拥有官方权力的机构，依法或依规将非法物品、违禁品、或危险品强行收缴归公）",
+              "eg": "The guard confiscated the tourist's drone as flying it near the military base was strictly illegal."
+            },
+            {
+              "opt": "4",
+              "word": "appropriated",
+              "zh": "挪用，占用（动词，指私自将属于公共或他人的钱财、物资、土地等据为己有或非法挪作他用，或者指官方经批准专门拨出某笔款项）",
+              "eg": "The corrupt official was arrested after it was revealed he had appropriated charity funds for his own house."
+            }
+          ]
+        },
+        "14": {
+          "zh": "漂亮桌布上那精美复杂的图案缝制得如此错综复杂（精细），绣花工肯定花了好几天的时间才完成。",
+          "note": "‘intricately’ 意为‘错综复杂地，精细地’。常与缝制、设计或手工等词连用，呼应了前半句的 “elaborate design”（精美复杂的图案）和后半句需要花费数天时间修饰的精细程度。",
+          "concept": "副词辨析与神态关联 — Vocabulary — Adverbs",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "densely",
+              "zh": "稠密地，密集地（副词，指大量的人、植物、建筑物或线条等在有限的空间内极为紧凑、挨挨挤挤地排列或聚集在一起）",
+              "eg": "The old mountain city is so densely populated that there is barely any open green space left."
+            },
+            {
+              "opt": "2",
+              "word": "profusely",
+              "zh": "大量地，频繁地（副词，形容某种生理现象如流汗、流血、哭泣等源源不断、极多地产生，或形容极其频繁、反复不停地道歉、致谢）",
+              "eg": "He was sweating profusely after running a full marathon under the blazing sun."
+            },
+            {
+              "opt": "3",
+              "word": "intricately",
+              "zh": "错综复杂地，精细地（副词，指某物的内部结构、花纹设计、故事情节或手工制品包含许多细小的部分，且这些部分相互交织，极其复杂、精细而难以拆解）",
+              "eg": "The ancient map was so intricately drawn that you needed a magnifying glass to see the details."
+            },
+            {
+              "opt": "4",
+              "word": "decoratively",
+              "zh": "装饰性地（副词，指为了美化外观、增添观赏价值、使其看起来漂亮好看而采取某种陈列、摆放或设计方式，而非出于实用目的）",
+              "eg": "The colorful autumn leaves were arranged decoratively around the dining table centerpiece."
+            }
+          ]
+        },
+        "15": {
+          "zh": "商户们终于搁置了彼此的分歧，开始共同努力以促进购物中心的商业繁荣。",
+          "note": "‘put aside’ 是短语动词，意为‘搁置（矛盾、分歧）、抛开’。通常用于双方决定不再计较过去的矛盾（differences），共同为同一个目标（working together）而奋斗的语境。",
+          "concept": "短语动词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "put out",
+              "zh": "熄灭，出版；使生气（动词短语，指用水或灭火器扑灭火灾、蜡烛或香烟，或者指工厂或作者出版发表产品，亦可指给某人带来不便与不快）",
+              "eg": "The courageous firefighters spent three hours trying to put out the fierce forest fire."
+            },
+            {
+              "opt": "2",
+              "word": "put away",
+              "zh": "收好，储蓄（动词短语，指在某物使用完毕后，将其放回原本存放的抽屉、柜子等固定位置以保持整洁，或者指把钱存起来）",
+              "eg": "The children were told to put away their blocks and books before dinner started."
+            },
+            {
+              "opt": "3",
+              "word": "put down",
+              "zh": "放下，镇压；贬低（动词短语，指在物理上把手里的东西放到桌子或地上，或者指用武力平定暴乱，亦或指用刻薄的言语当众羞辱、贬低某人）",
+              "eg": "The manager's constant attempts to put down his team members ruined the office morale."
+            },
+            {
+              "opt": "4",
+              "word": "put aside",
+              "zh": "搁置，抛开（动词短语，指为了能够专注于当前更重要的事情，而决定暂时忽略、抛开或不再计较原有的争端、不同意见或负面情感）",
+              "eg": "They agreed to put aside their personal political rivalries and focus on saving the community project."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "good friends and spent most of their time together",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "indivisible",
+            "2": "irresistible",
+            "3": "intertwined",
+            "4": "inseparable"
+          }
+        },
+        "17": {
+          "stem_plain": "accompanied",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "led",
+            "2": "ushered",
+            "3": "followed",
+            "4": "chaperoned"
+          }
+        },
+        "18": {
+          "stem_plain": "tragedy",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "danger",
+            "2": "calamity",
+            "3": "phenomenon",
+            "4": "misadventure"
+          }
+        },
+        "19": {
+          "stem_plain": "unexpectedly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "casually",
+            "2": "unusually",
+            "3": "startlingly",
+            "4": "unanticipatedly"
+          }
+        },
+        "20": {
+          "stem_plain": "resolute",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "patient",
+            "2": "incessant",
+            "3": "persistent",
+            "4": "courageous"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “good friends and spent most of their time together”形容好朋友形影不离、整天待在一起，与“inseparable（形影不离的、不可分离的）”最契合。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "indivisible",
+              "zh": "不可分割的，除不尽的",
+              "eg": "The country's territory is considered indivisible."
+            },
+            {
+              "opt": "2",
+              "word": "irresistible",
+              "zh": "无法抗拒的，极具诱惑力的",
+              "eg": "The smell of fresh baking is completely irresistible."
+            },
+            {
+              "opt": "3",
+              "word": "intertwined",
+              "zh": "缠绕的，紧密相连的",
+              "eg": "The fates of the two families were deeply intertwined."
+            },
+            {
+              "opt": "4",
+              "word": "inseparable",
+              "zh": "形影不离的，不可分离的",
+              "eg": "Tom and his puppy have been inseparable since day one."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “accompanied”意为陪伴、陪同前往，这里指狗狗陪主人去车站，与“chaperoned（结伴、陪同，尤指作为监护人或看护人陪同）”语境含义最接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "led",
+              "zh": "带领，引导",
+              "eg": "The guide led the tourists through the narrow forest path."
+            },
+            {
+              "opt": "2",
+              "word": "ushered",
+              "zh": "引，领（常指引领坐下或进入）",
+              "eg": "The host ushered the guests into the dining room."
+            },
+            {
+              "opt": "3",
+              "word": "followed",
+              "zh": "跟随，跟在后面",
+              "eg": "The ducklings followed their mother in a straight line."
+            },
+            {
+              "opt": "4",
+              "word": "chaperoned",
+              "zh": "陪同，护送，看护",
+              "eg": "The students were chaperoned by three teachers on the trip."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “tragedy”意为悲剧、不幸，与“calamity（灾难、不幸之事）”意思最接近。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "danger",
+              "zh": "危险",
+              "eg": "The warning signs tell swimmers about the danger of strong currents."
+            },
+            {
+              "opt": "2",
+              "word": "calamity",
+              "zh": "灾难，不幸之事",
+              "eg": "The sudden fire was a great calamity for the whole village."
+            },
+            {
+              "opt": "3",
+              "word": "phenomenon",
+              "zh": "现象",
+              "eg": "The Northern Lights are a spectacular natural phenomenon."
+            },
+            {
+              "opt": "4",
+              "word": "misadventure",
+              "zh": "不幸遭遇，倒霉事",
+              "eg": "The camping trip ended in misadventure due to heavy rains."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “unexpectedly”指意想不到地、突然地，与“unanticipatedly（始料未及地、未曾预料地）”意思相同。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "casually",
+              "zh": "随便地，漫不经心地",
+              "eg": "He casually mentioned that he might leave early tomorrow."
+            },
+            {
+              "opt": "2",
+              "word": "unusually",
+              "zh": "异常地，罕见地",
+              "eg": "The weather has been unusually warm this winter."
+            },
+            {
+              "opt": "3",
+              "word": "startlingly",
+              "zh": "惊人地，令人震惊地",
+              "eg": "Her test scores improved startlingly in just one month."
+            },
+            {
+              "opt": "4",
+              "word": "unanticipatedly",
+              "zh": "始料未及地，未曾预料地",
+              "eg": "The meeting ended unanticipatedly before we could finish."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “resolute”指坚定的、不屈不挠的，文中形容忠犬八公连续九年风雨无阻在车站等候的执着，与“persistent（坚持不懈的、执着的）”意思最为契合。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "patient",
+              "zh": "有耐心的",
+              "eg": "You need to be patient when teaching young children."
+            },
+            {
+              "opt": "2",
+              "word": "incessant",
+              "zh": "不停的，连续不断的（多指让人厌烦的事）",
+              "eg": "The incessant noise from the street kept me awake all night."
+            },
+            {
+              "opt": "3",
+              "word": "persistent",
+              "zh": "坚持不懈的，执着的",
+              "eg": "Through persistent efforts, she finally mastered the piano."
+            },
+            {
+              "opt": "4",
+              "word": "courageous",
+              "zh": "勇敢的，有胆量的",
+              "eg": "The courageous firefighter rescued the family from the building."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Eisaburo Ueno, a professor from Japan, adopted a dog, Hachiko, in 1923. Hachiko and its new owner soon became [Q16(good friends and spent most of their time together)]. Remarkably faithful, it [Q17(accompanied)] its owner to the train station in the mornings and went back to the station in the afternoons to await his return from work.",
+          "On May 21, 1925, Hachiko was at the train station as usual, waiting for Eisaburo, who never showed up for a [Q18(tragedy)] had struck. Eisaburo had died [Q19(unexpectedly)] of a heart attack while at work. Hachiko was [Q20(resolute)] and for nine long years, till the day it died, it was at the train station every morning and afternoon. The devoted dog had waited in vain for its beloved owner."
+        ],
+        "zh": [
+          "来自日本的教授上野英三郎于1923年收养了一只名叫八公的狗。八公和它的新主人很快变得形影不离，大部分时间都待在一起。极其忠诚的是，它早上会陪同主人去火车站，下午又回到车站等待他下班归来。",
+          "1925年5月21日，八公像往常一样在火车站等待上野，但他再也没有出现，因为一场不幸降临了。上野在工作时突发心脏病猝然离世。八公的态度极其坚定，在接下来的九年漫长岁月中，直到它去世的那一天，它每天早晚都会准时守候在火车站。这只忠诚的狗一直在徒劳地等待它深爱的生命之主。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘known as’ 是固定短语，表示‘被称为……’、‘以……而闻名’。",
+          "answer": "C"
+        },
+        "30": {
+          "concept": "介词用法（表示地点、来源或出处）",
+          "note": "‘Picked from the faeces...’ 过去分词短语作状语，介词 from 表示来源起点，意为‘从吃咖啡豆的麝香猫的粪便中采集而来’。",
+          "answer": "F"
+        },
+        "31": {
+          "concept": "动词时态与主谓一致（一般现在时）",
+          "note": "‘this brew has one of...’ 或者是系动词 is。由于后面接的是宾语 ‘one of the most unique flavours’（最独特的风味之一），动词选用 has（具有），主语 this brew 为单数，全篇陈述客观事实，故选 has。",
+          "answer": "G"
+        },
+        "32": {
+          "concept": "介词用法（引导时间状语）",
+          "note": "‘before roasting them...’，介词 before 后面跟动名词短语，表示动作的先后顺序，意为‘在将它们在205℃下烘焙之前，农民们会先清洗这些粪便’。",
+          "answer": "D"
+        },
+        "33": {
+          "concept": "介词搭配（between... to... 结构拓展）",
+          "note": "‘between $275 to $1650...’ 或者是搭配。查看选项：有 (L) to。此处表示范围‘在275美元到1650美元之间’，常用 between... and...，但也常与 to 搭配连用表示区段。",
+          "answer": "L"
+        },
+        "34": {
+          "concept": "动词时态与主谓一致（一般现在时）",
+          "note": "‘The estimated world annual production... is only...’，本句的中心主语是单数名词 production（产量），全篇叙述客观数据事实，故系动词选 is。",
+          "answer": "H"
+        },
+        "35": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘in contrast with/to’ 或者是作为对比的介词。检查选项中：有 (Q) with。前面有名词 ‘a huge contrast’，后接介词 with 引入对比的对象，意为‘与全球约2亿公斤的茶叶年产量形成巨大对比’。",
+          "answer": "Q"
+        },
+        "36": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘pass through’ 是固定动词短语，意为‘穿过、通过’，在此处指‘不会穿过任何异域生物的内脏’。",
+          "answer": "K"
+        },
+        "37": {
+          "concept": "关系从句（定语从句关系代词）",
+          "note": "‘'Tieguanyin', which is named after...’ 关系代词 which 引导非限制性定语从句，指代前面的无生命专有名词 ‘Tieguanyin’（铁观音），并在从句中作主语。",
+          "answer": "N"
+        },
+        "38": {
+          "concept": "介词/副词搭配（表示数量程度或上限）",
+          "note": "‘can be brewed up to seven times’，固定短语 up to 在此作程度副词短语，意为‘多达、高达’，表示‘最多可以冲泡七次’。",
+          "answer": "M"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "B": "are",
+          "C": "as",
+          "D": "before",
+          "E": "by",
+          "F": "from",
+          "G": "has",
+          "H": "is",
+          "J": "of",
+          "K": "through",
+          "L": "to",
+          "M": "up",
+          "N": "which",
+          "P": "who",
+          "Q": "with"
+        },
+        "cloze": [
+          "Joining the ranks of diamonds, gold and pearls, the coffee bean and tea leaves can certainly command unbelievable prices. The Indonesian drink, known [Q29] kopi luwak or civet coffee, might be the rarest cup of coffee on the planet. Picked [Q30] the faeces of a coffee bean-munching civet cat, this brew [Q31] one of the most unique flavours on Earth. It is believed that enzymes in the cat's digestive system alter the bean's proteins. Since the proteins control bitterness, civet coffee has no acidic taste. Farmers wash the droppings [Q32] roasting them at 205°C and the end product can command a hefty price of between $275 [Q33] $1650 per kilogramme. The estimated world annual production of kopi luwak [Q34] only 700 kilogrammes, a huge contrast [Q35] the global annual tea production of about 200 million kilogrammes!",
+          "When it comes to tea, the finest tea leaves do not pass [Q36] the innards of any exotic creatures on their way to your teapot. The most expensive tea on the planet is a Chinese oolong tea called 'Tieguanyin', [Q37] is named after the Buddhist deity 'Iron Goddess of Mercy'. This rare tea tips the scales at $3750 a kilogramme. Luckily for anyone who buys it, the leaves can be brewed [Q38] to seven times before they lose their flavour. That is value for money - of a sort."
+        ],
+        "zh": [
+          "与钻石、黄金和珍珠一样，咖啡豆和茶叶无疑也能卖出令人难以置信的高价。这种被称为“猫屎咖啡（kopi luwak）”的印度尼西亚饮品，可能是这个星球上最稀有的咖啡了。这种咖啡是从一只大嚼咖啡豆的麝香猫的粪便中采集而来的，它具有地球上最独特的风味之一。据信，麝香猫消化系统中的酶改变了咖啡豆的蛋白质。由于蛋白质控制着苦味，猫屎咖啡没有酸味。农民们在将它们在205℃下烘焙之前会先清洗这些粪便，其最终产品的价格非常昂贵，每公斤在275美元到1650美元之间。据估计，猫屎咖啡的世界年产量仅为700公斤，这与全球约2亿公斤的茶叶年产量形成了巨大的对比！",
+          "谈到茶叶，最优质的茶叶在进入你的茶壶之前，并不会穿过任何异域生物的内脏。这个星球上最昂贵的茶是一种名为“铁观音”的中国乌龙茶，它是以佛教神明“铁观音（慈悲的铁女神）”命名的。这种稀有的茶价格惊人，每公斤高达3750美元。对购买它的任何人来说幸运的是，茶叶在失去风味之前最多可以冲泡七次。从某种程度上说，这也算物有所值了。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "过去完成时中的过去分词 - Past Participles",
+          "note": "时态与分词错误：过去完成时由 had + 过去分词构成，dying 是现在分词，应改为过去分词形式 died，构成 had died。",
+          "answer": "died"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 illiterate（形容词，意为文盲的、不识字的）。",
+          "answer": "illiterate"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 opportunities（名词复数，意为机会、机遇）。",
+          "answer": "opportunities"
+        },
+        "42": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：在冠词 an 后面应接名词形式 education（教育），而非动词 educate。",
+          "answer": "education"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 scholarship（名词，意为奖学金）。",
+          "answer": "scholarship"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 ecstatic（形容词，意为欣喜若狂的）。",
+          "answer": "ecstatic"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 ambition（名词，意为抱负、雄心）。",
+          "answer": "ambition"
+        },
+        "46": {
+          "concept": "动词不定式 - Infinitives",
+          "note": "动词不定式后的动词形式：在不定式符号 to 后面作目的状语，应接动词原形 lead，而非过去式 led。",
+          "answer": "lead"
+        },
+        "47": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处描述过去发生的一连串动作并列（got, had），应使用过去式形式 fell，而非过去分词 fallen。",
+          "answer": "fell"
+        },
+        "48": {
+          "concept": "动名词 - Gerunds",
+          "note": "动名词作介词宾语：在介词 of 后面，表示“确保……的重任”，应使用动名词形式型 ensuring，而非过去式/过去分词 ensured。",
+          "answer": "ensuring"
+        },
+        "49": {
+          "concept": "副词 - Adverbs",
+          "note": "词性与平行结构：修饰动词 worked 或是作伴随状语，表示“坚定地、充满决心地工作”，应用副词形式 determinedly，或者是形容词作主语补足语形式 determined。由于 worked 作为行为动词，此处多转化为形容词形式 determined 描述当时的状态，即 worked determined to...（下定决心去……）。",
+          "answer": "determined"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 mourned（动词 mourn 的过去式，意为哀悼、哀思）。",
+          "answer": "mourned"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Graca Simbine was born in a small village in Mozambique. She was born just weeks after her father had [Q39(dying)]. There was great sadness with this joyous event. The country was poor and many children were [Q40(elitarate)]. Graca's mother resolved to give her children better [Q41(oportunnities)] as there was little hope without an [Q42(educate)]. Graca worked hard at school and received a [Q43(scorlarsheep)] to attend a city school. She did well in that city school too and qualified to attend a university in faraway Portugal.",
+          "Graca met new friends and learned new languages. Although she was [Q44(akstatick)] that she finally realised her [Q45(ambishen)] of becoming a teacher, her lifelong dream was for all the children of Mozambique to go to school. Graca, together with her friends, achieved freedom for Mozambique. The man chosen to [Q46(led)] the country was her special friend, Samora Machel. They [Q47(fallen)] in love, got married, and had two children. They strove to create better lives for their own family and for the Mozambican people.",
+          "Graca was given the important task of [Q48(ensured)] that all the children in Mozambique attended school. She worked [Q49(determine)] to enrol boys and girls into primary schools. One terrible day, Samora died in an aeroplane crash. Graca [Q50(moarned)] Samora for many years, but she found love again. Graca married Nelson Mandela and together, they worked to help the Mozambican children."
+        ],
+        "zh": [
+          "格拉萨·马谢尔（Graca Simbine）出生在莫桑比克的一个小村庄。她在父亲去世几周后刚刚降生。在这件大喜事发生的同时，也伴随着巨大的悲伤。这个国家当时很贫困，许多儿童都是文盲。格拉萨的母亲决心给她的孩子们提供更好的机会，因为如果没有接受过教育，未来就毫无希望。格拉萨在学校学习刻苦，并获得了去城市学校就读的奖学金。她在城市的学校里同样表现优异，并获得了前往遥远的葡萄牙读大学的资格。",
+          "格拉萨结识了新朋友，并学会了新的语言。尽管她为自己终于实现了成为一名老师的抱负而欣喜若狂，但她毕生的梦想是让莫桑比克所有的孩子都能上学。格拉萨和她的朋友们一起，为莫桑比克赢得了自由。被选中来领导这个国家的人是她的挚友萨莫拉·马谢尔（Samora Machel）。他们坠入爱河，结为夫妻，并孕育了两个孩子。他们努力为自己的家庭和莫桑比克人民创造更好的生活。",
+          "格拉萨被赋予了确保莫桑比克所有儿童都能上学的重任。她下定决心致力于招收男孩和女孩进入小学。然而在一个不幸的日子里，萨莫拉在一次飞机失事中丧生。格拉萨哀悼了萨莫拉许多年，但她最终再次收获了爱情。格拉萨嫁给了纳尔逊·曼德拉，他们并肩携手，共同为帮助莫桑比克的儿童而努力。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "固定搭配 / 动词",
+          "answer": "relates / refers",
+          "note": "与后文的介词‘to’连用，‘relates to’为固定搭配，意为‘涉及、与……有关’，在此处用作说明定义。"
+        },
+        "52": {
+          "concept": "介词 (被动语态原因)",
+          "answer": "by",
+          "note": "在前有被动语态‘is caused’的结构中，使用介词‘by’来引出导致该结果的原因或施加者。"
+        },
+        "53": {
+          "concept": "动词原形",
+          "answer": "allow / permit / let",
+          "note": "紧跟在助动词‘do not’后面，需填入动词原形，与后文的‘it to escape’构成常用句型结构（allow something to do）。"
+        },
+        "54": {
+          "concept": "固定搭配 / 介词",
+          "answer": "from",
+          "note": "与前文的‘prevents the Earth’搭配，‘prevent someone/something from doing something’为固定搭配，意为‘阻止某人/某物做某事’。"
+        },
+        "55": {
+          "concept": "上下文语境名词",
+          "answer": "organisms / life / living things",
+          "note": "呼应前一句中的‘supporting living things（支持生物生存）’，指若没有温室效应，地球上将不会有‘生物/有机体’。"
+        },
+        "56": {
+          "concept": "名词 / 固定搭配",
+          "answer": "activities / actions",
+          "note": "‘human activities’为固定搭配，意为‘人类活动’，后文列举了烧化石燃料和砍伐森林等具体活动。"
+        },
+        "57": {
+          "concept": "动词 (现在进行时被动语态)",
+          "answer": "burnt / burned / consumed / utilized",
+          "note": "位于‘are being’之后，需填入动词的过去分词构成被动语态，表示当化石燃料正在被‘燃烧’时。"
+        },
+        "58": {
+          "concept": "固定搭配 / 介词",
+          "answer": "into",
+          "note": "与前文的‘released’连用，‘released into the atmosphere’为常见语境搭配，意为‘被释放到大气中’。"
+        },
+        "59": {
+          "concept": "数量限定词 / 形容词",
+          "answer": "fewer / less / no",
+          "note": "由前文的‘deforestation（砍伐森林）’可以推断出，由于森林砍伐，能够吸收二氧化碳的树木变得‘更少了’。"
+        },
+        "60": {
+          "concept": "主谓一致 / 系动词",
+          "answer": "is",
+          "note": "本句的真正主语是单数名词短语‘The rate（速率）’（由 at which 引导的定语从句修饰），因此一般现在时的系动词必须用单数形式‘is’。"
+        },
+        "61": {
+          "concept": "固定搭配 / 介词",
+          "answer": "to",
+          "note": "与前文的‘leading’搭配，‘leading to’为固定词组，意为‘导致、引起’。"
+        },
+        "62": {
+          "concept": "形容词",
+          "answer": "harmful / adverse / negative / disastrous / severe / terrible",
+          "note": "修饰后面的复数名词‘effects’。由于全球变暖是有害的，因此此处需填入一个表示‘有害的、不利的、灾难性的’形容词。"
+        },
+        "63": {
+          "concept": "分词或形容词作定语 (句首大写)",
+          "answer": "rising / higher / increased",
+          "note": "位于句首且后接主语‘sea levels’，必须大写首字母。结合前一句冰川融化，可知这会带来‘上升的’海平面。"
+        },
+        "64": {
+          "concept": "固定搭配 / 名词",
+          "answer": "result / consequence",
+          "note": "‘as a result of’或‘as a consequence of’为固定短语，意为‘由于……的结果、因为……’。"
+        },
+        "65": {
+          "concept": "固定搭配 / 名词",
+          "answer": "brink / risk / edge",
+          "note": "‘put many species at the brink of extinction’为常用固定语境搭配，意为‘使许多物种面临灭绝的边缘’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Many places in the world are experiencing hotter weather, heavier rainfall and other weather changes because of the effects of global warming. Global warming [Q51] to the rapid increase of the Earth's temperature over the past century. Scientists believe that this is caused [Q52] an increase in the Earth's greenhouse effect. The greenhouse effect is the warming effect that is triggered when gases such as carbon dioxide trap heat from the sun and do not [Q53] it to escape. This prevents the Earth [Q54] freezing, which makes it suitable for supporting living things. In fact, without the greenhouse effect, there would be no [Q55] on Earth.",
+          "However, in recent years, the concentration of greenhouse gases in the atmosphere has greatly increased. This is mainly due to human [Q56], such as burning of fossil fuels and deforestation. When fossil fuels like coal and petroleum are being [Q57], greenhouse gases such as carbon dioxide are released [Q58] the atmosphere. Due to deforestation, there are [Q59] trees to absorb the carbon dioxide.",
+          "The rate at which greenhouse gases are being emitted by factories, power plants and vehicles [Q60] alarming. This increases the greenhouse effect, leading [Q61] global warming, which is expected to have [Q62] effects. Firstly, the rise in temperature has already caused many glaciers to start melting. [Q63] sea levels can cause flooding of low-lying areas. Secondly, ecosystems may change as a [Q64] of extreme weather conditions. Animals may have to migrate to other areas, leading to a disruption in food chains. This puts many species at the [Q65] of extinction. We humans have caused global warming and all of us must play our part to save our planet."
+        ],
+        "zh": [
+          "由于全球变暖的影响，世界上许多地方正经历着更炎热的天气、更沉重的降雨以及其他天气变化。全球变暖是指过去一个世纪以来地球温度的快速上升。科学家们认为，这是由于地球温室效应增强所引起的。温室效应是指当二氧化碳等气体留住来自太阳的热量并且不允许其逃逸时，所触发的变暖效应。这阻止了地球结冰，使其适合维持生物的生存。事实上，如果没有温室效应，地球上将不复存在生命。",
+          "然而，近年来，大气中温室气体的浓度大大增加。这主要是由于人类活动造成的，例如燃烧化石燃料和砍伐森林。当煤炭和石油等化石燃料被燃烧时，二氧化碳等温室气体就会被释放到大气中。由于砍伐森林，能够吸收二氧化碳 of 树木变得更少了。",
+          "工厂、发电厂和车辆排放温室气体的速率令人震惊。这加剧了温室效应，导致全球变暖，预计这会带来不利的影响。首先，温度的上升已经导致许多冰川开始融化。上升的海平面会导致低洼地区发生洪涝。其次，由于极端天气条件的结果，生态系统可能会发生改变。动物可能不得不迁徙到其他地区，导致食物链遭到破坏。这使许多物种面临灭绝的危险。我们人类造成了全球变暖，我们所有人都必须尽自己的一份力量来拯救我们的星球。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1552 @@
+{
+  "paperid": "p6_english_2026_sa2_rafflesgirls",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"Father's eaten his lunch, ________?\" Mary asked.",
+          "options": {
+            "1": "isn't he",
+            "2": "hasn't he",
+            "3": "wasn't he",
+            "4": "doesn't he"
+          }
+        },
+        "2": {
+          "stem_plain": "Rani is well-known ________ her expertise in growing orchids.",
+          "options": {
+            "1": "by",
+            "2": "for",
+            "3": "from",
+            "4": "about"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Won't Alice be excited when she ________ that she's representing the class for the speech competition?\" Ben asked.",
+          "options": {
+            "1": "hears",
+            "2": "heard",
+            "3": "has heard",
+            "4": "has been hearing"
+          }
+        },
+        "4": {
+          "stem_plain": "Mother objected to ________ the bag for Sarah as it was too expensive.",
+          "options": {
+            "1": "buy",
+            "2": "buying",
+            "3": "be buying",
+            "4": "having bought"
+          }
+        },
+        "5": {
+          "stem_plain": "Tina made ________ progress in her studies because she had been revising diligently.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "6": {
+          "stem_plain": "All the information about the upcoming school workshops ________ to the students last week.",
+          "options": {
+            "1": "is given",
+            "2": "are given",
+            "3": "was given",
+            "4": "were given"
+          }
+        },
+        "7": {
+          "stem_plain": "The commitment displayed by the students ________ the reason why they did well in the project.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "The young boy helped the old lady ________ the busy road.",
+          "options": {
+            "1": "cross",
+            "2": "crosses",
+            "3": "crossed",
+            "4": "was crossing"
+          }
+        },
+        "9": {
+          "stem_plain": "If John ________ early last night, he would not have missed his school bus this morning.",
+          "options": {
+            "1": "sleeps",
+            "2": "has slept",
+            "3": "had slept",
+            "4": "had been sleeping"
+          }
+        },
+        "10": {
+          "stem_plain": "________ his injury, the participant was unable to complete the race.",
+          "options": {
+            "1": "Due to",
+            "2": "Despite",
+            "3": "Although",
+            "4": "Regardless of"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "句中的 's 是 has 的缩写（与过去分词 eaten 构成现在完成时），因此对应的反义疑问句应使用 hasn't he。",
+          "concept": "反义疑问句 — Tag Questions — present perfect tense",
+          "zh": "“爸爸已经吃过午饭了，不是吗？”玛丽问。",
+          "answer": "2"
+        },
+        "2": {
+          "note": "be well-known for 为固定搭配，表示“因……而闻名/出名”，后面接具体的才能、特点或原因。",
+          "concept": "固定搭配 — Prepositions — be well-known for",
+          "zh": "拉妮因其在种植兰花方面的专业知识而闻名。",
+          "answer": "2"
+        },
+        "3": {
+          "note": "在时间状语从句（如 when 引导的从句）中，通常用一般现在时（simple present）来表示将来发生的事情。",
+          "concept": "时态 — Tense — simple present in time clauses",
+          "zh": "“当爱丽丝听到她将代表班级参加演讲比赛时，她不会很兴奋吗？”本问。",
+          "answer": "1"
+        },
+        "4": {
+          "note": "object to 中的 to 是介词，后面必须接名词或动名词（doing），因此选择 buying。",
+          "concept": "动名词 — Gerunds — object to doing something",
+          "zh": "母亲反对给莎拉买那个包，因为太贵了。",
+          "answer": "2"
+        },
+        "5": {
+          "note": "progress（进步）是不可数名词，不能用 few 或 many 修饰；根据后半句“因为她一直在勤奋温习”可知是取得了“很大”的进步，故选 much。",
+          "concept": "量词与名词修饰 — Quantifiers — much vs little/few with uncountable nouns",
+          "zh": "蒂娜在学业上取得了很大进步，因为她一直在勤奋地温习。",
+          "answer": "3"
+        },
+        "6": {
+          "note": "主语 information 是不可数名词，谓语动词形式用单数；结合时间状语 last week 可知这里应使用一般过去时的被动语态，故选 was given。",
+          "concept": "主谓一致与被动语态 — Subject-Verb Agreement & Passive Voice",
+          "zh": "关于即将举行的学校工作坊的所有信息已于上周发给了学生。",
+          "answer": "3"
+        },
+        "7": {
+          "note": "句子的核心主语是 The commitment（单数），“displayed by the students” 是过去分词短语作后置定语；根据后半句的过去时动词 did 可知整句话应用过去时态，谓语动词选 was。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense",
+          "zh": "学生们展现出的奉献精神是他们在项目中表现出色的原因。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "help sb. (to) do sth. 为固定句型，表示“帮助某人做某事”，后接动词原形或不带 to 的不定式，故选择原形 cross。",
+          "concept": "非谓语动词 — Bare Infinitives — help someone do something",
+          "zh": "那个小男孩帮助老妇人穿过繁忙的马路。",
+          "answer": "1"
+        },
+        "9": {
+          "note": "这是一个与过去事实相反的虚拟条件句（Third Conditional）。条件从句中表示对过去事实的虚拟，应该使用过去完成时（had + 过去分词），故选 had slept。",
+          "concept": "虚拟语气 — Conditional Sentences — Type 3 (Past Unreal Condition)",
+          "zh": "如果约翰昨晚早点睡，他今天早上就不会错过校车了。",
+          "answer": "3"
+        },
+        "10": {
+          "note": "前半句的“他的伤势”与后半句的“未能完成比赛”之间是显而易见的因果关系。Due to 意为“由于、因为”，且后接名词短语，完全符合语境。",
+          "concept": "原因介词短语 — Prepositional Phrases — due to vs despite/although",
+          "zh": "由于受伤，该参赛者未能完成比赛。",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The children were thrilled at the idea of going for a class learning journey. They felt ________ the entire day.",
+          "options": {
+            "1": "moved",
+            "2": "daunted",
+            "3": "exhilarated",
+            "4": "apprehensive"
+          }
+        },
+        "12": {
+          "stem_plain": "To prevent people from getting too close to the turtle's nest on the beach, the Nature Lovers' Society ________ the area.",
+          "options": {
+            "1": "fended off",
+            "2": "marked off",
+            "3": "rounded off",
+            "4": "cordoned off"
+          }
+        },
+        "13": {
+          "stem_plain": "The top student of the school ________ her success to her parents and teachers who had nurtured her in the formative years of her life.",
+          "options": {
+            "1": "assigned",
+            "2": "attributed",
+            "3": "associated",
+            "4": "acknowledged"
+          }
+        },
+        "14": {
+          "stem_plain": "The fight between Peter and Ming was ________ only because their teacher intervened.",
+          "options": {
+            "1": "averted",
+            "2": "inverted",
+            "3": "diverted",
+            "4": "reverted"
+          }
+        },
+        "15": {
+          "stem_plain": "Due to time constraints, the debate team members ensured that their argument was brief and to the point. They were very ________.",
+          "options": {
+            "1": "precise",
+            "2": "specific",
+            "3": "concise",
+            "4": "accurate"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "孩子们对去参加班级学习之旅的想法感到兴奋。他们整天都感到极其兴奋。",
+          "note": "‘exhilarated’指极其高兴、兴奋的，与前文的“thrilled（激动万分的）”语境完全契合。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "moved",
+              "zh": "感动的",
+              "eg": "She was deeply moved by the kind gestures of her neighbors."
+            },
+            {
+              "opt": "2",
+              "word": "daunted",
+              "zh": "气馁的，心生畏惧的",
+              "eg": "He felt daunted by the huge amount of work left to do."
+            },
+            {
+              "opt": "3",
+              "word": "exhilarated",
+              "zh": "极其兴奋的，欢欣鼓舞的",
+              "eg": "The runners felt exhilarated as they crossed the finish line."
+            },
+            {
+              "opt": "4",
+              "word": "apprehensive",
+              "zh": "忧虑的，担心的",
+              "eg": "Parents are naturally apprehensive about their children's safety."
+            }
+          ]
+        },
+        "12": {
+          "zh": "为了防止人们太靠近海滩上的海龟巢，自然爱好者协会拉起警戒线隔离了该区域。",
+          "note": "‘cordoned off’是短语动词，指用警戒线、绳子等圈起来以阻止人们进入，常用于保护现场或特定区域。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fended off",
+              "zh": "挡开，避开",
+              "eg": "The celebrity fended off questions from the reporters at the airport."
+            },
+            {
+              "opt": "2",
+              "word": "marked off",
+              "zh": "标出……的界限",
+              "eg": "The workers marked off the boundary of the soccer field with white paint."
+            },
+            {
+              "opt": "3",
+              "word": "rounded off",
+              "zh": "圆满结束，使圆滑",
+              "eg": "We rounded off the perfect evening with a delicious chocolate dessert."
+            },
+            {
+              "opt": "4",
+              "word": "cordoned off",
+              "zh": "拉起警戒线隔离",
+              "eg": "The police cordoned off the street after the bank robbery."
+            }
+          ]
+        },
+        "13": {
+          "zh": "学校的第一名学生将她的成功归功于在建构期抚育她的父母和老师。",
+          "note": "‘attributed’通常与 to 连用（attribute something to someone），意思是把……归功于……。",
+          "concept": "Vocabulary Collocation MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "assigned",
+              "zh": "分配，指派",
+              "eg": "The teacher assigned a new project to the students today."
+            },
+            {
+              "opt": "2",
+              "word": "attributed",
+              "zh": "把……归因/归功于",
+              "eg": "He attributed his good health to regular exercise and a balanced diet."
+            },
+            {
+              "opt": "3",
+              "word": "associated",
+              "zh": "把……联系起来 (通常与 with 连用)",
+              "eg": "Most people associate the spring season with flowers and sunshine."
+            },
+            {
+              "opt": "4",
+              "word": "acknowledged",
+              "zh": "承认，鸣谢",
+              "eg": "She acknowledged her mistake and promised to fix it immediately."
+            }
+          ]
+        },
+        "14": {
+          "zh": "彼得和明之间的打架得以避免，仅仅是因为他们的老师介入了。",
+          "note": "‘averted’意思是避免、防止（坏事的发生），与后文老师介入平息冲突的语境相符。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "averted",
+              "zh": "避免，防止（坏事）",
+              "eg": "The driver swerved quickly and averted a terrible accident."
+            },
+            {
+              "opt": "2",
+              "word": "inverted",
+              "zh": "使倒转，使颠倒",
+              "eg": "The acrobat inverted his body and stood on his hands easily."
+            },
+            {
+              "opt": "3",
+              "word": "diverted",
+              "zh": "转移，使分流",
+              "eg": "Traffic was diverted to another road due to the construction."
+            },
+            {
+              "opt": "4",
+              "word": "reverted",
+              "zh": "恢复，回复",
+              "eg": "After the computer rebooted, the settings reverted to default."
+            }
+          ]
+        },
+        "15": {
+          "zh": "由于时间限制，辩论队的成员确保他们的论点简明扼要。他们说话非常简练。",
+          "note": "‘concise’意为简明的、简练的，直接对应前文中的“brief and to the point（简明扼要）”。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "precise",
+              "zh": "精确的，准确的",
+              "eg": "The scientist gave precise measurements for the laboratory experiment."
+            },
+            {
+              "opt": "2",
+              "word": "specific",
+              "zh": "具体的，特定的",
+              "eg": "Please give me specific instructions on how to use this machine."
+            },
+            {
+              "opt": "3",
+              "word": "concise",
+              "zh": "简明的，简练的",
+              "eg": "Your essay should be concise and not contain unnecessary words."
+            },
+            {
+              "opt": "4",
+              "word": "accurate",
+              "zh": "准确无误的",
+              "eg": "The weather forecast was accurate, and it rained just as predicted."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "deepen",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "foster",
+            "2": "create",
+            "3": "cultivate",
+            "4": "enhance"
+          }
+        },
+        "17": {
+          "stem_plain": "fascination",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "delight",
+            "2": "wonder",
+            "3": "ecstasy",
+            "4": "curiosity"
+          }
+        },
+        "18": {
+          "stem_plain": "illuminate",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "adorn",
+            "2": "brighten",
+            "3": "highlight",
+            "4": "accentuate"
+          }
+        },
+        "19": {
+          "stem_plain": "frail",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "feeble",
+            "2": "weary",
+            "3": "gentle",
+            "4": "slender"
+          }
+        },
+        "20": {
+          "stem_plain": "enlighten",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "inspire",
+            "2": "educate",
+            "3": "motivate",
+            "4": "stimulate"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "近义词替换 — 加深/提高（理解）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "foster",
+              "zh": "培养；促进",
+              "eg": "The teacher tried to foster a love of reading in her students."
+            },
+            {
+              "opt": "2",
+              "word": "create",
+              "zh": "创造",
+              "eg": "The artist used recycled materials to create a beautiful sculpture."
+            },
+            {
+              "opt": "3",
+              "word": "cultivate",
+              "zh": "栽培；培养",
+              "eg": "It takes time to cultivate good study habits."
+            },
+            {
+              "opt": "4",
+              "word": "enhance",
+              "zh": "提高；增强",
+              "eg": "Reading regularly can enhance your vocabulary skills."
+            }
+          ]
+        },
+        "17": {
+          "note": "近义词替换 — 迷恋/惊奇感",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "delight",
+              "zh": "高兴；欣喜",
+              "eg": "To the delight of the children, the clown arrived at the party."
+            },
+            {
+              "opt": "2",
+              "word": "wonder",
+              "zh": "惊奇；惊异",
+              "eg": "The boy looked at the starry night sky with a sense of wonder."
+            },
+            {
+              "opt": "3",
+              "word": "ecstasy",
+              "zh": "狂喜",
+              "eg": "She was in ecstasy when she passed her driving test."
+            },
+            {
+              "opt": "4",
+              "word": "curiosity",
+              "zh": "好奇心",
+              "eg": "Children are often full of curiosity about the world around them."
+            }
+          ]
+        },
+        "18": {
+          "note": "词汇理解 — 照亮（天空）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "adorn",
+              "zh": "装饰",
+              "eg": "Beautiful paintings adorn the walls of the museum."
+            },
+            {
+              "opt": "2",
+              "word": "brighten",
+              "zh": "照亮；使变亮",
+              "eg": "The morning sun started to brighten the dark bedroom."
+            },
+            {
+              "opt": "3",
+              "word": "highlight",
+              "zh": "强调；突出",
+              "eg": "The teacher used a yellow marker to highlight the keywords."
+            },
+            {
+              "opt": "4",
+              "word": "accentuate",
+              "zh": "着重；强调",
+              "eg": "The blue dress served to accentuate the color of her eyes."
+            }
+          ]
+        },
+        "19": {
+          "note": "近义词替换 — 虚弱的/衰弱的",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "feeble",
+              "zh": "虚弱的；无力的",
+              "eg": "The old dog gave a feeble bark when the visitor arrived."
+            },
+            {
+              "opt": "2",
+              "word": "weary",
+              "zh": "疲惫的",
+              "eg": "The weary travelers finally reached their hotel after midnight."
+            },
+            {
+              "opt": "3",
+              "word": "gentle",
+              "zh": "温柔的",
+              "eg": "He patted the kitten with a gentle touch."
+            },
+            {
+              "opt": "4",
+              "word": "slender",
+              "zh": "苗条的；细长的",
+              "eg": "She has long, slender fingers that are perfect for playing piano."
+            }
+          ]
+        },
+        "20": {
+          "note": "上下文语境 — 启发/教育",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "inspire",
+              "zh": "鼓舞；激起",
+              "eg": "The coach gave a speech to inspire the team before the game."
+            },
+            {
+              "opt": "2",
+              "word": "educate",
+              "zh": "教育；启发",
+              "eg": "Museums help to educate the public about local history."
+            },
+            {
+              "opt": "3",
+              "word": "motivate",
+              "zh": "激励；激发（积极性）",
+              "eg": "A good bonus structure can motivate employees to work harder."
+            },
+            {
+              "opt": "4",
+              "word": "stimulate",
+              "zh": "刺激；激发（兴趣）",
+              "eg": "The new dynamic toys help stimulate a child's imagination."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Last summer, Maya decided to embark on a journey that would forever broaden her perspective on life. She had always been curious about places far from her hometown, and this trip promised experiences that would [Q16 (deepen)] her understanding of different cultures.",
+          "On the first day, she visited a small village nestled among rolling hills. The locals welcomed her with radiant smiles. Maya felt a sense of [Q17 (fascination)] as she explored the winding streets, each corner revealing a new surprise.",
+          "In the evenings, she would sit by the river, watching the sunset that seemed to [Q18 (illuminate)] the sky with brilliant shades of orange and pink. These moments reminded her that life was not just about achievements, but also about the beauty that surrounded her.",
+          "One afternoon, while hiking a steep trail, Maya encountered an elderly man who was [Q19 (frail)] yet radiated a quiet wisdom. He shared inspirational stories of his youth, and Maya listened intently, knowing that these narratives would [Q20 (enlighten)] her in ways books never could. By the end of the trip, Maya felt transformed."
+        ],
+        "zh": [
+          "去年夏天，玛雅决定踏上一段将永远拓宽她人生视界的旅程。她一直对远离家乡的地方充满好奇，这次旅行承诺带来的体验将加深她对不同文化的理解。",
+          "第一天，她访问了一个依偎在连绵起伏的山丘之中的小村庄。当地人带着灿烂的笑容欢迎她。当玛雅探索弯弯曲曲的街道时，她感到一种着迷感，每个角落都展现出一个新的惊喜。",
+          "傍晚时分，她会坐在河边，看着夕阳似乎用橙色和粉红色的灿烂色彩照亮了天空。这些时刻提醒着她，生活不仅关乎成就，也关乎围绕在她身边的美丽。",
+          "一天下午，在攀登一条陡峭的山路时，玛雅遇到了一位身体虚弱却散发着沉静智慧的老人。他分享了自己年轻时励志的故事，玛雅专心地听着，知道这些故事会以书本永远无法做到的方式启发她。到旅行结束时，玛雅感觉自己焕然一新。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following is true about the launch?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Reservations for the shoes can be made online.",
+            "2": "Only a limited number of shoes will be available.",
+            "3": "Anyone can purchase the shoes on 12 December.",
+            "4": "Falcon shoes will be sold at all Sports House outlets."
+          }
+        },
+        "22": {
+          "stem_plain": "What kind of poster is shown in Text 1?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "educational",
+            "2": "promotional",
+            "3": "motivational",
+            "4": "informational"
+          }
+        },
+        "23": {
+          "stem_plain": "Linda often experiences pain in her foot and prefers to run at night. Based on the information in Text 1, which features of the shoes would be most important for her?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A and B",
+            "2": "C and F",
+            "3": "D and F",
+            "4": "D and E"
+          }
+        },
+        "24": {
+          "stem_plain": "What is the main message of Text 2?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "It is easy to choose a pair of running shoes.",
+            "2": "Running shoes are for the young and old.",
+            "3": "Proper running shoes makes one run faster.",
+            "4": "Wearing the right pair of running shoes is important."
+          }
+        },
+        "25": {
+          "stem_plain": "Both the descriptions for the shoes in Text 1 and the content of Text 2 ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "advertise the latest running shoes",
+            "2": "offer tips on how to select running shoes",
+            "3": "compare different features of running shoes",
+            "4": "highlight the importance of quality running shoes"
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "海报中明确提到“Only 100 pairs!”（只有100双！），说明只有限量的鞋子可供购买。因此选择选项2。",
+          "concept": "信息细节检索",
+          "answer": "2"
+        },
+        "22": {
+          "note": "该海报宣传新鞋发布、标注价格、会员专属以及发售细节，主要目的是为了进行新品促销并吸引顾客购买。因此选择选项2。",
+          "concept": "文本意图与文体辨析",
+          "answer": "2"
+        },
+        "23": {
+          "note": "林达（Linda）喜欢“夜跑”（run at night），因此需要特性 D) Visibility（反光材料在低光下可见）；她“脚部常感到疼痛”（pain in her foot），因此需要特性 F) Support（提供稳定性以实现无受伤跑步）。因此选择选项3。",
+          "concept": "特定场景条件匹配",
+          "answer": "3"
+        },
+        "24": {
+          "note": "文本2的第一句“Wearing the right shoes is important for every runner...”以及结尾“choosing the right pair of running shoes... is an important one”都开门见山并总结指出了选择和穿着合适跑鞋的重要性。因此选择选项4。",
+          "concept": "文章主旨题型",
+          "answer": "4"
+        },
+        "25": {
+          "note": "文本1通过详细列举跑鞋的优质功能（轻量、缓震、支撑、可见性等）来强调其优良品质，文本2则深入阐述了好的跑鞋在保护身体和避免受伤方面的关键作用，两文共同强调了优质/合适跑鞋的重要性。因此选择选项4。",
+          "concept": "跨文本共同核心观点提炼",
+          "answer": "4"
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "连词/关系词",
+          "note": "“when the diaphragm... suddenly contracts” 意为“当横隔膜突然收缩时”。由于27题开头大写，此处26题应填when引导时间状语从句，连接前后两个分句。",
+          "answer": "P"
+        },
+        "27": {
+          "concept": "定语从句关系代词",
+          "note": "此处是非限制性定语从句，先行词是单数名词“the diaphragm”，在从句中作主语，故用which。",
+          "answer": "Q"
+        },
+        "28": {
+          "concept": "介词搭配",
+          "note": "“breathe in air” 意为“吸入空气”，与breathe构成固定动词短语搭配。",
+          "answer": "D"
+        },
+        "29": {
+          "concept": "定冠词",
+          "note": "“the familiar 'hic' sound” 特指上文提到的打嗝时发出的熟悉的“hic”声，用定冠词the。",
+          "answer": "J"
+        },
+        "30": {
+          "concept": "数量形容词",
+          "note": "修饰可数名词复数“reasons”，结合后文列举的各种原因，应填many，意为“有很多原因”。",
+          "answer": "F"
+        },
+        "31": {
+          "concept": "形容词性物主代词",
+          "note": "“stop on its own” 为固定短语，意为“自行停止”，its指代单数名词hiccups的发生现象或个体打嗝动作，此处习惯上用单数its own。",
+          "answer": "E"
+        },
+        "32": {
+          "concept": "介词固定搭配",
+          "note": "“get rid of...” 为固定短语，意为“摆脱/消除……”。",
+          "answer": "H"
+        },
+        "33": {
+          "concept": "指示代词",
+          "note": "修饰复数名词“methods”，指代前面提到的憋气、喝水等这些方法，用these。",
+          "answer": "L"
+        },
+        "34": {
+          "concept": "介词搭配",
+          "note": "“go back to normal” 意为“恢复正常”，图片中学生也已写出to提示。",
+          "answer": "M"
+        },
+        "35": {
+          "concept": "让步状语从句连词",
+          "note": "“although they can be annoying” 意为“尽管它们可能会让人感到烦人”，表转折/让步，图片中已有正确勾选提示。",
+          "answer": "A"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "B": "an",
+          "C": "by",
+          "D": "in",
+          "E": "its",
+          "F": "many",
+          "G": "much",
+          "H": "of",
+          "J": "the",
+          "K": "their",
+          "L": "these",
+          "M": "to",
+          "N": "unless",
+          "P": "when",
+          "Q": "which"
+        },
+        "cloze": [
+          "Hiccups are sudden, repeated sounds that happen when your body makes a small \"jump\" inside your chest. They occur [Q26] the diaphragm, a muscle under the lungs,",
+          "[Q27] helps you breathe, suddenly contracts. This quick movement makes you breathe [Q28] air very fast. At the same time, the gap between your vocal cords snaps shut, causing [Q29] familiar \"hic\" sound.",
+          "There are [Q30] reasons why hiccups occur. You might eat or drink too quickly, swallow too much air or even laugh too hard. Sometimes, feeling nervous or excited can also make you get hiccups. In most cases, hiccups last only a few minutes and stop on [Q31] own.",
+          "To get rid [Q32] hiccups, people often try holding their breath, drinking water slowly or breathing into a paper bag. [Q33] methods help the diaphragm relax so that your breathing goes back [Q34] normal. Hiccups are harmless, [Q35] they can be annoying. The sounds are a normal part of how our bodies work."
+        ],
+        "zh": [
+          "打嗝是当你的身体在胸腔内部发生轻微“跳动”时，所产生的突然且重复的声音。当位于肺部下方的肌肉——横隔膜，",
+          "（横隔膜）帮助你呼吸，突然收缩时，打嗝就会发生。这种快速的运动会使你非常快地吸入空气。与此同时，你的声带之间的缝隙会突然关闭，从而发出那声令人熟悉的“嗝”声。",
+          "打嗝的发生有很多原因。你可能吃东西或喝东西太快，吞下了太多空气，甚至笑得太厉害。有时，感到紧张或兴奋也会让你打嗝。在大多数情况下，打嗝只会持续几分钟，然后就会自行停止。",
+          "为了摆脱打嗝，人们经常尝试憋气、慢慢喝水或向纸袋里呼气。这些方法可以帮助横隔膜放松，从而使你的呼吸恢复正常。打嗝是无害的，尽管它们可能会让人感到烦人。这种声音是我们身体运作的正常一部分。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "单词拼写",
+          "note": "拼写错误，应将 occassion 纠正为正确的拼写 occasion（场合、时刻）。",
+          "answer": "occasion"
+        },
+        "37": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示外表、容貌的名词 appearence 应纠正为 appearance。",
+          "answer": "appearance"
+        },
+        "38": {
+          "concept": "单词拼写",
+          "note": "拼写错误，表示感到“尴尬的”形容词 embrassed 应纠正为 embarrassed。",
+          "answer": "embarrassed"
+        },
+        "39": {
+          "concept": "词形变化 (时态)",
+          "note": "语境时间轴的先后顺序错误。根据 realized 动作可知，这里表达在她疯狂赶着出门的“那阵忙乱中”，表示在……期间应将动词过去式 wore 纠正为介词 in（或 during）。",
+          "answer": "in"
+        },
+        "40": {
+          "concept": "介词搭配",
+          "note": "固定搭配错误，“在赶时间/匆忙中”应该用短语 in her frantic rush，划线词 on 错误，应改为 in。",
+          "answer": "in"
+        },
+        "41": {
+          "concept": "词性转换",
+          "note": "形容词 soft 应当改为副词形式 softly，用以修饰前面的轻声笑动词 chuckled。",
+          "answer": "softly"
+        },
+        "42": {
+          "concept": "词性转换",
+          "note": "原句中名词 comfort 应当改为形容词形式 comforting，用以修饰后面的名词 hug，表示“令人宽慰的拥抱”。",
+          "answer": "comforting"
+        },
+        "43": {
+          "concept": "词形变化 (时态)",
+          "note": "整篇故事都是用过去时态来讲述上周六发生的事情，动词 receives 应当改为过去式 received。",
+          "answer": "received"
+        },
+        "44": {
+          "concept": "单词拼写",
+          "note": "拼写错误，形容词“精美的、优雅的”elegeant 应纠正为 elegant。",
+          "answer": "elegant"
+        },
+        "45": {
+          "concept": "单词拼写",
+          "note": "拼写错误，形容词“方便的”convinient 应纠正为 convenient。",
+          "answer": "convenient"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Last Saturday, my family gathered at a bustling seafood restaurant. It was a special [Q36(occassion)] as it was Grandma's eightieth birthday. My cousin, Sarah, who cared deeply about her [Q37(appearence)], arrived wearing a stunning silk dress that shimmered under the chandeliers. However, she soon felt [Q38(embrassed)] and her confidence vanished when she realised she had accidentally [Q39(wore)] one black sandal and one navy blue slipper [Q40(on)] her frantic rush to leave home. Everyone at the table chuckled [Q41(soft)] at the sight, but Grandma gave her a warm, [Q42(comfort)] hug to make her feel better.",
+          "During the lively party, Grandma [Q43(receives)] many wonderful gifts from her grandchildren, ranging from handmade cards to [Q44(elegeant)] jewellery. My brother gave her a brand-new tablet, explaining that it would be much more [Q45(convinient)] for her to video call us whenever she missed hearing our voices or seeing our faces. Grandma smiled brightly, her eyes twinkling with joy as she thanked us all for such a memorable day."
+        ],
+        "zh": [
+          "上周六，我们全家聚集在一家热闹的海鲜餐厅。这是一个特殊的日子，因为那天是祖母的八十岁生日。我的表姐莎拉非常在意自己的外表，她穿着一件在吊灯下闪闪发光的漂亮丝绸连衣裙来到了现场。然而，当她意识到自己在急急忙忙出门时，竟然错误地穿了一只黑色凉鞋和一只藏青色拖鞋后，她很快感到很尴尬，自信心也消失了。看到这一幕，桌上的每个人都轻声笑了起来，但祖母给了她一个温暖、舒适的拥抱，让她感觉好一点。",
+          "在热闹的派对上，祖母收到了孙子孙女们送来的许多精美礼物，从手工卡片到精雅的珠宝首饰。我哥哥送了她一台全新的平板电脑，并解释说，每当她想念我们的声音或看到我们的脸时，用它进行视频通话对她来说会方便得多。祖母灿烂地笑了，她的眼睛里闪烁着喜悦的光芒，感谢我们大家度过了这样一个难忘的一天。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "介词词义辨析",
+          "note": "through simple greetings 表示“通过简单的问候”来展现礼貌，也可用 by 或 with。",
+          "answer": "through"
+        },
+        "47": {
+          "concept": "代词词义辨析",
+          "note": "where everyone feels valued 意为“让每一个人都感到被重视”，符合营造友好环境的语境。",
+          "answer": "everyone"
+        },
+        "48": {
+          "concept": "动词词义辨析",
+          "note": "ensure safety, fairness, and order 意为“确保所有人的安全、公平和秩序”，也可用 maintain 或 promote。",
+          "answer": "ensure"
+        },
+        "49": {
+          "concept": "动词名词化/分词作主语",
+          "note": "waiting patiently for one's turn 意为“耐心轮候/排队”，此处用动名词短语 waiting 作举例说明的主语成分。",
+          "answer": "waiting"
+        },
+        "50": {
+          "concept": "名词固定搭配",
+          "note": "respect for others 为固定搭配，意为“对他人的尊重”，与前面的自律（self-discipline）并列。",
+          "answer": "respect"
+        },
+        "51": {
+          "concept": "情态动词辨析",
+          "note": "how your actions can/may affect other people 意为你的行为“可能会”如何影响他人。",
+          "answer": "can"
+        },
+        "52": {
+          "concept": "名词词义辨析",
+          "note": "in group activities/work 意为在“小组活动”或“小组合作”中包容较内向的学生。",
+          "answer": "activities"
+        },
+        "53": {
+          "concept": "形容词词义辨析与对比",
+          "note": "both personal and shared resources 意为“个人财产和公共/共享资源”，与 shared 形成呼应与对比，也可用 own。",
+          "answer": "personal"
+        },
+        "54": {
+          "concept": "介词固定搭配",
+          "note": "with care 为固定短语，意为“小心地/爱惜地”使用学校公物。",
+          "answer": "with"
+        },
+        "55": {
+          "concept": "连词逻辑搭配",
+          "note": "strengthen existing bonds and maintain good relationships 连接两个并列的动词短语，表示“增强纽带并保持良好关系”。",
+          "answer": "and"
+        },
+        "56": {
+          "concept": "连词/时间状语从句",
+          "note": "handling disagreements when/as they arise 意为“当分歧出现时”去处理它们，体现了情感上的成熟。",
+          "answer": "when"
+        },
+        "57": {
+          "concept": "介词固定短语",
+          "note": "in doubt 为固定搭配，意为“心存疑问/困惑”，when you are in doubt 意为当你对困难概念有疑问时。",
+          "answer": "doubt"
+        },
+        "58": {
+          "concept": "分词平行结构",
+          "note": "being kind 与前面的 participating... 和后面的 helping... 构成形式一致的现在分词平行结构，作伴随或方式状语。",
+          "answer": "being"
+        },
+        "59": {
+          "concept": "名词词义辨析",
+          "note": "positive values/qualities/traits such as graciousness... 意为通过展示像和蔼、感激等“积极的价值观/品质”。",
+          "answer": "values"
+        },
+        "60": {
+          "concept": "动词固定搭配",
+          "note": "contribute to... 为固定搭配，意为“有助于/促成”更好的学校体验，主语为复数 students，故动词用原形。",
+          "answer": "contribute"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Being a responsible member of the school community means more than just attending classes on time. It involves showing courtesy to teachers, classmates, and staff [Q46(through)] simple greetings, such as saying \"please\" and \"thank you\". These polite behaviours create a positive and friendly environment where [Q47(everyone)] feels valued.",
+          "Respecting school rules is another important part of being responsible. Rules are designed to [Q48(ensure)] safety, fairness, and order for all. For instance, [Q49(waiting)] patiently for one's turn, keeping noise levels low in the library, and following instructions in the classroom are ways to demonstrate self-discipline and [Q50(respect)] for others.",
+          "Think about how your actions [Q51(can)] possibly affect other people. Helping a classmate who has dropped her books, offering to share materials, or including quieter students in group [Q52(activities)] are all examples of thoughtfulness and kindness.",
+          "A responsible student also takes care of both [Q53(personal)] and shared resources. This includes returning borrowed books on time, keeping the canteen clean, and using school property [Q54(with)] care. Students must not forget to appreciate the efforts of those who maintain the school grounds.",
+          "Communication and cooperation are equally important. Listening attentively, speaking politely, and working well in teams help to strengthen existing bonds [Q55(and)] maintain good relationships with others. Handling disagreements [Q56(when)] they arise shows emotional maturity.",
+          "What about diligence? Is a diligent student a responsible one? Most certainly! Completing assignments on time, and asking questions when you are in [Q57(doubt)] about a difficult concept taught in class reflect a commitment to learning.",
+          "Finally, responsible students promote a positive school culture by participating in community activities, [Q58(being)] kind towards newcomers, and helping others in need. These actions will help make the school environment safe and conducive for all. By demonstrating positive [Q59(values)] such as graciousness and gratitude each day, students [Q60(contribute)] to a better school experience for both their peers and teachers. That way, everyone within the school community can flourish and find joy in shared everyday experiences."
+        ],
+        "zh": [
+          "作为学校社区中负责任的一员，其意义远不止按时上课。它包括通过简单的问候向老师、同学和教职员工展现礼貌，例如说“请”和“谢谢”。这些礼貌的行为创造了一个积极友好的环境，让每个人都感到被重视。",
+          "遵守校规是负责任的另一个重要部分。规则旨在确保所有人的安全、公平和秩序。例如，耐心排队轮候、在图书馆保持低噪音、以及在课堂上听从指示，都是展示自律和尊重他人的方式。",
+          "思考一下你的行为可能会如何影响他人。帮助掉了书的同学、主动分享材料、或者在小组活动中接纳较内向的学生，这些都是体贴和善良的榜样。",
+          "一个负责任的学生还会爱护个人资源和共享资源。这包括按时归还借来的书、保持食堂清洁以及爱惜地使用学校财产。学生们绝不能忘记感激那些维护校园场地人员的付出。",
+          "沟通与合作同样重要。倾听专注、说话礼貌以及团队合作融洽，有助于增强现有的纽带并与他人保持良好的关系。在分歧出现时加以妥善处理，展现了情感上的成熟。",
+          "那勤奋呢？勤奋的学生是负责任的学生吗？当然是！按时完成作业，并在对课堂上讲授的艰难概念心存疑问时提出问题，都反映了对学习的承诺。",
+          "最后，负责任的学生通过参与社区活动、友善对待新来者以及帮助有需要的人，来促进积极的校园文化。这些行动将有助于让学校环境对每个人来说都安全且有益。通过每天展示如和蔼和感激等积极的价值观，学生们有助于为同龄人和老师们带来更好的学校体验。这样一来，学校社区内的每个人都能够蓬勃发展，并在共同的日常体验中找到快乐。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "I was impressed by how deep her knowledge was.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "... of her knowledge."
+        },
+        "62": {
+          "stem_plain": "We left immediately when the movie ended.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "As soon as"
+        },
+        "63": {
+          "stem_plain": "David does not like to play computer games. He likes to read.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... would rather ..."
+        },
+        "64": {
+          "stem_plain": "\"Did you sit for the Science test last week?\" Mother asked Sarah.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Mother asked Sarah"
+        },
+        "65": {
+          "stem_plain": "She is such a nice person. She collected my worksheets for me when I was absent.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "It was so"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "词性转换 — 形容词变名词 (deep -> depth)",
+          "zh": "她知识的深度给我留下了深刻的印象。",
+          "note": "改写要点：将从句中的形容词 deep 转换为与其对应的名词形式 depth。整句调整为：I was impressed by the depth of her knowledge.",
+          "answer": "I was impressed by the depth of her knowledge."
+        },
+        "62": {
+          "concept": "时间状语从句 — 连词 As soon as (一……就……) 的用法",
+          "zh": "电影一结束，我们立刻就离开了。",
+          "note": "改写要点：使用 As soon as 引导时间状语从句，原句中的 immediately 语意已包含其中，需在主句中省去。主从句动作时态保持一致（一般过去时）。",
+          "answer": "As soon as the movie ended, we left."
+        },
+        "63": {
+          "concept": "平行结构与偏好表达 — would rather ... than ... 句型",
+          "zh": "戴维宁愿读书，也不喜欢玩电脑游戏。",
+          "note": "改写要点：would rather 后接动词原形（read），表示更愿意做的事情；其后通常搭配 than 连接不愿做的事情，且前后动词形式需保持平行（play）。",
+          "answer": "David would rather read than play computer games."
+        },
+        "64": {
+          "concept": "间接引语 — 一般疑问句的转述与时态/时间状语转换",
+          "zh": "妈妈问萨拉她上周是否参加了科学测试。",
+          "note": "改写要点：1. 一般疑问句的间接引语由 if 或 whether 引导，语序调整为陈述句语序；2. 一般过去时（did sit）向后推一个时态变为过去完成时（had sat）；3. 人称代词与时间状语转换：you -> she, last week -> the previous week 或 the week before。",
+          "answer": "Mother asked Sarah if she had sat for the Science test the previous week."
+        },
+        "65": {
+          "concept": "评价与行为的句型转换 — It is + 形容词 + of someone + to do something 结构",
+          "zh": "她真是太好了，在我缺席的时候帮我收集了工作纸。",
+          "note": "改写要点：将 \"She is such a nice person\" 句型转换为评价某人品质特征的固定被动/形式主语结构。nice 后面接介词 of 引出行为主体，再接动词不定式（to collect）：It was so nice of her to collect my worksheets for me when I was absent.",
+          "answer": "It was so nice of her to collect my worksheets for me when I was absent."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "From paragraph 1, state three physical signs that tell us how terribly parched Brian had been. [3m]",
+          "marks": 3,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q66a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q66b]"
+            },
+            {
+              "stem_plain": "(c)",
+              "question": "[Q66c]"
+            }
+          ]
+        },
+        "67": {
+          "stem_plain": "Brian struggled hard to decide if he wanted to try drinking water from the lake. Using information from lines 6 to 17, complete the following tables. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "what_brian_thought",
+              "reason_why_brian_thought_that_way"
+            ],
+            "what_brian_thought": {
+              "header": "What Brian thought:",
+              "rows": [
+                "(a) Brian thought he should drink water from the lake because",
+                "(b) Brian thought he should not drink water from the lake because"
+              ]
+            },
+            "reason_why_brian_thought_that_way": {
+              "header": "Reason why Brian thought that way:",
+              "rows": [
+                "(ii) his mouth and throat raged with thirst.\n(iii) [Q67_a_iii]\n(iv) he had swallowed a lot of the water in the lake and was fine.",
+                "(i) he felt the idea of drinking water from a lake was awful.\n(ii) [Q67_b_ii]\n(iii) the water looked a little murky.\n(iv) [Q67_b_iv]"
+              ]
+            }
+          }
+        },
+        "68": {
+          "stem_plain": "Based on information from lines 12 to 17, state whether each statement in the table below is true or false, then give one reason why you think so. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Brian had injured himself in the plane wreck.",
+                "(b) Brian could not think too well because he was dehydrated."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q68a]",
+                "[Q68b]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q68c]",
+                "[Q68d]"
+              ]
+            }
+          }
+        },
+        "69": {
+          "stem_plain": "Which word from lines 18 to 23 tells us that Brian was moving unsteadily on the log? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "70": {
+          "stem_plain": "Brian spent quite some time at the log on the lake. Based on information from lines 18 to 28, fill in the following table. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "action_thought",
+              "feeling_about_water"
+            ],
+            "action_thought": {
+              "header": "",
+              "rows": [
+                "(a) What Brian thought",
+                "Brian thought he would just try a sip, still pondering over the lake water.",
+                "(b) What Brian did",
+                "[Q70b]"
+              ]
+            },
+            "feeling_about_water": {
+              "header": "",
+              "rows": [
+                "How Brian felt about the water in the lake in (a)",
+                "[Q70a]",
+                "How Brian felt about the water in the lake in (b)",
+                "Brian felt that he was past caring whether or not the water in the lake was good and safe enough to drink."
+              ]
+            }
+          }
+        },
+        "71": {
+          "stem_plain": "When Brian 'felt the cold lake water trickle past his cracked lips and over his tongue, he could not stop' (lines 22 – 23). What was it he could not stop doing? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "72": {
+          "stem_plain": "Why did Brian throw up most of the water he had drunk? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "73": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word from the passage",
+              "rows": [
+                "(a) It (line 5)",
+                "(b) it (line 27)",
+                "(c) it (line 31)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refers to",
+              "rows": [
+                "[Q73a]",
+                "[Q73b]",
+                "[Q73c]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story. [1m]",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Brian fell asleep under the sun.",
+            "Brian's plane crashed.",
+            "Brian drank water from the lake."
+          ]
+        },
+        "75": {
+          "stem_plain": "Which of the following words best describes how Brian felt in the last paragraph about what was happening?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) Put a tick (✓) in the box beside your answers. Tick only ONE box. **DO NOT TICK MORE THAN ONE BOX.** [1m]",
+              "question_type": "radio",
+              "options": [
+                "determined",
+                "puzzled",
+                "disappointed",
+                "affirmed"
+              ],
+              "max_selections": 1
+            },
+            {
+              "stem_plain": "(b) Support your answer with information from the passage. [1m]",
+              "question": "[Q75b]"
+            }
+          ]
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "Literal Retrieval",
+          "note": "<ol><li><strong>题型：</strong>直接物理线索提取题——要求从第一段找出证明他极度口渴的三处身体物理表征（3分）。</li><li><strong>得分点：</strong>以下任意三点即可。（1）<span class='hl-good'>Brian's lips were cracked</span>（嘴唇干裂）；（2）<span class='hl-good'>Brian's skin was all withered up</span>（皮肤干瘪）；（3）<span class='hl-good'>Brian's mouth was dry</span>（嘴里发干）。</li><li><strong>失分点：</strong>抄写非第一段特征或非生理表征。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "66a": "Brian's lips were cracked.",
+            "66b": "Brian's skin was all withered up.",
+            "66c": "Brian's mouth was dry."
+          }
+        },
+        "67": {
+          "concept": "Plot Matrix / Multi-perspective Causes",
+          "note": "<ol><li><strong>题型：</strong>双向利弊心理平衡填空题——考查提取促使主角去喝水或犹豫退缩的并列细节事实证据的能力（2分）。</li><li><strong>Q67_a_iii 得分点：</strong>填入支持喝湖水的原因：<span class='hl-good'>the lake was blue and looked clean</span> 或不知道是否还有其他水源。</li><li><strong>Q67_b_ii 与 iv 得分点：</strong>填入犹豫、不喝湖水的原因：有刺草挡路（<span class='hl-good'>thick prickly grasses in the way</span>），以及水里有小虫子（<span class='hl-good'>small bugs swimming in the water</span>）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "Q67_a_iii": "the lake was blue and looked clean / he did not know if there might be another water source he could drink from.",
+            "Q67_b_ii": "there were thick prickly grasses in the way.",
+            "Q67_b_iv": "there were small bugs swimming in the water."
+          }
+        },
+        "68": {
+          "concept": "True/False with Justification",
+          "note": "<ol><li><strong>题型：</strong>判断正误并说明理由题——考查核实主角在空难后的伤势情况与特定生理行为因果关系的能力（2分）。</li><li><li><strong>a) 小题：</strong><span class='hl-good'>True</span>。理由：额头严重淤青，身体酸痛（<span class='hl-good'>Brian has a badly bruised forehead and an aching body</span>）。</li><li><li><strong>b) 小题：</strong><span class='hl-good'>True</span>。理由：口渴折磨着他，直到他无法思考（<span class='hl-good'>Thirst tore at Brian until he could not think</span>）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "68a": "True",
+            "68b": "True",
+            "68c": "Brian has a badly bruised forehead and an aching body.",
+            "68d": "Thirst tore at Brian until he could not think."
+          }
+        },
+        "69": {
+          "concept": "Vocabulary / Clue Identification",
+          "note": "<ol><li><strong>题型：</strong>特定范围单字提取题——考查从18-23行中寻找精准对应“摇摇晃晃、站不稳”含义的动态单字能力（1分）。</li><li><strong>得分点：</strong>必须是行18中精确对应的动作单字：<span class='hl-good'>Teetered</span>。</li></ol>",
+          "type": "comprehension",
+          "answer": "Teetered"
+        },
+        "70": {
+          "concept": "Action and Attitude Contrast Chart",
+          "note": "<ol><li><strong>题型：</strong>行动与心态演变矩阵填空题——考查捕捉主角从纠结试探转变为疯狂暴饮的情节递进过程（2分）。</li><li><li><strong>Q70a_feeling 得分点：</strong>只想尝一小口时，心里感到犹豫不决/不确定（<span class='hl-good'>undecided / unsure / uncertain / worried / nervous / anxious</span>）。</li><li><li><strong>Q70b_action 得分点：</strong>到了(b)状态，具体的狂饮动作对应：<span class='hl-good'>Brian stooped and put his mouth to the lake and drank and drank, pulling it deep and swallowing great gulps of it</span>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "70a": "Brian felt undecided / unsure / uncertain / worried / nervous / anxious",
+            "70b": "Brian stooped and put his mouth to the lake and drank and drank, pulling it deep and swallowing great gulps of it."
+          }
+        },
+        "71": {
+          "concept": "Action Interpretation",
+          "note": "<ol><li><strong>题型：</strong>句意动作代入理解题——结合特定对白还原当时无法停止的物理动作（1分）。</li><li><strong>得分点：</strong>答出他无法停止<span class='hl-good'>drinking the lake water</span>（饮用湖水）。</li></ol>",
+          "type": "comprehension",
+          "answer": "He could not stop drinking the lake water."
+        },
+        "72": {
+          "concept": "Cause and Effect Retrieval",
+          "note": "<ol><li><strong>题型：</strong>直接因果提取题——分析他呕吐湖水的最直接物理生理起因（1分）。</li><li><strong>得分点：</strong>他喝水直到肚子发胀，喝得太多了，导致感到恶心并将水吐了出来（<span class='hl-good'>He drank until his stomach was swollen and it was too much, so he felt sick and threw up most of the water.</span>）。</li></ol>",
+          "type": "comprehension",
+          "answer": "He drank until his stomach was swollen and it was too much, so he felt sick and threw up most of the water."
+        },
+        "73": {
+          "concept": "Contextual Referencing",
+          "note": "<ol><li><strong>题型：</strong>代词指代还原题——精准返回上下文锁定特定名词或具体物理概念的完整指代（3分）。</li><li><li><strong>(a) It (行 5)：</strong>指代他的脸（<span class='hl-good'>Brian's face</span>）。</li><li><li><strong>(b) it (行 27)：</strong>指代他发胀的肚子（<span class='hl-good'>Brian's swollen stomach</span>）。</li><li><li><strong>(c) it (行 31)：</strong>指代那棵没有树枝的高大树干（<span class='hl-good'>the tall tree without branches</span>）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "Brian's face",
+            "73b": "Brian's swollen stomach",
+            "73c": "the tall tree without branches"
+          }
+        },
+        "74": {
+          "concept": "Sequencing / Chronological Order",
+          "note": "<ol><li><strong>题型：</strong>故事宏观主线事件排序题（1分）。</li><li><strong>得分点：</strong>顺序为 2, 1, 3。</li></ol>",
+          "type": "comprehension",
+          "answer": [
+            "2",
+            "1",
+            "3"
+          ]
+        },
+        "75": {
+          "concept": "Concluding Mindset and Moral Inference",
+          "note": "<ol><li><strong>题型：</strong>末段心态判定与因果探究多维复合题——考查结合结尾处角色的处境选择最匹配的心理状态，并从原文中定位因果支持性证据的能力（2分）。</li><li><strong>(a) 小题得分点：</strong>由于他想到了很多为了生存必须着手完成的事务，对应的最佳态度表征是勾选 <span class='hl-good'>determined</span>（坚定的、有决心的）。</li><li><strong>(b) 小题得分点：</strong>直接写出或者高度概括末句，即虽然坐在树荫下感到相对舒适，但他非常清楚自己还有很多为了活下去和生存所不得不去做的事情（<span class='hl-good'>Although Brian sat in the shade of the tree in relative comfort, he knew there were things he had to do to survive and live.</span>）。</li><li><strong>失分点：</strong>(a)中勾选了超过一个方框则该小题不给分；(b)中提供的证据未扣住其内心的紧迫任务使命感。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "determined",
+            "75b": "Although Brian sat in the shade of the tree in relative comfort, he knew there were things he had to do to survive and live."
+          }
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Brian's eyes snapped open. He was unbelievably, viciously thirsty. His mouth was",
+          "2": "dry and tasted foul and sticky. His lips were cracked and seemed as if they were",
+          "3": "bleeding. His skin was all withered up. He knew the thirst and felt the burn on his face.",
+          "4": "It was mid-afternoon. The sun had come over him and cooked him while he slept. His",
+          "5": "face felt like it was on fire. It was going to blister and peel.",
+          "6": "He stood, using the tree to pull himself up because there was still some pain and",
+          "7": "much stiffness and looked down towards the lake. It was water but he did not know if he",
+          "8": "could drink it. He felt the idea of drinking water from a lake was awful, but the lake was",
+          "9": "blue, looked clean and his mouth and throat raged with thirst. Would there be another",
+          "10": "water source he could drink from? Moreover, he had swallowed a lot of the water while",
+          "11": "he was swimming out of the plane and getting to shore.",
+          "12": "Brian felt helpless in a situation consisting of a plane wreck, a badly bruised",
+          "13": "forehead, an aching body and a thirst that tore at him until he could not think. He took",
+          "14": "small steps down the bank to the lake. Along the edge, there were thick prickly grasses",
+          "15": "in the way and the water looked a little murky. He scowled in disgust at the small bugs",
+          "16": "swimming in the water and was glad to see a log extending about ten metres out into the",
+          "17": "lake, with sturdy branches sticking up, almost like strong handles.",
+          "18": "He balanced on the log, holding himself up with the limbs, and teetered out past",
+          "19": "the weeds and muddy water. When he was out where the water was clear and he could",
+          "20": "see no bugs swimming, he kneeled on the log to drink. He thought he would just try a",
+          "21": "sip, still pondering over the lake water. However, when he brought a cupped hand to his",
+          "22": "mouth and felt the cold lake water trickle past his cracked lips and over his tongue, he",
+          "23": "could not stop.",
+          "24": "He had never, not even on long bicycle trips in the summer, been this thirsty. He",
+          "25": "stooped and put his mouth to the lake and drank and drank, pulling it deep and",
+          "26": "swallowing great gulps of it. He drank until his stomach was swollen, until he nearly fell",
+          "27": "off the log with it, then he got up and staggered his way back to the bank where he was",
+          "28": "immediately sick and threw up most of the water.",
+          "29": "However, his thirst was gone by then and the water seemed to reduce the pain in",
+          "30": "his head as well, although the sunburn still felt hot on his face. He pulled himself once",
+          "31": "more up the bank to the tall tree without branches and sat again with his back against it.",
+          "32": "It was hot now. The sun was high and he sat in the shade of the tree in relative comfort,",
+          "33": "but there were things he knew he had to do."
+        },
+        "paragraphs": {
+          "1": "布莱恩猛地睁开眼睛。他感到一种难以置信、近乎疯狂的口渴。他的嘴里又干又臭，还黏糊糊的。他的嘴唇裂开了，看起来好像在流血。他的皮肤全都干瘪了。他真切地感受到了那种口渴，并且脸上火辣辣地疼。此时是午后。太阳已经移到了他的头顶，在他睡觉的时候把他晒得像被烤过一样。他的脸感觉像在着火，马上就要起水泡蜕皮了。",
+          "6": "他站了起来，用手拉着树把自己撑起来，因为身上依然有些疼痛并且十分僵硬，接着他朝下方的湖面看去。那是水，但他不知道自己能不能喝。他觉得喝湖里的水这个想法很糟糕，但湖水是蓝色的，看起来很干净，而他的嘴和喉咙正因极度口渴而火烧火燎。还会不会有别的可以饮用的水源？况且，当他从飞机里游出来并游到岸边时，他已经吞下了不少这种湖水。",
+          "12": "布莱恩在一场由飞机坠毁、额头严重淤青、身体酸痛以及折磨得他无法思考的口渴所构成的境遇中感到无能为力。他迈着小步顺着斜坡走向湖边。沿着湖岸边缘长满了茂密的刺草阻挡着去路，而且湖水看起来有些浑浊。他厌恶地皱起眉头，看着在水里游泳的小虫子，同时很高兴看到有一根木头从岸边向湖中延伸了大约十米，上面有坚固的树枝立着，就像强有力的把手一样。",
+          "18": "他在木头上面保持着平衡，用四肢支撑着自己，摇摇晃晃地越过杂草和泥泞的水域。当他来到湖水清澈、看不到小虫子游动的地方时，他跪在木头上准备喝水。他心想自己也许应该先尝一小口，脑子里还在对这湖水进行纠结。然而，当他用弯曲的手掌捧起水送向嘴边，感受到冰凉的湖水顺着他干裂的嘴唇流过舌尖时，他便再也无法停下来了。",
+          "24": "他以前从未这么渴过，哪怕是在夏天骑着自行车长途旅行时也是如此。他弯下腰，将嘴贴近湖面，不停地大口狂饮，深深地吸入并大口大口地吞咽着。他喝到肚子都胀了起来，甚至因为喝了太多水差一点从木头上滑落下去，接着他站起身，摇摇晃晃地走回岸边，随后立刻感到一阵恶心，把喝下去的大部分水都呕吐了出来。",
+          "29": "不过，到了那个时候，他的口渴感已经彻底消失了，湖水似乎还减轻了他头部的疼痛，尽管晒伤的脸在脸上依然感觉很热。他再次顺着岸边爬到那棵没有树枝的高大树下，重新坐下来，背靠着树干。现在天气很热。太阳升得很高，他坐在树荫下感受到了相对的舒适，但他知道，还有很多必须要做的事情在等着他。"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

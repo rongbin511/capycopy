@@ -1,0 +1,710 @@
+{
+  "paperid": "p4_english_2024_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "7": {
+          "stem_plain": "The scientist experimented __________ several chemicals to see how they reacted.",
+          "options": {
+            "1": "by",
+            "2": "to",
+            "3": "for",
+            "4": "with"
+          }
+        },
+        "8": {
+          "stem_plain": "During lesson earlier, John and his friend __________ excitedly preparing for their learning journey to Geylang Serai.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "9": {
+          "stem_plain": "\"I __________ football with my friends later!\" exclaimed Tom, as he laced up his boots in excitement.",
+          "options": {
+            "1": "play",
+            "2": "plays",
+            "3": "am playing",
+            "4": "have played"
+          }
+        },
+        "10": {
+          "stem_plain": "\"There's a bakery selling delicious pastries __________ doors down the street,\" said Mei Ling.",
+          "options": {
+            "1": "little",
+            "2": "much",
+            "3": "a few",
+            "4": "a lot of"
+          }
+        },
+        "11": {
+          "stem_plain": "Three days ago, they __________ the museum and saw many dinosaur skeletons.",
+          "options": {
+            "1": "visit",
+            "2": "visited",
+            "3": "have visited",
+            "4": "were visiting"
+          }
+        },
+        "12": {
+          "stem_plain": "While the adults __________ the picnic, the children played tag in the park.",
+          "options": {
+            "1": "enjoy",
+            "2": "will enjoy",
+            "3": "have enjoyed",
+            "4": "were enjoying"
+          }
+        },
+        "13": {
+          "stem_plain": "__________ puppies playing here have endless energy. They never seem to tire out.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "14": {
+          "stem_plain": "We can either go to the movies __________ take a walk in the park for our weekend outing.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "and",
+            "4": "then"
+          }
+        },
+        "15": {
+          "stem_plain": "The garden __________ beautiful as the flowers bloomed in the sunshine and filled the air with their sweet fragrance.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "16": {
+          "stem_plain": "There was __________ laughter in the canteen as students shared jokes during recess.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        }
+      },
+      "answers": {
+        "7": {
+          "zh": "科学家用几种化学物质进行了实验，以观察它们的反应。",
+          "note": "“experiment with” 是固定动词短语搭配，意为“用……做实验”。",
+          "concept": "动词短语固定搭配 — Dependent Prepositions — experiment with",
+          "answer": "4"
+        },
+        "8": {
+          "zh": "在先前的课上，约翰和他的朋友正在兴奋地为去芽笼士乃的学习之旅做准备。",
+          "note": "“earlier”（先前）提示过去时间，主语 “John and his friend” 为复数（两个人），且后接现在分词 preparing，因此选用复数过去进行时助动词 were。",
+          "concept": "主谓一致与过去进行时 — Subject-Verb Agreement & Past Continuous Tense",
+          "answer": "4"
+        },
+        "9": {
+          "zh": "“我待会儿要和朋友们一起踢足球！”汤姆兴奋地系着鞋带大声说道。",
+          "note": "“later”（待会儿）提示未来时间，现在进行时（am playing）常用来表示根据计划或安排即将发生的动作。",
+          "concept": "现在进行时表将来 — Present Continuous Tense for Future Plans",
+          "answer": "3"
+        },
+        "10": {
+          "zh": "“沿这条街走过几家店，就有一家卖美味糕点的面包店，”美玲说。",
+          "note": "“doors” 在这里指“几户人家/几家店面”，是可数名词复数，固定短语 “a few doors down” 意为“再过几家店/几栋楼”。",
+          "concept": "可数名词修饰语与固定表达 — Quantifiers — a few",
+          "answer": "3"
+        },
+        "11": {
+          "zh": "三天前，他们参观了博物馆，看到了很多恐龙骨架。",
+          "note": "“Three days ago”（三天前）明确提示过去时间，谓语动词应选用一般过去式 visited。",
+          "concept": "一般过去时 — Simple Past Tense",
+          "answer": "2"
+        },
+        "12": {
+          "zh": "当大人们正在享受野餐时，孩子们在公园里玩起了捉人游戏。",
+          "note": "“While” 引导的时间状语从句表示过去一个正在持续进行的动作，主语 “the adults” 是复数，因此使用过去进行时复数形式 were enjoying。",
+          "concept": "过去进行时 — Past Continuous Tense",
+          "answer": "4"
+        },
+        "13": {
+          "zh": "在这里玩耍的这些小狗精力充沛。它们似乎不知疲倦。",
+          "note": "“puppies” 为复数名词，且由空间修饰词 “here”（这里）提示距离很近，因此选用表示近称复数的指示代词 These。",
+          "concept": "指示代词 — Demonstrative Pronouns — These",
+          "answer": "3"
+        },
+        "14": {
+          "zh": "周末郊游，我们既可以去看电影，也可以去公园散步。",
+          "note": "“either ... or ...” 是并列关联连词的固定搭配，意为“要么……要么…… / 既可以……也可以……”。",
+          "concept": "并列连词固定搭配 — Correlative Conjunctions — either...or",
+          "answer": "1"
+        },
+        "15": {
+          "zh": "随着花朵在阳光下绽放，芬芳弥漫在空气中，花园显得美丽动人。",
+          "note": "从句动词 “bloomed” 和 “filled” 提示整个语境属于过去时态，主语 “The garden” 是单数，因此选用单数过去式系动词 was。",
+          "concept": "时态一致与系动词过去时 — Simple Past Tense of 'be'",
+          "answer": "3"
+        },
+        "16": {
+          "zh": "当学生们在课间休息分享笑话时，食堂里充满了欢声笑语。",
+          "note": "“laughter”（笑声）是不可数名词，根据后半句分享笑话（shared jokes）的语境，食堂里充满了“很多”笑声，故用 much 修饰。few 和 many 只能修饰可数名词，little 表示几乎没有，不合逻辑。",
+          "concept": "不可数名词修饰语 — Quantifiers with Uncountable Nouns — much",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "1": {
+          "stem_plain": "The fierce dog chased Lily so she __________ over the wall for safety.",
+          "options": {
+            "1": "hopped",
+            "2": "stepped",
+            "3": "bounced",
+            "4": "scrambled"
+          }
+        },
+        "2": {
+          "stem_plain": "Thomas was like a __________ when he realised that he had lost his wallet.",
+          "options": {
+            "1": "bee in a bonnet",
+            "2": "fish out of water",
+            "3": "cat on hot bricks",
+            "4": "dog with two tails"
+          }
+        },
+        "3": {
+          "stem_plain": "The sailors braved the __________ storm as they sailed across the ocean.",
+          "options": {
+            "1": "raging",
+            "2": "blowing",
+            "3": "pouring",
+            "4": "showering"
+          }
+        },
+        "4": {
+          "stem_plain": "Completing the puzzle was a __________ but Sam persevered and solved it!",
+          "options": {
+            "1": "basic",
+            "2": "breeze",
+            "3": "victory",
+            "4": "challenge"
+          }
+        },
+        "5": {
+          "stem_plain": "In the final lap of the race, Faris was __________ to be in the lead and pushed hard to reach the finish line.",
+          "options": {
+            "1": "thrilled",
+            "2": "satisfied",
+            "3": "reluctant",
+            "4": "frustrated"
+          }
+        },
+        "6": {
+          "stem_plain": "As he was only paying __________ attention in class, he missed some important instructions.",
+          "options": {
+            "1": "partial",
+            "2": "limited",
+            "3": "imperfect",
+            "4": "incomplete"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "zh": "凶猛的狗在后面追赶莉莉，所以她慌忙翻过墙去以保安全。",
+          "note": "“scrambled” 意为“（艰难地）爬行、攀爬”，常用于形容在紧急或受惊吓的情况下，慌乱或费劲地翻越障碍物（如墙壁）。",
+          "concept": "动词词义辨析 — Vocabulary (Verbs) — scrambled",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hopped",
+              "zh": "单脚跳，跳跃",
+              "eg": "The frog **hopped** across the garden path and disappeared into the pond."
+            },
+            {
+              "opt": "2",
+              "word": "stepped",
+              "zh": "迈步，踏",
+              "eg": "She **stepped** carefully onto the slippery rocks to avoid falling."
+            },
+            {
+              "opt": "3",
+              "word": "bounced",
+              "zh": "弹起，蹦蹦跳跳",
+              "eg": "The children **bounced** excitedly on the trampoline all afternoon."
+            },
+            {
+              "opt": "4",
+              "word": "scrambled",
+              "zh": "攀爬，慌乱地移动",
+              "eg": "The hikers **scrambled** up the steep rocky slope to reach the summit before sunset."
+            }
+          ]
+        },
+        "2": {
+          "zh": "当托马斯意识到自己丢了钱包时，他急得像热锅上的蚂蚁（如坐针毡）。",
+          "note": "“like a cat on hot bricks” 是一句习语，形容人因焦虑、紧张或担忧而“如坐针毡、急躁不安”，完美符合发现钱包丢失时的心情。",
+          "concept": "习语与固定搭配 — Idioms — like a cat on hot bricks",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "bee in a bonnet",
+              "zh": "狂热的想法，唠叨不休的事情",
+              "eg": "Ever since he read about space travel, he has had a **bee in his bonnet** about buying a telescope."
+            },
+            {
+              "opt": "2",
+              "word": "fish out of water",
+              "zh": "不适应新环境，如鱼离开水",
+              "eg": "As a quiet person attending the grand gala, Michael felt like a **fish out of water**."
+            },
+            {
+              "opt": "3",
+              "word": "cat on hot bricks",
+              "zh": "急躁不安，如坐针毡",
+              "eg": "Waiting for the exam results made Sarah pace up and down the room like a **cat on hot bricks**."
+            },
+            {
+              "opt": "4",
+              "word": "dog with two tails",
+              "zh": "极其高兴，欢天喜地",
+              "eg": "When John received the acceptance letter from the university, he was like a **dog with two tails**."
+            }
+          ]
+        },
+        "3": {
+          "zh": "海员们横渡大洋时，冒着狂暴的暴风雨前进。",
+          "note": "“raging” 常用来修饰狂风暴雨（storm），意为“狂暴的、汹涌的、剧烈的”。",
+          "concept": "形容词修饰语与搭配 — Vocabulary (Adjectives) — raging",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "raging",
+              "zh": "狂暴的，汹涌的",
+              "eg": "The bonfire became a **raging** fire within minutes due to the strong winds."
+            },
+            {
+              "opt": "2",
+              "word": "blowing",
+              "zh": "吹拂的，刮风的",
+              "eg": "The **blowing** wind scattered the loose autumn leaves across the lawn."
+            },
+            {
+              "opt": "3",
+              "word": "pouring",
+              "zh": "倾泻的，倾盆大雨的",
+              "eg": "We got completely soaked because we forgot our umbrellas in the **pouring** rain."
+            },
+            {
+              "opt": "4",
+              "word": "showering",
+              "zh": "阵雨的，洒落的",
+              "eg": "The weather forecast predicts a cloudy morning with **showering** rain in some areas."
+            }
+          ]
+        },
+        "4": {
+          "zh": "完成这个谜题是一个挑战，但山姆坚持不懈并解开了它！",
+          "note": "后半句的 “but Sam persevered”（但是山姆坚持不懈）表明前面是一件困难的事情，构成转折，因此选用名词 “challenge”（挑战）。",
+          "concept": "名词词义辨析与语境理解 — Vocabulary (Nouns) — challenge",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "basic",
+              "zh": "基础，基本原理（通常不直接单独接名词前作主补）",
+              "eg": "Learning the **basics** of coding is essential for computer science students."
+            },
+            {
+              "opt": "2",
+              "word": "breeze",
+              "zh": "微风，轻而易举的事",
+              "eg": "Since she had studied hard, passing the driving test was a complete **breeze**."
+            },
+            {
+              "opt": "3",
+              "word": "victory",
+              "zh": "胜利，成功",
+              "eg": "The team celebrated their spectacular **victory** at the national championship."
+            },
+            {
+              "opt": "4",
+              "word": "challenge",
+              "zh": "挑战，难题",
+              "eg": "Climbing Mount Everest is a massive **challenge** even for experienced mountaineers."
+            }
+          ]
+        },
+        "5": {
+          "zh": "在比赛的最后一圈，法里斯因处于领先位置而兴奋不已，并全力向终点线冲刺。",
+          "note": "“thrilled” 意为“非常兴奋/激动”，符合在比赛最后一圈处于领先地位（in the lead）并获得极高动力全力冲刺的心境。",
+          "concept": "形容词词义辨析 — Vocabulary (Adjectives) — thrilled",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "thrilled",
+              "zh": "非常兴奋的，欣喜若狂的",
+              "eg": "She was **thrilled** to receive a positive response from her dream company."
+            },
+            {
+              "opt": "2",
+              "word": "satisfied",
+              "zh": "满意的，知足的",
+              "eg": "The manager was **satisfied** with the overall performance of the new team."
+            },
+            {
+              "opt": "3",
+              "word": "reluctant",
+              "zh": "不情愿的，勉强的",
+              "eg": "The child was **reluctant** to go to bed early on a weekend night."
+            },
+            {
+              "opt": "4",
+              "word": "frustrated",
+              "zh": "沮丧的，灰心的",
+              "eg": "He felt extremely **frustrated** when the computer crashed before he saved his work."
+            }
+          ]
+        },
+        "6": {
+          "zh": "因为他在上课时注意力不够集中（心不在焉），所以错过了一些重要的指示。",
+          "note": "“partial attention” 是常用固定搭配，意为“部分注意力 / 心不在焉”，常用于表示没有全神贯注导致遗漏信息。",
+          "concept": "词汇固定搭配 — Collocations — partial attention",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "partial",
+              "zh": "部分的，不完全的",
+              "eg": "The historical building underwent a **partial** restoration to ensure its safety."
+            },
+            {
+              "opt": "2",
+              "word": "limited",
+              "zh": "有限的",
+              "eg": "There is only a **limited** number of seats available for the concert tonight."
+            },
+            {
+              "opt": "3",
+              "word": "imperfect",
+              "zh": "有缺陷的，不完美的",
+              "eg": "Although his English grammar was **imperfect**, he managed to communicate his ideas clearly."
+            },
+            {
+              "opt": "4",
+              "word": "incomplete",
+              "zh": "不完整的，未完成的",
+              "eg": "The project remained **incomplete** because the funding ran out unexpectedly."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "语法题",
+          "note": "指代“马里克和他的朋友（Malik and his friend）”。由于在句中作主语，且是复数概念，故使用人称代词主格“they”（他们）。",
+          "answer": "F"
+        },
+        "18": {
+          "concept": "语法题",
+          "note": "指代“他们（Malik和他的朋友）的科学项目”。修饰名词短语science project，故使用复数形容词性物主代词“their”（他们的）。",
+          "answer": "E"
+        },
+        "19": {
+          "concept": "语法题",
+          "note": "指代“马里克（Malik）的朋友”。Malik是男性，修饰名词friend，故使用男性形容词性物主代词“his”（他的）。",
+          "answer": "B"
+        },
+        "20": {
+          "concept": "语法题",
+          "note": "指代“书架（shelf）的搁板”。修饰名词shelf，由于书架是无生命物体，故使用单数物主代词“its”（它的）。",
+          "answer": "D"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "him",
+          "B": "his",
+          "C": "it",
+          "D": "its",
+          "E": "their",
+          "F": "they"
+        },
+        "cloze": [
+          "Malik and his friend went to the library after school. [Q17] found a book. The book was about magnets, and it was suitable for [Q18] science project. Malik read aloud and [Q19] friend took notes. The teacher was pleased with their effort.",
+          "Afterward, they returned the book to [Q20] shelf. The boys were proud of their work."
+        ],
+        "zh": [
+          "放学后，马里克和他的朋友去了图书馆。他们找到了一本书。这本书是关于磁铁的，非常适合他们的科学项目。马里克大声读出来，他的朋友做笔记。老师对他们的努力感到很满意。",
+          "之后，他们把书放回了它的书架上。男孩子们为自己的工作感到自豪。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "29": {
+          "stem_plain": "Last night's flight was delayed. The weather was bad.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Due to ..."
+        },
+        "30": {
+          "stem_plain": "Everyone was present for the camp. Arjun was absent.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... except ..."
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "Prepositions — Reason or Cause ('Due to + Noun Phrase')",
+          "zh": "由于恶劣的天气，昨晚的航班延误了。",
+          "note": "‘Due to’ 后面必须接名词或名词短语。因此需要将原因从句 ‘The weather was bad’ 改写为名词短语 ‘the bad weather’，随后连接主句部分。",
+          "answer": "Due to the bad weather, last night's flight was delayed."
+        },
+        "30": {
+          "concept": "Prepositions — Exclusion ('except')",
+          "zh": "除了阿伦以外，所有人都参加了这次训练营。",
+          "note": "介词 ‘except’ 表示‘除……之外（不包括）’。由于前半句已经表达了‘所有人都在场’，只需直接加上 ‘except Arjun’ 即可完美合并两句话，省去后面重复的 ‘was absent’ 含义。",
+          "answer": "Everyone was present for the camp except Arjun."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1133 @@
+{
+  "paperid": "p6_english_2019_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Ahmad enjoys ________ with his grandmother every weekend.",
+          "options": {
+            "1": "interact",
+            "2": "interacted",
+            "3": "interacting",
+            "4": "having interacted"
+          }
+        },
+        "2": {
+          "stem_plain": "He is a man ________ opinion I respect.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "3": {
+          "stem_plain": "Last night, an ear-piercing scream ________ by the residents of Ghim Moh.",
+          "options": {
+            "1": "was heard",
+            "2": "was hearing",
+            "3": "had been heard",
+            "4": "was being heard"
+          }
+        },
+        "4": {
+          "stem_plain": "\"There is ________ truth in what he said,\" Mr Lee nodded in agreement.",
+          "options": {
+            "1": "few",
+            "2": "any",
+            "3": "some",
+            "4": "many"
+          }
+        },
+        "5": {
+          "stem_plain": "You can go to the playground ________ you finish your homework first.",
+          "options": {
+            "1": "unless",
+            "2": "despite",
+            "3": "provided",
+            "4": "even though"
+          }
+        },
+        "6": {
+          "stem_plain": "The doctor reminded her patient that their next session is scheduled ________ Monday.",
+          "options": {
+            "1": "to",
+            "2": "by",
+            "3": "on",
+            "4": "past"
+          }
+        },
+        "7": {
+          "stem_plain": "The increase in the number of obesity cases among children ________ a cause for concern last year.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "\"Do look for me ________ you need any help,\" Ms Tan told her students.",
+          "options": {
+            "1": "will",
+            "2": "shall",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "9": {
+          "stem_plain": "If Richard ________ to his mother, he would not have lost his wallet.",
+          "options": {
+            "1": "listens",
+            "2": "listened",
+            "3": "was listening",
+            "4": "had listened"
+          }
+        },
+        "10": {
+          "stem_plain": "\"She'd won the race, ________ she?\" asked Meena.",
+          "options": {
+            "1": "has",
+            "2": "had",
+            "3": "hasn't",
+            "4": "hadn't"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "‘enjoy’是固定后接动名词作宾语的动词（enjoy doing something）。这里表示艾哈迈德每周末都喜欢和他的祖母互动。",
+          "concept": "非谓语动词 — Gerund",
+          "answer": "3",
+          "zh": "艾哈迈德每个周末都喜欢和他的祖母互动。"
+        },
+        "2": {
+          "note": "空格后是名词‘opinion’（意见），空格处的关系代词在定语从句中充当定语，表示“他的意见”，因此需用所有格关系代词‘whose’。",
+          "concept": "关系代词 — Relative Pronoun",
+          "answer": "4",
+          "zh": "他是一个我尊重其意见的人。"
+        },
+        "3": {
+          "note": "句子的主语是‘scream’（尖叫声），与动词 hear 是被动关系。结合时间状语‘Last night’（昨晚）可知，应当使用一般过去时的被动语态形式‘was heard’。",
+          "concept": "被动语态 — Passive Voice",
+          "answer": "1",
+          "zh": "昨晚，锦茂居民听到了一声刺耳的尖叫声。"
+        },
+        "4": {
+          "note": "‘truth’（真相、事实）是不可数名词，排除 few 和 many。本句是一般肯定句，且后文提到‘点头表示赞同’，说明话里有“一些”道理，故选用‘some’。",
+          "concept": "不定量词 — Quantifiers",
+          "answer": "3",
+          "zh": "“他说的话有些道理，”李先生点头表示赞同。"
+        },
+        "5": {
+          "note": "‘provided’在此处作连词，相当于‘if’或‘on condition that’，意为‘只要、在……条件下’。句意指只要你先做完功课，你就可以去游乐场。",
+          "concept": "条件连词 — Conjunction",
+          "answer": "3",
+          "zh": "只要你先做完功课，你就可以去游乐场。"
+        },
+        "6": {
+          "note": "在英语中，表示在具体的某一天或星期几（如 Monday）前面，固定使用介词‘on’。",
+          "concept": "时间介词 — Prepositions",
+          "answer": "3",
+          "zh": "医生提醒她的病人，他们的下一次就诊安排在星期一。"
+        },
+        "7": {
+          "note": "句子的核心主语是单数名词‘increase’（增加），后面的‘in the number...’是介词短语作后置定语。根据句末的‘last year’（去年）可知用过去时，故谓语动词选‘was’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "3",
+          "zh": "去年，儿童肥胖病例人数的增加引发了人们的担忧。"
+        },
+        "8": {
+          "note": "‘should’用于条件状语从句中表示万一、可能性较低的假设。这里相当于省略了 if 的倒装句：if you should need... 变成 should you need...，意为“万一你需要任何帮助”。",
+          "concept": "虚拟语气 — Subjunctive Mood",
+          "answer": "4",
+          "zh": "“万一你们需要任何帮助，一定要来找我，”陈老师对她的学生们说。"
+        },
+        "9": {
+          "note": "主句‘he would not have lost...’使用了 would not have done，表明这是对过去发生事实的虚拟假设。因此，if 引导的虚拟条件句中，从句需用过去完成时形式‘had listened’。",
+          "concept": "虚拟语气 — Subjunctive Mood",
+          "answer": "4",
+          "zh": "如果理查德听了他母亲的话，他就不会丢钱包了。"
+        },
+        "10": {
+          "note": "句中的‘She'd won’是‘She had won’的缩写（根据过去分词 won 判断）。陈述部分是肯定的过去完成时，因此反意疑问部分要用否定的助动词形式，即‘hadn't’。",
+          "concept": "反意疑问句 — Question Tag",
+          "answer": "4",
+          "zh": "“她赢了比赛，不是吗？”米娜问。"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The cashier was suspicious of the ________ of the hundred-dollar note which the stranger was trying to use to pay for his groceries.",
+          "options": {
+            "1": "reality",
+            "2": "validity",
+            "3": "authenticity",
+            "4": "compatibility"
+          }
+        },
+        "12": {
+          "stem_plain": "The teacher instructed her students to ________ their answers with those in the answer key after they had finished their practice papers at home.",
+          "options": {
+            "1": "compute",
+            "2": "compare",
+            "3": "compose",
+            "4": "compress"
+          }
+        },
+        "13": {
+          "stem_plain": "The choir sang in perfect ________ during the performance and earned a standing ovation from the appreciative audience.",
+          "options": {
+            "1": "harmony",
+            "2": "narration",
+            "3": "consensus",
+            "4": "steadiness"
+          }
+        },
+        "14": {
+          "stem_plain": "The director of the company was inconsolable when his multi-million dollar development plan ________ due to a lack of funding.",
+          "options": {
+            "1": "fell in",
+            "2": "fell off",
+            "3": "fell out",
+            "4": "fell through"
+          }
+        },
+        "15": {
+          "stem_plain": "Mr Don's vision is very poor but the optician has informed him that it can be ________ if he wears glasses with prescription lenses.",
+          "options": {
+            "1": "restricted",
+            "2": "improved",
+            "3": "cushioned",
+            "4": "maintained"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "收银员对那个陌生人试图用来支付杂货费用的百元美钞的真实性产生了怀疑。",
+          "note": "‘authenticity’意为‘真实性、真伪’。收银员怀疑百元大钞的真伪（是不是假钞），最符合日常生活情境。",
+          "concept": "Vocabulary-Noun",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reality",
+              "zh": "现实，真实（名词，指客观存在的事实，而非想象或虚幻的事物）",
+              "eg": "He needs to face **reality** and realize that he cannot succeed without working hard."
+            },
+            {
+              "opt": "2",
+              "word": "validity",
+              "zh": "有效性，合法性（名词，指符合法律、规定，或在规定期限内有效）",
+              "eg": "The security guard checked the **validity** of the passport before allowing him to enter."
+            },
+            {
+              "opt": "3",
+              "word": "authenticity",
+              "zh": "真实性，真伪（名词，指某物是真正的、非伪造的或源自正宗的）",
+              "eg": "The museum experts verified the **authenticity** of the ancient painting."
+            },
+            {
+              "opt": "4",
+              "word": "compatibility",
+              "zh": "兼容性，相容性（名词，指两个系统、设备或人之间能够和谐共存、协同工作）",
+              "eg": "Please check the **compatibility** of this software with your computer operating system."
+            }
+          ]
+        },
+        "12": {
+          "zh": "老师指示学生们在家里做完练习题后，把他们的答案与答案背后的标准答案进行比较。",
+          "note": "‘compare’意为‘比较、核对’。把自己的答案和给出的‘answer key’（答案库/标准答案）进行核对对照，符合题目意思。",
+          "concept": "Vocabulary-Verb",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "compute",
+              "zh": "计算，估算（动词，指通过数学方法或使用计算机来算出数量或结果）",
+              "eg": "The accountant will **compute** the total tax liabilities for the company this month."
+            },
+            {
+              "opt": "2",
+              "word": "compare",
+              "zh": "比较，核对（动词，指将两个或多个事物放在一起寻找其相同点或不同点）",
+              "eg": "You should **compare** the prices of the two phones before making a decision."
+            },
+            {
+              "opt": "3",
+              "word": "compose",
+              "zh": "组成，创作（动词，指创作乐曲、诗歌，或由某些部分构成整体）",
+              "eg": "The young musician spent weeks trying to **compose** a beautiful melody for the film."
+            },
+            {
+              "opt": "4",
+              "word": "compress",
+              "zh": "压缩，压紧（动词，指通过施加压力使物体的体积变小或空间变紧凑）",
+              "eg": "You can **compress** these files into a zip file to save space on your hard drive."
+            }
+          ]
+        },
+        "13": {
+          "zh": "合唱团在演出中表现出了完美的和谐，赢得了赞赏的观众们全体起立鼓掌。",
+          "note": "‘in perfect harmony’是一个固定搭配，意为‘完美地和谐一致、非常融洽’。在这里指合唱团演唱时声部声音完美和谐。",
+          "concept": "Vocabulary-Noun",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "harmony",
+              "zh": "和谐，和声（名词，指声音的协调好听，或人与人、物与物之间和谐融洽的状态）",
+              "eg": "The individual instruments combined beautifully to produce a stunning piece in **harmony**."
+            },
+            {
+              "opt": "2",
+              "word": "narration",
+              "zh": "叙述，旁白（名词，指对故事、事件进行讲述的行为或电视电影中的解说词）",
+              "eg": "The documentary's **narration** was clear and provided excellent background information."
+            },
+            {
+              "opt": "3",
+              "word": "consensus",
+              "zh": "共识，一致意见（名词，指群体中所有或绝大多数成员达成的一致看法）",
+              "eg": "After hours of discussion, the committee finally reached a **consensus** on the new policy."
+            },
+            {
+              "opt": "4",
+              "word": "steadiness",
+              "zh": "稳定，稳固（名词，指平稳、不摇晃、不轻易改变或波动的状态）",
+              "eg": "The surgeon's hands showed incredible **steadiness** during the delicate operation."
+            }
+          ]
+        },
+        "14": {
+          "zh": "当公司经理数百万美元的发展计划由于缺乏资金而落空时，他伤心欲绝。",
+          "note": "‘fell through’意为‘落空、失败’。句中由于‘lack of funding’（缺乏资金），项目计划无法顺利开展而最终泡汤、落空。",
+          "concept": "Vocabulary-Phrasal Verb",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fell in",
+              "zh": "塌陷，坍塌（动词短语，指屋顶、地面等因结构损坏而向内或向下陷落）",
+              "eg": "The roof of the abandoned barn **fell in** after years of weathering and neglect."
+            },
+            {
+              "opt": "2",
+              "word": "fell off",
+              "zh": "跌落，减少（动词短语，指从某个位置掉下来，或数量、质量出现下降）",
+              "eg": "The button **fell off** my jacket while I was rushing to catch the morning train."
+            },
+            {
+              "opt": "3",
+              "word": "fell out",
+              "zh": "掉落，争吵（动词短语，指从内部掉出，或与某人产生不和、发生争执）",
+              "eg": "The two childhood best friends **fell out** over a silly misunderstanding last year."
+            },
+            {
+              "opt": "4",
+              "word": "fell through",
+              "zh": "落空，失败（动词短语，通常指计划、安排或协议因故无法达成或未能实现）",
+              "eg": "Our weekend camping plans **fell through** because of the sudden heavy thunderstorm."
+            }
+          ]
+        },
+        "15": {
+          "zh": "唐先生的视力很差，但验光师告诉他，如果佩戴配有度数的镜片的眼镜，视力是可以被改善的。",
+          "note": "‘improved’意为‘改善、提高’。视力不好的人佩戴合适的眼镜后，视力可以得到明显的改善或提升，最符合上下文逻辑。",
+          "concept": "Vocabulary-Adjective",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "restricted",
+              "zh": "受限制的，有限的（形容词，指受到特定规则、法律或物理空间的约束和限制）",
+              "eg": "Access to the server room is strictly **restricted** to authorized personnel only."
+            },
+            {
+              "opt": "2",
+              "word": "improved",
+              "zh": "改善的，提高的（形容词/动词过去分词，指事物的状况、质量或水平变得比以前更好）",
+              "eg": "Her English speaking skills have vastly **improved** after joining the debate club."
+            },
+            {
+              "opt": "3",
+              "word": "cushioned",
+              "zh": "起缓冲作用的（形容词/动词过去分词，指通过柔软材料减轻冲击或减轻负面影响）",
+              "eg": "The playground floor is **cushioned** with rubber mats to protect children from falls."
+            },
+            {
+              "opt": "4",
+              "word": "maintained",
+              "zh": "维持的，保持的（形容词/动词过去分词，指使某种状态、水平或物品质量延续且不降低）",
+              "eg": "The garden is beautifully **maintained** by a team of professional landscapers."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "treacherous",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "deceptive",
+            "2": "dangerous",
+            "3": "misleading",
+            "4": "frightening"
+          }
+        },
+        "17": {
+          "stem_plain": "accustomed to",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fixed with",
+            "2": "familiar with",
+            "3": "addicted to",
+            "4": "amended to"
+          }
+        },
+        "18": {
+          "stem_plain": "route",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "trail",
+            "2": "alley",
+            "3": "access",
+            "4": "direction"
+          }
+        },
+        "19": {
+          "stem_plain": "cumulative",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "uneven",
+            "2": "immense",
+            "3": "increasing",
+            "4": "substantial"
+          }
+        },
+        "20": {
+          "stem_plain": "uphill",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "intricate",
+            "2": "complex",
+            "3": "awkward",
+            "4": "demanding"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “treacherous”在形容河流、路况时表示危险的、变化莫测的，与“dangerous（危险的）”意思最接近。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "deceptive",
+              "zh": "欺骗性的，误导的",
+              "eg": "The calm surface of the lake can be highly deceptive."
+            },
+            {
+              "opt": "2",
+              "word": "dangerous",
+              "zh": "危险的",
+              "eg": "It is dangerous to cross the flooded river on foot."
+            },
+            {
+              "opt": "3",
+              "word": "misleading",
+              "zh": "误导的，引入歧途的",
+              "eg": "The dynamic signs gave misleading information about the traffic."
+            },
+            {
+              "opt": "4",
+              "word": "frightening",
+              "zh": "令人恐惧的，吓人的",
+              "eg": "Hearing wild animals howling at night was a frightening experience."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “accustomed to”意为习惯于……的，与短语“familiar with（对……熟练的、习惯的）”意思相同。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fixed with",
+              "zh": "用……固定，带有",
+              "eg": "The banner was securely fixed with strong ropes."
+            },
+            {
+              "opt": "2",
+              "word": "familiar with",
+              "zh": "熟悉，习惯于",
+              "eg": "She is thoroughly familiar with the layout of the city."
+            },
+            {
+              "opt": "3",
+              "word": "addicted to",
+              "zh": "沉迷于，对……上瘾",
+              "eg": "He became addicted to computer games during the holidays."
+            },
+            {
+              "opt": "4",
+              "word": "amended to",
+              "zh": "修订为，修改为",
+              "eg": "The rules were quickly amended to suit the new situation."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “round-island route”指环岛路线，这里指超级马拉松的跑步路线，与表示“乡间小道、山区路线、跑道”之“trail”最接近。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "trail",
+              "zh": "小径，路线，足迹",
+              "eg": "They followed a narrow trail through the thick jungle."
+            },
+            {
+              "opt": "2",
+              "word": "alley",
+              "zh": "小巷，胡同",
+              "eg": "The brick houses were separated by a dark, narrow alley."
+            },
+            {
+              "opt": "3",
+              "word": "access",
+              "zh": "通道，入口",
+              "eg": "The library card grants students access to the online archive."
+            },
+            {
+              "opt": "4",
+              "word": "direction",
+              "zh": "方向，指引",
+              "eg": "The travelers stopped to ask a local person for direction."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “cumulative elevation”指累计爬升高度，随着赛程推进不断累加、增加，对应“increasing（递增的、增加的）”。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "uneven",
+              "zh": "不平坦的，不平等的",
+              "eg": "The players complained about the uneven surface of the field."
+            },
+            {
+              "opt": "2",
+              "word": "immense",
+              "zh": "巨大的，无边无际的",
+              "eg": "The project layout required an immense amount of preparation time."
+            },
+            {
+              "opt": "3",
+              "word": "increasing",
+              "zh": "增加的，递增的",
+              "eg": "There is an increasing demand for green energy products."
+            },
+            {
+              "opt": "4",
+              "word": "substantial",
+              "zh": "大量的，实质性的",
+              "eg": "The company won a substantial amount of support from buyers."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “uphill task”是固定比喻用法，形容任务像爬坡一样极其艰巨、吃力，等同于“demanding（艰巨的、要求极高的、费力的）”。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intricate",
+              "zh": "错综复杂的，精细的",
+              "eg": "The watchmaker repaired the intricate gears of the clock."
+            },
+            {
+              "opt": "2",
+              "word": "complex",
+              "zh": "复杂的",
+              "eg": "The laboratory process involves many complex chemical interactions."
+            },
+            {
+              "opt": "3",
+              "word": "awkward",
+              "zh": "尴尬的，别扭的，棘手的",
+              "eg": "There was an awkward silence when nobody knew the answer."
+            },
+            {
+              "opt": "4",
+              "word": "demanding",
+              "zh": "费力的，艰巨的，要求高的",
+              "eg": "Completing the marathon is a highly demanding task for runners."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mr Oh has a passion for driving off-road in Malaysia. During these trips, he tackles muddy gullies and [Q16(treacherous)] river crossings regularly. “There is nothing like finally reaching our destination by the banks of a river deep in the jungle and setting up camp for the night,” says Mr Oh. Being [Q17(accustomed to)] cooking outdoors, everybody in the group will take turns to prepare delicious dinners from scratch. They will then dine and chat under the starry sky coupled with the background of insect calls.",
+          "Mr Oh also runs ultra-marathons. His badge of honour includes winning the Monster Ultra when he ran the 200km round-island [Q18(route)] in 38 hours. Earlier this year, he finished a 100km race in Hong Kong with a [Q19(cumulative)] elevation of 4,800m in the mountainous region of Lantau Island - an [Q20(uphill)] task for any athlete to accomplish. In preparation for this race, Mr Oh trained by running up the 164m-high Bukit Timah Hill. He added that he had to intensify his training with trail runs in Malaysia too."
+        ],
+        "zh": [
+          "吴先生对在马来西亚进行越野驾驶充满热情。在这些旅程中，他经常要应对泥泞的沟壑和危险重重的河流渡口。“没有什么比最终到达丛林深处的河岸目的地并在那里扎营过夜更美妙的了，”吴先生说。由于习惯了在户外做饭，团队里的每个人都会轮流从头准备美味的晚餐。然后，他们会在满天繁星的夜空下用餐和聊天，同时伴随着昆虫鸣叫的背景声。",
+          "吴先生也参加超级马拉松比赛。他的荣誉勋章包括赢得了“怪兽超级马拉松”（Monster Ultra）的冠军，当时他在38小时内跑完了200公里的环岛路线。今年早些时候，他在香港完成了一场100公里的比赛，在大屿山山区累计爬升高度达到4800米——这对于任何运动员来说都是一项极其艰巨、费力的任务。为了准备这场比赛，吴先生通过跑上164米高的武吉知马山来进行训练。他补充说，他还必须在马来西亚进行越野跑，以加强自己的训练。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘the average user’，特指‘平均每个用户’或‘普通用户’，故使用定冠词 the。",
+          "answer": "M"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘before moving to...’ 介词 before 后面接动名词短语，表示‘在转移到另一个网站之前’。",
+          "answer": "D"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "此处位于句中并用两个逗号隔开，作插入语，表示转折关系，故选 however（然而）。",
+          "answer": "J"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘during this short period of time’，介词 during 表示‘在这一短暂的时间段内’。",
+          "answer": "G"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘around the world’ 是固定短语，表示‘全世界/世界各地’。",
+          "answer": "C"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘is’ 构成一般现在时的被动语态（is celebrating -> 应为 is... 结合选项此处作为系动词或助动词，或者是 One such strategy is celebrating... 意为“其中一个策略是庆祝……”，is 在此作系动词引导动名词作表语）。",
+          "answer": "K"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘in the work’ 或者是与 notice details 连用的介词。根据上下文‘notice details in the work’，表示‘注意到作品中的细节’。",
+          "answer": "G"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘with just one quick glance’，介词 with 表示带有、凭借或伴随，‘如果只看一眼的话，他们就会错过这些细节’。检查35和36：35选 in（无 in 选项，检查选项中有 with, about, around, during, onto），重新审视 35：‘notice details in/of the work’。如果没有 in，看短语搭配：‘notice details in the work’。选项有：(A) a, (B) about, (C) around, (D) before, (E) but, (F) by, (G) during, (H) how, (J) however, (K) is, (L) onto, (M) the, (N) when, (P) where, (Q) with。 35 应该是 about（关于这件作品的细节）或 with。而36句首：‘[With] just one quick glance...’，36必选 With (Q)。那么35则选 (B) about 或是 (M) the (details of the work -> 已经有 details)。若35填 in 最好但没选项，此处 ‘details about the work’ 最符合，意为‘关于作品的细节’。修正35为 B，36为 Q。",
+          "answer": "Q"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "about",
+          "C": "around",
+          "D": "before",
+          "E": "but",
+          "F": "by",
+          "G": "during",
+          "H": "how",
+          "J": "however",
+          "K": "is",
+          "L": "onto",
+          "M": "the",
+          "N": "when",
+          "P": "where",
+          "Q": "with"
+        },
+        "cloze": [
+          "In today's world, people are spending less time in the museum as they get exposed to fast-paced online games, flashy websites and short videos. Research has shown that [Q29] average user on the Internet spends only fifteen seconds on a website [Q30] moving to another website.",
+          "Visitors are expected to slow down a little when they are in museums full of great artworks, [Q31], several studies have shown that the average time spent looking at an artwork in a museum is twenty seconds. [Q32] this short period of time, the visitors are also managing one other thing - taking photographs.",
+          "In recent years, museums [Q33] the world have developed strategies to influence visitors' viewing behaviour. One such strategy [Q34] celebrating \"Slow Art Day\". It encourages visitors to take their time to look at just one artwork. By doing so, they are able to notice details [Q35] the work which they would otherwise miss [Q36] just one quick glance. Slow Art supporters believe that with more time spent on..."
+        ],
+        "zh": [
+          "在当今世界，由于接触到快节奏的在线游戏、华丽的网站和短视频，人们在博物馆度过的时间越来越少。研究表明，互联网上的普通用户在一个网站上仅停留15秒，然后就会转移到另一个网站。",
+          "当游客置身于充满伟大艺术品的博物馆时，他们被期望能放慢一点脚步，然而，几项研究表明，在博物馆里观看一件艺术品的平均时间是20秒。在这短短的时间里，游客们还在忙着另外一件事——拍照。",
+          "近年来，世界各地的博物馆都制定了影响游客观看行为的策略。其中一个策略就是庆祝“慢艺术日”。它鼓励游客花时间只欣赏一件艺术品。通过这样做，他们能够注意到关于作品的细节，否则如果只匆匆看上一眼，他们就会错过这些细节。慢艺术的支持者认为，随着在……上花费更多的时间"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 unique（形容词，意为独特的）。",
+          "answer": "unique"
+        },
+        "40": {
+          "concept": "代词 - Pronouns",
+          "note": "代词指代错误：前面主语是单数 An animal，对应的物主代词应用单数 its，而非复数 their。",
+          "answer": "its"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 independently（副词，意为独立地）。",
+          "answer": "independently"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 environment（名词，意为环境）。",
+          "answer": "environment"
+        },
+        "43": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处描述客观规律和事实，主语为复数 plants，应用一般现在时的动词原形 evolve，而非现在分词 evolving。",
+          "answer": "evolve"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 temperature（名词，意为温度）。",
+          "answer": "temperature"
+        },
+        "45": {
+          "concept": "形容词比较级 - Comparatives",
+          "note": "比较级平行结构：与连词 or 前面的 deeper roots（更深的根）相对应，后面的叶子也应使用比较级形式 larger，构成平行呼应。",
+          "answer": "larger"
+        },
+        "46": {
+          "concept": "过去分词 - Past Participles",
+          "note": "非谓语动词/被动含义：修饰名词 cells 应用过去分词形式 mutated 作定语，意为“突变了的细胞”。",
+          "answer": "mutated"
+        },
+        "47": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：“多亏了、由于”的固定短语是 thanks to，而非 thanks for。",
+          "answer": "to"
+        },
+        "48": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 capacity（名词，意为能力、容量）。",
+          "answer": "capacity"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 fatal（形容词，意为致命的）。",
+          "answer": "fatal"
+        },
+        "50": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词错误：表示“从……中生长出来”，应使用介词 from，构成 grow from，而非 grow by。",
+          "answer": "from"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever wondered if plants can get cancer like animals? Animals unlike plants are complex organisms. Each cell in an animal has a [Q39(uneeque)] purpose. All parts in the animal must function in harmony for the animal to survive. An animal cannot live without [Q40(their)] heart, brain or lungs.",
+          "Plants develop in a much more flexible way. As they are unable to move [Q41(independantly)], they have to adapt to their [Q42(enviroment)]. As opposed to animals with a fixed set of cells and organs, plants [Q43(evolving)] as the conditions change. Signals from the leaves, stem and roots based on light, [Q44(tempreture)], water and nutrient conditions that the plant is exposed to determine if the plant grows deeper roots or [Q45(large)] leaves. Radiation and damage to DNA in cells can still result in tumours in plants. However, these [Q46(mutate)] cells are restricted to one part of the plant thanks [Q47(for)] their cell wall.",
+          "Since all plant cells have the [Q48(capasity)] to create any new cell, such tumours are generally not [Q49(fatel)]. The plant can adapt around the damaged cells to continue growing. This is why new plants can grow [Q50(by)] what was once a stem or leaf. In short, plants can"
+        ],
+        "zh": [
+          "你是否曾想过植物是否会像动物一样患上癌症？与植物不同，动物是复杂的有机体。动物体内的每个细胞都有其独特的目的。动物的所有部位必须和谐运转，动物才能生存。没有了它的心脏、大脑或肺，动物就无法生存。",
+          "植物以一种更加灵活的方式发育。由于它们无法独立移动，它们必须适应其环境。与拥有固定细胞和器官群的动物相反，植物会随着条件的变化而进化。来自叶、茎和根的信号，根据植物所暴露的光照、温度、水分和养分条件，决定了植物是长出更深的根还是更大的叶子。辐射和细胞中DNA的损伤仍会导致植物长出肿瘤。然而，多亏了它们的细胞壁，这些突变的细胞被限制在植物的一个部位。",
+          "由于所有植物细胞都具有创造任何新细胞的能力，因此此类肿瘤通常不是致命的。植物可以在受损细胞周围进行适应以继续生长。这就是为什么新植物可以从曾经是茎或叶的部位生长出来的缘故。简而言之，植物可以"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "冠词 / 限定词",
+          "answer": "an / one",
+          "note": "修饰以元音音素开头的单数可数名词短语‘exact geographic location’，意为‘一个确切的地理位置’。"
+        },
+        "52": {
+          "concept": "固定搭配 / 介词",
+          "answer": "to",
+          "note": "与前文动词连用构成固定结构‘be given to...’，意为‘被赋予/给予给（这个区域）’。"
+        },
+        "53": {
+          "concept": "时间介词",
+          "answer": "during / in / throughout",
+          "note": "用来引出一个持续的时间段或活动过程，意为在一次常规训练‘期间’神秘失踪。"
+        },
+        "54": {
+          "concept": "介词 (被动语态)",
+          "answer": "by",
+          "note": "在前有被动语态‘was led’的结构中，使用介词‘by’引出动作的发出者（由中尉查尔斯·泰勒带领）。"
+        },
+        "55": {
+          "concept": "动词 (过去分词/感官动词被动)",
+          "answer": "heard",
+          "note": "位于被动结构‘could be + 过去分词’中，结合前文通过无线电保持联系，可知此处表示直到再也‘听不到’他的声音。"
+        },
+        "56": {
+          "concept": "关系代词引导定语从句",
+          "answer": "which / that",
+          "note": "引导限制性定语从句修饰先行词‘The rescue plane’，并在从句中作主语。"
+        },
+        "57": {
+          "concept": "固定搭配 / 名词",
+          "answer": "due / reason / trace / sound",
+          "note": "‘without a due...’或结合上下文指代没有正当理由、无迹可寻。遵循官方标准答案以‘due’或‘reason’为首选词。"
+        },
+        "58": {
+          "concept": "不定代词",
+          "answer": "something / anything",
+          "note": "作为选择疑问句后半句的主语，指代可能发生的离奇‘事情/变故’。"
+        },
+        "59": {
+          "concept": "主谓一致 / 系动词 (过去时)",
+          "answer": "were / went",
+          "note": "主语为复数名词‘things’，且整段话在叙述过去发生的历史事件，故使用复数过去时系动词‘were’，与‘fine’搭配表示‘一切安好’。"
+        },
+        "60": {
+          "concept": "上下文语境名词",
+          "answer": "crew / men / team",
+          "note": "结合前文提到的‘ship’和‘captain’，填入集体名词‘crew’表示船长和他的‘船员们’的个人物品完好无损。"
+        },
+        "61": {
+          "concept": "固定搭配 / 副词",
+          "answer": "nowhere / not",
+          "note": "与后文连用组成固定结构‘nowhere to be found’，意为‘无处可寻、不知去向’。"
+        },
+        "62": {
+          "concept": "疑问副词 (句首大写)",
+          "answer": "Why",
+          "note": "位于句首且首字母大写，引导一个特殊的疑问句，用以询问‘为什么’会有这么多神秘的失踪事件。"
+        },
+        "63": {
+          "concept": "固定搭配 / 名词",
+          "answer": "blame / responsibility",
+          "note": "与动词和介词构成固定短语‘put the blame on someone/something’，意为‘把责任/归咎于……（外星人）’。"
+        },
+        "64": {
+          "concept": "代词 (指代单数/复数泛指)",
+          "answer": "it / they / these",
+          "note": "作为从句主语。官方标准答案此处将这些失踪事件视为一个整体概念或用形式代词指向，首选填入单数代词‘it’。"
+        },
+        "65": {
+          "concept": "动词原形",
+          "answer": "explain / solve / answer / match",
+          "note": "位于情态动词‘can’后面接动词原形，意为没有任何一个单一的理论能够‘解释（explain）’所有这些神秘的失踪事件。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "An unsolved oceanic mystery, the Bermuda Triangle is an area of the ocean in which many ships and planes have disappeared. The Bermuda Triangle cannot be found on a map as it does not have [Q51] exact geographic location. Thus, the name, Bermuda Triangle, is given [Q52] this area that lies in the Atlantic Ocean between the island of Bermuda, Florida and Puerto Rico. Scientists have said that the number of disappearances is not unusually high, even though some of these disappearances have been very strange.",
+          "On 5 December 1945, five US Navy Avenger bombers mysteriously vanished [Q53] a routine training session known as Flight 19. The flight was led [Q54] Lieutenant Charles Taylor, who kept in contact with the control tower through the radio until nothing could be [Q55] from him. The rescue plane [Q56] was sent to search for the survivors of Flight 19 never made it back either. Six planes and twenty-seven men vanished without a [Q57], or so it seemed. Did the five bombers simply crash into the Atlantic Ocean or did [Q58] more mysteriously happen? Up till now, it is still a mystery where the planes went.",
+          "Several other disappearances have happened since then. One such incident was when three passenger planes which had radioed that \"All's well\", meaning things [Q59] fine, vanished. Another was a cargo ship called \"The Mary Celeste\". It was carrying goods from New York to Italy. However, it was found adrift and deserted. When the abandoned ship was sighted, the personal belongings of the captain and his [Q60] were intact. What was baffling was that they were [Q61] to be found.",
+          "[Q62] are there so many mysterious disappearances? Over the past centuries, some people have put the [Q63] on aliens while others think that [Q64] can be attributed to sea monsters, pirates or a physical force. There is no single theory that can [Q65] all these incidents of the mysterious disappearances. The ships and planes could have been victims of different circumstances. The Bermuda Triangle is indeed a mystery to many people."
+        ],
+        "zh": [
+          "百慕大三角是一个至今未解的海洋之谜，它是指许多船只和飞机失踪的一片海域。在地图上找不到百慕大三角，因为它没有一个确切的地理位置。因此，百慕大三角这个名字被赋予了这片位于大西洋、介于百慕大群岛、佛罗里达和波多黎各之间的区域。科学家们表示，尽管其中一些失踪事件非常离奇，但失踪的总数量其实并没有异常偏高。",
+          "1945年12月5日，五架美国海军“复仇者”轰炸机在一次被称为“第19飞行队”的常规训练期间神秘失踪。这次飞行由查尔斯·泰勒中尉带领，他通过无线电与控制塔保持着联系，直到再也听不到他的声音。随后被派去搜寻第19飞行队幸存者的那架搜救飞机也同样再也没有回来。六架飞机和二十七人仿佛人间蒸发一般，消失得毫无道理，或者至少看起来是这样。这五架轰炸机究竟是简单地坠入了大西洋，还是有更神秘的事情发生了呢？直到现在，这些飞机去了哪里依然是一个谜。",
+          "从那以后，还发生了其他几次失踪事件。其中一起事件是，三架曾通过无线电报告“一切安好”（意指情况良好）的客机突然坠毁或消失。另一起是一艘名为“玛丽·赛勒斯特号”的货船。它当时正载着货物从纽约前往意大利。然而，人们发现它在海上漂流且空无一人。当这艘被遗弃的船只被目击时，船长和他的船员们的个人物品都完好无损。令人困惑的是，他们却不知去向。",
+          "为什么会有这么多神秘的失踪事件呢？在过去的几个世纪里，一些人将责任归咎于外星人，而另一些人则认为它们可以归因于海怪、海盗或某种物理力量。目前还没有任何一个单一的理论能够解释所有这些离奇的失踪事件。这些船只和飞机可能是不同环境下的受害者。百慕大三角对许多人来说确实是一个谜。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "paperid": "p6_math_2020_sa2_catholichigh",
+  "sections": {
+    "401": {
+      "questions": {
+        "1": {
+          "stem_plain": "Round 21 345 to the nearest thousand.",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "20 000",
+            "2": "21 000",
+            "3": "21 300",
+            "4": "22 000"
+          }
+        },
+        "2": {
+          "stem_plain": "What is the missing number in the box? $$6\\frac{3}{4} = \\frac{\\Box}{4}$$",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "18",
+            "2": "24",
+            "3": "27",
+            "4": "63"
+          }
+        },
+        "3": {
+          "stem_plain": "How many of the marked angles in the figure are smaller than 90° ?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "5",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          }
+        },
+        "4": {
+          "stem_plain": "Compute: $10 + \\frac{1}{10} + \\frac{1}{1000} = \\underline{\\hspace{2cm}}$",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "11.01",
+            "2": "10.11",
+            "3": "10.011",
+            "4": "10.101"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "answer": "2"
+        },
+        "2": {
+          "answer": "2"
+        },
+        "3": {
+          "has_image": true,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "5",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "2",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "402": {
+      "questions": {},
+      "passages": {}
+    }
+  }
+}

@@ -1,0 +1,1162 @@
+{
+  "paperid": "p6_english_2019_sa2_nanyang",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "I complained ________ the noise at the construction site next to my house.",
+          "options": {
+            "1": "on",
+            "2": "for",
+            "3": "about",
+            "4": "during"
+          }
+        },
+        "2": {
+          "stem_plain": "She was ________ hour late that rainy morning because she forgot to bring ________ umbrella.",
+          "options": {
+            "1": "a ... a",
+            "2": "a ... an",
+            "3": "an ... a",
+            "4": "an ... an"
+          }
+        },
+        "3": {
+          "stem_plain": "The lady ________ my mother spoke of yesterday is here to see you again.",
+          "options": {
+            "1": "which",
+            "2": "whom",
+            "3": "whose",
+            "4": "whoever"
+          }
+        },
+        "4": {
+          "stem_plain": "He's really caught his mother by surprise, ________?",
+          "options": {
+            "1": "is he",
+            "2": "isn't he",
+            "3": "has he",
+            "4": "hasn't he"
+          }
+        },
+        "5": {
+          "stem_plain": "To celebrate the 100th anniversary of the school, ________ pupil was given an anniversary T-shirt.",
+          "options": {
+            "1": "all",
+            "2": "any",
+            "3": "each",
+            "4": "many"
+          }
+        },
+        "6": {
+          "stem_plain": "Neither the boys nor Janet ________ in the canteen when the fire broke out yesterday.",
+          "options": {
+            "1": "am",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "My brother and ________ decided to surprise our mother with some flowers on ________ birthday.",
+          "options": {
+            "1": "I ... her",
+            "2": "I ... our",
+            "3": "me ... her",
+            "4": "me ... our"
+          }
+        },
+        "8": {
+          "stem_plain": "\"Study hard for your examinations or you ________ surely regret when your results are worse than expected,\" Mother warned me.",
+          "options": {
+            "1": "will",
+            "2": "can",
+            "3": "may",
+            "4": "must"
+          }
+        },
+        "9": {
+          "stem_plain": "________ his poor eyesight, he is unable to read the text on the screen.",
+          "options": {
+            "1": "Despite",
+            "2": "owing to",
+            "3": "According to",
+            "4": "Regardless of"
+          }
+        },
+        "10": {
+          "stem_plain": "While John ________ furiously at the computer, his brother came into his room.",
+          "options": {
+            "1": "types",
+            "2": "is typing",
+            "3": "has typed",
+            "4": "was typing"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "‘complain about’是一个固定的动词短语搭配，意为‘抱怨、投诉某事’。句中指向邻近的建筑工地噪音发起投诉。",
+          "concept": "动词短语搭配 — Prepositional Phrase",
+          "answer": "3",
+          "zh": "我投诉了我家旁边建筑工地的噪音。"
+        },
+        "2": {
+          "note": "‘hour’（小时）和‘umbrella’（雨伞）的单词发音都是以元音音素开头（/ˈaʊə(r)/ 和 /ʌmˈbrelə/），因此它们前面都需要使用不定冠词‘an’。",
+          "concept": "不定冠词 — Articles",
+          "answer": "4",
+          "zh": "那个下雨的早晨她迟到了一个小时，因为她忘了带一把伞。"
+        },
+        "3": {
+          "note": "关系代词‘whom’在此引导定语从句，指代先行词‘The lady’（人），并在从句中作为介词‘of’的宾语（spoke of whom）。",
+          "concept": "关系代词 — Relative Pronoun",
+          "answer": "2",
+          "zh": "我母亲昨天谈到的那位女士又来找你了。"
+        },
+        "4": {
+          "note": "句中的‘He's really caught’是现在完成时‘He has really caught’的缩写（从过去分词 caught 判定）。陈述部分为肯定句，反意疑问部分需用相应的否定助动词，即‘hasn't he’。",
+          "concept": "反意疑问句 — Question Tag",
+          "answer": "4",
+          "zh": "他真的让他母亲大吃一惊，不是吗？"
+        },
+        "5": {
+          "note": "空格后的‘pupil’（学生）是单数可数名词，且谓语动词‘was given’也是单数。‘each’意为‘每个’，后接单数名词，完全符合语法；而‘all’和‘many’后需接复数名词。",
+          "concept": "不定量词 — Quantifiers",
+          "answer": "3",
+          "zh": "为了庆祝学校建校100周年，每个学生都拿到了一件周年纪念T恤。"
+        },
+        "6": {
+          "note": "由‘neither... nor...’（既不……也不……）连接两个主语时，谓语动词的形式采用‘就近原则’，即与靠近它的主语‘Janet’保持一致。‘Janet’为单数第三人称，且事情发生在‘yesterday’（过去时），故谓语动词用‘was’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "3",
+          "zh": "昨天发生火灾时，男孩子们和珍妮特都不在食堂里。"
+        },
+        "7": {
+          "note": "第一空与 My brother 共同作句子的主语，应填主格代词‘I’；第二空修饰名词 birthday 并在句中指代“母亲的”生日，应用形容词性物主代词‘her’。",
+          "concept": "代词格 — Pronoun Case",
+          "answer": "1",
+          "zh": "我哥哥和我决定送一些花给我们母亲，在她生日那天给她一个惊喜。"
+        },
+        "8": {
+          "note": "这里是母亲提出的严厉警告，‘or’在此意为‘否则’。前半句提出要求，后半句用‘will’表达一种必然会发生的客观结果（你一定会后悔）。",
+          "concept": "情态动词 — Modal Verbs",
+          "answer": "1",
+          "zh": "“努力为你的考试做准备，否则当你的成绩比预期更差时，你一定会后悔的，”母亲警告我。"
+        },
+        "9": {
+          "note": "‘Owing to’表示‘由于、因为’，引导原因短语。后文提到‘他无法看清屏幕上的文字’，前文的‘视力差’（poor eyesight）明显是其原因。‘Despite’（尽管）表转折，不符句意。",
+          "concept": "原因短语 — Cause",
+          "answer": "2",
+          "zh": "Due to poor eyesight, he is unable to read the text on the screen."
+        },
+        "10": {
+          "note": "由‘while’引导的时间状语从句通常用来表示过去某个时间段内正在发生的持续性动作，需用过去进行时。句意指当约翰正在电脑前疯狂打字时（长动作），他弟弟进来了（短动作）。",
+          "concept": "动词时态 — Tense",
+          "answer": "4",
+          "zh": "当约翰在电脑前疯狂打字时，他弟弟来到了他的房间。"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Although Mary was determined to cut down sugar in her diet, her plans were ________ by the box of chocolates on her table.",
+          "options": {
+            "1": "thrilled",
+            "2": "tricked",
+            "3": "tempted",
+            "4": "thwarted"
+          }
+        },
+        "12": {
+          "stem_plain": "The robber who threatened the cashier with a knife was charged in court with illegal ________ of a dangerous weapon in public.",
+          "options": {
+            "1": "proprietorship",
+            "2": "possession",
+            "3": "retention",
+            "4": "custody"
+          }
+        },
+        "13": {
+          "stem_plain": "The children are feeling nervous at the competition because they are ________ the best swimming team in the country.",
+          "options": {
+            "1": "going by",
+            "2": "going over",
+            "3": "going up against",
+            "4": "going ahead with"
+          }
+        },
+        "14": {
+          "stem_plain": "When the Singapore Botanic Gardens was named a World Heritage Site, hundreds of congratulatory messages ________ from all over the world.",
+          "options": {
+            "1": "checked in",
+            "2": "dropped in",
+            "3": "brought in",
+            "4": "poured in"
+          }
+        },
+        "15": {
+          "stem_plain": "The beautiful painting has been ________ by the ink stains from a leaking pen.",
+          "options": {
+            "1": "marred",
+            "2": "maimed",
+            "3": "distorted",
+            "4": "disarrayed"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "尽管玛丽下定决心要减少饮食中的糖分，但她的计划却被桌上的那盒巧克力打断了。",
+          "note": "‘thwarted’意为‘阻挠、使挫败’。前半句提到她下定决心减糖计划，‘Although’（虽然）表示转折，说明巧克力盒的出现让她的减肥计划最终泡汤、未能实现。",
+          "concept": "Vocabulary-Verb",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "thrilled",
+              "zh": "非常兴奋的，欣喜若狂的（形容词，指因发生令人高兴或刺激的事情而感到极度激动）",
+              "eg": "She was **thrilled** to receive an invitation to study at the prestigious university."
+            },
+            {
+              "opt": "2",
+              "word": "tricked",
+              "zh": "欺骗，戏弄（动词过去分词，指用计谋或谎言来愚弄、欺诈某人）",
+              "eg": "The elderly man was **tricked** into giving his bank details to a scammer over the phone."
+            },
+            {
+              "opt": "3",
+              "word": "tempted",
+              "zh": "受诱惑的，吸引的（动词过去分词，指让人非常想做某事，尤其是明知不该做的事）",
+              "eg": "I was **tempted** to buy the expensive watch, but I decided to save my money instead."
+            },
+            {
+              "opt": "4",
+              "word": "thwarted",
+              "zh": "阻挠，使挫败（动词过去分词，指阻止某人的计划、企图或野心得逞）",
+              "eg": "Our holiday plans were **thwarted** when the airline canceled all flights due to the storm."
+            }
+          ]
+        },
+        "12": {
+          "zh": "用刀威胁收银员的劫匪在法庭上被指控在公共场所非法持有危险武器。",
+          "note": "‘illegal possession’是一个法律固定搭配，意为‘非法持有（武器、毒品等）’。句中劫匪带刀在公共场所，属于非法持有武器的行为。",
+          "concept": "Vocabulary-Noun",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "proprietorship",
+              "zh": "所有权，独资企业（名词，指对土地、财产、公司等合法拥有的权利或身份）",
+              "eg": "After working as a manager for ten years, he finally took over the **proprietorship** of the shop."
+            },
+            {
+              "opt": "2",
+              "word": "possession",
+              "zh": "持有，拥有（名词，指拥有或随身携带某物，法庭上常指非法持有特定违禁品）",
+              "eg": "The suspect was arrested for being in illegal **possession** of a stolen vehicle."
+            },
+            {
+              "opt": "3",
+              "word": "retention",
+              "zh": "保留，保持（名词，指继续保持、保留或留住某物、人员、记忆等不使其流失的能力）",
+              "eg": "The school focuses on the **retention** of experienced teachers by offering better benefits."
+            },
+            {
+              "opt": "4",
+              "word": "custody",
+              "zh": "拘留，监护权（名词，指警方合法的羁押、扣留，或父母对孩子的法定抚养监护权）",
+              "eg": "The suspected thief was kept in police **custody** while awaiting his trial next week."
+            }
+          ]
+        },
+        "13": {
+          "zh": "孩子们在比赛中感到紧张，因为他们正在与全国最好的游泳队竞争。",
+          "note": "‘going up against’意为‘与……竞争、面对强敌’。孩子们在比赛中（at the competition）感到紧张，是因为他们的对手是全国最强的队伍，面临极大的竞争压力。",
+          "concept": "Vocabulary-Phrasal Verb",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "going by",
+              "zh": "遵循，依照（动词短语，指根据某种规则、标准、名字或表面现象来判断或行事）",
+              "eg": "If we are **going by** the map, we should take the next exit on the left."
+            },
+            {
+              "opt": "2",
+              "word": "going over",
+              "zh": "检查，复习（动词短语，指仔细查看、核对文件报告，或温习功课课文）",
+              "eg": "The lawyer spent the evening **going over** the legal contract to look for errors."
+            },
+            {
+              "opt": "3",
+              "word": "going up against",
+              "zh": "与……竞争，面对（动词短语，指在比赛或冲突中同强劲的对手较量、对抗）",
+              "eg": "Our school team will be **going up against** the defending champions in the finals tomorrow."
+            },
+            {
+              "opt": "4",
+              "word": "going ahead with",
+              "zh": "推进，着手进行（动词短语，指按原计划开始执行或继续做某件事）",
+              "eg": "The committee decided to **going ahead with** the construction despite the high costs."
+            }
+          ],
+          "image": "a13.jpeg"
+        },
+        "14": {
+          "zh": "当新加坡植物园被命名为世界文化遗产时，成百上千条祝贺信息从世界各地蜂拥而至。",
+          "note": "‘poured in’意为‘大量涌入、蜂拥而至’。常用来形容信件、消息、捐款等在短时间内以极大的数量从四面八方发来。",
+          "concept": "Vocabulary-Phrasal Verb",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "checked in",
+              "zh": "办理入住，报到（动词短语，指在机场、酒店或医院登记入宿或签到报到）",
+              "eg": "We **checked in** at the airport hotel three hours before our scheduled international flight."
+            },
+            {
+              "opt": "2",
+              "word": "dropped in",
+              "zh": "顺道拜访，偶然来访（动词短语，指在没有事先预约的情况下，顺路去某人家里探望）",
+              "eg": "Since I was working nearby, I decided to **drop in** on my aunt for a quick chat."
+            },
+            {
+              "opt": "3",
+              "word": "brought in",
+              "zh": "带来，引见（动词短语，指引聘某人加入团队，或带来收入、引入新法律规定）",
+              "eg": "The new marketing strategy **brought in** thousands of new customers last month."
+            },
+            {
+              "opt": "4",
+              "word": "poured in",
+              "zh": "大量涌入，蜂拥而至（动词短语，指信息、信件、人群或资金大量且源源不断地到来）",
+              "eg": "Donations from the public **poured in** after the news reported the plight of the family."
+            }
+          ]
+        },
+        "15": {
+          "zh": "这幅美丽的画作已经被漏水的笔留下的墨水污渍玷污了。",
+          "note": "‘marred’意为‘毁坏、损伤、破坏……的美好/完美’。漏水笔留下的墨水斑点弄脏并破坏了画作原有的美丽，完全符合语境。",
+          "concept": "Vocabulary-Verb",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "marred",
+              "zh": "破坏，损毁（动词，指对美丽、完美或快乐的场景/事物造成局部损伤或破坏）",
+              "eg": "The pristine sandy beach was **marred** by the litter left behind by irresponsible tourists."
+            },
+            {
+              "opt": "2",
+              "word": "maimed",
+              "zh": "使残废，受重伤（动词，指因暴力、事故、战争等导致人或动物身体受到无法恢复的严重残疾）",
+              "eg": "Many innocent animals were **maimed** or killed by the hidden traps in the forest."
+            },
+            {
+              "opt": "3",
+              "word": "distorted",
+              "zh": "扭曲，变形（动词，指使物体的原本形状改变变形，或曲解事实、声音使其失真）",
+              "eg": "The metal frame of the bicycle was completely **distorted** after the head-on collision."
+            },
+            {
+              "opt": "4",
+              "word": "disarrayed",
+              "zh": "使混乱，使凌乱（动词，指将原本整洁、有条理的物品或状态彻底搞乱、弄得乱七八糟）",
+              "eg": "The strong gusts of wind from the window completely **disarrayed** the papers on my desk."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "pronounced",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "loud",
+            "2": "deep",
+            "3": "harsh",
+            "4": "distinct"
+          }
+        },
+        "17": {
+          "stem_plain": "rundown",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rugged",
+            "2": "ghastly",
+            "3": "shabby",
+            "4": "slipshod"
+          }
+        },
+        "18": {
+          "stem_plain": "fathom",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "gauge",
+            "2": "interpret",
+            "3": "recognise",
+            "4": "understand"
+          }
+        },
+        "19": {
+          "stem_plain": "serenity",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "tranquility",
+            "2": "indifference",
+            "3": "restlessness",
+            "4": "complacence"
+          }
+        },
+        "20": {
+          "stem_plain": "vice-like",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rigid",
+            "2": "tight",
+            "3": "tense",
+            "4": "agonising"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “pronounced”意为显着的、明显的，这里形容口音非常清晰可辨、特征明显，与“distinct”同义。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "loud",
+              "zh": "响亮的，大声的",
+              "eg": "He greeted the guests in a loud and cheerful voice."
+            },
+            {
+              "opt": "2",
+              "word": "deep",
+              "zh": "深沉的，低沉的",
+              "eg": "The announcer had a deep, beautiful speaking voice."
+            },
+            {
+              "opt": "3",
+              "word": "harsh",
+              "zh": "刺耳的，严厉的",
+              "eg": "The teacher's harsh remarks hurt the sensitive child's feelings."
+            },
+            {
+              "opt": "4",
+              "word": "distinct",
+              "zh": "清晰的，明显的，独特的",
+              "eg": "There is a distinct smell of smoke coming from the kitchen room."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “rundown”形容建筑物年久失修、破旧不堪，后文提到天花板受损和壁纸剥落，这与“shabby（破旧的、简陋的）”完全契合。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rugged",
+              "zh": "崎岖的，粗犷的",
+              "eg": "They hiked up a rugged mountain path during their vacation."
+            },
+            {
+              "opt": "2",
+              "word": "ghastly",
+              "zh": "可怕的，糟糕透顶的",
+              "eg": "The car crash was a truly ghastly sight to look at."
+            },
+            {
+              "opt": "3",
+              "word": "shabby",
+              "zh": "破旧的，简陋的，寒酸的",
+              "eg": "He wore a shabby old coat that had holes at the elbows."
+            },
+            {
+              "opt": "4",
+              "word": "slipshod",
+              "zh": "马虎的，粗枝大叶的",
+              "eg": "The builder did a slipshod job fixing the leaky roof structure."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “fathom”意为理解、彻底弄懂（深奥或复杂的缘由），这里指连珠炮般提问以弄清其学武的目的，与“understand”意思完全一致。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "gauge",
+              "zh": "评估，测量",
+              "eg": "It is difficult to gauge the success of the new policy yet."
+            },
+            {
+              "opt": "2",
+              "word": "interpret",
+              "zh": "理解，诠释",
+              "eg": "We need an expert to help us interpret the old law details."
+            },
+            {
+              "opt": "3",
+              "word": "recognise",
+              "zh": "认出，承认",
+              "eg": "I could barely recognise his signature on the contract document."
+            },
+            {
+              "opt": "4",
+              "word": "understand",
+              "zh": "理解，明白",
+              "eg": "She tried hard to understand the true meaning behind his poem."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “serenity”意为平静、宁静、安详，与“tranquility（宁静、平静）”意思相同。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tranquility",
+              "zh": "宁静，平静，安宁",
+              "eg": "The beautiful mountain village offered a sense of pure tranquility."
+            },
+            {
+              "opt": "2",
+              "word": "indifference",
+              "zh": "冷漠，不关心",
+              "eg": "His complete indifference to the project rules annoyed the manager."
+            },
+            {
+              "opt": "3",
+              "word": "restlessness",
+              "zh": "烦躁不安，坐立不宁",
+              "eg": "The children showed signs of restlessness after the long bus trip."
+            },
+            {
+              "opt": "4",
+              "word": "complacence",
+              "zh": "自满，盲目乐观",
+              "eg": "We must avoid complacence even if we won the first round match."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “vice-like grip”是固定比喻表达，形容握力极其巨大、像老虎钳一样死死夹住，对应“tight（紧的、牢固的）”。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rigid",
+              "zh": "僵硬的，死板的",
+              "eg": "The plastic rod became completely rigid in the freezing water."
+            },
+            {
+              "opt": "2",
+              "word": "tight",
+              "zh": "紧的，牢固的，紧密的",
+              "eg": "He kept a tight hold on his little daughter's hand in the crowd."
+            },
+            {
+              "opt": "3",
+              "word": "tense",
+              "zh": "紧张的，绷紧的",
+              "eg": "The atmosphere in the meeting room grew extremely tense."
+            },
+            {
+              "opt": "4",
+              "word": "agonising",
+              "zh": "使人极度痛苦的",
+              "eg": "Waiting for the hospital laboratory results was an agonising experience."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "I was told that Master Yoshi had taught karate in Japan for 25 years before moving to New York. His [Q16(pronounced)] Japanese accent when he greeted me confirmed that. I looked around and saw that his karate school was terribly [Q17(rundown)] — the place had water-damaged ceilings and peeling wall paper.",
+          "“I would like to learn karate,” I said. He nodded and proceeded to pepper me with questions to [Q18(fathom)] my purpose for learning karate.",
+          "“You want to fight,” Yoshi concluded.",
+          "“No, I want to learn how to protect myself,” I replied.",
+          "Yoshi studied me, calmly, his face an expression of [Q19(serenity)]. Then he stretched out his hand to me and we shook hands. Immediately, my thumb exploded and I experienced a searing pain. When I was finally released from Yoshi's [Q20(vice-like)] grip, I found myself doubled over on the floor.",
+          "“Welcome to my school,” Yoshi said with a smile."
+        ],
+        "zh": [
+          "有人告诉我，吉师父在移居纽约之前已经在日本教了25年的空手道。当他向我打招呼时，他那明显的日本口音证实了这一点。我环顾四周，发现他的空手道学校破烂不堪——这个地方的天花板因水浸而受损，墙纸也剥落了。",
+          "“我想学空手道，”我说。他点了点头，接着连珠炮似地向我提出各种问题，以彻底弄清我学习空手道的目的。",
+          "“你想打架，”吉师父断定道。",
+          "“不，我想学会如何保护自己，”我回答道。",
+          "吉师父平静地端详着我，脸上流露出安详的神情。然后他向我伸出手，我们握了握手。刹那间，我的大拇指像炸开一样痛，一阵剧烈的灼痛袭来。当我终于从吉师父猛烈如钳的紧握中解脱出来时，我发现自己正疼得蜷缩在地上。",
+          "“欢迎来到我的学校，”吉师父微笑着说。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘an illegal pet’，修饰以元音音素开头的单数可数名词 illegal，应用不定冠词 an。",
+          "answer": "B"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘and’ 表顺承和并列关系，连接前后两个被动语态的动作：‘she was kept... and was taken...’。",
+          "answer": "C"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘which’ 引导非限制性定语从句，先行词是整个前面的 programme（项目/活动），在从句中作主语。",
+          "answer": "P"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘to meet her’ 表示目的状语，‘排队为了见她’。",
+          "answer": "D"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘Among them’ 是固定搭配，代指‘在他们（这些外国名人）当中’，此处作倒装句的状语。",
+          "answer": "L"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘the profile of Singapore’，介词 of 表示所属关系，意为‘新加坡的形象’。",
+          "answer": "J"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘was featured’ 全篇为过去时态，主语 she 是单数，故被动语态助动词用 was。",
+          "answer": "N"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘with many famous co-stars’，介词 with 表示‘与……一起’、‘伴随’。",
+          "answer": "Q"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘raise much awareness’，awareness（意识）是不可数名词，故用 much 来修饰，表示‘提高很多意识’。",
+          "answer": "H"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘turn up’ 是固定短语，表示‘出现、来到’（这里指人们赶来向她致以最后的敬意）。",
+          "answer": "M"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "and",
+          "D": "for",
+          "E": "in",
+          "F": "is",
+          "G": "many",
+          "H": "much",
+          "J": "of",
+          "K": "their",
+          "L": "them",
+          "M": "up",
+          "N": "was",
+          "P": "which",
+          "Q": "with"
+        },
+        "cloze": [
+          "Ah Meng, an orang-utan, arrived in Singapore at the tender age of seven. Smuggled from Indonesia, she was kept as [Q29] illegal pet. She was later saved by a veterinarian [Q30] was taken to the Singapore Zoo. At the zoo, Ah Meng became hugely popular through the 'Breakfast with Orang-utan' programme, [Q31] allowed visitors to be photographed with Ah Meng while having breakfast. She was so popular that even foreign celebrities queued to [Q32] meet her. Among [Q33] were the actress Elizabeth Taylor and the singer Michael Jackson.",
+          "Following her popularity, Ah Meng became the poster girl for Singapore's tourism industry. Her contribution towards raising the profile [Q34] Singapore was recognised in 1992 when she received the 'Special Tourism Ambassador' award. Throughout her life, she [Q35] featured in more than 30 documentary films [Q36] many famous co-stars. These films helped to raise [Q37] awareness about the need for conservation.",
+          "When Ah Meng passed on in 2008, many people turned [Q38] to pay their final respects. In 2016, the Singapore Zoo announced that Ah Meng's granddaughter would take on her grandmother's name and succeed her as the zoo's icon."
+        ],
+        "zh": [
+          "红毛猩猩阿明在年仅七岁的时候来到了新加坡。她从印度尼西亚被走私过来，曾被当作一只非法宠物饲养。她后来被一名兽医解救，并被送往新加坡动物园。在动物园里，阿明通过“与红毛猩猩共进早餐”这一项目变得极受欢迎，该项目允许游客在吃早餐时与阿明合影。她是如此受欢迎，以至于连外国名人也排队想见她。在他们当中包括女演员伊丽莎白·泰勒和歌手迈克尔·杰克逊。",
+          "随着名声的扩大，阿明成为了新加坡旅游业的形象代言人。她在提升新加坡形象方面所做出的贡献在1992年得到了认可，当时她获得了“特别旅游大使”奖。在它的一生中，她与许多著名明星一起出演了30多部纪录片。这些电影有助于极大提高人们对保护自然必要性的意识。",
+          "当阿明在2008年去世时，许多人都赶到现场表达他们最后的敬意。2016年，新加坡动物园宣布阿明的孙女将承袭她祖母的名字，并接替她成为动物园的标志性形象。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：“由于、多亏了”应使用固定短语 With advances in，而非 For advances in。",
+          "answer": "With"
+        },
+        "40": {
+          "concept": "情态动词 - Modal Verbs",
+          "note": "情态动词用法错误：此处描述新改进机器人的现实能力和客观发展情况，应用 can 表示能够，而非具有古老语气或特定法律约束感的 shall。",
+          "answer": "can"
+        },
+        "41": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处描述客观介绍性质的事实，且后文均在用一般现在时陈述机器人的特性（如 moves），因此过去式 was 应改为一般现在时单数形式 is。",
+          "answer": "is"
+        },
+        "42": {
+          "concept": "动词不定式 - Infinitives",
+          "note": "动词不定式符号用法：to 后面作目的状语应接动词原形 showcase（展示），而非现在分词 showcasing。",
+          "answer": "showcase"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 description（名词，意为描述、简述）。",
+          "answer": "description"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 bounds（名词），by leaps and bounds 为固定习语，意为“飞速地、突飞猛进地”。",
+          "answer": "bounds"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 demonstrates（动词，意为展示、证明），主语为单数 Atlas，故用第三人称单数形式。",
+          "answer": "demonstrates"
+        },
+        "46": {
+          "concept": "动词不定式 - Infinitives",
+          "note": "动词原形平行结构：作介词/固定结构 such as 后面修饰成分或不定式伴随，根据与其并列的 running up（前方 includes abilities such as ... 或者是作后置定语 to regain），此处表达“恢复平衡的能力”，应使用动词原形 regain（或在 includes abilities such as 后面如果看作动名词并列，常改为 regaining；但根据新加坡小升初常考题型，ability to do 结构在此处常还原为 to regain，考虑到前面是 such as，如果是与 running 并列则用 regaining。结合考卷划线的是 regain 原形本身，说明语法点在于其之前的搭配，此处通常改为 regaining 保持与 running 并列）。",
+          "answer": "regaining"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 precision（名词，意为精确、精准）。",
+          "answer": "precision"
+        },
+        "48": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 manoeuvre / maneuver（动词，意为操纵、移动）。",
+          "answer": "manoeuvre"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 athletic（形容词，意为运动的、体育的）。",
+          "answer": "athletic"
+        },
+        "50": {
+          "concept": "连词 - Conjunctions",
+          "note": "关联连词搭配错误：固定搭配为 not only... but also...（不仅……而且……），而非 not only... and also...。",
+          "answer": "but"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Robots are complex machines that can do many things. [Q39(For)] advances in technology newly-improved robots [Q40(shall)] do much more than the older models. Atlas, a robot built by Boston Dynamics, [Q41(was)] one such example.",
+          "A recent Youtube video was posted by the company to [Q42(showcasing)] Atlas' capabilities. \"Atlas moves like a human,\" Boston Dynamics wrote in the video [Q43(discribshon)]. The video showed Atlas jumping over obstacles that were in its way and proved that it had exceeded the abilities of older robots by leaps and [Q44(bowns)].",
+          "[Q45(Atlas dehmunstraits)] mobility that is very human-like. This includes abilities such as [Q46(regain)] its balance after being shoved and running up a flight of stairs. According to its creators, many sensors that are found in Atlas work together seamlessly to ensure [Q47(preseeshun)] in Atlas' physical movements, allowing it to [Q48(manoover)] skilfully through various obstacle courses.",
+          "To some, the idea of an [Q49(athelatic)] robot leaping, doing backflips and chasing after someone is not only strange [Q50(and)] also unsettling. Only time will tell if its development is beneficial to humans."
+        ],
+        "zh": [
+          "[Q39(随着)]技术的进步，新改进的机器人[Q40(可以)]比旧型号做更多的事情。由波士顿动力公司制造的机器人阿特拉斯（Atlas）就是其中一个例子。",
+          "该公司最近发布了一段 YouTube 视频来[Q42(展示)]阿特拉斯的能力。波士顿动力公司在视频[Q43(简介)]中写道：“阿特拉斯走起路来像人类一样。”视频显示阿特拉斯跳过了阻挡它前进的障碍物，并证明了它已经[Q44(突飞猛进地)]超越了旧机器人的能力。",
+          "阿特拉斯[Q45(展示出)]了非常像人类的运动能力。这包括在被推搡后[Q46(重新获得)]平衡以及跑上一段楼梯等能力。据其创造者称，阿特拉斯身上的许多传感器协同工作，完美契合，以确保阿特拉斯身体动作的[Q47(精准度)]，使其能够熟练地[Q48(穿梭)]在各种障碍物训练场中。",
+          "对一些人来说，一个[Q49(运动型)]机器人跳跃、做后空翻并追逐某人的想法不仅奇怪，[Q50(而且)]还令人不安。只有时间才能证明它的发展对人类是否有益。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "关系副词 / 地点连词",
+          "answer": "where / wherever",
+          "note": "引导定语从句，修饰前面的地点名词‘warm, tropical waters’，意为它们在‘这些地方（where）’茁壮成长。"
+        },
+        "52": {
+          "concept": "被动语态助动词",
+          "answer": "are / were",
+          "note": "主语为复数概念‘Octopuses, together with their cousin, the squid’，与其后的过去分词构成一般现在时的被动语态（are often considered）。"
+        },
+        "53": {
+          "concept": "形容词",
+          "answer": "shallow",
+          "note": "修饰名词‘waters’。结合后文指出水深通常不足200米，可知是指生活在相对‘浅的（shallow）’海域中。"
+        },
+        "54": {
+          "concept": "动词 (一般现在时单数)",
+          "answer": "includes / comprises / contains / is",
+          "note": "核心主语为单数名词‘The diet’，此处填入动词的第三人称单数形式，意为章鱼的饮食主要‘包括（includes）’螃蟹、虾和龙虾。"
+        },
+        "55": {
+          "concept": "固定搭配 / 名词",
+          "answer": "occasions / days",
+          "note": "与前后文构成固定短语‘On rare occasions’，意为‘在极少数情况下（occasions）/罕见地’。"
+        },
+        "56": {
+          "concept": "固定搭配 / 介词",
+          "answer": "like / such / including",
+          "note": "用作介词引出后文的具体例子，‘like sharks’意为‘比如（like）鲨鱼’。"
+        },
+        "57": {
+          "concept": "固定搭配 / 介词",
+          "answer": "towards / to / into",
+          "note": "与前面的动词搭配，意为‘抓住猎物并将其拉向（towards）它们的嘴部’。"
+        },
+        "58": {
+          "concept": "固定搭配 / 介词",
+          "answer": "on / along / across",
+          "note": "与动词‘crawl’连用，‘crawl on the ocean floor’意为‘在（on）海底爬行’。"
+        },
+        "59": {
+          "concept": "固定搭配 / 介词",
+          "answer": "out / for",
+          "note": "与前文的动词连用构成‘seek out’短语，意为‘寻找出/搜寻（out）猎物’。"
+        },
+        "60": {
+          "concept": "形容词",
+          "answer": "lone / solitary / lonely / independent",
+          "note": "修饰名词‘creatures’。结合后文独居洞穴的描述，可知章鱼是‘独居的/孤独的（lone）’动物。"
+        },
+        "61": {
+          "concept": "形容词 / 过去分词作表语",
+          "answer": "safe / secure / protected / hidden",
+          "note": "位于固定搭配‘keep themselves + 形容词’结构中，结合后文制造石门作为盾牌，可知是为了‘确保自身安全（safe）’。"
+        },
+        "62": {
+          "concept": "时间连词",
+          "answer": "when / if / once",
+          "note": "位于句中换行处，填入时间连词，表示‘当（when）受到威胁时’章鱼会喷出墨汁。"
+        },
+        "63": {
+          "concept": "动词原形 / 动词短语",
+          "answer": "make / aid / facilitate / ensure / help",
+          "note": "位于动词不定式符号‘to’后面接动词原形，与‘escape’构成常用语境短语‘make their escape’，意为‘以此来成功逃跑（make）’。"
+        },
+        "64": {
+          "concept": "名词 / 固定搭配",
+          "answer": "deception / camouflage / disguise / transformation",
+          "note": "位于介词‘of’之后，结合前文提到它们能欺骗和迷惑攻击者，因此属于‘欺骗/瞒骗（deception）’的大师。"
+        },
+        "65": {
+          "concept": "动词原形 / 固定搭配",
+          "answer": "blend / mix / fit",
+          "note": "位于‘help them + 动词原形’结构中，与后面的介词短语构成固定搭配‘blend in with’，意为‘融入（blend）周围环境之中’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Octopuses are sea creatures well-known for their rounded bodies, bulging eyes, and eight long arms. They live in all the world's oceans but are typically found in abundance in warm, tropical waters [Q51] they thrive. Octopuses, together with their cousin, the squid, [Q52] often considered 'monsters of the deep' as most live near the ocean floor. However, some species live in relatively [Q53] waters that are often less than 200 metres in depth.",
+          "The diet of octopuses [Q54] mainly crabs, shrimps and lobsters. On rare [Q55], they have been observed to attack larger prey [Q56] sharks. Using the rows of powerful suction cups which line their arms, they grab their prey and pull it [Q57] their mouths. Sometimes, octopuses crawl [Q58] the ocean floor, sticking their long arms into small openings or crevices to seek [Q59] their prey.",
+          "Octopuses are [Q60] creatures which live by themselves in dens built from rocks. To keep themselves [Q61], they create rock 'doors' as shields to keep out predators. [Q62] threatened, octopuses shoot an inky fluid that darkens the water, confusing the attacker in order to [Q63] their escape. They are also masters of [Q64] which can alter their skin to take on a range of colors and textures to help them [Q65] in with their surroundings. Despite these abilities, some octopuses cannot escape their fate of becoming a delicacy on someone's dinner plate."
+        ],
+        "zh": [
+          "章鱼是一种海洋生物，以其圆润的身体、突出的眼睛和八条长长的触手而闻名。它们生活在全球所有的海洋中，但通常在温暖的热带海域大量存在，并在那里茁壮成长。章鱼以及它们的近亲鱿鱼，常常被认为是“深海怪兽”，因为大多数都生活在靠近海底的地方。然而，也有一些物种生活在水深通常不足200米的相对较浅的海域中。",
+          "章鱼的饮食主要包括（includes）螃蟹、虾和龙虾。在极少数情况下（occasions），人们也观察到它们会袭击像鲨鱼这样更大的猎物。利用触手排成一列列强有力的吸盘，它们能抓住猎物并将其拉向自己的嘴部。有时，章鱼会海底爬行，将长长的触手伸进狭小的开口或缝隙中来搜寻（out）猎物。",
+          "章鱼是孤独的（lone）动物，它们独自居住在用岩石搭建的洞穴里。为了确保（safe）自身安全，它们会制作石“门”作为盾牌来防范捕食者。当（when）受到威胁时，章鱼会喷出一种使水变黑的墨汁，以此迷惑攻击者，从而实现（make）它们逃跑。它们也是瞒骗（deception）大师，可以改变皮肤以呈现出一系列的颜色和纹理，帮助它们融入（blend）周围的环境之中。尽管拥有这些本领，一些章鱼依然无法逃脱成为别人餐桌上美味佳肴的命运。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

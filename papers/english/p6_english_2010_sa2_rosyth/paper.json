@@ -1,0 +1,654 @@
+{
+  "paperid": "p6_english_2010_sa2_rosyth",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Prototype grammar item: The team ________ ready for the match.",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "15": {
+          "stem_plain": "The shopkeeper ________ the customer's request for an exchange as the product was defective.",
+          "options": {
+            "1": "acceded to",
+            "2": "conceded to",
+            "3": "proceeded with",
+            "4": "succeeded with"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "15": {
+          "zh": "由于产品有缺陷，店主同意了顾客的退换货要求。",
+          "note": "“acceded to”意为“同意（某人的请求/要求）”。因为商品有缺陷（defective），店主答应顾客退换货（request for an exchange）的做法合情合理，搭配最为贴切。",
+          "concept": "动词短语搭配 Phrasal Verbs",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "acceded to",
+              "zh": "同意，应允（指在他人请求或要求后表示同意或准许，多用于正式场合）",
+              "eg": "The government finally acceded to the public demands for tax reform."
+            },
+            {
+              "opt": "2",
+              "word": "conceded to",
+              "zh": "让步，承认（指不情愿地承认某事属实或在辩论、斗争中让步）",
+              "eg": "He was forced to concede to his opponent after losing the major argument."
+            },
+            {
+              "opt": "3",
+              "word": "proceeded with",
+              "zh": "继续进行（指在停顿或做完一件事后，开始或继续进行下一项活动）",
+              "eg": "After answering a few questions, the lecturer proceeded with the lesson."
+            },
+            {
+              "opt": "4",
+              "word": "succeeded with",
+              "zh": "在……方面取得成功（指在某项 activity 中获得了预期的成功结果）",
+              "eg": "The team succeeded with their new marketing strategy, boosting sales."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16 (prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "动词短语搭配 Phrasal Verbs",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "after",
+          "B": "before",
+          "C": "during",
+          "D": "since"
+        },
+        "cloze": [
+          "Prototype grammar cloze: We arrived [Q29] the show had already started."
+        ],
+        "zh": [
+          "示例语法填空段落。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "动词短语搭配 Phrasal Verbs",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing: The [Q39(childrens)] played in the park."
+        ],
+        "zh": [
+          "示例改错题段落。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Marconi was not just a pet dog. He was a professional guide dog that had learnt to lead an elderly blind woman. When she [Q51], he was returned to the organisation that had [Q52] him as a guide dog. Although he was not yet five years old, he was considered too [Q53] to be matched with another blind person. That was how I ended up adopting him.",
+          "As the new [Q54] of Marconi, I learnt that he was not [Q55] other dogs. He did not know how to play. He was used to being constantly on [Q56] and retirement puzzled him. He was [Q57] more than a metre from either myself or my husband, John.",
+          "Marconi watched our every movement. One evening, John and I were watching television while Marconi was watching us. John [Q58] and started for the kitchen. I was seated on the couch. Marconi leaped up and then stood frozen in his [Q59] between us. His head swivelled [Q60] one to the other of us. He moved two steps [Q61] John, stopped, retreated a step in my [Q62] and stopped again. He was filled with uncertainty, starting and stopping. Who needed him more? Eventually, he learnt to adjust living with [Q63].",
+          "Still, we were awed by Marconi's self-control. He was always disciplined. Yet, one day, I did find a mess downstairs. I reached for Marconi to reprimand him. But for [Q64], he wanted some distance between us. Eluding me, he loped upstairs to his den and chose his own [Q65]. He made himself stand in the corner."
+        ],
+        "zh": [
+          "马可尼不仅仅是一只宠物狗。他是一只专业的导盲犬，曾学会引导一位失明的老妇人。当她去世时，他被送回了曾将他训练为导盲犬的机构。虽然他还不满五岁，但他被认为年纪太大了，无法再与其他盲人进行配对。这就是我最终收养他的原因。",
+          "作为马可尼的新主人，我了解到他与其他狗不同。他不知道该怎么玩耍。他习惯了时刻处于执勤状态，退役让他感到困惑。他离我和我丈夫约翰的距离从来不会超过一米。",
+          "马可尼注视着我们的一举一动。一天晚上，约翰和我正在看电视，而马可尼在看着我们。约翰站起身，朝厨房走去。我坐在沙发上。马可尼跳了起来，然后僵立在原地，停在两人的中间。他的头在我们两个人之间转来转去。他朝约翰走了两步，停了下来，又朝我的方向退了一步，然后再次停下。他内心充满了不确定性，走走停停。谁更需要他？最终，他学会了适应与我们一起生活。",
+          "尽管如此，马可尼的自我克制依然让我们惊叹。他总是非常守纪律。然而有一天，我确实在楼下发现了一团糟。我伸手去抓马可尼想要训斥他。但仅此一次，他希望和我们保持一定的距离。他避开我，慢跑着上楼去了他自己的小窝，并选择了属于他自己的惩罚（或角落）。他让自己在角落里罚站。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "动词辨析与时态",
+          "note": "<ol><li><strong>上下文线索：</strong>前句提到这只导盲犬曾为一位失明的老妇人领路，后句指出它“被送回了机构”，由此可推断出老妇人“去世”或“不能继续抚养”。</li><li><strong>语法要点：</strong>when 引导的时间状语从句，叙述过去发生的事实，需使用一般过去时（died 或 passed away）。</li></ol>",
+          "answer": "died / passed"
+        },
+        "52": {
+          "concept": "过去完成时与动词搭配",
+          "note": "<ol><li><strong>上下文线索：</strong>该机构原本就是专门管理导盲犬的（as a guide dog），所以是最初“训练”或“抚养”它的地方。</li><li><strong>语法要点：</strong>定语从句中 had 后面需要接过去分词（trained），构成过去完成时，表示在被老妇人领养之前就已经完成的动作。</li></ol>",
+          "answer": "trained / raised"
+        },
+        "53": {
+          "concept": "too...to 结构",
+          "note": "<ol><li><strong>上下文线索：</strong>后文提到“这就是我最终收养它的原因”，说明由于某种限制它无法再与盲人匹配。前面提到它“还不满五岁”，对于高强度工作的导盲犬来说这个年龄已经被视为偏大。</li><li><strong>语法要点：</strong>固定搭配 <em>too + 形容词 + to do something</em>，表示“太……以至于不能……”。</li></ol>",
+          "answer": "old"
+        },
+        "54": {
+          "concept": "名词辨析",
+          "note": "<ol><li><strong>上下文线索：</strong>第一段末尾说“I ended up adopting him（我最终收养了他）”，所以此处指“作为它的新主人”。</li><li><strong>语法要点：</strong>修饰人和动物的关系，使用 owner（所有人）或 master（主人）。</li></ol>",
+          "answer": "owner / master"
+        },
+        "55": {
+          "concept": "介词固定用法",
+          "note": "<ol><li><strong>上下文线索：</strong>后句紧接着解释它“不知道该怎么玩耍，总是处于工作状态”，这些都属于不同于普通宠物狗的特征。</li><li><strong>语法要点：</strong><em>be not like...</em> 意为“不像……”，此处 like 作介词。</li></ol>",
+          "answer": "like"
+        },
+        "56": {
+          "concept": "名词短语搭配",
+          "note": "<ol><li><strong>上下文线索：</strong>马可尼之前是一只专业的导盲犬，习惯了时刻处于紧绷、执勤的状态。</li><li><strong>语法要点：</strong>固定短语 <em>on duty</em>（值班、执勤）、<em>on guard</em>（警惕、看守）或 <em>on alert</em>（警戒）。</li></ol>",
+          "answer": "duty / guard / alert"
+        },
+        "57": {
+          "concept": "频度副词",
+          "note": "<ol><li><strong>上下文线索：</strong>前文强调它保持着时刻执勤的习惯，形影不离地关注着主人。所以它离开主人的距离“绝不会”或“很少”超过一米。</li><li><strong>语法要点：</strong>结合句意填入否定副词，修饰整个句子的频度。</li></ol>",
+          "answer": "never / seldom"
+        },
+        "58": {
+          "concept": "动词与时态",
+          "note": "<ol><li><strong>上下文线索：</strong>约翰和妻子本来在看电视，后面提到“started for the kitchen（走向厨房）”，因此前面发生的动作是“站起身”。</li><li><strong>语法要点：</strong>整篇故事使用过去时，<em>stood up</em>（站起）或 <em>got up</em>（起来）在并列句中省去了 up，直接接动词过去式。</li></ol>",
+          "answer": "stood / got"
+        },
+        "59": {
+          "concept": "固定短语",
+          "note": "<ol><li><strong>上下文线索：</strong>马可尼跳起来后就僵立在两个主人中间（stood frozen... between us）。</li><li><strong>语法要点：</strong>英语固定词组 <em>freeze/stop dead in one's tracks</em>，意为“（因惊吓或困惑）突然原地僵住”。</li></ol>",
+          "answer": "tracks"
+        },
+        "60": {
+          "concept": "介词搭配",
+          "note": "<ol><li><strong>上下文线索：</strong>它的头在两个主人之间转来转去，不知道该跟随着谁。</li><li><strong>语法要点：</strong>与后文的 to 呼应，组成 <em>from one to the other</em>（从一个到另一个）。</li></ol>",
+          "answer": "from"
+        },
+        "61": {
+          "concept": "方向介词",
+          "note": "<ol><li><strong>上下文线索：</strong>后面提到“朝我的方向退了一步”，对比来看，前面它移动两步的目标是走向厨房的约翰。</li><li><strong>语法要点：</strong>表示“朝向某人/某地移动”用介词 towards 或 toward。</li></ol>",
+          "answer": "towards"
+        },
+        "62": {
+          "concept": "名词固定搭配",
+          "note": "<ol><li><strong>上下文线索：</strong>在约翰和妻子之间纠结，朝约翰走两步后，又退回妻子这边。</li><li><strong>语法要点：</strong>固定搭配 <em>in one's direction</em>（朝某人的方向）。</li></ol>",
+          "answer": "direction"
+        },
+        "63": {
+          "concept": "代词与名词归纳",
+          "note": "<ol><li><strong>上下文线索：</strong>通过上文走走停停的纠结，它最终学会了适应与新家庭（也就是“我们”两个人）共同生活。</li><li><strong>语法要点：</strong>介词 with 后接宾格代词 us，或泛指名词 humans。</li></ol>",
+          "answer": "us / humans / both"
+        },
+        "64": {
+          "concept": "限定习语",
+          "note": "<ol><li><strong>上下文线索：</strong>本段开头强调它平时总是非常守纪律（always disciplined），但唯独今天搞砸了，并且想要躲避训斥。</li><li><strong>语法要点：</strong>固定习语 <em>but for once</em>，表示“但仅此一次/唯独这一次（反常）”。</li></ol>",
+          "answer": "once"
+        },
+        "65": {
+          "concept": "名词语境对应",
+          "note": "<ol><li><strong>上下文线索：</strong>最后一句明确写道：“He made himself stand in the corner.”，直接给出了它去二楼后选择的去处和行为。</li><li><strong>语法要点：</strong>与后句的名词进行同词重现（corner），或者归纳其行为本质为自我“惩罚”（punishment）。</li></ol>",
+          "answer": "corner / punishment"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "67": {
+          "stem_plain": "John must see a doctor. He will not be able to get well soon.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________"
+        },
+        "66": {
+          "stem_plain": "None of the students refused to attend the holiday camp.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "All __________"
+        },
+        "68": {
+          "stem_plain": "I tried very hard to assure my mother but she was still upset.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No matter __________"
+        },
+        "69": {
+          "stem_plain": "She did not know that there was a stranger lurking nearby.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Unknown __________"
+        },
+        "70": {
+          "stem_plain": "Peter likes to sing. He does not like any other activities.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ except __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "67": {
+          "concept": "条件状语从句 — unless (if not)",
+          "zh": "除非看医生，否则约翰不会很快痊愈。",
+          "note": "连词用法：<em>unless</em> 引导条件状语从句，主句用一般将来时，从句用一般现在时（主将从现）。",
+          "answer": "John will not be able to get well soon unless he sees a doctor."
+        },
+        "66": {
+          "concept": "双重否定变肯定 — Double Negative to Positive",
+          "zh": "所有的学生都参加了假期训练营。",
+          "note": "句型转换：双重否定 <em>None ... refused to attend</em> 转换为肯定句 <em>All ... attended</em>（或 <em>agreed to attend</em>）。",
+          "answer": "All the students attended the holiday camp."
+        },
+        "68": {
+          "concept": "让步状语从句 — No matter how + adjective/adverb",
+          "zh": "无论我多么努力地安慰我母亲，她仍然很难过。",
+          "note": "句型结构：<em>No matter how + 副词 (hard) + 主谓</em>，逗号后连接主句，注意去掉原句中的连词 <em>but</em>。",
+          "answer": "No matter how hard I tried to assure my mother, she was still upset."
+        },
+        "69": {
+          "concept": "固定形容词短语作状语 — Unknown to someone",
+          "zh": "她不知道附近有一个陌生人在潜伏。",
+          "note": "词组转换：动词短语 <em>She did not know</em> 转换为前置状语 <em>Unknown to her</em>（对她而言是未知的）。",
+          "answer": "Unknown to her, there was a stranger lurking nearby."
+        },
+        "70": {
+          "concept": "介词用法 — except + gerund/noun",
+          "zh": "除了唱歌，彼得不喜欢任何其他活动。",
+          "note": "排除介词：<em>except</em> 后面需要接名词、代词或动名词。此处将动词短语 <em>to sing</em> 转化为动名词 <em>singing</em>，并精简句子结构。",
+          "answer": "Peter does not like any activities except singing."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Who does the word 'they' in line 4 refer to?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Who were the \"group of people\" (Line 7)?",
+          "marks": 1,
+          "interaction": "textarea",
+          "options": [
+            "hurried",
+            "worried",
+            "surprised",
+            "excited"
+          ]
+        },
+        "75": {
+          "stem_plain": "Explain what Joey feared might happen to him if he were to leave the store?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Which word in paragraph 3 means \"not intentionally\"?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Explain why Keong was able to charge at Wayne without getting hurt.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Do you agree that Joey should never have listened to Wayne? Give one reason for your answer.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Why were they at the store?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "\"There was a collective gasp from the people as they shuddered at what might happen to them next.\" (Line 8 & 9)\nExplain clearly what the people were afraid might happen to them next.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "Why did the gunmen stack the tables against the door?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "What would have been the result if the hostages had moved (Line 31)?",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Wayne paced around thinking what to do next. \"You are wearing out the carpet,\" Joey",
+          "2": "told his friend. \"Just stay calm and we will figure out a solution.\" Wayne did not reply,",
+          "3": "deep in thought over the predicament they were in. He glanced at the clock on the",
+          "4": "wall. It had been an hour since their ordeal began and they had run out of options.",
+          "5": "After several minutes of silence, Wayne finally spoke, \"We've got to make a run for",
+          "6": "it with the loot. That's our only choice. We'll take two of them along with us.\" He",
+          "7": "waved his revolver at the group of people huddled at one corner of the room. There",
+          "8": "was a collective gasp from the people as they shuddered at what might happen to them",
+          "9": "next. Joey did not share Wayne's assessment. \"Are you serious? The store is",
+          "10": "completely surrounded by the police. We do not stand a chance once we leave the",
+          "11": "store,\" he said, the fear all too evident in his voice.",
+          "12": "Joey stood up slowly, wiping the sweat from his forehead. He glared at Wayne with a",
+          "13": "look of anxiety mixed with resentment. He knew he should not have gone along with",
+          "14": "his accomplice's plan. \"I should never have listened to you. Look at the mess it has",
+          "15": "landed us in.\" Joey's fear had transformed into anger as he grabbed Wayne by the",
+          "16": "collar with one hand. Taken aback by the sudden aggression, Wayne pushed him away",
+          "17": "instinctively. Joey stumbled, lost his balance and fell backwards. There was a loud",
+          "18": "thud as his head hit the cashier's counter. As Joey's lifeless body slumped to the floor,",
+          "19": "the rifle he had been holding went off without warning. The trigger had inadvertently",
+          "20": "been pulled when he lost grip of it.",
+          "21": "A few of the hostages screamed when the shot rang out. Wayne was momentarily",
+          "22": "stunned as the bullet had missed him only by a few inches and lodged itself in the wall",
+          "23": "behind him. Sensing that this was the opportunity he needed, Keong, the store",
+          "24": "assistant sprang to his feet and charged headlong into Wayne. The impact flung both",
+          "25": "men into the tables that had been stacked against the door by the gunmen. Wayne",
+          "26": "recovered more quickly and immediately threw a punch. Keong was hit squarely on",
+          "27": "the jaw and was knocked unconscious.",
+          "28": "Emboldened by Keong's actions, the other hostages moved towards Wayne. Sensing",
+          "29": "this, Wayne scrambled for his revolver which lay just beside him. Having retrieved it,",
+          "30": "he pointed it at them and threatened, \"Don't come any closer or you will get it.\" The",
+          "31": "hostages immediately froze, realising the consequence if they moved a step closer.",
+          "32": "\"Put that down!\" a voice hollered behind Wayne. Shocked, he slowly turned round to",
+          "33": "see several officers pointing their weapons at him. He knew that the game was up. He",
+          "34": "had not noticed that the police had broken through the barricade during his struggle",
+          "35": "with Keong."
+        },
+        "paragraphs": {
+          "1": "韦恩来回走动，思考下一步该做什么。“你在磨损地毯，”乔伊对他的朋友说。“冷静点，我们会找到解决办法的。”韦恩没有回答，陷入对他们所处困境的沉思。他看了一眼墙上的钟。自他们的苦难开始以来已经过去了一个小时，他们已经无路可走。",
+          "5": "沉默了几分钟后，韦恩终于开口了：“我们必须带着赃物逃跑。那是我们唯一的选择。我们会带他们中的两个人一起走。”他对着蜷缩在房间角落的一群人挥舞着他的左轮手枪。人们集体倒吸了一口凉气，一想到接下来会发生什么就浑身发抖。乔伊并不同意韦恩的评估。“你是认真的吗？商店完全被警察包围了。一旦我们离开商店，我们就没有半点机会，”他说，声音里满是恐惧。",
+          "12": "乔伊慢慢站起身，擦了擦额头上的汗。他瞪着韦恩，眼神里充满了焦虑与怨恨。他知道自己不该盲从这个同伙的计划。“我真不该听你的。看看这把我们带入了怎样的烂摊子。”乔伊的恐惧转化为了愤怒，他用一只手揪住了韦恩的衣领。韦恩被这突如其来的侵犯吓了一跳，本能地推开了他。乔伊踉跄了一下，失去了平衡摔倒在地上。发出一声沉重的闷响，他的头撞在了收银台上。当乔伊毫无生气的身体瘫倒在地上时，他一直拿着的步枪毫无预警地走火了。当他松开手时，扳机被无意中扣动了。",
+          "21": "枪声响起时，几名人质尖叫起来。韦恩瞬间惊呆了，因为子弹只差几英寸就打中了他，并卡在身后的墙里。意识到这是他需要的机会，店员阿强（Keong）一跃而起，迎头冲向韦恩。撞击力将两人推向枪手堆放在门前的桌子上。韦恩恢复得更快，随即挥出一拳。阿强下巴结结实实挨了一拳，被打晕了过去。",
+          "28": "受到阿强行动的鼓舞，其他人质向韦恩围了过来。察觉到这一点，韦恩急忙去拿掉在身旁的左轮手枪。拿回枪后，他指着他们威胁道：“别再靠近，否则有你们好看的。”人质们立刻僵住了，意识到如果再往前走一步的后果。",
+          "32": "“把枪放下！”韦恩身后传来一声大喝。他大吃一惊，缓缓转过身，看到几名警察正用武器指着他。他知道大势已去。他没有注意到警察在自己与阿强搏斗期间已经突破了路障。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "代词指代题",
+          "note": "<ol><li><strong>题型：</strong>指代题。</li><li><strong>分析：</strong>结合前文，第1行明确提到“Wayne paced around... Joey told his friend”，随后第2行说明他们正在寻找解决方案。因此，第4行的“they”指代的就是这两个人。</li><li><strong>得分点：</strong>必须完整写出 Wayne 和 Joey 两人，漏掉任何一人均不得分。</li></ol>",
+          "answer": "Wayne and Joey",
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "身份确认题",
+          "note": "<ol><li><strong>题型：</strong>名词指代题。</li><li><strong>分析：</strong>第7行提到这群人蜷缩在房间角落，随后在第21行和第28行中，这些人被明确称为“hostages（人质）”。</li><li><strong>得分点：</strong>关键词为“hostages（人质）”。</li></ol>",
+          "answer": "The hostages inside the store.",
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "因果推断题",
+          "note": "<ol><li><strong>题型：</strong>细节理解题。</li><li><strong>分析：</strong>根据第9-11行，乔伊说“The store is completely surrounded by the police. We do not stand a chance once we leave the store”，表明他害怕一旦离开就会落入法网。</li><li><strong>得分点：</strong>指出“被警察逮捕/完全没有逃脱机会”。</li></ol>",
+          "answer": "He feared that they would be caught or shot by the police, as the store was completely surrounded.",
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "词义猜测题",
+          "note": "<ol><li><strong>题型：</strong>词汇替换题。</li><li><strong>分析：</strong>第三段第19-20行提到“The trigger had inadvertently been pulled when he lost grip of it.”，这里的“inadvertently”与“not intentionally（非故意地、不经意地）”意思完全吻合。</li><li><strong>得分点：</strong>必须准确拼写出单个词汇“inadvertently”，多写或错拼不得分。</li></ol>",
+          "answer": "inadvertently",
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "事实细节题",
+          "note": "<ol><li><strong>题型：</strong>因果细节分析题（2分）。</li><li><strong>分析：</strong>第21-24行指出，枪声响后，子弹擦过韦恩，韦恩“momentarily stunned（瞬间惊呆了）”。店员阿强正是敏锐地“Sensing that this was the opportunity he needed”才冲上去的。</li><li><strong>得分点：</strong>1分指出“枪声突然响起且子弹差点打中韦恩”；1分指出“韦恩处于极度震惊/分神的状态，无法及时反应”。</li></ol>",
+          "answer": "Keong took advantage of the moment when Wayne was momentarily stunned by the sudden rifle gunshot that had just missed him.",
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "开放性评价题",
+          "note": "<ol><li><strong>题型：</strong>观点阐述题（2分）。</li><li><strong>分析：</strong>此题为开放性问题，但须结合文本逻辑。根据第14-18行，乔伊自己也极其后悔（Look at the mess it has landed us in），且最终因为内讧摔倒在收银台，身体“lifeless（失去生气）”。</li><li><strong>得分点：</strong>1分明确表达观点（如 Yes/I agree）；1分给出基于文本的合理原因（如：该计划导致他违法犯罪、陷入绝境，甚至最终丧命）。</li></ol>",
+          "answer": "Yes, I agree. Listening to Wayne's plan led Joey into a dangerous crime scene, trapped by the police, and ultimately caused his accidental head injury and death.",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "原因解释题",
+          "note": "<ol><li><strong>题型：</strong>事实细节题。</li><li><strong>分析：</strong>根据第6行提到的“make a run for it with the loot（带着赃物逃跑）”以及第25行提到的“gunmen（枪手）”，可以推断出他们来到这家商店是为了实施抢劫。</li><li><strong>得分点：</strong>准确表达出“抢劫”或“盗取财物”的意图即可。</li></ol>",
+          "answer": "They were there to commit a robbery / steal items.",
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "深层理解题",
+          "note": "<ol><li><strong>题型：</strong>心理分析题（2分）。</li><li><strong>分析：</strong>在人质倒吸凉气之前，韦恩刚刚说“We'll take two of them along with us（我们会带他们中的两个人一起走）”并挥舞着左轮手枪。因此，人们害怕的是被当作人质带走，并面临生命危险。</li><li><strong>得分点：</strong>1分扣住“被带走作为逃跑的挡箭牌/人质”；1分扣住“受到枪支威胁/受到身体伤害”。</li></ol>",
+          "answer": "They were afraid that they would be taken along by Wayne and Joey as they made a run for it, and that they might be harmed or killed by Wayne's revolver.",
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "意图推测题",
+          "note": "<ol><li><strong>题型：</strong>行为目的题。</li><li><strong>分析：</strong>第25行提到桌子被“stacked against the door by the gunmen”，而在结尾第34行提到“the police had broken through the barricade”，这说明堆放桌子是为了建立路障，阻挡警察。</li><li><strong>得分点：</strong>提到“阻挡警察”或“防止外面的人进入”。</li></ol>",
+          "answer": "To barricade the entrance and prevent the police from entering the store easily.",
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "假设推导题",
+          "note": "<ol><li><strong>题型：</strong>虚拟结果推断题。</li><li><strong>分析：</strong>第30行韦恩恶狠狠地威胁道：“Don't come any closer or you will get it.”，这里的“get it”在枪支威胁的语境下，意思就是会被子弹射中。</li><li><strong>得分点：</strong>必须指出“会被韦恩开枪射击”这一严重后果。</li></ol>",
+          "answer": "Wayne would have shot them with his revolver.",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Sulin.",
+          "**Write an email to Devi to encourage her to join your team.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the date and venue of the competition",
+          "two reasons you want her to be in your team",
+          "what the winning team can look forward to",
+          "the last day to register for the competition"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Sim,",
+          "My name is Jie and I am from class Primary 6B. I am writing **on behalf of** my class to **seek your permission** to hold a performance for our teachers on 29 October 2021.",
+          "--As-- my classmates and I will be **posted to** our secondary schools in just three months, we would like to do something special for all our teachers to **show our appreciation** for what they have done for us over the last six years.",
+          "Yours sincerely,\nJie Wong"
+        ],
+        "markdown": [
+          "这个关于向校长申请举办感恩表演的正式信函（Situational Writing）是一篇非常标准且展现了极高语言素养的 PSLE 实用文体高分范文。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n* **完美覆盖所有要点**：\n  * **写信目的与日期**：第一段开门见山，代表全班申请在2021年10月29日举办表演（“seek your permission... on 29 October 2021”）。\n  * **举办表演的原因**：三个月后就要毕业并分派到中学，想表达对老师六年教导的感恩（“show our appreciation... over the last six years”）。\n  * **表演人员与形式**：由作者（Jie）、Siti和Dev共同创作一首专门献给老师的歌，并由全班同学一起演唱（“sing it with the rest of our class”）。\n  * **两个其他细节**：细节①是这是一首专为老师创作的歌曲；细节②是希望全校保密，以便给老师们制造一个惊喜（“keep the plan under wraps”）。",
+          "### 2. 完美遵从正式公文的格式与礼仪 (Perfect Formal Register & Tone)\n* **称呼与结语极为得体**：邮件开头使用了正式的 `\"Dear Mr Sim,\"`，结尾使用了尊重的 `\"Yours sincerely,\"` 配合全名 `\"Jie Wong\"`，完全符合写给校长的标准行政书信格式。\n* **语气极具修养**：整封信充满了恳切与尊重。在提出请求时使用了 `\"seek your permission\"`（寻求您的批准），在表达渴望时使用了高级委婉的语气助词 `\"we would like to\"` 和 `\"we would really appreciate it if...\"`，非常得体。",
+          "### 3. 精准使用高级地道习语与固定搭配 (Advanced Vocabulary & Idioms)\n* 文章的词汇密度和地道程度非常抢眼：\n  * 用 `\"on behalf of\"` 精准表达“代表全班”；\n  * 用 `\"dedicated to\"` 表达这首歌是“专门献给”老师的；\n  * 最出彩的是使用了地道高级习语 `\"keep the plan under wraps\"`（对计划进行保密），这让文章的语言质感直接拔高到了 AL1 的顶尖水平。",
+          "### 4. 逻辑顺畅，首尾呼应 (Smooth Transitions & Professional Closing)\n* 段落之间过渡自然。使用 `--As--` 引出背景原因（因为即将毕业、因为想保留惊喜），使得每一个请求都师出有名。\n* 结尾段使用经典的商务/行政书信结语 `\"favourable response\"`（令人满意的答复），展现了极强的应用文写作功底。"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

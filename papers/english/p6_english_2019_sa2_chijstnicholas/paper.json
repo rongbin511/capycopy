@@ -1,0 +1,427 @@
+{
+  "paperid": "p6_english_2019_sa2_chijstnicholas",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Dummy 1 grammer mcq, any option is ok _____.",
+          "options": {
+            "1": "option1",
+            "2": "option2",
+            "3": "option3",
+            "4": "option4"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Dummy 1 vocabulary item: She felt ________ after the long hike.",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "对stem_plain的中文翻译",
+          "note": "对正确option 的解释",
+          "concept": "题型概念-Concept",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "The recruits were told to **Option 1** at the parade square before the inspection."
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "选项2",
+              "eg": "Sales of the toy **Option 2** sharply after reports of a safety defect."
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "选项3",
+              "eg": "Several branches **Option 3** onto the road during last night's thunderstorm."
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "选项4",
+              "eg": "The plans for the rebuilding of the orphanage **Option 4** as there was no donor for the project."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘might have been doing’ 构成情态动词完成进行时，表示对过去正在发生动作的推测。",
+          "answer": "C"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘such as’ 是固定搭配，表示‘例如’、‘诸如’。",
+          "answer": "A"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘be alone’ 意为‘独自一人’，在情态动词 want to 后面用动词原形 be。",
+          "answer": "B"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘Whatever reason’ 引导让步状语短语，表示‘无论出于什么原因’。",
+          "answer": "P"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘apart from’ 是固定介词短语，表示‘与……分开/隔离’。",
+          "answer": "F"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘It’ 代词，用来指代前文提到的隐私（Privacy），作主语。",
+          "answer": "J"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘even your name’ 这里的 even 是副词表示递进，意为‘甚至包括你的名字’。",
+          "answer": "E"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘their online privacy’，物主代词 their 指代前文的复数主语 Computer users（电脑用户们）。",
+          "answer": "M"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘the most important’ 是形容词最高级结构，表示‘最核心/最基础的重要信息’。",
+          "answer": "K"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘on paper’ 是固定介词搭配，表示‘写在纸上’。",
+          "answer": "L"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "as",
+          "B": "be",
+          "C": "been",
+          "D": "can",
+          "E": "even",
+          "F": "from",
+          "G": "her",
+          "H": "in",
+          "J": "it",
+          "K": "most",
+          "L": "on",
+          "M": "their",
+          "N": "the",
+          "P": "whatever",
+          "Q": "with"
+        },
+        "cloze": [
+          "Have you ever put a \"Keep Out\" sign on your bedroom door? You might have [Q29] trying to keep your brother, sister or parents out of your room. Maybe you have something you do not want them to find, such [Q30] a journal or candy. Sometimes, you may want to [Q31] alone to think about something or because you feel sad. For [Q32] reason, you are hoping for privacy.",
+          "Privacy means being apart [Q33] others so that they cannot see or hear you. [Q34] also mean keeping your personal information secret.",
+          "Online privacy means keeping your information - your address, phone number and [Q35] your name - secret from others. Computer users, young and old, need to be smart about [Q36] online privacy to protect their information, their money and themselves. Two of the [Q37] important pieces of information you must not share are your username and password. To help yourself remember these details, write them [Q38] paper. Put the paper in a safe place that only you and your parents know about. Do not tell other people, including your best friend, your username and password."
+        ],
+        "zh": [
+          "你曾在卧室门上贴过“请勿打扰”的牌子吗？你可能一直想把你的兄弟、姐妹或父母挡在房间外面。也许你有什么东西不想让他们发现，比如日记或糖果。有时，你可能想独自一人静静思考，或者因为你感到难过。无论出于什么原因，你都在渴望拥有一份隐私。",
+          "隐私意味着与他人保持一定距离，这样他们就看不到也听不到你说话。它也意味着对你的个人信息保持保密。",
+          "网络隐私意味着让你的信息——你的地址、电话号码甚至你的名字——对他人保密。无论是年轻还是年老的电脑用户，都需要聪明地对待自己的网络隐私，以保护他们自己的信息、金钱以及他们自己。你绝不能分享的两条最重要的信息就是你的用户名和密码。为了帮助你自己记住这些细节，把它们写在纸上。把这张纸放在一个只有你和你的父母知道的安全地方。不要告诉其他人，包括你最好的朋友，你的用户名和密码。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

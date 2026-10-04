@@ -1,0 +1,865 @@
+{
+  "paperid": "p6_english_2019_sa2_taonan",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Dummy 1 grammer mcq, any option is ok _____.",
+          "options": {
+            "1": "option1",
+            "2": "option2",
+            "3": "option3",
+            "4": "option4"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The tired students worked ________ on the difficult project which they had to complete within three days.",
+          "options": {
+            "1": "laboriously",
+            "2": "effortlessly",
+            "3": "gradually",
+            "4": "leisurely"
+          }
+        },
+        "12": {
+          "stem_plain": "The other competitors felt intimidated upon watching the final contestant's ________ performance.",
+          "options": {
+            "1": "straightforward",
+            "2": "lacklustre",
+            "3": "mundane",
+            "4": "dazzling"
+          }
+        },
+        "13": {
+          "stem_plain": "The renowned restaurant had to ________ many disappointed diners due to the long snaking queues.",
+          "options": {
+            "1": "turn in",
+            "2": "turn off",
+            "3": "turn out",
+            "4": "turn away"
+          }
+        },
+        "14": {
+          "stem_plain": "Floods in several areas wreaked havoc on many roads and the traffic had to be ________.",
+          "options": {
+            "1": "altered",
+            "2": "averted",
+            "3": "diverted",
+            "4": "deflected"
+          }
+        },
+        "15": {
+          "stem_plain": "\"I am not going to ________ because I take pride in what I do and will only use the best ingredients,\" said the chef.",
+          "options": {
+            "1": "cut corners",
+            "2": "sit on the fence",
+            "3": "jump on the bandwagon",
+            "4": "bite off more than I can chew"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "疲惫的学生们艰苦地（费力地）在这个困难的项目上工作，他们必须在三天内完成它。",
+          "note": "‘laboriously’ 意为‘艰苦地，费力地’。前文提及 “tired students”（疲惫的学生）以及 “difficult project”（困难的项目），在时间紧迫（within three days）的情况下，他们的工作状态必然是极其艰苦和费力的。",
+          "concept": "副词辨析与神态关联 — Vocabulary — Adverbs",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "laboriously",
+              "zh": "艰苦地，费力地（副词，形容需要付出大量的体力、汗水、长时间的艰苦努力或繁重脑力才能勉强完成某项高难度任务）",
+              "eg": "The researchers laboriously cross-checked thousands of medical documents to find the pattern."
+            },
+            {
+              "opt": "2",
+              "word": "effortlessly",
+              "zh": "毫不费力地（副词，指某人因为技能极其熟练、天赋过人，在完成某项看似困难的任务时表现得轻而易举、毫不费劲）",
+              "eg": "The professional gymnast effortlessly performed the complicated flip on the beam."
+            },
+            {
+              "opt": "3",
+              "word": "gradually",
+              "zh": "逐渐地，逐步地（副词，指某项改变、数量的增长或病情的恢复是在一段较长的时期内，循序渐进、一点一滴发生变化的）",
+              "eg": "The thick winter ice gradually melted away as the warm spring weather returned to the valley."
+            },
+            {
+              "opt": "4",
+              "word": "leisurely",
+              "zh": "从容不迫地，悠闲地（副词，形容由于时间极其充裕、心情放松惬意，而以一种不慌不忙、慢条斯理的节奏散步或做事）",
+              "eg": "The tourists took a leisurely stroll along the scenic riverbank after a satisfying dinner."
+            }
+          ]
+        },
+        "12": {
+          "zh": "看到最后一位参赛者令人赞叹的（耀眼的）表现后，其他竞争对手感到被震慑住了（心虚）。",
+          "note": "‘dazzling’ 意为‘令人赞叹的，耀眼的’。后文提到 “competitors felt intimidated”（对手感到被震慑/害怕），这说明最后一位参赛者的表现极其优秀、惊艳，给他人带来了巨大的心理压力。",
+          "concept": "形容词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "straightforward",
+              "zh": "坦率的，简单的（形容词，指人的性格诚实直爽、说话毫无隐瞒，或形容计划、说明书内容清晰明了、没有任何复杂的陷阱）",
+              "eg": "The assembly instructions for the new desk were so straightforward that anyone could understand them."
+            },
+            {
+              "opt": "2",
+              "word": "lacklustre",
+              "zh": "黯淡无光的，毫无生气的（形容词，指物理上物体表面缺乏光泽，或在抽象意义上形容演讲、表演、经济表现平庸、缺乏热情与新意）",
+              "eg": "The soccer team gave a lacklustre performance in the first half, disappointing their loyal fans."
+            },
+            {
+              "opt": "3",
+              "word": "mundane",
+              "zh": "平凡的，乏味的（形容词，指日常生活、世俗工作等极其普通、千篇一律、缺乏刺激或精神追求，令人感到枯燥无趣）",
+              "eg": "He was tired of his mundane office routine and decided to apply for a creative design position."
+            },
+            {
+              "opt": "4",
+              "word": "dazzling",
+              "zh": "令人赞叹的，耀眼的（形容词，指强光耀眼夺目让人无法直视，或形容美貌、才华、表演技巧极其惊艳、令人叹为观止）",
+              "eg": "The young pianist delivered a dazzling recital that earned her a standing ovation from the crowd."
+            }
+          ]
+        },
+        "13": {
+          "zh": "由于排起了长蛇阵（长队），这家著名的餐厅不得不将许多失望的食客拒之门外。",
+          "note": "‘turn away’ 是短语动词，意为‘（因客满等原因）拒绝入内，拒之门外’。餐厅外排起了长队（long snaking queues），说明店里已经客满，只能委婉拒绝后来食客的入内请求。",
+          "concept": "短语动词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "turn in",
+              "zh": "交出，上交；睡觉（动词短语，指把抓获的犯人、捡到的失物或写好的报告正式上交给官方，在口语中也指上床睡觉）",
+              "eg": "The honest citizen decided to turn in the wallet he found at the bus stop to the police station."
+            },
+            {
+              "opt": "2",
+              "word": "turn off",
+              "zh": "关掉；使反感（动词短语，指通过按开关等动作关闭电视、电灯或水龙头，在抽象意义上指某人的无礼言行令人产生反感）",
+              "eg": "Please remember to turn off the air conditioner before you leave the conference room."
+            },
+            {
+              "opt": "3",
+              "word": "turn out",
+              "zh": "结果是，生产；出席（动词短语，指某件事最终的实际结果竟然是某种情况，或指工厂大批量生产产品，亦指大众前往参加集会）",
+              "eg": "Thousands of enthusiastic fans turned out in the heavy rain to watch the national parade."
+            },
+            {
+              "opt": "4",
+              "word": "turn away",
+              "zh": "拒绝入内，拒之门外（动词短语，特指由于剧院或餐厅已经满座、或者对方不符合特定资格，而拒绝让其进入内部）",
+              "eg": "The concert venue had to turn away hundreds of people who had purchased fake tickets online."
+            }
+          ]
+        },
+        "14": {
+          "zh": "数个地区的洪水在多条道路上引发了混乱，交通不得不被分流（绕道）。",
+          "note": "‘diverted’ 意为‘使（车辆、河流等）改道、分流’。当道路因洪水（Floods）引发混乱或无法通行时，警方和交管部门法定的处理措施就是将车辆交通分流到其他安全的替代路线上（traffic had to be diverted）。",
+          "concept": "动词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "altered",
+              "zh": "改变，修改（动词，指对衣服的尺寸、原本的计划、合同的条款进行局部的调整、修改或变动，使其变得和以前不同）",
+              "eg": "The fashion designer slightly altered the dress to make it fit the model perfectly."
+            },
+            {
+              "opt": "2",
+              "word": "averted",
+              "zh": "转移（视线），避免（动词，指通过及时采取针对性行动成功避免了灾难、战争或危机的爆发，或物理上移开自己的目光）",
+              "eg": "The prompt action of the train driver successfully averted what could have been a catastrophic rail accident."
+            },
+            {
+              "opt": "3",
+              "word": "diverted",
+              "zh": "分流，改道（动词，特指通过设置路障、交通指示牌或命令，强行改变汽车、河流或资金原本既定的行进和流向路线）",
+              "eg": "Flights were diverted to an alternative airport because of the sudden heavy fog over the city."
+            },
+            {
+              "opt": "4",
+              "word": "deflected",
+              "zh": "使偏斜，引开（动词，指物理上通过用坚硬武器或盾牌格挡，使飞来的子弹、足球改变方向，或指技巧性地引开严厉的指责）",
+              "eg": "The defender's boot deflected the fast ball into the net, scoring an accidental own goal."
+            }
+          ]
+        },
+        "15": {
+          "zh": "“我不打算偷工减料（敷衍了事），因为我为自己所做的事感到自豪，并且只会使用最好的食材，”大厨说道。",
+          "note": "‘cut corners’ 是一个极高频的成语（Idiom），字面意思是“切弯角”，实际意思是“偷工减料，图省事而降低质量”。后文提到他“感到自豪（take pride in what I do）”并且“坚持用最好的食材”，构成了正反对比，表明大厨绝对不肯偷工减料。",
+          "concept": "熟语与成语辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cut corners",
+              "zh": "偷工减料，图省事（成语，形象地形容某人为了节省成本、金钱或时间，在做项目或制造商品时投机取巧，省略必要的安全和质量步骤）",
+              "eg": "The construction company tried to cut corners by using cheap, low-quality concrete for the foundation."
+            },
+            {
+              "opt": "2",
+              "word": "sit on the fence",
+              "zh": "骑墙，保持中立（成语，字面意思是坐在篱笆上，用来讽刺某人在面对重大争论、选举或不同立场时，由于害怕得罪人而迟迟不肯表态）",
+              "eg": "When asked to vote for the new office dress policy, Ken chose to sit on the fence and said nothing."
+            },
+            {
+              "opt": "3",
+              "word": "jump on the bandwagon",
+              "zh": "赶浪头，盲目随大流（成语，指某人看到某个时尚潮流、热门产品或政治观点在社会上大火之后，为了自身利益盲目跟风参与进去）",
+              "eg": "As soon as organic foods became popular, many standard food companies jumped on the bandwagon."
+            },
+            {
+              "opt": "4",
+              "word": "bite off more than I can chew",
+              "zh": "贪多嚼不烂，力所不及（成语，字面意思是咬下了超过自己咀嚼能力的食物，极为形象地形容某人一时逞能，承担了自己根本无法胜任的繁重工作）",
+              "eg": "By accepting three massive freelance projects at the same time, she bit off more than she could chew."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "known as",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "titled",
+            "2": "named",
+            "3": "termed",
+            "4": "labelled"
+          }
+        },
+        "17": {
+          "stem_plain": "fled",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "slipped",
+            "2": "expelled",
+            "3": "escaped",
+            "4": "retreated"
+          }
+        },
+        "18": {
+          "stem_plain": "capture",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "arrest",
+            "2": "evasion",
+            "3": "detention",
+            "4": "harassment"
+          }
+        },
+        "19": {
+          "stem_plain": "extraordinary",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "brave",
+            "2": "heroic",
+            "3": "brilliant",
+            "4": "remarkable"
+          }
+        },
+        "20": {
+          "stem_plain": "threw caution to the winds",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "was reckless",
+            "2": "made up his mind",
+            "3": "became desperate",
+            "4": "was at his wits' end"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “known as Temasek”意为被称为、名为淡马锡，此处用被动语态表达名称，与“named（命名为、被称为）”最接近。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "titled",
+              "zh": "冠名为，赋予头衔",
+              "eg": "The book was titled after its main character."
+            },
+            {
+              "opt": "2",
+              "word": "named",
+              "zh": "命名为，被称为",
+              "eg": "The island was named after a famous explorer."
+            },
+            {
+              "opt": "3",
+              "word": "termed",
+              "zh": "被称为（常指学术或特定术语的称呼）",
+              "eg": "This special chemical process is termed oxidation."
+            },
+            {
+              "opt": "4",
+              "word": "labelled",
+              "zh": "贴标签于，归类为",
+              "eg": "He was unfairly labelled as a troublemaker by others."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “fled to safety”指逃往安全地带，与“escaped（逃跑、逃脱）”意思完全相符。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "slipped",
+              "zh": "悄悄溜走，滑倒",
+              "eg": "She slipped out of the backdoor during the loud party."
+            },
+            {
+              "opt": "2",
+              "word": "expelled",
+              "zh": "被驱逐，被开除",
+              "eg": "The foreign diplomats were expelled from the country."
+            },
+            {
+              "opt": "3",
+              "word": "escaped",
+              "zh": "逃跑，逃脱，逃生",
+              "eg": "The little birds escaped from the open wire cage."
+            },
+            {
+              "opt": "4",
+              "word": "retreated",
+              "zh": "撤退，退却",
+              "eg": "The defeated army retreated slowly back across the river."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — 文中指“为了防止被认出并被捕（capture）”，在被敌军或官方抓捕的语境下，名词“arrest（逮捕、拘捕）”是最契合的近义词。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "arrest",
+              "zh": "逮捕，拘捕",
+              "eg": "The police made a swift arrest near the store entrance."
+            },
+            {
+              "opt": "2",
+              "word": "evasion",
+              "zh": "逃避，躲避",
+              "eg": "Tax evasion is considered a very serious crime here."
+            },
+            {
+              "opt": "3",
+              "word": "detention",
+              "zh": "拘留，放学留堂",
+              "eg": "The student was given a one-hour detention for being late."
+            },
+            {
+              "opt": "4",
+              "word": "harassment",
+              "zh": "骚扰",
+              "eg": "The company policies strictly forbid any kind of workplace harassment."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “extraordinary”形容人极其卓越、非凡、引人注目的，与“remarkable（非凡的、值得注意的）”同义。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "brave",
+              "zh": "勇敢的",
+              "eg": "It was brave of him to speak up against injustice."
+            },
+            {
+              "opt": "2",
+              "word": "heroic",
+              "zh": "英雄般的，英勇的",
+              "eg": "The soldiers made a heroic attempt to save the town."
+            },
+            {
+              "opt": "3",
+              "word": "brilliant",
+              "zh": "聪颖的，杰出的，明亮的",
+              "eg": "She came up with a brilliant solution to the problem."
+            },
+            {
+              "opt": "4",
+              "word": "remarkable",
+              "zh": "非凡的，卓越的，引人注目的",
+              "eg": "He showed a remarkable talent for music at a young age."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — 固定习语“threw caution to the winds”意为把顾虑抛诸脑后、不顾危险、鲁莽行事，对应的含义是“was reckless（鲁莽的、不顾后果的）”。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "was reckless",
+              "zh": "鲁莽的，不顾后果的",
+              "eg": "Driving at such a high speed in heavy rain was reckless."
+            },
+            {
+              "opt": "2",
+              "word": "made up his mind",
+              "zh": "下定决心",
+              "eg": "He finally made up his mind to buy the apartment."
+            },
+            {
+              "opt": "3",
+              "word": "became desperate",
+              "zh": "变得绝望，铤而走险",
+              "eg": "As time ran out, the players became desperate for a goal."
+            },
+            {
+              "opt": "4",
+              "word": "was at his wits' end",
+              "zh": "智穷计尽，束手无策",
+              "eg": "Trying to calm the crying baby, the father was at his wits' end."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Many roads in Singapore have a very interesting history. Selegie Road is an example of such a road. It was the location of many great battles in the days when Singapore [Q16(was known as)] Temasek. When Temasek fell in 1377, its last ruler [Q17(fled)] to safety using this road. The ruler was determined to stay safe as he hoped to fight his enemies and rule Temasek again. To prevent recognition and [Q18(capture)], he disguised himself as a woman. Later that night, when darkness set in, the ruler, who was reputed to be [Q19(extraordinary)], took flight and settled in a neighbouring country. In his later years, he [Q20(threw caution to the winds)] and engaged in ferocious battles with the new ruler of Temasek. Unfortunately, he never managed to overthrow the new ruler."
+        ],
+        "zh": [
+          "新加坡的许多道路都有着非常有趣的历史。实里基路就是这样一个道路的例子。在新加坡被称为淡马锡的年代，这里曾是许多重大战役的发生地。1377年淡马锡沦陷时，它的最后一位统治者通过这条路逃往安全地带。这位统治者决心保持安全，因为他希望与敌人作战并再次统治淡马锡。为了防止被认出和被捕，他把自己伪装成一个女人。那天晚上晚些时候，当夜幕降临时，这位被普遍认为非同凡响的统治者逃跑并定居在邻国。在晚年，他不顾一切危险，与淡马锡的新统治者展开了激烈的战斗。不幸的是，他未能成功推翻新统治者。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘More than’ 是固定搭配，表示‘超过’、‘多于’。",
+          "answer": "K"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘a social norm’ 表示‘一种社会规范’，此处应用不定冠词 a。",
+          "answer": "A"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "此处与后面的现在分词 ‘hitting’ 构成现在进行时结构，表示‘正在通过……惩罚顾客’，故选 is。",
+          "answer": "G"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘managed by the NEA’ 过去分词短语作后置定语，表示‘由新加坡国家环境局（NEA）管理的’，用介词 by 表示动作发出者。",
+          "answer": "E"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘in tandem with’ 是固定短语，表示‘与……同时/协同’。",
+          "answer": "P"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘aimed at’ 是固定搭配，表示‘旨在’、‘目的在于’。",
+          "answer": "D"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "句子表达对未来引进该系统后所带来结果的预测，使用一般将来时，选 will。",
+          "answer": "N"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "此处特指来到熟食中心用餐的那些顾客，故使用定冠词 the。",
+          "answer": "L"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘will only have to pay’ 结合上下文语境，表示摊贩‘将只需要’根据使用的餐具数量付费。",
+          "answer": "H"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘according to’ 是固定介词短语，表示‘根据’。",
+          "answer": "M"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "are",
+          "C": "around",
+          "D": "at",
+          "E": "by",
+          "F": "despite",
+          "G": "is",
+          "H": "only",
+          "J": "since",
+          "K": "than",
+          "L": "the",
+          "M": "to",
+          "N": "will",
+          "P": "with",
+          "Q": "would"
+        },
+        "cloze": [
+          "The tray return initiative has not been very successful in Singapore. More [Q29] a decade after the National Environment Agency (NEA) has tried to make returning trays [Q30] social norm, the public still has to be nudged. After various failed attempts and initiatives, the NEA has conceded defeat and [Q31] hitting customers where it hurts - through their wallets.",
+          "Over the next few years, up to twenty hawker centres managed [Q32] the NEA could start charging for food trays. This is in tandem [Q33] the introduction of automated tray-return systems and centralised dish-washing services aimed [Q34] boosting productivity. NEA said, 'The introduction of such a system [Q35] allow cleaners to better focus on table-cleaning, thereby enabling [Q36] customers to have clean tables faster.'",
+          "Stallholders will [Q37] have to pay for these services according [Q38] the amount of crockery and cutlery they need each day. To help them with the transition to a centralised dish-washing system, up to 70% of the operating costs will be co-funded by NEA for an initial period of two years."
+        ],
+        "zh": [
+          "归还托盘的倡议在新加坡并不是很成功。在国家环境局（NEA）努力将归还托盘转变为一种社会规范十多年后，公众仍然需要被督促。在经历了各种失败的尝试和倡议后，NEA承认了失败，并开始在最让他们心疼的地方——通过钱包——来惩罚顾客。",
+          "在接下来的几年里，由国家环境局管理的最多20个熟食中心可能会开始对食物托盘收费。这是与引入自动托盘归还系统和集中洗碗服务同步进行的，旨在提高生产力。国家环境局表示：‘引入这样一个系统将使清洁工能够更好地专注于清洁桌面，从而使顾客能更快地用上干净的桌子。’",
+          "摊贩们将只需要根据他们每天所需的餐具和刀叉数量为这些服务付费。为了帮助他们过渡到集中洗碗系统，在最初的两年内，高达70%的运营成本将由国家环境局共同资助。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 species（名词单复数同形，意为物种）。",
+          "answer": "species"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 tropical（形容词，意为热带的）。",
+          "answer": "tropical"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 diseases（名词，意为疾病）。",
+          "answer": "diseases"
+        },
+        "42": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：“对……采取行动、做些什么”应用短语 do something about，而非 do something for。",
+          "answer": "about"
+        },
+        "43": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处描述蚊子传播病毒这一普遍属性或长期事实，应使用一般现在时形式 transmit，由于先行词 mosquitoes 是复数，故用动词原形。",
+          "answer": "transmit"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 exterminate（动词，意为消灭、根除）。",
+          "answer": "exterminate"
+        },
+        "45": {
+          "concept": "动词不定式 - Infinitives",
+          "note": "动词不定式用法：seems to be 后接动词通常是现在分词构成进行时，或直接用 seems to bother us。结合原句 seems to be bother us，去掉多余的 be 动词，直接用 to bother，或将 bother 改为 bothering，此处改为 bother 表明原句应去掉 be 或者是将 be bother 转换为单数动作，从小升初高频考点来看，通常是去掉 be 还原为 to bother。",
+          "answer": "bother"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 unforeseen（形容词，意为无法预见的、意料之外的）。",
+          "answer": "unforeseen"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 resilient（形容词，意为有韧性的、生命力顽强的）。",
+          "answer": "resilient"
+        },
+        "48": {
+          "concept": "形容词比较级 - Comparatives",
+          "note": "比较级搭配错误：后文出现了比较连词 than，前面的形容词 hardy（强壮的、耐劳的）应用比较级形式 hardier 进行搭配。",
+          "answer": "hardier"
+        },
+        "49": {
+          "concept": "动词不定式 - Infinitives",
+          "note": "固定搭配语境错误：短语 come close to（接近于……）中的 to 是介词，后面需接动名词，因此 killed 应改为 killing。",
+          "answer": "killing"
+        },
+        "50": {
+          "concept": "时态与主谓一致 - Verb Tenses and Agreement",
+          "note": "时态错误：wherever 引导地点状语从句描述普遍规律，主语是复数 the mosquitoes，谓语动词应用一般现在时形式 live，而非过去时/第三人称单数变体形式 lives。",
+          "answer": "live"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mosquitoes are undoubtedly a pain. Numerous [Q39(specees)] can be found buzzing everywhere from the Arctic to [Q40(tropecal)] swamps, bringing with them yellow fever, dengue and other [Q41(diseaces)]. A race is on to find a cure to allow doctors to do something [Q42(for)] mosquito-borne illnesses. Although a possible vaccine is just years away, something needs to be done about the mosquitoes which [Q43(transmitted)] viruses so as to minimise human suffering. However, we need to consider if there could be unintended consequences if we [Q44(extermenate)] these pests whose sole purpose seems to [Q45(be bother)] us. Some scientists worry about how killing them will lead to [Q46(unforseen)] effects. On the other hand, others feel that the [Q47(resilant)] ecosystems of these insects are not only functional but [Q48(hardy)] than we think. In the past, the world might have come close to [Q49(killed)] these bugs by spraying insecticide wherever the mosquitoes [Q50(lives)]. Alas, due to the health risks of these insecticides, their use is being curbed."
+        ],
+        "zh": [
+          "蚊子无疑是一个令人头疼的存在。从北极到[Q40(热带)]沼泽，到处都能听到无数[Q39(物种)]的嗡嗡声，它们带来了黄热病、登革热和其他[Q41(疾病)]。一场旨在寻找治疗方法的竞争正在展开，以便让医生能够[Q42(针对)]蚊媒疾病做点什么。尽管可能面世的疫苗距离我们只有几年的时间，但必须对这些[Q43(传播)]病毒的蚊子采取行动，以尽量减少人类的痛苦。然而，我们需要考虑，如果我们[Q44(消灭)]这些似乎唯一目的就是来[Q45(打扰)]我们的害虫，是否会产生意想不到的后果。一些科学家担心杀死它们会带来[Q46(无法预见的)]后果。另一方面，其他人则认为这些昆虫[Q47(充满韧性的)]生态系统不仅实用，而且比我们想象的[Q48(更具生命力)]。在过去，世界上可能已经通过在蚊子[Q50(生活)]的地方喷洒杀虫剂，从而接近于[Q49(杀死)]这些昆虫。唉，由于这些杀虫剂对健康存在风险，它们的使用正受到限制。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

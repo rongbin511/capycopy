@@ -1,0 +1,1591 @@
+{
+  "paperid": "p6_english_2022_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Mrs Tan gave __________ student in her class a reward for winning the \"Class of the Year\" award in the Kindness campaign.",
+          "options": {
+            "1": "much",
+            "2": "each",
+            "3": "many",
+            "4": "some"
+          }
+        },
+        "2": {
+          "stem_plain": "The hikers used a compass to find __________ way through the thick jungle.",
+          "options": {
+            "1": "its",
+            "2": "his",
+            "3": "her",
+            "4": "their"
+          }
+        },
+        "3": {
+          "stem_plain": "\"__________ are the boys who had bullied me,\" said Ben pointing to some boys at the canteen.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "4": {
+          "stem_plain": "When we arrived, we noticed that everyone __________ anxiously for the famous actress to appear on stage.",
+          "options": {
+            "1": "is waiting",
+            "2": "are waiting",
+            "3": "was waiting",
+            "4": "were waiting"
+          }
+        },
+        "5": {
+          "stem_plain": "If you __________ not __________ on time, the plane will take off.",
+          "options": {
+            "1": "do .... arrive",
+            "2": "did .... arrive",
+            "3": "had .... arrived",
+            "4": "have .... arrived"
+          }
+        },
+        "6": {
+          "stem_plain": "The stranger asked Lily if she __________ the way to the nearest shopping mall.",
+          "options": {
+            "1": "knew",
+            "2": "know",
+            "3": "knows",
+            "4": "had known"
+          }
+        },
+        "7": {
+          "stem_plain": "While Mother __________ in her room, we slipped quietly to the kitchen to have some snacks.",
+          "options": {
+            "1": "sleep",
+            "2": "sleeps",
+            "3": "was sleeping",
+            "4": "has been sleeping"
+          }
+        },
+        "8": {
+          "stem_plain": "He __________ be at the office by now but he is not at his workstation.",
+          "options": {
+            "1": "will",
+            "2": "could",
+            "3": "might",
+            "4": "should"
+          }
+        },
+        "9": {
+          "stem_plain": "Most animals will not attack __________ they are provoked.",
+          "options": {
+            "1": "so",
+            "2": "and",
+            "3": "unless",
+            "4": "because"
+          }
+        },
+        "10": {
+          "stem_plain": "Just keep __________ it and you will find it easier solving these types of questions after a while.",
+          "options": {
+            "1": "at",
+            "2": "by",
+            "3": "in",
+            "4": "on"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "限定词 — each（每个）",
+          "zh": "谭老师给班上每一位学生发了一份奖励，表彰他们在友善活动中赢得'年度最佳班级'。",
+          "note": "应选（2）each：强调'班上每一位学生'各得一份奖励。much 修饰不可数；many 表'许多'非'各一'；some 表'一些'亦不能表达'每人一份'。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "物主代词 — their（他们的）",
+          "zh": "徒步者用指南针在密林中找路。",
+          "note": "应选（4）their：主语 the hikers 为复数，物主代词须用 their 与 way 一致。its 指单数事物；his/her 只对应单数人称。",
+          "answer": "4"
+        },
+        "3": {
+          "concept": "指示代词 — Those（那些）",
+          "zh": "本指着食堂里几个男孩说：'那些就是欺负我的人。'",
+          "note": "应选（4）Those：指着远处（食堂）的多个男孩，用远指复数 those。These 表近处；This/That 为单数。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "过去进行时 — Past continuous",
+          "zh": "我们到达时，注意到大家都在焦急地等待那位著名女演员登台。",
+          "note": "应选（3）was waiting： arrived 为过去，当时正在进行的等待用过去进行时；主语 everyone 作单数用 was。is/are 为现在；were 误把 everyone 当复数。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "第一条件句 — First conditional",
+          "zh": "如果你不能准时到达，飞机就会起飞。",
+          "note": "应选（1）do … arrive：真实将来条件句，if 从句用一般现在时 do not arrive，主句 will take off。did/had 把从句变成过去；have arrived 为现在完成，不符合此句型。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "间接引语 — Reported speech (backshift)",
+          "zh": "陌生人问莉莉是否知道去最近购物中心的路。",
+          "note": "应选（1）knew：主句 asked 为过去，宾语从句时态后移，用 knew。know/knows 为现在；had known 为过去完成，除非原话已是过去完成。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "过去进行时 — Past continuous (background)",
+          "zh": "妈妈在她房间里睡觉时，我们悄悄溜到厨房吃点心。",
+          "note": "应选（3）was sleeping：while 引导过去进行中的背景动作，主句 slipped 为一般过去。sleep/sleeps 为现在；has been sleeping 为现在完成进行，不合此叙事。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "情态动词 — should（理应）",
+          "zh": "他现在本该在办公室，但他并不在工位上。",
+          "note": "应选（4）should：should be by now 表'按理应已经……'的预料，与后文 but he is not 呼应。will 表将来；could/might 只表可能，语气较弱。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "连词 — unless（除非）",
+          "zh": "大多数动物除非被激怒，否则不会攻击。",
+          "note": "应选（3）unless：unless = if not，表'除非被激怒'。because 因果相反；so/and 不能表达此否定条件。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "固定搭配 — keep at it（坚持）",
+          "zh": "只要坚持下去，过一会儿你就会觉得这类题目更容易了。",
+          "note": "应选（1）at：keep at it 为固定短语，意为'坚持做下去'。by/in/on 不能与 keep it 构成此习语。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The parents were discussing their child's results with the teacher when the fire alarm suddenly rang and interrupted their __________.",
+          "marks": null,
+          "options": {
+            "1": "debate",
+            "2": "speech",
+            "3": "argument",
+            "4": "conversation"
+          }
+        },
+        "12": {
+          "stem_plain": "She cannot resist ice cream and cakes because she has a __________.",
+          "marks": null,
+          "options": {
+            "1": "sweet tooth",
+            "2": "pinch of salt",
+            "3": "finger in the pie",
+            "4": "hard nut to crack"
+          }
+        },
+        "13": {
+          "stem_plain": "I have been studying for the past four hours without a break and I am about to collapse with __________.",
+          "marks": null,
+          "options": {
+            "1": "regret",
+            "2": "fatigue",
+            "3": "boredom",
+            "4": "anticipation"
+          }
+        },
+        "14": {
+          "stem_plain": "They __________ in jail after being caught for shoplifting.",
+          "marks": null,
+          "options": {
+            "1": "landed up",
+            "2": "handed up",
+            "3": "washed up",
+            "4": "brought up"
+          }
+        },
+        "15": {
+          "stem_plain": "The chef spent a lot of time creating and perfecting his 'Truly Singaporean' dish. He wanted to __________ the distinguished guests from all over the world.",
+          "marks": null,
+          "options": {
+            "1": "soothe",
+            "2": "impress",
+            "3": "ascertain",
+            "4": "reassure"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "家长们正和老师讨论他们孩子的成绩，这时火警警报突然响起，打断了他们的交谈。",
+          "note": "‘conversation’ 意为‘交谈，谈话’。前半句提到家长与老师在“讨论（discussing）”成绩，这属于一种日常且双向的日常交流状态，最贴切的描述就是交谈（conversation）。",
+          "concept": "名词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "debate",
+              "zh": "辩论，争论（名词，指在公共议会、正式比赛或会议场合中，持截然不同立场的双方针对某个争议政策或特定议题展开的正式语言交锋）",
+              "eg": "The school team won the national debate championship after a fierce argument over environmental policy."
+            },
+            {
+              "opt": "2",
+              "word": "speech",
+              "zh": "演说，演讲（名词，特指某一个人在讲台上、仪式或公众场合，面对广大听众单独进行的长篇、正式的口头叙述或发言）",
+              "eg": "The guest speaker delivered an inspiring speech to the graduates during the commencement ceremony."
+            },
+            {
+              "opt": "3",
+              "word": "argument",
+              "zh": "争吵，论据（名词，指两个人或群体之间由于意见严重不合、情绪失控而爆发的激烈口角争执，或指在学术论文中用来证明观点的核心论据）",
+              "eg": "The two drivers got into a heated argument over who was responsible for the traffic collision."
+            },
+            {
+              "opt": "4",
+              "word": "conversation",
+              "zh": "交谈，谈话（名词，指两个或多个人之间在友好、轻松、非正式的情境下，为了交换想法或了解情况而进行的日常口头交流互动）",
+              "eg": "I had a long, pleasant conversation with my old primary school friend on the phone last night."
+            }
+          ]
+        },
+        "12": {
+          "zh": "她忍不住想吃冰激凌和蛋糕，因为她非常爱吃甜食。",
+          "note": "‘sweet tooth’ 是一个常用成语（Idiom），字面意思是“甜牙齿”，实际意思是“爱吃甜食”。前文提到的 “cannot resist ice cream and cakes”（忍不住想吃冰激凌和蛋糕）是典型的爱吃甜食（have a sweet tooth）的习惯特征。",
+          "concept": "熟语与成语辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sweet tooth",
+              "zh": "爱吃甜食（成语，极为生动形象地形容某人极度喜欢、偏爱巧克力、甜点、蛋糕、糖果等各种高糖甜味食品的饮食习惯）",
+              "eg": "If you have a strong sweet tooth, you will definitely love the premium desserts offered at this bakery."
+            },
+            {
+              "opt": "2",
+              "word": "pinch of salt",
+              "zh": "一丝怀疑，半信半疑（成语，常用在 take something with a pinch of salt 中，指由于了解某人爱吹牛，对其说的话保持警惕与怀疑、不完全相信）",
+              "eg": "You should take his grand travel stories with a pinch of salt because he tends to exaggerate everything."
+            },
+            {
+              "opt": "3",
+              "word": "finger in the pie",
+              "zh": "参与其中，插手（成语，常用在 have a finger in the pie 中，带有贬义或调侃意味，指某人什么事情都要去参与、插手、干涉以分一杯羹）",
+              "eg": "The businessman likes to have a finger in every local pie, investing in restaurants and tech firms alike."
+            },
+            {
+              "opt": "4",
+              "word": "hard nut to crack",
+              "zh": "棘手的问题，难对付的人（成语，字面意思是坚硬难啃的坚果，极为形象地形容某个极其复杂难解的棘手大难题，或意志极坚定、软硬不吃的难对付人物）",
+              "eg": "The detective realized that solving this mysterious financial crime was going to be a hard nut to crack."
+            }
+          ]
+        },
+        "13": {
+          "zh": "我已经连续学习了四个小时没有休息，快要因为精疲力竭而倒下了。",
+          "note": "‘fatigue’ 意为‘精疲力竭，极度疲劳’。前文提及 “studying for the past four hours without a break”（连续学习四个小时没有休息）以及 “about to collapse”（快要倒下），这非常明确地说明高强度的能量消耗带来了生理上的极度劳累（fatigue）。",
+          "concept": "名词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "regret",
+              "zh": "后悔，遗憾（名词，指某人因为过去做错了某项决定、虚度了光阴、或未能对亲友表达心意，而在内心深处产生的一种痛苦惋惜的心理情感）",
+              "eg": "He left the corporate company with a deep sense of regret, wishing he had spent more time on research."
+            },
+            {
+              "opt": "2",
+              "word": "fatigue",
+              "zh": "精疲力竭，极度疲劳（名词，特指由于经历了长时间、高强度的体力劳动、持续的熬夜学习、或者严重的睡眠不足，从而导致的身体和精神上极度虚弱、累得要倒下的状态）",
+              "eg": "The exhausted marathon runner was suffering from muscle fatigue when he finally crossed the finish line."
+            },
+            {
+              "opt": "3",
+              "word": "boredom",
+              "zh": "无聊，枯燥乏味（名词，指人因为当前手头所从事的工作毫无新意、环境一成不变、或者找不到任何感兴趣的事情去做，而在心理上产生的一种烦闷无聊的状态）",
+              "eg": "The children were crying with boredom because the continuous rainy weather forced them to stay indoors all day."
+            },
+            {
+              "opt": "4",
+              "word": "anticipation",
+              "zh": "期待，期盼（名词，指人们在内心深处，带着兴奋、渴望、喜悦或紧张交织的心情，去等待某个即将到来的重大节日、精彩假期或重大事件的发生）",
+              "eg": "The loyal football fans waited outside the stadium gates in eager anticipation of the historic match."
+            }
+          ]
+        },
+        "14": {
+          "zh": "他们在顺手牵羊（商店偷窃）被抓后，最终落得个坐牢的下场。",
+          "note": "‘landed up’ 是短语动词，‘land up in some place/doing something’ 意为‘最终落得…的下场，最终到达某地’。后文提到 “after being caught for shoplifting”（偷窃被抓），这在逻辑上必然导致他们最终关进监狱这一糟糕的最终后果。",
+          "concept": "短语动词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "landed up",
+              "zh": "最终落得…下场，最终到达（动词短语，通常用来形容某人由于一系列错误的选择、不道德的违法行为，而在不曾预料的情况下最终陷入了某种极其糟糕的悲惨处境或场所）",
+              "eg": "If you keep skipping your school classes, you might land up failing the critical final examinations."
+            },
+            {
+              "opt": "2",
+              "word": "handed up",
+              "zh": "递交，呈上（动词短语，指在物理上或者在法庭程序中，将写好的重要法律文件、关键证据、或者是上课完成的作业向上递交给老师或法官审阅）",
+              "eg": "The court assistant collected the files and handed them up to the judge for official evaluation."
+            },
+            {
+              "opt": "3",
+              "word": "washed up",
+              "zh": "冲上海滩；被淘汰，完蛋（动词短语，物理上指海洋潮水将海里的木头、垃圾冲上海岸，在口语比喻中也指某位名人、运动员已经彻底过时、失去了原有的风光与能力）",
+              "eg": "The boxing critics claimed that the aging fighter was completely washed up after his third consecutive defeat."
+            },
+            {
+              "opt": "4",
+              "word": "brought up",
+              "zh": "抚养长大；提出（话题）（动词短语，特指长辈在家庭中辛辛苦苦将幼小的孩子拉扯抚养成人、教育其礼貌，或指在商务会议中突然提出来某个新议题供大家讨论）",
+              "eg": "She was lovingly brought up by her single grandmother in a quiet, traditional countryside village."
+            }
+          ]
+        },
+        "15": {
+          "zh": "主厨花了很多时间创作并完善他的‘地道新加坡’菜肴。他想要给来自世界各地的尊贵客人留下深刻印象。",
+          "note": "‘impress’ 意为‘给…留下深刻印象，使钦佩’。前文提及主厨倾注了极大的心血去“创作并完善（creating and perfecting）”特色菜肴，其主观意图必然是想用卓越的厨艺和美味，让那些世界各地的尊贵来宾（distinguished guests）感到惊艳并大加赞赏。",
+          "concept": "动词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "soothe",
+              "zh": "安抚，缓解（动词，指用温柔体贴的言语或动作去安抚正在嚎啕大哭的婴儿、平息他人极度愤怒的情绪，或者指涂抹药膏来有效缓解皮肤表面灼伤的疼痛）",
+              "eg": "The mother gently rocked the cradle and sang a soft lullaby to soothe her crying baby."
+            },
+            {
+              "opt": "2",
+              "word": "impress",
+              "zh": "留下深刻印象，使钦佩（动词，指通过展现出自己高超的手工技能、杰出的才华、极其优秀的学业表现或高尚的品德，从而让他人对自己产生极大的赞赏、敬佩之情）",
+              "eg": "The young software developer managed to impress the senior executives with his innovative application design."
+            },
+            {
+              "opt": "3",
+              "word": "ascertain",
+              "zh": "查明，弄清（动词，指通过开展周密的科学调查、翻阅大量的原始历史文献、核对确凿的数据，从而彻底查明、弄清楚某个事实真相或背后的客观原因）",
+              "eg": "The fire department investigators are working day and night to ascertain the exact cause of the factory explosion."
+            },
+            {
+              "opt": "4",
+              "word": "reassure",
+              "zh": "使放心，消除疑虑（动词，指通过提供确凿的安全保证、说一些充满信心的话，去帮助那些极度焦虑、担心或受到惊吓的人重新恢复平静、打消内心的疑虑）",
+              "eg": "The experienced pilot turned on the intercom to reassure the passengers during the heavy air turbulence."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "took",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "grabbed",
+            "2": "secured",
+            "3": "detained",
+            "4": "abducted"
+          }
+        },
+        "17": {
+          "stem_plain": "quickened",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "headed",
+            "2": "hastened",
+            "3": "slackened",
+            "4": "accelerated"
+          }
+        },
+        "18": {
+          "stem_plain": "looked hard",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "peek",
+            "2": "stared",
+            "3": "glanced",
+            "4": "squinted"
+          }
+        },
+        "19": {
+          "stem_plain": "in vain",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "futile",
+            "2": "feeble",
+            "3": "fertile",
+            "4": "frequent"
+          }
+        },
+        "20": {
+          "stem_plain": "throw in the towel",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "give in",
+            "2": "give up",
+            "3": "give off",
+            "4": "give away"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — took（拿取）",
+          "note": "动词 took 在此处指“随手抓起、一把带上”渔网。动词 grabbed 意为抓起、一把夺过，在描写日常随手拿起物品的动态神态时最接近。",
+          "zh": "洗漱后他抓起渔网出发了。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "grabbed",
+              "zh": "抓起，一把夺过",
+              "eg": "He quickly grabbed his fishing net from the counter and went off to the river."
+            },
+            {
+              "opt": "2",
+              "word": "secured",
+              "zh": "获得，固定牢固，确保安全",
+              "eg": "The rescue workers carefully secured the heavy rope to the sturdy wooden post."
+            },
+            {
+              "opt": "3",
+              "word": "detained",
+              "zh": "扣留，拘留，耽搁",
+              "eg": "The security guard detained the suspicious suspect near the entrance gate for questioning."
+            },
+            {
+              "opt": "4",
+              "word": "abducted",
+              "zh": "绑架，诱拐",
+              "eg": "The local police reported that a young child was abducted from the crowded amusement park."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — quickened（加快）",
+          "note": "动词 quickened 意为加快（脚步/速度）。不及物动词 hastened 意为赶紧、加速，常用于 hasten one's steps（加快脚步）这一学术高频搭配中，是其直接代换考点。",
+          "zh": "他加快脚步沿河岸走向更深的水域。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "headed",
+              "zh": "朝……方向行进（常与 towards/for 连用）",
+              "eg": "The professional fishermen headed towards the deeper waters to find a larger catch."
+            },
+            {
+              "opt": "2",
+              "word": "hastened",
+              "zh": "加快，赶紧，催促",
+              "eg": "He hastened his steps down the riverbank when he noticed the heavy clouds gathering."
+            },
+            {
+              "opt": "3",
+              "word": "slackened",
+              "zh": "放慢，减缓，松弛",
+              "eg": "The exhausted marathon runner slackened his pace as he approached the steep mountain path."
+            },
+            {
+              "opt": "4",
+              "word": "accelerated",
+              "zh": "加速，促进（多指车辆、机械或社会进程等加速）",
+              "eg": "The driver pressed the gas pedal and the car accelerated smoothly on the highway."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — looked hard（仔细看）",
+          "note": "短语 looked hard 意为专注地凝视、一动不动地盯着看。动词 stared 意为凝视、注视，能精准复现长时间、目不转睛观察某处的视觉神态。",
+          "zh": "Jae 坐在大石头上凝视着河面，在那里待了好一会儿。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "peek",
+              "zh": "偷看，窥视（作动词/名词，通常指透过缝隙快速一瞥）",
+              "eg": "The curious little boy tried to peek through the tiny keyhole of the studio door."
+            },
+            {
+              "opt": "2",
+              "word": "stared",
+              "zh": "凝视，注视，盯着看",
+              "eg": "Jae sat on the rock and stared at the river for a while, hoping to spot a fish."
+            },
+            {
+              "opt": "3",
+              "word": "glanced",
+              "zh": "（粗略地）瞥一眼，扫视",
+              "eg": "He glanced at his watch anxiously when his teammate failed to arrive on time."
+            },
+            {
+              "opt": "4",
+              "word": "squinted",
+              "zh": "眯着眼睛看（通常因光线太强或看不清）",
+              "eg": "She squinted at the bright sun while walking along the unprotected sandy beach."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — in vain（徒劳）",
+          "note": "介词短语 in vain 意为徒劳地、白费劲地。形容词 futile 意为徒劳的、无用的、枉费心机的，直接契合事倍功半、毫无结果的语义考点。",
+          "zh": "他的努力全都白费，一条鱼也没抓到。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "futile",
+              "zh": "徒劳的，无用的，毫无效果的",
+              "eg": "All his efforts to repair the badly damaged computer server proved completely futile."
+            },
+            {
+              "opt": "2",
+              "word": "feeble",
+              "zh": "微弱的，无力的，虚弱的",
+              "eg": "The supervisor made a feeble attempt to explain why the site data was deleted."
+            },
+            {
+              "opt": "3",
+              "word": "fertile",
+              "zh": "肥沃的，多产的，能生育的",
+              "eg": "The farmers grew organic crops successfully in the fertile soil along the river basin."
+            },
+            {
+              "opt": "4",
+              "word": "frequent",
+              "zh": "频繁的，经常的",
+              "eg": "The prominent researcher made frequent visits to the university laboratory throughout the term."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — throw in the towel（放弃）",
+          "note": "固定习语 throw in the towel 意为半途而废、宣布认输并放弃。这在词义辨析题型中，直接对标高频短语 give up（放弃，停止尝试）。",
+          "zh": "最终他决定放弃，空手而归，失望又饿着肚子回家。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "give in",
+              "zh": "屈服，让步，妥协",
+              "eg": "After hours of intense arguing, the committee finally gave in to the manager's proposal."
+            },
+            {
+              "opt": "2",
+              "word": "give up",
+              "zh": "放弃，认输，停止努力",
+              "eg": "Eventually he decided to give up his search for a catch and head home empty-handed."
+            },
+            {
+              "opt": "3",
+              "word": "give off",
+              "zh": "散发（光、热、气味或气体等）",
+              "eg": "The rare tropical plant gives off a sweet and pleasant smell early in the morning."
+            },
+            {
+              "opt": "4",
+              "word": "give away",
+              "zh": "赠送，分发，泄露（秘密）",
+              "eg": "She decided to give away her old reference books to the local primary school library."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was dawn when Jae woke up. After washing up, he [Q16 (took)] his net and went off. He trudged his way across the seaweed and driftwood along the riverbank. With a thumping heart, he bent over and found that there were no fish in the shallow part of the river. He [Q17 (quickened)] his steps down the riverbank towards the deeper waters.",
+          "He spent the morning scooping up water from different parts of the river, but he still could not catch any fish. He decided to take a break. Jae sat on a big rock and [Q18 (looked hard)] at the river. He remained there for a while. Then, he tried again to find some fish. His efforts were [Q19 (in vain)]. Eventually, he decided to [Q20 (throw in the towel)]. Jae went home feeling disappointed with an empty stomach."
+        ],
+        "zh": [
+          "",
+          ""
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Anthony and Betty Tan got the inspiration to set up Soft Toy Hospital from __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "their mother",
+            "2": "a pair of Japanese siblings",
+            "3": "the concept of a soft toy hospital",
+            "4": "their favourite childhood soft toys"
+          }
+        },
+        "22": {
+          "stem_plain": "In the second paragraph of **'About Us'**, the **'experience'** refers to __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "maintaining the condition of your soft toy",
+            "2": "getting your favourite soft toy fixed by your mother",
+            "3": "replacing a soft toy from your childhood with a new one",
+            "4": "witnessing your old soft toy returning to its original state"
+          }
+        },
+        "23": {
+          "stem_plain": "Why are arrows (→) used in the section **'How to get your soft toys treated by our professional doctors?'**",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to list information on where to get your soft toys treated",
+            "2": "to modify information on where to get your soft toys treated",
+            "3": "to organise information on where to get your soft toys treated",
+            "4": "to sequence information on where to get your soft toys treated"
+          }
+        },
+        "24": {
+          "stem_plain": "Mr Lee requires a few buttons to be stitched back onto his soft toy by a professional doctor. According to the flyer, he should __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "get an online consultation first",
+            "2": "book an appointment for a house call",
+            "3": "send his soft toy to the hospital immediately",
+            "4": "send Soft Toy Hospital a message on Facebook"
+          }
+        },
+        "25": {
+          "stem_plain": "Which departments will help to maintain the hygiene of a soft toy and prevent it from having bed bugs?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Aesthetic Surgery and Maintenance",
+            "2": "Disease Management and Maintenance",
+            "3": "General Surgery and Disease Management",
+            "4": "Disease Management and Aesthetic Surgery"
+          }
+        },
+        "26": {
+          "stem_plain": "The hospital does not have a standard price list for the following possible reasons **except** __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "every soft toy is special",
+            "2": "different doctors will quote different prices",
+            "3": "there are too many factors that affect the treatment cost",
+            "4": "the treatment cost depends on the condition of the soft toy"
+          }
+        },
+        "27": {
+          "stem_plain": "Sally was a first-time customer who liked and shared Soft Toy Hospital's Facebook page and left a review on 8 August 2022. What will she receive?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "10% off spa services only",
+            "2": "a limited-edition teddy bear only",
+            "3": "10% discount for any treatment only",
+            "4": "a limited-edition bear and 10% off spa services"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this flyer?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to inspire people to set up a soft toy hospital",
+            "2": "to encourage people not to dispose their old soft toys",
+            "3": "to attract people to get their soft toys treated at the hospital",
+            "4": "to introduce the professional doctors to the people at the hospital"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        },
+        "26": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        },
+        "27": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "against",
+          "D": "as",
+          "G": "despite",
+          "K": "is",
+          "N": "of",
+          "B": "although",
+          "E": "before",
+          "H": "during",
+          "L": "moreover",
+          "P": "since",
+          "C": "among",
+          "F": "besides",
+          "J": "himself",
+          "M": "nevertheless",
+          "Q": "was"
+        },
+        "cloze": [
+          "The Eiffel Tower is the most famous landmark in Paris, France. [Q29] it was criticised by the public when it was built, it is one [Q30] the most recognisable structures in the world today.",
+          "The 330-metre high monument was completed in March 1889. Since then, it has welcomed nearly seven million tourists yearly. The iron structure [Q31] connected by 2.5 million rivets and expands [Q32] summer, causing it to increase in height by more than ten centimeters.",
+          "Gustave Eiffel, the designer of the tower, built [Q33] a place to live in on the top level of the tower. This apartment had not been used [Q34] Eiffel's death until it was opened for public viewing in 2015. [Q35] two wind turbines, a system to reuse rainwater in the tower's toilet was installed to make the Eiffel Tower more environmentally friendly.",
+          "The Eiffel Tower was originally painted dark red [Q36] it was re-painted yellow. Today, it is painted bronze and it gets a new coat of paint every few years.",
+          "Every evening, 20,000 light bulbs light up the Eiffel Tower [Q37] the night sky. It is a mesmerising and an attractive sight. [Q38] it looks beautiful in the day as well. Visiting the Eiffel Tower in the day is a completely different experience as compared to visiting it at night."
+        ],
+        "zh": [
+          "埃菲尔铁塔是法国巴黎最著名的地标。虽然建成时曾遭公众批评，如今它却是世界上最具辨识度的建筑之一。",
+          "这座高 330 米的纪念碑于 1889 年 3 月竣工。此后每年接待近七百万游客。铁塔的钢铁结构由二百五十万颗铆钉连接，在夏季会热胀，高度增加超过十厘米。",
+          "铁塔设计师古斯塔夫·埃菲尔在塔顶为自己建造了一处住所。这套公寓自埃菲尔去世以来一直未使用，直到 2015 年才对外开放参观。除两座风力涡轮机外，铁塔厕所还安装了雨水回收系统，使埃菲尔铁塔更加环保。",
+          "埃菲尔铁塔最初漆成深红色，之后才改漆成黄色。如今它漆成青铜色，每隔几年就会重新粉刷一层。",
+          "每晚两万盏灯泡照亮埃菲尔铁塔，映衬在夜空之中，景象迷人动人。尽管如此，它在白天同样美丽。白天参观与夜间参观是完全不同的体验。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "让步连词 — although（虽然）",
+          "note": "<p>句首 <em>Although it was criticised by the public when it was built</em> 引导让步从句：'虽然建成时遭公众批评'，与主句'如今却是世界最知名建筑之一'形成对比。词库中 <span class=\"hl-bad\">despite / nevertheless</span> 不能在此位置引导完整从句（<em>despite</em> 后接名词/动名词）。故填'<strong>B — although</strong>'。</p>",
+          "answer": "B — although"
+        },
+        "30": {
+          "concept": "固定搭配 — one of the …",
+          "note": "<p><em>one of the most recognisable structures</em> 为固定结构'最……的……之一'，中间须用介词 <span class=\"hl-good\">of</span> 连接最高级与名词复数概念。故填'<strong>N — of</strong>'。</p>",
+          "answer": "N — of"
+        },
+        "31": {
+          "concept": "主谓一致 — is（系动词）",
+          "note": "<p><em>The iron structure is connected by 2.5 million rivets</em>：主语 <em>The iron structure</em> 为单数，被动结构谓语用 <span class=\"hl-good\">is</span>，不用 <span class=\"hl-bad\">was</span>（叙述一般事实）。故填'<strong>K — is</strong>'。</p>",
+          "answer": "K — is"
+        },
+        "32": {
+          "concept": "介词 — during（在……期间）",
+          "note": "<p><em>expands during summer</em> 表示铁塔'在夏季期间'因热胀而增高，<span class=\"hl-good\">during</span> 引出时间段。故填'<strong>H — during</strong>'。</p>",
+          "answer": "H — during"
+        },
+        "33": {
+          "concept": "反身代词 — himself",
+          "note": "<p><em>Gustave Eiffel built himself a place to live in</em> 中 <span class=\"hl-good\">himself</span> 作间接宾语，表'为自己'在塔顶建住所。故填'<strong>J — himself</strong>'。</p>",
+          "answer": "J — himself"
+        },
+        "34": {
+          "concept": "介词 — since（自……以来）",
+          "note": "<p><em>had not been used since Eiffel's death until it was opened in 2015</em>：<em>since</em> 引出起点'自埃菲尔去世以来'一直未使用，直到 2015 年才开放。故填'<strong>P — since</strong>'。</p>",
+          "answer": "P — since"
+        },
+        "35": {
+          "concept": "连接副词 — besides（此外）",
+          "note": "<p>句首 <em>Besides two wind turbines</em> 表'除了两座风力涡轮机之外，还安装了……'，<span class=\"hl-good\">besides</span> 引出附加措施。故填'<strong>F — besides</strong>'。</p>",
+          "answer": "F — besides"
+        },
+        "36": {
+          "concept": "时间连词 — before（在……之前）",
+          "note": "<p><em>was originally painted dark red before it was re-painted yellow</em> 表时间先后：先漆深红，<span class=\"hl-good\">before</span> 再漆成黄色。故填'<strong>E — before</strong>'。</p>",
+          "answer": "E — before"
+        },
+        "37": {
+          "concept": "介词 — against（映衬/对照）",
+          "note": "<p><em>light up the Eiffel Tower against the night sky</em> 中 <span class=\"hl-good\">against</span> 表示灯光在'夜空背景'映衬下格外醒目。故填'<strong>A — against</strong>'。</p>",
+          "answer": "A — against"
+        },
+        "38": {
+          "concept": "转折副词 — nevertheless（尽管如此）",
+          "note": "<p>前句写夜间灯光迷人，本句 <em>Nevertheless, it looks beautiful in the day as well</em> 转折补充'白天同样美丽'。故填'<strong>M — nevertheless</strong>'。</p>",
+          "answer": "M — nevertheless"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mr Yuichiro Miura is a Japanese adventurer. At the age of 80, he succeeded in reaching the [Q39(sumit)] of Mount Everest for the third time, making him the world's oldest person to do so. His journey to that peak [Q40(is)] marked by a series of unprecedented hardships.",
+          "After climbing Mount Everest for the second time at the age of 75, he decided he [Q41(will)] make a third attempt at the age of 80. However, the following year, he landed hard in an awkward angle after a ski jump and broke five bones, including his thigh bone [Q42(or)] pelvis. Doctors told him that he would have to be [Q43(confine)] to a wheelchair. Still, Mr Miura's determination was unwavering. \"I will [Q44(definately)] recover. I'm going to heal and climb\" again. With this resolve in mind, he followed a daily [Q45(rehabillitation)] regime closely and after three years, he fully recovered. He had completely overcome a situation [Q46(who)] was considered irreversible.",
+          "However, Mr Miura was again beset by [Q47(dificultes)] . With only four months left [Q48(after)] he departed for Mount Everest, a chronic illness, arrhythmia, [Q49(recured)] , forcing him to undergo two operations. It was considered impossible for him to climb. But he set off for the Himalayas without changing his plans. It was a decision that [Q50(suprised)] everyone. When he finally reached the peak of Mount Everest, he felt a surging sense of accomplishment."
+        ],
+        "zh": [
+          "三浦雄一郎是日本探险家。80岁时他第三次成功登顶珠穆朗玛峰，成为登顶该峰最年长者。他登上这座山峰的历程伴随着一系列前所未有的艰难。",
+          "75岁第二次登顶后，他决心在80岁进行第三次尝试。然而翌年他在跳台滑雪着陆时姿势不当，摔断了五处骨头，包括大腿骨和骨盆。医生说他可能只能坐轮椅。但三浦的决心坚定不移：“我一定会康复。我要养好身体再攀登。”怀着这一信念，他严格执行每日康复计划，三年后完全康复，战胜了被认为无法逆转的境况。",
+          "然而，三浦再次遭遇困难。在他出发前往珠穆朗玛峰只剩四个月时，慢性心律失常复发，迫使他接受两次手术。人们认为他已无望再攀。但他仍按计划前往喜马拉雅，这一决定令所有人惊讶。当他最终站在珠峰之巅时，他感到一股强烈的成就感。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "summit"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "was"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "would"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "and"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "confined"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "definitely"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "rehabilitation"
+        },
+        "46": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "which"
+        },
+        "47": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "difficulties"
+        },
+        "48": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "before"
+        },
+        "49": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "recurred"
+        },
+        "50": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "surprised"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The National Environment Agency (NEA) has found a unique way of fighting dengue in Singapore. About 200 million Wolbachia-Aedes mosquitoes [Q51] been bred at the NEA's \"mosquito factory\" since it was [Q52] in 2019. These mosquitoes were then [Q53] in certain areas of the island.",
+          "This is part of the agency's fight against dengue in the Republic. [Q54], it will be some time before Project Wolbachia expands to other parts of the island as time is needed to improve the method of releasing these mosquitoes on the island. \"The agency also needs [Q55] develop the relevant technology,\" said senior scientist Deng Lu.",
+          "Mr Deng, in his weekly update to the press said that [Q56] 1.5 to 2 million of these mosquitoes are released every week as part of Project Wolbachia. This project [Q57] releasing male Wolbachia-Aedes mosquitoes to control the overall Aedes mosquito population, which [Q58] the primary cause of dengue being prevalent in Singapore.",
+          "The male Wolbachia-Aedes mosquitoes do not [Q59] the dangerous disease. When they [Q60] with female Aedes mosquitoes, the eggs that have been laid do not [Q61]. This entire process will eventually reduce the number of Aedes mosquitoes here in Singapore. Since the project was launched in 2016, it has gone [Q62] five stages of field studies with mosquitoes being released in more areas around the island.",
+          "In an interview, Mr Deng was asked why dengue has not yet [Q63] eradicated from the shores of Singapore despite the [Q64] of Project Wolbachia. Mr Deng said, \"Although we have very good mosquito population suppression and dengue suppression techniques, we're only covering a limited area. For a greater impact, we need more resources in [Q65] to scale up the population of the Wolbachia mosquitoes and release more of them on the island. But this is not an easy task,\" he added."
+        ],
+        "zh": [
+          "国家环境局（NEA）找到了一种在新加坡对抗骨痛热症（登革热）的独特方法。自2019年国家环境局的“蚊子工厂”落成以来，已经培育了约2亿只沃尔巴克氏菌伊蚊。这些蚊子随后被释放在岛上的特定区域。",
+          "这是该机构在我国抗击骨痛热症行动的一部分。然而，沃尔巴克氏菌项目还需要一段时间才能扩展到岛上的其他地区，因为改进在岛上释放这些蚊子的方法需要时间。高级科学家邓璐表示：“该机构还需要开发相关技术。”",
+          "邓先生在每周的新闻发布会上表示，作为沃尔巴克氏菌项目的一部分，每周大约释放150万至200万只这类蚊子。该项目涉及释放雄性沃尔巴克氏菌伊蚊，以控制整体伊蚊种群，而伊蚊正是新加坡骨痛热症流行的主要原因。",
+          "雄性沃尔巴克氏菌伊蚊并不会传播这种危险的疾病。当它们与雌性伊蚊交配时，所产下的卵不会孵化。整个过程最终将减少新加坡境内的伊蚊数量。自2016年该项目启动以来，已经历了五个阶段的实地考察，释放蚊子的范围也覆盖了岛上更多地区。",
+          "在一次采访中，邓先生被问到，尽管实施了沃尔巴克氏菌项目，为什么骨痛热症尚未从新加坡绝迹。邓先生说：“虽然我们拥有非常出色的种群抑制和疫情抑制技术，但我们覆盖的范围有限。为了产生更大的影响，我们需要更多资源来扩大沃尔巴克氏菌蚊子的种群数量，并在岛上释放更多蚊子。但这并不是一项简单的任务。”"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "现在完成时被动语态助动词",
+          "note": "主语为复数名词 Wolbachia-Aedes mosquitoes（沃尔巴克氏伊蚊），且后文有表示动作持续的 since 引导的时间状语。指约两亿只蚊子“已被培育”出来，故填入复数现在完成时助动词 have（构成 have been bred 结构）。",
+          "answer": "have"
+        },
+        "52": {
+          "concept": "一般过去时被动语态",
+          "note": "前面有助动词 was，此处需要填入过去分词构成被动语态。指代前文的单数名词“蚊子工厂（mosquito factory）”于2019年被“建立”、“启用”或“开设”，故填 opened / set / established / launched / built（此处 opened 或 set up 的分词 set 最自然）。",
+          "answer": "opened/set/established/launched/built"
+        },
+        "53": {
+          "concept": "被动语态动词语意与复现",
+          "note": "前面有助动词 were，后接过去分词。结合全篇大规模放飞蚊子的灭蚊科学大主题，以及后文 56 空出现的 released 复现提示，指这些培育出的蚊子随后在特定区域被“释放”或“放飞”，故填 released / freed / let。",
+          "answer": "released/freed/let"
+        },
+        "54": {
+          "concept": "篇章逻辑转折连词",
+          "note": "位于句首且后面有逗号隔开。前文写放飞蚊子卓有成效，后文突然话锋一转，指出要把该项目推广到全岛各处仍需要相当长的一段时间。前后句存在明显的转折逻辑，可填入转折连词 However 或者是 Yet。位于句首需大写。",
+          "answer": "However/Yet"
+        },
+        "55": {
+          "concept": "动词不定式符号",
+          "note": "与前面的动词 needs 完美组合，后接动词原形 develop。完美契合高频核心搭配 need to do something，表示该机构也“需要去”研发相关的配套技术。",
+          "answer": "to"
+        },
+        "56": {
+          "concept": "约数限定词/副词",
+          "note": "修饰后面的数量范围 1.5 to 2 million。用来表示每周释放的蚊子数量只是一个“大约的”或“模糊的”估算，填入副词 about / around / approximately 均符合科学说明文规范。",
+          "answer": "about/around/approximately"
+        },
+        "57": {
+          "concept": "主谓一致与动词语意",
+          "note": "主语为单数名词短语 This project，本句陈述客观存在的项目运行内容，需用一般现在时。后接动名词短语 releasing...，指该项目“包含（involves/includes）”、“需要（requires/demands）”或“测试（tests）”放飞雄蚊这一核心步骤，动词需用单三形式。",
+          "answer": "involves/includes/requires/demands"
+        },
+        "58": {
+          "concept": "定语从句主谓一致与系动词",
+          "note": "由关系代词 which 引导的限定性定语从句，修饰表示整体和单数概念的整体先行词 population。在从句中充当主语，结合后文的单数表语 the primary cause（主要原因），此处必须填入单数现在时系动词 is。",
+          "answer": "is"
+        },
+        "59": {
+          "concept": "助动词后的动词原形搭配",
+          "note": "前面有否定助动词 do not，后面必须接动词原形。在探讨病原体传播的医学场景下，指这些被改造的雄蚊本身并不会“携带”、“传播”或“引起”危险的登革热病毒，完美契合专属动宾搭配 carry / transmit / spread / cause / catch。",
+          "answer": "carry/transmit/spread/cause/catch"
+        },
+        "60": {
+          "concept": "条件从句动词原形",
+          "note": "在 when 引导的条件状语从句中，主语为复数代词 they（指代雄蚊），后接介词短语 with female Aedes mosquitoes。在昆虫繁殖的特定语境下，指当它们与雌蚊进行“交配（mate）”或“繁殖（breed/reproduce）”时，故填动词原形。",
+          "answer": "mate/breed/reproduce"
+        },
+        "61": {
+          "concept": "助动词后的动词原形与场景呼应",
+          "note": "前面有否定助动词 do not，后面接动词原形。修饰主语名词 eggs（卵）。指通过基因阻断技术，导致雌蚊后续产下的这些卵完全无法“孵化（hatch）”或“存活（survive/grow）”，从而在根本上斩断蚊子种群数量，故填入动词原形。",
+          "answer": "hatch/survive/grow"
+        },
+        "62": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的过去分词 has gone 完美组合。构成在各类科学实验和阶段复盘主题中极其高频考查的经典习惯短语 go through，表示自启动以来，该项目已经“经历”或“完成了”五个阶段的野外实地研究。",
+          "answer": "through"
+        },
+        "63": {
+          "concept": "现在完成时被动语态助动词",
+          "note": "在特殊疑问句结构中，前面有完成时助动词 has not yet，后面紧跟过去分词 eradicated。此处必须填入被动语态的标志性复核助动词 been，构成 has not yet been eradicated 结构，指代登革热为什么尚未被完全“根除”。",
+          "answer": "been"
+        },
+        "64": {
+          "concept": "名词语意与场景呼应",
+          "note": "由定冠词 the 引导，后接介词短语 of Project Wolbachia。指尽管该灭蚊计划已经顺利“实施（implementation）”、“启动/推出（launch/start/inception）”或“开展（success/deployment）”，传染病仍未绝迹，故填名词形式。",
+          "answer": "launch/start/implementation/deployment/inception/success"
+        },
+        "65": {
+          "concept": "经典句型固定搭配",
+          "note": "与其前置的介词 in 以及后置的不定式符号 to scale up 完美结合。构成全行业、各类书面语体中极高频出现、用于表达核心目的的专属经典句式 in order to，意为“为了/以便”扩大这些蚊子的培育规模。",
+          "answer": "order"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "I was late for my Science lesson. The school bus had a flat tyre.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ so __________"
+        },
+        "67": {
+          "stem_plain": "James asked his mother, \"May I have pizza for dinner tonight?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "James asked his mother __________"
+        },
+        "68": {
+          "stem_plain": "The mischievous cat scampered away when it saw its owner enter the room.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ upon __________"
+        },
+        "69": {
+          "stem_plain": "The judges had a long discussion before they decided on the champion.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ after __________"
+        },
+        "70": {
+          "stem_plain": "In dealing with the challenge, Aaron showed his resilience.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The way Aaron __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "连词 — So（因果合并两句）",
+          "zh": "校车爆胎了，所以我科学课迟到了。",
+          "note": "因果合并：两句用 <em>so</em> 连接；原因在前 <em>The school bus had a flat tyre</em>，结果在后 <em>I was late …</em>。",
+          "answer": "The school bus had a flat tyre so I was late for Science lesson."
+        },
+        "67": {
+          "concept": "间接引语 — Reported speech (yes/no question)",
+          "zh": "詹姆斯问母亲他那天晚上是否可以吃比萨当晚餐。",
+          "note": "间接引语：一般疑问句用 <em>if</em>；<em>May I</em> → <em>he might</em>；<em>tonight → that night</em>。",
+          "answer": "James asked his mother if he might have pizza for dinner that night."
+        },
+        "68": {
+          "concept": "分词短语 — Upon + gerund",
+          "zh": "那只好动的猫一看见主人进屋就跑开了。",
+          "note": "分词短语：<em>when</em> 从句改为 <em>upon + V-ing</em>；<em>upon seeing its owner enter the room</em>。",
+          "answer": "The mischievous cat scampered away upon seeing its owner enter the room."
+        },
+        "69": {
+          "concept": "分词短语 — After + perfect gerund",
+          "zh": "裁判们经过长时间讨论后决定了冠军。",
+          "note": "分词短语：<em>before</em> 改为 <em>after having + 过去分词</em>；<em>after having a long discussion</em>。",
+          "answer": "The judges decided on the champion after having a long discussion."
+        },
+        "70": {
+          "concept": "名词短语 — The way … showed（名词化）",
+          "zh": "艾伦应对挑战的方式显示了他的韧性。",
+          "note": "名词化：<em>In dealing with …</em> 改为 <em>The way … dealt with …</em> 作主语；谓语 <em>showed his resilience</em>。",
+          "answer": "The way Aaron dealt with the challenge showed his resilience."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "From the first paragraph, pick out a four-word phrase that suggests that the narrator's presence in the barnyard was acceptable to Fluff.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "In paragraph 2, state two examples of **'acts of intimidation'** by Fluff.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "From lines 17-22, how did Fluff show that she continued to be anxious in the presence of people?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on lines 23-28, what was the purpose behind Fluff's attack?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Based on the passage, state whether each statement in the table below is True or False, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The narrator gave the hen the name Fluff based on her red mottled feathers.",
+                "(b) The narrator was excited about the hatching.",
+                "(c) The tomcat struck Fluff before she could react."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q75a]",
+                "[Q75c]",
+                "[Q75e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q75b]",
+                "[Q75d]",
+                "[Q75f]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **little fluffy bundles** (line 13)",
+                "(b) **something** (line 32)",
+                "(c) **one** (line 48)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Based on the passage, state the corresponding cause and effect listed in the table below.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Cause",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]"
+              ]
+            },
+            "col_2": {
+              "header": "Effect",
+              "rows": [
+                "Fluff's babies were safe in the pen as the stallion hated cats",
+                "The narrator found Fluff bleeding"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Which two of the following words best describe Fluff? Put a tick (✓) in the box beside each of your answers. DO NOT TICK MORE THAN TWO BOXES.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "calm",
+            "courageous",
+            "friendly",
+            "intolerable",
+            "negligent",
+            "persistent"
+          ],
+          "max_selections": 2
+        },
+        "79": {
+          "stem_plain": "List **two things** that the narrator did to care for Fluff after being injured by the tomcat.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q79a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q79b]"
+            }
+          ]
+        },
+        "80": {
+          "stem_plain": "Do you think that the narrator was attached to Fluff's chicks? Give a reason for your answer.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "I called the red mottled hen, Fluff. I did not know where she came from or who",
+          "2": "owned her. One day, she just showed up in my barnyard and acted as though she",
+          "3": "owned the place. She would squawk, flap her wings and peck at me if she did not like",
+          "4": "something I was doing. I would sprinkle grain for her and she began to tolerate me",
+          "5": "because of it.",
+          "6": "However, on the day I named her, she did not seem to have any toleration for",
+          "7": "me at all. I had gone into the barn to get grain for the horses when she flew at me,",
+          "8": "pecking and squawking. I shooed her away, yelling, \"Get away, you psycho fluff",
+          "9": "ball!\" That was how she got her name Fluff which was short for Psycho Fluff Ball. It",
+          "10": "was a week after the attack that I learned the reason it had occurred. She was trying",
+          "11": "to chase every leaf or creature out of the barn and that was when I heard some chirping",
+          "12": "sounds coming from a dark corner of the barn. Despite her acts of intimidation,",
+          "13": "curiosity got the better of me and I inched closer to find **little fluffy bundles** of about",
+          "14": "every imaginable colour.",
+          "15": "Sadly, one day, they just disappeared but not without a trail of feathers. . I knew",
+          "16": "the animal which had taken Fluff's chicks must have put up a fight because Fluff lost a",
+          "17": "lot of feathers. By the time Fluff was once again in her protective mood, most of her",
+          "18": "feathers had grown back. I discovered another nest of eggs in the corner of the barn",
+          "19": "and when I saw part of a beak poking out of one, I rushed home to get my family. Fluff",
+          "20": "was beginning to trust me, but other humans still made her nervous. However, she let",
+          "21": "us get within five feet before she squawked her warning. Within a days, there was",
+          "22": "a brood of chicks for her to protect.",
+          "23": "Then, one day, as I was cleaning the stallion's stall in another barn, Fluff came",
+          "24": "squawking and pecking at my feet. I pushed her away with my foot. \"Get away,",
+          "25": "Fluff!\" She attacked again and then ran toward the other barn, flapping and",
+          "26": "squawking. I went back to my work, and she attacked me again, only to run back",
+          "27": "toward her barn, flapping, squawking and turning in circles. I thought, \"You want me",
+          "28": "to follow.\"",
+          "29": "I took a step toward her, and she rushed to the other barn, stopping to look back",
+          "30": "at me. I took a few more steps and she went a little further. Finally, I just followed her",
+          "31": "to the other barn. As I stepped into its dim interior, I realised it was very quiet. I spotted",
+          "32": "Fluff rushing at **something** by her nest.",
+          "33": "That was when I saw a giant, wild tomcat sneaking toward the chicks. It had",
+          "34": "seen me and held still but Fluff knew he was there. She attacked him, pecking and",
+          "35": "beating with her wings but he was huge. Each swipe of his claws sent feathers flying.",
+          "36": "I was furious. I grabbed a nearby shovel and raced toward the cat. He saw me and ran",
+          "37": "for the door and into the nearby field. Fluff lay there bleeding, not moving.",
+          "38": "As I went closer, she tried to move to her babies, but her leg was broken. Afraid",
+          "39": "the cat would return, I got a box and put her in it. I found her babies in the nest where",
+          "40": "she had tried to conceal them. I moved them all to the stallion's barn and put them in",
+          "41": "one end of his pen. The only way in was through the door to his pen and he hated cats.",
+          "42": "I knew they would be safe there. I got her a little pan of water and some grain. She",
+          "43": "clucked to me, as if asking me to take care of her babies.",
+          "44": "\"We'll get you better, Fluff, and you can take care of them yourself,\" I said but",
+          "45": "the next morning, I was digging her grave by the barn she had defended as home.",
+          "46": "I realised I was crying over a chicken because of the way she had trusted me and given",
+          "47": "her life for her children. I became a mother hen to her little brood which would often",
+          "48": "follow me around. I found them a home with a chicken farmer except for **one**. I saved",
+          "49": "the feistiest mottled little red hen and made a permanent home for her in the stallion's",
+          "50": "pen. I named her Fluffy."
+        },
+        "paragraphs": {
+          "1": "我把那只红色斑驳的母鸡叫作 Fluff（绒毛）。我不知道她从哪来、属于谁。有一天她忽然出现在我的谷仓院子里，一副这里归她管的样子。若不喜欢我做的事，她就尖叫、扑翅、啄我。我撒谷物给她，她也就因此开始容忍我。",
+          "6": "然而给她取名那天，她对我一点容忍都没有。我进马厩给马取谷物时，她扑过来啄我、尖叫。我把她赶走，喊道：“走开，你这个疯绒毛球！”她于是得名 Fluff，是 Psycho Fluff Ball 的简称。袭击发生一周后我才明白原因：她在把谷仓里每片叶子或小生物都赶出去，那时我听见暗处传来叽叽声。尽管她一再恐吓，好奇心还是驱使我凑近，看见一窝五颜六色毛茸茸的小鸡。",
+          "15": "可悲的是，有一天它们消失了，地上只留下一串羽毛。我知道偷走 Fluff 雏鸡的动物一定反抗过，因为她掉了很多毛。等她再次进入护雏状态时，羽毛大多已长回。我在谷仓角落又发现一窝蛋，看见一只露出破壳的喙，便冲回家叫家人。Fluff 开始信任我，但其他人仍让她紧张；不过她要等我们靠近五英尺才尖叫警告。几天后，她又有了一窝要保护的雏鸡。",
+          "23": "后来有一天，我在另一座马厩清理种马栏时，Fluff 尖叫着啄我的脚。我用脚推开她：“走开，Fluff！”她又攻击，然后朝另一座马厩跑去，边扑翅边叫。我继续干活，她又攻击，再跑回她的马厩，扑翅、尖叫、打转。我想：“你是要我跟着。”",
+          "29": "我往她那边迈了一步，她冲向另一座马厩，回头看我。我再走几步，她又往前一点。最后我干脆跟着她进了那座马厩。踏进昏暗里面，里面异常安静。我看见 Fluff 朝巢边某个东西冲去。",
+          "33": "这时我看见一只巨大的野公猫悄悄逼近雏鸡。猫看见了我便停住，但 Fluff 知道它在。她攻击它，啄、用翅膀拍打，可猫太大了，每一爪都打得羽毛纷飞。我大怒，抓起近旁的铁锹冲过去；猫见我跑来，夺门逃到田里。Fluff 躺在那儿流血，一动不动。",
+          "38": "我走近时，她想挪向孩子，但腿断了。怕猫再来，我拿箱子把她装进去，在巢里找到她藏起来的雏鸡，全移到种马的马厩，放在栏的一头——只有栏门能进，种马讨厌猫，我知道它们在那儿安全。我又给她一小盘水和一些谷物。她对我咯咯叫，像在请我照顾她的孩子。",
+          "44": "我说：“我们会治好你，Fluff，你就能自己照顾它们。”可第二天早上，我在她当作家的那座马厩旁挖她的墓。我意识到自己为一头鸡哭泣——因为她信任我、为孩子献出生命。我像母鸡一样带着那一窝小鸡，它们常跟着我。我把它们送给养鸡户，只留一只最泼辣的红色斑驳小母鸡，在种马栏里给她安了永久的家，取名 Fluffy。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li>第一段（行 1–5）写 Fluff 起初不屈服；<em>sprinkle grain</em> 后 <em>began to tolerate me</em>，表示叙述者在谷仓可被她接受。</li><li>故摘 <strong>began to tolerate me</strong>（四个词）。</li></ol>",
+          "answer": [
+            "began to tolerate me"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li>第 2 段（约行 6–14）<em>acts of intimidation</em>。</li><li><strong>(1)</strong> 扑向叙述者啄、尖叫。</li><li><strong>(2)</strong> 把谷仓里每片叶子或小生物赶走。</li></ol>",
+          "answer": [
+            "- Fluff would fly at the narrator, peck",
+            "squawk and chase every leaf or creature out of the barn."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "解释说明题",
+          "note": "<ol><li>范围：行 17–22，Fluff 对人类的戒心。</li><li>她让人走近<strong>五英尺</strong>才尖叫警告 → 仍紧张、提防。</li></ol>",
+          "answer": [
+            "She let us get within five feet before she squawked her warning."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "解释说明题",
+          "note": "<ol><li>范围：行 23–28，Fluff 啄脚、跑向另一马厩、回头、打转。</li><li>叙述者悟到 <em>You want me to follow</em>；跟去后发现野猫逼近雏鸡 → 攻击是为<strong>引他去护雏</strong>。</li></ol>",
+          "answer": [
+            "Fluff wanted the narrator to follow her to protect its chicks from the wild tomcat in the other barn."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>(a) False：</strong>名 Fluff 因羽毛；攻击时称 <em>Psycho Fluff ball</em>。</li><li><strong>(b) True：</strong>见孵化即冲回家叫家人。</li><li><strong>(c) False：</strong>Fluff 已先攻击野猫，非猫先下手。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "False",
+            "75b": "When Fluff attacked him he called her Psycho Fluff ball",
+            "75c": "True",
+            "75d": "He rushed home to get his family when he saw the hatching",
+            "75e": "False",
+            "75f": "Fluff had already attacked the giant wild tomcat"
+          }
+        },
+        "76": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a)</strong> 行 <strong>14</strong> <em>little fluffy bundles</em> → Fluff 的雏鸡。</li><li><strong>(b)</strong> 行 <strong>32</strong> <em>something</em> → 悄悄逼近鸡雏的野公猫。</li><li><strong>(c)</strong> 行 <strong>48</strong> <em>one</em> → 最泼辣的那只红色斑驳小母鸡（Fluff 的后代之一）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "Fluff's babies",
+            "76b": "The giant, wild tomcat sneaking towards Fluff's chicks at the barn",
+            "76c": "The feistiest mottled little red hen which was one of Fluff's babies"
+          }
+        },
+        "77": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>第1行：</strong>把巢移到马厩围栏 → 雏鸡安全（种马讨厌猫）。</li><li><strong>第2行：</strong>野猫抓伤 Fluff → 叙述者发现她在流血。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "The narrator shifted the nest to the pen.",
+            "77b": "The giant wild tomcat swiped Fluff with its claws."
+          }
+        },
+        "78": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>题型：</strong>勾选<strong>两个</strong>词形容 Fluff（最多两格）。</li><li><strong>courageous：</strong>她先攻击 giant wild tomcat，保护雏鸡。</li><li><strong>persistent：</strong>长期护雏、驱赶威胁，不轻易退缩。</li><li><strong>排除：</strong>calm / friendly 与文中好斗不符；intolerable / negligent 无依据。</li></ol>",
+          "answer": [
+            "courageous",
+            "persistent"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>Fluff 被野猫所伤之后。</li><li><strong>(1)</strong> 把她放在种马马厩（猫不敢靠近）。</li><li><strong>(2)</strong> 给她一小盘水和一些谷物。</li></ol>",
+          "answer": {
+            "79a": "The narrator placed Fluff in the stallion's barn which is a safe place from the tomcat.",
+            "79b": "The narrator gave Fluff a little pan of water and some grain."
+          }
+        },
+        "80": {
+          "concept": "个人观点+依据题",
+          "note": "<ol><li>看法：<strong>Yes</strong>，叙述者对雏鸡有感情。</li><li>依据：行 46–47 他像母鸡带那一窝，雏鸡常跟着他走。</li></ol>",
+          "answer": [
+            "Yes, he was. He allowed the chicks to follow him around."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

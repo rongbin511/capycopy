@@ -1,0 +1,736 @@
+{
+  "paperid": "p4_english_2024_sa2_catholichigh",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"I will see you __________ home later,\" Mother said.",
+          "options": {
+            "1": "in",
+            "2": "at",
+            "3": "on",
+            "4": "by"
+          }
+        },
+        "2": {
+          "stem_plain": "During our Social Studies lesson last week, we __________ surprised when the teacher gave us a quiz.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "Ali and his brother __________ overjoyed when their parents took them to their favourite restaurant.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Keep quiet. The Primary 6 pupils __________ a test now!\" said the monitor.",
+          "options": {
+            "1": "take",
+            "2": "took",
+            "3": "are taking",
+            "4": "has taken"
+          }
+        },
+        "5": {
+          "stem_plain": "Last evening, I __________ to the shopping mall after I had my dinner.",
+          "options": {
+            "1": "go",
+            "2": "went",
+            "3": "was going",
+            "4": "have gone"
+          }
+        },
+        "6": {
+          "stem_plain": "While we __________ the movie, my mobile phone suddenly rang.",
+          "options": {
+            "1": "watch",
+            "2": "will watch",
+            "3": "have watched",
+            "4": "were watching"
+          }
+        },
+        "7": {
+          "stem_plain": "__________ boys over there are playing on the swing.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "8": {
+          "stem_plain": "Muthu was scolded by his mother __________ he did not complete his homework.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "and",
+            "4": "because"
+          }
+        },
+        "9": {
+          "stem_plain": "We are only going on a short holiday so we will be back in __________ days.",
+          "options": {
+            "1": "a few",
+            "2": "many",
+            "3": "some",
+            "4": "a little"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Can I borrow __________ money? I forgot to bring my wallet,\" Meiling asked Susan.",
+          "options": {
+            "1": "little",
+            "2": "much",
+            "3": "many",
+            "4": "some"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "zh": "“待会儿在家见，”母亲说。",
+          "note": "“at home” 是固定介词搭配，意为“在家”。",
+          "concept": "介词固定搭配 — Prepositions of Place — at home",
+          "answer": "2"
+        },
+        "2": {
+          "zh": "在上周的社会研究课上，当老师给我们做测验时，我们感到很惊讶。",
+          "note": "“last week”（上周）提示过去时间，主语 “we” 是复数代词，因此系动词使用复数过去式 were。",
+          "concept": "主谓一致与一般过去时 — Subject-Verb Agreement & Simple Past Tense",
+          "answer": "4"
+        },
+        "3": {
+          "zh": "当父母带阿里和他的弟弟去他们最喜欢的餐厅时，他们欣喜若狂。",
+          "note": "从句动词 “took” 提示事情发生在过去，主语 “Ali and his brother” 为复数（两个人），因此选用复数过去式系动词 were。",
+          "concept": "主谓一致与一般过去时 — Subject-Verb Agreement & Simple Past Tense",
+          "answer": "4"
+        },
+        "4": {
+          "zh": "“保持安静。六年级的学生们现在正在考试呢！”班长说。",
+          "note": "时间词 “now!”（现在）提示动作正在进行，主语为复数名词 “pupils”，因此动词使用现在进行时 are taking。",
+          "concept": "现在进行时 — Present Continuous Tense",
+          "answer": "3"
+        },
+        "5": {
+          "zh": "昨天傍晚，我吃过晚饭后去了购物中心。",
+          "note": "“Last evening”（昨天傍晚）明确提示过去时间，谓语动词应选用一般过去式 went。",
+          "concept": "一般过去时 — Simple Past Tense",
+          "answer": "2"
+        },
+        "6": {
+          "zh": "当我们正在看电影时，我的手机突然响了。",
+          "note": "“While” 引导的时间状语从句表示过去一个正在持续进行的动作，被另一个突发事件（手机响了）所中断，主语为 we，因此使用过去进行时复数形式 were watching。",
+          "concept": "过去进行时 — Past Continuous Tense",
+          "answer": "4"
+        },
+        "7": {
+          "zh": "在那边荡秋千那些男孩正在玩耍。",
+          "note": "“boys” 为复数名词，且由空间修饰词 “over there”（在那边）提示距离较远，因此选用远称复数的指示代词 Those。",
+          "concept": "指示代词 — Demonstrative Pronouns — Those",
+          "answer": "4"
+        },
+        "8": {
+          "zh": "穆图被他母亲责备了，因为他没有完成功课。",
+          "note": "后半句 “he did not complete his homework”（他没做完功课）是前半句被责备的原因，因果逻辑连接词选用 because（因为）。",
+          "concept": "原因连词 — Conjunctions of Reason — because",
+          "answer": "4"
+        },
+        "9": {
+          "zh": "我们只是去度个短假，所以几天后就会回来。",
+          "note": "“days” 是可数名词复数，且前面有 “only” 以及 “short holiday”（短假）限制，表达数量很少的几天，故选用 a few。",
+          "concept": "修饰可数名词的量词 — Quantifiers with Countable Nouns — a few",
+          "answer": "1"
+        },
+        "10": {
+          "zh": "“我能借点钱吗？我忘了带钱包，”美玲向苏珊问道。",
+          "note": "在期望得到肯定答复的疑问句/请求句中，表示“一些、一点”通常使用 some 而不用 any。“money” 是不可数名词，不能用 many 修饰。",
+          "concept": "不可数名词修饰语 — Quantifiers with Uncountable Nouns — some",
+          "answer": "4"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The water in the pond was so __________ that I could not see the fish inside clearly.",
+          "options": {
+            "1": "hazy",
+            "2": "misty",
+            "3": "foggy",
+            "4": "cloudy"
+          }
+        },
+        "12": {
+          "stem_plain": "Siti followed the __________ closely to make cheesecake. She made sure she did not miss any step.",
+          "options": {
+            "1": "list",
+            "2": "menu",
+            "3": "recipe",
+            "4": "schedule"
+          }
+        },
+        "13": {
+          "stem_plain": "Father bought Kumar a bicycle as a __________ for doing well in his examinations.",
+          "options": {
+            "1": "prize",
+            "2": "trophy",
+            "3": "reward",
+            "4": "souvenir"
+          }
+        },
+        "14": {
+          "stem_plain": "Jason __________ home after school as he had hurt his left knee during recess.",
+          "options": {
+            "1": "limped",
+            "2": "trudged",
+            "3": "scurried",
+            "4": "waddled"
+          }
+        },
+        "15": {
+          "stem_plain": "My father is __________ but he still donates to the poor regularly.",
+          "options": {
+            "1": "kind",
+            "2": "thrifty",
+            "3": "selfish",
+            "4": "generous"
+          }
+        },
+        "16": {
+          "stem_plain": "Boon Lee __________ a serious injury when he fell down the steps.",
+          "options": {
+            "1": "endured",
+            "2": "received",
+            "3": "tolerated",
+            "4": "sustained"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "池塘里的水太浑浊了，我无法清楚地看到里面的鱼。",
+          "note": "“cloudy” 除了表示“多云的”，常用于形容液体（如水、汤等）不透明、浑浊，符合水质不清晰的语境。",
+          "concept": "形容词词义辨析 — Vocabulary (Adjectives) — cloudy",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hazy",
+              "zh": "有薄雾的，朦胧的（常形容空气或天气）",
+              "eg": "The view of the mountains was **hazy** due to the afternoon smog."
+            },
+            {
+              "opt": "2",
+              "word": "misty",
+              "zh": "多雾的，有雾气的（常形容天气或镜片）",
+              "eg": "It was a cold, **misty** morning when we arrived at the lake."
+            },
+            {
+              "opt": "3",
+              "word": "foggy",
+              "zh": "大雾弥漫的（常形容天气）",
+              "eg": "Driving was dangerous because the highway was extremely **foggy**."
+            },
+            {
+              "opt": "4",
+              "word": "cloudy",
+              "zh": "浑浊的，不澄清的",
+              "eg": "Stirring up the sand at the bottom made the river water **cloudy**."
+            }
+          ]
+        },
+        "12": {
+          "zh": "西蒂严格按照食谱制作芝士蛋糕。她确保自己没有漏掉任何步骤。",
+          "note": "“recipe” 意为“食谱”，指包含具体制作步骤的烹饪指导，与后文制作蛋糕（make cheesecake）及步骤（step）完美契合。",
+          "concept": "名词词义辨析 — Vocabulary (Nouns) — recipe",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "list",
+              "zh": "清单，列表",
+              "eg": "She made a shopping **list** of ingredients before going to the supermarket."
+            },
+            {
+              "opt": "2",
+              "word": "menu",
+              "zh": "菜单（餐厅点菜用）",
+              "eg": "The waiter handed us the **menu** as soon as we sat down at the table."
+            },
+            {
+              "opt": "3",
+              "word": "recipe",
+              "zh": "食谱，烹饪法",
+              "eg": "My grandmother gave me her secret **recipe** for chocolate chip cookies."
+            },
+            {
+              "opt": "4",
+              "word": "schedule",
+              "zh": "时间表，日程安排",
+              "eg": "The train service is running on a tight **schedule** during peak hours."
+            }
+          ]
+        },
+        "13": {
+          "zh": "父亲买了一辆自行车送给库马尔，作为他考试取得好成绩的奖励。",
+          "note": "“reward” 指因良好的表现、努力或善行而获得的“回报、奖励”（常由亲友给予），符合考试考得好获得礼物的语境。",
+          "concept": "近义词辨析 — Vocabulary (Nouns) — reward",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "prize",
+              "zh": "奖品（通常通过比赛或竞争获得）",
+              "eg": "The student won first **prize** in the national art competition."
+            },
+            {
+              "opt": "2",
+              "word": "trophy",
+              "zh": "奖杯（通常为体育赛事或官方荣誉）",
+              "eg": "The captain proudly held the championship **trophy** above his head."
+            },
+            {
+              "opt": "3",
+              "word": "reward",
+              "zh": "奖赏，回报",
+              "eg": "A cash **reward** was offered to anyone who found the missing dog."
+            },
+            {
+              "opt": "4",
+              "word": "souvenir",
+              "zh": "纪念品",
+              "eg": "She bought a small key ring as a **souvenir** of her trip to Paris."
+            }
+          ]
+        },
+        "14": {
+          "zh": "杰森放学后一瘸一拐地走回家，因为他在课间休息时伤到了左膝。",
+          "note": "“limped” 意为“一瘸一拐地走”，与后文提到的膝盖受伤（hurt his left knee）有必然因果关系。",
+          "concept": "动词词义辨析 — Vocabulary (Verbs) — limped",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "limped",
+              "zh": "一瘸一拐地走，跛行",
+              "eg": "After twisting his ankle during the match, he **limped** off the field."
+            },
+            {
+              "opt": "2",
+              "word": "trudged",
+              "zh": "步伐沉重地走，吃力地走",
+              "eg": "The exhausted soldiers **trudged** through the deep snow for hours."
+            },
+            {
+              "opt": "3",
+              "word": "scurried",
+              "zh": "碎步急跑，疾走",
+              "eg": "The little mouse **scurried** across the floor when the light turned on."
+            },
+            {
+              "opt": "4",
+              "word": "waddled",
+              "zh": "摇摇摆摆地走（常指鸭子或肥胖者）",
+              "eg": "The penguins **waddled** down the icy slope toward the freezing sea."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我的父亲很节俭，但他仍然定期向穷人捐款。",
+          "note": "后半句用 “but” 引导转折，表示他虽然自己平时省吃俭用（thrifty），但对别人依然很大方（donates regularly）。",
+          "concept": "连词转折与形容词辨析 — Contextual Clues & Adjectives — thrifty",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "kind",
+              "zh": "善良的（与后半句捐款在语意上顺承，不符合but的转折）",
+              "eg": "It was very **kind** of you to help the lady carry her heavy bags."
+            },
+            {
+              "opt": "2",
+              "word": "thrifty",
+              "zh": "节俭的，节约的",
+              "eg": "By being **thrifty** with her budget, she managed to save enough for a holiday."
+            },
+            {
+              "opt": "3",
+              "word": "selfish",
+              "zh": "自私的（自私的人通常不会定期捐款，存在逻辑矛盾）",
+              "eg": "Don't be **selfish**; you should share your sweets with your friends."
+            },
+            {
+              "opt": "4",
+              "word": "generous",
+              "zh": "大方的，慷慨的（与donates语意顺承，不符合but的转折）",
+              "eg": "He made a **generous** donation to the charity to support the orphans."
+            }
+          ]
+        },
+        "16": {
+          "zh": "文利从台阶上摔下来时受了重伤。",
+          "note": "“sustained an injury” 是固定搭配，意为“遭受伤害/受伤”。",
+          "concept": "词汇固定搭配 — Collocations — sustained an injury",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "endured",
+              "zh": "忍受，忍耐（通常指长期忍受痛苦或折磨的过程）",
+              "eg": "The trapped miners **endured** freezing temperatures for three days."
+            },
+            {
+              "opt": "2",
+              "word": "received",
+              "zh": "收到，接到（不与表示身体伤害的injury搭配）",
+              "eg": "She **received** many beautiful cards and gifts on her birthday."
+            },
+            {
+              "opt": "3",
+              "word": "tolerated",
+              "zh": "容忍，宽容",
+              "eg": "The teacher said that disruptive behavior in class would not be **tolerated**."
+            },
+            {
+              "opt": "4",
+              "word": "sustained",
+              "zh": "遭受，蒙受（主要用于sustained injuries/losses）",
+              "eg": "The driver **sustained** minor bruises in the minor car accident."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "语法题",
+          "note": "指代上文提到的“麦克斯（Max）”。Max在句中作谓语动词told的主语，且是男性，故使用人称代词主格“he”（他）。",
+          "answer": "A"
+        },
+        "18": {
+          "concept": "语法题",
+          "note": "指代前面爬树的“麦克斯（Max）”。在句中作及物动词warned的宾语，故使用人称代词宾格“him”（他）。",
+          "answer": "B"
+        },
+        "19": {
+          "concept": "语法题",
+          "note": "指代“鸟妈妈（the mother bird）的雏鸟”。鸟妈妈是单数雌性动物（或统称动物），修饰名词复数chicks，故使用形容词性物主代词“its”（它的）。",
+          "answer": "D"
+        },
+        "20": {
+          "concept": "语法题",
+          "note": "指代“他的朋友们（His friends）的自行车”。修饰名词复数bicycles，因为是复数概念，故使用复数形容词性物主代词“their”（他们的）。",
+          "answer": "E"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "he",
+          "B": "him",
+          "C": "it",
+          "D": "its",
+          "E": "their",
+          "F": "they"
+        },
+        "cloze": [
+          "Max, Bill and Sally were cycling at the park. Max noticed a nest in a tree. [Q17] told the others to stop. Max climbed the tree to reach the nest. His friends warned [Q18] to be careful. Suddenly, the mother bird arrived to protect [Q19] chicks. It pecked at Max’s hand and he fell. His friends got off [Q20] bicycles to help him. Fortunately, he had only sprained his leg."
+        ],
+        "zh": [
+          "麦克斯、比尔和萨莉正在公园里骑自行车。麦克斯注意到树上有一个鸟巢。他叫其他人停下来。麦克斯爬上树去够那个鸟巢。他的朋友们警告他要小心。突然，鸟妈妈飞来保护它的雏鸟。它啄了麦克斯的手，麦克斯掉了下来。他的朋友们从他们的自行车上下来去帮助他。幸运的是，他只是扭伤了腿。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "25": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "26": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "25": {
+          "concept": "动词时态与词义辨析",
+          "note": "结合上下文的过去进行时（was working），此处应用一般过去时 heard，表示“听到”有人在呼喊。",
+          "answer": "heard"
+        },
+        "26": {
+          "concept": "固定习语搭配",
+          "note": "for dear life 为固定短语，意为“拼命地、竭尽全力地”，常与 hang onto 连用描述危急情况。",
+          "answer": "for"
+        },
+        "27": {
+          "concept": "连词用法（转折关系）",
+          "note": "前半句“试图自己爬上阳台”与后半句“失败了”构成明显的转折关系，故填入转折连词 but。",
+          "answer": "but"
+        },
+        "28": {
+          "concept": "动词短语搭配与时态",
+          "note": "pull oneself up 为固定短语，表示“把自己拉上去/向上攀爬”，结合整篇故事的过去时态，应用 pulled。",
+          "answer": "pulled"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mr Shan, a foreign worker, was called a hero for saving a toddler recently.",
+          "On that day, he was working near a block of flats when he [Q25(heard)] some people shouting. He turned around and saw a toddler hanging onto the railing of a second-floor balcony [Q26(for)] his dear life. Two onlookers immediately tried to pull themselves up onto the balcony [Q27(but)] failed. Mr Shan then came to the rescue. He [Q28(pulled)] himself up easily and rescued the toddler. Everyone cheered for Mr Shan and called him a hero."
+        ],
+        "zh": [
+          "单先生是一名外籍劳工，最近因救了一名蹒跚学步的幼童而被称赞为英雄。",
+          "那天，他正在一座组屋附近工作，这时他听到有人在呼喊。他转过身，看到一个幼童正抓着二楼阳台的栏杆拼命坚持。两名旁观者立即试图自己爬上阳台，但失败了。单先生随后赶来救援。他轻松地把自己拉了上去，救下了幼童。大家都为单先生欢呼，并称他为英雄。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "29": {
+          "stem_plain": "You can only go out if you finish your homework.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Unless ..."
+        },
+        "30": {
+          "stem_plain": "Sam likes playing board games. He likes watching movies more.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... prefers ... to ..."
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "Conditionals — Negative conditional clause ('Unless')",
+          "zh": "除非你完成家庭作业，否则你不能出去。",
+          "note": "‘Unless’ 相当于 ‘if ... not’。将原句中的肯定结果转换到主句时需要变成否定形式 ‘you cannot go out’，以确保逻辑语义保持一致。",
+          "answer": "Unless you finish your homework, you cannot go out."
+        },
+        "30": {
+          "concept": "Verb Patterns — Preference ('prefer ... to ...')",
+          "zh": "比起玩桌游，萨姆更喜欢看电影。",
+          "note": "固定搭配 ‘prefer doing A to doing B’ 意为 ‘比起做B更喜欢做A’。原句中提到更喜欢看电影（likes...more），因此 ‘watching movies’ 应当放在 ‘prefers’ 后面，而 ‘playing board games’ 放在 ‘to’ 后面。",
+          "answer": "Sam prefers watching movies to playing board games."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

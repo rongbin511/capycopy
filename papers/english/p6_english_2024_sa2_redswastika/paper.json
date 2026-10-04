@@ -1,0 +1,1590 @@
+{
+  "paperid": "p6_english_2024_sa2_redswastika",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The Merlion statue at the park is made ________ small tiles, cement and covered with paint.",
+          "options": {
+            "1": "in",
+            "2": "of",
+            "3": "by",
+            "4": "from"
+          }
+        },
+        "2": {
+          "stem_plain": "Mary was well-prepared for her piano recital, ________ she still felt nervous about it.",
+          "options": {
+            "1": "for",
+            "2": "yet",
+            "3": "since",
+            "4": "because"
+          }
+        },
+        "3": {
+          "stem_plain": "Being an avid reader, Nurin has gained ________ knowledge about space from reading books on astronomy.",
+          "options": {
+            "1": "little",
+            "2": "many",
+            "3": "much",
+            "4": "several"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Diyanah was the group leader. She'd have assigned work for everyone, ________ ?\" asked Mrs Raju.",
+          "options": {
+            "1": "have she",
+            "2": "would she",
+            "3": "haven't she",
+            "4": "wouldn't she"
+          }
+        },
+        "5": {
+          "stem_plain": "The manager had the plumber ________ the leaking pipe in the toilet.",
+          "options": {
+            "1": "fix",
+            "2": "fixes",
+            "3": "fixed",
+            "4": "has fixed"
+          }
+        },
+        "6": {
+          "stem_plain": "The explorers trekked ________ the dense jungle, searching for ancient ruins.",
+          "options": {
+            "1": "with",
+            "2": "over",
+            "3": "against",
+            "4": "through"
+          }
+        },
+        "7": {
+          "stem_plain": "\" ________ if John is going to turn up for rehearsal today?\" one of the performers asked before continuing, \"He has skipped three sessions already.\"",
+          "options": {
+            "1": "Will you wonder",
+            "2": "Are you wondering",
+            "3": "Should you wonder",
+            "4": "Have you wondered"
+          }
+        },
+        "8": {
+          "stem_plain": "________ regularly will help us do well in our studies as it helps reinforce learning.",
+          "options": {
+            "1": "Revise",
+            "2": "Revises",
+            "3": "Revised",
+            "4": "Revising"
+          }
+        },
+        "9": {
+          "stem_plain": "\"If I ________ the table earlier, we would have been able to start dinner on time,\" Mother grumbled.",
+          "options": {
+            "1": "prepare",
+            "2": "prepared",
+            "3": "had prepared",
+            "4": "have prepared"
+          }
+        },
+        "10": {
+          "stem_plain": "John is a student ________ hard work and dedication is valued.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "介词 — Preposition (material)",
+          "zh": "公园里的鱼尾狮雕像由小瓷砖、水泥建成，并涂上油漆。",
+          "note": "be made of 表示看得出原材料；from 多指看不出原材料的转变。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "让步 — Concession connector",
+          "zh": "玛丽为钢琴独奏会准备充分，却仍感到紧张。",
+          "note": "yet 作连词表转折，语气比 but 略正式；since/because 表原因不合句意。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "量词 — quantifier with uncountable noun",
+          "zh": "努琳酷爱阅读，从天文书籍里积累了许多太空知识。",
+          "note": "knowledge 不可数，用 much；many/several 接可数复数。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "反意疑问句 — Question tag (would have)",
+          "zh": "“她本会给每个人都分配任务的，不是吗？”拉朱太太问。",
+          "note": "She'd have = she would have，附加疑问用 wouldn't she。",
+          "answer": "4"
+        },
+        "5": {
+          "concept": "使役动词 — Causative verb (have someone do)",
+          "zh": "经理让水管工修理厕所漏水的管子。",
+          "note": "have + 宾语 + 动词原形表“让某人做某事”。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "介词 — Preposition (movement inside)",
+          "zh": "探险者穿过茂密丛林，寻找古代遗迹。",
+          "note": "through 表示从内部穿过；over/with/against 不合语境。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "现在进行时 — Present continuous question (current curiosity)",
+          "zh": "“你在想约翰今天会不会来排练吗？”一位表演者问道。",
+          "note": "自然口语用 Are you wondering …? 引出疑问。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "动名词 — Gerund as subject",
+          "zh": "经常复习有助于我们学业进步，因为能巩固所学。",
+          "note": "动名词短语作主语，谓语用单数 will help。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "虚拟语气 — Third conditional (past unreal)",
+          "zh": "“要是我早点摆好桌子，我们就能准时开饭了。”妈妈抱怨道。",
+          "note": "与过去事实相反的假设：从句 had prepared，主句 would have been able to。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "关系词 — Possessive relative pronoun",
+          "zh": "约翰是一名学生，他的勤奋与投入受到重视。",
+          "note": "whose 引导定语从句，表示“该学生的努力与投入”，在从句中作定语修饰 hard work and dedication。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Even when the number of Covid-19 cases decreased, Singaporeans did not ________ on their efforts to maintain good personal hygiene.",
+          "options": {
+            "1": "let up",
+            "2": "give up",
+            "3": "cut down",
+            "4": "back down"
+          }
+        },
+        "12": {
+          "stem_plain": "Mr Sim's frustration ________ as his daughter continued to ignore her chores despite numerous warnings.",
+          "options": {
+            "1": "eased",
+            "2": "swelled",
+            "3": "diminished",
+            "4": "accumulated"
+          }
+        },
+        "13": {
+          "stem_plain": "Mountain explorers wear thick jackets to survive the ________ climate of the Arctic, where the cold is very intense.",
+          "options": {
+            "1": "bitter",
+            "2": "cruel",
+            "3": "harsh",
+            "4": "vicious"
+          }
+        },
+        "14": {
+          "stem_plain": "Mr Randy Tan left behind a ________ of helping others. His charitable contributions continue to have a positive impact on society to this day.",
+          "options": {
+            "1": "reputation",
+            "2": "memory",
+            "3": "legacy",
+            "4": "status"
+          }
+        },
+        "15": {
+          "stem_plain": "The firefighters responded ________ by springing into action upon arriving at the scene.",
+          "options": {
+            "1": "rashly",
+            "2": "swiftly",
+            "3": "leisurely",
+            "4": "reluctantly"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "即便新冠病例减少，新加坡人也没有放松警惕。",
+          "note": "应选（1）'let up'：题干语境最宜表达'（强度）减弱；放松；松懈'。解析中强调的关键形式为'let up on'，与正确项一致。'give up'义为'彻底放弃；停止做某事'：与题干语境或搭配要求不一致。'cut down'义为'减少（消费量）；砍倒'：与题干语境或搭配要求不一致。'back down'义为'退让；放弃立场'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — let up（（强度）减弱；放松；松懈）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "let up",
+              "zh": "（强度）减弱；放松；松懈",
+              "eg": "The rain finally <strong>let up</strong> after pouring all morning, so the children rushed out to play."
+            },
+            {
+              "opt": "2",
+              "word": "give up",
+              "zh": "彻底放弃；停止做某事",
+              "eg": "She refused to <strong>give up</strong> on her dream of becoming a doctor, no matter how tough the studies were."
+            },
+            {
+              "opt": "3",
+              "word": "cut down",
+              "zh": "减少（消费量）；砍倒",
+              "eg": "The doctor advised him to <strong>cut down</strong> on sugary drinks to manage his weight."
+            },
+            {
+              "opt": "4",
+              "word": "back down",
+              "zh": "退让；放弃立场",
+              "eg": "Even when the older boys teased him, he refused to <strong>back down</strong> from his point of view."
+            }
+          ]
+        },
+        "12": {
+          "zh": "沈先生的挫败感与日俱增，女儿仍不做家务。",
+          "note": "应选（2）'swelled'：题干语境最宜表达'（情绪、规模）增长；膨胀'。'eased'义为'缓和；减轻'：与题干语境或搭配要求不一致。'diminished'义为'减少；缩小'：与题干语境或搭配要求不一致。'accumulated'义为'积累；堆积'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — swelled（（情绪、规模）增长；膨胀）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "eased",
+              "zh": "缓和；减轻",
+              "eg": "The painkiller <strong>eased</strong> the throbbing in his head within minutes."
+            },
+            {
+              "opt": "2",
+              "word": "swelled",
+              "zh": "（情绪、规模）增长；膨胀",
+              "eg": "Pride <strong>swelled</strong> in her chest as she watched her younger brother accept the trophy."
+            },
+            {
+              "opt": "3",
+              "word": "diminished",
+              "zh": "减少；缩小",
+              "eg": "The crowd's enthusiasm <strong>diminished</strong> as the rain grew heavier."
+            },
+            {
+              "opt": "4",
+              "word": "accumulated",
+              "zh": "积累；堆积",
+              "eg": "Dust had <strong>accumulated</strong> on the bookshelf during the months they were away."
+            }
+          ]
+        },
+        "13": {
+          "zh": "登山者穿厚外套以抵御北极酷寒。",
+          "note": "应选（3）'harsh'：题干语境最宜表达'严酷的；恶劣的（环境/批评）'。解析中强调的关键形式为'harsh climate'，与正确项一致。'bitter'义为'刺骨的（寒冷）；苦的；怀有怨恨的'：与题干语境或搭配要求不一致。'cruel'义为'残忍的；冷酷无情的（多用于人）'：与题干语境或搭配要求不一致。'vicious'义为'凶恶的；恶毒的（攻击/动物）'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — harsh（严酷的；恶劣的（环境/批评））",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "bitter",
+              "zh": "刺骨的（寒冷）；苦的；怀有怨恨的",
+              "eg": "A <strong>bitter</strong> wind cut through their thin jackets as they crossed the bridge."
+            },
+            {
+              "opt": "2",
+              "word": "cruel",
+              "zh": "残忍的；冷酷无情的（多用于人）",
+              "eg": "It was <strong>cruel</strong> of the older boys to laugh at the new student's accent."
+            },
+            {
+              "opt": "3",
+              "word": "harsh",
+              "zh": "严酷的；恶劣的（环境/批评）",
+              "eg": "Polar bears are perfectly adapted to the <strong>harsh</strong> conditions of the Arctic."
+            },
+            {
+              "opt": "4",
+              "word": "vicious",
+              "zh": "凶恶的；恶毒的（攻击/动物）",
+              "eg": "The dog gave a <strong>vicious</strong> bark and lunged at the gate when strangers approached."
+            }
+          ]
+        },
+        "14": {
+          "zh": "陈兰迪先生留下乐于助人的遗风，善行延续。",
+          "note": "应选（3）'legacy'：题干语境最宜表达'遗产；传承下来的影响'。'reputation'义为'名声；声誉（在世时人们对他的看法）'：与题干语境或搭配要求不一致。'memory'义为'记忆；回忆（被动地被记得）'：与题干语境或搭配要求不一致。'status'义为'身份；社会地位'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — legacy（遗产；传承下来的影响）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reputation",
+              "zh": "名声；声誉（在世时人们对他的看法）",
+              "eg": "Years of honest work earned him a strong <strong>reputation</strong> among his customers."
+            },
+            {
+              "opt": "2",
+              "word": "memory",
+              "zh": "记忆；回忆（被动地被记得）",
+              "eg": "The smell of jasmine always brings back the <strong>memory</strong> of her grandmother's garden."
+            },
+            {
+              "opt": "3",
+              "word": "legacy",
+              "zh": "遗产；传承下来的影响",
+              "eg": "The professor's books and scholarships became her lasting <strong>legacy</strong> to her students."
+            },
+            {
+              "opt": "4",
+              "word": "status",
+              "zh": "身份；社会地位",
+              "eg": "Her promotion to senior partner significantly raised her <strong>status</strong> within the firm."
+            }
+          ]
+        },
+        "15": {
+          "zh": "消防员一到现场就立刻投入救援。",
+          "note": "应选（2）'swiftly'：题干语境最宜表达'迅速地；敏捷地'。'rashly'义为'鲁莽地；草率地（贬义）'：与题干语境或搭配要求不一致。'leisurely'义为'悠闲地；不慌不忙地'：与题干语境或搭配要求不一致。'reluctantly'义为'不情愿地；勉强地'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — swiftly（迅速地；敏捷地）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rashly",
+              "zh": "鲁莽地；草率地（贬义）",
+              "eg": "He <strong>rashly</strong> agreed to the deal without reading the contract carefully."
+            },
+            {
+              "opt": "2",
+              "word": "swiftly",
+              "zh": "迅速地；敏捷地",
+              "eg": "The lifeguard <strong>swiftly</strong> dived into the pool to rescue the struggling child."
+            },
+            {
+              "opt": "3",
+              "word": "leisurely",
+              "zh": "悠闲地；不慌不忙地",
+              "eg": "On Sunday mornings, they <strong>leisurely</strong> strolled through the park, sipping their coffee."
+            },
+            {
+              "opt": "4",
+              "word": "reluctantly",
+              "zh": "不情愿地；勉强地",
+              "eg": "She <strong>reluctantly</strong> handed over her phone before sitting down for the exam."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "items",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "souvenir",
+            "2": "artefacts",
+            "3": "memorabilia",
+            "4": "merchandise"
+          }
+        },
+        "17": {
+          "stem_plain": "vividly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "briefly",
+            "2": "clearly",
+            "3": "carefully",
+            "4": "definitely"
+          }
+        },
+        "18": {
+          "stem_plain": "grabbed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "secured",
+            "2": "grasped",
+            "3": "captured",
+            "4": "snatched"
+          }
+        },
+        "19": {
+          "stem_plain": "Caught off guard",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Startled",
+            "2": "Distracted",
+            "3": "Undecided",
+            "4": "Intimidated"
+          }
+        },
+        "20": {
+          "stem_plain": "reminded",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "retorted",
+            "2": "lamented",
+            "3": "cautioned",
+            "4": "suggested"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — items（人工制品）",
+          "note": "名词 artefacts 指古代人类制造的手工艺品或人工制品，在此处作为历史文物的统称最为精准。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "souvenir",
+              "zh": "纪念品，旅游纪念品",
+              "eg": "She bought a small hand-painted vase as a souvenir of her trip to Italy."
+            },
+            {
+              "opt": "2",
+              "word": "artefacts",
+              "zh": "人工制品，历史文物，手工艺品",
+              "eg": "The ancient stone tools and other historic artefacts were displayed in the central museum."
+            },
+            {
+              "opt": "3",
+              "word": "memorabilia",
+              "zh": "纪念品，珍藏品（常指与名人、重大历史事件相关的收藏品）",
+              "eg": "The fans gathered outside the stadium to purchase vintage sports memorabilia."
+            },
+            {
+              "opt": "4",
+              "word": "merchandise",
+              "zh": "商品，货物",
+              "eg": "The department store received a large shipment of fresh winter merchandise last night."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — vividly（清晰地）",
+          "note": "副词 vividly 意为生动地、逼真地，在描述表意效果时，其核心考点近义词为 clearly（清晰地、显而易见地）。",
+          "zh": "每件展品生动地讲述过去的故事。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "briefly",
+              "zh": "简短地，短暂地",
+              "eg": "They briefly paused at the entrance before entering the quiet cave."
+            },
+            {
+              "opt": "2",
+              "word": "clearly",
+              "zh": "清晰地，显而易见地",
+              "eg": "The instructions were clearly explained on the dynamic display board."
+            },
+            {
+              "opt": "3",
+              "word": "carefully",
+              "zh": "仔细地，小心地",
+              "eg": "She carefully reviewed every line of the contract before signing it."
+            },
+            {
+              "opt": "4",
+              "word": "definitely",
+              "zh": "明确地，肯定地",
+              "eg": "The manager stated that the school project would definitely be finished by next Friday."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — grabbed（吸引）",
+          "note": "在“吸引注意”的固定搭配语境下，grabbed my attention 等同于 captured my attention，指完全吸引、抓住了某人的眼球或注意力。",
+          "zh": "一双珠绣拖鞋吸引了我的注意。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "secured",
+              "zh": "获得，弄牢，确保安全",
+              "eg": "The professional team successfully secured a massive contract after months of negotiation."
+            },
+            {
+              "opt": "2",
+              "word": "grasped",
+              "zh": "抓牢，紧握，理解（知识/意图等）",
+              "eg": "The little child grasped his father's hand firmly while walking through the dense crowd."
+            },
+            {
+              "opt": "3",
+              "word": "captured",
+              "zh": "捕获，占领，吸引（注意力等）",
+              "eg": "The bright and unique design of the poster instantly captured the audience's attention."
+            },
+            {
+              "opt": "4",
+              "word": "snatched",
+              "zh": "猛抓，一把夺过",
+              "eg": "The thief snatched the wallet from the table and dashed out into the narrow alley."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — Caught off guard（猝不及防）",
+          "note": "习语 caught off guard 意为“猝不及防、毫无防备”，在此处指因突发情况而受到惊吓，与动词过去分词/形容词 startled（受惊吓的、大吃一惊的）语义最接近。",
+          "zh": "I was caught off guard and retreated in embarrassment. / 我猝不及防，尴尬地缩了回去。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Startled",
+              "zh": "受惊吓的，大吃一惊的",
+              "eg": "Startled by the sudden loud noise, the kitten quickly jumped under the sofa."
+            },
+            {
+              "opt": "2",
+              "word": "Distracted",
+              "zh": "分心的，注意力被分散的",
+              "eg": "She found it hard to focus on her books because she was distracted by the radio."
+            },
+            {
+              "opt": "3",
+              "word": "Undecided",
+              "zh": "犹豫不决的，未决定的",
+              "eg": "The committee is still undecided about which contractor to choose for the school project."
+            },
+            {
+              "opt": "4",
+              "word": "Intimidated",
+              "zh": "感到害怕的，受到惊吓气馁的",
+              "eg": "The young speaker felt slightly intimidated by the massive crowd in the hall."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — reminded（提醒/警告）",
+          "note": "在此语境中，导游提醒游客“禁止触摸”，带有劝诫和规劝不要违反规定的含义，因此与 cautioned（警告、规劝、告诫）的意思最接近。",
+          "zh": "“No touching in this gallery,” the guide reminded gently. / “这个展厅禁止触摸，”导游温和地提醒。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "retorted",
+              "zh": "反驳，回嘴",
+              "eg": "“It is none of your business,” she retorted angrily and walked away."
+            },
+            {
+              "opt": "2",
+              "word": "lamented",
+              "zh": "哀叹，痛惜",
+              "eg": "The local residents lamented the loss of the historic old cinema building."
+            },
+            {
+              "opt": "3",
+              "word": "cautioned",
+              "zh": "警告，告诫，劝诫",
+              "eg": "The teacher cautioned the pupils against swimming in the flooded river."
+            },
+            {
+              "opt": "4",
+              "word": "suggested",
+              "zh": "建议，提出",
+              "eg": "The supervisor suggested a short tea break after hours of intense writing."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Over the weekend, my family and I toured the Peranakan Museum. As a Peranakan, I was particularly excited to explore the place. The [Q16 (items)] on display were fascinating, with an interesting mix of Western and Chinese influences. Each piece [Q17 (vividly)] tells a story of the past.",
+          "A pair of beaded slippers [Q18 (grabbed)] my attention. As I moved nearer to get a better look, a tall figure appeared from a hidden door at the corner of the room. [Q19 (Caught off guard)], I shrank back with embarrassment. \"This gallery is a touch-free zone,\" the tour guide [Q20 (reminded)] gently. I mumbled an apology before turning to rejoin my family."
+        ],
+        "zh": [
+          "周末，我和家人参观了 Peranakan Museum。作为土生华人，我特别兴奋能探索这个地方。展出的物品令人着迷，融合了西方与中国影响。每件展品生动地讲述过去的故事。",
+          "一双珠绣拖鞋吸引了我的注意。我走近细看时，一个高个身影从房间角落隐藏门后出现。我猝不及防，尴尬地缩了回去。“这个展厅禁止触摸，”导游温和地提醒。我低声道歉后转身回到家人身边。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "In the first paragraph, which word best describes language as comprising many different parts?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "verbal",
+            "2": "spoken",
+            "3": "complex",
+            "4": "immense"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the section \"Have you heard of the Kristang language?\", what makes the Kristang language \"critically endangered\"?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Fewer than 100 people in Singapore speak the language.",
+            "2": "It is a unique heritage language spoken in Singapore.",
+            "3": "Singaporeans have not heard of the language.",
+            "4": "It is only spoken in Malacca."
+          }
+        },
+        "23": {
+          "stem_plain": "According to the section \"Why keep a rarely used language?\", preserving languages is important for the following reasons except",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to provide a sense of belonging",
+            "2": "to reflect the inner workings of a community",
+            "3": "to pass traditions from one generation to the next",
+            "4": "to help different communities connect with one another"
+          }
+        },
+        "24": {
+          "stem_plain": "Mrs Tan wants to play a part in preserving heritage languages. She can do so by",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "using her heritage language sparingly",
+            "2": "learning heritage languages that interest her",
+            "3": "using her heritage language exclusively with elders",
+            "4": "attempting to use the language only during the language class"
+          }
+        },
+        "25": {
+          "stem_plain": "In the section \"Sign up for heritage language classes!\", why is the colon (:) used in **\"Choose from a range of languages offered:\"** ?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to rank the choice of languages",
+            "2": "to indicate a wide range of languages",
+            "3": "to signal the start of a list of languages",
+            "4": "to give a summary of languages offered"
+          }
+        },
+        "26": {
+          "stem_plain": "Mr Li and his 9-year-old child want to take language classes on the same day. What can they do?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They can take Kristang B3 together.",
+            "2": "Mr Li can take Tamil B3 while his child takes Teochew B1.",
+            "3": "Mr Li can take Hokkien B3 while his child takes Baba Hokkien B1.",
+            "4": "Mr Li can take Baba Malay B3 while his child takes Baba Malay B1."
+          }
+        },
+        "27": {
+          "stem_plain": "Which statement is true about the language classes?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Registration must be done at www.nlc.sg .",
+            "2": "Classes will finish by the end of November 2024.",
+            "3": "Classes will be held at the National Languages Centre.",
+            "4": "Students must attend the classes for seven days a week."
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this website?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to attract readers to take up Kristang language classes",
+            "2": "to spread knowledge of Singapore's heritage languages",
+            "3": "to encourage readers to preserve their heritage languages",
+            "4": "to provide registration details about heritage language classes"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Word that means having many parts（题型考点）",
+          "note": "Paragraph 1: <em>Spoken language is a <span class=\"hl-good\">complex</span> system used for verbal communication</em>. <em>complex</em> = made up of many connected parts. <em>verbal</em> = spoken; <em>spoken</em> = produced in speech; <em>immense</em> = very large. Only <em>complex</em> describes a system with many parts.",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "题型 — Locating evidence — direct quote（题型考点）",
+          "note": "The section says: <em>With an estimated fewer than 100 speakers in Singapore, Kristang is a critically endangered language.</em> Choice (1) restates this fact. (2) is general background; (3) describes awareness, not endangerment; (4) contradicts the passage (Kristang is spoken in Singapore, not only in Malacca).",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "题型 — Identify the option NOT supported by the text（题型考点）",
+          "note": "The 'Why keep…' section lists: a sense of belonging (1 ✓), reflecting the inner workings of a community (2 ✓), and passing traditions to the next generation (3 ✓). The text does NOT say preserving heritage languages helps different communities connect with one another — that would actually require a common language, the opposite of preserving niche heritage ones. So (4) is the correct 'except'.",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "题型 — Apply the 3 preservation tips（题型考点）",
+          "note": "Tip #2 says: <em>learn our own heritage languages or even others that interest us</em> — exactly what (2) describes. (1) <em>using sparingly</em> is the opposite of frequent use; (3) <em>only with elders</em> is too narrow; (4) <em>only during class</em> contradicts <em>attempting to use them frequently</em>.",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "题型 — Function of a colon（题型考点）",
+          "note": "The colon introduces a vertical list of nine specific languages. That is its standard purpose: <span class=\"hl-good\">to signal the start of a list</span>. (1) <em>rank</em> implies ordering; (2) <em>indicate range</em> describes content, not the colon's function; (4) <em>summarise</em> would suggest a brief overview, but the items are listed in full.",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "交叉信息 — Cross-reference table + day rules（交叉信息考点）",
+          "note": "From the schedule: Tamil and Teochew are both held on <strong>Saturdays</strong>. Mr Li (adult) → B3, child (9 years) → B1. (1) Kristang has only one Friday slot — they cannot take it together as B3, since the 9-year-old must be in B1 / B2. (3) Hokkien and Baba Hokkien are both on Wednesdays, but Baba Hokkien is NOT offered to B1 (the asterisk note). (4) Baba Malay is also NOT offered to B1.",
+          "answer": "2"
+        },
+        "27": {
+          "concept": "题型 — Locate true statement（题型考点）",
+          "note": "The text says: <em>Click on www.nlc.sg to find out more about each language and register!</em> So registration is at that website (1). (2) Classes start <em>11 November 2024</em> for 7 weeks → end around early January 2025, NOT November. (3) Classes are at <em>Central Vista Learning Cube</em>, not the National Languages Centre. (4) Classes are weekly two-hour sessions, NOT seven days a week.",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "目的 — Author's overall purpose（目的考点）",
+          "note": "The page covers WHY languages should be preserved AND HOW to do so (three tips), then ties this to a free language-class sign-up. The unifying purpose is to motivate readers to take action — <span class=\"hl-good\">to encourage them to preserve heritage languages</span>. (1) is too narrow (only Kristang); (2) is too broad (any knowledge); (4) is only one sub-section.",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "after",
+          "D": "in",
+          "G": "over",
+          "K": "to",
+          "N": "which",
+          "B": "and",
+          "E": "is",
+          "H": "than",
+          "L": "under",
+          "P": "will",
+          "C": "for",
+          "F": "on",
+          "J": "then",
+          "M": "was",
+          "Q": "with"
+        },
+        "cloze": [
+          "If your forehead is beaded with sweat the moment you step outdoors, brace yourself! The hot weather looks set to stay [Q29] 2024 and could be even warmer [Q30] the temperatures fell in 2023 — the fourth warmest year on record for Singapore. The unbearable heat experienced [Q31] due to a climate phenomenon known as El Niño, [Q32] causes unusual weather patterns.",
+          "El Niño causes hotter [Q33] drier weather over Southeast Asia, including Singapore. This contributes [Q34] significant changes in sea surface temperatures and surface winds [Q35] the tropical Pacific Ocean.",
+          "The prediction of sweltering conditions in 2024 comes [Q36] the weatherman reported that 2023 was Singapore's fourth warmest year since records started in 1929. On 13 May 2023, the highest daily maximum temperature of 37 degrees Celsius was recorded in Ang Mo Kio. This was not only the warmest day in May. It also tied [Q37] 17 April 1983, as the highest-ever temperature recorded in Singapore.",
+          "Days of reliance on fans and air conditioners [Q38] be a mainstay in the coming months. Besides hydrating themselves regularly, Singaporeans are encouraged to stay indoors as much as possible to endure the heat."
+        ],
+        "zh": [
+          "若你一踏出门就额头冒汗，可要当心了！ 炎热天气看来将延续至2024年，且可能比2023年更热——2023年是新加坡有记录以来第四热的年份。 令人难以忍受的酷暑部分源于被称为厄尔尼诺的气候现象，它会造成异常天气模式。",
+          "厄尔尼诺使东南亚（包括新加坡）天气更热、更干燥。 这导致热带太平洋海面温度与近海面风发生显著变化。",
+          "2024年酷暑的预测，是在气象部门报告2023年为新加坡自1929年有记录以来第四暖年之后提出的。 2023年5月13日，宏茂桥录得每日最高气温37摄氏度。 这不仅是五月最热的一天，也与1983年4月17日并列新加坡有史以来的最高气温。",
+          "未来数月，依赖风扇和空调的日子或将成为常态。 除经常补充水分外，鼓励新加坡人尽量待在室内以忍受酷暑。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — in",
+          "note": "weather looks set to stay in 2024 and could be even = 看前后搭配，选 in。",
+          "answer": "D — in"
+        },
+        "30": {
+          "concept": "比较",
+          "note": "比较结构用 than。",
+          "answer": "H — than"
+        },
+        "31": {
+          "concept": "主谓 — 时态/一致",
+          "note": "The unbearable heat experienced is due to a climate phenomenon = 主谓一致 → is。",
+          "answer": "E — is"
+        },
+        "32": {
+          "concept": "关系/连接词 — which",
+          "note": "定语/名词性从句 → which。",
+          "answer": "N — which"
+        },
+        "33": {
+          "concept": "连词 — and",
+          "note": "El Niño causes hotter and drier weather over Southeast Asia, = 句间逻辑 → and。",
+          "answer": "B — and"
+        },
+        "34": {
+          "concept": "介词 — to",
+          "note": "This contributes to significant changes in sea surface = 看前后搭配，选 to。",
+          "answer": "K — to"
+        },
+        "35": {
+          "concept": "介词 — over",
+          "note": "看前后搭配，选 over。",
+          "answer": "G — over"
+        },
+        "36": {
+          "concept": "时间 — after",
+          "note": "sweltering conditions in 2024 comes after the weatherman reported that 2023 = 时间/从属 → after。",
+          "answer": "A — after"
+        },
+        "37": {
+          "concept": "介词 — with",
+          "note": "It also tied with 17 April 1983, as the = 看前后搭配，选 with。",
+          "answer": "Q — with"
+        },
+        "38": {
+          "concept": "情态 — will",
+          "note": "on fans and air conditioners will be a mainstay in the = 情态动词 will。",
+          "answer": "P — will"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "11 June 2024 marked the first-ever International Day of Play. The United Nations had made a [Q39(resolute)] to create a day to honour play worldwide.",
+          "Play is more than just a pastime for children. It is a [Q40(crushel)] part of their development. It encourages them to be [Q41(physikly)] active, which is healthy. Play also [Q42(fostering)] children's friendships and social skills. It teaches them how to solve problems and resolve conflicts [Q43(sucsesfully)] . Through play, children can [Q44(increased)] their creativity and cultivate their [Q45(imajinayshen)] . In the growth of children, [Q46(that)] benefits are important. Additionally, engaging in play-based learning in school is [Q47(efektive)] in helping children remember information [Q48(easy)] .",
+          "Now, a network of organisations, including The Right to Play, is emphasising [Q49(an)] importance of play. Susan McIsaac, its [Q50(prehsident)] and CEO, believes that play is powerful. \"Through play, children can explore and understand the world,\" McIsaac says in a press release."
+        ],
+        "zh": [
+          "2024 年 6 月 11 日是首个国际游戏日。联合国毅然决定设立这一天，以在全球弘扬游戏的价值。",
+          "游戏不只是儿童的消遣。它是他们成长中至关重要的一部分。它鼓励儿童积极活动，有益健康。游戏也促进儿童的友谊与社交技能，教他们如何成功解决问题、化解冲突。通过游戏，儿童能提高创造力、培养想象力。在儿童成长过程中，这些益处十分重要。此外，在学校开展以游戏为基础的学习，有助于儿童更轻松地记住所学内容。",
+          "如今，包括'游戏权'组织在内的机构网络正在强调游戏的重要性。该组织总裁兼首席执行官苏珊·麦艾萨克相信游戏力量巨大。'通过游戏，儿童可以探索并理解世界，'麦艾萨克在新闻稿中说。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Word form (noun)",
+          "note": "<span class=\"hl-bad\">resolute</span> is an adjective. Here we need a noun as the object of <em>made</em>. The correct noun is <span class=\"hl-good\">resolution</span> — a formal decision.",
+          "answer": "resolution"
+        },
+        "40": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">crushel</span> is misspelt. The correct spelling is <span class=\"hl-good\">crucial</span> — extremely important.",
+          "answer": "crucial"
+        },
+        "41": {
+          "concept": "Spelling + adverb form",
+          "note": "<span class=\"hl-bad\">physikly</span> is misspelt. The correct adverb is <span class=\"hl-good\">physically</span> — relating to the body, modifying <em>active</em>.",
+          "answer": "physically"
+        },
+        "42": {
+          "concept": "Subject–verb agreement (-s)",
+          "note": "<span class=\"hl-bad\">fostering</span> is the participle form. The subject <em>Play</em> is singular, present tense, so we need the third-person singular form <span class=\"hl-good\">fosters</span>.",
+          "answer": "fosters"
+        },
+        "43": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">sucsesfully</span> is misspelt. The correct spelling is <span class=\"hl-good\">successfully</span> (double <em>c</em>, double <em>s</em>, double <em>l</em>).",
+          "answer": "successfully"
+        },
+        "44": {
+          "concept": "Verb form after modal",
+          "note": "After <em>can</em>, use the bare infinitive. <span class=\"hl-bad\">increased</span> (past form) is wrong; the correct base form is <span class=\"hl-good\">increase</span>.",
+          "answer": "increase"
+        },
+        "45": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">imajinayshen</span> is misspelt. The correct spelling is <span class=\"hl-good\">imagination</span>.",
+          "answer": "imagination"
+        },
+        "46": {
+          "concept": "Determiner agreement",
+          "note": "<span class=\"hl-bad\">that</span> is singular but <em>benefits</em> is plural. Use the plural demonstrative <span class=\"hl-good\">these</span> — <em>these benefits</em>.",
+          "answer": "these"
+        },
+        "47": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">efektive</span> is misspelt. The correct spelling is <span class=\"hl-good\">effective</span>.",
+          "answer": "effective"
+        },
+        "48": {
+          "concept": "Adverb form",
+          "note": "<span class=\"hl-bad\">easy</span> is an adjective. The verb <em>remember</em> needs an adverb to describe how. Use <span class=\"hl-good\">easily</span> (drop <em>-y</em>, add <em>-ily</em>).",
+          "answer": "easily"
+        },
+        "49": {
+          "concept": "Article (definite)",
+          "note": "<span class=\"hl-bad\">an</span> introduces a new general thing, but <em>importance of play</em> is a specific, identified concept already discussed throughout the article. Use the definite article <span class=\"hl-good\">the</span>.",
+          "answer": "the"
+        },
+        "50": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">prehsident</span> is misspelt. The correct spelling is <span class=\"hl-good\">president</span>.",
+          "answer": "president"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Over fifty people met in a park for an hour of silent reading. During the session, not a [Q51] was spoken. The only sounds in the peaceful park were the faint rustle of [Q52] of books gently turning and occasional contented sighs.",
+          "This was the latest monthly Reading Together event [Q53] by the Indonesian Silent Book Club for people in the city. There are no discussions. Participants [Q54] together simply to be among others who share their love of reading. \"Many people are uncomfortable introducing [Q55] in large groups as they are too shy,\" shared Ms Hestia Istivianie, founder of the book club. \"Hence, [Q56] having the need to engage in idle-talk or discussions is much appreciated.\"",
+          "Four years [Q57], Ms Hestia started the club after her sister complained about being bullied for enjoying reading. When the first session was [Q58], only ten people attended. However, she was undeterred. What [Q59] her to continue with the sessions was the desire to encourage more people to read. This came during a period of [Q60] when reading for leisure was [Q61] popular than mobile phones, the Internet, and other distractions.",
+          "Also, despite [Q62] posed by Covid-19, the book club continued [Q63] Zoom, nurturing a community of shared reading during lockdown periods. The sessions now attract about thirty participants monthly, coming together to enjoy a [Q64] of reading formats like print books, e-books or audiobooks.",
+          "\"I aim to ignite a love for reading in people of all [Q65], young and old,\" said Ms Hestia. She hopes her silent book club would be an appealing option in this digital age."
+        ],
+        "zh": [
+          "五十多人在公园聚首，共同默读一小时。活动期间一语不发。静谧的公园里，只有书页轻轻翻动的窸窣声和偶尔满足的轻叹。",
+          "这是印尼无声读书会为本市读者举办的最新一期月度'一起阅读'活动。现场不设讨论环节。参与者相聚在此，只为与同样热爱阅读的人为伴。'许多人在大群体里不敢自我介绍，因为太过害羞，'创办人说道。'因此，不必硬找话题闲聊或讨论，反而让人格外珍惜。'",
+          "四年前，创办人因姐姐热爱阅读却遭欺凌而创办了俱乐部。首场活动举办时，仅十人到场，她却毫不气馁。促使她坚持把活动办下去的，是鼓励更多人阅读的愿望。这一切发生在一段休闲阅读远不如手机、网络和各类消遣盛行的时期。",
+          "此外，尽管新冠疫情带来重重困难，读书会仍借助 Zoom 延续，在封锁日子里维系共读社群。如今活动每月约吸引三十人参加，大家聚在一起，享受纸质书、电子书与有声书等多种阅读形态。",
+          "'我希望能在老老少少各年龄段的人心中点燃对阅读的热爱。'创办人说道。她希望自己的无声读书会成为数字时代里同样有吸引力的选择。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "固定习惯搭配",
+          "note": "活动强调“静默共读”的安静氛围。完美契合描述一言不发的经典专属被动习语 not a word was spoken，意思是“没有说出任何一个字/全场鸦雀无声”。",
+          "answer": "word"
+        },
+        "52": {
+          "concept": "名词语境场景搭配",
+          "note": "修饰名词宾语。后文提到 books gently turning（书本被轻轻翻动），说明此时公园里唯一的声响是书页翻动时发出的“沙沙声”，故填复数名词 pages。",
+          "answer": "pages"
+        },
+        "53": {
+          "concept": "被动语态过去分词",
+          "note": "前面有单数名词 event，后面有介词 by 引导。此处需要填入过去分词充当后置定语，表示这项最新的每月共读活动是“由”印尼静默读书会所“举办”、“组织”或“开创”的（held / organised / started / launched）。",
+          "answer": "held/organised/started/launched"
+        },
+        "54": {
+          "concept": "短语动词固定搭配",
+          "note": "主语为复数名词 Participants（参与者），谓语动词用原形。与后面的 together 组合，构成极高频常考的地道短语 come together 或 gather together，表示大家“聚集在一起”。",
+          "answer": "come/gather"
+        },
+        "55": {
+          "concept": "反身代词视角一致",
+          "note": "在主从句中，动作的发起者是 Many people（许多人，复数第三人称）。当动作的发出者与承受者为同一主体时，需填入复数反身代词 themselves，指代“自我介绍”。",
+          "answer": "themselves"
+        },
+        "56": {
+          "concept": "动名词前的否定修饰",
+          "note": "修饰动名词短语 having the need to...。语境强调“不需要”进行闲聊或讨论这一状态反而深受内向者的感激，此处直接使用否定副词 not 来否定动名词（not having）。",
+          "answer": "not"
+        },
+        "57": {
+          "concept": "时间副词固定句型",
+          "note": "与前面表示一段时间的短语 Four years（四年）联用，用以引出过去某一个特定的历史起点，完美契合固定用法 Four years ago，意为“四年前”。",
+          "answer": "ago"
+        },
+        "58": {
+          "concept": "被动语态动词时态",
+          "note": "前面有助动词 was，此处需要填入过去分词构成被动语态。指当第一场活动被“举办”、“承办”或“开启”的时候，只有十个人参加（held / hosted / organised / launched / started）。",
+          "answer": "held/hosted/organised/launched/started"
+        },
+        "59": {
+          "concept": "主语从句与动词语意",
+          "note": "作为 What 引导的主语从句谓语动词，叙述过去的事情需用一般过去时。指某种内在精神源动力“驱使”、“鼓励”或“激励”着她坚持做下去，填入过去时动词 drove / motivated / encouraged / inspired / pushed。",
+          "answer": "drove/motivated/encouraged/inspired/pushed"
+        },
+        "60": {
+          "concept": "名词固定短语搭配",
+          "note": "完美契合英语中用于引出特定时代背景的极高频基础修饰结构 during a period of time，意为“在那样的一段时间里”。",
+          "answer": "time"
+        },
+        "61": {
+          "concept": "形容词比较级句型",
+          "note": "后文出现了比较连词 than，这里是一场阅读与手机网络等娱乐项目的竞争。由于后文将各种诱惑称为 distractions（分心事物），说明当时阅读消遣比起手机来其实“不那么（less）”流行。",
+          "answer": "less"
+        },
+        "62": {
+          "concept": "名词语意与后置修饰",
+          "note": "作为介词 despite 的宾语，后接由过去分词 posed 引导的后置定语。指尽管面临着由疫情带来的各种“挑战”、“问题”或“限制”（challenges / problems / restrictions / difficulties），读书会仍在坚持。",
+          "answer": "challenges/problems/restrictions/difficulties"
+        },
+        "63": {
+          "concept": "网络平台专属介词搭配",
+          "note": "后接具体的线上会议软件 Zoom。在英语中，表示通过虚拟网络平台或在线会议开展活动，固定使用专属介词 on 或者是 via（构成 on Zoom 或 via Zoom）。",
+          "answer": "on/via"
+        },
+        "64": {
+          "concept": "量词习惯短语搭配",
+          "note": "前面有不定冠词 a，后文列举了纸质书、电子书和有声书等多种形式。完美契合高频常考的数量短语 a range of... 或者是 variety / choice，表示“一系列/多种多样的阅读载体”。",
+          "answer": "range/variety/choice"
+        },
+        "65": {
+          "concept": "名词固定习惯搭配",
+          "note": "后接并列形容词 young and old 进行解释说明。完美契合在各类说明文和倡议书中屡次出现的标志性经典习语 people of all ages，意为“所有年龄层/男女老少”的人群。",
+          "answer": "ages"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "None of the dresses in this shop is cheap.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "All the dresses __________"
+        },
+        "67": {
+          "stem_plain": "\"Did you go to the library today?\" Mother asked her daughter.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mother asked her daughter __________"
+        },
+        "68": {
+          "stem_plain": "Bala crumpled the letter. He was angry.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ in anger."
+        },
+        "69": {
+          "stem_plain": "Raju asked if he could help. He saw I was confused.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Seeing my __________"
+        },
+        "70": {
+          "stem_plain": "The teacher modified the rules of the game.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The teacher made __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "否定句与肯定句等价改写 — Rewrite",
+          "zh": "这家店里所有的裙子都很贵。",
+          "note": "<code>None of + 复数名词 + is/are not …</code> 双重否定可以改写为 <code>All of + 复数名词 + are + 反义词</code>。注意主语换成 <em>All the dresses</em> 后动词要用复数 <em>are</em>。",
+          "answer": "All the dresses in this shop are expensive."
+        },
+        "67": {
+          "concept": "间接引语 — Reported speech (yes/no question)",
+          "zh": "妈妈问女儿那天是否去了图书馆。",
+          "note": "yes/no 直接引语改间接引语：用 <code>if / whether</code> 引导；时态后退（过去时 → 过去完成时）；时间副词 <em>today → that day</em>；代词 <em>you → she</em>。",
+          "answer": "Mother asked her daughter if she had gone to the library that day."
+        },
+        "68": {
+          "concept": "从句改介词短语 — Prepositional phrase",
+          "zh": "Bala 气愤地把信揉成了一团。",
+          "note": "<code>S + V + O</code>，再加上情绪状语 <code>in + 名词形式的情感</code>（如 <em>in anger / in joy / in despair</em>）来表达原因。",
+          "answer": "Bala crumpled the letter in anger."
+        },
+        "69": {
+          "concept": "现在分词缩减从句 — Participle phrase",
+          "zh": "Raju 看到我一脸困惑，便问能否帮忙。",
+          "note": "用 <code>V-ing 短语</code> 引出原因/伴随情景；形容词 <em>confused</em> 改为名词 <em>confusion</em>，前面加所有格 <em>my</em>。主句的主语必须与 V-ing 的逻辑主语一致（这里都是 Raju）。",
+          "answer": "Seeing my confusion, Raju asked if he could help."
+        },
+        "70": {
+          "concept": "名词（announce→announcement） — Synthesis & transformation (make +)",
+          "zh": "老师对游戏规则做了一些调整。",
+          "note": "<code>V → make + N (+ to + 原宾语)</code> 是常见的同义改写：<em>modify the rules → make modifications to the rules</em>。注意名词通常用复数 <em>modifications</em>，后跟介词 <em>to</em>。",
+          "answer": "The teacher made modifications to the rules of the game."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Which **four-word phrase** from the first paragraph reflects Gina's dangerous situation?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Circle one word that best describes Gina's tone in line 6. **DO NOT CIRCLE MORE THAN ONE WORD.** concerned / excited / nervous / upset",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on lines 8 to 10, the writer shows us that Gina knew her father's needs well. Provide evidence to support this. 1) 2)",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q73a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Based on the information from lines 11 to 14, fill in the blanks in the following table.",
+          "marks": 3,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "How did Gina feel?",
+              "rows": [
+                "[Q74a]",
+                "determined"
+              ]
+            },
+            "col_2": {
+              "header": "What Gina did?",
+              "rows": [
+                "Gina snapped.",
+                "[Q74c]"
+              ]
+            },
+            "col_3": {
+              "header": "What made Gina react that way?",
+              "rows": [
+                "[Q74b]",
+                "Gina had decided to take Papa's place to work in the mines."
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **there** (line 15)",
+                "(b) **this** (line 16)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Pick out **2 words** from lines 17 to 20 that suggest Gina's family was in financial difficulty.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q76a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q76b]"
+            }
+          ]
+        },
+        "77": {
+          "stem_plain": "What motivated Gina to continue working in the mines despite the dangers she faced?",
+          "marks": 1,
+          "interaction": "items_comp"
+        },
+        "78": {
+          "stem_plain": "",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)What immediate danger did Gina face in the tunnel?",
+              "question": "[Q78a]"
+            },
+            {
+              "stem_plain": "(b) How did she respond to it and why?",
+              "question": "[Q78b]"
+            }
+          ]
+        },
+        "79": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Gina's father supported her decision to work in the mines.",
+                "b) Children who worked in the mines were paid handsomely for the risk they were taking.",
+                "c) Gina felt defeated for a moment when she was in the mines."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q79a]",
+                "[Q79c]",
+                "[Q79e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q79b]",
+                "[Q79d]",
+                "[Q79f]"
+              ]
+            }
+          }
+        },
+        "80": {
+          "stem_plain": "Why do you think Gina felt a **\"renewed sense of resolve\"** (line 39)?",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Gina gasped as dark dust began to fill the narrow tunnel, a shroud of terror closing",
+          "2": "in around her. She knew each breath meant less fresh air for her to survive. Her heavy",
+          "3": "eyelids fell momentarily as she focused on the journey that had brought her to that point.",
+          "4": "It was a hot summer day. Gina observed her father as he approached their",
+          "5": "dilapidated porch.",
+          "6": "\"Papa, how's your day?\" Gina asked, her brows furrowed.",
+          "7": "\"Papa is feeling tired today. I need to rest for a little while.\"",
+          "8": "Gina knew her father was more than just tired as she helped him inside. He walked",
+          "9": "with a limp that most people would not notice unless they really looked. She suspected that",
+          "10": "her father had a scuffle with his supervisors.",
+          "11": "\"Did they not give you any breaks again? I've had enough,\" Gina snapped and",
+          "12": "rushed into the room. She firmly gathered a few belongings and carefully packed them into",
+          "13": "a haversack. Nothing would stop her this time. Gina's father emerged from his bare room;",
+          "14": "eyes wide with fear as he realised what she was doing.",
+          "15": "\"Gina, don't! It's not safe out **there**. Let Papa do it; you just stay at home.\"",
+          "16": "\"No, you listen to me this time. I can't let you keep doing **this**,\" Gina said firmly.",
+          "17": "Every day after that, as Gina walked down the dirt road, she would look back at",
+          "18": "their shabby house, reminding herself she had to do this for her impoverished family. She",
+          "19": "recalled having to leave school when she was ten because her family could not afford it.",
+          "20": "With her father's health declining, things became even harder.",
+          "21": "Driven by the need to improve her family's financial stability, Gina felt a strong",
+          "22": "desire to change their situation. She had heard that many children in her community had",
+          "23": "taken the same path despite being afraid. Some never made it back from the mines. Even",
+          "24": "more, Gina felt that it was something she had to do. Each day was a battle against fear and",
+          "25": "danger, risking her life for meagre earnings.",
+          "26": "Just then, a sudden powerful quake in the tunnel snapped Gina back to reality. Time",
+          "27": "was running out. She could only take a few more breaths before the air became too hard",
+          "28": "to breathe. Knowing that her family relied on her work to survive, Gina quickly shovelled as",
+          "29": "much gravel as she could before her comrades pulled her out of the mine. Gina was dancing",
+          "30": "with death with each passing second. One moment too late, and her lungs would have been",
+          "31": "filled with coal.",
+          "32": "Gina stumbled as she reached the surface, gasping for air. She saw her best friend,",
+          "33": "Mei, who looked as relieved and exhausted as she was. \"We made it, Gina,\" Mei said, her",
+          "34": "voice low and shaky from their close call. Gina nodded, still catching her breath, \"I thought",
+          "35": "I wasn't going to make it. I was so scared, but I couldn't give up. My family needs me!\"",
+          "36": "Surviving the day's work made Gina more determined to work harder for her family.",
+          "37": "As such, she no longer feared the dangers of working in the mines. As she walked towards",
+          "38": "the exit, she felt a renewed sense of resolve."
+        },
+        "paragraphs": {
+          "1": "黑暗尘土开始填满狭窄隧道时，Gina 倒吸一口气，恐惧如幕布般向她合拢。她知道每吸一口气，留给自己的新鲜空气就更少一分。她沉重地垂下眼帘片刻，回想一路如何走到这一步。",
+          "4": "那是一个炎热的夏日。Gina 看着父亲走向他们破旧的门廊。",
+          "6": "“爸爸，今天怎么样？” Gina 问，眉头紧锁。",
+          "7": "“爸爸今天很累，得休息一会儿。”",
+          "8": "Gina 扶父亲进屋时，知道他远不止疲倦。他走路有些跛，除非仔细看，否则多数人会察觉不到。她怀疑父亲又和工头起了冲突。",
+          "11": "“他们又不给你休息吗？我受够了。” Gina 厉声说，冲进房间。她坚决收拾了几件随身物品，仔细装进背包。这次没有什么能拦住她。父亲从简陋的卧室出来，意识到她在做什么，眼中满是恐惧。",
+          "15": "“Gina，别这样！外面不安全。让爸爸去，你就在家待着。”",
+          "16": "“不，这次你听我的。我不能让你一直这样下去。” Gina 坚定地说。",
+          "17": "此后每天，Gina 沿土路走去上工，都会回头望一眼他们寒酸的家，提醒自己必须为贫困的家庭这样做。她想起十岁时因家里供不起而不得不辍学。随着父亲健康恶化，日子变得更加艰难。",
+          "21": "为了改善家庭的经济状况，Gina 强烈渴望改变处境。她听说社区里许多孩子尽管害怕，也走了同样的路。有些人再也没从矿里回来。更何况，她觉得这是自己必须做的事。每一天都是与恐惧和危险的搏斗，冒着生命危险换取微薄收入。",
+          "26": "就在这时，隧道里突然一阵强烈震动，把 Gina 拉回现实。时间不多了。她只能再吸几口气，空气就会变得难以呼吸。想到全家靠她的工钱维生，她迅速尽可能多地铲起碎石，随后同伴把她拉出矿井。Gina 每一秒都在与死神周旋；再晚一刻，她的肺就会被煤尘填满。",
+          "32": "Gina 踉跄着来到地面，大口喘气。她看见最好的朋友 Mei，对方也如释重负、精疲力竭。“我们挺过来了，Gina。” Mei 声音低沉颤抖，显然刚经历险情。Gina 点头，仍在平复呼吸：“我以为我出不来了。我很害怕，但不能放弃。我的家人需要我！”",
+          "36": "熬过这一天的工作让 Gina 更决心为家人拼命。因此，她不再害怕在矿井工作的危险。走向出口时，她感到一种重新燃起的决心。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘引与表达理解",
+          "note": "<ol><li><strong>题型：</strong>摘引与表达理解——从<strong>第一段</strong>抄<strong>四个词</strong>的短语，反映 Gina 的危险处境（1 分）。</li><li><strong>范围：</strong>第一段行 <strong>1–3</strong>（隧道、尘土、窒息）。</li><li><strong>定位（行 1–2）：</strong><em>a <strong>shroud of terror</strong> closing in around her</em> — 恐惧如幕布合拢 = 危险、窒息。</li><li><strong>收束：</strong>数词 <em>a / shroud / of / terror</em> 恰四字 → <span class=\"hl-good\">A shroud of terror</span>。</li><li><strong>失分：</strong>抄整句或字数不符；抄第二段及以后。</li></ol>",
+          "answer": [
+            "A shroud of terror"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>题型：</strong>圈选+简答题——行 <strong>6</strong> Gina 的语气<strong>只圈一个词</strong>（1 分）。</li><li><strong>证据：</strong><em>Papa, how's your day?</em> + <em>her brows furrowed</em> — 关切探望疲惫父亲。</li><li><strong>应选：</strong><span class=\"hl-good\">concerned</span>（担心、关切）。</li><li><strong>排除：</strong><em>excited / nervous / upset</em> 与温柔询问、皱眉关切不符。</li><li><strong>失分：</strong>圈多个词；选与父女对话语境不符的词。</li></ol>",
+          "answer": [
+            "concerned"
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>题型：</strong>证据简答题——行 <strong>8–10</strong> 两点证据，说明 Gina <strong>很了解父亲的需要</strong>（2 分；1) 2) 各一行）。</li><li><strong>(1) 行 8：</strong><em>Gina knew her father was more than just tired</em> — 看出父亲不止疲倦。</li><li><strong>(2) 行 9–10：</strong><em>walked with a limp that most people would not notice unless they really looked</em> — 她留意到旁人不易察觉的跛行。</li><li><strong>收束：</strong>两点可照抄或概括；须体现她<strong>观察细致、理解父亲实情</strong>。</li><li><strong>失分：</strong>只写一点；写行 11 以后的情节。</li></ol>",
+          "answer": {
+            "73a": "She knew her father was more than just tired.",
+            "73b": "She noticed her father walked with a limp that most people would not notice unless they really looked."
+          }
+        },
+        "74": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>题型：</strong>表格简答题——行 <strong>11–14</strong> 填表（3 分；两行 × 三列，行优先填空）。</li><li><strong>行 1（愤怒）：</strong>感受 <span class=\"hl-good\">Angry</span>；已给动作 <em>Gina snapped</em>；原因行 <strong>11</strong> <em>Did they not give you any breaks again?</em> → <span class=\"hl-good\">Her father's supervisor did not give him breaks again.</span></li><li><strong>行 2（坚决）：</strong>已给感受 <em>determined</em>；原因已给 <em>decided to take Papa's place</em>；动作行 <strong>12–13</strong> → <span class=\"hl-good\">Gina firmly gathered a few belongings and packed them into a haversack.</span></li><li><strong>失分：</strong>两行感受/原因/动作张冠李戴；漏写空格。</li></ol>",
+          "answer": {
+            "74a": "Angry",
+            "74b": "Her father's supervisor did not give him breaks again.",
+            "74c": "Gina firmly gathered a few belongings and packed them into a haversack."
+          },
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左列代词/指示词的具体所指（2 分；右列两格）。</li><li><strong>(a) there（行 15）：</strong><em>It's not safe out there</em> — 父亲刚谈矿井危险 → <span class=\"hl-good\">in the mines</span>（矿井里/矿场）。</li><li><strong>(b) this（行 16）：</strong><em>I can't let you keep doing this</em> — 父亲带伤继续下矿 → <span class=\"hl-good\">Working at the mines without rest</span>（无休息地在矿场干活）。</li><li><strong>失分：</strong>只写“那里”“这个”；未点明矿井或持续劳作。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "in the mines",
+            "75b": "Working at the mines without rest"
+          }
+        },
+        "76": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句题——行 <strong>17–20</strong> 抄<strong>两个词</strong>，暗示家庭经济困难（2 分；1) 2) 各一词）。</li><li><strong>行 18：</strong><em><strong>shabby</strong> house</em> — 寒酸破旧 → <span class=\"hl-good\">shabby</span>。</li><li><strong>行 18：</strong><em><strong>impoverished</strong> family</em> — 贫困 → <span class=\"hl-good\">impoverished</span>。</li><li><strong>失分：</strong>抄短语或超过一词；抄行 19–20 的非常用词形式。</li></ol>",
+          "answer": {
+            "76a": "impoverished",
+            "76b": "shabby"
+          }
+        },
+        "77": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>要点直答——尽管危险，Gina 仍坚持下矿的<strong>动机</strong>（1 分）。</li><li><strong>范围：</strong>行 <strong>21–25</strong>（改善家境、微薄收入、每日搏斗）。</li><li><strong>证据（行 21–22）：</strong><em>Driven by the need to improve her family's financial stability</em>。</li><li><strong>收束：</strong><span class=\"hl-good\">Gina was driven to improve her family's financial stability.</span></li><li><strong>失分：</strong>只写“害怕”或“赚钱”未点<strong>改善家庭经济</strong>。</li></ol>",
+          "answer": [
+            "Gina was driven to improve her family's financial stability."
+          ]
+        },
+        "78": {
+          "concept": "分问综合简答",
+          "note": "<ol><li><strong>题型：</strong>分问综合简答——隧道内<strong>即时危险</strong> (a) 与<strong>应对及原因</strong> (b)（卷面 (a) 1 分 + (b) 2 分）。</li><li><strong>(a) 危险（行 26–28）：</strong>地震、时间紧迫、只剩几口气、空气难呼吸 → <span class=\"hl-good\">Running out of (breathable) air.</span></li><li><strong>(b) 应对（行 28–29）：</strong><em>quickly shovelled as much gravel as she could</em> before 被同伴拉出矿。</li><li><strong>(b) 原因：</strong><em>her family relied on her work to survive</em> — 家人靠她工钱维生，不能放弃。</li><li><strong>失分：</strong>只写危险不写铲碎石；只写动作未写家人依赖。</li></ol>",
+          "answer": {
+            "78a": "Running out of (breathable) air.",
+            "78b": "She quickly shovelled as much gravel as she could before her comrades pulled her out of the mine, because her family relied on her work to survive."
+          }
+        },
+        "79": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——每行先 T/F 再<strong>一句</strong>理由（3 分；三行）。</li><li><strong>(a) False：</strong>行 <strong>15</strong> 父亲说 <em>Gina, don't! It's not safe out there</em> — 反对她去矿场。</li><li><strong>(b) False：</strong>行 <strong>25</strong> <em>risking her life for meagre earnings</em> — 冒生命危险却只得微薄收入，非丰厚报酬。</li><li><strong>(c) True：</strong>行 <strong>35</strong> <em>I thought I wasn't going to make it. I was so scared</em> — 一度觉得出不来了。</li><li><strong>失分：</strong>T/F 与理由矛盾；理由无文中依据。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "79a": "False",
+            "79b": "Gina's father said to Gina that it's not safe for her to work in the mines",
+            "79c": "False",
+            "79d": "The children risked their lives for meagre earnings",
+            "79e": "True",
+            "79f": "Gina thought that she was not going to make it"
+          }
+        },
+        "80": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——行 <strong>39</strong> 为何感到 <em>renewed sense of resolve</em>（2 分）。</li><li><strong>关键词：</strong>死里逃生后<strong>重新燃起</strong>的决心。</li><li><strong>证据（行 37–38）：</strong>熬过一天工作 → 更决心为家人拼命；<strong>不再害怕</strong>矿井危险。</li><li><strong>收束：</strong>两点：(1) 对家人更坚定；(2) 克服对危险的恐惧 → <span class=\"hl-good\">Gina no longer feared the dangers … because she was more determined to work harder for her family.</span></li><li><strong>失分：</strong>只写“很开心”或只写不害怕未写决心加深。</li></ol>",
+          "answer": [
+            "Gina no longer feared the dangers of working in the mines because she was more determined to work harder for her family."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

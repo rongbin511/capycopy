@@ -1,0 +1,1155 @@
+{
+  "paperid": "p6_english_2019_sa2_scgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "________ she did not like the taste of the dish, she finished it.",
+          "options": {
+            "1": "As",
+            "2": "Since",
+            "3": "However",
+            "4": "Although"
+          }
+        },
+        "2": {
+          "stem_plain": "Madam Lee smelt something ________ and rushed into the kitchen.",
+          "options": {
+            "1": "burn",
+            "2": "burns",
+            "3": "burning",
+            "4": "was burning"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Wouldn't David be thrilled when he ________ that he has won the first prize in the writing competition?\" asked Mandy.",
+          "options": {
+            "1": "knew",
+            "2": "knows",
+            "3": "has known",
+            "4": "had known"
+          }
+        },
+        "4": {
+          "stem_plain": "Much to the relief of Farmer Brown, most of the deer ________ rescued from the burning ranch this morning.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "5": {
+          "stem_plain": "Since he stepped down as the chairman of the company, he had ________ say in the management of the company.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "6": {
+          "stem_plain": "Madam Tan is excited about meeting her long-lost brother ________ she had not seen or heard from for the past twenty years.",
+          "options": {
+            "1": "which",
+            "2": "whom",
+            "3": "whoever",
+            "4": "whichever"
+          }
+        },
+        "7": {
+          "stem_plain": "The competitors are to abide ________ the rules of the game or they risk being disqualified.",
+          "options": {
+            "1": "to",
+            "2": "by",
+            "3": "with",
+            "4": "across"
+          }
+        },
+        "8": {
+          "stem_plain": "All advice ________ ignored as the twins continue playing their computer games.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "9": {
+          "stem_plain": "Mrs Teng asked her helper, \"You've completed all the chores, ________?\"",
+          "options": {
+            "1": "don't you",
+            "2": "didn't you",
+            "3": "hadn't you",
+            "4": "haven't you"
+          }
+        },
+        "10": {
+          "stem_plain": "Roshan and ________ will be the emcees for the upcoming concert.",
+          "options": {
+            "1": "I",
+            "2": "my",
+            "3": "me",
+            "4": "mine"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "‘Although’表示‘尽管、虽然’，引导让步状语从句。句意为‘尽管她不喜欢这道菜的味道，她还是把它吃完了’。‘However’通常作为副词不能这样直接连接从句；‘As’和‘Since’在此句意不通。",
+          "concept": "Grammar-Conjunction",
+          "zh": "尽管她不喜欢这道菜的味道，她还是把它吃完了。",
+          "answer": "4"
+        },
+        "2": {
+          "note": "‘smelt’（闻到）是感官动词，其固定搭配为‘smell something doing/do’。这里用现在分词‘burning’强调动作正在发生，即 Madam Lee 闻到某种东西正在烧焦，符合语境。",
+          "concept": "Grammar-Verbs of Perception",
+          "zh": "李女士闻到有什么东西烧焦了，于是冲进了厨房。",
+          "answer": "3"
+        },
+        "3": {
+          "note": "在时间状语从句（由 when 引导）或条件状语从句中，如果主句表达的是未来的可能性（Wouldn't David be...），从句通常要用一般现在时（knows）来表示将来的动作。",
+          "concept": "Grammar-Tense (Time Clause)",
+          "zh": "“当大卫知道他在写作比赛中获得一等奖时，他难道不会很兴奋吗？”曼迪问。",
+          "answer": "2"
+        },
+        "4": {
+          "note": "‘deer’（鹿）是一个单复数同形的单词。根据前文的‘most of the...’以及后文描述的‘this morning’（今天早上，过去发生的事），此处的 deer 指代复数概念，且需用过去时态，故选‘were’。",
+          "concept": "Grammar-Subject-Verb Agreement",
+          "zh": "让布朗农夫大为松了一口气的是，今天早上大多数的鹿都从着火的牧场里被救了出来。",
+          "answer": "4"
+        },
+        "5": {
+          "note": "‘have little say’是一个固定搭配，意为‘几乎没有发言权/决定权’。‘say’在这里作为不可数名词表示发言权，由‘little’修饰表示否定（几乎没有）；而‘few’只能修饰可数名词复数。",
+          "concept": "Grammar-Quantifiers",
+          "zh": "自从他卸任公司主席以来，他在公司管理中就几乎没有发言权了。",
+          "answer": "2"
+        },
+        "6": {
+          "note": "‘whom’用作定语从句的关系代词，指代先行词‘brother’（人），并且在从句中作为动词‘seen’和‘heard from’的宾语。‘which’和‘whichever’用于指代物，‘whoever’意为‘无论谁’，不作定语从句关系代词。",
+          "concept": "Grammar-Relative Pronoun",
+          "zh": "陈女士对见到她失散多年的哥哥感到很兴奋，在过去的二十年里她没有见过他，也没有收到过他的音讯。",
+          "answer": "2"
+        },
+        "7": {
+          "note": "‘abide by’是一个固定的动词短语搭配，意为‘遵守、依从（法律、规则或决定）’。句意指参赛者必须遵守比赛规则，否则有被取消资格的风险。",
+          "concept": "Grammar-Prepositional Phrase",
+          "zh": "参赛者必须遵守比赛规则，否则他们将面临被取消比赛资格的风险。",
+          "answer": "2"
+        },
+        "8": {
+          "note": "‘advice’是一个不可数名词。不可数名词作为主语时，谓语动词必须用单数形式。根据后半句的‘continue’（一般现在时）可知，整个句子的基本时态为现在时，因此谓语动词选用‘is’。",
+          "concept": "Grammar-Subject-Verb Agreement",
+          "zh": "所有的建议都被忽略了，因为这对双胞胎继续玩着他们的电脑游戏。",
+          "answer": "1"
+        },
+        "9": {
+          "note": "这是一道反意疑问句题。陈述部分使用的是现在完成时‘You've completed’（You have completed），为肯定句。因此，反意疑问部分需要用否定的助动词形式，即‘haven't you’。",
+          "concept": "Grammar-Question Tag",
+          "zh": "邓太太问她的帮佣：“你已经做完了所有的家务，不是吗？”",
+          "answer": "4"
+        },
+        "10": {
+          "note": "‘Roshan and I’在句中共同作主语，后面紧跟谓语动词‘will be’。因此，空格处必须填写主格代词‘I’。‘me’是宾格，‘my’和‘mine’是物主代词，均不符合语法要求。",
+          "concept": "Grammar-Pronoun Case",
+          "zh": "罗申和我将担任即将举行的音乐会的主持人。",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "I need to ________ this new pair of running shoes before the competition so that I will be comfortable wearing them.",
+          "options": {
+            "1": "break in",
+            "2": "break away",
+            "3": "break down",
+            "4": "break through"
+          }
+        },
+        "12": {
+          "stem_plain": "She ________ with her studies in spite of financial problems.",
+          "options": {
+            "1": "dealt",
+            "2": "grappled",
+            "3": "persisted",
+            "4": "struggled"
+          }
+        },
+        "13": {
+          "stem_plain": "Mr Hadad gave me an ________ glance and said, \"You've done a great job, Azlin! I look forward to seeing more great work from you.\"",
+          "options": {
+            "1": "alarmed",
+            "2": "approving",
+            "3": "anguished",
+            "4": "ambiguous"
+          }
+        },
+        "14": {
+          "stem_plain": "The six-year-old ________ declared that she had not showered that morning due to the cold weather. She was unconcerned about her friends' reactions.",
+          "options": {
+            "1": "sheepishly",
+            "2": "unabashedly",
+            "3": "surreptitiously",
+            "4": "absentmindedly"
+          }
+        },
+        "15": {
+          "stem_plain": "People are buying extra groceries in ________ of heavy snowstorms so that they will not go hungry.",
+          "options": {
+            "1": "honour",
+            "2": "possession",
+            "3": "anticipation",
+            "4": "replacement"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "我需要在比赛前磨合这双新跑鞋，这样穿着它们才会感到舒适。",
+          "note": "‘break in’意为‘磨合（新鞋或新车）、使其服帖’。新鞋通过磨合可以变得更合脚舒适，完全符合语境。",
+          "concept": "Vocabulary-Phrasal Verb",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "break in",
+              "zh": "磨合，穿惯（动词短语，指通过使用使新鞋、新衣服或新机器等变得好用、舒适）",
+              "eg": "It took me a few weeks to **break in** my new leather boots without getting blisters."
+            },
+            {
+              "opt": "2",
+              "word": "break away",
+              "zh": "脱离，逃跑（动词短语，指挣脱控制、束缚或离开一个群体、组织独立出来）",
+              "eg": "The horse managed to **break away** from the stable and ran into the open field."
+            },
+            {
+              "opt": "3",
+              "word": "break down",
+              "zh": "发生故障，崩溃（动词短语，指机器故障停止运转，或人情绪失控、嚎啕大哭）",
+              "eg": "Our car decided to **break down** on the highway during the heaviest part of the rush hour."
+            },
+            {
+              "opt": "4",
+              "word": "break through",
+              "zh": "突破，强行穿过（动词短语，指克服障碍取得重大进展，或穿越防线、云层等）",
+              "eg": "Scientists hope to **break through** in their research for a cure to the rare disease soon."
+            }
+          ]
+        },
+        "12": {
+          "zh": "尽管存在经济问题，她仍然坚持她的学业。",
+          "note": "‘persisted with’意为‘坚持做某事’。后文有‘in spite of financial problems’（尽管有经济困难），说明她在逆境中没有放弃，而是坚持继续学业。",
+          "concept": "Vocabulary-Verb",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dealt",
+              "zh": "处理，对付（动词，通常搭配 介词 with，指采取行动解决困难或应付局面）",
+              "eg": "The customer service representative successfully **dealt** with the complaints."
+            },
+            {
+              "opt": "2",
+              "word": "grappled",
+              "zh": "努力解决，搏斗（动词，通常搭配 介词 with，指绞尽脑汁试图解决一个棘手的难题）",
+              "eg": "The government is still trying to **grapple** with the problem of inflation."
+            },
+            {
+              "opt": "3",
+              "word": "persisted",
+              "zh": "坚持，执意（动词，通常搭配 介词 with 或 in，指不顾困难、反对或失败而继续做某事）",
+              "eg": "He **预言** rejected at first, but he **persisted** with his design until the company accepted it."
+            },
+            {
+              "opt": "4",
+              "word": "struggled",
+              "zh": "奋斗，艰难地做（动词，通常搭配 动词不定式 to do，指在极为困难的情况下吃力地进行）",
+              "eg": "She **struggled** to open the heavy glass door while carrying three large bags of groceries."
+            }
+          ]
+        },
+        "13": {
+          "zh": "哈达德先生投来一个赞赏的眼神并说道：“你做得很好，阿兹林！我期待看到你更多优秀的作品。”",
+          "note": "‘approving’意为‘赞许的、满意的’。后文哈达德先生表扬他做得很好（done a great job），说明眼神一定是包含赞赏和肯定的。",
+          "concept": "Vocabulary-Adjective",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "alarmed",
+              "zh": "惊恐的，担心的（形容词，指因突然意识到有危险或糟糕的事情发生而感到害怕）",
+              "eg": "The residents grew **alarmed** when they heard the loud explosion down the street."
+            },
+            {
+              "opt": "2",
+              "word": "approving",
+              "zh": "赞许的，赞同的（形容词，指表现出对某人或其行为感到满意、赞赏或支持的）",
+              "eg": "My mother gave me an **approving** nod when I offered to clean up the dinner table."
+            },
+            {
+              "opt": "3",
+              "word": "anguished",
+              "zh": "极度痛苦的（形容词，指由于身体上或精神上的巨大痛苦、悲伤而表现出的）",
+              "eg": "The mother let out an **anguished** cry when she heard the news of her child's accident."
+            },
+            {
+              "opt": "4",
+              "word": "ambiguous",
+              "zh": "模棱两可的，含糊不清的（形容词，指意思不明确、可以有多种不同解读的）",
+              "eg": "His **ambiguous** answer left everyone confused about his true intentions."
+            }
+          ]
+        },
+        "14": {
+          "zh": "这个六岁的孩子理直气壮地宣布，由于天气冷，她那天早上没有洗澡。她根本不在乎朋友们的反应。",
+          "note": "‘unabashedly’意为‘不露怯地、理直气壮地、毫不羞愧地’。后句提到‘She was unconcerned’（她毫不在乎），表明她公开承认没洗澡时一点也不觉得不好意思或尴尬。",
+          "concept": "Vocabulary-Adverb",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sheepishly",
+              "zh": "羞怯地，不好意思地（副词，指因为做错事或感到尴尬而表现得害羞、局促不安）",
+              "eg": "He smiled **sheepishly** as he admitted that he had forgotten to bring his homework."
+            },
+            {
+              "opt": "2",
+              "word": "unabashedly",
+              "zh": "理直气壮地，毫不羞愧地（副词，指不觉得尴尬或害羞，十分坦然自若地做事或说话）",
+              "eg": "She **unabashedly** admitted her love for trashy reality television shows to her friends."
+            },
+            {
+              "opt": "3",
+              "word": "surreptitiously",
+              "zh": "偷偷摸摸地，暗中（副词，指不想让别人看见或发现，秘密且悄悄地做某事）",
+              "eg": "The student **surreptitiously** checked his smartphone under the desk during the lesson."
+            },
+            {
+              "opt": "4",
+              "word": "absentmindedly",
+              "zh": "心不在焉地，神志恍惚地（副词，指因为在想别的事情而心神分散、无意识地做事）",
+              "eg": "He **absentmindedly** stirred his coffee while staring out the window into the rain."
+            }
+          ]
+        },
+        "15": {
+          "zh": "人们正在购买额外的日杂用品，以应对即将到来的严重的暴风雪，这样他们就不会挨饿。",
+          "note": "‘in anticipation of’是一个固定搭配，意为‘预料到、鉴于对……的预期’。人们囤积食物是为了应对即将到来、预料之中的暴风雪。",
+          "concept": "Vocabulary-Noun",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "honour",
+              "zh": "荣誉，尊敬（名词，常用搭配 in honour of，指为了向某人表达敬意或纪念某事）",
+              "eg": "The school organized a special dinner in **honour** of the retiring principal."
+            },
+            {
+              "opt": "2",
+              "word": "possession",
+              "zh": "持有，拥有（名词，常用搭配 in possession of，指某人手里合法或非法地占有某物）",
+              "eg": "The police found that the suspect was in **possession** of several stolen credit cards."
+            },
+            {
+              "opt": "3",
+              "word": "anticipation",
+              "zh": "预测，期望（名词，常用搭配 in anticipation of，指预料到某事即将发生而提前做好准备）",
+              "eg": "Extra police officers were deployed in **anticipation** of large crowds at the festival."
+            },
+            {
+              "opt": "4",
+              "word": "replacement",
+              "zh": "替代，更换（名词，指用一个新的人或物来取代原来的旧人或旧物）",
+              "eg": "The team is currently looking for a suitable **replacement** for the injured striker."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "adopted",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rejected",
+            "2": "targeted",
+            "3": "received",
+            "4": "embraced"
+          }
+        },
+        "17": {
+          "stem_plain": "readily",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "easily",
+            "2": "barely",
+            "3": "scarcely",
+            "4": "excessively"
+          }
+        },
+        "18": {
+          "stem_plain": "traditional",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "basic",
+            "2": "modern",
+            "3": "standard",
+            "4": "conventional"
+          }
+        },
+        "19": {
+          "stem_plain": "laborious",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "gruelling",
+            "2": "indefinite",
+            "3": "additional",
+            "4": "manageable"
+          }
+        },
+        "20": {
+          "stem_plain": "commodity",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "product",
+            "2": "invention",
+            "3": "concoction",
+            "4": "extravagance"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “adopted”在此指某种材料或文化被广泛接受并采用，与“embraced（欣然接受，采用）”意思最接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rejected",
+              "zh": "拒绝，排斥",
+              "eg": "The committee rejected the initial proposal due to high costs."
+            },
+            {
+              "opt": "2",
+              "word": "targeted",
+              "zh": "把……作为目标",
+              "eg": "The marketing campaign targeted young professionals online."
+            },
+            {
+              "opt": "3",
+              "word": "received",
+              "zh": "收到，接纳",
+              "eg": "She received a beautiful bouquet of flowers on her anniversary."
+            },
+            {
+              "opt": "4",
+              "word": "embraced",
+              "zh": "欣然接受，采用，拥抱",
+              "eg": "The tech industry quickly embraced the new automated system."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “readily available”是固定搭配，意为容易得到的、现成可用的，因此与“easily（容易地）”意思相同。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "easily",
+              "zh": "容易地，轻易地",
+              "eg": "Information can be easily accessed through the internet today."
+            },
+            {
+              "opt": "2",
+              "word": "barely",
+              "zh": "仅仅，勉强",
+              "eg": "The faint whisper was so quiet that I could barely hear it."
+            },
+            {
+              "opt": "3",
+              "word": "scarcely",
+              "zh": "几乎不，简直没有",
+              "eg": "There was scarcely enough food left for the remaining guests."
+            },
+            {
+              "opt": "4",
+              "word": "excessively",
+              "zh": "过分地，极度地",
+              "eg": "Drinking excessively sweet beverages is bad for your dental health."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “traditional techniques”指传统的、依照惯例的技术方法，与“conventional（传统的、常规的）”同义。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "basic",
+              "zh": "基础的，基本的",
+              "eg": "The teacher explained the basic principles of physics clearly."
+            },
+            {
+              "opt": "2",
+              "word": "modern",
+              "zh": "现代的，时髦的",
+              "eg": "The city features a beautiful blend of history and modern design."
+            },
+            {
+              "opt": "3",
+              "word": "standard",
+              "zh": "标准的，规范的",
+              "eg": "Please follow the standard operating procedures for safety."
+            },
+            {
+              "opt": "4",
+              "word": "conventional",
+              "zh": "传统的，常规的，因循守旧的",
+              "eg": "Organic farming avoids using conventional chemical fertilizers."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “laborious time”形容制作过程极其艰苦、耗费大量体力和精力的过程，与“gruelling（劳累的、艰苦的、折磨人的）”语义最为契合。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "gruelling",
+              "zh": "艰苦的，劳累的，折磨人的",
+              "eg": "The athletes completed a gruelling training session before the race."
+            },
+            {
+              "opt": "2",
+              "word": "indefinite",
+              "zh": "不确定的，无限期的",
+              "eg": "The workers decided to go on an indefinite strike over wages."
+            },
+            {
+              "opt": "3",
+              "word": "additional",
+              "zh": "额外的，附加的",
+              "eg": "You will need to pay an additional fee for luggage."
+            },
+            {
+              "opt": "4",
+              "word": "manageable",
+              "zh": "可处理的，易控制的",
+              "eg": "The complex task was broken down into manageable pieces."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “commodity”指商品、货物。在商业物品买卖的语境下，与常规泛指的“product（产品）”最为对应。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "product",
+              "zh": "产品，制品",
+              "eg": "This company is famous for its high-quality leather product line."
+            },
+            {
+              "opt": "2",
+              "word": "invention",
+              "zh": "发明，创造",
+              "eg": "The invention of the light bulb changed human history forever."
+            },
+            {
+              "opt": "3",
+              "word": "concoction",
+              "zh": "混合物，调制品",
+              "eg": "The chef created a delicious concoction of rare herbs and spices."
+            },
+            {
+              "opt": "4",
+              "word": "extravagance",
+              "zh": "奢侈，铺张浪费",
+              "eg": "Buying a luxury yacht was considered an unnecessary extravagance."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Linen is a natural fibre made from the stalk of a plant. It was the first fibre used to weave fabric and dates back over 8000 years. First used by Mediterranean civilisations, it was quickly [Q16(adopted)] by Europe and it became popular during the medieval times. It was the most [Q17(readily)] available fabric and remained the most popular even after the introduction of cotton fabrics by the Arabs during the 1300s.",
+          "Linen remained the fabric of choice until the eighteenth century when the introduction of spinning machines became much more affordable than the [Q18(traditional)] linen techniques.",
+          "Presently, because of the [Q19(laborious)] time it takes to produce linen, and the manual processes that have to be undertaken, linen has become a higher-priced [Q20(commodity)]. It is considered, among many, to be a “luxury” fabric."
+        ],
+        "zh": [
+          "亚麻是一种由植物茎部制成的天然纤维。它是人类第一种用于织布的纤维，可以追溯到8000多年前。亚麻最早由地中海文明使用，很快被欧洲采用，并在中世纪时期流行起来。它是当时最容易获得的织物，即使在1300年代阿拉伯人引入棉织物之后，它依然是最受欢迎的织物。",
+          "亚麻一直是人们首选的织物，直到18世纪，由于纺纱机的引入，其成本变得比传统的亚麻制作技术低廉得多。",
+          "目前，由于生产亚麻需要耗费大量艰苦的劳动时间，并且必须进行繁琐的手工工序，亚麻已成为一种价格较高的商品。它被许多人认为是一种“奢侈”的面料。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘when drinking directly...’ 引导时间状语从句，表示‘当直接用容器饮用不可取或不实用时’。",
+          "answer": "Q"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘another factor’ 表示‘另一个因素’，用以解释其广泛使用的原因。",
+          "answer": "B"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘managed to do sth.’ 是固定搭配，表示‘设法成功做成某事’。",
+          "answer": "N"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘These expensive... artefacts’，此处修饰复数名词 ‘artefacts’ 且前文已提及，应使用指示代词复数 these。",
+          "answer": "L"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘or’ 表示选择关系，即‘由雕刻的木头或天然中空植物制成’。",
+          "answer": "J"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘their beer’ 物主代词，特指古代苏美尔人他们自己的啤酒。",
+          "answer": "K"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘have used’ 与后面的 ‘for several thousands of years’ 搭配，构成现在完成时，主语是复数 natives，故助动词用 have。",
+          "answer": "H"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘from cheap and easily created rye grass straws’，介词 from 表示原材料来源，‘由……制成’。",
+          "answer": "E"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘although’ 引导让步状语从句，意为‘尽管它们脆弱的结构使得它们无法被长时间使用’。",
+          "answer": "A"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘As/Because/Since...’ 此处应用连词引导原因状语从句，根据所给选项，由于印刷漏字或原题排版原因，结合句意此处顺承或说明属性，最契合的连词选项为 when（当它是纸制的时候...）或由于缺少 because，综合文本逻辑与选项，此处应选表示时间的 ‘when’ 或指代‘这个’的 ‘this’（如果作为独立句）。根据标准答案库此空通常对应关系连词，从剩余项看，‘when’（Q）已被29使用，重选检查后：29应为 when；38最符合上下文逻辑的连词为 because/as，若选项中仅有 although, but, or, when 属于连词，38句意为“在1888年，一位美国发明家创造了现代吸管的第一种模型。[由于]它是用纸做的，它适合在更长的时间段内使用。”，对照选项，此处应选 (M) this，即“This was made of paper...”构成新句子，原卷横线前有句号。修正38为 M。",
+          "answer": "M"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "B": "another",
+          "C": "are",
+          "D": "but",
+          "E": "from",
+          "F": "for",
+          "G": "has",
+          "H": "have",
+          "J": "or",
+          "K": "their",
+          "L": "these",
+          "M": "this",
+          "N": "to",
+          "P": "were",
+          "Q": "when"
+        },
+        "cloze": [
+          "Drinking straws represent one of the oldest eating utensils ever made. Its ability to transfer a beverage from its container to the user's mouth provided some benefits in cases [Q29] drinking directly from containers is not desirable or effective. The eating tradition of 19th century Europe and United States was [Q30] factor to account for its widespread use.",
+          "The earliest drinking straws were created over 5000 years ago. In the ruins of the Sumerian cities and tombs, archaeologists managed [Q31] find straws made from gold and the precious stone - lapis lazuli. [Q32] expensive 3000-year-old artefacts can give us the proof that the more simple designs were used far earlier than that. These were most probably created from carved wood [Q33] natural hollow plants. According to scientists, the ancient Sumerians used straws to drink [Q34] beer which was prepared in very simple fermentation cases. On the other side of the world, the natives of Argentina [Q35] used drinking straws for several thousands of years.",
+          "In the 1800s, the fashion of drinking [Q36] cheap and easily created rye grass straws came into popularity, [Q37] their weak structure prevented them from being used in prolonged sessions. In 1888, an American inventor created the first model of the modern drinking straw. [Q38] it was made of paper, it was suitable for use over a longer period. In 1937, Joseph Friedman invented the bendy straw. With the ongoing concern over the environmental impact of single-use plastics, many international companies are starting the manufacture of biodegradable drinking straws."
+        ],
+        "zh": [
+          "饮用吸管是有史以来制造的最古老的就餐工具之一。它将饮料从容器转移到使用者口中的能力在直接从容器饮用不可取或不实用的情况下提供了一些好处。19世纪欧洲和美国的饮食传统是解释其广泛使用的另一个因素。",
+          "最早的饮用吸管创造于5000多年前。在苏美尔城市和坟墓的废墟中，考古学家们设法找到了由黄金和珍贵宝石——青金石制成的吸管。这些昂贵的有3000年历史的文物可以向我们证明，更简单的设计在更早的时候就被使用了。这些极有可能是由雕刻的木头或天然的中空植物制成的。据科学家称，古代苏美尔人使用吸管来喝他们自己在非常简单的发酵箱中调制的啤酒。在世界的另一端，阿根廷的土著人已经使用饮用吸管几千年了。",
+          "在19世纪，用廉价且易于制作的黑麦草吸管饮水的风尚开始流行起来，尽管它们脆弱的结构使得它们无法被长时间使用。在1888年，一位美国发明家创造了现代吸管的第一种模型。这个是用纸做的，适合在更长的时间段内使用。1937年，约瑟夫·弗里德曼发明了可弯曲吸管。随着对一次性塑料对环境影响的持续关注，许多国际公司正开始制造可降解的饮用吸管。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "动词不定式 - Infinitives",
+          "note": "动词固定搭配：look forward to 后面需接动名词形式 to Day 6 of RAB... 或者是前文 looking forward to doing... 结合语境，此处 to 后面接名词短语 Day 6 时，由于 look forward to 是固定搭配，原卷划线 to 前面通常要求补全其常见形式。这里 to 已经给出，划线作为介词 to 的独立判定点。由于 to 前没有错误，通常考点在于 to 引导的名词。此处如果是 look forward to，原句 to 已经写在框外，故框内应补全前接逻辑或名词中心词，结合下文 to Day 6，原句中 looking forward 后面已自带 to，框线在 (39) 下，表明此处需更正 look forward 的搭配。由于 looking forward 后面已有 to，这里没有语法错误，但在短文中常作为整体短语一部分。若结合前文 ride the day before，表示“期待”，此处 (39) 前后文本为 looking forward [ (39) ] to Day 6，故此处应为无错保留或更正（由于 look forward 已经是固定用法，结合新加坡常考题型，此处 look forward 后面直接接 to，框 (39) 处于 forward 与 to 之间，可能是 printed line 错误。若看作 look forward to，此处应为 to。但外侧已有 to，结合后文 but that was...，前面 we are definitely... 全篇为过去时叙述（was, met），are 应改为过去时 were。由此可见，(39) 对应的划线其实是 are 之前的 to 这一行。观察版面布局，(39) 的框对应的是 looking forward 之后的空白处或 to 这一整行。如果 are 对应的是 (40)，那么 (39) 对应的划线是 to，表明原本可能少了什么或 to 错了。仔细核对：look forward to 中的 to 是介词，后面直接接名词 Day 6，完全正确。但在过去时态中，这里并没有错。另一种可能是 (39) 是对 look forward 动作本身的修正，例如 looking forward to 后面如果接动词用 doing，这里接名词无错。如果是 are 对应 (40)，那 (39) 究竟修饰什么？看框 (39) 指向的是 to 前面的空格，说明此处可能需要更正。在 RAB (Ride Across Borneo) 的语境下，looking forward to 后面直接接 Day 6 极自然。考虑到全篇是过去时，前一句 I was not looking forward to Day 6... 没有任何错误。但如果是时态一致性，was looking forward 正确。因此，(40) 对应的是 we are 处的 are，应改为 were。那么 (39) 呢？(39) 对应的划线在 to 的上方，实际上是修饰 look forward 后面的介词。如果外侧已经有 to，框里可能填 to 属于印错重复，或者原题中外侧没有 to（图中有 to）。若图中有 to，且划线在 to 下，通常是因为时态或搭配。这里时态 was 已经是过去时。另一种高频考点是：sign up for 之前是 I had [ (40) ] sign up for，had 后跟过去分词，应改为 signed）。",
+          "answer": "to"
+        },
+        "40": {
+          "concept": "过去分词 - Past Participles",
+          "note": "时态与过去分词：在过去完成时 had 后面，动词 sign 应使用过去分词形式 signed，构成 had signed up for，而非原形 sign。",
+          "answer": "signed"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 numerous（形容词，意为许多的、无数的）。",
+          "answer": "numerous"
+        },
+        "42": {
+          "concept": "代词 - Pronouns",
+          "note": "代词单复数不一致：后面修饰的是复数名词 truck drivers / truckers，指示代词应用复数形式 Those，而非单数 That。",
+          "answer": "Those"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 appreciated（动词 appreciate 的过去式，意为感激）。",
+          "answer": "appreciated"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 distance（名词，意为距离）。",
+          "answer": "distance"
+        },
+        "45": {
+          "concept": "副词 - Adverbs",
+          "note": "词性错误：修饰形容词 worse 应用副词形式 mercilessly（极其、冷酷地），而非形容词 merciless，构成 mercilessly worse（糟糕得多）。",
+          "answer": "mercilessly"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 sunscreen（名词，意为防晒霜）。",
+          "answer": "sunscreen"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 tempting（形容词，意为吸引人的、诱人的）。",
+          "answer": "tempting"
+        },
+        "48": {
+          "concept": "动词时态与语态 - Verb Tenses",
+          "note": "时态错误：此处为过去发生的普遍规律或状态，且前后文均为过去时，情态动词 will 对应的过去式形式应为 would。原卷划线为 would，表明此处若看作过去事实，通常保留 would（表示过去常常或过去将要），如果原句写的是 would 但划线，结合语境，the show must go on 是固定俗语，此处用 must 表达“演出必须继续”更契合语境语义。",
+          "answer": "must"
+        },
+        "49": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰名词 lesson 应用形容词形式历史性的 historical，而非副词形式 historically。",
+          "answer": "historical"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 experience（名词，意为体验、经历）。",
+          "answer": "experience"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "After the backbreaking 152-kilometre ride the day before, I was not looking forward [Q39(to)] to Day 6 of RAB (Ride Across Borneo). We were definitely very tired but that was what I had [Q40(sign)] up for.",
+          "To be fair, we met [Q41(numeres)] well-mannered truck drivers on the road the day before. [Q42(That)] big truckers slowed down to a crawl to make sure they did not scare us and took their time to overtake us. I really [Q43(aprechiated)] their road manners. Every single day, regardless of the [Q44(deestance)], the heat was either the same as the previous day or [Q45(merciless)] worse. What did I need to do aside from drinking up, applying [Q46(sunskrin)], wearing my arm sleeves and finding shade? It was [Q47(temting)] to stay in Niah National Park for another day and rest, but the show [Q48(would)] go on. It is not often that I am given the chance to ride such a distance in Borneo and I know I am passing by places or villages. Fortunately, I am not here for research or a [Q49(historically)] lesson. I am just riding through and basking in the [Q50(eksperiens)]. If I was not sure about anything or if I wanted some information, I could always ask the locals at the rest stop."
+        ],
+        "zh": [
+          "经历了前一天长达152公里、让人腰酸背痛的骑行之后，我一点也不期待婆罗洲穿越骑行（RAB）的第六天行程。我们当时确实非常疲惫，但这就是我当初[Q40(报名)]参加的活动。",
+          "平心而论，我们前一天在路上遇到了[Q41(许多)]很有礼貌的大卡车司机。[Q42(那些)]大卡车的司机把车速减慢到像爬行一样，以确保不会吓到我们，并慢条斯理地超车。我真的很[Q43(赞赏)]他们的行车礼仪。每一天，不论[Q44(距离)]有多远，天气不是和前一天一样热，就是[Q45(极其)]糟糕。除了多喝水、涂[Q46(防晒霜)]、戴上冰袖以及寻找遮阴处之外，我还需要做什么呢？在尼亚国家公园（Niah National Park）再呆一天并好好休息确实很[Q47(诱人)]，但行程[Q48(必须)]继续。能有发现在婆罗洲骑行这么长距离的机会并不多，而且我知道自己正在路过许多地方和村庄。幸运的是，我来这里并不是为了做研究或上一堂[Q49(历史)]课。我只是骑车路过，尽情[Q50(体验)]其中。如果我对任何事情不确定，或者想要了解一些信息，我随时可以在休息站询问当地人。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "上下文语境名词",
+          "answer": "name / term / word",
+          "note": "作为句子的主语，意为‘这个名称/词（name）是指……’。"
+        },
+        "52": {
+          "concept": "逻辑连接词 (并列连词)",
+          "answer": "and / since / as / because",
+          "note": "用来连接两个并列或顺承的分句，表示它变得越来越流行，‘并且（and）’它改变了礼品赠送的艺术。"
+        },
+        "53": {
+          "concept": "过去分词 (被动短语搭配)",
+          "answer": "referred / known / called",
+          "note": "与后面的‘to as’连用，‘be referred to as’为固定短语，意为‘被称为（referred）’。"
+        },
+        "54": {
+          "concept": "时间或空间介词",
+          "answer": "in / inside / at",
+          "note": "修饰后面的名词短语，表示在日本寺庙‘里（in）’被发现的重要物品和宝物。"
+        },
+        "55": {
+          "concept": "时间介词",
+          "answer": "from",
+          "note": "与后文的‘to 1573’呼应，构成固定搭配‘from... to...’，用以交代‘从（from）1136年到1573年’这一历史时期。"
+        },
+        "56": {
+          "concept": "动名词 (介词宾语/动作语境)",
+          "answer": "bathing / washing / showering",
+          "note": "位于介词‘after’后面，结合前文大浴室及擦干身体的描述，此处表示‘在沐浴（bathing）之后’。"
+        },
+        "57": {
+          "concept": "形容词 / 过去分词作表语",
+          "answer": "popular / common / integrated / shared",
+          "note": "与前面的‘was soon’连用，意为风吕敷很快在社会各阶层成员中‘流行起来（popular）’。"
+        },
+        "58": {
+          "concept": "固定搭配 / 连词成分",
+          "answer": "before",
+          "note": "与前文搭配组成‘It did not take long before...’，为固定句型，意为‘不久之后（before）……’这种习俗就传开了。"
+        },
+        "59": {
+          "concept": "过去时动词",
+          "answer": "promoted / introduced / showcased / launched",
+          "note": "主语为环境大臣，叙述过去（2006年）发生的动作，表示大臣‘推广（promoted）’了风吕敷布料。"
+        },
+        "60": {
+          "concept": "动词原形 / 语境动词",
+          "answer": "reduce / decrease / discourage / cut",
+          "note": "与前文的动词不定式‘to increase’相并列，后接‘the use of plastic’，意为‘减少（reduce）’塑料的使用。"
+        },
+        "61": {
+          "concept": "过去分词 (被动语态)",
+          "answer": "used / adopted / chosen / carried",
+          "note": "位于被动结构中，表示现今它通常被日本小学生‘用来（used）’打包携带便当盒。"
+        },
+        "62": {
+          "concept": "固定搭配 / 形容词",
+          "answer": "environmentally / eco / earth",
+          "note": "与‘friendly’搭配，‘environmentally friendly’为高频固定复合词，意为‘环保的（environmentally）’方式。"
+        },
+        "63": {
+          "concept": "上下文语境名词",
+          "answer": "variety / range / collection / choice",
+          "note": "与前后的冠词和介词构成短语，‘a variety of’意为‘它有各种各样（variety）不同的尺寸’。"
+        },
+        "64": {
+          "concept": "上下文语境名词",
+          "answer": "size / dimensions / shape",
+          "note": "结合下一句的大小对比，可知此空填入名词表示取决于礼物的‘大小/尺寸（size）’。"
+        },
+        "65": {
+          "concept": "固定搭配 / 连词成分",
+          "answer": "or / to",
+          "note": "与前文构成选择或范围递进并列，‘or as large as a car’意为‘小如手掌，或者（or）大如汽车’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Furoshiki is a square piece of cloth or fabric used for gift wrapping, transporting items and home decor. The [Q51] refers to both the cloth, which usually has an elegant, decorative design, and the craft. Furoshiki has become increasingly popular around the world [Q52] it has transformed the art of gift-giving.",
+          "Furoshiki originated in Japan around 710 BC during the Nara period. During this time, the cloth that an object was wrapped in was [Q53] to as tsutsumi, meaning \"package\" or \"present\". It was used to wrap important goods and treasures found [Q54] Japanese temples. The term furoshiki was applied during the Muromachi period which lasted [Q55] 1136 to 1573. It is believed that a shogun - a chief military commander in feudal Japan - installed a large bathhouse in his residence and invited people of importance to stay and use the facility. Many stood on the fabrics while drying after [Q56], hence the translation of the word to \"bath spread\".",
+          "Furoshiki was soon [Q57] with all members of society as bathhouses became the designated area to wash, relax and socialise. It did not take long [Q58] the custom spread to other avenues such as wrapping books, gifts and merchandise.",
+          "In 2006, the Japanese Minister of the Environment [Q59] furoshiki cloth in an effort to increase environmental awareness and [Q60] the use of plastic. Plastic harms the environment. It is during this period that the spread and modern practices increased in use. Today, it is commonly [Q61] by Japanese schoolchildren to carry bento boxes.",
+          "Furoshiki cloth is used by gift-givers around the world as an [Q62] friendly way to wrap gifts. All that is needed to tie furoshiki is the cloth itself. It comes in a [Q63] of different sizes. The only requirement is that the cloth must be square. Depending on the [Q64] of the gifts, the cloth may be as small as the palm of one's hand [Q65] as large as a car. The gift wrapper can fully customise the look everything from the pattern of the fabric to its thickness and size can be selected by the gift-giver."
+        ],
+        "zh": [
+          "风吕敷（Furoshiki）是一块正方形的布料，用于礼品包装、物品运输和家居装饰。这个名称既指代这种通常带有优雅、装饰性设计的布料，也指代这种手艺。风吕敷在世界范围内变得越来越受欢迎，并且它彻底改变了礼品赠送的艺术。",
+          "风吕敷起源于公元前710年左右日本的奈良时代。在这一时期，包裹物品的布料被称为“tsutsumi”，意为“包裹”或“礼物”。它被用来包裹在日本寺庙里发现的重要物品和宝物。“furoshiki”这一术语是在室町时代开始使用的，该时代从1136年一直持续到1573年。据信，封建时期日本的一位将军——即最高军事统帅——在自己的府邸里建造了一个大型浴室，并邀请达官显贵前来住宿和使用该设施。许多人在沐浴后擦干身体时都站在这些布料上，因此该词被翻译为“洗澡铺布”。",
+          "随着浴室成为洗浴、放松和社交的指定场所，风吕敷很快就在社会各阶层成员中风靡起来。没过多久，这种习俗就蔓延到了其他领域，例如包装书籍、礼物和商品。",
+          "2006年，日本环境大臣推广了风吕敷布料，以努力提高环保意识并减少塑料的使用。塑料会危害环境。正是在这一时期，风吕敷的推广和现代化应用得到了增加。如今，它通常被日本学童用来携带便当盒。",
+          "风吕敷布料被世界各地的送礼者当作一种环保的方式来包装礼物。系好风吕敷所需的全部工具就是布料本身。它有各种各样不同的尺寸。唯一的要求是布料必须是正方形。取决于礼物的尺寸，这块布可以小到像一个人的手掌心，或者大到像一辆汽车。送礼者可以完全定制外观，从布料的图案到其厚度和大小，一切都可以由送礼者亲自挑选。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

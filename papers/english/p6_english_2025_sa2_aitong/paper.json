@@ -1,0 +1,1506 @@
+{
+  "paperid": "p6_english_2025_sa2_aitong",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The family had come to a decision _______ whether to proceed with the operation for their ailing father.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "for",
+            "4": "with"
+          }
+        },
+        "2": {
+          "stem_plain": "\"Where _______ the pants that I left on the ironing board earlier?\" asked Mrs Toh.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "Mother suggested that Sarah and I go to the park while she stayed home by _______.",
+          "options": {
+            "1": "myself",
+            "2": "herself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "4": {
+          "stem_plain": "_______ to her surprise, Jeanette crossed the finish line ahead of time, breaking her own record.",
+          "options": {
+            "1": "Any",
+            "2": "Little",
+            "3": "Much",
+            "4": "Many"
+          }
+        },
+        "5": {
+          "stem_plain": "\"He'd have submitted his project by now, _______ he?\" Alex asked, looking concerned.",
+          "options": {
+            "1": "don't",
+            "2": "won't",
+            "3": "didn't",
+            "4": "wouldn't"
+          }
+        },
+        "6": {
+          "stem_plain": "Among all the movies I have watched, this is undoubtedly _______ one.",
+          "options": {
+            "1": "an interesting",
+            "2": "a very interesting",
+            "3": "the most interesting",
+            "4": "the more interesting"
+          }
+        },
+        "7": {
+          "stem_plain": "By the end of this year, Mr Lim's daughter _______ her studies overseas.",
+          "options": {
+            "1": "finishes",
+            "2": "is finishing",
+            "3": "has finished",
+            "4": "will have finished"
+          }
+        },
+        "8": {
+          "stem_plain": "\"Wouldn't Grandma be thrilled if she _______ that we had cooked lunch for her?\" Benjamin asked his sister.",
+          "options": {
+            "1": "knew",
+            "2": "known",
+            "3": "has known",
+            "4": "had known"
+          }
+        },
+        "9": {
+          "stem_plain": "The referee continued with the match _______ the drizzle.",
+          "options": {
+            "1": "owing to",
+            "2": "in spite of",
+            "3": "even though",
+            "4": "resulting from"
+          }
+        },
+        "10": {
+          "stem_plain": "Intending to surprise Jeremy with a birthday party, his parents insisted he _______ home earlier that day.",
+          "options": {
+            "1": "come",
+            "2": "came",
+            "3": "comes",
+            "4": "coming"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "介词 — Preposition with decision",
+          "zh": "家人已决定是否要为病重的父亲动手术。",
+          "note": "名词 decision 后接论题时常用介词 on（a decision on whether ...），不要用 decision for whether 这类搭配。\n\n主语'The family'；谓语'had come to a decision'；介词短语'on whether ... father'说明决定的内容。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "主谓一致 — Subject–verb agreement",
+          "zh": "“我早些时候留在熨衣板上的那条裤子在哪里？”杜太太问道。",
+          "note": "pants 形式上总是复数，谓语用复数 are；不要受疑问词提前影响而误用单数动词。\n\n'Where'为状语；'are'为谓语；'the pants ... earlier'为主语（内含定语从句）。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "代词 — Reflexive pronoun",
+          "zh": "母亲建议莎拉和我去公园，而她自己留在家里。",
+          "note": "反身代词要与从句主语一致：这里 she 指 Mother -> herself。\n\n主句主语'Mother'+ 谓语'suggested'+ 宾语从句；'while'引导时间从句，'she'指母亲本人。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "固定搭配 — Fixed opener",
+          "zh": "令她大为惊讶的是，珍妮特提前冲过终点线，打破了自己的纪录。",
+          "note": "固定搭配 Much to one's surprise 作评注性状语，相当于“令她非常惊讶的是……”。\n\n评注性状语 + 主句：主语'Jeanette'；谓语'crossed'；宾语'the finish line...'；现在分词短语作伴随状语。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "反意疑问句 — Question tag",
+          "zh": "“他现在本该已经交作业了，不是吗？”亚历克斯担心地问。",
+          "note": "附加问句要重复陈述部分的助动词：would have -> wouldn't。\n\n叙述框架：'Alex'作主语，'asked'作谓语，引语整体作宾语；引语内为陈述句 + 附加问句。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "最高级 — Superlative",
+          "zh": "在我看过的所有电影中，这无疑是最有趣的一部。",
+          "note": "有范围限定（among all ...）要用最高级 the most + adj。\n\n状语'Among all...'；主系表：'this'+'is'+'the most interesting one'。",
+          "answer": "3"
+        },
+        "7": {
+          "concept": "将来完成时 — Future perfect",
+          "zh": "到今年年底，林先生的女儿将会完成她在海外的学业。",
+          "note": "'By the end of + 将来时间点'表示在该点之前动作已完成 -> 将来完成时 will have + 过去分词。\n\n时间状语；主语'Mr Lim's daughter'；谓语'will have finished'；宾语'her studies overseas'。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "条件句 — Verb form in if-clause",
+          "zh": "“要是奶奶知道我们为她做了午饭，她难道不会很高兴吗？”本杰明问妹妹。",
+          "note": "与现在设想相关的 if 从句常用过去式表示非真实或假设；后面'had cooked'已是过去的完成，不叠用 had known。\n\n主句为疑问；'if'引导条件从句，'that'引导宾语从句。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "名词 — Contrast + noun phrase",
+          "zh": "尽管下着毛毛雨，裁判仍继续进行比赛。",
+          "note": "even though 后接从句；此处只有名词'the drizzle'-> 用 in spite of 或 despite。\n\n主语'The referee'；谓语'continued with the match'；介词短语表让步。",
+          "answer": "2"
+        },
+        "10": {
+          "concept": "虚拟语气 — Mandative subjunctive",
+          "zh": "为了给杰里米生日惊喜，他的父母坚持要他那天早点回家。",
+          "note": "insist that somebody (should) do；此处用原形 come 表虚拟/祈使语气（英式常见）。\n\n分词短语作状语；主句'his parents insisted'+ 宾语从句'he come...'。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "After getting a standing ovation, the actress _______ in the limelight, her eyes gleaming with joy.",
+          "options": {
+            "1": "shone",
+            "2": "basked",
+            "3": "radiated",
+            "4": "absorbed"
+          }
+        },
+        "12": {
+          "stem_plain": "Maya showed _______ when she said not to gossip, then talked about June behind her back.",
+          "options": {
+            "1": "discrimination",
+            "2": "hypocrisy",
+            "3": "rudeness",
+            "4": "authority"
+          }
+        },
+        "13": {
+          "stem_plain": "The _______ mother gives her only son anything he wants even when it is not good for him.",
+          "options": {
+            "1": "devoted",
+            "2": "indulgent",
+            "3": "supportive",
+            "4": "extravagant"
+          }
+        },
+        "14": {
+          "stem_plain": "When I told Josh he was being too aggressive, he finally _______ and stopped yelling.",
+          "options": {
+            "1": "backed into",
+            "2": "backed out",
+            "3": "backed off",
+            "4": "backed up"
+          }
+        },
+        "15": {
+          "stem_plain": "When asked about the new school rules, Mark replied _______, showing little interest in the changes.",
+          "options": {
+            "1": "casually",
+            "2": "arrogantly",
+            "3": "unfeelingly",
+            "4": "indifferently"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "获得全场起立鼓掌后，女演员沉浸在聚光灯下，眼中闪着喜悦。",
+          "note": "应选（2）'basked'：题干语境最宜表达'沉浸于（赞美、关注）'。'shone'义为'发光；表现出色'：虽可描写发光或出色，但不能自然接 in the limelight 这一固定搭配，语境不合。'radiated'义为'散发（光、热、情感）'：语义暗示与题干要求不一致。'absorbed'义为'吸收；使全神贯注'：与题干所需搭配或惯用结构不成立。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — basked（沉浸于（赞美、关注））",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "shone",
+              "zh": "发光；表现出色",
+              "eg": "Pride <strong>shone</strong> on her face when she heard the good news."
+            },
+            {
+              "opt": "2",
+              "word": "basked",
+              "zh": "沉浸于（赞美、关注）",
+              "eg": "After the award ceremony, the singer <strong>basked</strong> in applause from the crowd."
+            },
+            {
+              "opt": "3",
+              "word": "radiated",
+              "zh": "散发（光、热、情感）",
+              "eg": "Kindness <strong>radiated</strong> from the volunteer as she greeted every visitor."
+            },
+            {
+              "opt": "4",
+              "word": "absorbed",
+              "zh": "吸收；使全神贯注",
+              "eg": "He was so <strong>absorbed</strong> in his comic that he missed his stop."
+            }
+          ]
+        },
+        "12": {
+          "zh": "玛雅嘴上说不要八卦，背后却议论琼，表现出虚伪。",
+          "note": "应选（2）'hypocrisy'：题干语境最宜表达'虚伪；言行不一'。'discrimination'义为'歧视；辨别'：与题干逻辑及英语解析中的辨析不一致。'rudeness'义为'粗鲁；无礼'：与题干逻辑及英语解析中的辨析不一致。'authority'义为'权威；当局'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — hypocrisy（虚伪；言行不一）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "discrimination",
+              "zh": "歧视；辨别",
+              "eg": "The company has a strict policy against racial <strong>discrimination</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "hypocrisy",
+              "zh": "虚伪；言行不一",
+              "eg": "Calling for honesty while cheating is pure <strong>hypocrisy</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "rudeness",
+              "zh": "粗鲁；无礼",
+              "eg": "The teacher would not tolerate <strong>rudeness</strong> during the guest speaker's talk."
+            },
+            {
+              "opt": "4",
+              "word": "authority",
+              "zh": "权威；当局",
+              "eg": "Parents and schools share <strong>authority</strong> in guiding online behaviour."
+            }
+          ]
+        },
+        "13": {
+          "zh": "这位母亲溺爱独子，即使对他有害也样样满足。",
+          "note": "应选（2）'indulgent'：题干语境最宜表达'溺爱的；纵容的'。'devoted'义为'挚爱的；专注的'：与题干逻辑及英语解析中的辨析不一致。'supportive'义为'支持的；给予帮助的'：与题干逻辑及英语解析中的辨析不一致。'extravagant'义为'奢侈的；铺张的'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — indulgent（溺爱的；纵容的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "devoted",
+              "zh": "挚爱的；专注的",
+              "eg": "She is a <strong>devoted</strong> teacher who stays back to help weaker pupils."
+            },
+            {
+              "opt": "2",
+              "word": "indulgent",
+              "zh": "溺爱的；纵容的",
+              "eg": "<strong>Indulgent</strong> grandparents sometimes spoil children with too many sweets."
+            },
+            {
+              "opt": "3",
+              "word": "supportive",
+              "zh": "支持的；给予帮助的",
+              "eg": "Friends were very <strong>supportive</strong> when I failed my first driving test."
+            },
+            {
+              "opt": "4",
+              "word": "extravagant",
+              "zh": "奢侈的；铺张的",
+              "eg": "Buying three designer bags in one month is rather <strong>extravagant</strong>."
+            }
+          ]
+        },
+        "14": {
+          "zh": "我告诉乔希他太咄咄逼人后，他终于退让，不再大吼大叫。",
+          "note": "应选（3）'backed off'：题干语境最宜表达'退让；不再咄咄逼人'。'backed into'义为'倒车撞上；被迫承担'：与题干逻辑及英语解析中的辨析不一致。'backed out'义为'退出；食言'：与题干逻辑及英语解析中的辨析不一致。'backed up'义为'支持；（交通）堵塞'：语义或语域与语境不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — backed off（退让；不再咄咄逼人）",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "backed into",
+              "zh": "倒车撞上；被迫承担",
+              "eg": "He accidentally <strong>backed into</strong> a lamppost while parking the family car."
+            },
+            {
+              "opt": "2",
+              "word": "backed out",
+              "zh": "退出；食言",
+              "eg": "Two teams <strong>backed out</strong> of the tournament at the last minute."
+            },
+            {
+              "opt": "3",
+              "word": "backed off",
+              "zh": "退让；不再咄咄逼人",
+              "eg": "When the referee blew the whistle, both players <strong>backed off</strong> immediately."
+            },
+            {
+              "opt": "4",
+              "word": "backed up",
+              "zh": "支持；（交通）堵塞",
+              "eg": "True friends <strong>backed up</strong> her story when others doubted her."
+            }
+          ],
+          "image": "a14.jpeg"
+        },
+        "15": {
+          "zh": "被问及新校规时，马克冷淡作答，显得对变化毫无兴趣。",
+          "note": "应选（4）'indifferently'：题干语境最宜表达'漠不关心地；冷淡地'。'casually'义为'随意地；漫不经心地'：与题干逻辑及英语解析中的辨析不一致。'arrogantly'义为'傲慢地'：与题干逻辑及英语解析中的辨析不一致。'unfeelingly'义为'冷漠无情地'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — indifferently（漠不关心地；冷淡地）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "casually",
+              "zh": "随意地；漫不经心地",
+              "eg": "She mentioned the prize <strong>casually</strong>, as if it were nothing special."
+            },
+            {
+              "opt": "2",
+              "word": "arrogantly",
+              "zh": "傲慢地",
+              "eg": "He <strong>arrogantly</strong> refused to apologise after cutting the queue."
+            },
+            {
+              "opt": "3",
+              "word": "unfeelingly",
+              "zh": "冷漠无情地",
+              "eg": "The villain spoke <strong>unfeelingly</strong> about the villagers he had displaced."
+            },
+            {
+              "opt": "4",
+              "word": "indifferently",
+              "zh": "漠不关心地；冷淡地",
+              "eg": "He shrugged <strong>indifferently</strong> when we asked if he wanted to join the outing."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "Rolled out",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Originated",
+            "2": "Embarked",
+            "3": "Launched",
+            "4": "Founded"
+          }
+        },
+        "17": {
+          "stem_plain": "convenient",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "advanced",
+            "2": "creative",
+            "3": "efficient",
+            "4": "flexible"
+          }
+        },
+        "18": {
+          "stem_plain": "limits",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "barriers",
+            "2": "guidelines",
+            "3": "restrictions",
+            "4": "allowances"
+          }
+        },
+        "19": {
+          "stem_plain": "top up",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "supplement",
+            "2": "replenish",
+            "3": "increase",
+            "4": "boost"
+          }
+        },
+        "20": {
+          "stem_plain": "without delay",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "readily",
+            "2": "virtually",
+            "3": "indirectly",
+            "4": "effortlessly"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "As a student, I find the POSB Smart Buddy programme helpful. [Q16 (Rolled out)] in 2017, it is now expanding to all schools in Singapore. With Smart Buddy, making payments in school has become so [Q17 (convenient)]. I just tap my smartwatch or EZ-Link card to pay for meals or items at the canteen and bookstore. My parents like it too. Using the free Smart Buddy app, they can track my spendings each day, set daily spending [Q18 (limits)] and even help me create savings goals. Whenever I am low on money, they can [Q19 (top up)] my account through the mobile app remotely, no matter the location, [Q20 (without delay)]. I also like that the programme is more than just about spending — it teaches me how to use digital payments safely and manage my money wisely."
+        ],
+        "zh": [
+          "作为一名学生，我觉得 POSB Smart Buddy 计划很有帮助。该计划于2017年推出，如今正扩展至新加坡所有学校。有了 Smart Buddy，在学校付款变得十分方便：我只需在食堂和书店轻触智能手表或 EZ-Link 卡即可付餐费或购物。父母也很喜欢。通过免费的 Smart Buddy app，他们可以追踪我每天的消费，设置每日限额，甚至帮我制定储蓄目标。每当我钱不够时，他们都能通过手机应用远程充值，无论身在何处，都毫不耽搁。我也喜欢这计划不只关乎花钱——它教会我如何安全使用电子支付，并明智地管理钱财。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — Rolled out（推出；正式启动）",
+          "note": "应选（3）'Launched'：短文划线的 <em>Rolled out</em> 指计划被正式推出，与 launched 同义。'Originated'：义为'起源；发源'，强调事物从何而来，不能表达“推出一项计划”。'Embarked'：义为'着手；开始'，常接 on a journey/task，不适合描述全国推广的计划。'Founded'：义为'创立；创办'，用于成立机构，与 roll out a programme 不符。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "该计划于2017年推出，如今正扩展至新加坡所有学校。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Originated",
+              "zh": "起源；发源",
+              "eg": "The tradition <strong>originated</strong> in a small fishing village centuries ago."
+            },
+            {
+              "opt": "2",
+              "word": "Embarked",
+              "zh": "着手；开始（ embark on ）",
+              "eg": "The team <strong>embarked</strong> on a year-long research project."
+            },
+            {
+              "opt": "3",
+              "word": "Launched",
+              "zh": "推出；正式启动",
+              "eg": "The bank <strong>launched</strong> a new savings scheme for students last month."
+            },
+            {
+              "opt": "4",
+              "word": "Founded",
+              "zh": "创立；创办",
+              "eg": "The society was <strong>founded</strong> in 1965 to support needy families."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — convenient（方便；省事）",
+          "note": "应选（3）'efficient'：短文划线的 <em>convenient</em> 强调付款省事、顺畅，efficient 在此最接近（按校方答案）。'advanced'：义为'先进的'，指技术先进，非“使用方便'。'creative'：义为'有创造力的'，与付款是否方便无关。'flexible'：义为'灵活的'，指时间或规则可调整，不能替换 convenient。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "有了 Smart Buddy，在学校付款变得十分高效省事。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "advanced",
+              "zh": "先进的",
+              "eg": "The school uses <strong>advanced</strong> software to track attendance."
+            },
+            {
+              "opt": "2",
+              "word": "creative",
+              "zh": "有创造力的",
+              "eg": "The pupils presented a <strong>creative</strong> solution to reduce food waste."
+            },
+            {
+              "opt": "3",
+              "word": "efficient",
+              "zh": "高效的；省事的",
+              "eg": "Tapping a card to pay is quick and <strong>efficient</strong> at the canteen."
+            },
+            {
+              "opt": "4",
+              "word": "flexible",
+              "zh": "灵活的",
+              "eg": "The coach offered a <strong>flexible</strong> training schedule during the holidays."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — limits（限额；上限）",
+          "note": "应选（3）'restrictions'：短文划线的 <em>limits</em> 指家长设定的花费上限，与 restrictions 同义。'barriers'：义为'障碍'，指阻挡之物，不能表示“花费上限”。'guidelines'：义为'指导原则'，偏建议，不如 restrictions 表示硬性限额。'allowances'：义为'零用钱；津贴'，是发给的钱，与“限制花费”相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "他们可以追踪我每天的消费，设置每日消费限制，甚至帮我制定储蓄目标。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "barriers",
+              "zh": "障碍；屏障",
+              "eg": "Language can be a <strong>barrier</strong> for new immigrants."
+            },
+            {
+              "opt": "2",
+              "word": "guidelines",
+              "zh": "指导原则；指引",
+              "eg": "Follow the safety <strong>guidelines</strong> during the science experiment."
+            },
+            {
+              "opt": "3",
+              "word": "restrictions",
+              "zh": "限制；规定",
+              "eg": "Parents set <strong>restrictions</strong> on screen time each evening."
+            },
+            {
+              "opt": "4",
+              "word": "allowances",
+              "zh": "零用钱；津贴",
+              "eg": "He saves part of his weekly <strong>allowance</strong> for a new book."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — top up（充值；补足）",
+          "note": "应选（2）'replenish'：短文划线的 <em>top up</em> 指余额不足时把钱补回账户，replenish 最贴切。'supplement'：义为'补充；增补'，较笼统，不如 replenish 表示“把账户填满”。'increase'：义为'增加'，未突出“补足余额”之意。'boost'：义为'促进；提升'，多用于信心、水平，不适合 top up an account。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "每当我钱不够时，他们都能通过手机应用远程为账户充值。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "supplement",
+              "zh": "补充；增补",
+              "eg": "Vitamins can <strong>supplement</strong> a balanced diet."
+            },
+            {
+              "opt": "2",
+              "word": "replenish",
+              "zh": "补充；重新装满",
+              "eg": "Please <strong>replenish</strong> the water cooler before the meeting."
+            },
+            {
+              "opt": "3",
+              "word": "increase",
+              "zh": "增加；提高",
+              "eg": "The shop will <strong>increase</strong> prices next month."
+            },
+            {
+              "opt": "4",
+              "word": "boost",
+              "zh": "促进；提升",
+              "eg": "A short nap can <strong>boost</strong> your energy in the afternoon."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — without delay（毫不耽搁；立刻）",
+          "note": "应选（2）'virtually'：按校方答案，划线的 <em>without delay</em> 对应 virtually （almost immediately）。'readily'：义为'迅速地'，日常英语里更接近 without delay，但考试以校方答案为准。'indirectly'：义为'间接地'，与“立刻到账”相反。'effortlessly'：义为'毫不费力地'，强调省力而非速度快。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "无论身在何处，他们都能通过手机应用远程充值，钱几乎立刻到账。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "readily",
+              "zh": "迅速地；乐意地",
+              "eg": "She answered the question <strong>readily</strong> when the teacher called her."
+            },
+            {
+              "opt": "2",
+              "word": "virtually",
+              "zh": "几乎；差不多",
+              "eg": "The money appeared in my account <strong>virtually</strong> straight away."
+            },
+            {
+              "opt": "3",
+              "word": "indirectly",
+              "zh": "间接地",
+              "eg": "We heard about the change <strong>indirectly</strong> through a neighbour."
+            },
+            {
+              "opt": "4",
+              "word": "effortlessly",
+              "zh": "毫不费力地",
+              "eg": "The gymnast landed <strong>effortlessly</strong> after the difficult routine."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the poster in Text 1, which of the following is true?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The Sunburst has at least two key features.",
+            "2": "Customers can purchase the Sunburst online.",
+            "3": "The Sunburst is the first smartphone produced in 2025.",
+            "4": "Customers will receive a pair of air tickets after purchasing the Sunburst."
+          }
+        },
+        "22": {
+          "stem_plain": "The writer made the statement, **\"The Future in Your Hands\"**, in Text 1 to emphasise that the phone",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "helps you control the future",
+            "2": "will set the trend for other phones",
+            "3": "is guaranteed to improve the future",
+            "4": "is better than current phone models"
+          }
+        },
+        "23": {
+          "stem_plain": "Based on the poster in Text 1, which of the following best fits the phone you expect to purchase?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "complicated",
+            "2": "expensive",
+            "3": "superior",
+            "4": "bulky"
+          }
+        },
+        "24": {
+          "stem_plain": "**\"Take shots like a professional!\"** The picture supports this by giving the impression that the camera",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "takes high-quality photographs",
+            "2": "improves facial features of people",
+            "3": "is suitable for professional photographers",
+            "4": "makes the photographer look like an expert"
+          }
+        },
+        "25": {
+          "stem_plain": "We cannot trust the way Text 1 promotes Nova's new model, the Sunburst, because Text 2 says",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "new models may have significantly larger batteries",
+            "2": "upgrading to new models will significantly improve user experience",
+            "3": "a common marketing strategy is to emphasise better features in new models",
+            "4": "it is worth considering whether the improvements in new models are indeed value for money"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — Visual Text（视觉文本考点）",
+          "note": "<p>Poster lists multiple selling points → at least two key features (school key).</p>",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "视觉文本 — Visual Text（视觉文本考点）",
+          "note": "<p>Slogan stresses the phone you hold is cutting-edge / better than what you have now → <span class=\"hl-good\">better than current phone models</span> (school key).</p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "视觉文本 — Visual Text（视觉文本考点）",
+          "note": "<p>Marketing copy presents the product as <span class=\"hl-good\">superior</span>.</p>",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "视觉文本 — Visual Text（视觉文本考点）",
+          "note": "<p>“Like a professional” implies high-quality camera output (school key).</p>",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "视觉文本 — Visual Text（视觉文本考点）",
+          "note": "<p>Text 2 cautions value-for-money vs marketing hype (school key).</p>",
+          "answer": "4"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "D": "by",
+          "G": "is",
+          "K": "since",
+          "N": "that",
+          "B": "are",
+          "E": "can",
+          "H": "or",
+          "L": "so",
+          "P": "then",
+          "C": "as",
+          "F": "for",
+          "J": "over",
+          "M": "than",
+          "Q": "will"
+        },
+        "cloze": [
+          "Nestled within the Mandai Wildlife Reserve are renowned zoological parks such as Singapore Zoo, Night Safari, River Wonders and Bird Paradise. Managed [Q26] Mandai Wildlife Group, these parks are home to more [Q27] 20,000 animals across 1,000 species, of which some are endangered. [Q28] the years, the wildlife parks have also become a key habitat [Q29] wildlife native to Singapore. The varied landscapes have created living environments [Q30] are suitable for reptiles, mammals, amphibians and birds.",
+          "Singapore's fifth wildlife park, Rainforest Wild Asia, has opened to the public [Q31] March 2025. Filled with animal species and various adventure elements, visitors [Q32] look forward to trekking through forest trails scattered with fallen logs, boulders [Q33] streams, as well as elevated walkways. One of the park's design considerations [Q34] to include a variety of paths with different levels of difficulty, [Q35] guests can tailor their visits according to their preferences. Those seeking adrenaline-pumping experiences will definitely find challenge in these rainforest adventures."
+        ],
+        "zh": [
+          "万态野生动物保护区内有新加坡动物园、夜间野生动物园、河川生态园和飞禽公园等知名动物园。 这些园区由万态野生动物集团管理，栖息着逾20,000只动物、约1,000个物种，其中一些濒临灭绝。 多年来，这些野生动物园也成为新加坡本土野生动物的重要栖息地。 多样的地貌为爬行动物、哺乳动物、两栖动物和鸟类创造了适宜的生存环境。",
+          "新加坡第五座野生动物园——亚洲雨林探险园，已于2025年3月向公众开放。 园内充满动物物种与各种探险元素，游客可期待穿越散落倒木、巨石与溪流的森林小径，以及高架步道。 设计考量之一包括提供不同难度等级的多种路径，以便宾客根据个人喜好安排行程。 寻求刺激体验的人定会在这些雨林探险中找到挑战。"
+        ]
+      },
+      "answers": {
+        "26": {
+          "concept": "介词 — 施事者 (agent)",
+          "note": "谁在做“管理”→ 用 by + 施事者。",
+          "answer": "D — by"
+        },
+        "27": {
+          "concept": "比较结构 — more than",
+          "note": "见到 more + 数字，先想 than。",
+          "answer": "M — than"
+        },
+        "28": {
+          "concept": "时间短语 — over the years",
+          "note": "Over the years 与 Since + 具体日期要分清。",
+          "answer": "J — over"
+        },
+        "29": {
+          "concept": "介词 — 对象/用途 (for)",
+          "note": "habitat / home / space for … 是常见搭配。",
+          "answer": "F — for"
+        },
+        "30": {
+          "concept": "关系代词 — 定语从句",
+          "note": "名词 + that/which + 完整谓语 → 定语从句。",
+          "answer": "N — that"
+        },
+        "31": {
+          "concept": "时间起点 — since + 时间点",
+          "note": "since + 时间点；over + the years。",
+          "answer": "K — since"
+        },
+        "32": {
+          "concept": "情态动词 — can",
+          "note": "visitors + can + look forward to 为完整谓语。",
+          "answer": "E — can"
+        },
+        "33": {
+          "concept": "并列连词 — and",
+          "note": "A, B and C 用 and 连接最后一项前一项。",
+          "answer": "A — and"
+        },
+        "34": {
+          "concept": "主谓一致 — One of … is",
+          "note": "One of the … is / was 为常考单数谓语。",
+          "answer": "G — is"
+        },
+        "35": {
+          "concept": "结果/目的 — so",
+          "note": "so + 主语 + 谓语：表结果或目的（以便）。",
+          "answer": "L — so"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Sylvia was scrolling through social media on her mobile phone one night. Suddenly, she [Q36(reciefed)] an alert on her myResponder mobile application. Someone in the vicinity had lost [Q37(consciously)] and urgent help was needed. [Q38(Imidiatli)] , Sylvia rushed out of her home in response to the unexpected [Q39(orkeranz)] . Upon reaching the location, she saw the victim, who [Q40(rezambaled)] the neighbourhood newspaper seller, lying motionlessly on the ground.",
+          "As Sylvia performed cardiopulmonary resuscitation (CPR) on the victim, she [Q41(seeking)] someone's help to fetch the nearest automated external defibrillator (AED). A doctor from the nearby clinic then arrived and he took turns [Q42(after)] Sylvia to perform CPR on the motionless man. Minutes later, the man showed signs of life.",
+          "The crowd of curious bystanders [Q43(are)] impressed by Sylvia and complimented her. Shyly, Sylvia blushed in [Q44(embearusmmant)] . Nonetheless, Sylvia was glad to have acted [Q45(courage)] even though she was nervous. She vowed to do her best in helping others in future emergencies."
+        ],
+        "zh": [
+          "一天晚上，西尔维娅在手机上翻看社交媒体。突然，她在 myResponder 手机应用上收到一条警报：附近有人失去意识，急需救助。她立刻冲出家门，应对这突如其来的情况。到了现场，她看见受害人一动不动地躺在地上，看上去像是社区里的卖报老人。",
+          "西尔维娅为受害人做心肺复苏（CPR）时，请人帮忙去取最近的自动体外除颤器（AED）。附近诊所的一名医生随后赶到，与她轮流为昏迷的男子实施心肺复苏。几分钟后，男子出现了生命迹象。",
+          "一群好奇的路人被西尔维娅打动，纷纷称赞她。她害羞地羞红了脸。尽管如此，西尔维娅庆幸自己虽然紧张却仍能勇敢行动。她发誓今后遇到紧急情况会尽力帮助他人。"
+        ]
+      },
+      "answers": {
+        "36": {
+          "concept": "Grammar cloze blank (33)",
+          "note": "<p>Blank (33): <span class=\"hl-good\">A — and</span>.</p>",
+          "answer": "received"
+        },
+        "37": {
+          "concept": "Grammar cloze blank (34)",
+          "note": "<p>Blank (34): <span class=\"hl-good\">G — is</span>.</p>",
+          "answer": "consciousness"
+        },
+        "38": {
+          "concept": "Grammar cloze blank (35)",
+          "note": "<p>Blank (35): <span class=\"hl-good\">L — so</span>.</p>",
+          "answer": "Immediately"
+        },
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "occurrence"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "resembled"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "sought"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "with"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "was"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "embarrassment"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "courageously"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "In today's world, Artificial Intelligence (AI) is changing how students learn and interact with information. Imagine having a super-smart assistant that can lend a [Q46] when you need help with your homework, answer questions or even suggest books that [Q47] your reading level and interests. With tools like smart tutoring systems and learning apps, AI can analyse students' [Q48] and weaknesses, providing personalised exercises to help improve specific skills. As a result, students can [Q49] difficult topics more easily and learn at their own [Q50]. Furthermore, AI makes learning more accessible. With just a click, students can tap [Q51] online resources, no matter where they are — truly breaking [Q52] the barriers to education.",
+          "On top of that, AI inspires creativity by pushing students to [Q53] outside the box and take creative risks. Whether it is bringing ideas to [Q54] through digital art or composing music, students can express their talents in new ways. AI writing assistants can also start the ball [Q55] by offering prompts, correcting grammar and recommending words to enhance writing.",
+          "Still, there are [Q56] sides to every coin. AI is not as [Q57] as it seems because there are instances where it might give wrong information. [Q58] too much on technology might make some students less motivated to think for [Q59]. Too much screen time can also be [Q60] to students' well-being, as it often results in reduced physical activity and weakens their ability to build real-life social skills. While AI offers many exciting ways to learn, it is important to use it wisely."
+        ],
+        "zh": [
+          "在当今世界，人工智能正改变学生学习与获取信息的方式。想象有一位超聪明的助手，能在你做功课时搭把手、回答问题，甚至推荐符合你阅读水平与兴趣的书。智能辅导系统与学习应用可分析学生的优势与不足，提供个性化练习，让学生更易理解难点、按自己的节奏学习。此外，只需轻点，学生无论身在何处都能使用网上资源，真正打破教育壁垒。",
+          "不仅如此，AI 还能鼓励学生跳出框架、勇于创意冒险——无论是用数字艺术把想法付诸实践，还是作曲，学生都能以新方式展现才华；写作助手也能通过提示、改语法、推荐用词帮你起个头。",
+          "然而凡事都有两面：AI 并非总像看起来那么聪明，有时也会给出错误信息。过度依赖科技可能削弱独立思考；屏幕时间过长也不利于身心健康，常导致活动减少、现实社交技能变弱。AI 虽带来许多令人兴奋的学习方式，仍须明智使用。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        },
+        "47": {
+          "concept": "动词词义辨析与搭配",
+          "note": "指智能助手能推荐大体上“符合”、“匹配”或“满足”学生阅读水平和个人兴趣的书籍，可填入动词原形 suit / match / meet。",
+          "answer": "suit/match/meet"
+        },
+        "48": {
+          "concept": "反义名词对照",
+          "note": "与后面的并列名词 weaknesses（劣势/不足）构成固定对照，指智能工具可以分析学生的“优势”与短板，故填复数名词 strengths。",
+          "answer": "strengths"
+        },
+        "49": {
+          "concept": "动词语意辨析",
+          "note": "前面有情态动词 can，后面接动词原形。指通过针对性的练习，学生能够更轻松地“理解”、“掌握”或“应对”困难的课题（understand / grasp / master / tackle）。",
+          "answer": "understand/grasp/master/tackle"
+        },
+        "50": {
+          "concept": "固定习惯搭配",
+          "note": "属于各类考试中极其高频考查的经典特定习语 at their own pace，意思是按照学生“他们自己的节奏/速度”去学习。",
+          "answer": "pace"
+        },
+        "51": {
+          "concept": "动词与介词特定搭配",
+          "note": "与前面的动词 tap 组合，构成固定短语动词 tap on 或 tap into，表示只需点击即可“利用”、“接入”或“开发”丰富的线上教学资源。",
+          "answer": "on/into"
+        },
+        "52": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词现在分词形式 breaking 完美组合，构成极常见的特定短语动词 break down，表示真正“打破”或“消除”教育的壁垒。",
+          "answer": "down"
+        },
+        "53": {
+          "concept": "习语固定搭配",
+          "note": "不定式符号 to 后接动词原形。完美契合形容跳出常规思维的经典英语地道习语 think outside the box，意思是鼓励学生去“打破常规地思考”。",
+          "answer": "think"
+        },
+        "54": {
+          "concept": "习语固定搭配",
+          "note": "与前面的 bring 组合，构成极高频考查的经典比喻习语 bring ideas to life，意思是将抽象的创意和想法“付诸实现”或“赋予生命”。",
+          "answer": "life"
+        },
+        "55": {
+          "concept": "习语固定搭配",
+          "note": "完美契合英语中用于形容推动事情开展的标志性习语 start the ball rolling，意思是写作助手通过提供提示来帮学生“开个好头”或“把球滚起来”。",
+          "answer": "rolling"
+        },
+        "56": {
+          "concept": "固定习语搭配",
+          "note": "构成英语中表达凡事皆有两面性的经典谚语 there are two sides to every coin（硬币皆有两面/万物皆有利弊），用以引出后文对人工智能负面效应的阐述。",
+          "answer": "two"
+        },
+        "57": {
+          "concept": "形容词语境定性",
+          "note": "作为表语形容词。后文指出它有时也会给出错误信息，说明人工智能其实并不像它看起来那样“智能”、“完美”或“可靠”（intelligent / smart / perfect / reliable）。",
+          "answer": "intelligent/smart/perfect/reliable"
+        },
+        "58": {
+          "concept": "动名词短语充当主语",
+          "note": "后面紧跟介词 on，该短语在句中充当主语。表示过度“依赖”科技会削弱独立思考能力，需填入动名词形式 Relying 或 Depending。位于句首需大写。",
+          "answer": "Relying/Depending"
+        },
+        "59": {
+          "concept": "反身代词",
+          "note": "与前文的复数主语 some students（一些学生）在人称上保持前后视角一致，构成固定搭配 think for themselves，意思是使他们变得不再愿意“为他们自己独立思考”。",
+          "answer": "themselves"
+        },
+        "60": {
+          "concept": "形容词搭配与特征描述",
+          "note": "后文紧跟介词 to，指过长的屏幕时间对学生的健康和福祉“有害”或“不利”。可填入正式书面语形容词 detrimental 或是常见形容词 harmful / damaging / bad 构成 be detrimental to 结构。",
+          "answer": "detrimental/harmful/damaging/bad"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "Betty decided not to buy the new phone. She went home.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Instead of __________"
+        },
+        "62": {
+          "stem_plain": "Jack ignored the severe consequences. Jack regretted it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ of the consequences."
+        },
+        "63": {
+          "stem_plain": "\"Where did you go just now?\" Father asked me.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Father asked me __________"
+        },
+        "64": {
+          "stem_plain": "It was evident that Grandmother was upset. She was upset by the bad news.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Grandmother was __________"
+        },
+        "65": {
+          "stem_plain": "Ron enjoyed celebrating his birthday. He smiled widely.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ as he enjoyed his __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "61": {
+          "concept": "介词短语 — Instead of + gerund",
+          "zh": "贝蒂没有买新手机，而是回了家。",
+          "note": "介词短语：<em>Instead of buying …</em> 表“没有做某事”；主句 <em>Betty went home</em>。",
+          "answer": "Instead of buying the new phone, Betty went home."
+        },
+        "62": {
+          "concept": "名词化 — Regret + gerund (ignoring)",
+          "zh": "杰克后悔忽视了后果的严重性。",
+          "note": "名词化：<em>ignored … regretted it</em> → <em>regretted ignoring …</em>；<em>severe → severity</em>。",
+          "answer": "Jack regretted ignoring the severity of the consequences."
+        },
+        "63": {
+          "concept": "间接引语 — Reported wh-question",
+          "zh": "父亲问我刚才去了哪里。",
+          "note": "间接引语：wh- 问句 <em>where I had gone just then</em>；时态后退 <em>did go → had gone</em>。",
+          "answer": "Father asked me where I had gone just then."
+        },
+        "64": {
+          "concept": "分词短语 — Evidently + past participle (upset by)",
+          "zh": "奶奶显然因坏消息而心烦。",
+          "note": "合并句：<em>It was evident that …</em> 简化为 <em>Grandma was evidently upset by …</em>；保留 <em>bad news</em>。",
+          "answer": "Grandma was evidently upset by the bad news."
+        },
+        "65": {
+          "concept": "时间连词 — As（同时）",
+          "zh": "罗恩尽情享受生日庆祝，笑得很开心。",
+          "note": "时间连词：<em>as</em> 连接同时发生的动作；<em>smiled widely</em> 与 <em>enjoyed his birthday celebration</em>。",
+          "answer": "Ron smiled widely as he enjoyed his birthday celebration."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "Based on lines 1–6, how did Rose and Lily show that they trusted each other?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "67": {
+          "stem_plain": "Which word in the first paragraph shows that the marble bench was a place that brought relief to Rose and Lily?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "68": {
+          "stem_plain": "Two physical discomforts Rose had experienced while learning to cycle:",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q68a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q68b]"
+            }
+          ]
+        },
+        "69": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage?",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **It** (line 10)",
+                "(b) **did** (line 11)",
+                "(c) **shared space** (line 13)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q69a]",
+                "[Q69b]",
+                "[Q69c]"
+              ]
+            }
+          }
+        },
+        "70": {
+          "stem_plain": "Explain clearly why there was **'muffled weeping'** (line 19).",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "71": {
+          "stem_plain": "Based on lines 14–22, fill in the following table.",
+          "marks": 2,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "Character",
+              "rows": [
+                "Rose's father",
+                "Rose"
+              ]
+            },
+            "col_2": {
+              "header": "What quality the character had shown",
+              "rows": [
+                "helpfulness",
+                "[Q71b]"
+              ]
+            },
+            "col_3": {
+              "header": "What the character did to show that quality",
+              "rows": [
+                "[Q71a]",
+                "being present for Lily at her grandmother's funeral"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "Based on lines 23–36, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The wedding venue was quiet.",
+                "(b) The girls loved the food that was served at the wedding.",
+                "(c) The girls could perform the tasks at the donation drive effortlessly."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q72a]",
+                "[Q72c]",
+                "[Q72e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q72b]",
+                "[Q72d]",
+                "[Q72f]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "How did the girls feel after the donation drive and why?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "**\"Touched by the meaningful gift, Rose teared.\"** (lines 41–42)",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "What was the **\"meaningful gift\"** (line 41)? [Q74a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "With reference to lines 37–45, fill in the blank with a suitable word. **Rose thought the gift was meaningful. It contained memories she would always** [Q74b]"
+            }
+          ]
+        },
+        "75": {
+          "stem_plain": "Explain clearly what Rose meant when she thought that **'surroundings might change, but relationships would always remain.'** (line 44)",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — *The Void Deck* by Casey Low",
+        "lines": {
+          "1": "Shadows stretched long into the void deck as Rose approached with hesitant steps.",
+          "2": "In just an hour, she and her family would leave the familiar behind, moving into a new",
+          "3": "neighbourhood and a life unknown. Lily, her bosom buddy, was waiting on the marble",
+          "4": "bench. Over the years, this had become their favourite haunt, their refuge and their place",
+          "5": "for sharing whispered secrets. Without a word, Rose sank down beside her. The dread of",
+          "6": "having to part ways soon weighed heavily on their hearts.",
+          "7": "Just beyond the bench was where Rose had first learnt to ride a bicycle when she",
+          "8": "was six. She could recall the soreness in her thighs as she pedalled, her father's steady",
+          "9": "voice urging her on and the sting of scraped knees after every fall. On a pivotal try, her",
+          "10": "father had held the back of her seat and promised not to let go. However, he lied. **It** was",
+          "11": "the only way Rose could discover her own balance. When she finally **did**, it opened the",
+          "12": "door to a new joy — weekend rides with Lily. Together, they laughed, raced and zigzagged",
+          "13": "between the pillars of the **shared space** like seasoned riders in their own private arena.",
+          "14": "Moments later, Rose and Lily walked on slowly. Near the lift lobby, Rose paused.",
+          "15": "\"Do you remember ... when we came here for your grandmother's funeral?\" she asked",
+          "16": "softly. Lily nodded, \"I was nine. You were the first to arrive. Your mum brought curry puffs",
+          "17": "for my family and your dad assisted in arranging the chairs.\" The evening had been quiet,",
+          "18": "except for the sound of **muffled weeping** from time to time. Many were laden with sadness.",
+          "19": "Yet, there were also moments of laughter, stories and a celebration of the blessed life Lily's",
+          "20": "grandmother had lived. Rose did not say much that day, but her presence had been Lily's",
+          "21": "anchor of support in a sea of grief.",
+          "22": "When they reached the area near the mailboxes, Rose and Lily smiled as they",
+          "23": "remembered a wedding from when they were eleven. Their neighbours, Ahmad and Nora,",
+          "24": "had tied the knot. That day, the void deck came alive with music and the smell of spicy,",
+          "25": "savoury dishes drifted all around them. Dressed in bright colours, the girls had danced",
+          "26": "ecstatically. With every twirl, joy bubbled up inside them. Best of all, the girls tasted every",
+          "27": "delectable dish twice. These memories from the wedding were a snapshot of childhood",
+          "28": "happiness that was ingrained in their minds.",
+          "29": "As they passed the noticeboard, a recent memory surfaced. Just a month ago, Rose",
+          "30": "and Lily had volunteered at the neighbourhood food donation drive that had been held at",
+          "31": "that very space. For hours, they had gathered and sorted a variety of food items donated",
+          "32": "by friendly residents. Although the tasks were laborious, the sense of purpose — how the",
+          "33": "food collected would eventually bless the less fortunate — had kept the girls going. Thinking",
+          "34": "about the difference they had made in the lives of the underprivileged, the girls beamed",
+          "35": "with pride.",
+          "36": "\"Rose, it's time to go,\" her mother called out gently. Hearing that, Lily took out a",
+          "37": "small sketchbook and handed it to Rose. Inside were drawings of the cherished moments",
+          "38": "they had shared — Rose's first bicycle, the kind face of Lily's grandmother, the wedding day",
+          "39": "feast and the donation booth. In the middle of the page was a drawing of a big red heart, a",
+          "40": "symbol of love the girls had for their shared memories. **Touched by the meaningful gift,**",
+          "41": "**Rose teared**. For Rose, the void deck was not just a space under their flats, but a place",
+          "42": "filled with laughter, friendship and memories from her childhood. She firmly believed that",
+          "43": "surroundings might change, but relationships would always remain. \"Bye, Lily. I'll",
+          "44": "surely be back to visit,\" Rose promised."
+        },
+        "paragraphs": {
+          "1": "夕阳把影子拉得很长，Rose迟疑地走向组屋楼下。再过一小时，她就要和家人离开熟悉的一切，搬进陌生的新区与未知的生活。挚友 Lily 已坐在大理石长凳上。多年来，这里成了她们最爱逗留的角落、避风港和说悄悄话的地方。两人无言地并肩坐下，即将分离的不安沉甸甸地压在心头。",
+          "7": "长凳外就是 Rose 六岁第一次学骑车的地方。她记得大腿酸痛、父亲沉稳的催促，以及每次摔倒后膝盖擦破的刺痛。在关键的一次尝试里，父亲扶着后座发誓不松手，却撒了谎——那是她学会自己平衡的唯一方式。当她终于做到时，一扇通往新乐趣的大门打开了——周末与 Lily 一起骑车。两人像老手一样，在柱间穿梭嬉闹，把这片共享空间当成只属于她们的赛场。",
+          "13": "过了一会儿，两人慢慢走着。靠近电梯厅时，Rose停下脚步，轻声问起 Lily 祖母葬礼那天的事。Lily 点头回忆：那年她九岁，Rose 一家最先赶到；Rose 的母亲给她们家带来咖喱角，父亲还帮忙摆椅子。那晚很安静，不时传来压抑的抽泣，许多人都沉浸在悲伤里，却也有说笑与追忆祖母蒙福的一生。那天 Rose 话不多，但她的陪伴是 Lily 在悲潮中可靠的支柱。",
+          "20": "走到信箱附近，两人想起十一岁时的一场婚礼。邻居 Ahmad 与 Nora 喜结良缘。那天组屋楼下因音乐而热闹，辛辣香浓的菜肴气味四处飘散。女孩们穿着鲜艳的衣裙尽情旋转，每转一圈喜悦便从心底涌出。最棒的是，她们把每道佳肴都尝了两遍。婚礼的片段像一张童年幸福的快照，深深烙在记忆里。",
+          "26": "经过布告栏时，一段更近的记忆浮现。就在一个月前，Rose 与 Lily 还在这片空间当志愿者，参与邻里的食物捐赠活动。她们花了数小时收集、分拣居民捐出的各色食品。虽然任务繁重，但想到这些食物终将惠及有需要的人，使命感让她们坚持下去。想到自己为弱势群体带来的改变，女孩们自豪地绽开笑容。",
+          "36": "“Rose，该走了。”母亲轻声唤道。Lily 拿出一本小速写本递给 Rose，里面画满两人共享的珍贵瞬间——Rose 第一次骑车、Lily 祖母慈祥的面容、婚宴与捐赠摊位；页面中央画着一颗大红心，象征她们对共同回忆的爱。Rose 被这份有意义的礼物感动落泪。对她而言，组屋楼下不只是楼下的空间，更是充满笑声、友谊与童年记忆的地方。她坚信环境会变，情谊却常在。“再见，Lily，我一定会再来看你。”她承诺道。"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "过程描述题",
+          "note": "<ol><li><strong>题型：</strong>根据指定行说明两人如何表现<strong>彼此信任</strong>——须写出具体行为，不能只写“她们很信任对方”。</li><li><strong>段落范围：</strong>仅限行 <strong>1–6</strong>（首段：走向 void deck、大理石长凳、即将分别）。</li><li><strong>关键词：</strong>题干圈 <em>trusted each other</em>，在文中找“只有知己才会做的事”。</li><li><strong>证据：</strong>行 4–5：长凳是 <em>favourite haunt</em>、<em>refuge</em>，更是 <em>sharing whispered secrets</em> 的地方；低声分享秘密表明她们愿意向对方敞开心扉。</li><li><strong>组织答案：</strong>先点明“通过……表现信任”，再写 <strong>sharing whispered secrets</strong>（可略提 bench 为 haunt/refuge 作支撑）。</li><li><strong>失分点：</strong>写到学骑车（行 7 以后）、葬礼或婚礼；只写“坐在一起”未提 secrets。</li><li><strong>书写提示：</strong>用完整句，可照抄关键短语 <em>whispered secrets</em>。</li></ol>",
+          "answer": [
+            "Rose and Lily showed that they trusted each other by sharing whispered secrets at the marble bench, which had become their favourite haunt and refuge."
+          ],
+          "type": "comprehension"
+        },
+        "67": {
+          "concept": "词汇摘取题",
+          "note": "<ol><li><strong>题型：</strong>在<strong>第一段</strong>找<strong>一个词</strong>，说明大理石长凳能带来<strong>慰藉 / 放松</strong>（<em>relief</em>）。</li><li><strong>段落范围：</strong>第一段对应行 <strong>1–6</strong>（行 7 起为学骑车，勿扫入）。</li><li><strong>关键词：</strong><em>relief</em> ≈ 安心、可依靠、能舒缓情绪之处。</li><li><strong>定位：</strong>行 4 并列描述长凳：<em>favourite haunt</em>、<em>refuge</em>、<em>place for sharing whispered secrets</em>。</li><li><strong>答案：</strong><span class=\"hl-good\">refuge</span>（避难所、可依靠之处）最直接体现“带来慰藉”。</li><li><strong>排除：</strong><em>hesitant</em>（迟疑）形容 Rose 的步伐；<em>dread</em>（行 5–6）表分离之忧，非 bench 本身的 relief。</li><li><strong>书写提示：</strong>只写一词 <strong>refuge</strong>，按原文拼写。</li></ol>",
+          "answer": [
+            "refuge"
+          ],
+          "type": "comprehension"
+        },
+        "68": {
+          "concept": "列举题",
+          "note": "<ol><li><strong>题型：</strong>列举 Rose 学骑车时经历的<strong>两种身体不适</strong>（<em>physical discomforts</em>）——各写一条，共 2 分。</li><li><strong>段落范围：</strong>行 <strong>7–9</strong>（回忆六岁学骑车：大腿酸、膝盖擦伤刺痛）。</li><li><strong>(a) 第一条：</strong>行 8 <em>the soreness in her thighs as she pedalled</em> → 大腿因踩踏板而<strong>酸痛</strong>。</li><li><strong>(b) 第二条：</strong>行 9 <em>the sting of scraped knees after every fall</em> → 每次摔倒后膝盖擦破的<strong>刺痛</strong>。</li><li><strong>失分点：</strong>写心理害怕、父亲鼓励（非 physical）；写周末与 Lily 骑车（行 12 以后）；两条重复同一不适。</li><li><strong>书写提示：</strong>每条用完整短语或短句；可按卷面标 (a)(b)。</li></ol>",
+          "answer": {
+            "68a": "(a) The soreness in Rose's thighs as she pedalled.",
+            "68b": "(b) The sting of scraped knees after every fall."
+          }
+        },
+        "69": {
+          "concept": "指代题",
+          "note": "<ol><li><strong>题型：</strong>指代题——左栏词在文中指什么；右栏写被指对象（可用短语概括）。</li><li><strong>段落范围：</strong>行 <strong>10–13</strong>（父亲扶车、松手、Rose 学会平衡、与 Lily 在柱间骑行）。</li><li><strong>填表顺序：</strong>按 (a)→(b)→(c) 填右栏；与 <code>answer</code> 三行一致。</li><li><strong>(a) It（行 10）：</strong>承接 <em>However, he lied. It was the only way …</em>；<em>It</em> 指<strong>父亲松开后座、让 Rose 自己找平衡</strong>这一做法（放手行为）。</li><li><strong>(b) did（行 11）：</strong><em>When she finally did</em> 承前省略；<em>did</em> = <strong>终于学会 / 发现自己能保持平衡</strong>。</li><li><strong>(c) shared space（行 13）：</strong>两人在柱间穿梭；<em>shared space</em> = 她们共同活动的<strong>共用空间</strong>，本文即 <strong>void deck</strong>。</li><li><strong>失分点：</strong>把 <em>did</em> 写成“打开门”；把 <em>shared space</em> 写成卧室等与 void deck 无关处。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "69a": "(a) Rose's father letting go of the back of Rose's seat (the act of letting go).",
+            "69b": "(b) Discovering / finding her own balance.",
+            "69c": "(c) The void deck."
+          }
+        },
+        "70": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>解释为何有 <em>muffled weeping</em>（压抑、低声的哭泣）——须含<strong>场合</strong>与<strong>为何压低声音</strong>两层意思（2 分）。</li><li><strong>段落范围：</strong>行 <strong>15–19</strong>（祖母葬礼回忆：安静、抽泣、悲伤与追忆并存）。</li><li><strong>场合：</strong>行 15–16 Rose 问起 <em>your grandmother's funeral</em>；行 18–19 当晚气氛 mourning。</li><li><strong>原因链：</strong>行 18 <em>muffled weeping</em>；行 18–19 许多人 <em>laden with sadness</em>（因祖母去世而悲痛）→ 在葬礼上哭泣，但尽量<strong>压低声音</strong>以示尊重（<em>quiet</em> evening, 葬礼礼仪）。</li><li><strong>组织答案：</strong>① 点明 Lily 祖母的葬礼；② 参加者悲伤而哭；③ 哭泣被压低（muffled / out of respect）。</li><li><strong>失分点：</strong>只写“很难过”未提 funeral；只写 wedding 段；未解释 <em>muffled</em> 含义。</li></ol>",
+          "answer": [
+            "It was Lily's grandmother's funeral, and many who attended were laden with sadness, so they cried quietly out of respect."
+          ],
+          "type": "comprehension"
+        },
+        "71": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>题型：</strong>根据行 <strong>14–22</strong> 填表——每行对应一人：已给“品质”或“行为”，补<strong>另一列</strong>（2 格，2 分）。</li><li><strong>填表顺序：</strong>先填 Rose 父亲行“行为”格，再填 Rose 行“品质”格（与 <code>answer</code> 两行一致：行为 → 品质）。</li><li><strong>Rose 父亲：</strong>已给 <em>helpfulness</em>；行 17 Lily 回忆 <em>your dad assisted in arranging the chairs</em> → 填在祖母葬礼上<strong>帮忙摆椅子</strong>。</li><li><strong>Rose：</strong>已给 <em>being present for Lily at her grandmother's funeral</em>；行 20–21 <em>her presence had been Lily's anchor of support in a sea of grief</em> → 品质填 <span class=\"hl-good\">supportiveness</span>（或 pillar of support）。</li><li><strong>失分点：</strong>写婚礼或捐赠；品质与行为张冠李戴；只抄 <em>curry puffs</em> 未扣 helpfulness/support。</li></ol>",
+          "answer": {
+            "71a": "Assisted in arranging the chairs at Lily's grandmother's funeral",
+            "71b": "supportiveness"
+          },
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表 + 依据——每行先写 <strong>True</strong> 或 <strong>False</strong>，再用行 <strong>23–36</strong> 一句证据说明（3 行 × 1 分）。</li><li><strong>填表顺序：</strong>每行按 T/F → Reason；<code>answer</code> 为六段字符串交替（False, reason, True, reason, False, reason）。</li><li><strong>(a) False：</strong>题干 <em>quiet</em> 与文意相反；行 24–25 void deck <em>came alive with music</em>，菜肴香气四溢——热闹，非安静。</li><li><strong>(b) True：</strong>行 26–27 <em>tasted every delectable dish twice</em> → 非常喜欢婚宴食物。</li><li><strong>(c) False：</strong>行 32 <em>the tasks were laborious</em> → 费力辛苦，并非 <em>effortlessly</em>。</li><li><strong>书写提示：</strong>理由须含可核对关键词（music / twice / laborious），勿只写“文中没提到”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "False",
+            "72b": "The void deck came alive with music and the smell of spicy, savoury dishes drifted all around",
+            "72c": "True",
+            "72d": "The girls tasted every delectable dish twice, showing how much they loved the food",
+            "72e": "False",
+            "72f": "The passage states that the tasks were laborious — they were tiring / hard work"
+          }
+        },
+        "73": {
+          "concept": "感受与原因题",
+          "note": "<ol><li><strong>题型：</strong>问捐赠活动后女孩<strong>感受</strong>及<strong>原因</strong>——须同时答 <em>how … feel</em> 与 <em>why</em>（2 分）。</li><li><strong>段落范围：</strong>行 <strong>29–35</strong>（布告栏旁回忆一个月前的 food donation drive）。</li><li><strong>感受：</strong>行 34–35 <em>beamed with pride</em> → <span class=\"hl-good\">proud</span>（自豪）。</li><li><strong>原因：</strong>行 32–33 虽 <em>laborious</em>，但 <em>sense of purpose</em>（食物将惠及 less fortunate）让她们坚持；行 34 想到为 underprivileged 带来改变。</li><li><strong>组织答案：</strong>They felt proud because …（purpose + helping others）。</li><li><strong>失分点：</strong>只写累或开心未写 proud；只写感受不写 why；写到 sketchbook（行 36 以后）。</li></ol>",
+          "answer": [
+            "They felt proud because the sense of purpose kept them going despite laborious work, and thinking about helping the underprivileged made them beam with pride."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "简答综合题",
+          "note": "<ol><li><strong>题型：</strong>两小题：(a) 指认 <em>meaningful gift</em>；(b) 根据行 37–45 填一词完成句子（记忆将永远……）。</li><li><strong>段落范围：</strong>行 <strong>36–45</strong>（离别、速写本、Rose 对 void deck 与友谊的感悟）。</li><li><strong>(a) 礼物：</strong>行 37–39 Lily 递出 <em>a small sketchbook</em>，内页画满 shared moments（骑车、祖母、婚礼、捐赠摊、红心）→ 有意义的礼物是<strong>装有两人珍贵回忆素描的小速写本</strong>。</li><li><strong>(b) 填词：</strong>题干 <em>memories she would always _____</em>；礼物凝结共同回忆，行 40 <em>shared memories</em> → 填 <span class=\"hl-good\">cherish</span>（珍藏、铭记）。</li><li><strong>失分点：</strong>(a) 只写 “gift” 未说明 sketchbook；(b) 填 keep/remember 若未体现“珍视”语气；混淆 donation 与 sketchbook。</li><li><strong>书写提示：</strong>(a) 完整句；(b) 一词，常用 cherish。</li></ol>",
+          "answer": {
+            "74a": "(a) A small sketchbook with drawings of their shared moments.",
+            "74b": "(b) cherish"
+          }
+        },
+        "75": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>题型：</strong>解释 Rose 所想句子的<strong>含义</strong>——<em>surroundings might change, but relationships would always remain</em>（2 分）。</li><li><strong>段落范围：</strong>行 <strong>1–3</strong>（即将搬离）+ 行 <strong>41–44</strong>（void deck 与友谊、道别承诺）。</li><li><strong>对照理解：</strong><em>surroundings</em> = 环境、街区、void deck 等外在事物会变（她一小时后要 move）；<em>relationships</em> = 与 Lily 的友谊不变。</li><li><strong>证据：</strong>行 2–3 离开 familiar neighbourhood；行 43–44 <em>relationships would always remain</em>，并承诺 <em>I'll surely be back to visit</em>。</li><li><strong>组织答案：</strong>即使搬家、环境改变，她与 Lily 的友情仍会保持 / 她仍会是 Lily 的朋友。</li><li><strong>失分点：</strong>只解释 surroundings 或只解释 relationships；写成 void deck 永远不变（与“搬家”矛盾）。</li></ol>",
+          "answer": [
+            "She meant that even if she moved away and surroundings changed, her friendship with Lily would stay the same."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

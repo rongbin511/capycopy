@@ -1,0 +1,42 @@
+CREATE TABLE IF NOT EXISTS schools (
+  school_id TEXT PRIMARY KEY,
+  slug TEXT NOT NULL DEFAULT '',
+  official_name TEXT NOT NULL DEFAULT '',
+  zh TEXT NOT NULL DEFAULT '',
+  short_name TEXT NOT NULL DEFAULT ''
+);
+
+CREATE TABLE IF NOT EXISTS subjects (
+  subject_id TEXT PRIMARY KEY,
+  label TEXT NOT NULL DEFAULT '',
+  sectionids TEXT NOT NULL DEFAULT '[]'
+);
+
+CREATE TABLE IF NOT EXISTS sections (
+  section_id TEXT PRIMARY KEY,
+  stem TEXT NOT NULL DEFAULT '',
+  label TEXT NOT NULL DEFAULT '',
+  title TEXT NOT NULL DEFAULT '',
+  interaction TEXT NOT NULL DEFAULT '',
+  marks INTEGER NOT NULL DEFAULT 0,
+  instruction TEXT NOT NULL DEFAULT '',
+  template TEXT NOT NULL DEFAULT '{}'
+);
+
+CREATE TABLE IF NOT EXISTS papers (
+  paper_id TEXT PRIMARY KEY,
+  level TEXT NOT NULL DEFAULT '',
+  subject TEXT NOT NULL DEFAULT '',
+  year INTEGER NOT NULL DEFAULT 0,
+  term TEXT NOT NULL DEFAULT '',
+  school TEXT NOT NULL DEFAULT ''
+);
+
+CREATE TABLE IF NOT EXISTS users (
+  user_id TEXT PRIMARY KEY,
+  gender TEXT NOT NULL DEFAULT '',
+  level TEXT NOT NULL DEFAULT '',
+  preference TEXT NOT NULL DEFAULT '{}',
+  last_viewed TEXT NOT NULL DEFAULT '',
+  role TEXT NOT NULL DEFAULT ''
+);

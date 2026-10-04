@@ -1,0 +1,1591 @@
+{
+  "paperid": "p6_english_2021_sa2_rafflesgirls",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Mrs Lim, as well as her children, _________ always friendly to everyone.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "has",
+            "4": "have"
+          }
+        },
+        "2": {
+          "stem_plain": "In spite of the public education on recycling, _________ difference has been made to the amount of waste generated.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "3": {
+          "stem_plain": "If I _________ the consequences of my action, I would not have acted so hastily.",
+          "options": {
+            "1": "realises",
+            "2": "realised",
+            "3": "had realised",
+            "4": "have realised"
+          }
+        },
+        "4": {
+          "stem_plain": "Wendy has never fried an egg in her life _________ she is adamant about becoming a chef.",
+          "options": {
+            "1": "since",
+            "2": "unless",
+            "3": "though",
+            "4": "despite"
+          }
+        },
+        "5": {
+          "stem_plain": "She always speaks the truth so she is _________ suspicion. Nobody will think she is lying.",
+          "options": {
+            "1": "in",
+            "2": "of",
+            "3": "on",
+            "4": "beyond"
+          }
+        },
+        "6": {
+          "stem_plain": "All the women working in the department _________ given course application forms last week.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "Mr Chen has been staying _________ China for a week, but he will be leaving _________ Rome tomorrow.",
+          "options": {
+            "1": "at ... to",
+            "2": "in ... to",
+            "3": "at ... for",
+            "4": "in ... for"
+          }
+        },
+        "8": {
+          "stem_plain": "“You _________ assemble at the parade square at 6 a.m. sharp,” the army officer commanded the recruits.",
+          "options": {
+            "1": "can",
+            "2": "may",
+            "3": "must",
+            "4": "could"
+          }
+        },
+        "9": {
+          "stem_plain": "The noise from the traffic was so loud that Jack and Jill had to shout to make _________ heard.",
+          "options": {
+            "1": "herself",
+            "2": "himself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "10": {
+          "stem_plain": "The buses in this small town never seem to run on time, _________ they?",
+          "options": {
+            "1": "do",
+            "2": "are",
+            "3": "don't",
+            "4": "aren't"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — Subject–verb agreement (as well as)",
+          "zh": "林太太和她的孩子们对每个人总是很友善。",
+          "note": "主谓一致 (Subject–verb agreement)：<em>as well as</em> 插入语不改变主语单复数；主语 <em>Mrs Lim</em> 为单数 → 单数谓语 <em>is</em>。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "量词 — Quantifier (uncountable — little)",
+          "zh": "尽管有公众教育，产生的垃圾量几乎没什么变化。",
+          "note": "数量词：<em>little</em> + 不可数名词表“几乎没有”。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "虚拟语气 — Third conditional",
+          "zh": "要是我当时意识到后果，就不会那么草率行事了。",
+          "note": "虚拟语气 (Third conditional)：与过去事实相反。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "转折 — Contrast (despite)",
+          "zh": "温迪这辈子从没煎过蛋，尽管她坚持要当厨师。",
+          "note": "让步：<em>despite</em> + 名词性结构表“尽管……仍……”。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "介词 — Preposition (beyond suspicion)",
+          "zh": "她总是说实话，所以没人会怀疑她在撒谎。",
+          "note": "固定搭配：<em>beyond suspicion</em> 无可置疑、清白。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "主谓一致 — Subject–verb agreement (plural subject)",
+          "zh": "部门里所有女员工上周都领到了课程申请表。",
+          "note": "主谓一致：复数主语 + 过去时 → <em>were</em>。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "介词 — Preposition (stay in / leave for)",
+          "zh": "陈先生在中国待了一周，明天将动身去罗马。",
+          "note": "介词：<em>in</em> 表所在国；<em>leave for</em> 表前往目的地。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "情态动词 — Modal (obligation — must)",
+          "zh": "军官命令新兵必须在早上六点整到操场集合。",
+          "note": "情态动词：<em>must</em> 表命令、必须。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "代词 — Reflexive pronoun (plural subject)",
+          "zh": "交通太吵，杰克和吉尔不得不大喊才能让人听见。",
+          "note": "反身代词与主语人称、数一致。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "反意疑问句 — Question tag (seem)",
+          "zh": "这座小镇的公交车似乎从不准点，是吗？",
+          "note": "附加问句：谓语为 <em>seem</em> 时用 <em>do</em> 作助动词构成附加部分。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Sally felt so nervous over her piano examination that she was worried it would _________ her performance.",
+          "options": {
+            "1": "harm",
+            "2": "hamper",
+            "3": "alleviate",
+            "4": "aggravate"
+          }
+        },
+        "12": {
+          "stem_plain": "Mary smiled _________ and blushed in embarrassment when her teacher complimented her on her artwork.",
+          "options": {
+            "1": "warily",
+            "2": "bashfully",
+            "3": "haughtily",
+            "4": "confidently"
+          }
+        },
+        "13": {
+          "stem_plain": "I was talking to Peter when Kate suddenly _________ and interrupted our conversation.",
+          "options": {
+            "1": "broke in",
+            "2": "broke out",
+            "3": "broke from",
+            "4": "broke away"
+          }
+        },
+        "14": {
+          "stem_plain": "It was a _________ effort to reason with her as she would not listen to what we said.",
+          "options": {
+            "1": "futile",
+            "2": "fertile",
+            "3": "fruitful",
+            "4": "frivolous"
+          }
+        },
+        "15": {
+          "stem_plain": "When Cathy forgot to do her homework, she tried to come up with an excuse that her teacher would believe and let her _________.",
+          "options": {
+            "1": "off the cuff",
+            "2": "off the hook",
+            "3": "off the leash",
+            "4": "off the charts"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "莎莉很紧张，担心会影响钢琴发挥。",
+          "note": "选2：<em>hamper</em> 妨碍。alleviate 减轻；aggravate 恶化。",
+          "concept": "词汇辨析 — hamper（阻碍；妨碍）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "harm",
+              "zh": "伤害，损害（动词，指对人或动物的身体造成疼痛、损伤，或者对某人的健康、名誉、利益造成不好的负面破坏）",
+              "eg": "Loud construction noise can harm a baby's sleep and overall well-being if it continues throughout the day."
+            },
+            {
+              "opt": "2",
+              "word": "hamper",
+              "zh": "阻碍，妨碍（动词，指给事情的进展、某人的行动或某种表现制造困难、设置障碍，使其无法顺利进行或充分发挥）",
+              "eg": "Sally worried that her extreme nerves would hamper her piano performance during the national music competition."
+            },
+            {
+              "opt": "3",
+              "word": "alleviate",
+              "zh": "缓解，减轻（痛苦、问题等）（动词，指使肉体上的疼痛、折磨，或精神上的沉重负担得到明显的减轻、变好或更易于忍受）",
+              "eg": "The cooling medicine helped to alleviate her sore throat and allowed her to swallow food more comfortably."
+            },
+            {
+              "opt": "4",
+              "word": "aggravate",
+              "zh": "加重，恶化（病情、问题等）（动词，指使原就已经很不好的局势、严重的病情、伤口、疼痛或紧张关系变得更加糟糕和剧烈）",
+              "eg": "Scratching the red skin rash will only aggravate the intense itching and potentially lead to a severe infection."
+            }
+          ]
+        },
+        "12": {
+          "zh": "被老师称赞画作时，玛丽害羞地微笑并脸红。",
+          "note": "选2：<em>bashfully</em> 腼腆。",
+          "concept": "词汇辨析 — bashfully（害羞地；腼腆地）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "warily",
+              "zh": "警惕地，小心翼翼地（副词，指因为预感到潜在的危险、欺骗或不利后果，在行动上表现出高度的提防和留神）",
+              "eg": "The stray dog watched us warily from behind the boundary fence, refusing to approach even when offered food."
+            },
+            {
+              "opt": "2",
+              "word": "bashfully",
+              "zh": "害羞地，腼腆地（副词，指由于羞怯、局促不安或不习惯成为关注焦点，而表现出不好意思或红脸的扭捏神态）",
+              "eg": "Mary smiled bashfully and blushed deeply when her English teacher praised her creative artwork in front of the classroom."
+            },
+            {
+              "opt": "3",
+              "word": "haughtily",
+              "zh": "傲慢地，自高自大地（副词，指自恃高人一等，在言行举止中对他人表现出明显的轻蔑、不屑一顾或粗鲁无礼）",
+              "eg": "She tossed her head haughtily and flatly refused to apologise for the major disruption her thoughtless actions had caused."
+            },
+            {
+              "opt": "4",
+              "word": "confidently",
+              "zh": "自信地，胸有成竹地（副词，指对自己的人身能力、知识或外表充满坚定的信心，表现出毫不迟疑、沉着从容的气度）",
+              "eg": "He walked confidently onto the school assembly stage to deliver his speech without showing any sign of stage fright."
+            }
+          ]
+        },
+        "13": {
+          "zh": "我正和彼得说话，凯特突然插嘴打断了我们。",
+          "note": "选1：<em>break in</em> 插嘴。break out 爆发。",
+          "concept": "词汇辨析 — broke in（插嘴；打断）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "broke in",
+              "zh": "插嘴，打断；强行闯入（短语动词，指在他人说话时突然插话破坏连续性，或指小偷等为了盗窃而强行破门进入建筑物）",
+              "eg": "I was talking to Peter about the project when Kate suddenly <strong>broke in</strong> and rudely interrupted our conversation."
+            },
+            {
+              "opt": "2",
+              "word": "broke out",
+              "zh": "爆发，突然发生（短语动词，专门指火灾、战争、疾病、暴力冲突或暴动等坏事突然开始并迅速蔓延）",
+              "eg": "A fierce fire <strong>broke out</strong> in the commercial kitchen while we were enjoying a quiet family dinner in the dining room."
+            },
+            {
+              "opt": "3",
+              "word": "broke from",
+              "zh": "脱离，打破（传统/约束）（短语动词，指故意不再遵循原有的传统、习惯、规矩或特定的教派和组织约束）",
+              "eg": "The young contemporary artist <strong>broke from</strong> long-standing academic tradition with her bold and controversial new painting style."
+            },
+            {
+              "opt": "4",
+              "word": "broke away",
+              "zh": "挣脱离开，摆脱控制（短语动词，指通过身体上的用力挣扎成功逃离抓捕者、动物牵引绳，或指政治、组织上的独立脱离）",
+              "eg": "The desperate suspect <strong>broke away</strong> from the police officers and ran headlong down the dark, narrow alleyway."
+            }
+          ]
+        },
+        "14": {
+          "zh": "跟她讲道理是徒劳的，她根本不听。",
+          "note": "选1：<em>futile</em> 徒劳。",
+          "concept": "词汇辨析 — futile（徒劳的；无效的）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "futile",
+              "zh": "徒劳的，无效的（形容词，指某种行动、尝试或付出完全没有达到预期的目的，属于白费力气或毫无结果的行动）",
+              "eg": "All our desperate attempts to start the old, rusted car engine proved <strong>futile</strong>, forcing us to call a tow truck."
+            },
+            {
+              "opt": "2",
+              "word": "fertile",
+              "zh": "肥沃的；多产的（形容词，指土地或土壤养分极其充足、极其适宜农作物和植物的大规模生长，也可指人的头脑充满想象力或创造力）",
+              "eg": "The river valley has incredibly <strong>fertile</strong> soil for growing crops, producing an abundant harvest for the local farmers every autumn."
+            },
+            {
+              "opt": "3",
+              "word": "fruitful",
+              "zh": "富有成效的，收获丰硕的（形容词，指某项活动、讨论、工作或研究带来了极具实际价值、有建设性或非常成功的好结果）",
+              "eg": "The afternoon discussion was highly <strong>fruitful</strong>, and both sides successfully reached a formal agreement on the new project timeline."
+            },
+            {
+              "opt": "4",
+              "word": "frivolous",
+              "zh": "轻浮的，无聊的，不严肃的（形容词，指人的言行举止幼稚、荒唐或开玩笑不分场合，也可以指物品或开销愚蠢无用、缺乏真正价值）",
+              "eg": "Her <strong>frivolous</strong> giggling during the solemn morning prayer significantly annoyed the rest of the classroom and earned her a stern warning."
+            }
+          ]
+        },
+        "15": {
+          "zh": "凯茜编了个借口，老师相信了就放她一马。",
+          "note": "选2：习语 <em>off the hook</em> 免受责罚。",
+          "concept": "词汇辨析 — off the hook（脱身；免受惩罚）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "off the cuff",
+              "zh": "即兴地，未经准备地（习语，常作副词性短语，指在没有事先计划、查阅资料或演练的情况下直接发表讲话或采取行动）",
+              "eg": "He made a witty remark <strong>off the cuff</strong> during the school assembly, surprising everyone with his spontaneous humor."
+            },
+            {
+              "opt": "2",
+              "word": "off the hook",
+              "zh": "脱身，摆脱困境；免受惩罚（习语，指某人得以从极其棘手的责任、义务、嫌疑或原应受到的责罚中解脱出来）",
+              "eg": "Cathy hoped her clever excuse would let her <strong>off the hook</strong>, saving her from being grounded by her strict parents."
+            },
+            {
+              "opt": "3",
+              "word": "off the leash",
+              "zh": "解开皮带的，不受约束的（字面指宠物解开牵引绳，引申形容人完全脱离了管束、重获人身自由或处于放任状态）",
+              "eg": "The excited puppy ran wild once it was <strong>off the leash</strong> in the dog park, chasing after every fallen leaf."
+            },
+            {
+              "opt": "4",
+              "word": "off the charts",
+              "zh": "破纪录的，好得离谱的（习语，指数据、热度、成绩或数量极高，远远超出了现有图表或正常标准的记录范围）",
+              "eg": "Sales of the new video game went <strong>off the charts</strong> within a week, completely selling out across all local stationery shops."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "inexplicable",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "indifferent",
+            "2": "unimportant",
+            "3": "unavoidable",
+            "4": "incomprehensible"
+          }
+        },
+        "17": {
+          "stem_plain": "maiden",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "first",
+            "2": "last",
+            "3": "only",
+            "4": "recent"
+          }
+        },
+        "18": {
+          "stem_plain": "dawn",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "dusk",
+            "2": "noon",
+            "3": "sunrise",
+            "4": "midnight"
+          }
+        },
+        "19": {
+          "stem_plain": "prompted",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "led",
+            "2": "forced",
+            "3": "hindered",
+            "4": "discouraged"
+          }
+        },
+        "20": {
+          "stem_plain": "penchant",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "loyalty",
+            "2": "hostility",
+            "3": "aversion",
+            "4": "fondness"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "My first notebook was given to me by my mother with the suggestion to amuse myself by writing down my thoughts. The impulse to write things down is a peculiarly compulsive one, [Q16 (inexplicable)] to those who do not see a need to do so.",
+          "My [Q17 (maiden)] entry that I had written was an account of a woman who believed herself to be freezing to death in the Arctic night, only to find, at [Q18 (dawn)] that she had stumbled onto the Sahara Desert, where she would die of the heat before lunch. I have no idea what [Q19 (prompted)] a five-year-old child to write something like that, but it does reveal a certain [Q20 (penchant)] for the extreme which has followed me into adult life.",
+          "Perhaps if I were more 'normal', I might have written about the day my cousin put cat litter in the aquarium to fertilise the plants."
+        ],
+        "zh": [
+          "我的第一本笔记本是母亲送给我的，她建议我把想法写下来自娱。把东西写下来的冲动是一种奇特的强迫性习惯，对那些看不出有必要这样做的人来说难以解释。",
+          "我写下的第一篇日记，讲的是一个相信自己会在北极寒夜中冻死的女人，结果天亮才发现自己误闯撒哈拉沙漠，会在午饭前就热死。我不知道是什么促使一个五岁的孩子写这样的东西，但这确实显露了某种对极端事物的偏好，并一直跟随我进入成年。",
+          "也许如果我更“正常”一点，我可能会写表兄把猫砂倒进鱼缸给植物施肥的那一天。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — inexplicable（难以理解的）",
+          "note": "应选（4）'incomprehensible'：短文划线的 <em>inexplicable</em> 在此语境下与此义最接近。'indifferent'：义为'漠不关心的；冷淡的'，与短文语境或搭配要求不一致。'unimportant'：与题干语境或搭配要求不一致。'unavoidable'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "把东西写下来的冲动是一种奇特的强迫性习惯，对那些看不出有必要这样做的人来说难以理解。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "indifferent",
+              "zh": "漠不关心的，冷淡的（形容词，指对某人或某事不感兴趣、不在乎，表现出无动于衷的态度）",
+              "eg": "She seemed completely <strong>indifferent</strong> to the news of the rescheduling, as if the delay didn't matter to her at all."
+            },
+            {
+              "opt": "2",
+              "word": "unimportant",
+              "zh": "不重要的，微不足道的（形容词，指某事物缺乏价值、影响力或实际意义，不需要给予过多关注）",
+              "eg": "The teacher advised the students not to waste time on <strong>unimportant</strong> details while writing a brief summary of the text."
+            },
+            {
+              "opt": "3",
+              "word": "unavoidable",
+              "zh": "不可避免的，必然发生的（形容词，指某种情况、结果或变化由于客观规律而绝对无法防范、绕开或阻止）",
+              "eg": "With the dark clouds gathering rapidly overhead, a sudden heavy downpour became completely <strong>unavoidable</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "incomprehensible",
+              "zh": "难以理解的，无法懂的（形容词，指因为极其复杂、怪异或缺乏逻辑，导致人的智力或常识根本无法参透和明白）",
+              "eg": "The ancient coded manuscript was written in an <strong>incomprehensible</strong> language that baffled historical experts for decades."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — maiden（首次的；第一）",
+          "note": "应选（1）'first'：短文划线的 <em>maiden</em> 在此语境下与此义最接近。'last'：与题干语境或搭配要求不一致。'only'：与题干语境或搭配要求不一致。'recent'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "我写下的第一篇日记，讲的是一个相信自己会在北极寒夜中冻死的女人，结果天亮才发现自己误闯撒哈拉沙漠，会在午饭前就热死。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "first",
+              "zh": "首次的，第一的（指在时间、顺序或重要性上排在最前面的）",
+              "eg": "This was her first time performing on stage, but she showed no sign of nervousness."
+            },
+            {
+              "opt": "2",
+              "word": "last",
+              "zh": "最后的，最末的（指在顺序或时间上排在最后，或者仅剩的）",
+              "eg": "He was the last student to leave the classroom after finishing the science experiment."
+            },
+            {
+              "opt": "3",
+              "word": "only",
+              "zh": "唯一的，仅有的（指只有一个，没有其他同类事物的存在）",
+              "eg": "She was the only person who managed to solve the difficult math puzzle correctly."
+            },
+            {
+              "opt": "4",
+              "word": "recent",
+              "zh": "最近的，新近的（指发生或存在于不久之前的）",
+              "eg": "The teacher discussed the country's recent economic changes during the social studies lesson."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — dawn（日出）",
+          "note": "应选（3）'sunrise'：短文划线的 <em>dawn</em> 在此语境下与此义最接近。'dusk'：与题干语境或搭配要求不一致。'noon'：与题干语境或搭配要求不一致。'midnight'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "我写下的第一篇日记，讲的是一个相信自己会在北极寒夜中冻死的女人，结果日出才发现自己误闯撒哈拉沙漠，会在午饭前就热死。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dusk",
+              "zh": "黄昏",
+              "eg": "In class we discussed how <strong>dusk</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "noon",
+              "zh": "中午",
+              "eg": "The speaker chose <strong>noon</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "sunrise",
+              "zh": "日出",
+              "eg": "Her essay used <strong>sunrise</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "4",
+              "word": "midnight",
+              "zh": "午夜",
+              "eg": "The pupils found the word <strong>midnight</strong> useful in their composition."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — prompted（促使；引导）",
+          "note": "应选（1）'led'：短文划线的 <em>prompted</em> 在此语境下与此义最接近。'forced'：与题干语境或搭配要求不一致。'hindered'：与题干语境或搭配要求不一致。'discouraged'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "我不知道是什么促使一个五岁的孩子写这样的东西，但这确实显露了某种对极端事物的偏好，并一直跟随我进入成年。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "led",
+              "zh": "促使；引导",
+              "eg": "Curiosity <strong>led</strong> him to open the locked drawer."
+            },
+            {
+              "opt": "2",
+              "word": "forced",
+              "zh": "力",
+              "eg": "The coach <strong>forced</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "hindered",
+              "zh": "阻碍",
+              "eg": "The coach <strong>hindered</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "discouraged",
+              "zh": "劝阻",
+              "eg": "The coach <strong>discouraged</strong> the players after the match."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — penchant（喜爱）",
+          "note": "应选（4）'fondness'：短文划线的 <em>penchant</em> 在此语境下与此义最接近。'loyalty'：与题干语境或搭配要求不一致。'hostility'：与题干语境或搭配要求不一致。'aversion'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "我不知道是什么促使一个五岁的孩子写这样的东西，但这确实显露了某种对极端事物的喜爱，并一直跟随我进入成年。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "loyalty",
+              "zh": "忠诚，忠心（指对国家、朋友、信念或职责坚贞不渝、尽心尽力的质量）",
+              "eg": "The old guard dogs showed great loyalty to their master by protecting the house from thieves."
+            },
+            {
+              "opt": "2",
+              "word": "hostility",
+              "zh": "敌意，敌对状态（指对他人表现出强烈的反感、不友好或攻击性的态度）",
+              "eg": "There was obvious hostility between the two rival soccer players during the final match."
+            },
+            {
+              "opt": "3",
+              "word": "aversion",
+              "zh": "厌恶，反感（指对某事或某物有强烈的、自发性的排斥感和不愿意面对的心态）",
+              "eg": "Due to his strong aversion to public speaking, he felt extremely anxious before the presentation."
+            },
+            {
+              "opt": "4",
+              "word": "fondness",
+              "zh": "喜爱，钟爱（指对某人或某物产生温和、持久的喜爱之情，常与介词 for 连用）",
+              "eg": "Over the years, the young boy developed a deep fondness for classical music and learned the piano."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "In the section **'An annual event not to be missed'**, the asterisk (*) in front of the word **'endangered'** is used to _________",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "highlight an interesting point",
+            "2": "relate the point to an explanation",
+            "3": "make a point more visually appealing",
+            "4": "encourage readers to read more carefully"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the flyer, to participate in the poster design competition, Ahmad has to _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "start drawing only at twelve noon",
+            "2": "produce a student pass upon registration",
+            "3": "bring his own drawing paper and other art materials",
+            "4": "create a poster related to the dangers faced by all animals"
+          }
+        },
+        "23": {
+          "stem_plain": "Which one of the following statements about the Art Exhibition is true?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Tickets to the exhibition can be purchased online.",
+            "2": "A school group can request for a guided tour at the entrance.",
+            "3": "All paintings showcased at the Art Exhibition are by Andy Chua.",
+            "4": "The exhibition is held every day throughout the whole month of October."
+          }
+        },
+        "24": {
+          "stem_plain": "In the speech bubble, **'We are constantly being hunted and killed by mankind'**, what does the **'We'** refer to?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "flora",
+            "2": "people",
+            "3": "habitats",
+            "4": "endangered animals"
+          }
+        },
+        "25": {
+          "stem_plain": "What can a nine-year-old boy do at Expo Hall 3 on 24 October?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "create a small clay figurine of himself",
+            "2": "view the works of a famous local artist",
+            "3": "draw a picture of a red panda on a piece of paper",
+            "4": "make a clay animal together with one of his parents"
+          }
+        },
+        "26": {
+          "stem_plain": "What is a similarity among the activities held at the Expo City?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They are open to students only.",
+            "2": "They are held on the same day.",
+            "3": "They are organised to educate the public.",
+            "4": "They are free for all student pass holders."
+          }
+        },
+        "27": {
+          "stem_plain": "Amy wishes to read stories and news about wildlife. What should she do?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "make a call to Mandy at 6453 6547",
+            "2": "send an email to www.wfmembers.com.sg",
+            "3": "sign up for the Wildlife Foundation membership",
+            "4": "participate in at least one activity at the Expo City"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of the flyer?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to warn that wild animals are facing extinction soon",
+            "2": "to boost membership for the Wildlife Foundation (WF)",
+            "3": "to promote the various activities held at the Expo City",
+            "4": "to provide the dates of the Figurine-making Workshops"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — Visual feature (asterisk)（视觉文本考点）",
+          "note": "<p><p>The asterisk links the bullet about <em>endangered</em> animals to the explanation below → <span class=\"hl-good\">relate the point to an explanation</span>.</p></p>",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "题型 — Poster detail（题型考点）",
+          "note": "<p><p>Register in person with <span class=\"hl-good\">student pass</span> at Expo Hall 2.</p></p>",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "题型 — Art Exhibition（题型考点）",
+          "note": "<p><p>Flyer states paintings at Expo Hall 1 are by <span class=\"hl-good\">Andy Chua</span> (renowned local artist).</p></p>",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "题型 — Reference (speech bubble)（题型考点）",
+          "note": "<p><p>Speech bubble voice is <span class=\"hl-good\">endangered animals</span> speaking about being hunted.</p></p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Workshop detail（题型考点）",
+          "note": "<p><p>Nine-year-old at Expo Hall 3 on 24 Oct → <span class=\"hl-good\">make a clay animal with a parent</span> (figurine workshop).</p></p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "目的 — Common purpose（目的考点）",
+          "note": "<p><p>All activities aim to <span class=\"hl-good\">educate the public</span> about wildlife.</p></p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "题型 — Membership（题型考点）",
+          "note": "<p><p>Wildlife news via email → <span class=\"hl-good\">sign up for Wildlife Foundation membership</span> at wfmembers.com.sg.</p></p>",
+          "answer": "3"
+        },
+        "28": {
+          "concept": "主旨 — main purpose（主要目的）",
+          "note": "<p><p>Overall flyer promotes <span class=\"hl-good\">various activities at Expo City</span> in October.</p></p>",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "at",
+          "D": "for",
+          "G": "have",
+          "K": "our",
+          "N": "when",
+          "B": "both",
+          "E": "from",
+          "H": "in",
+          "L": "such",
+          "P": "where",
+          "C": "but",
+          "F": "has",
+          "J": "of",
+          "M": "to",
+          "Q": "with"
+        },
+        "cloze": [
+          "Community in Bloom is a nationwide community gardening movement. Not only does community gardening contribute to the green ambience of Singapore [Q29] also fosters community spirit by bringing together like-minded people, [Q30] young and old, with an interest in gardening to bond as a community. The number of community gardens [Q31] increased significantly since the start of this movement.",
+          "These community gardens are common spaces [Q32] the residents come together to create and sustain a gardening space in their neighbourhood. Today, there are over 1,600 community gardens in Singapore adding vibrancy [Q33] our community spaces. They nurture the values [Q34] cooperation, volunteerism, and respect for nature especially in [Q35] multi-ethnic society.",
+          "Some community gardens are also growing edibles. Gardening with edible plants is a fun and rewarding activity [Q36] residents in the community. These gardens help to attract wildlife to our urban greenery [Q37] addition to providing edible crops. Such pockets of green spaces serve as a corridor for wildlife like butterflies and birds to migrate [Q38] one nature reserve to another, providing food and shelter. Thanks to these pockets of green spaces, birds and butterflies are increasingly becoming a common sight in our neighbourhoods."
+        ],
+        "zh": [
+          "'社区花园'是全国性的社区园艺运动。社区园艺不仅增添新加坡绿意，还让志同道合、老少皆爱园艺的人聚在一起，增进社区精神。自运动开展以来，社区花园数量显著增加。",
+          "这些花园是居民共建共护的邻里空间。如今新加坡有一千六百多个社区花园，为社区空间注入活力。它们培养合作、志愿精神与尊重自然等价值观，在多族裔社会中尤为重要。",
+          "一些社区花园还种植可食作物。种植蔬菜是居民有趣而有回报的活动。这些花园除提供作物外，还能吸引野生动物来到城市绿地。这样的绿色斑块像走廊，让蝴蝶、鸟类在一处自然保护区与另一处之间迁徙，获得食物与庇护。多亏这些绿地，鸟蝶在我们的邻里越来越常见。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "固定搭配 — not only … but",
+          "note": "the green ambience of Singapore but also fosters community spirit by = 结合句意选 but。",
+          "answer": "C — but"
+        },
+        "30": {
+          "concept": "Pairing",
+          "note": "结合句意选 both。",
+          "answer": "B — both"
+        },
+        "31": {
+          "concept": "主谓 — 时态/一致",
+          "note": "The number of community gardens has increased significantly since the start = 主谓一致 → has。",
+          "answer": "F — has"
+        },
+        "32": {
+          "concept": "关系/连接词 — where",
+          "note": "community gardens are common spaces where the residents come together to = 定语/名词性从句 → where。",
+          "answer": "P — where"
+        },
+        "33": {
+          "concept": "介词 — to",
+          "note": "gardens in Singapore adding vibrancy to our community spaces. = 看前后搭配，选 to。",
+          "answer": "M — to"
+        },
+        "34": {
+          "concept": "介词 — of",
+          "note": "They nurture the values of cooperation, volunteerism, and respect for = 看前后搭配，选 of。",
+          "answer": "J — of"
+        },
+        "35": {
+          "concept": "指示/所有格 — our",
+          "note": "结合句意选 our。",
+          "answer": "K — our"
+        },
+        "36": {
+          "concept": "介词 — for",
+          "note": "a fun and rewarding activity for residents in the community. = 看前后搭配，选 for。",
+          "answer": "D — for"
+        },
+        "37": {
+          "concept": "介词 — in",
+          "note": "wildlife to our urban greenery in addition to providing edible crops. = 看前后搭配，选 in。",
+          "answer": "H — in"
+        },
+        "38": {
+          "concept": "介词 — from",
+          "note": "butterflies and birds to migrate from one nature reserve to another, = 看前后搭配，选 from。",
+          "answer": "E — from"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was payday and Anand had promised his mother he would stop at the vegetable market. For days, his family had nothing much to eat [Q39(axcept)] for potatoes. As it was late, Anand thought the street vendors would have [Q40(go)] home.",
+          "As expected, the market was [Q41(disserted)] and the ground was littered with both banana peels [Q42(or)] wilted cabbage leaves. Only the big store, the one which charged [Q43(exorbitent)] prices, was still open and doing business, selling vegetables. Despite [Q44(know)] that most of the items sold there were beyond his [Q45(badget)] , Anand walked up to the store hoping to still find some good bargains.",
+          "[Q46(Immediate)] , his eyes caught sight of some mangoes. Mangoes in winter! They looked [Q47(suckulent)] and plump, almost in the state of perfect [Q48(ripe)] . He had not eaten a mango in a long time. Finding the temptation too [Q49(irisistable)] , he paid the storekeeper before carefully picking the [Q50(big)] and fattest mango. His mother would certainly be amazed when he showed up with this beauty!"
+        ],
+        "zh": [
+          "发薪日，阿南答应母亲会去菜市场。好几天家里除了土豆几乎没什么可吃。天色已晚，他以为街边小贩都回家了。",
+          "果然，市场空无一人，地上满是香蕉皮和蔫了的菜叶。只有那家要价很高的大店还在营业卖菜。明知店里多数东西超出预算，阿南仍走向店里，希望还能淘到便宜货。",
+          "他一眼就看到了芒果。冬天居然有芒果！它们看起来多汁饱满，几乎熟透了。他好久没吃芒果了。诱惑难以抗拒，他付钱后仔细挑选最大最胖的那颗。母亲见到这件“宝贝”一定会惊讶。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">Except</span> for potatoes (not <em>axcept</em>).</p>",
+          "answer": "Except"
+        },
+        "40": {
+          "concept": "Grammar",
+          "note": "<p>Vendors would have <span class=\"hl-good\">gone</span> home (not <em>go</em>).</p>",
+          "answer": "Gone"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<p>Market was <span class=\"hl-good\">deserted</span> (not <em>disserted</em>).</p>",
+          "answer": "Deserted"
+        },
+        "42": {
+          "concept": "Conjunction",
+          "note": "<p><em>Both … and</em> → <span class=\"hl-good\">and</span> (not <em>or</em>).</p>",
+          "answer": "And"
+        },
+        "43": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">Exorbitant</span> prices.</p>",
+          "answer": "Exorbitant"
+        },
+        "44": {
+          "concept": "Grammar",
+          "note": "<p><span class=\"hl-good\">Knowing</span> that most items were beyond budget (gerund after <em>Despite</em>).</p>",
+          "answer": "Knowing"
+        },
+        "45": {
+          "concept": "Spelling",
+          "note": "<p>Beyond his <span class=\"hl-good\">budget</span>.</p>",
+          "answer": "Budget"
+        },
+        "46": {
+          "concept": "Word form",
+          "note": "<p><span class=\"hl-good\">Immediately</span> (adverb, not <em>Immediate</em>).</p>",
+          "answer": "Immediately"
+        },
+        "47": {
+          "concept": "Spelling",
+          "note": "<p>Mangoes looked <span class=\"hl-good\">succulent</span>.</p>",
+          "answer": "Succulent"
+        },
+        "48": {
+          "concept": "Word form",
+          "note": "<p>State of perfect <span class=\"hl-good\">ripeness</span> (noun).</p>",
+          "answer": "Ripeness"
+        },
+        "49": {
+          "concept": "Spelling",
+          "note": "<p>Temptation too <span class=\"hl-good\">irresistible</span>.</p>",
+          "answer": "Irresistible"
+        },
+        "50": {
+          "concept": "Superlative",
+          "note": "<p>Picking the <span class=\"hl-good\">biggest</span> mango (superlative).</p>",
+          "answer": "Biggest"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Nurses and healthcare workers are the unsung heroes of our healthcare system.",
+          "Nursing is by nature a demanding [Q51] requiring long hours and overnight schedules. Dealing [Q52] frustrated patients and family members is also [Q53] and parcel of nursing. On top of these, nurses also have family responsibilities and with their modest salaries, it is [Q54] surprising that some nurses choose to leave the profession for [Q55] jobs. Thus, the government needs to do more [Q56] attract talented young Singaporeans into nursing and make more effort to keep them in the job. [Q57] nurses a pay rise is not merely enough [Q58] they also need better benefits.",
+          "Healthcare is rich in public-spiritedness and efforts should be [Q59] up to preserve this sense of public-spirit. We need to protect nurses [Q60] long shift work, unreasonable demands and burnout. For nurses, mastery of skills and independence are two [Q61] of the same coin. Nurses in the UK run their own clinics, diagnose patients and conduct research. Therefore, it is [Q62] unusual to find senior nurses training junior doctors in medical schools.",
+          "Unfortunately, today, nurses [Q63] still frequently seen as assistants to doctors. We need a [Q64] of mindset and start to give them some respect and independence. Nurses empowered with more responsibility for the well-being of the patients [Q65] their care will be motivated to keep improving their skills. This will establish a virtuous cycle of excellence in nursing care."
+        ],
+        "zh": [
+          "护士和医护人员是我们医疗体系的无名英雄。",
+          "护理工作本身要求高、工时长；面对患者与家属也是家常便饭。薪水不高还要顾家，有人转行并不意外；政府需加大力度吸引年轻人入行并留住他们；仅加薪还不够，福利也要跟上。",
+          "医护领域有公共服务精神，应维护这种氛围，保护护士免于过长班次与倦怠。技能与独立相辅相成；英国护士可开诊所、做研究，资深护士甚至培训初级医生。",
+          "如今护士仍常被视为医生助手；须转变观念、赋予尊重与权责，形成护理质量良性循环。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "名词语意与场景修饰",
+          "note": "前面有冠词 a 和形容词 demanding（高要求的/费力的）修饰。结合前文护理需要长工时、值夜班的叙述，指这属于一项繁重、辛苦的“工作”、“职业”或“生涯”，故填单数名词 job / profession / career / occupation。",
+          "answer": "job/profession/career/occupation"
+        },
+        "52": {
+          "concept": "动词与介词特定搭配",
+          "note": "作为动名词形式 Dealing 的后置介词，与后面的宾语 frustrated patients（受挫的病人）组合。完美契合在各类职场和医患关系议题里极其核心和高频的专属短语动词 deal with，意为“应对/处理”令人头疼的状况。",
+          "answer": "with"
+        },
+        "53": {
+          "concept": "经典习语固定搭配",
+          "note": "与其后置的并列连词 and 极其名词短语 parcel of nursing 完美组合。构成英语中用于形容某项事业不可避免的代价、核心组成部分的极其高频标志性专属二字成语习语 part and parcel of something，意为直面患者情绪正是护理工作“不可分割的一部分”。",
+          "answer": "part"
+        },
+        "54": {
+          "concept": "绝对否定副词语气修饰",
+          "note": "作为系动词 is 和形容词 surprising（令人吃惊的）之间的否定修饰语。指在前文多种家庭负累和微薄薪水的催化下，有些护士选择转行是完全“不足为奇的/意料之中的”，故填入否定副词 not 构成经典双重否定结构（it is not surprising）。",
+          "answer": "not"
+        },
+        "55": {
+          "concept": "限定词/限定形容词",
+          "note": "修饰复数名词 jobs。指护士们选择离开这个行业，去寻求、换一份“其他的”或者是“更好的”工作，故填限定形容词 other / better / alternative。",
+          "answer": "other/better/alternative"
+        },
+        "56": {
+          "concept": "动词不定式（目的）",
+          "note": "不定式符号 to 后接动词原形表目的。与后面的动词原形 attract（吸引）搭配，指政府需要采取更多核心对策，来吸引有才华的新加坡年轻人投身医疗，构成 do more to do something 结构。",
+          "answer": "to"
+        },
+        "57": {
+          "concept": "动名词短语充当主语",
+          "note": "后面紧跟双宾语结构 nurses（间接宾语）和 a pay rise（直接宾语），整个短语在句中充当主语，谓语动词为单数形式 is。指单单“给予（Giving/Offering/Providing）”护士们加薪是远远不够的，需填入动名词形式。位于句首需大写。",
+          "answer": "Giving/Offering/Providing"
+        },
+        "58": {
+          "concept": "从属原因连词形式",
+          "note": "引导原因状语从句。用来连接前后两句，指仅靠加薪不顶用，“因为（as/because/since）”他们同时还需要更完善的员工福利支持，故填入表示原因的连词。",
+          "answer": "as/because/since"
+        },
+        "59": {
+          "concept": "被动语态短语动词搭配",
+          "note": "前面有情态被动助动词 should be，后面接过去分词。与后面的副词 up 完美组合，构成高频常考的特定短语动词 keep up（保持/延续），指必须“坚守”或“付出（made/stepped）”极大努力来维系这份奉献精神，需用过去分词形式。",
+          "answer": "kept/made/stepped"
+        },
+        "60": {
+          "concept": "动词与介词特定搭配",
+          "note": "与前面的动词原形 protect 极其后面的名词短语 long shift work... 完美组合。构成在公共卫生、职场健康文体中极高频常考的经典专属防范句型 protect someone from something，意在“保护”护士们免受过度加班和职业倦怠的摧残（填入 against 亦完全符合保护搭配）。",
+          "answer": "from/against"
+        },
+        "61": {
+          "concept": "经典习语固定搭配与主谓一致",
+          "note": "前面有数量词 two 修饰，后接介词短语 of the same coin。完美契合英语中用于形容凡事皆有一体两面、两者密不可分的经典核心专属比喻习语 two sides of the same coin，意为技能掌握和独立自主是“同一枚硬币的两面”。",
+          "answer": "sides"
+        },
+        "62": {
+          "concept": "双重否定副词语气限定",
+          "note": "作为系动词 is 和形容词 unusual（不寻常的/罕见的）之间的否定修饰语。指由于英国护士非常独立，所以在医学院里看到资深护士去培训年轻的初级医生，是一件“并非不寻常的（即：非常普遍、极为常见）”事情，固定使用 not 构成双重否定语气。",
+          "answer": "not"
+        },
+        "63": {
+          "concept": "被动语态主谓一致系动词",
+          "note": "主语为复数名词 nurses，后接副词 still 极其过去分词 seen。本句批判当今社会的刻板现实，需用一般现在时。指护士们在今天依然频繁“被视作”医生的附属品，故填入复数现在时系动词 are（构成 are still seen 被动语态）。",
+          "answer": "are"
+        },
+        "64": {
+          "concept": "名词固定习惯搭配",
+          "note": "前面有不定冠词 a，后接介词短语 of mindset。完美契合在各类思想启蒙、观念转型文体中屡次重复考核的核心专属搭配 a change of mindset / attitude，意为我们需要迎来一次观念的“彻底转变/改观”。",
+          "answer": "change"
+        },
+        "65": {
+          "concept": "介词固定习惯短语",
+          "note": "与前面的名词所有格短语 the patients 极其后面的代词物主结构 their care 完美组合。构成在医疗、看护及教育叙事文体中极高频考核的经典看管专属习语 under their care，意为由他们所负责“照料/看护”的那些病患。",
+          "answer": "under"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Priya likes to dance. Nora likes to dance as well.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Both __________"
+        },
+        "67": {
+          "stem_plain": "Jess had not cooked a meal before so she made a mess of it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Not __________"
+        },
+        "68": {
+          "stem_plain": "I sympathised with what John was going through, so I offered him some help.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Out of __________"
+        },
+        "69": {
+          "stem_plain": "Ronny asked his mother, \"Where is my shirt?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Ronny asked his mother __________"
+        },
+        "70": {
+          "stem_plain": "The huge lion was injured. It was easily captured.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ due to its __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "关联结构 — Both … like",
+          "fill": [
+            "Priya and Nora like dancing"
+          ],
+          "zh": "普里亚和诺拉都喜欢跳舞。",
+          "note": "用 <em>Both … and</em> 合并两句，保持一般现在时。",
+          "answer": "Both Priya and Nora like dancing."
+        },
+        "67": {
+          "concept": "分词短语 — Not having + V3",
+          "fill": [
+            "having cooked a meal before, Jess made a mess of it"
+          ],
+          "zh": "杰丝以前没做过饭，结果搞得一团糟。",
+          "note": "分词结构表先前未做过的事。",
+          "answer": "Not having cooked a meal before, Jess made a mess of it."
+        },
+        "68": {
+          "concept": "句型转换 — Out of sympathy",
+          "zh": "出于对约翰处境的同情，我向他提供了帮助。",
+          "note": "因果：Out of + 名词短语；须保留主语 <em>I</em>。",
+          "answer": "Out of sympathy for what John was going through, I offered him some help."
+        },
+        "69": {
+          "concept": "间接引语 — Reported speech",
+          "zh": "罗尼问妈妈他的衬衫在哪里。",
+          "note": "间接引语：疑问词保留，语序改为陈述句。",
+          "answer": "Ronny asked his mother where his shirt was."
+        },
+        "70": {
+          "concept": "原因短语 — Due to + noun",
+          "zh": "那头巨狮因受伤而被轻易捕获。",
+          "note": "两句合并；<em>due to</em> + 名词表原因。",
+          "answer": "The huge lion was easily captured due to its injury."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "In paragraph 1, what made Lucia used to the smell of rotten fruit?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Which five-word phrase in paragraph 1 tells you that Lucia was not young anymore?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on lines 6–13, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "Lucia sat down on the bench to have a drink.",
+                "Lucia has never visited Lorenzo's bakery.",
+                "Maria was nervous about asking for Lucia's help."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]",
+                "[Q73e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]",
+                "[Q73f]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "What was the favour asked for in line 14 and why was it not given?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Which two words from lines 17–19 describe what Lucia thinks of Maria's daughter? The words are found in two separate sentences.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q75a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q75b]"
+            }
+          ]
+        },
+        "76": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word from the passage",
+              "rows": [
+                "**her** (line 17)",
+                "**they** (line 21)",
+                "**it** (line 23)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refers to",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Explain clearly why Lorenzo referred to Lucia as his **'best customer'** (line 24).",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "Based on lines 20–30, fill in the table below to show how the actions of other characters affected Lucia and what she did as a result.",
+          "marks": 3,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "What the characters did",
+              "rows": [
+                "Lorenzo and Maria suggested Lucia give up her cake for Maria.",
+                "Lorenzo offered to give Lucia sugar cookies or eclairs.",
+                "Maria tried to appeal to Lucia as a mother."
+              ]
+            },
+            "col_2": {
+              "header": "How she felt",
+              "rows": [
+                "She felt shocked.",
+                "[Q78b]",
+                "Lucia felt unmoved by Maria's pleas."
+              ]
+            },
+            "col_3": {
+              "header": "What she did immediately",
+              "rows": [
+                "[Q78a]",
+                "She rejected his offer of sugar cookies or eclairs.",
+                "[Q78c]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Lucia replaced the cake in her cake stand.",
+            "Lucia's tomato plants in her vegetable garden were destroyed.",
+            "Lorenzo told Maria he had to wait for Lucia to come."
+          ]
+        },
+        "80": {
+          "stem_plain": "With reference to the passage, which **two** of the following words best describe Maria? Put a tick ✓ in the box beside each of your answers.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "helpful",
+            "hopeful",
+            "grateful",
+            "fair",
+            "envious",
+            "hardworking"
+          ],
+          "max_selections": 2
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "The air was cold and daylight was draining from the sky. The street smelled of rotten fruit left in street",
+          "2": "carts but Lucia was accustomed to this odour. It reminded her of the long hours she had spent helping",
+          "3": "her mother at the market as a young girl. It was past six and the shops were closed but she knew",
+          "4": "Lorenzo would stay open for her. She did not hurry as age had weakened her legs. When she walked,",
+          "5": "her hips grew sore from the effort of moving them.",
+          "6": "She stopped by a bench, wanting to sit but did not, knowing that that would be more difficult than simply",
+          "7": "to lean against the backrest. Lucia felt her stomach growl a little. Lunch that day had been light. She took",
+          "8": "a sip of water from her flask, waited until she had caught her breath and then walked the last block to the",
+          "9": "bakery. Lorenzo would be there. He would wait. Had she not gone to the bakery every Saturday for the",
+          "10": "last twenty years to buy Nick's favourite cake?",
+          "11": "\"Good evening, Lucia,\" he said as the chime clanged and the heavy glass door closed behind her.",
+          "12": "Standing before the cake display case and wringing her hands anxiously was Maria, a single mother who",
+          "13": "worked at the laundry to support her young child. Maria smiled at Lucia, hope in her eyes, \"We've been",
+          "14": "waiting for you. Maria has a favour to ask,\" the baker said.",
+          "15": "\"My little girl,\" Maria said, \"she is seven years old today. And I was so busy that I couldn't get out to buy",
+          "16": "her a birthday cake.\"",
+          "17": "\"Yes,\" Lucia said. She had indeed seen the rowdy child, out with **her** friends tearing up the vegetable",
+          "18": "gardens and always loitering around town. Lucia remembered that it had taken her two days to fix her",
+          "19": "tomato plants, destroyed by that playful child.",
+          "20": "Lorenzo then explained that Maria needed a cake and that he had none left, except the one he usually",
+          "21": "kept for Lucia. He had told Maria **they** would have to wait and ask Lucia. Lucia looked from Lorenzo to",
+          "22": "Maria in disbelief as her hands began to shake and her jaw clenched as she fought to keep calm. \"Every",
+          "23": "week I buy my cake. For how many years? And now she comes in and you just give **it** away?\"",
+          "24": "\"Lucia, you are my best customer!\" Lorenzo said. \"Please, think of the poor, little girl. I could give you",
+          "25": "some sugar cookies. Or, eclairs I just made! They're beautiful,\" he pleaded.",
+          "26": "Lucia glared at him and retorted, \"You bake her a cake if you like her so much.\" Lorenzo then gently",
+          "27": "explained that there was no more time to bake another cake and the party was about to start. Lucia just",
+          "28": "stared at him adamantly.",
+          "29": "Maria started crying and pleaded with Lucia, asking if she had children. Disdainfully, Lucia stared at",
+          "30": "her and told Maria she had never forgotten her own children's birthdays. Then, she turned and waved",
+          "31": "to Lorenzo. \"Box up my cake.\" After a slight pause, Lorenzo eased the cake out of the display case",
+          "32": "and placed it into a pastry box before reluctantly handing it over to Lucia.",
+          "33": "It was dark outside. Inside her kitchen, Lucia raised the glass cover of the cake stand, took out last",
+          "34": "week's stale, uneaten cake and threw it into the bin. She removed the new cake from its box and put it",
+          "35": "under the glass cover."
+        },
+        "paragraphs": {
+          "1": "天很冷，日光正从天空褪去。街上水果摊残留的烂果气味扑鼻，但露西亚早已习惯；这让她想起少女时帮母亲在集市度过的漫长时光。已过六点，店铺都关了，她知道洛伦佐会为她留着门。她并不匆忙——年岁已削弱她的双腿；一走动，挪臀骨便酸痛。",
+          "6": "她在长椅边停下，想坐又未坐，知道坐下比倚靠椅背更难起身。胃轻轻叫唤——当日午餐很少。她抿一口水壶里的水，喘匀气，走向最后一段路去面包店。洛伦佐会在那里，会等她。二十年来她不是每个星期六都来买尼克最爱的蛋糕吗？",
+          "11": "门铃叮当，厚玻璃门在她身后合上。“晚上好，露西亚。”蛋糕柜前站着玛利亚，一位在洗衣店工作、抚养幼女的单亲母亲，正焦虑地绞着双手。玛利亚朝她微笑，眼里带着希望。面包师说：“我们一直在等你。玛利亚有事想求你。”",
+          "15": "“我的小女孩今天七岁了，”玛利亚说，“我忙得没能出去给她买生日蛋糕。”",
+          "17": "“是啊，”露西亚说。她见过那个吵闹的孩子和同伴糟蹋菜园、在镇上闲逛；她记得自己花了两天修好被那顽皮孩子毁掉的番茄苗。",
+          "20": "洛伦佐解释说玛利亚需要蛋糕，而店里只剩他通常留给露西亚的那一块；他告诉玛利亚得等露西亚来、问她。露西亚难以置信地望着两人，手发抖、牙关紧咬，强压怒火：“我每星期都买蛋糕，买了多少年？现在她一来你就送人？”",
+          "24": "“露西亚，你是我最好的顾客！”洛伦佐恳求，“想想可怜的小女孩——我可以给你糖曲奇，刚做的泡芙，多漂亮。”",
+          "26": "露西亚怒目而视：“你这么喜欢她就去给她烤。”洛伦佐温言说来不及再烤、派对就要开始；她仍固执地瞪着他。",
+          "29": "玛利亚哭起来，问露西亚有没有孩子。露西亚轻蔑地盯着她，说自己从未忘记自己孩子的生日，然后挥手让洛伦佐“把我的蛋糕装起来”。洛伦佐迟疑地把蛋糕从陈列柜取出，装进糕点盒，不情愿地递给她。",
+          "33": "外面天黑了。厨房里，露西亚掀开蛋糕罩，扔掉上周没动过的陈蛋糕，把新蛋糕放进罩里。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>第一段：为何露西亚习惯烂果气味。</li><li><strong>范围：</strong>第 1 段（行 1–5）。</li><li><strong>证据：</strong>气味让她想起 <em>long hours … helping her mother at the market as a young girl</em>（行 2–3）。</li><li><strong>答案要点：</strong>她少女时曾在市场帮母亲度过漫长时光。</li></ol>",
+          "answer": [
+            "She used to spend long hours helping her mother at the market as a young girl."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>在第一段找<strong>五个词</strong>的短语，说明她不再年轻。</li><li><strong>关键词：</strong><em>five-word phrase</em>。</li><li><strong>证据：</strong>行 4–5：<span class=\"hl-good\"><em>age had weakened her legs</em></span>（共五词）。</li><li><strong>书写：</strong>照抄五个词，不多不少。</li></ol>",
+          "answer": [
+            "Age had weakened her legs."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>范围：</strong>行 6–13。</li><li><strong>(a) FALSE：</strong>她倚靠椅背，并未坐下喝水（行 6–8）。</li><li><strong>(b) FALSE：</strong>二十年来每星期六都去面包店（行 9–10）。</li><li><strong>(c) TRUE：</strong>玛利亚在柜前焦虑绞手（行 12–13）。</li><li><strong>表格：</strong>True/False 与 Reason 列须与范文一致。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "False",
+            "73b": "She leaned against the backrest of the bench",
+            "73c": "False",
+            "73d": "Lucia went to the bakery every Saturday for the last twenty years to buy Nick's favourite cake",
+            "73e": "True",
+            "73f": "She stood before the cake display case, wringing her hands anxiously"
+          }
+        },
+        "74": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>问法：</strong>行 14 所求何事；为何未答应。</li><li><strong>所求：</strong>玛利亚要为女儿买生日蛋糕（行 15–16）。</li><li><strong>未答应：</strong>露西亚自己要那块蛋糕，不愿让给玛利亚。</li></ol>",
+          "answer": [
+            "Maria wanted a birthday cake for her daughter (line 14). The favour was Lucia allowing Maria to buy the last cake. The favour was not given as Lucia wanted the cake for herself."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>行 17–19，两句各一词。</li><li><strong>证据：</strong><span class=\"hl-good\">rowdy</span> child（行 17）；<span class=\"hl-good\">playful</span> child 毁坏番茄（行 19）。</li><li><strong>书写：</strong><code>1.</code> Rowdy；<code>2.</code> Playful。</li></ol>",
+          "answer": {
+            "75a": "Rowdy",
+            "75b": "Playful"
+          }
+        },
+        "76": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>左栏代词在文中的指称。</li><li><strong>(a) her (行 17)：</strong>玛利亚的女儿。</li><li><strong>(b) they (行 21)：</strong>洛伦佐和玛利亚（须等露西亚）。</li><li><strong>(c) it (行 23)：</strong>洛伦佐通常留给露西亚的那块蛋糕。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "Maria's daughter",
+            "76b": "Lorenzo and Maria",
+            "76c": "the cake Lorenzo kept for Lucia"
+          }
+        },
+        "77": {
+          "concept": "解释说明题",
+          "note": "<ol><li><strong>问法：</strong>为何称她 <em>best customer</em>（行 24）。</li><li><strong>证据：</strong>她每星期六来店二十年，专买尼克最爱的蛋糕（行 9–10；行 24 语境）。</li><li><strong>要点：</strong>长期、固定、忠诚的顾客。</li></ol>",
+          "answer": [
+            "Lucia visited his bakery every Saturday for the last twenty years to buy Nick's favourite cake."
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>范围：</strong>行 20–30。</li><li><strong>行 1：</strong>震惊；反应为难以置信、手抖、咬牙（已给 shocked，须补“做了什么”）。</li><li><strong>行 2：</strong>愤怒；拒绝糖曲奇/泡芙（已给 rejected）。</li><li><strong>行 3：</strong>不为玛利亚哀求所动；轻蔑拒绝、提及自己不忘孩子生日。</li></ol>",
+          "answer": {
+            "78a": "She looked from Lorenzo to Maria in disbelief as her hands began shaking and her jaw clenched.",
+            "78b": "Lucia felt angry.",
+            "78c": "Lucia stared at Maria disdainfully and told Maria she had never forgotten her own children's birthdays."
+          },
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>逻辑：</strong>先毁番茄苗 → 洛伦佐让玛利亚等露西亚 → 最后回家换蛋糕入罩。</li><li><strong>答案：</strong><span class=\"hl-good\">3, 1, 2</span> 对应三句事件顺序。</li></ol>",
+          "answer": [
+            "3, 1, 2"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>题型：</strong>选两个词形容玛利亚（非露西亚）。</li><li><strong>证据：</strong>行 12–13 希望、焦虑求情 → <span class=\"hl-good\">hopeful</span>；努力工作养家 → <span class=\"hl-good\">hardworking</span>。</li><li><strong>勿选：</strong>只勾两项；勿选形容露西亚的性格词。</li></ol>",
+          "answer": [
+            "hopeful",
+            "hardworking"
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

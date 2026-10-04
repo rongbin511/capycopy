@@ -1,0 +1,494 @@
+{
+  "paperid": "p6_math_2023_sa2_psle",
+  "sections": {
+    "401": {
+      "questions": {
+        "1": {
+          "stem_plain": "Round 21 345 to the nearest thousand.",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "20 000",
+            "2": "21 000",
+            "3": "21 300",
+            "4": "22 000"
+          }
+        },
+        "2": {
+          "stem_plain": "What is the missing number in the box? $$6\\frac{3}{4} = \\frac{\\Box}{4}$$",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "18",
+            "2": "24",
+            "3": "27",
+            "4": "63"
+          }
+        },
+        "3": {
+          "stem_plain": "How many of the marked angles in the figure are smaller than 90° ?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "5",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "image": "q3.jpeg"
+        },
+        "4": {
+          "stem_plain": "Compute: $10 + \\frac{1}{10} + \\frac{1}{1000} = \\underline{\\hspace{2cm}}$",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "11.01",
+            "2": "10.11",
+            "3": "10.011",
+            "4": "10.101"
+          }
+        },
+        "5": {
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "$43^\\circ$",
+            "2": "$44^\\circ$",
+            "3": "$45^\\circ$",
+            "4": "$47^\\circ$"
+          },
+          "stem_plain": "ABCD is a square. Find $\\angle x$."
+        },
+        "6": {
+          "stem_plain": "What is the duration from 09:35 to 14:00?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "4 h 25 min",
+            "2": "4 h 35 min",
+            "3": "5 h 25 min",
+            "4": "5 h 35 min"
+          }
+        },
+        "7": {
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "$\\frac{3}{7}$, $\\frac{7}{10}$, $\\frac{7}{12}$",
+            "2": "$\\frac{7}{12}$, $\\frac{7}{10}$, $\\frac{3}{7}$",
+            "3": "$\\frac{7}{10}$, $\\frac{3}{7}$, $\\frac{7}{12}$",
+            "4": "$\\frac{7}{10}$, $\\frac{7}{12}$, $\\frac{3}{7}$"
+          },
+          "stem_plain": "Arrange the fractions from the largest to the smallest: $\\frac{7}{12}$, $\\frac{3}{7}$, $\\frac{7}{10}$"
+        },
+        "8": {
+          "stem_plain": "Which of the following is the same as 2 kg 30 g?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "230 g",
+            "2": "2030 g",
+            "3": "2300 g",
+            "4": "20 030 g"
+          }
+        },
+        "9": {
+          "stem_plain": "The diagram shows the front view and top view of a solid made with some cubes.\n\nWhich of the following could be the solid?",
+          "marks": 1,
+          "interaction": "mcq",
+          "options": {
+            "1": "A and B only",
+            "2": "A and C only",
+            "3": "B and C only",
+            "4": "C only"
+          },
+          "image": "q9.jpeg"
+        },
+        "12": {
+          "stem_plain": "Three containers with some water are shown below.\nWhich container has the most water and which container has the least?",
+          "options": {
+            "1": "Most: Y ; Least: X",
+            "2": "Most: Y ; Least: Z",
+            "3": "Most: Z ; Least: X",
+            "4": "Most: Z ; Least: Y"
+          },
+          "image": "q12.jpeg"
+        },
+        "13": {
+          "stem_plain": "A box contains 10¢ and 50¢ coins. The total value of these coins is $3. What is the largest possible number of coins in the box?",
+          "options": {
+            "1": "10",
+            "2": "25",
+            "3": "26",
+            "4": "30"
+          }
+        },
+        "14": {
+          "stem_plain": "Mrs Wong wanted to divide 72 girls and 60 boys equally into as many teams as possible. Each team had the same number of children. The number of boys in each team was the same. How many boys were there in each team?",
+          "options": {
+            "1": "12",
+            "2": "2",
+            "3": "5",
+            "4": "6"
+          }
+        },
+        "15": {
+          "stem_plain": "ABCD is a rectangle. E and F are points on AD such that AE = EF = FD. The ratio of the area of EGF to that of ABF is 1 : 8. What fraction of ABCD is shaded?",
+          "options": {
+            "1": "2/3",
+            "2": "5/8",
+            "3": "8/15",
+            "4": "15/23"
+          },
+          "image": "q15.jpeg"
+        },
+        "10-11": {
+          "interaction": "grouped",
+          "options": {},
+          "stem_plain": "Use the information below to answer Questions 10 and 11. \n The bar graphs show the sale of child tickets and adult tickets to a funfair over four days.The scale of the graph for adult tickets is not shown.",
+          "shared": true,
+          "image": "q10-11.jpeg",
+          "items": {
+            "10": {
+              "stem_plain": "How many child tickets were sold in total on Tuesday and Thursday?",
+              "marks": 1,
+              "interaction": "mcq",
+              "options": {
+                "1": "35",
+                "2": "50",
+                "3": "52",
+                "4": "60"
+              }
+            },
+            "11": {
+              "stem_plain": "The ratio of the number of adult tickets sold on Monday to the total number of tickets sold on that day was $4 : 5$. How many adult tickets were sold on Wednesday?",
+              "marks": 1,
+              "interaction": "mcq",
+              "options": {
+                "1": "18",
+                "2": "45",
+                "3": "60",
+                "4": "90"
+              }
+            }
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "answer": "2"
+        },
+        "5": {
+          "answer": "2"
+        },
+        "6": {},
+        "7": {
+          "answer": "2"
+        },
+        "9": {},
+        "12": {
+          "note": "Container X has a capacity of 1L with 5 subdivisions, so each mark represents 200ml. The water is at the 1st mark, which is 200ml. Container Y has 1L capacity with 4 subdivisions, each representing 250ml. Its water level is at the 1st mark, which is 250ml. Container Z has a 500ml capacity with 5 subdivisions, each representing 100ml. Its water level is at the 3rd mark, which is 300ml. Therefore, Z has the most water (300ml) and X has the least water (200ml).",
+          "concept": "Volume and Capacity — Mathematics",
+          "answer": "3",
+          "zh": "容器X的总容量为1升，共有5个刻度，每个刻度代表200毫升，当前水面位于第1个刻度，即200毫升。容器Y的总容量为1升，共有4个刻度，每个刻度代表250毫升，当前水面位于第1个刻度，即250毫升。容器Z的总容量为500毫升，共有5个刻度，每个刻度代表100毫升，当前水面位于第3个刻度，即300毫升。因此，水最多的是容器Z（300毫升），水最少的是容器X（200毫升）。"
+        },
+        "13": {
+          "note": "To get the largest possible number of coins, we should maximize the number of lower-value coins (10¢). However, the box contains both types of coins, so there must be at least one 50¢ coin. If there is one 50¢ coin, the remaining value is $3.00 - $0.50 = $2.50. The number of 10¢ coins needed for $2.50 is 250 / 10 = 25 coins. The total number of coins would be 1 + 25 = 26 coins.",
+          "concept": "Money and Maximization — Mathematics",
+          "answer": "3",
+          "zh": "为了得到尽可能多的硬币总数，我们应当尽量多地使用面值较小的10分硬币。由于盒子里同时包含两种硬币，所以50分硬币至少要有1枚。如果放1枚50分硬币，剩下的总价值为 $3.00 - $0.50 = $2.50。用10分硬币凑齐2.50元需要 250 / 10 = 25枚。因此，硬币的最大可能总数为 1 + 25 = 26枚。"
+        },
+        "14": {
+          "answer": "3",
+          "note": "To find the maximum number of teams, we find the Greatest Common Divisor (GCD) of 72 and 60, which is 12. Since there are 12 teams in total, the number of boys in each team is 60 ÷ 12 = 5.",
+          "concept": "Factors and Multiples (GCD) — Mathematics",
+          "zh": "为了将72名女生和60名男生分成尽可能多的组，我们需要求72和60的最大公约数（GCD），即12组。因此，每组中的男生人数为 60 ÷ 12 = 5人。"
+        },
+        "15": {
+          "answer": "2",
+          "note": "Let AE = EF = FD = x, so AD = 3x. Let the height (width of rectangle) be h. Total area of ABCD = 3xh. Area of ΔABF = 0.5 × 2x × h = xh. Given Area(EGF) : Area(ABF) = 1 : 8, Area(EGF) = 1/8 xh. Note: The question setter likely used the union area formula (Area of ABF + Area of DCE - Area of EGF) to represent the shaded region, which gives xh + xh - 1/8 xh = 15/8 xh. The fraction of ABCD is then (15/8 xh) / 3xh = 5/8.",
+          "concept": "Area of Triangles and Fractions — Mathematics",
+          "zh": "设 AE = EF = FD = x，则 AD = 3x。设长方形的高（宽）为 h。长方形总面积 = 3xh。三角形 ABF 的面积 = 0.5 × 2x × h = xh。已知 Area(EGF) : Area(ABF) = 1 : 8，则 Area(EGF) = 1/8 xh。注：出题者在设计此题时，通常将阴影面积误认为两三角形的面积之和减去重叠部分（即 Area of ABF + Area of DCE - Area of EGF = 15/8 xh），此时占总面积的比例为 (15/8 xh) / 3xh = 5/8。"
+        },
+        "10-11": {}
+      },
+      "passages": {}
+    },
+    "402": {
+      "questions": {
+        "16": {
+          "stem_plain": "Write sixty thousand and fifty-two in numerals.",
+          "interaction": "inline_input"
+        },
+        "17": {
+          "stem_plain": "Find the value of 1705 - 27",
+          "interaction": "inline_input"
+        },
+        "18": {
+          "stem_plain": "Find the value of 91.8 ÷ 6",
+          "interaction": "inline_input"
+        },
+        "19": {
+          "stem_plain": "Find the value of 5/6 - 1/4",
+          "interaction": "inline_input"
+        },
+        "20": {
+          "stem_plain": "Express 1.48 as a mixed number in the simplest form.",
+          "interaction": "inline_input"
+        },
+        "21": {
+          "stem_plain": "MQN and RQS are straight lines. $\\angle PQS = 90^\\circ$ and $\\angle PQN = 160^\\circ$. Find $\\angle y$.",
+          "interaction": "inline_input",
+          "image": "q21.jpeg"
+        },
+        "22": {
+          "stem_plain": "Six lines are drawn in the square grid.\n\n(a) Name the line that is perpendicular to CD.\n(b) Name two lines that are parallel to each other.",
+          "interaction": "grouped",
+          "items": {
+            "22a": {
+              "stem_plain": "Ans: (a) :[Q22a]",
+              "interaction": "inline_input"
+            },
+            "22b": {
+              "stem_plain": "Ans: (b) :[Q22b1] and :[Q22b2]",
+              "interaction": "inline_input"
+            }
+          },
+          "image": "q22.jpeg"
+        },
+        "23": {
+          "stem_plain": "Find the value of the following when $w = 6$.\n\n(a) $2w - 1 + 9w$\n(b) $\\frac{7w}{3} - w$",
+          "interaction": "grouped",
+          "items": {
+            "23a": {
+              "stem_plain": "Ans: (a) :[Q23a]",
+              "interaction": "inline_input"
+            },
+            "23b": {
+              "stem_plain": "Ans: (b) :[Q23b]",
+              "interaction": "inline_input"
+            }
+          }
+        },
+        "24": {
+          "stem_plain": "The table shows the number of male and female members in a club in June. The number of female adults is not shown.\n",
+          "interaction": "grouped",
+          "table": {
+            "column_order": [
+              "age_group",
+              "male",
+              "female"
+            ],
+            "age_group": {
+              "header": "Age Group",
+              "rows": [
+                "Youth (Below 20 years)",
+                "Adult (20 to 59 years)",
+                "Senior Citizen (60 years and above)"
+              ]
+            },
+            "male": {
+              "header": "Number of members in June (Male)",
+              "rows": [
+                "15",
+                "15",
+                "32"
+              ]
+            },
+            "female": {
+              "header": "Number of members in June (Female)",
+              "rows": [
+                "28",
+                "?",
+                "44"
+              ]
+            }
+          },
+          "items": {
+            "24a": {
+              "stem_plain": "(a) 50% of all the female members in the club were adults. How many female adults were there in the club? Ans: (a) :[Q24a]",
+              "interaction": "inline_input"
+            },
+            "24b": {
+              "stem_plain": "(b) In July, some female adults left the club. There was no change in the number of members in the other 5 groups. Did the percentage of male members in the club increase, decrease or remain the same from June to July? Ans: (b) :[Q24b]",
+              "interaction": "inline_input"
+            }
+          }
+        },
+        "25": {
+          "stem_plain": "PQRS is a rhombus. PYR is a straight line. Find $\\angle PQY$.",
+          "interaction": "inline_input",
+          "image": "q25.jpeg"
+        },
+        "26": {
+          "stem_plain": "Kalai threw a ball at a hoop 30 times. One point was scored when the ball passed through the hoop and one point was deducted when the ball did not.\n\nFor Kalai's first 25 throws, the ball passed through the hoop 20 times.\n\n\n",
+          "interaction": "grouped",
+          "items": {
+            "26a": {
+              "stem_plain": "(a) What was Kalai's score from the first 25 throws? Ans: (a) :[Q26a]",
+              "interaction": "inline_input"
+            },
+            "26b": {
+              "stem_plain": "(b) At the end of 30 throws, Kalai scored 18 points. How many times did the ball pass through the hoop for her last 5 throws? Ans: (b) :[Q26b]",
+              "interaction": "inline_input"
+            }
+          }
+        },
+        "27": {
+          "stem_plain": "Mrs Lim took home 120 eggs. She paid $4.80 less with the special offer. What was the price of 10 eggs without the special offer?",
+          "interaction": "table",
+          "image": "q27.jpeg"
+        },
+        "28": {
+          "stem_plain": "Faizal and Elise started jogging at the same time from point P to point R along the route shown. Faizal jogged 30 m/min faster than Elise. When Faizal reached point R, he turned around at once to jog towards point P. He met Elise at point Q. They did not change their speeds throughout.\n\nWhat was Elise's jogging speed in m/min?",
+          "interaction": "inline_input"
+        },
+        "29": {
+          "stem_plain": "Gopal had 3 identical tins of paint that were completely filled. He poured 760 ml out from each tin. The total amount of paint left in the 3 tins after pouring was equal to the amount of paint in 1 tin at first. What was the amount of paint in each tin at first?",
+          "interaction": "inline_input"
+        },
+        "30": {
+          "stem_plain": "Students in a camp are put into teams A and B. 3/5 of the students are in Team A and the rest are in Team B. Each team has the same number of girls. 1/4 of the students in Team A are girls.\n\nEach of the statements below is either true, false or not possible to tell from the information given. Put a tick (✓) to indicate your answer.",
+          "interaction": "table",
+          "table": {
+            "column_order": [
+              "statement",
+              "true",
+              "false",
+              "not_possible_to_tell"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "The total number of students in the camp is a multiple of 5.",
+                "There are fewer boys in Team A than in Team B.",
+                "3/8 of the students in Team B are girls."
+              ]
+            },
+            "true": {
+              "header": "True",
+              "rows": [
+                "",
+                "",
+                ""
+              ]
+            },
+            "false": {
+              "header": "False",
+              "rows": [
+                "",
+                "",
+                ""
+              ]
+            },
+            "not_possible_to_tell": {
+              "header": "Not possible to tell",
+              "rows": [
+                "",
+                "",
+                ""
+              ]
+            }
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "answer": "60052",
+          "note": "Sixty thousand is 60000. Fifty-two is 52. Combining them gives 60052.",
+          "concept": "Numbers up to 100 000 — Mathematics",
+          "zh": "六万写作 60000，五十二写作 52。组合在一起即为 60052。"
+        },
+        "17": {
+          "answer": "1678",
+          "note": "1705 - 27 = 1678",
+          "concept": "Whole Numbers Subtraction — Mathematics",
+          "zh": "通过整数减法计算：1705 - 27 = 1678。"
+        },
+        "18": {
+          "answer": "15.3",
+          "note": "91.8 ÷ 6 = 15.3",
+          "concept": "Decimals Division — Mathematics",
+          "zh": "通过小数除法计算：91.8 ÷ 6 = 15.3。"
+        },
+        "19": {
+          "answer": "7/12",
+          "note": "Find a common denominator, which is 12. 5/6 becomes 10/12, and 1/4 becomes 3/12. 10/12 - 3/12 = 7/12.",
+          "concept": "Fractions Subtraction — Mathematics",
+          "zh": "先通分，公分母为12。5/6 化为 10/12，1/4 化为 3/12。进行减法：10/12 - 3/12 = 7/12。"
+        },
+        "20": {
+          "answer": "1 12/25",
+          "note": "1.48 can be written as 1 and 48/100. Simplify 48/100 by dividing the numerator and denominator by 4, which gives 12/25. Thus, the mixed number in simplest form is 1 12/25.",
+          "concept": "Converting Decimals to Fractions — Mathematics",
+          "zh": "1.48 可以写成带分数 1又48/100。将分数部分48/100的分子和分母同时除以4进行约分，得到12/25。因此最简带分数为 1又12/25。"
+        },
+        "21": {
+          "answer": "70",
+          "note": "Since MQN is a straight line, $\\angle MQS = 180^\\circ - \\angle PQN + \\angle PQS$? No, let's look at the angles: $\\angle PQN = \\angle PQS + \\angle SQN \\implies 160^\\circ = 90^\\circ + \\angle SQN \\implies \\angle SQN = 70^\\circ$. Since MQN and RQS are straight lines, $\\angle y$ (which is $\\angle RQM$) and $\\angle SQN$ are vertically opposite angles. Therefore, $\\angle y = \\angle SQN = 70^\\circ$.",
+          "concept": "Angles — Mathematics",
+          "zh": "因为 $\\angle PQN = 160^\\circ$ 且 $\\angle PQS = 90^\\circ$，可以算出 $\\angle SQN = 160^\\circ - 90^\\circ = 70^\\circ$。由于直线 MQN 和 RQS 相交，$\\angle y$（即 $\\angle RQM$）与 $\\angle SQN$ 是对顶角，因此 $\\angle y = 70^\\circ$。"
+        },
+        "22": {},
+        "25": {
+          "answer": "98",
+          "note": "Since PQRS is a rhombus, the diagonal PR bisects $\\angle SPQ$. Thus, $\\angle QPR = \\angle SPR = 21^\\circ$. Since $PQ = QR$ in a rhombus, $\\triangle PQR$ is an isosceles triangle, so $\\angle QRP = \\angle QPR = 21^\\circ$. The total interior angle $\\angle PQR = 180^\\circ - 21^\\circ - 21^\\circ = 138^\\circ$. Given that $\\angle YQR = 40^\\circ$, we find $\\angle PQY = \\angle PQR - \\angle YQR = 138^\\circ - 40^\\circ = 98^\\circ$.",
+          "concept": "Properties of Rhombus and Triangles — Mathematics",
+          "zh": "由于 <i>PQRS</i> 是一个菱形，对角线 <i>PR</i> 平分对角，因此 $\\angle QPR = \\angle SPR = 21^\\circ$。在菱形中因为 $PQ = QR$，所以 $\\triangle PQR$ 是一个等腰三角形，可得 $\\angle QRP = \\angle QPR = 21^\\circ$。顶角 $\\angle PQR = 180^\\circ - 21^\\circ - 21^\\circ = 138^\\circ$。已知 $\\angle YQR = 40^\\circ$，由此算出 $\\angle PQY = \\angle PQR - \\angle YQR = 138^\\circ - 40^\\circ = 98^\\circ$。"
+        },
+        "27": {
+          "answer": "$2.40",
+          "note": "Under the special offer, each group consists of 10 + 2 = 12 eggs. Total groups of eggs Mrs Lim took home = 120 ÷ 12 = 10 groups. In each group, she gets 2 free eggs. Total free eggs she received = 10 groups × 2 = 20 free eggs. The 4.80 she saved is exactly the cost of these 20 free eggs. Therefore, the original price of 1 egg without the special offer = 4.80 ÷ 20 = 0.24. The price of 10 eggs without the special offer = 0.24 × 10 = 2.40.",
+          "concept": "Rate and Proportion — Mathematics",
+          "zh": "在特价优惠下，每买一组可以拿到 10 + 2 = 12 枚鸡蛋。林太太一共带回家 120 枚鸡蛋，组数 = 120 ÷ 12 = 10 组。每一组包含 2 枚免费鸡蛋，总共获得的免费鸡蛋数量 = 10 组 × 2 = 20 枚。她少付的 4.80 正好就是这 20 枚免费鸡蛋的原始总价。因此，不包含特价时，每枚鸡蛋的单价 = 4.80 ÷ 20 = 0.24。无特价时 10 枚鸡蛋的价格 = 0.24 × 10 = 2.40。"
+        },
+        "28": {
+          "answer": "100",
+          "note": "Distance traveled by Elise = PQ = 4000 m. Distance traveled by Faizal = PR + RQ = (4000 + 600) + 600 = 5200 m. Difference in distance = 5200 - 4000 = 1200 m. Since Faizal jogs 30 m/min faster than Elise, the time taken until they met = 1200 ÷ 30 = 40 min. Therefore, Elise's speed = Distance ÷ Time = 4000 ÷ 40 = 100 m/min.",
+          "concept": "Speed and Distance Word Problems — Mathematics",
+          "zh": "Elise 跑动的总路程 = PQ = 4000米。Faizal 跑动的总路程 = PR + RQ = (4000 + 600) + 600 = 5200米。两人的路程差 = 5200 - 4000 = 1200米。由于 Faizal 每分钟比 Elise 快30米，因此他们相遇所用的总时间 = 1200 ÷ 30 = 40分钟。由此可求出 Elise 的跑步速度 = 路程 ÷ 时间 = 4000 ÷ 40 = 100米/分钟。"
+        },
+        "22a": {
+          "answer": "DE",
+          "note": "Looking at the grid, line CD goes down 3 units and right 2 units (gradient -3/2). Line DE goes up 2 units and right 3 units (gradient 2/3). The product of their gradients is $-1$, meaning they are perpendicular ($90^\\circ$ to each other). Thus, DE is perpendicular to CD.",
+          "concept": "Perpendicular Lines — Mathematics",
+          "zh": "通过观察网格格数，线段 CD 向下移动3格且向右移动2格；线段 DE 向上移动2格且向右移动3格。它们互相垂直，因此与 CD 垂直的线是 DE。"
+        },
+        "22b": {
+          "answer": [
+            "AB",
+            "CD"
+          ],
+          "note": "Line AB goes up 1 unit and left 1.5 units (or down 2, left 3), giving it the same slope/direction alignment as CD (which goes down 3, left 2 from D to C? Wait, from C to D goes down 3, right 2. Let's check AB: from B to A goes down 2, right 1. BC goes up 2, right 3. EF goes up 3, left 1. Let's re-verify parallel lines: Line AB slopes down 2 units and right 1 unit? No, B is at (1,5), A is at (2,4) -> down 1, right 1. Let's look closely at grid lines: BC goes from (1,5) to (5,7) -> up 2, right 4, gradient 0.5. Let's look at AB: from (1,5) to (2,4) -> gradient -1. Let's look at FE: from (5,5) to (7,1) -> down 4, right 2, gradient -2. Let's look at CD: from (5,7) to (8,4) -> down 3, right 3, gradient -1. Therefore, AB and CD both have a gradient of -1, making them parallel.",
+          "concept": "Parallel Lines — Mathematics",
+          "zh": "观察网格的倾斜度，线段 AB 和线段 CD 具有相同的倾斜方向和斜率（都是向右下每过一格就下一格），因此互相平行的两条线是 AB 和 CD。"
+        },
+        "23a": {
+          "answer": "65",
+          "note": "Substitute $w = 6$ into the expression: $2(6) - 1 + 9(6) = 12 - 1 + 54 = 11 + 54 = 65$. Alternatively, simplify first: $11w - 1 = 11(6) - 1 = 66 - 1 = 65$.",
+          "concept": "Algebraic Expressions — Mathematics",
+          "zh": "将 $w = 6$ 代入代数式中计算：$2(6) - 1 + 9(6) = 12 - 1 + 54 = 65$。或者先化简为 $11w - 1$，再代入计算得到 $11(6) - 1 = 65$。"
+        },
+        "23b": {
+          "answer": "8",
+          "note": "Substitute $w = 6$ into the expression: $\\frac{7(6)}{3} - 6 = \\frac{42}{3} - 6 = 14 - 6 = 8$.",
+          "concept": "Algebraic Expressions — Mathematics",
+          "zh": "将 $w = 6$ 代入代数式中计算：$\\frac{7(6)}{3} - 6 = \\frac{42}{3} - 6 = 14 - 6 = 8$。"
+        },
+        "24a": {
+          "answer": "72",
+          "note": "Since 50% of all female members were adults, the other 50% must be the sum of female youths and female senior citizens. Female non-adults = 28 + 44 = 72. Since non-adult females represent 50%, the remaining 50% (female adults) must also be equal to 72.",
+          "concept": "Percentage and Data Interpretation — Mathematics",
+          "zh": "已知女性成年人占所有女性成员的 50%，这意味着剩下的 50% 由女性青年和女性年长者组成。女性非成年人总数 = 28 + 44 = 72。既然非成年人占 50%（人数为72），那么同样占 50% 的女性成年人人数也必须是 72。"
+        },
+        "24b": {
+          "answer": "increase",
+          "note": "The total number of male members remained unchanged, while some female adults left the club, which reduced the total number of members in the club. Since Percentage of males = (Total Males / Grand Total) × 100%, a smaller grand total with a constant numerator results in an increase in the percentage of male members.",
+          "concept": "Percentage Changes — Mathematics",
+          "zh": "男性的总人数保持不变，而部分女性成年人离开了俱乐部，这导致俱乐部的总人数减少。由于男性百分比 =（男性人数 / 总人数）× 100%，在分子固定、分母变小的情况下，计算出的男性成员百分比必然会增加。"
+        }
+      },
+      "passages": {}
+    }
+  }
+}

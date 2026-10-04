@@ -1,0 +1,1621 @@
+{
+  "paperid": "p6_english_2024_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "All the laundry ________ picked up by the delivery man this morning.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "“Ahmad’s cleaned up his room, ________ ?” asked Mdm Rohana.",
+          "options": {
+            "1": "isn't he",
+            "2": "didn’t he",
+            "3": "hasn't he",
+            "4": "doesn't he"
+          }
+        },
+        "3": {
+          "stem_plain": "________ the students need any help with the project, they can approach their teachers.",
+          "options": {
+            "1": "Will",
+            "2": "Shall",
+            "3": "Would",
+            "4": "Should"
+          }
+        },
+        "4": {
+          "stem_plain": "The man ________ was in the news for helping the elderly is my neighbour.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "5": {
+          "stem_plain": "Given that Julie knew of the situation at the last minute, there was ________ that she could do.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "6": {
+          "stem_plain": "________ being exhausted from the long hours of training, the dancers persevered through the final rehearsal and gave their best.",
+          "options": {
+            "1": "Until",
+            "2": "Despite",
+            "3": "Owing to",
+            "4": "As a result of"
+          }
+        },
+        "7": {
+          "stem_plain": "George confided ________ Sally, his best friend, about his problems at work.",
+          "options": {
+            "1": "in",
+            "2": "of",
+            "3": "with",
+            "4": "through"
+          }
+        },
+        "8": {
+          "stem_plain": "“I ________ the best time of my life right now!” squealed little Timmy in excitement as he rode around in his new mini scooter.",
+          "options": {
+            "1": "am having",
+            "2": "was having",
+            "3": "will be having",
+            "4": "have been having"
+          }
+        },
+        "9": {
+          "stem_plain": "Mrs Chen saw the colourful bird ________ swiftly over the sunlit rooftop.",
+          "options": {
+            "1": "fly",
+            "2": "flies",
+            "3": "flew",
+            "4": "flown"
+          }
+        },
+        "10": {
+          "stem_plain": "Wei Ming, ________ counselled by the teacher, decided to change for the better.",
+          "options": {
+            "1": "is",
+            "2": "was",
+            "3": "had been",
+            "4": "having been"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "被动语态 — Passive voice + uncountable subject",
+          "zh": "今天早上，洗衣物都被送货员收走了。",
+          "note": "主语是不可数名词 laundry；被动语态且时间为过去 → was picked up。",
+          "answer": "3"
+        },
+        "2": {
+          "concept": "反意疑问句 — Question tag — present perfect",
+          "zh": "“Ahmad 已经打扫完房间了，是吗？”Rohana 老师问。",
+          "note": "陈述部分为现在完成时 has cleaned（缩写 Ahmad's），附加问句用 hasn't he。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "情态动词 — Modal — conditional help",
+          "zh": "万一学生们做项目需要任何帮助，他们可以去找老师。",
+          "note": "Should 置于句首表“万一、倘若”，主句为 they can approach…。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "关系词 — Relative pronoun as subject",
+          "zh": "那位在新闻里因帮助老人而出名的男子是我的邻居。",
+          "note": "who 在定语从句中作主语，指人 → who。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "量词 — Quantifier — uncountable",
+          "zh": "既然 Julie 到最后一刻才知道情况，她几乎什么也做不了。",
+          "note": "little 修饰不可数概念；few 用于可数名词复数。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "名词 — Contrast connector + noun phrase",
+          "zh": "尽管长时间排练已筋疲力尽，舞者们仍坚持完成最后一次彩排并全力以赴。",
+          "note": "Despite + 动名词表让步，与主句结果形成转折。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "固定搭配 — Collocation — confide in",
+          "zh": "George 向好友 Sally 倾诉工作上的烦恼。",
+          "note": "固定搭配 confide in sb。",
+          "answer": "1"
+        },
+        "8": {
+          "concept": "现在进行时 — Present continuous for “right now”",
+          "zh": "“我现在正度过人生中最棒的时光！”小 Timmy 兴奋地喊道。",
+          "note": "right now 提示此刻正在发生 → 现在进行时。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "不定式 — Perception verb + bare infinitive",
+          "zh": "陈太太看见那只色彩鲜艳的鸟轻快地飞过阳光照耀的屋顶。",
+          "note": "see + 宾语 + 动词原形，表示看到动作全过程。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "被动语态 — Perfect participle phrase (passive)",
+          "zh": "在老师劝导之后，Wei Ming 决定改过自新。",
+          "note": "完成式分词短语表先于主句的原因；decided + to do。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The weather service has issued a severe thunderstorm warning and cautioned that visibility on the roads is going to be ________ .",
+          "options": {
+            "1": "blur",
+            "2": "poor",
+            "3": "hazy",
+            "4": "vague"
+          }
+        },
+        "12": {
+          "stem_plain": "Siti and Mary were best friends but they ________ last week because of a huge misunderstanding.",
+          "options": {
+            "1": "fell in",
+            "2": "fell out",
+            "3": "fell over",
+            "4": "fell apart"
+          }
+        },
+        "13": {
+          "stem_plain": "Geraldine is well-known to be someone who is ________ on her feet to come up with solutions within a short time.",
+          "options": {
+            "1": "swift",
+            "2": "hasty",
+            "3": "quick",
+            "4": "instant"
+          }
+        },
+        "14": {
+          "stem_plain": "The smell from the rubbish bin was so ________ that Alan vomited after he walked past it.",
+          "options": {
+            "1": "acute",
+            "2": "severe",
+            "3": "intensive",
+            "4": "overwhelming"
+          }
+        },
+        "15": {
+          "stem_plain": "The pirates entered Singapore illegally and will be ________ to their home country next week.",
+          "options": {
+            "1": "deported",
+            "2": "exported",
+            "3": "released",
+            "4": "dismissed"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "气象部门发布雷暴预警，提醒能见度可能骤降。",
+          "note": "应选（2）'poor'：题干语境最宜表达'差的；不足的'。'blur'义为'模糊；污迹'：与题干语境或搭配要求不一致。'hazy'义为'朦胧的；有薄雾的'：与题干语境或搭配要求不一致。'vague'义为'含糊的；不明确的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — poor（差的；不足的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "blur",
+              "zh": "模糊；污迹",
+              "eg": "The photograph turned out a <strong>blur</strong> because the camera shook."
+            },
+            {
+              "opt": "2",
+              "word": "poor",
+              "zh": "差的；不足的",
+              "eg": "With <strong>poor</strong> visibility, drivers switched on their fog lamps."
+            },
+            {
+              "opt": "3",
+              "word": "hazy",
+              "zh": "朦胧的；有薄雾的",
+              "eg": "A <strong>hazy</strong> morning made the distant hills look soft and blue-grey."
+            },
+            {
+              "opt": "4",
+              "word": "vague",
+              "zh": "含糊的；不明确的",
+              "eg": "She gave only a <strong>vague</strong> excuse for arriving late."
+            }
+          ]
+        },
+        "12": {
+          "zh": "西蒂和玛丽本是好友，却因误会上周闹翻了。",
+          "note": "应选（2）'fell out'：题干语境最宜表达'闹翻；争吵后疏远'。'fell in'义为'集合；排队；陷入'：与题干语境或搭配要求不一致。'fell over'义为'绊倒；翻倒'：与题干语境或搭配要求不一致。'fell apart'义为'破裂；崩溃'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — fell out（闹翻；争吵后疏远）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fell in",
+              "zh": "集合；排队；陷入",
+              "eg": "The recruits were told to <strong>fall in</strong> at the parade square."
+            },
+            {
+              "opt": "2",
+              "word": "fell out",
+              "zh": "闹翻；争吵后疏远",
+              "eg": "After the argument, the twins <strong>fell out</strong> for a whole week."
+            },
+            {
+              "opt": "3",
+              "word": "fell over",
+              "zh": "绊倒；翻倒",
+              "eg": "He <strong>fell over</strong> a loose shoelace and scraped his knee."
+            },
+            {
+              "opt": "4",
+              "word": "fell apart",
+              "zh": "破裂；崩溃",
+              "eg": "The old teddy bear finally <strong>fell apart</strong> after years of hugs."
+            }
+          ]
+        },
+        "13": {
+          "zh": "杰拉尔丁以反应敏捷著称，总能想出办法。",
+          "note": "应选（3）'quick'：题干语境最宜表达'快的；机敏的'。解析中强调的关键形式为'quick on her feet'，与正确项一致。'swift'义为'迅速的；敏捷的（文体较正式）'：与题干语境或搭配要求不一致。'hasty'义为'仓促的；草率的'：与题干语境或搭配要求不一致。'instant'义为'即时的；速溶的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — quick（快的；机敏的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "swift",
+              "zh": "迅速的；敏捷的（文体较正式）",
+              "eg": "The river carried a <strong>swift</strong> current that kayakers respected."
+            },
+            {
+              "opt": "2",
+              "word": "hasty",
+              "zh": "仓促的；草率的",
+              "eg": "A <strong>hasty</strong> decision led to mistakes on the order form."
+            },
+            {
+              "opt": "3",
+              "word": "quick",
+              "zh": "快的；机敏的",
+              "eg": "In debates, Maya is <strong>quick</strong> on her feet when rebutting points."
+            },
+            {
+              "opt": "4",
+              "word": "instant",
+              "zh": "即时的；速溶的",
+              "eg": "Tap your card for <strong>instant</strong> payment at the turnstile."
+            }
+          ]
+        },
+        "14": {
+          "zh": "垃圾桶的气味令人作呕，艾伦走过就吐了。",
+          "note": "应选（4）'overwhelming'：题干语境最宜表达'压倒性的；难以忍受的'。'acute'义为'剧烈的；敏锐的'：与题干语境或搭配要求不一致。'severe'义为'严重的；严厉的'：与题干语境或搭配要求不一致。'intensive'义为'强化的；密集的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — overwhelming（压倒性的；难以忍受的）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "acute",
+              "zh": "剧烈的；敏锐的",
+              "eg": "Dogs have an <strong>acute</strong> sense of smell compared with humans."
+            },
+            {
+              "opt": "2",
+              "word": "severe",
+              "zh": "严重的；严厉的",
+              "eg": "The storm caused <strong>severe</strong> damage to coastal farms."
+            },
+            {
+              "opt": "3",
+              "word": "intensive",
+              "zh": "强化的；密集的",
+              "eg": "She attended an <strong>intensive</strong> revision course before PSLE."
+            },
+            {
+              "opt": "4",
+              "word": "overwhelming",
+              "zh": "压倒性的；难以忍受的",
+              "eg": "The stench from the drain was <strong>overwhelming</strong>."
+            }
+          ]
+        },
+        "15": {
+          "zh": "海盗非法入境，下周将被遣送回国。",
+          "note": "应选（1）'deported'：题干语境最宜表达'驱逐出境'。'exported'义为'出口'：与题干语境或搭配要求不一致。'released'义为'释放；发布'：与题干语境或搭配要求不一致。'dismissed'义为'解雇；不予理会'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — deported（驱逐出境）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "deported",
+              "zh": "驱逐出境",
+              "eg": "The offenders were <strong>deported</strong> after serving their sentences."
+            },
+            {
+              "opt": "2",
+              "word": "exported",
+              "zh": "出口",
+              "eg": "The farm <strong>exported</strong> fresh mangoes to several countries."
+            },
+            {
+              "opt": "3",
+              "word": "released",
+              "zh": "释放；发布",
+              "eg": "The witness was <strong>released</strong> after giving a short statement."
+            },
+            {
+              "opt": "4",
+              "word": "dismissed",
+              "zh": "解雇；不予理会",
+              "eg": "The judge <strong>dismissed</strong> the case for lack of evidence."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "soiled",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "dented",
+            "2": "stained",
+            "3": "tarnished",
+            "4": "contaminated"
+          }
+        },
+        "17": {
+          "stem_plain": "disposed of",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "discarded",
+            "2": "dissected",
+            "3": "distributed",
+            "4": "dismantled"
+          }
+        },
+        "18": {
+          "stem_plain": "innovative",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "creative",
+            "2": "practical",
+            "3": "corrective",
+            "4": "differentiated"
+          }
+        },
+        "19": {
+          "stem_plain": "reliance on",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "trust",
+            "2": "certainty",
+            "3": "assurance",
+            "4": "dependence"
+          }
+        },
+        "20": {
+          "stem_plain": "phase out",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "present suddenly",
+            "2": "remove suddenly",
+            "3": "introduce gradually",
+            "4": "eliminate gradually"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "According to the World Economic Forum, only 14% of plastic packaging is collected for recycling. Plastics often become [Q16 (soiled)] with food waste. As a result, the majority of plastics end up either incinerated or [Q17 (disposed of)] in landfills.",
+          "Many companies are turning to [Q18 (innovative)] solutions such as reusable packaging. A famous coffee chain is actively working to reduce its [Q19 (reliance on)] disposable cups. The company has announced plans to [Q20 (phase out)] single-use cups by 2025 and introduce a ‘Borrow-a-Cup’ programme.",
+          "This shift towards reusable packaging represents an important step in reducing waste. All of us can help to alleviate the climate crisis."
+        ],
+        "zh": [
+          "据 World Economic Forum 统计，只有14%的塑料包装被收集用于回收。塑料常被食物残渣弄脏，因此大多数塑料最终被焚烧或填埋。",
+          "许多公司转向可重复使用包装等创新方案。一家著名咖啡连锁店正积极减少一次性杯子的依赖，并宣布计划到2025年逐步淘汰一次性杯子，推出“Borrow-a-Cup”计划。",
+          "转向可重复使用包装是减少浪费的重要一步。我们所有人都能帮助缓解气候危机。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — soiled（弄脏）",
+          "note": "应选（2）'stained'：短文划线的 <em>soiled</em> 在此语境下与此义最接近。'dented'：与题干语境或搭配要求不一致。'tarnished'：与题干语境或搭配要求不一致。'contaminated'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "塑料常被食物残渣弄脏。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dented",
+              "zh": "凹痕",
+              "eg": "The coach <strong>dented</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "stained",
+              "zh": "弄脏",
+              "eg": "The coach <strong>stained</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "tarnished",
+              "zh": "玷污",
+              "eg": "The coach <strong>tarnished</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "contaminated",
+              "zh": "污染",
+              "eg": "The coach <strong>contaminated</strong> the players after the match."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — disposed of（丢弃）",
+          "note": "应选（1）'discarded'：短文划线的 <em>disposed of</em> 在此语境下与此义最接近。'dissected'：与题干语境或搭配要求不一致。'distributed'：与题干语境或搭配要求不一致。'dismantled'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "因此，大多数塑料最终被焚烧或丢弃在填埋场。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "discarded",
+              "zh": "丢弃",
+              "eg": "The coach <strong>discarded</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "dissected",
+              "zh": "解剖",
+              "eg": "The coach <strong>dissected</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "distributed",
+              "zh": "分发",
+              "eg": "The coach <strong>distributed</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "dismantled",
+              "zh": "拆除",
+              "eg": "The coach <strong>dismantled</strong> the players after the match."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — innovative（有创造力的）",
+          "note": "应选（1）'creative'：短文划线的 <em>innovative</em> 在此语境下与此义最接近。'practical'：与题干语境或搭配要求不一致。'corrective'：与题干语境或搭配要求不一致。'differentiated'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "许多公司转向可重复使用包装等创新方案。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "creative",
+              "zh": "有创造力的",
+              "eg": "In class we discussed how <strong>creative</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "practical",
+              "zh": "实际的",
+              "eg": "In class we discussed how <strong>practical</strong> fits everyday English."
+            },
+            {
+              "opt": "3",
+              "word": "corrective",
+              "zh": "矫正的",
+              "eg": "The speaker chose <strong>corrective</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "differentiated",
+              "zh": "差异化",
+              "eg": "The coach <strong>differentiated</strong> the players after the match."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — reliance on（依赖）",
+          "note": "应选（4）'dependence'：短文划线的 <em>reliance on</em> 在此语境下与此义最接近。'trust'：与题干语境或搭配要求不一致。'certainty'：与题干语境或搭配要求不一致。'assurance'：义为'保证；自信'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "一家著名咖啡连锁店正积极减少其对一次性杯子的依赖。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "trust",
+              "zh": "相信",
+              "eg": "The speaker chose <strong>trust</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "2",
+              "word": "certainty",
+              "zh": "肯定",
+              "eg": "In class we discussed how <strong>certainty</strong> fits everyday English."
+            },
+            {
+              "opt": "3",
+              "word": "assurance",
+              "zh": "保证；自信",
+              "eg": "He spoke with such <strong>assurance</strong> that everyone believed his version of the story."
+            },
+            {
+              "opt": "4",
+              "word": "dependence",
+              "zh": "依赖",
+              "eg": "In class we discussed how <strong>dependence</strong> fits everyday English."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — phase out（逐渐消除）",
+          "note": "应选（4）'eliminate gradually'：短文划线的 <em>phase out</em> 在此语境下与此义最接近。'present suddenly'：与题干语境或搭配要求不一致。'remove suddenly'：与题干语境或搭配要求不一致。'introduce gradually'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "该公司宣布计划到2025年逐步淘汰一次性杯子，推出“Borrow-a-Cup”计划。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "present suddenly",
+              "zh": "突然出现",
+              "eg": "The passage phrase <strong>present suddenly</strong> appears in formal exam English."
+            },
+            {
+              "opt": "2",
+              "word": "remove suddenly",
+              "zh": "突然移除",
+              "eg": "The passage phrase <strong>remove suddenly</strong> appears in formal exam English."
+            },
+            {
+              "opt": "3",
+              "word": "introduce gradually",
+              "zh": "逐渐介绍",
+              "eg": "The passage phrase <strong>introduce gradually</strong> appears in formal exam English."
+            },
+            {
+              "opt": "4",
+              "word": "eliminate gradually",
+              "zh": "逐渐消除",
+              "eg": "The passage phrase <strong>eliminate gradually</strong> appears in formal exam English."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "What is the main purpose of this advertisement?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to entice people to be a chef",
+            "2": "to empower people to prepare healthy meals",
+            "3": "to educate people through the various workshops",
+            "4": "to encourage people to attend the cooking guru festival"
+          }
+        },
+        "22": {
+          "stem_plain": "Why is there an exclamation mark at the end of the sentence “Limited slots are available, so hurry and sign up now!\"?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to warn the reader to sign up",
+            "2": "to highlight the many activities",
+            "3": "to create excitement about the workshops",
+            "4": "to convey a sense of urgency for interested parties to sign up"
+          }
+        },
+        "23": {
+          "stem_plain": "Ahmad would like to attend the talk with Chef John Chiang. When can he start signing up?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "1 September 2024",
+            "2": "12 September 2024",
+            "3": "15 September 2024",
+            "4": "21 September 2024"
+          }
+        },
+        "24": {
+          "stem_plain": "Which of the following statements is true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The Cooking Guru Competition lasts for two days.",
+            "2": "Chef John Chiang has won many awards as a head chef.",
+            "3": "Chef Taylor Fennel is famous for his perfect poached eggs.",
+            "4": "The pancake workshop allows attendees to try making both sweet and savoury pancakes."
+          }
+        },
+        "25": {
+          "stem_plain": "Which of these companies most likely sponsored the high-quality cooking equipment to be given to all finalists?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "LeCruise Cookware",
+            "2": "Cooking Guru Company",
+            "3": "KitchenMaid Baking Supplies",
+            "4": "OatStanding Healthy Snacks"
+          }
+        },
+        "26": {
+          "stem_plain": "Which is one of the steps required to become a finalist for Cooking Guru Competition 2024?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "cook in front of many people",
+            "2": "email the selection committee",
+            "3": "make a video of yourself cooking",
+            "4": "visit www.cookingguru.com/register"
+          }
+        },
+        "27": {
+          "stem_plain": "Uncle John is confident that he would be one of the finalists. While waiting for the invitation to join the cooking competition, he should",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "improve his skills in making the pancake flip",
+            "2": "find out who the judges are and befriend them",
+            "3": "send his video to all the celebrity judges who will be there",
+            "4": "perfect his uniquely Singaporean dish preparation methods"
+          }
+        },
+        "28": {
+          "stem_plain": "Which statement is not true of the Cooking Guru Festival 2024?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "You will only learn how to design pretty pancakes.",
+            "2": "You will learn different healthy ways of cooking eggs.",
+            "3": "You can pick up useful tips to prepare restaurant-worthy meals.",
+            "4": "You can watch the finalists in the cooking competition on the second day of the festival."
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "Main purpose lists festival + workshops + competition; option (4) matches inviting readers to the event.",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "Exclamation + “hurry” → urgency.",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "Registration opens 12 September per poster.",
+          "answer": "2"
+        },
+        "24": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "Poster allows sweet or savoury toppings — both kinds of pancakes.",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "Equipment prize → cookware brand.",
+          "answer": "1"
+        },
+        "26": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "Finalists chosen from video submissions.",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "While waiting, refine the dish for finals.",
+          "answer": "4"
+        },
+        "28": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "False: workshops cover eggs, tips, etc., not only pancake design.",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "across",
+          "D": "and",
+          "G": "before",
+          "K": "in",
+          "N": "the",
+          "B": "after",
+          "E": "around",
+          "H": "each",
+          "L": "into",
+          "P": "these",
+          "C": "also",
+          "F": "as",
+          "J": "for",
+          "M": "our",
+          "Q": "under"
+        },
+        "cloze": [
+          "New Year's Day is celebrated around the world, with each culture showcasing its own unique set of traditions. In Taiwan, families gather to write wishes and hopes on sky lanterns [Q29] releasing them into the night sky.",
+          "In Japan, the new year brings families together for the first shrine visit of the year. Families may also engage [Q30] other traditions such as the first calligraphy writing of the year [Q31] the eating of long noodles for a long life.",
+          "Similarly, among Native American tribes, New Year's ceremonies hold spiritual significance. Rituals vary [Q32] tribes but often involve communal feasting and traditional dances performed [Q33] roaring bonfires. These ceremonies serve not only to welcome the new year but [Q34] to strengthen and deepen their long ancestral connection to [Q35] land they have inhabited for centuries. Elders will take the opportunity to pass down ancient teachings through storytelling.",
+          "In Spain, New Year's Eve is a vibrant affair marked by lively street parties and family gatherings. [Q36] midnight approaches, tradition dictates eating twelve grapes, one for [Q37] stroke of the clock, symbolising good luck for the twelve months ahead.",
+          "From the colourful lantern festivals of Taiwan to the solemn ceremonies of Native American tribes, [Q38] celebrations showcase how humans bid farewell to the old and embrace the new. No matter the country, all these traditions have one thing in common — starting the new year with loved ones around us."
+        ],
+        "zh": [
+          "世界各地庆祝元旦，每种文化都有自己独特的传统。在台湾，家人们把愿望写在孔明灯上，在放飞之前先写好心愿。",
+          "在日本，新年家人会一起去进行新年的第一次神社参拜。家人也会参与其他传统，例如新年第一次习字，以及吃象征长寿的长寿面。",
+          "同样地，美洲原住民部落的新年仪式也具有精神意义。各部落的仪式各不相同，但常有共享盛宴，以及在熊熊篝火旁跳传统舞蹈。这些仪式不仅迎接新年，也巩固并加深他们与世代居住土地之间的祖先联系。长辈会借机通过讲故事把古老的教诲传承下去。",
+          "在西班牙，除夕是热闹的街派对与家庭聚会。随着午夜临近，传统是吃十二颗葡萄，钟每敲一下吃一颗，象征未来十二个月的好运。",
+          "从台湾缤纷的灯会到美洲原住民部落庄重的仪式，这些庆祝活动展现人们如何辞旧迎新。不论在哪个国家，这些传统都有一个共同点：与所爱之人一起开启新的一年。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "时间 — before",
+          "note": "and hopes on sky lanterns before releasing them into the night = 放飞前先写愿望。",
+          "answer": "G — before"
+        },
+        "30": {
+          "concept": "介词 — in",
+          "note": "Families may also engage in other traditions such as the = engage in = 参与。",
+          "answer": "K — in"
+        },
+        "31": {
+          "concept": "连词 — and",
+          "note": "并列列举 A and B。",
+          "answer": "D — and"
+        },
+        "32": {
+          "concept": "介词 — across",
+          "note": "Rituals vary across tribes but often involve communal = vary across = 各部族不同。",
+          "answer": "A — across"
+        },
+        "33": {
+          "concept": "介词 — around",
+          "note": "performed around … = 在……旁/由……表演。",
+          "answer": "E — around"
+        },
+        "34": {
+          "concept": "并列 — also",
+          "note": "welcome the new year but also to strengthen and deepen their = not only … but also 并列递进。",
+          "answer": "C — also"
+        },
+        "35": {
+          "concept": "冠词 — the",
+          "note": "the land = 特指世代居住的土地。",
+          "answer": "N — the"
+        },
+        "36": {
+          "concept": "时间 — as",
+          "note": "as midnight approaches, tradition dictates eating = As … approaches = 随着……临近。",
+          "answer": "F — as"
+        },
+        "37": {
+          "concept": "数量/限定 — each",
+          "note": "one for each stroke = 每敲一下吃一颗。",
+          "answer": "H — each"
+        },
+        "38": {
+          "concept": "指示/所有格 — these",
+          "note": "ceremonies of Native American tribes, these celebrations showcase how humans bid = 指示词 these 回指上文。",
+          "answer": "P — these"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Once, there was a very hardworking farmer. He was [Q39(renound)] for raising exceptionally large and plump chickens. All the people in the land called him \"King of Poultry\".",
+          "The king of the country was very angry when he came to [Q40(knew)] that someone else had also used the title of ‘King’. He was [Q41(envyious)] that everyone admired the farmer so he ordered his [Q42(soilders)] to bring the farmer to him.",
+          "When the farmer appeared [Q43(after)] the king, the angry and jealous king said, \"How dare you call yourself a king? If you are really a king, I want you to bring me a rooster that can lay eggs. If you can't, you will die!\"",
+          "The farmer returned home, feeling [Q44(angcious)] . When his ten-year-old grandson saw this, he asked his grandfather what [Q45(is)] wrong. The farmer told his grandson everything. The boy told his grandfather not to worry. He asked his grandfather to stay at home [Q46(where)] he himself went to see the king on his behalf.",
+          "At the palace, the king asked the boy, \"Where is your grandfather?\"",
+          "\"My grandfather is at home,\" the boy replied. \"He is giving birth to a baby.\"",
+          "The king was [Q47(baffeled)] . \"How can your grandfather, a man, give birth to a baby?\" he asked.",
+          "The boy answered, \" [Q48(Unless)] a man cannot give birth to a baby, then how can a rooster lay eggs?\"",
+          "The king was [Q49(inpressed)] with the boy's clever answer. He let the boy go and pardoned the farmer [Q50(from)] the same time. The farmer was thankful that his grandson had saved his life."
+        ],
+        "zh": [
+          "从前有一位非常勤劳的农夫。他以饲养特别大而肥美的鸡而闻名，国中的人都称他为“家禽之王”。",
+          "当国王得知还有人也使用“王”的称号时，非常生气。他嫉妒人人都钦佩那位农夫，于是命令士兵把农夫带来。",
+          "当农夫出现在国王面前时，愤怒嫉妒的国王喝道：“你怎么敢自称国王？你若真是王，就给我带来一只会下蛋的公鸡；若不能，就得死！”",
+          "农夫回到家，心中焦虑不安。十岁的孙子见状，问祖父怎么了。农夫把一切都告诉了孙子。男孩安慰祖父不要担心，请祖父留在家中，自己代祖父去见国王。",
+          "在宫殿里，国王问男孩：“你祖父在哪里？”",
+          "男孩回答：“我祖父在家，他正在生孩子。”",
+          "国王感到困惑不解，问：“男人怎么会生孩子？”",
+          "男孩反问：除非男人不能生孩子，公鸡又怎么会下蛋？",
+          "国王对男孩的机智回答印象深刻，放了男孩并同时赦免了农夫。农夫感激孙子救了自己的命。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">renowned</span>.",
+          "answer": "renowned"
+        },
+        "40": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">know</span>.",
+          "answer": "know"
+        },
+        "41": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">envious</span>.",
+          "answer": "envious"
+        },
+        "42": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">soldiers</span>.",
+          "answer": "soldiers"
+        },
+        "43": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">before</span>.",
+          "answer": "before"
+        },
+        "44": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">anxious</span>.",
+          "answer": "anxious"
+        },
+        "45": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">was</span>.",
+          "answer": "was"
+        },
+        "46": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">while</span>.",
+          "answer": "while"
+        },
+        "47": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">baffled</span>.",
+          "answer": "baffled"
+        },
+        "48": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">If</span>.",
+          "answer": "If"
+        },
+        "49": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">impressed</span>.",
+          "answer": "impressed"
+        },
+        "50": {
+          "concept": "Spelling / grammar correction",
+          "explanation": "Replace the error with <span class=\"hl-good\">at</span>.",
+          "answer": "at"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The debate over whether smartphones should be allowed in primary schools is a hot topic among students, teachers, and parents. Smartphones can be a valuable educational tool. They give students [Q51] to educational apps, online resources, and interactive learning platforms.",
+          "Smartphones allow for [Q52] communication between students and their parents. Parents can quickly reach [Q53] to their children during the school day and students can contact their parents in case of [Q54] or changes in plans.",
+          "In today's world, digital skills are essential. Allowing smartphones in primary schools helps students become familiar [Q55] technology, teaching them how to use it responsibly. This prepares them for future academic and career opportunities where technology [Q56] a big role.",
+          "However, one of the biggest concerns about smartphones in schools is the potential for distractions. Students might be [Q57] to play games, browse social media, or text friends instead of [Q58] attention to their lessons. This can negatively impact [Q59] learning and classroom environment.",
+          "Smartphones can [Q60] young students to cyberbullying and social pressures. Children may face bullying through messaging apps or social media, which can [Q61] their emotional well-being.",
+          "It is crucial for schools to have strategies in place to handle [Q62] issues if smartphones are allowed.",
+          "Not all students have smartphones [Q63] an internet connection. Allowing smartphones in school might create inequality [Q64] students, with some having the latest devices while [Q65] do not. This can make those without them feel left out or embarrassed. While smartphones have many educational benefits, they also come with challenges that need to be dealt with."
+        ],
+        "zh": [
+          "小学是否允许带智能手机，在学生、教师与家长之间争论激烈。手机可以是宝贵的学习工具，让学生使用教育应用、在线资源与互动学习平台。",
+          "手机也便于学生与家长即时沟通：家长可在上学日迅速联系孩子，学生也可在紧急情况或计划变更时联系家长。",
+          "当今数字技能不可或缺；允许小学生带手机有助于熟悉科技并负责任地使用，为日后学业与职业中科技扮演重要角色做准备。",
+          "然而，校内使用手机的最大担忧是分心：学生可能忍不住玩游戏、刷社交媒体或聊天，而不是专心上课，从而损害学习效果与课堂环境。",
+          "手机还可能使幼龄学生暴露于网络霸凌与社交压力；通过通讯应用或社交媒体遭受欺凌，会影响情绪健康。",
+          "若允许带手机，学校必须制定策略以应对此类问题。",
+          "并非人人都有智能手机与网络连接；允许带机可能造成学生之间的不平等——有人拥有最新设备，其他人却没有，使没有者感到被排斥或难堪。手机虽有诸多教育益处，也带来必须妥善处理的挑战。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "固定习惯搭配",
+          "note": "通常与后面的介词 to 连用，构成极高频考查的地道固定习语 give students access to，意为让学生能够“获得”、“使用”或“接触到”在线教育资源。",
+          "answer": "access"
+        },
+        "52": {
+          "concept": "形容词修饰搭配",
+          "note": "修饰不可数名词 communication。智能手机的优势在于能够让学生与家长之间建立起“即时的”、“快速的”或“直接的”沟通联系（instant / quick / direct / immediate）。",
+          "answer": "instant/quick/direct/immediate"
+        },
+        "53": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词 reach 完美组合，构成特定高频短语动词 reach out to，表示家长可以随时“联系”或“找到”在学校上课的孩子。",
+          "answer": "out"
+        },
+        "54": {
+          "concept": "名词语意与呼应",
+          "note": "后接 or 引导的并列短语 changes in plans（计划变更），与之并列的需是代表突发情况的单数或复数名词（emergency / emergencies），表示在“紧急情况”下能够及时联络。",
+          "answer": "emergencies/emergency"
+        },
+        "55": {
+          "concept": "形容词与介词固定搭配",
+          "note": "完美契合高频常考的经典形容词介词搭配 be/become familiar with，意思是帮助学生去逐渐“熟悉”或“掌握”现代技术。",
+          "answer": "with"
+        },
+        "56": {
+          "concept": "主谓一致与习语搭配",
+          "note": "主语为单数名词 technology，充当单数第三人称。构成固定句型结构 play a big role in，表示科技在未来的学术和职业生涯中都“扮演着重要角色”，动词需用单三形式 plays（或填入 exerts 构成 exerts a big influence）。",
+          "answer": "plays/exerts"
+        },
+        "57": {
+          "concept": "被动语态形容词搭配",
+          "note": "前面有助动词 Might be，后接过去分词形式。面对各种电子游戏的诱惑，学生很容易“被诱惑”或“倾向于”去玩手机，构成 be tempted to 或 be inclined to 结构。",
+          "answer": "tempted/inclined"
+        },
+        "58": {
+          "concept": "介词后的动名词并列",
+          "note": "介词 instead of 后接动名词形式。完美契合习惯搭配 pay attention to，表示“关注意思”或“把注意力集中在”课堂教学上，故填入动名词 paying。",
+          "answer": "paying"
+        },
+        "59": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词 learning。与前文复数主语 Students（学生们）保持前后视角人称一致，指这会负面影响到“他们的”学习质量，故用复数代词 their。",
+          "answer": "their"
+        },
+        "60": {
+          "concept": "动词与介词特定搭配",
+          "note": "情态动词 can 后面接动词原形。与后文的介词 to 联用，表示手机可能会使年幼的学生“暴露于”或“面对”网络霸凌的隐患，构成固定短语 expose sb to... 或者是 subject sb to...。",
+          "answer": "expose/subject"
+        },
+        "61": {
+          "concept": "情态动词后的动词原形",
+          "note": "情态动词 can 后面需要接动词原形。指网络霸凌现象会严重“伤害”、“影响”或“破坏”孩子们的心理健康与幸福感（affect / harm / damage / ruin / impact）。",
+          "answer": "affect/harm/damage/ruin/impact"
+        },
+        "62": {
+          "concept": "限定词语境承接",
+          "note": "修饰复数名词 issues。用来指代并承接上文提到的一系列关于分心、网络霸凌等具体的麻烦。填入限定词 such 或 these 构成“处理此类/这些问题”的含义。",
+          "answer": "such/these"
+        },
+        "63": {
+          "concept": "介词引导条件状语",
+          "note": "用以连接 smartphones 和后面的 an internet connection。指代并不是每一个学生都拥有“带有”网络连接功能的智能手机，故填入介词 with（填入带有否定含义的 or 表达既没有手机也没有网络则不符合前半句肯定句结构，此处 with 最佳）。",
+          "answer": "with"
+        },
+        "64": {
+          "concept": "介词语意辨析",
+          "note": "后接复数名词 students（三者或三者以上的大众群体）。指在校园中允许手机可能会在学生“之间”或者“群体中”造成不平等现象，填入范围介词 among。",
+          "answer": "among"
+        },
+        "65": {
+          "concept": "代词呼应与对照",
+          "note": "构成经典的分组对比对照句式 with some... while others...。前半句提到了 some（一些人）拥有最新款的设备，后半句自然对应代词 others（其他人）则没有。",
+          "answer": "others"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Ahmad did not complete his homework. He watched the World Cup Final on television.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Instead of __________"
+        },
+        "67": {
+          "stem_plain": "\"Have you paid for your ticket to the Bird Paradise?\" my teacher asked me.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "My teacher asked me __________"
+        },
+        "68": {
+          "stem_plain": "I tried very hard to persuade Mrs Lim but she refused to join the baking class.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No matter __________"
+        },
+        "69": {
+          "stem_plain": "All the children were pleased with their gifts. Linda was not pleased with her gift.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ except __________"
+        },
+        "70": {
+          "stem_plain": "They were annoyed as Sally was insincere.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Sally's __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "句型转换 — Instead of + V-ing",
+          "zh": "艾哈迈德没有完成作业，而是看了电视上的世界杯决赛。",
+          "note": "用 <code>Instead of + doing</code> 把两个信息合并为一句，保持原意。",
+          "answer": "Instead of completing his homework, Ahmad watched the World Cup Final on television."
+        },
+        "67": {
+          "concept": "间接引语 — Reported yes/no question",
+          "zh": "老师问我是否已经付了鸟园的门票钱。",
+          "note": "引述一般疑问句用 <code>asked + if/whether + 陈述语序</code>，时态后移。",
+          "answer": "My teacher asked me if I had paid for my ticket to the Bird Paradise."
+        },
+        "68": {
+          "concept": "让步结构 — No matter how",
+          "zh": "无论我多么努力说服林老师，她都不肯参加烘焙课。",
+          "note": "用 <code>No matter how + 形容词/副词</code> 引导让步从句。",
+          "answer": "No matter how hard I tried to persuade Mrs Lim, she refused to join the baking class."
+        },
+        "69": {
+          "concept": "合并两句 — Sentence combining (except)",
+          "zh": "除了琳达，所有孩子都对自己的礼物感到满意。",
+          "note": "用 except 把“琳达不满意”并入“其他人都满意”的一句；勿写成 Linda was pleased。",
+          "answer": "All the children except Linda were pleased with their gifts."
+        },
+        "70": {
+          "concept": "句型转换 — Possessive + abstract noun as subject",
+          "zh": "萨莉的不真诚惹恼了他们。",
+          "note": "用名词化 <code>insincerity</code> 作主语，动词 <code>annoy</code>。",
+          "answer": "Sally’s insincerity annoyed them."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Based on the first paragraph, explain what the narrator initially believed caused his insatiable appetite.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Fill in the following table to show the narrator's physical appearance and how he felt before and at the start of secondary 2 based on lines 2-16.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "Physical appearance",
+                "Feeling"
+              ]
+            },
+            "col_2": {
+              "header": "Before the start of secondary two",
+              "rows": [
+                "[Q72a]",
+                "[Q72c]"
+              ]
+            },
+            "col_3": {
+              "header": "At the start of secondary two",
+              "rows": [
+                "[Q72b]",
+                "[Q72d]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Which three-word phrase from lines 17 - 21 tells us that the narrator showed his displeasure with his classmates? .",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on the passage, state whether each statement in the table below is true or false. Give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The narrator was proud of his rapid physical growth when he was in secondary two.",
+                "(b) The narrator's growth spurt was first met with disbelief by his physical education teacher.",
+                "(c) The decision to dance in socks was mainly made to prevent injuries caused by the narrator's clumsiness."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]",
+                "[Q74e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]",
+                "[Q74f]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Words from the passage",
+              "rows": [
+                "their (line 15)",
+                "the others (line 27)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Why was it not practical for the narrator to consider skipping school due to his problem? .",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "What the narrator's teacher did to help him.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "**(a)**",
+              "rows": [
+                "[Q77a]"
+              ]
+            },
+            "col_2": {
+              "header": "**(b)**",
+              "rows": [
+                "[Q77b]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "In line 32, why did the narrator fear that the School Bash Dance day would be his worst day?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Explain clearly why the narrator decided to tell the girl in line 39 \"I don't dance very well\".",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Which of the following words best describes the narrator's tone when reflecting on secondary two as ‘one of the best years of my life’?",
+          "marks": 1,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) Put a tick (✓) in the box beside your answers. Tick only ONE box. **DO NOT TICK MORE THAN ONE BOX.**  ",
+              "question_type": "radio",
+              "options": [
+                "hilarious",
+                "regretful",
+                "indifferent",
+                "surprised"
+              ],
+              "max_selections": 1
+            },
+            {
+              "stem_plain": "(b) Support your answer with information from the passage.",
+              "question": "[Q80b]"
+            }
+          ]
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Secondary school was challenging for me, but it taught me the meaning of",
+          "2": "seeing the light at the end of the tunnel. Secondary two was a unique year. In",
+          "3": "secondary one, I was below average in height but average in weight and athleticism,",
+          "4": "but during the summer break and before secondary two, my appetite became",
+          "5": "insatiable. Despite consuming large amounts of food, my hunger persisted. I was not",
+          "6": "concerned about it. I just assumed it was all caused by me working hard on a farm.",
+          "7": "However, at the start of secondary two, I found myself feeling awkward and my",
+          "8": "clumsiness had reached the point where I could easily stumble over my own feet. To",
+          "9": "make matters worse, my trousers had become two sizes smaller after I put on seven",
+          "10": "kilogrammes.",
+          "11": "My physical education teacher was shocked at my growth, exclaiming, \"This",
+          "12": "can't be true! You've grown twelve centimetres in three months?\" He remeasured my",
+          "13": "height several times before accepting and recording it.",
+          "14": "While I grew taller, my self-confidence lagged behind. My shoe size jumped two",
+          "15": "sizes from size 9 to size 11 and my feet, seemingly with minds of their own, refused",
+          "16": "to coordinate with the rest of me.",
+          "17": "During physical education lessons, I often tripped over my own feet while",
+          "18": "dribbling a basketball, causing me to fall amid the laughter of a few of my classmates.",
+          "19": "When I picked myself up and glared at them, they would flinch. I occasionally heard",
+          "20": "them whisper \"Clumsy\", especially when they thought I would not hear them, given my",
+          "21": "new size. I was way taller and bigger than all of them, which made them uneasy.",
+          "22": "My greatest dread arrived — a month of dance practice in physical education to",
+          "23": "prepare for the School Bash Dance. I considered skipping school. But, what excuses",
+          "24": "could I give? I had no choice but to endure. I already felt inadequate in my social skills",
+          "25": "when it came to interacting with girls. The thought that my clumsiness would plunge",
+          "26": "my popularity rating even further gripped my heart with great trepidation.",
+          "27": "After four dances, my partner limped away like the others before her. Then,",
+          "28": "the teacher said we would dance in socks. This must be done in consideration of",
+          "29": "sparing the girls from my big shoes. She looked right at me when announcing it, gave",
+          "30": "me a wink and a thumbs-up. She had been trying to convince me that effort was far",
+          "31": "more important than perfection.",
+          "32": "We practised until The Day, which I feared would be my worst day. Partners",
+          "33": "were to be chosen, not assigned, with girls picking first. As they hurried to select, I",
+          "34": "braced to be the last boy standing. Soon, nearly all the boys were chosen.",
+          "35": "I was looking down, so I did not have to face the events unfolding around me.",
+          "36": "Then I thought I heard my name and looked up to meet the gaze of a pair of bright",
+          "37": "eyes. She smiled kindly at me. She had to repeat herself before I realised she was",
+          "38": "speaking to me. As I timidly took her hand to escort her to the dance floor, I decided",
+          "39": "to warn her, \"I don't dance very well.\"",
+          "40": "She smiled warmly and replied, \"That doesn't matter. I'm not a great dancer",
+          "41": "either. Let's give it our best shot together.\"",
+          "42": "You know what? Secondary two was really **one of the best years of my life.**"
+        },
+        "paragraphs": {
+          "1": "中学生活对我很有挑战，但也让我明白'隧道尽头会有光'。中二那年很特别。中一时我身高低于平均，体重和运动能力与平均差不多；暑假及升中二前，食欲变得无法满足。尽管吃很多，饥饿仍在。我不在意，只以为是自己在农场辛苦劳作所致。",
+          "7": "然而升中二伊始，我感到别扭，笨拙到常被自己绊倒。更糟的是，裤子小了两号——我重了七公斤。",
+          "11": "体育老师对我的生长大吃一惊，喊道：'这不可能！三个月高了十二厘米？'他反复量身高几次才接受并记录。",
+          "14": "我长高了，自信却没跟上。鞋码从 9 跳到 11，脚仿佛有自己的主意，不肯与身体协调。",
+          "17": "体育课上，我运球时常绊倒自己，在少数同学笑声中摔倒。我爬起来瞪着他们，他们反而退缩。我偶尔听见他们悄悄说'笨手笨脚'，以为我听不见——如今我比他们高大得多，让他们不安。",
+          "22": "最大的恐惧来了——体育课要练一个月舞，为校庆舞会做准备。我想逃课，又能找什么借口？只能硬撑。与女生交往本就社交笨拙；想到笨拙会更压低人气，我心惊胆战。",
+          "27": "跳了四支舞后，搭档像之前的女孩一样一瘸一拐离开。老师说大家要穿袜子跳——免得女孩被我的大脚弄伤。宣布时她看着我，眨眼竖起大拇指；她一直在劝我：努力比完美更重要。",
+          "32": "我们练到'那一天'——我怕那会是人生最糟的一天。舞伴要自己选，女生先选。她们抢着选时，我做好当最后剩男的心理准备。很快几乎所有男生都被选走了。",
+          "35": "我低头不敢看周围发生的事。忽然好像听到有人叫我的名字，抬头对上一双明亮的眼睛。她友善地对我笑。她说了两遍我才反应过来是在叫我。我怯生生牵她走向舞池，决定先提醒她：'我舞跳得不好。'",
+          "40": "她温暖地笑道：'没关系。我也不是什么好舞者。我们一起尽力就好。'",
+          "42": "你知道吗？中二真的是我一生中最美好的岁月之一。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "解释说明题",
+          "note": "<ol><li>题型：原因说明——第一段中，叙述者起初认为什么导致食欲旺盛。</li><li>范围：第 1 段，行 1–6。</li><li>证据：行 6 <em>I just assumed it was all caused by me working hard on a farm</em>。</li><li>答：他起初认为在农场<strong>辛苦劳作</strong>使自己总是饿。</li></ol>",
+          "answer": [
+            "The narrator initially believed that the hard work he was doing on the farm caused his insatiable appetite."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "表格信息填空",
+          "note": "<ol><li>题型：表格对比——中二开始前 vs 刚升中二时的外貌与感受；范围行 2–16。</li><li><strong>外貌（前）：</strong>行 3 身高低于平均、体重平均。</li><li><strong>外貌（后）：</strong>行 9–10、12–15 长高十二厘米、重七公斤、鞋码大两号。</li><li><strong>感受（前）：</strong>行 5–6 不担心（<em>not concerned</em>）。</li><li><strong>感受（后）：</strong>行 7–8 别扭、笨拙（<em>awkward</em>）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "Below average in height but average in weight.",
+            "72b": "Grew twelve centimetres, put on seven kilogrammes, shoe size grew two sizes bigger.",
+            "72c": "Unconcerned.",
+            "72d": "Awkward / ill at ease."
+          }
+        },
+        "73": {
+          "concept": "摘录词句题",
+          "note": "<ol><li>题型：摘三词短语；范围行 17–21。</li><li>证据：行 19 <em>When I picked myself up and <span class=\"hl-good\">glared at them</span></em>——对同学表示不满。</li></ol>",
+          "answer": [
+            "glared at them"
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li>题型：判断正误表 + 一句依据。</li><li><strong>(a) False：</strong>行 14–16 长高但自信滞后，脚也不协调——并非为此骄傲。</li><li><strong>(b) True：</strong>行 11–13 体育老师不信，反复量身高才记录。</li><li><strong>(c) False：</strong>行 27–29 穿袜子是为避免大脚伤女孩；搭档一瘸一拐因他笨拙/鞋大，非主要为防摔伤。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "False",
+            "74b": "His self-confidence lagged behind although he grew taller as his feet refused to coordinate with the rest of the body.",
+            "74c": "True",
+            "74d": "His physical education teacher remeasured his height several times before accepting and recording the result.",
+            "74e": "True",
+            "74f": "After four dances, his partner limped away due to the narrator's big shoes and clumsiness."
+          }
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>their（行 15）：</strong>回指 <em>my feet</em>——脚仿佛有自己的主意。</li><li><strong>the others（行 27）：</strong>回指之前与他跳舞、一瘸一拐离开的那些女搭档。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "The narrator’s feet.",
+            "75b": "The previous girls who had been the narrator’s dance partners."
+          }
+        },
+        "76": {
+          "concept": "原因分析题",
+          "note": "<ol><li>题型：原因分析——为何逃课不现实。</li><li>范围：行 22–24。</li><li>证据：行 23–24 <em>what excuses could I give? I had no choice but to endure</em>——没有借口可编。</li></ol>",
+          "answer": [
+            "Skipping school was impractical because he had no excuse / reason to give."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li>题型：归纳老师两处帮助；范围行 27–31。</li><li><strong>(a)</strong> 行 28–29：让大家穿袜子跳，免得女孩被他的大脚弄伤。</li><li><strong>(b)</strong> 行 29–30：对他眨眼、竖大拇指，鼓励他（努力比完美重要）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "She asked everyone to dance in socks so the girls would not get hurt by the narrator's big shoes.",
+            "77b": "She gave him a wink and a thumbs-up to encourage him."
+          }
+        },
+        "78": {
+          "concept": "原因分析题",
+          "note": "<ol><li>题型：原因分析；范围行 32–34。</li><li>行 32–33：舞伴<strong>自己选</strong>，女生先选，他怕成为<strong>最后剩男</strong>。</li><li>结合行 22–26、25–26：因笨拙、与女生交往缺乏自信，怕没人选他。</li></ol>",
+          "answer": [
+            "Partners were chosen freely, not assigned; he feared being left unchosen because of clumsiness and low confidence."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "原因分析题",
+          "note": "<ol><li>题型：原因分析；范围行 38–39。</li><li>他自知舞技差、缺乏信心，牵她上舞池前先<strong>提醒</strong>她，免得她期待过高或踩脚。</li><li>证据：行 38–39 <em>I decided to warn her, \"I don't dance very well.\"</em></li></ol>",
+          "answer": [
+            "To warn her he could not dance well as he lacked confidence in dancing."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>(a)</strong> 行 42 回顾中二为'最美好的岁月之一'，语气应是<strong>意外、惊喜</strong>（<span class=\"hl-good\">surprised</span>），非后悔或冷漠。</li><li><strong>(b)</strong> 行 35–41：原以为会被冷落，却意外被女生选中；她友善回应，舞会经历积极，改变了他对中二的看法。</li></ol>",
+          "answer": {
+            "80a": "surprised",
+            "80b": "The incident at the School Dance Bash where narrator is unexpectedly chosen by a girl as her dance partner can be seen as a surprising positive experience that made him reflect on secondary two as one of the best years."
+          }
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

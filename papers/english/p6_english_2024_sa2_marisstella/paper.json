@@ -1,0 +1,1599 @@
+{
+  "paperid": "p6_english_2024_sa2_marisstella",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The teachers, as well as Mr Lee, _________ for a learning journey this coming Monday.",
+          "options": {
+            "1": "went",
+            "2": "is going",
+            "3": "has gone",
+            "4": "are going"
+          }
+        },
+        "2": {
+          "stem_plain": "“Please let Mary and _________ know if you need anything. Both of _________ would be most willing to assist,” the manager said.",
+          "options": {
+            "1": "I … us",
+            "2": "me … us",
+            "3": "I … them",
+            "4": "me … them"
+          }
+        },
+        "3": {
+          "stem_plain": "I cannot agree _________ you in this situation as there are alternative solutions that we have not explored yet.",
+          "options": {
+            "1": "to",
+            "2": "by",
+            "3": "with",
+            "4": "from"
+          }
+        },
+        "4": {
+          "stem_plain": "“I’m going to be scolded again, _________ I?” Mary cried.",
+          "options": {
+            "1": "isn’t",
+            "2": "won’t",
+            "3": "aren’t",
+            "4": "haven’t"
+          }
+        },
+        "5": {
+          "stem_plain": "_________ people could withstand the harsh conditions of the desert, including the seasoned travellers. However, the locals have adjusted their way of life to survive there.",
+          "options": {
+            "1": "All",
+            "2": "Few",
+            "3": "Most",
+            "4": "Many"
+          }
+        },
+        "6": {
+          "stem_plain": "Sally consoled her friend, “Poor you! You _________ have cried buckets when your pet cat went missing.”",
+          "options": {
+            "1": "must",
+            "2": "could",
+            "3": "might",
+            "4": "should"
+          }
+        },
+        "7": {
+          "stem_plain": "The panel made _________ unanimous decision to award Meiling _________ “Most Inspirational” prize.",
+          "options": {
+            "1": "a … a",
+            "2": "an … a",
+            "3": "a … the",
+            "4": "an … the"
+          }
+        },
+        "8": {
+          "stem_plain": "_________ challenging the test may be, I am determined to complete it.",
+          "options": {
+            "1": "Despite",
+            "2": "However",
+            "3": "No matter",
+            "4": "Whenever"
+          }
+        },
+        "9": {
+          "stem_plain": "Mr Chua _________ Tim _________ on stage before he dropped the microphone.",
+          "options": {
+            "1": "witnesses … freeze",
+            "2": "witnesses … frozen",
+            "3": "witnessed … freezes",
+            "4": "witnessed … freezing"
+          }
+        },
+        "10": {
+          "stem_plain": "“She’d better _________ now if you want to catch the last bus,” he advised.",
+          "options": {
+            "1": "hurry",
+            "2": "hurried",
+            "3": "hurries",
+            "4": "hurrying"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — Subject–verb agreement — *as well as*",
+          "zh": "老师们和李先生下周一要去研学旅行。",
+          "note": "真正主语 The teachers 为复数；as well as Mr Lee 为附加说明；this coming Monday 用现在进行表安排。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "代词 — Object pronouns",
+          "zh": "“请让玛丽和我知道你是否需要帮助。我们俩都非常乐意帮忙。”经理说。",
+          "note": "let 后接宾格 me；both of 后亦用宾格 us。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "固定搭配 — agree with",
+          "zh": "在这种情况下我不能同意你的看法，因为还有我们尚未探讨的其他方案。",
+          "note": "agree with + 人；agree to + 提议/计划。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "反意疑问句 — Question tag",
+          "zh": "“我又要挨骂了，是不是？”玛丽喊道。",
+          "note": "be going to 表将来，附加疑问用 won't I 与 will 呼应。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "量词 — Quantifier",
+          "zh": "很少有人能忍受沙漠的恶劣环境，包括有经验的旅行者。",
+          "note": "Few 表否定“几乎没有”；后文 However 说明当地人例外，与 Few 语气一致。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "情态动词 — must have + V3",
+          "zh": "“你真可怜！猫不见时你一定哭得很厉害。”",
+          "note": "must have + 过去分词表对过去的肯定推测。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "冠词 — articles",
+          "zh": "评审团作出一致决定，把“最具启发奖”颁给美玲。",
+          "note": "unanimous 以辅音音素开头用 a；特指该奖项用 the prize。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "让步状语从句 — Concessive",
+          "zh": "无论考试多难，我都决心完成它。",
+          "note": "However 在句首接形容词时，意思是“无论多么……”（相当于 No matter how）。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "时态 — Past tense + V-ing",
+          "zh": "蔡先生看到蒂姆在台上僵住，接着才掉了麦克风。",
+          "note": "witness + 宾语 + -ing 表看到动作进行；过去叙述用 witnessed。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "had better — had better + V",
+          "zh": "“若想赶上末班车，她最好现在快点。”他建议道。",
+          "note": "had better + 动词原形，无时态变化。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Even after taking the medication, his _________ fever refused to subside, leaving him weak and bedridden for days.",
+          "options": {
+            "1": "drastic",
+            "2": "persistent",
+            "3": "consistent",
+            "4": "continuous"
+          }
+        },
+        "12": {
+          "stem_plain": "The workers were instructed not to _________ with the equipment while the authorities inspect the area to determine the cause of the accident.",
+          "options": {
+            "1": "tamper",
+            "2": "fumble",
+            "3": "hamper",
+            "4": "interfere"
+          }
+        },
+        "13": {
+          "stem_plain": "_________ her experiences as a volunteer, Sarah inspired many of her peers to get involved in community service.",
+          "options": {
+            "1": "Relating",
+            "2": "Enacting",
+            "3": "Explaining",
+            "4": "Portraying"
+          }
+        },
+        "14": {
+          "stem_plain": "The sudden thunderstorm _________ a wave of cancellations for the outdoor concert.",
+          "options": {
+            "1": "brought along",
+            "2": "brought out",
+            "3": "brought on",
+            "4": "brought in"
+          }
+        },
+        "15": {
+          "stem_plain": "There are plans to strengthen _________ against irresponsible driving by imposing heavier fines and imprisonment terms.",
+          "options": {
+            "1": "restraint",
+            "2": "limitation",
+            "3": "restriction",
+            "4": "deterrence"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "服药后高烧仍迟迟不退，他虚弱卧床多日。",
+          "note": "应选（2）'persistent'：题干语境最宜表达'（症状、问题）持续不断的；顽固的'。'drastic'义为'激烈的；猛烈的；大幅度的'：与题干逻辑及英语解析中的辨析不一致。'consistent'义为'一致的；稳定的'：与题干逻辑及英语解析中的辨析不一致。'continuous'义为'连续不断的（无间断）'：词义或用法与句意不匹配。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — persistent（（症状、问题）持续不断的；顽固的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "drastic",
+              "zh": "激烈的；猛烈的；大幅度的",
+              "eg": "The school took <strong>drastic</strong> measures to stop the spread of the flu."
+            },
+            {
+              "opt": "2",
+              "word": "persistent",
+              "zh": "（症状、问题）持续不断的；顽固的",
+              "eg": "After a week in bed, his <strong>persistent</strong> cough finally began to ease."
+            },
+            {
+              "opt": "3",
+              "word": "consistent",
+              "zh": "一致的；稳定的",
+              "eg": "Her grades have been <strong>consistent</strong> all year, always in the A band."
+            },
+            {
+              "opt": "4",
+              "word": "continuous",
+              "zh": "连续不断的（无间断）",
+              "eg": "The factory runs on <strong>continuous</strong> shifts so production never stops."
+            }
+          ]
+        },
+        "12": {
+          "zh": "当局调查事故原因期间，工人不得擅自摆弄设备。",
+          "note": "应选（1）'tamper'：题干语境最宜表达'擅自摆弄；篡改'。'fumble'义为'笨手笨脚地摸；失球'：语义暗示与题干要求不一致。'hamper'义为'阻碍；妨碍'：释义侧重与空格处逻辑不符。'interfere'义为'干涉；妨碍'：须与特定介词等连用，本句结构不适用。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — tamper（擅自摆弄；篡改）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tamper",
+              "zh": "擅自摆弄；篡改",
+              "eg": "Never <strong>tamper</strong> with the fire alarm unless there is a real emergency."
+            },
+            {
+              "opt": "2",
+              "word": "fumble",
+              "zh": "笨手笨脚地摸；失球",
+              "eg": "He began to <strong>fumble</strong> for his keys in the dark porch."
+            },
+            {
+              "opt": "3",
+              "word": "hamper",
+              "zh": "阻碍；妨碍",
+              "eg": "Heavy rain may <strong>hamper</strong> rescue efforts in the flooded estate."
+            },
+            {
+              "opt": "4",
+              "word": "interfere",
+              "zh": "干涉；妨碍",
+              "eg": "Please do not <strong>interfere</strong> with the experiment while the timer is running."
+            }
+          ]
+        },
+        "13": {
+          "zh": "莎拉先讲述自己做志愿者的经历，再鼓舞许多同学参与社区服务。",
+          "note": "应选（1）'Relating'：题干语境最宜表达'讲述；联系（经历）'。'Enacting'义为'颁布；扮演；演出'：释义侧重与空格处逻辑不符。'Explaining'义为'解释；说明'：与题干逻辑及英语解析中的辨析不一致。'Portraying'义为'描绘；扮演'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — Relating（讲述；联系（经历））",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Relating",
+              "zh": "讲述；联系（经历）",
+              "eg": "<strong>Relating</strong> her scary encounter, Mei Ling spoke in a hushed voice."
+            },
+            {
+              "opt": "2",
+              "word": "Enacting",
+              "zh": "颁布；扮演；演出",
+              "eg": "The drama club will be <strong>enacting</strong> a scene from Shakespeare next week."
+            },
+            {
+              "opt": "3",
+              "word": "Explaining",
+              "zh": "解释；说明",
+              "eg": "Mr Tan spent ten minutes <strong>explaining</strong> why we should recycle plastic bottles."
+            },
+            {
+              "opt": "4",
+              "word": "Portraying",
+              "zh": "描绘；扮演",
+              "eg": "The mural <strong>portraying</strong> Singapore's history covers the entire wall."
+            }
+          ]
+        },
+        "14": {
+          "zh": "突如其来的雷雨导致户外音乐会一波接一波的取消。",
+          "note": "应选（3）'brought on'：题干语境最宜表达'引起；导致'。'brought along'义为'顺便带来；使进步'：与题干逻辑及英语解析中的辨析不一致。'brought out'义为'使显现；出版'：与题干逻辑及英语解析中的辨析不一致。'brought in'义为'引入；赚得'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — brought on（引起；导致）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "brought along",
+              "zh": "顺便带来；使进步",
+              "eg": "Please <strong>bring along</strong> your water bottle on the hike."
+            },
+            {
+              "opt": "2",
+              "word": "brought out",
+              "zh": "使显现；出版",
+              "eg": "The debate <strong>brought out</strong> the best ideas from both teams."
+            },
+            {
+              "opt": "3",
+              "word": "brought on",
+              "zh": "引起；导致",
+              "eg": "Stress can <strong>bring on</strong> headaches if you never take breaks."
+            },
+            {
+              "opt": "4",
+              "word": "brought in",
+              "zh": "引入；赚得",
+              "eg": "The fair <strong>brought in</strong> more than five thousand dollars for charity."
+            }
+          ]
+        },
+        "15": {
+          "zh": "计划加重罚款与监禁，以加强遏制鲁莽驾驶。",
+          "note": "应选（4）'deterrence'：题干语境最宜表达'威慑；遏止（犯罪或不当行为）'。'restraint'义为'克制；约束措施'：与题干逻辑及英语解析中的辨析不一致。'limitation'义为'限制；局限'：与题干逻辑及英语解析中的辨析不一致。'restriction'义为'限制规定；约束条款'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — deterrence（威慑；遏止（犯罪或不当行为））",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "restraint",
+              "zh": "克制；约束措施",
+              "eg": "He showed admirable <strong>restraint</strong> by not answering the rude remark."
+            },
+            {
+              "opt": "2",
+              "word": "limitation",
+              "zh": "限制；局限",
+              "eg": "Every design has its <strong>limitation</strong>, but we can still improve it."
+            },
+            {
+              "opt": "3",
+              "word": "restriction",
+              "zh": "限制规定；约束条款",
+              "eg": "There is a speed <strong>restriction</strong> of thirty kilometres per hour near the school gate."
+            },
+            {
+              "opt": "4",
+              "word": "deterrence",
+              "zh": "威慑；遏止（犯罪或不当行为）",
+              "eg": "Visible police patrols act as a <strong>deterrence</strong> to vandalism in the estate."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "relentless",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "harsh",
+            "2": "serious",
+            "3": "intense",
+            "4": "important"
+          }
+        },
+        "17": {
+          "stem_plain": "tackling",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "settling",
+            "2": "resolving",
+            "3": "balancing",
+            "4": "managing"
+          }
+        },
+        "18": {
+          "stem_plain": "drastically",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "easily",
+            "2": "certainly",
+            "3": "inevitably",
+            "4": "noticeably"
+          }
+        },
+        "19": {
+          "stem_plain": "helpful and encouraging",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "supportive",
+            "2": "sensitive",
+            "3": "inspiring",
+            "4": "soothing"
+          }
+        },
+        "20": {
+          "stem_plain": "incentive",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "aspiration",
+            "2": "motivation",
+            "3": "expectation",
+            "4": "anticipation"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Dear Uncle Joe,",
+          "How are you? I hope everything is going well on your end. I am currently preparing for my PSLE. There is a lot of revision to do and the [Q16 (relentless)] pressure sometimes feels overwhelming, but I am [Q17 (tackling)] it well. I have noticed that my consistent efforts have [Q18 (drastically)] improved my understanding of the subjects. My teachers have also been very [Q19 (helpful and encouraging)]. They are always ready to clarify doubts and provide extra practice materials.",
+          "On a brighter note, I am really excited about visiting you in December! This trip has proven to be a great source of [Q20 (incentive)] for me. I have even started making a list of things I want to do and see when I am there!",
+          "I cannot wait to catch up with you. Take care and see you soon.",
+          "Love,   Randy"
+        ],
+        "zh": [
+          "亲爱的 Uncle Joe，",
+          "你好吗？希望你那边一切顺利。我正在准备 PSLE。要复习的内容很多，持续不断的压力有时让人喘不过气，但我应对得不错。我发现持续努力大幅提升了各科目的理解。老师们也非常热心、鼓励人，随时愿意解答疑问并提供额外练习材料。",
+          "说点开心的事：我非常期待十二月去看你！这次旅行已成为我很大的动力。我甚至已经开始列清单，写下到时想做的事、想看的景！",
+          "我迫不及待想和你叙旧。保重，很快见。",
+          "爱你的 Randy"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — relentless（激烈的）",
+          "note": "应选（3）'intense'：短文划线的 <em>relentless</em> 在此语境下与此义最接近。'harsh'：义为'严酷的；恶劣的（环境/批评）'，与短文语境或搭配要求不一致。'serious'：与题干语境或搭配要求不一致。'important'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "要复习的内容很多，持续不断的压力有时让人喘不过气。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "harsh",
+              "zh": "严酷的；恶劣的（环境/批评）",
+              "eg": "Polar bears are perfectly adapted to the <strong>harsh</strong> conditions of the Arctic."
+            },
+            {
+              "opt": "2",
+              "word": "serious",
+              "zh": "严肃的",
+              "eg": "The speaker chose <strong>serious</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "intense",
+              "zh": "激烈的",
+              "eg": "The speaker chose <strong>intense</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "important",
+              "zh": "重要的",
+              "eg": "The speaker chose <strong>important</strong> to match the tone of the passage."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — tackling（马纳格）",
+          "note": "应选（4）'managing'：短文划线的 <em>tackling</em> 在此语境下与此义最接近。'settling'：与题干语境或搭配要求不一致。'resolving'：与题干语境或搭配要求不一致。'balancing'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "但我应对得不错。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "settling",
+              "zh": "解决",
+              "eg": "The team kept <strong>settling</strong> until the task was done."
+            },
+            {
+              "opt": "2",
+              "word": "resolving",
+              "zh": "解决",
+              "eg": "The team kept <strong>resolving</strong> until the task was done."
+            },
+            {
+              "opt": "3",
+              "word": "balancing",
+              "zh": "平衡",
+              "eg": "The team kept <strong>balancing</strong> until the task was done."
+            },
+            {
+              "opt": "4",
+              "word": "managing",
+              "zh": "马纳格",
+              "eg": "The team kept <strong>managing</strong> until the task was done."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — drastically（注意事项地）",
+          "note": "应选（4）'noticeably'：短文划线的 <em>drastically</em> 在此语境下与此义最接近。'easily'：义为'容易地'，与短文语境或搭配要求不一致。'certainly'：与题干语境或搭配要求不一致。'inevitably'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "我发现持续努力明显提升了各科目的理解。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "easily",
+              "zh": "易西地",
+              "eg": "She answered <strong>easily</strong> before the bell rang."
+            },
+            {
+              "opt": "2",
+              "word": "certainly",
+              "zh": "肯定地",
+              "eg": "She answered <strong>certainly</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "inevitably",
+              "zh": "不可避免地",
+              "eg": "She answered <strong>inevitably</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "noticeably",
+              "zh": "注意事项地",
+              "eg": "She answered <strong>noticeably</strong> before the bell rang."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — helpful and encouraging（支持的；给予帮助的）",
+          "note": "应选（1）'supportive'：短文划线的 <em>helpful and encouraging</em> 在此语境下与此义最接近。'sensitive'：义为'敏感的；体贴的'，与短文语境或搭配要求不一致。'inspiring'：与题干语境或搭配要求不一致。'soothing'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "老师们也非常热心、鼓励人，随时愿意解答疑问并提供额外练习材料。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "supportive",
+              "zh": "支持的；给予帮助的",
+              "eg": "Friends were very <strong>supportive</strong> when I failed my first driving test."
+            },
+            {
+              "opt": "2",
+              "word": "sensitive",
+              "zh": "敏感的；体贴的",
+              "eg": "He is <strong>sensitive</strong> to bright lights, so he keeps the curtains drawn."
+            },
+            {
+              "opt": "3",
+              "word": "inspiring",
+              "zh": "启发",
+              "eg": "The team kept <strong>inspiring</strong> until the task was done."
+            },
+            {
+              "opt": "4",
+              "word": "soothing",
+              "zh": "舒缓",
+              "eg": "The team kept <strong>soothing</strong> until the task was done."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — incentive（动力；积极性）",
+          "note": "应选（2）'motivation'：短文划线的 <em>incentive</em> 在此语境下与此义最接近。'aspiration'：义为'志向；抱负'，与短文语境或搭配要求不一致。'expectation'：与题干语境或搭配要求不一致。'anticipation'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这次旅行已成为我很大的动力。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "aspiration",
+              "zh": "志向；抱负",
+              "eg": "Her greatest <strong>aspiration</strong> is to become a heart surgeon and help save lives."
+            },
+            {
+              "opt": "2",
+              "word": "motivation",
+              "zh": "动力；积极性",
+              "eg": "Her younger sister's smile gives her the <strong>motivation</strong> to study late into the night."
+            },
+            {
+              "opt": "3",
+              "word": "expectation",
+              "zh": "期待",
+              "eg": "The pupils found the word <strong>expectation</strong> useful in their composition."
+            },
+            {
+              "opt": "4",
+              "word": "anticipation",
+              "zh": "预期",
+              "eg": "In class we discussed how <strong>anticipation</strong> fits everyday English."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "In the section “Robots, Then and Now”, the expression “But now, things are different!” is used to",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "emphasise that robots are limited to factory use",
+            "2": "indicate that robots can only perform repetitive tasks",
+            "3": "imply that robots can perform many simple functions",
+            "4": "suggest that robots have become more advanced and intelligent"
+          }
+        },
+        "22": {
+          "stem_plain": "Which of the following is not true about Robo Cafe?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Robots do the cooking in the restaurant.",
+            "2": "The outlet in Tech Park boasts a space-themed décor.",
+            "3": "The local chefs adjusted the dishes based on the movie *Robochefs*.",
+            "4": "The restaurant is committed to improving the dining experience for diners."
+          }
+        },
+        "23": {
+          "stem_plain": "According to the section “Robots and Futuristic Dining”, which word best describes the dining experience as a unique way to enjoy a meal?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "local",
+            "2": "novel",
+            "3": "newly-launched",
+            "4": "mouth-watering"
+          }
+        },
+        "24": {
+          "stem_plain": "Under the section “Robots and Futuristic Dining”, which of the following does **not** tell us what the futuristic dining experience is like?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "“serve your food with precision”",
+            "2": "“snap photos of your experience”",
+            "3": "“put their own twist on the dishes”",
+            "4": "“immerse yourself in the movie’s plot”"
+          }
+        },
+        "25": {
+          "stem_plain": "Mr Tan wishes to have a meal at Robo Cafe. Which of the following will allow him to enjoy the biggest savings?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "He goes with as many friends as possible.",
+            "2": "He goes with five other friends on a weekday before 5 p.m.",
+            "3": "He makes an online reservation on a Sunday on 30 November 2024.",
+            "4": "He makes an online reservation on a weekend before 1 December 2024."
+          }
+        },
+        "26": {
+          "stem_plain": "What do Warren and Ronald have in common in their reviews?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They thought the movie was amazing.",
+            "2": "They thought the menu was impressive.",
+            "3": "They felt that the unusual dishes were delicious.",
+            "4": "They felt that the dining experience was memorable."
+          }
+        },
+        "27": {
+          "stem_plain": "Diners who want to enjoy their dining experience at Robo Cafe should _________",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "put their belongings in the lockers provided",
+            "2": "go through the menu on the table before ordering",
+            "3": "make a reservation at least ten minutes in advance",
+            "4": "press the buzzer on the table to summon a robot waiter"
+          }
+        },
+        "28": {
+          "stem_plain": "The main purpose of this webpage is to _________",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "encourage people to watch the movie *Robochefs*",
+            "2": "provide information about dining with robots",
+            "3": "promote a futuristic dining experience",
+            "4": "showcase good customer reviews"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "<p>Use evidence from the webpage sections.</p>",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "<p>Use evidence from the webpage sections.</p>",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "<p>Use evidence from the webpage sections.</p>",
+          "answer": "2"
+        },
+        "24": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "<p>Use evidence from the webpage sections.</p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "<p>Use evidence from the webpage sections.</p>",
+          "answer": "2"
+        },
+        "26": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "<p>Use evidence from the webpage sections.</p>",
+          "answer": "4"
+        },
+        "27": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "<p>Use evidence from the webpage sections.</p>",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "视觉文本 — Visual comprehension（视觉文本考点）",
+          "note": "<p>Use evidence from the webpage sections.</p>",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "B": "are",
+          "C": "for",
+          "D": "from",
+          "E": "if",
+          "F": "is",
+          "G": "might",
+          "H": "nevertheless",
+          "J": "off",
+          "K": "on",
+          "L": "since",
+          "M": "unless",
+          "N": "unlike",
+          "P": "what",
+          "Q": "which"
+        },
+        "cloze": [
+          "Have you ever thought about how movies based on books make us see what characters and places look like? [Q29] special effects in movies make action scenes exciting and realistic, watching a movie based [Q30] a book can aid in understanding the story, especially [Q31] the book is difficult to read. In schools, movies can be utilised to help students comprehend books better and foster a greater love [Q32] reading. What’s more, watching a movie adapted [Q33] a Roald Dahl story or a J.K. Rowling novel, like <em>Harry Potter</em>, does make the stories clearer and more enjoyable.",
+          "However, some people think that watching movies [Q34] less rewarding than reading. Reading aids in enhancing vocabulary, spelling and writing skills, aspects [Q35] may be lost when we only watch the movies.",
+          "Moreover, books can be revisited many times for a deeper understanding, [Q36] movies that present only the director’s viewpoint. As a result, we [Q37] not notice important details, causing us to miss the book’s deeper meanings. [Q38], both books and movies offer unique benefits, making stories enjoyable in different ways.",
+          "Clearly, whether through reading or watching, stories continue to captivate and enrich our lives."
+        ],
+        "zh": [
+          "你是否想过，根据书本改编的电影如何让我们看见人物和场景的模样？ 电影中的特效使动作场面刺激而逼真；根据书本改编的电影有助于理解故事，尤其在书本难读时。 在学校，电影可用于帮助学生更好地理解书本，并培养对阅读更大的热爱。 此外，观看根据罗尔德·达尔或 J.K. 罗琳（如《哈利·波特》）小说改编的电影，确实能使故事更清晰、更有趣。",
+          "然而，有人认为看电影不如阅读有收获。 阅读有助于提高词汇、拼写和写作能力，而这些方面若只看电影可能会流失。",
+          "此外，书本可以反复阅读以加深理解，而电影往往只呈现导演的视角。 因此，我们可能注意不到重要细节，从而错过书本更深层的含义。 尽管如此，书本和电影各有独特益处，以不同方式让故事令人享受。",
+          "显然，无论通过阅读还是观看，故事持续吸引并丰富我们的生活。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "原因 — since",
+          "note": "since special effects in movies make = 结合句意选 since。",
+          "answer": "L — since"
+        },
+        "30": {
+          "concept": "介词 — on",
+          "note": "看前后搭配，选 on。",
+          "answer": "K — on"
+        },
+        "31": {
+          "concept": "conditional",
+          "note": "结合句意选 if。",
+          "answer": "E — if"
+        },
+        "32": {
+          "concept": "介词 — for",
+          "note": "and foster a greater love for reading. = 看前后搭配，选 for。",
+          "answer": "C — for"
+        },
+        "33": {
+          "concept": "介词 — from",
+          "note": "more, watching a movie adapted from a Roald Dahl story or = 看前后搭配，选 from。",
+          "answer": "D — from"
+        },
+        "34": {
+          "concept": "主谓 — 时态/一致",
+          "note": "people think that watching movies is less rewarding than reading. = 主谓一致 → is。",
+          "answer": "F — is"
+        },
+        "35": {
+          "concept": "关系/连接词 — which",
+          "note": "spelling and writing skills, aspects which may be lost when we = 定语/名词性从句 → which。",
+          "answer": "Q — which"
+        },
+        "36": {
+          "concept": "转折",
+          "note": "times for a deeper understanding, unlike movies that present only the = 结合句意选 unlike。",
+          "answer": "N — unlike"
+        },
+        "37": {
+          "concept": "情态 — might",
+          "note": "As a result, we might not notice important details, causing = 情态动词 might。",
+          "answer": "G — might"
+        },
+        "38": {
+          "concept": "副词",
+          "note": "nevertheless , both books and movies = 结合句意选 nevertheless。",
+          "answer": "H — nevertheless"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "What defines a true hero? [Q39(in)] a recent news report, one lady showed exactly what it means to be one. The incident [Q40(occur)] on a busy road in the [Q41(vincineti)] of a local neighbourhood. Susan Tan, a resident of Springfield, [Q42(demostretid)] remarkable kindness and compassion when she attended [Q43(with)] an elderly man in need.",
+          "As Susan made her way home, she [Q44(catch)] sight of the elderly man struggling to [Q45(ritreive)] a fallen bag of groceries amidst the [Q46(inccesent)] traffic. [Q47(Instinktivli)] , Susan rushed to the man’s aid by [Q48(pick)] up the bag and guiding him safely across the street. This [Q49(humaine)] act was captured on camera by a passer-by and later shared on social media platforms, [Q50(which)] it garnered thousands of likes and shares. Netizens sang praises of her heroic actions.",
+          "Indeed, Susan’s actions remind us of the impact small acts of kindness can have on our community. So, let us all strive to continue being kind."
+        ],
+        "zh": [
+          "什么才算真正的英雄？在最近一则新闻报道中，一位女士用行动诠释了英雄的含义。事件发生在当地社区一条繁忙道路附近。斯普林菲尔德居民陈苏珊在帮助一位需要帮助的长者时，展现了非凡的善良与关怀。",
+          "回家途中，她看见一位老人在不息的车流中挣扎着去拾起掉落的一袋杂货。她本能地冲上前，把袋子捡起，并引导他安全过马路。这一人道之举被路人拍下并分享到社交媒体，随后获得了数千点赞与转发。网民称赞她的英雄行为。",
+          "的确，陈苏珊的善举提醒我们，小小的善意也能对社区产生深远影响。让我们都努力继续行善。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Capital letter",
+          "note": "<p>Capital letter.</p>",
+          "answer": "In"
+        },
+        "40": {
+          "concept": "Past tense",
+          "note": "<p>Past tense.</p>",
+          "answer": "occurred"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<p>Spelling.</p>",
+          "answer": "vicinity"
+        },
+        "42": {
+          "concept": "Spelling",
+          "note": "<p>Spelling.</p>",
+          "answer": "demonstrated"
+        },
+        "43": {
+          "concept": "attend to",
+          "note": "<p>attend to.</p>",
+          "answer": "to"
+        },
+        "44": {
+          "concept": "Past tense",
+          "note": "<p>Past tense.</p>",
+          "answer": "caught"
+        },
+        "45": {
+          "concept": "Spelling",
+          "note": "<p>Spelling.</p>",
+          "answer": "retrieve"
+        },
+        "46": {
+          "concept": "Spelling",
+          "note": "<p>Spelling.</p>",
+          "answer": "incessant"
+        },
+        "47": {
+          "concept": "Spelling",
+          "note": "<p>Spelling.</p>",
+          "answer": "Instinctively"
+        },
+        "48": {
+          "concept": "Parallel structure",
+          "note": "<p>Parallel structure.</p>",
+          "answer": "picking"
+        },
+        "49": {
+          "concept": "Spelling",
+          "note": "<p>Spelling.</p>",
+          "answer": "humane"
+        },
+        "50": {
+          "concept": "Join clauses / agreement",
+          "note": "<p>Join clauses / agreement.</p>",
+          "answer": "and"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "My parents bought me a mobile phone when I turned twelve. From the very first day, I was inseparable from my phone, constantly sending text messages to my friends. Initially, my parents were [Q51] the idea of me having a phone. I managed to [Q52] them eventually, telling them that getting the phone for me meant that they could stay [Q53] with me at all times and keep tabs on my whereabouts.",
+          "As time went by, I became increasingly [Q54] on my phone. It seemed like it was always within arm’s reach. Its screen would light up with notifications and tempt me to check them constantly. I would often choose to stay home after school just to text my friends and browse the internet, rather [Q55] focusing on my studies. It became a constant struggle to tear myself away from the digital world and concentrate on the tasks at hand. [Q56] my efforts to strike a balance, I found myself slipping further into digital addiction. Consequently, my grades suffered, and my friendships were affected.",
+          "In the end, my parents decided to intervene and put an [Q57] to it. I was deprived of the [Q58] of having the phone for a few months. I [Q59] into tears and argued for a second chance but my father, [Q60] a stubborn man, would not budge.",
+          "During those months, I felt lost and disconnected. [Q61], as the days passed, I adjusted to life [Q62] any digital distractions and began to rediscover the joys of the offline world. I spent more time engaging in face-to-face interactions, spending quality time with friends and family and pursuing hobbies that I had neglected in favour of my digital addiction.",
+          "When I finally got my phone back, I made a conscious effort to be more mindful of my usage. I set boundaries for myself, [Q63] that my studies and personal life did not suffer because of [Q64] screen time.",
+          "Since then, I realised that there was more to life than being glued to a screen. I was grateful for the tough love that my parents showed me. Their [Q65] to confiscate my phone taught me valuable lessons about self-discipline, moderation and the importance of living in the moment. It was indeed a wake-up call that I sorely needed."
+        ],
+        "zh": [
+          "父母在我十二岁时给我买了手机，从此机不离手，不断给朋友发短信。起初父母反对我有手机，我最终说服他们：给我手机意味着他们可随时与我保持联系、掌握行踪。",
+          "随着时间推移，我越来越依赖手机，它似乎总在触手可及之处；屏幕通知不断诱惑我查看。我常放学回家只为聊天上网，而不是专注学业，虽努力平衡仍越陷越深，成绩与友谊都受影响。",
+          "最终父母介入并叫停：我被剥夺使用手机数月，哭求再给机会，但固执的父亲不为所动。",
+          "那几个月我感到失落与隔绝；然而日子一天天过去，我逐渐适应没有数码干扰的生活，重新发现线下世界的乐趣，花更多时间与亲友面对面相处，重拾因沉迷而忽略的爱好。",
+          "拿回手机后，我有意识地节制使用，为自己设限，确保学业与生活不会因过度刷屏而受损。",
+          "此后我明白生活不止于盯着屏幕，感激父母的严爱；没收手机的决定教会我自律、适度与活在当下，这是我亟需的警醒。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "介词语义搭配",
+          "note": "结合后文“我最终成功说服了他们”，说明父母起初对作者拥有手机的提议是持“反对”态度的，构成 be against the idea of something 结构。",
+          "answer": "against"
+        },
+        "52": {
+          "concept": "动词与宾语搭配",
+          "note": "不定式符号 to 后接动词原形。指作者最终成功地“说服”或“打动”了原本持反对意见的父母（persuade / convince / manage）。",
+          "answer": "persuade/convince"
+        },
+        "53": {
+          "concept": "固定习惯搭配",
+          "note": "用来连接前面的动词 stay。这里完美契合高频地道短语 stay in touch with 或者是 stay connected with，意思是指父母可以随时与作者“保持联系”。",
+          "answer": "in touch/connected"
+        },
+        "54": {
+          "concept": "形容词与介词固定搭配",
+          "note": "后接介词 on。构成在各类考试中极其高频考查的经典形容词短语 be/become dependent on 或 reliant on，表示作者对手机变得越来越“依赖”。",
+          "answer": "dependent/reliant"
+        },
+        "55": {
+          "concept": "并列对比结构句型",
+          "note": "与前文的 rather 完美组合，构成固定关联词短语 rather than，后面接动名词 focusing，表示“宁愿……而不愿把精力集中在学业上”。",
+          "answer": "than"
+        },
+        "56": {
+          "concept": "让步复合介词",
+          "note": "后接名词短语 my efforts to strike a balance（我努力寻找平衡的付出）。此处不能用连词 although，必须使用让步介词 Despite 或 In spite of 表示“尽管”。位于句首需大写。",
+          "answer": "Despite"
+        },
+        "57": {
+          "concept": "固定习惯搭配",
+          "note": "与前面的动词 put 及介词 to 完美组合，构成极高频常考的经典习语 put an end to something，意思是父母决定介入并“结束”或“制止”这一沉迷状态。",
+          "answer": "end"
+        },
+        "58": {
+          "concept": "名词语意辨析",
+          "note": "构成修饰结构 deprived of the... of having the phone。指作者被剥夺了拥有手机这一“特权”、“权利”或“快乐”（privilege / right / joy / pleasure）。",
+          "answer": "privilege/right/joy/pleasure"
+        },
+        "59": {
+          "concept": "一般过去时短语动词",
+          "note": "由于整段在回忆过去发生的事，谓语动词需采用一般过去时。与后面的 into tears 完美组合，构成情感爆发的经典短语 burst into tears（放声大哭/眼泪夺眶而出）。",
+          "answer": "burst"
+        },
+        "60": {
+          "concept": "现在分词短语充当伴随状语",
+          "note": "作为插入语（my father, being a stubborn man, would not budge）。此处使用现在分词 being 引导分词短语，用以解释说明父亲不肯妥协的性格特征。",
+          "answer": "being"
+        },
+        "61": {
+          "concept": "篇章转折/时间过渡副词",
+          "note": "用作句首的过渡连词，后有逗号隔开。前文写没有手机很失落，后文写渐渐适应，此处可填入表转折的 However / Nevertheless（然而）或者表时间推移的 Gradually / Eventually / Slowly（渐渐地）。位于句首需大写。",
+          "answer": "Gradually/However/Eventually/Slowly/Nevertheless"
+        },
+        "62": {
+          "concept": "介词引导条件/状态状语",
+          "note": "指作者开始逐步适应了“没有任何数码干扰（without any digital distractions）”的生活状态，使用介词 without 来引出这一条件。",
+          "answer": "without"
+        },
+        "63": {
+          "concept": "现在分词短语充当伴随状语",
+          "note": "前半句句子结构完整（I set boundaries for myself），后面用现在分词短语充当伴随目的或结果状语。指作者给自己设定界限，从而“确保”或“保证（ensuring / making sure）”学业不受影响。",
+          "answer": "ensuring"
+        },
+        "64": {
+          "concept": "形容词修饰搭配",
+          "note": "修饰不可数名词 screen time。用来形容因手机瘾导致的“过度的”、“过多的”或“不健康的”屏幕时间（excessive / excessive / too much）。",
+          "answer": "excessive/unhealthy/too much"
+        },
+        "65": {
+          "concept": "名词语境承接",
+          "note": "修饰名词主语。指代前文提到的父母采取强硬手段没收手机的那一“决定”、“行为”或“做法”（decision / action / move / choice）。",
+          "answer": "decision/action/move/choice"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Thomas is the most talented chef in the restaurant.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No chef is more __________"
+        },
+        "67": {
+          "stem_plain": "Alan drank the entire bottle of water. He felt refreshed.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ having __________"
+        },
+        "68": {
+          "stem_plain": "The boy persevered and managed to complete the difficult puzzle.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Through __________"
+        },
+        "69": {
+          "stem_plain": "The students are responsible for keeping the class clean.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Keeping __________"
+        },
+        "70": {
+          "stem_plain": "Grandma asked, \"Sally, do you have any chores today?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Grandma asked Sally __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "句型转换 — Transformation",
+          "zh": "在这家餐馆里，没有厨师比托马斯更有才华。",
+          "note": "比较级改写：<em>the most talented</em> → <em>No chef is more talented than Thomas</em>；保留 <em>in the restaurant</em>。",
+          "answer": "No chef is more talented than Thomas in the restaurant."
+        },
+        "67": {
+          "concept": "句型转换 — Transformation",
+          "zh": "艾伦喝完整瓶水后感到精神焕发。",
+          "note": "分词短语：<em>after having drunk …</em> 表喝完水后；结果 <em>felt refreshed</em> 作主句。",
+          "answer": "Alan felt refreshed after having drunk the entire bottle of water."
+        },
+        "68": {
+          "concept": "句型转换 — Transformation",
+          "zh": "通过坚持，那个男孩设法完成了这道难题。",
+          "note": "介词短语：<em>persevered</em> → <em>Through perseverance</em> 引导；后接 <em>managed to complete …</em>。",
+          "answer": "Through perseverance, the boy managed to complete the difficult puzzle."
+        },
+        "69": {
+          "concept": "句型转换 — Transformation",
+          "zh": "保持教室整洁是学生的责任。",
+          "note": "动名词主语：<em>Keeping the class clean</em> 作主语；表语 <em>is the students' responsibility</em>。",
+          "answer": "Keeping the class clean is the students’ responsibility."
+        },
+        "70": {
+          "concept": "句型转换 — Transformation",
+          "zh": "奶奶问萨莉那天是否有家务要做。",
+          "note": "间接引语：<em>Do you have …?</em> → <em>if she had any chores that day</em>；<em>today → that day</em>。",
+          "answer": "Grandma asked Sally if she had any chores that day."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Based on lines 1–7, what two actions of the writer supported his given nickname “Timid Tim”?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q71a]."
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q71b]."
+            }
+          ]
+        },
+        "72": {
+          "stem_plain": "From the first paragraph, pick out a three-word phrase that tells us that Ronnie would stop at nothing to bully others.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on lines 9–15, what are the two pieces of evidence that showed Ronnie was taking advantage of the writer’s fear of public speaking in the classroom?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "How did the writer react when he faced the audience (line 13)?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q74a]."
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q74b]."
+            }
+          ]
+        },
+        "75": {
+          "stem_plain": "Why did the writer grit his teeth (line 15)?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Study the table below and answer all parts.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "How the writer felt",
+              "rows": [
+                "**determined**",
+                "[Q76b]"
+              ]
+            },
+            "col_2": {
+              "header": "How the writer showed his feeling",
+              "rows": [
+                "[Q76a]",
+                "**He hid his face behind his hands.**"
+              ]
+            },
+            "col_3": {
+              "header": "Why the writer reacted that way",
+              "rows": [
+                "**He wanted to get back his wallet from Ronnie.**",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **something** (line 19)",
+                "(b) **do so** (line 21)",
+                "(c) **This discovery** (line 30)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]",
+                "[Q77c]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Based on lines 33–46, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Ronnie gave his diary to the writer.",
+                "b) The writer was curious about what was in Ronnie’s diary.",
+                "c) The group members were the first ones to help Ronnie when he was in pain."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]",
+                "[Q78e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q78b]",
+                "[Q78d]",
+                "[Q78f]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "How did Ronnie begin to make amends for his past actions towards the writer?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Explain clearly why Ronnie patted the writer’s shoulder (lines 44–46).",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — *Friendship beyond fear*",
+        "lines": {
+          "1": "I sat in a quiet corner under the staircase to read, escaping the taunts of Ronnie",
+          "2": "and his gang. The tranquility was shattered by Ronnie, the ringleader whose bullying knew",
+          "3": "no bounds.",
+          "4": "\"Look at Timid Tim, hiding in the shadows again?\" Ronnie sneered.",
+          "5": "Upon hearing Ronnie's voice, I attempted to press myself against the wall, as if",
+          "6": "trying to make myself smaller. Barely whispering, I replied, \"I... I don't want any trouble.\"",
+          "7": "Laughter erupted around me. I longed to defend myself but was overwhelmed by fear.",
+          "8": "The bullying escalated beyond verbal taunts. Ronnie seized every chance to",
+          "9": "humiliate me. He often took advantage of my fear of public speaking, putting me in",
+          "10": "situations where my fear would be evident for all to see. Once, when the teacher asked for",
+          "11": "volunteers for a presentation, Ronnie slyly suggested that I go first. \"You're too scared to",
+          "12": "speak up?\" he said mockingly. It was time to face the audience. My palms grew clammy.",
+          "13": "In addition, my throat became constricted. This made it difficult for me to speak coherently.",
+          "14": "Once I concluded my presentation, I gritted my teeth.",
+          "15": "On another occasion, Ronnie decided to play a nasty prank on me. While I was",
+          "16": "frantically searching for my wallet in the classroom, Ronnie and his gang revealed",
+          "17": "themselves as the culprits, sneering at my distress. \"Looking for something, Timid Tim?\"",
+          "18": "Ronnie taunted, holding the wallet out of reach. Before I could react, Ronnie dashed away,",
+          "19": "turning it into a chaotic chase. In spite of my attempts to snatch the wallet from his grip, I",
+          "20": "did not manage to do so. Eventually, Ronnie dropped the wallet with a thud and walked",
+          "21": "away, laughing at my predicament. With a deep sigh, I hid my face behind my hands in",
+          "22": "case my classmates see me in this plight.",
+          "23": "During a school camp, our relationship took a significant turn. While wandering",
+          "24": "around the campsite, I stumbled upon a diary lying on the ground. Picking it up, I realised",
+          "25": "it belonged to Ronnie upon examining its cover. Eagerly, I began flipping through its pages.",
+          "26": "As I read, I was struck by his entries. I came to learn of Ronnie's challenges at home and",
+          "27": "his pressure to do well in school. This discovery completely changed my perception of",
+          "28": "him. He was not as bad as I had thought.",
+          "29": "One afternoon, while on a hike, disaster struck when Ronnie stumbled and twisted",
+          "30": "his ankle on a hidden root. As Ronnie winced in pain, the group gathered around, unsure",
+          "31": "of what to do. Despite trailing behind, I immediately rushed forward to help Ronnie. \"Are",
+          "32": "you okay, Ronnie?\" I asked, examining the injured ankle. Ronnie, taken aback by my",
+          "33": "kindness, nodded hesitantly.",
+          "34": "\"I think so, but I can't put any weight on it,\" he admitted. I offered Ronnie a shoulder",
+          "35": "to lean on, helping him to his feet as the group watched in astonishment. Together, we",
+          "36": "made our way back to the campsite, supporting Ronnie every step. At the campsite, Ronnie",
+          "37": "turned to me. \"Thanks, Tim. I... I didn't expect you to help me. I've been mean to you,\" he",
+          "38": "uttered.",
+          "39": "I nodded, smiling. \"It's no big deal, Ronnie. We're classmates after all.\"",
+          "40": "Ronnie, upon hearing what I had said, stopped short. He reached out and patted",
+          "41": "my shoulder. Puzzled at this sudden turn of events, I managed a smile. Ronnie was",
+          "42": "ashamed it had taken him such a long time to realise the impact of his actions.",
+          "43": "From then on, Ronnie began making amends by standing up for me whenever",
+          "44": "others tried to belittle me. Meanwhile, I regained my confidence, feeling more at ease in",
+          "45": "class and social activities. As my self-esteem grew, so did our friendship."
+        },
+        "paragraphs": {
+          "1": "我坐在楼梯下的一个安静角落读书，以此躲避罗尼及其帮派的嘲讽。然而，罗尼打破了这份宁静，他是那个欺凌手段层出不穷的头目。",
+          "4": "“看啊，‘胆小鬼蒂姆’，又躲在阴影里了？”罗尼冷笑着说。",
+          "5": "听到罗尼的声音，我试图紧贴墙壁，仿佛想让自己缩得更小。我几乎是用耳语回答道：“我……我不想找麻烦。”周围爆发出一阵笑声。我渴望为自己辩护，却被恐惧压得喘不过气来。",
+          "8": "欺凌行为从口头嘲讽升级了。罗尼抓住每一个羞辱我的机会。他经常利用我害怕当众演讲的弱点，把我推向恐惧显而易见的境地。有一次，老师征求演讲志愿者，罗尼狡猾地提议让我第一个上。“你太害怕不敢大声说话吗？”他嘲弄地问道。到了面对观众的时候，我的手心变得湿冷。此外，我的喉咙感到紧缩，这使我难以连贯地表达。演讲结束后，我紧紧咬住了牙关。",
+          "15": "另一次，罗尼决定对我玩一个恶毒的恶作剧。当我在教室里焦急地寻找钱包时，罗尼和他的同伙露面承认了他们是罪魁祸首，并对着我的窘态冷笑。“在找东西吗，‘胆小鬼蒂姆’？”罗尼嘲讽道，把钱包举到我够不着的地方。还没等我反应过来，罗尼就冲了出去，演变成了一场混乱的追逐。尽管我努力想从他手中夺回钱包，却未能成功。最终，罗尼砰地一声丢下钱包走开了，嘲笑我的处境。我深深地叹了口气，把脸埋在双手里，唯恐被同学看到我这副落魄的模样。",
+          "23": "在一次学校露营期间，我们的关系发生了重大转折。在营地周围徘徊时，我偶然发现草地上躺着一个日记本。捡起来查看封面后，我意识到那是罗尼的。我迫不及待地翻开日记。阅读时，我被他的记录震撼了。我了解到罗尼在家中面临的挑战以及在学校表现出色的压力。这一发现完全改变了我对他的看法。他并没有我想象中那么坏。",
+          "29": "一个下午，在远足时发生了意外，罗尼被一截隐藏的树根绊倒，扭伤了脚踝。当罗尼疼得龇牙咧嘴时，人群围了上来，不知所措。尽管我落在后面，但我立刻冲上前去帮助罗尼。“你还好吗，罗尼？”我问道，检查着他受伤的脚踝。罗尼对我表现出的善意感到吃惊，迟疑地点了点头。",
+          "34": "“我想还行，但脚没法受力，”他承认道。我主动把肩膀借给罗尼靠着，在众人惊讶的目光中扶他起身。一路上我们相互扶持，一起回到了营地。在营地，罗尼转向我。“谢谢，蒂姆。我……我没指望你会帮我。我以前对你太坏了，”他低声说道。",
+          "39": "我微笑着点头。“没什么大不了的，罗尼。我们毕竟是同学。”",
+          "40": "罗尼听了我的话，突然停住了脚步。他伸出手拍了拍我的肩膀。我对这突如其来的转变感到困惑，勉强挤出了一个微笑。罗尼为自己花了这么长时间才意识到其行为的影响而感到羞愧。",
+          "43": "从那时起，罗尼开始做出弥补，每当别人试图小看我时，他都会挺身而出。与此同时，我重拾了信心，在课堂和社交活动中感到更加自在。随着自尊心的增长，我们的友谊也日益加深。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——哪两个举动说明绰号 “Timid Tim”（胆小鬼）（2 分；(a)(b) 各一行）。</li><li><strong>范围：</strong>行 <strong>1–7</strong>。</li><li><strong>(a) 行 1：</strong>躲在楼梯下安静角落读书，躲避嘲讽。</li><li><strong>(b) 行 5–6：</strong>贴墙缩成一团；对罗尼<strong>几乎耳语</strong>回答 “I don't want any trouble”。</li><li><strong>失分：</strong>写后文钱包/演讲情节；只写“害怕”无具体动作。</li></ol>",
+          "answer": {
+            "71a": "He sat in a quiet corner under the staircase to read, escaping the taunts of Ronnie and his gang.",
+            "71b": "He replied with a whisper when he spoke to Ronnie."
+          }
+        },
+        "72": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句题——抄<strong>三个词</strong>的短语，说明罗尼欺凌<strong>毫无底线</strong>（1 分）。</li><li><strong>范围：</strong>第一段行 <strong>1–3</strong>。</li><li><strong>定位（行 2–3）：</strong><em>whose bullying knew no bounds</em> → <span class=\"hl-good\">knew no bounds</span>。</li><li><strong>失分：</strong>抄整句；抄 “Timid Tim” 等无关短语。</li></ol>",
+          "answer": [
+            "Knew no bounds"
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>题型：</strong>证据简答题——罗尼如何利用“我”怕当众演讲（2 分；两点证据）。</li><li><strong>范围：</strong>行 <strong>9–14</strong>。</li><li><strong>证据一（行 11）：</strong>老师征志愿者时，罗尼<strong>提议让我第一个</strong>上台。</li><li><strong>证据二（行 11–12）：</strong>嘲笑 <em>You're too scared to speak up?</em>，当众揭穿恐惧。</li><li><strong>失分：</strong>只写手心出汗（属 Q74）；写钱包恶作剧。</li></ol>",
+          "answer": [
+            "Ronnie suggested that the writer go first when the teacher asks for volunteers for a presentation",
+            "mocked that he was too scared to speak up."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "过程描述题",
+          "note": "<ol><li><strong>题型：</strong>过程描述题——面对观众时“我”的<strong>身体反应</strong>（2 分；(a)(b) 各一行）。</li><li><strong>范围：</strong>行 <strong>12–13</strong>（<em>face the audience</em> 之后）。</li><li><strong>(a) 行 12：</strong><em>My palms grew clammy</em> — 手心湿冷。</li><li><strong>(b) 行 13：</strong><em>my throat became constricted</em> — 喉咙发紧，难以连贯说话。</li><li><strong>失分：</strong>写咬牙（行 14 之后）；写心理“害怕”而无生理描写。</li></ol>",
+          "answer": {
+            "74a": "His palms grew clammy.",
+            "74b": "The writers throat became constricted."
+          }
+        },
+        "75": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——演讲结束后为何 <em>gritted his teeth</em>（1 分）。</li><li><strong>范围：</strong>行 <strong>11–14</strong>（被迫第一个演讲之后）。</li><li><strong>推断：</strong>罗尼故意让他第一个出丑；演讲结束仍<strong>愤懑/恼怒</strong>（咬牙）。</li><li><strong>收束：</strong>因罗尼怂恿他第一个上台而生气。</li><li><strong>失分：</strong>只写“紧张”；写钱包追逐。</li></ol>",
+          "answer": [
+            "He was angry that Ronnie suggested for him to go first."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>题型：</strong>表格简答题——填 (a)(b)(c) 三格（4 分；行优先从左到右）。</li><li><strong>上行（追钱包）：</strong>已给 <em>determined</em>、要回钱包；(b) 行 18–19 <em>dashed away … chase</em> → <span class=\"hl-good\">He ran after Ronnie.</span></li><li><strong>下行（出丑后）：</strong>已给捂脸；(a) 感到 <span class=\"hl-good\">embarrassed</span>；(c) 行 21–22 不愿同学看见 <em>this plight</em>。</li><li><strong>书写：</strong>与 <code>table.*.fill</code> 空白格顺序一致。</li><li><strong>失分：</strong>把追钱包与捂脸两行填反。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "He ran after Ronnie.",
+            "76b": "Embarrassed",
+            "76c": "He did not want his classmates to see him in that plight."
+          }
+        },
+        "77": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左列词/短语在文中的<strong>具体所指</strong>（3 分；自上而下三格）。</li><li><strong>(a) something（行 17）：</strong>罗尼举着钱包嘲讽 → <span class=\"hl-good\">the writer's wallet</span>。</li><li><strong>(b) do so（行 20）：</strong>回指 <em>snatch the wallet from his grip</em> → <span class=\"hl-good\">snatch his wallet back from Ronnie</span>。</li><li><strong>(c) This discovery（行 27）：</strong>读完日记得知罗尼在家与学业压力 → 对罗尼看法改变。</li><li><strong>失分：</strong>只抄代词；<em>do so</em> 误指“丢钱包”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "The writer's wallet",
+            "77b": "Snatch his wallet back from Ronnie",
+            "77c": "Learning about Ronnie's struggle at home and the pressure to do well in school"
+          }
+        },
+        "78": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——每行先 T/F 再<strong>一句</strong>理由（3 分；三行）。</li><li><strong>(a) False：</strong>行 24 <em>stumbled upon a diary lying on the ground</em> — 并非罗尼主动给他。</li><li><strong>(b) True：</strong>行 25 <em>Eagerly, I began flipping through its pages</em> — 好奇翻阅。</li><li><strong>(c) False：</strong>行 30–31 众人不知所措，<strong>“我”先冲上前</strong>帮忙。</li><li><strong>书写：</strong>理由勿夹 a)b)c) 标号；与 <code>table.*.fill</code> 一致。</li><li><strong>失分：</strong>T/F 与理由矛盾。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "False",
+            "78b": "The writer stumbled upon a diary lying on the floor",
+            "78c": "True",
+            "78d": "Eagerly, the writer began flipping through the diary's pages.",
+            "78e": "False",
+            "78f": "The group gathered around, unsure of what to do while the writer rushed forward to help Ronnie."
+          }
+        },
+        "79": {
+          "concept": "过程描述题",
+          "note": "<ol><li><strong>题型：</strong>过程描述题——罗尼如何开始弥补（1 分；完整句）。</li><li><strong>范围：</strong>行 <strong>43–44</strong>。</li><li><strong>证据：</strong><em>began making amends by standing up for me whenever others tried to belittle me</em>。</li><li><strong>收束：</strong>别人再欺负“我”时，罗尼站出来维护。</li><li><strong>失分：</strong>只写露营帮忙（更早的转折）；写“我”原谅他而无具体行动。</li></ol>",
+          "answer": [
+            "Ronnie stood up for the writer whenever others tried to belittle him."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——为何拍“我”肩膀（行 40–42）（2 分）。</li><li><strong>范围：</strong>“我”说只是同学应互相帮助（行 39）之后。</li><li><strong>推断：</strong>被善意打动；惭愧自己长期欺凌；用拍肩表示认可与歉意。</li><li><strong>收束：</strong>尽管曾很刻薄，仍被“我”的善意感动。</li><li><strong>失分：</strong>只写“高兴”未点愧疚；写 hiking 受伤场景。</li></ol>",
+          "answer": [
+            "He was touched by the writer’s kindness despite how mean he was to him."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

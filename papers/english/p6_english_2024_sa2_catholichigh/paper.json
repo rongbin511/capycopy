@@ -1,0 +1,1580 @@
+{
+  "paperid": "p6_english_2024_sa2_catholichigh",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The award was given to Sunil ___________ the committee recognised as an outstanding leader in the community.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "2": {
+          "stem_plain": "\"You've met her before, ___________ you? She was the guest speaker at the conference last year,\" asked Mr Tan.",
+          "options": {
+            "1": "didn’t",
+            "2": "hasn’t",
+            "3": "doesn’t",
+            "4": "haven’t"
+          }
+        },
+        "3": {
+          "stem_plain": "The lineup of vintage cars, as well as a selection of classic motorcycles, ___________ on display at the auto show last weekend.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "The teacher saw her pupils ___________ and innovate until they developed an effective solution to the issue.",
+          "options": {
+            "1": "collaborate",
+            "2": "collaborates",
+            "3": "collaborated",
+            "4": "collaborating"
+          }
+        },
+        "5": {
+          "stem_plain": "___________ the bustling city, a street musician played a soulful melody on his guitar.",
+          "options": {
+            "1": "Amid",
+            "2": "Over",
+            "3": "Among",
+            "4": "Besides"
+          }
+        },
+        "6": {
+          "stem_plain": "The playful kitten, despite its curious nature, has ___________ interest in the new toy.",
+          "options": {
+            "1": "any",
+            "2": "few",
+            "3": "little",
+            "4": "much"
+          }
+        },
+        "7": {
+          "stem_plain": "Neither of the siblings ___________ the enrichment lesson every Monday.",
+          "options": {
+            "1": "are attending",
+            "2": "has attended",
+            "3": "attends",
+            "4": "attend"
+          }
+        },
+        "8": {
+          "stem_plain": "He was in need ___________ a warm jacket as the temperature dropped at night.",
+          "options": {
+            "1": "in",
+            "2": "of",
+            "3": "for",
+            "4": "with"
+          }
+        },
+        "9": {
+          "stem_plain": "Weiling is one of the numerous students who ___________ up for the Science Fair every year.",
+          "options": {
+            "1": "sign",
+            "2": "signs",
+            "3": "was signing",
+            "4": "were signing"
+          }
+        },
+        "10": {
+          "stem_plain": "Having ___________ the school song, the pupils made their way back to the classrooms.",
+          "options": {
+            "1": "sing",
+            "2": "sang",
+            "3": "sung",
+            "4": "had sung"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "关系词 — Relative pronoun — object (person)",
+          "zh": "奖项颁给了被委员会认定为社区杰出领袖的苏尼尔。",
+          "note": "定语从句 (Relative clause) 中，<em>recognised</em> 缺宾语且指人，正式书面语用 whom；who 作主语，which 指物，whose 表所属。",
+          "answer": "3"
+        },
+        "2": {
+          "concept": "反意疑问句 — Question tag — present perfect (You've)",
+          "zh": "“你以前见过她，不是吗？她去年还是会议的主讲嘉宾呢。”谭先生问道。",
+          "note": "附加疑问句 (Question tag)：You've = You have，肯定句用否定标签 haven't；didn't/doesn't 时态不对，hasn't 人称不对。",
+          "answer": "4"
+        },
+        "3": {
+          "concept": "名词 — Subject–verb agreement — singular head noun + past time",
+          "zh": "上周末车展上，那排老爷车以及一批经典摩托车被展出。",
+          "note": "主谓一致：主语核心是单数 lineup；as well as 不改变谓语单复数；last weekend 用过去式 was。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "不定式 — Bare infinitive after sensory verb see",
+          "zh": "老师看见学生们合作并不断创新，直到他们找到有效的解决办法。",
+          "note": "感官动词 see 后接“宾语 + 动词原形”作宾补，表示看见完整动作；与 innovate 并列用 collaborate。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "介词 — Preposition — amid (surrounded by setting)",
+          "zh": "在熙熙攘攘的都市里，一位街头乐手在吉他上奏出深情的旋律。",
+          "note": "介词辨析：amid 表“身处繁忙环境之中”；among 多接可数复数成员；over 表上方；besides 表“除……之外还有”。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "量词 — Quantifier with uncountable noun (interest)",
+          "zh": "这只好动的小猫尽管好奇，却对新玩具没什么兴趣。",
+          "note": "interest 不可数，用 little 表“几乎没有”；few 修饰可数复数；much 表“很多”，与 despite 的转折语气不符。",
+          "answer": "3"
+        },
+        "7": {
+          "concept": "主谓一致 — Neither of + plural NP + singular verb",
+          "zh": "两个兄弟姐妹每周一都不上那门拓展课。",
+          "note": "Neither of + 复数名词仍视为单数主语，谓语用单数一般现在时 attends；are attending/attend 均错；has attended 非习惯用法所需。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "固定搭配 — Fixed collocation — in need of",
+          "zh": "夜里气温下降，他需要一件保暖外套。",
+          "note": "固定搭配 in need of；不可换成 in/for/with 接名词的标准结构。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "关系词 — Relative clause verb — who = students (plural)",
+          "zh": "慧玲是众多每年报名参加科学展的学生之一。",
+          "note": "定语从句：who 的先行词是 students（复数），谓语用 sign；signs 误作单数；进行时不符每年一次的常态。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "分词 — Perfect participle — Having + past participle",
+          "zh": "唱完校歌后，学生们走回教室。",
+          "note": "分词结构：Having 后接过去分词 sung，表示先于主句动作完成；sang 为过去式，sing 为原形，均不配 Having。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The baby cried ___________ throughout the night, keeping everyone awake.",
+          "options": {
+            "1": "permanently",
+            "2": "incessantly",
+            "3": "eventually",
+            "4": "suddenly"
+          }
+        },
+        "12": {
+          "stem_plain": "Every year, Mrs Ong’s organic vegetable garden ___________ a bountiful crop. She makes a lot of money from the sale of the vegetables.",
+          "options": {
+            "1": "reaps",
+            "2": "yields",
+            "3": "obtains",
+            "4": "achieves"
+          }
+        },
+        "13": {
+          "stem_plain": "The marathon training programme requires ___________ daily workouts to prepare the runners for the race.",
+          "options": {
+            "1": "severe",
+            "2": "rigorous",
+            "3": "stringent",
+            "4": "exhaustive"
+          }
+        },
+        "14": {
+          "stem_plain": "The flowers in the garden ___________ a sweet fragrance, attracting many bees and butterflies.",
+          "options": {
+            "1": "give in",
+            "2": "give up",
+            "3": "give off",
+            "4": "give away"
+          }
+        },
+        "15": {
+          "stem_plain": "After weeks of hard work, the students were eager to ___________ in their success at the end-of-year party.",
+          "options": {
+            "1": "frolic",
+            "2": "revel",
+            "3": "savour",
+            "4": "celebrate"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "婴儿整夜哭个不停，大家都睡不着。",
+          "note": "选（2）incessantly：与“整夜不停”最贴合。permanently 偏“永久状态”；eventually 表结果；suddenly 表一次性突发。",
+          "concept": "词汇辨析 — incessantly（不停地；持续不断地）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "permanently",
+              "zh": "永久地；长期不变地",
+              "eg": "After the move, they decided to live in Singapore <strong>permanently</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "incessantly",
+              "zh": "不停地；持续不断地",
+              "eg": "The alarm rang <strong>incessantly</strong> until someone switched it off."
+            },
+            {
+              "opt": "3",
+              "word": "eventually",
+              "zh": "最终；终于",
+              "eg": "She was nervous at first but <strong>eventually</strong> enjoyed the camp."
+            },
+            {
+              "opt": "4",
+              "word": "suddenly",
+              "zh": "突然地",
+              "eg": "The lights went out <strong>suddenly</strong> during the storm."
+            }
+          ]
+        },
+        "12": {
+          "zh": "翁太太的有机菜园每年都收成很好，她靠卖菜赚了不少钱。",
+          "note": "选（2）yields：土地/园地“产出”收成。reaps 多指收割动作；obtains 表取得；achieves 搭配目标。",
+          "concept": "词汇辨析 — yields（产出；带来（结果））",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reaps",
+              "zh": "收获（已种出的成果）",
+              "eg": "Farmers <strong>reap</strong> the rice when the grains turn golden."
+            },
+            {
+              "opt": "2",
+              "word": "yields",
+              "zh": "产出；带来（结果）",
+              "eg": "The orchard <strong>yields</strong> thousands of apples each autumn."
+            },
+            {
+              "opt": "3",
+              "word": "obtains",
+              "zh": "获得",
+              "eg": "He <strong>obtains</strong> fresh herbs from the market every Saturday."
+            },
+            {
+              "opt": "4",
+              "word": "achieves",
+              "zh": "实现；取得（目标等）",
+              "eg": "The team <strong>achieved</strong> its fundraising target within a week."
+            }
+          ]
+        },
+        "13": {
+          "zh": "马拉松训练计划要求高强度的每日训练，以帮助跑者备战比赛。",
+          "note": "选（2）rigorous：形容训练“严格而高强度”。severe 偏严酷；stringent 多修饰规则；exhaustive 偏“详尽/耗尽”。",
+          "concept": "词汇辨析 — rigorous（严格的；高强度的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "severe",
+              "zh": "严厉的；严峻的",
+              "eg": "The doctor warned of <strong>severe</strong> weather over the weekend."
+            },
+            {
+              "opt": "2",
+              "word": "rigorous",
+              "zh": "严格的；高强度的",
+              "eg": "Runners follow a <strong>rigorous</strong> schedule of speed drills and long runs."
+            },
+            {
+              "opt": "3",
+              "word": "stringent",
+              "zh": "（规定等）严格的",
+              "eg": "The lab follows <strong>stringent</strong> safety procedures."
+            },
+            {
+              "opt": "4",
+              "word": "exhaustive",
+              "zh": "详尽的；使人筋疲力尽的",
+              "eg": "She gave an <strong>exhaustive</strong> list of every item packed for camp."
+            }
+          ]
+        },
+        "14": {
+          "zh": "花园里的花散发出甜甜的香味，吸引了许多蜜蜂和蝴蝶。",
+          "note": "选（3）give off：表散发气味。give in/up/away 均与“香味”无关。",
+          "concept": "词汇辨析 — give off（散发（气味、光、热等））",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "give in",
+              "zh": "屈服；让步",
+              "eg": "After hours of negotiation, he refused to <strong>give in</strong> to pressure."
+            },
+            {
+              "opt": "2",
+              "word": "give up",
+              "zh": "放弃",
+              "eg": "Never <strong>give up</strong> on your dreams, even when progress is slow."
+            },
+            {
+              "opt": "3",
+              "word": "give off",
+              "zh": "散发（气味、光、热等）",
+              "eg": "The jasmine bushes <strong>give off</strong> a strong scent at night."
+            },
+            {
+              "opt": "4",
+              "word": "give away",
+              "zh": "赠送；泄露（秘密）",
+              "eg": "Please do not <strong>give away</strong> the ending before others watch the film."
+            }
+          ]
+        },
+        "15": {
+          "zh": "经过数周努力，学生们迫不及待地在年终派对上尽情陶醉于自己的成功。",
+          "note": "选（2）revel in：固定搭配，表“尽情享受”。frolic 偏嬉闹；savour 偏慢慢品味；celebrate 少与 in 搭配此义。",
+          "concept": "词汇辨析 — revel（陶醉；尽情享受（常与 in 连用））",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "frolic",
+              "zh": "嬉戏；欢闹",
+              "eg": "Puppies <strong>frolic</strong> on the grass after their afternoon nap."
+            },
+            {
+              "opt": "2",
+              "word": "revel",
+              "zh": "陶醉；尽情享受（常与 in 连用）",
+              "eg": "The team <strong>revelled in</strong> their hard-earned victory at the banquet."
+            },
+            {
+              "opt": "3",
+              "word": "savour",
+              "zh": "细细品味",
+              "eg": "She likes to <strong>savour</strong> every bite of her grandmother’s cooking."
+            },
+            {
+              "opt": "4",
+              "word": "celebrate",
+              "zh": "庆祝",
+              "eg": "The school will <strong>celebrate</strong> National Day with a concert."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "a household name",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "a new athlete",
+            "2": "an unfamiliar figure",
+            "3": "a well-known figure",
+            "4": "an experienced athlete"
+          }
+        },
+        "17": {
+          "stem_plain": "referred to",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "recorded",
+            "2": "regarded",
+            "3": "imagined",
+            "4": "understood"
+          }
+        },
+        "18": {
+          "stem_plain": "clinched",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "won",
+            "2": "retained",
+            "3": "awarded",
+            "4": "deserved"
+          }
+        },
+        "19": {
+          "stem_plain": "derailed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "crippled",
+            "2": "blocked",
+            "3": "disrupted",
+            "4": "prevented"
+          }
+        },
+        "20": {
+          "stem_plain": "a struggle",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "a fight",
+            "2": "a challenge",
+            "3": "an obstacle",
+            "4": "a disturbance"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Life in the past year has been very exciting for Shanti Pereira. Southeast Asia’s fastest woman, Shanti Pereira, has become [Q16 (a household name)] in Singapore for her outstanding performance after 49 years at last year’s Asian Games.",
+          "The 28-year-old track-and-field athlete, often [Q17 (referred to)] as Singapore’s sprint queen, [Q18 (clinched)] her first gold medal in the women’s 200-metre race and silver in the 100-metre race at the Asian Games. She then set her eyes on the Paris Olympics. However, the journey was not easy.",
+          "Pereira told CNBC that one of the most difficult times of her career was when she suffered a hamstring injury in 2018 that [Q19 (derailed)] her training. As such, she could not progress beyond the Asian Games heats that year. The next few years were [Q20 (a struggle)] for Pereira. However, she remained determined to achieve even greater success in her career."
+        ],
+        "zh": [
+          "过去一年对 Shanti Pereira 来说非常激动人心。作为东南亚最快女选手，Shanti Pereira 在去年亚运会时隔49年后以出色表现成为新加坡家喻户晓的名字。",
+          "这位28岁的田径运动员常被称作新加坡的短跑女王。她在亚运会女子200米夺金、100米夺银，随后把目光投向 Paris Olympics。然而，这条路并不轻松。",
+          "Pereira 告诉 CNBC，职业生涯最艰难的时期之一是2018年腿筋受伤，打乱了她的训练，因此那年未能突破亚运会预赛。接下来几年对 Pereira 是一场挣扎。然而，她仍决心在职业生涯中取得更大成功。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — a household name（一个知名人物）",
+          "note": "应选（3）'a well-known figure'：短文划线的 <em>a household name</em> 在此语境下与此义最接近。'a new athlete'：与题干语境或搭配要求不一致。'an unfamiliar figure'：与题干语境或搭配要求不一致。'an experienced athlete'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "作为东南亚最快女选手，Shanti Pereira 在去年亚运会时隔49年后以出色表现成为新加坡家喻户晓的名字。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "a new athlete",
+              "zh": "一名新运动员",
+              "eg": "The passage phrase <strong>a new athlete</strong> appears in formal exam English."
+            },
+            {
+              "opt": "2",
+              "word": "an unfamiliar figure",
+              "zh": "一个陌生的身影",
+              "eg": "The passage phrase <strong>an unfamiliar figure</strong> appears in formal exam English."
+            },
+            {
+              "opt": "3",
+              "word": "a well-known figure",
+              "zh": "一个知名人物",
+              "eg": "The passage phrase <strong>a well-known figure</strong> appears in formal exam English."
+            },
+            {
+              "opt": "4",
+              "word": "an experienced athlete",
+              "zh": "经验丰富的运动员",
+              "eg": "The passage phrase <strong>an experienced athlete</strong> appears in formal exam English."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — referred to（看待）",
+          "note": "应选（2）'regarded'：短文划线的 <em>referred to</em> 在此语境下与此义最接近。'recorded'：与题干语境或搭配要求不一致。'imagined'：与题干语境或搭配要求不一致。'understood'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这位28岁的田径运动员，常被视为新加坡的短跑女王，在亚运会女子200米夺金、100米夺银。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "recorded",
+              "zh": "记录",
+              "eg": "The coach <strong>recorded</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "regarded",
+              "zh": "看待",
+              "eg": "The coach <strong>regarded</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "imagined",
+              "zh": "想象",
+              "eg": "The coach <strong>imagined</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "understood",
+              "zh": "明白了",
+              "eg": "In class we discussed how <strong>understood</strong> fits everyday English."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — clinched（韩元）",
+          "note": "应选（1）'won'：短文划线的 <em>clinched</em> 在此语境下与此义最接近。'retained'：与题干语境或搭配要求不一致。'awarded'：与题干语境或搭配要求不一致。'deserved'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这位28岁的田径运动员，常被称作新加坡的短跑女王，在亚运会女子200米夺金、100米夺银。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "won",
+              "zh": "韩元",
+              "eg": "The pupils found the word <strong>won</strong> useful in their composition."
+            },
+            {
+              "opt": "2",
+              "word": "retained",
+              "zh": "保持",
+              "eg": "The coach <strong>retained</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "awarded",
+              "zh": "奖",
+              "eg": "The coach <strong>awarded</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "deserved",
+              "zh": "应得的",
+              "eg": "The coach <strong>deserved</strong> the players after the match."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — derailed（扰乱）",
+          "note": "应选（3）'disrupted'：短文划线的 <em>derailed</em> 在此语境下与此义最接近。'crippled'：与题干语境或搭配要求不一致。'blocked'：义为'被堵住；阻塞'，与短文语境或搭配要求不一致。'prevented'：义为'阻止'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "Pereira 告诉 CNBC，职业生涯最艰难的时期之一是2018年腿筋受伤，打乱了她的训练。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "crippled",
+              "zh": "克里普尔",
+              "eg": "The coach <strong>crippled</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "blocked",
+              "zh": "被堵住；阻塞",
+              "eg": "Fallen leaves <strong>blocked</strong> the drain, so rainwater collected on the school field."
+            },
+            {
+              "opt": "3",
+              "word": "disrupted",
+              "zh": "扰乱",
+              "eg": "The coach <strong>disrupted</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "prevented",
+              "zh": "防止",
+              "eg": "The coach <strong>prevented</strong> the players after the match."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — a struggle（一个挑战）",
+          "note": "应选（2）'a challenge'：短文划线的 <em>a struggle</em> 在此语境下与此义最接近。'a fight'：与题干语境或搭配要求不一致。'an obstacle'：与题干语境或搭配要求不一致。'a disturbance'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "接下来几年对 Pereira 来说是一场挑战。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "a fight",
+              "zh": "一场战斗",
+              "eg": "The passage phrase <strong>a fight</strong> appears in formal exam English."
+            },
+            {
+              "opt": "2",
+              "word": "a challenge",
+              "zh": "一个挑战",
+              "eg": "The passage phrase <strong>a challenge</strong> appears in formal exam English."
+            },
+            {
+              "opt": "3",
+              "word": "an obstacle",
+              "zh": "一个障碍",
+              "eg": "The passage phrase <strong>an obstacle</strong> appears in formal exam English."
+            },
+            {
+              "opt": "4",
+              "word": "a disturbance",
+              "zh": "扰乱",
+              "eg": "The passage phrase <strong>a disturbance</strong> appears in formal exam English."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "In the section “Robots, Past and Present”, which word best describes the robots in the past?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "compact",
+            "2": "adaptable",
+            "3": "lightweight",
+            "4": "immovable"
+          }
+        },
+        "22": {
+          "stem_plain": "According to the section “Robots, Past and Present”, which statement is true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Early robots were used in a variety of settings.",
+            "2": "Today’s robots can perform repetitive tasks only.",
+            "3": "Early robots were capable of doing complex tasks.",
+            "4": "Today’s robots can adapt to their environment instantaneously."
+          }
+        },
+        "23": {
+          "stem_plain": "Which of the following features is not highlighted as part of the experience at the new outlet?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "watching live performances of scenes from the movie",
+            "2": "enjoying dishes adapted from the movie",
+            "3": "interacting with the robot waiters",
+            "4": "having the food served promptly"
+          }
+        },
+        "24": {
+          "stem_plain": "Why are exclamation marks used in all the sentences under the section “Special Promotions”?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to excite readers about the website",
+            "2": "to excite readers about the discounts offered",
+            "3": "to excite readers about the immersive dining experience",
+            "4": "to excite readers to make a reservation before 1 December"
+          }
+        },
+        "25": {
+          "stem_plain": "Mindy plans to go for the immersive dining experience again. Which of the following will allow her to enjoy the biggest savings?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "She goes with a group of 6 others.",
+            "2": "She goes with a group of 3 others.",
+            "3": "She makes a reservation after 1 December 2024.",
+            "4": "She makes a reservation before 1 December 2024."
+          }
+        },
+        "26": {
+          "stem_plain": "The website quotes Charlene and Thomas as saying they had an enjoyable time. What were they both most impressed by?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "the curated dishes",
+            "2": "the movie Robochefs",
+            "3": "the robot waiters’ capabilities",
+            "4": "the space-themed decorations"
+          }
+        },
+        "27": {
+          "stem_plain": "If you are going for the immersive dining experience, you should",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "arrive five to ten minutes before your reservation time for a short presentation",
+            "2": "order your food through the robot waiters",
+            "3": "keep your belongings with you at all times",
+            "4": "press the buzzer if a problem arises with the robots"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of the website?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to provide information about robots in the past",
+            "2": "to promote the new immersive dining experience",
+            "3": "to highlight the benefits of having robots in our lives",
+            "4": "to encourage readers to watch the movie Robochefs"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "24": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "28": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "than",
+          "D": "during",
+          "G": "its",
+          "K": "only",
+          "N": "from",
+          "B": "and",
+          "E": "into",
+          "H": "are",
+          "L": "on",
+          "P": "while",
+          "C": "by",
+          "F": "is",
+          "J": "of",
+          "M": "these",
+          "Q": "with"
+        },
+        "cloze": [
+          "Many people enjoy catching sunsets. Not [Q29] are they beautiful to look at but they also provide us with an insight [Q30] the world of light and colours.",
+          "Sunlight is made up of all the colours of light that travel as waves of energy. Different colours of light have different wavelengths.",
+          "The stunning array of colours seen during sunset [Q31] caused by a process called scattering which occurs when sunlight is scattered in all directions. Red light has long wavelengths [Q32] blue light has short wavelengths. Blue light is scattered more than other colours of light because of [Q33] shorter wavelengths.",
+          "During sunset, when the sun is lower in the sky, sunlight passes through more of Earth's atmosphere to reach us. This causes the blue light, [Q34] its shorter wavelengths, to scatter more. As a result, this makes red and yellow more prominent in the sky, creating a breathtaking display of warm colours in the sky during sunset.",
+          "However, the colours we see can be affected [Q35] factors like dust particles in air pollution and haze in the air. [Q36] particles can scatter sunlight differently, sometimes causing the sky to appear greyish or white [Q37] the day and affecting the colours visible during sunset.",
+          "Volcanic eruptions may impact the colours of sunsets as well. When a volcano erupts, it releases large amounts [Q38] dust into the atmosphere. Dust particles scatter sunlight and thus enhance the colours of sunsets for many months even after the eruption, creating more vibrant sunsets around the world."
+        ],
+        "zh": [
+          "许多人喜欢观赏日落。 它们不仅赏心悦目，也让我们得以一窥光与色的世界。",
+          "阳光由各种颜色的光组成，这些光以能量波的形式传播。 不同颜色的光具有不同的波长。",
+          "日落时绚烂的色彩由散射造成：阳光向四面八方散射。 红光的波长较长，蓝光的波长较短。 由于蓝光波长更短，它比其他颜色的光散射得更多。",
+          "日落时太阳位置较低，阳光须穿过更厚的大气层才能到达我们。 这使蓝光因其较短波长而散射得更多。 因此，天空中的红色和黄色更为突出，日落时分呈现出令人惊叹的暖色调。",
+          "然而，我们所见的颜色也会受到空气污染中的尘埃颗粒以及空气中的雾霾等因素影响。 这些颗粒会以不同方式散射阳光，有时使天空在白天显得灰白，并影响日落时可见的色彩。",
+          "火山喷发也会影响日落的颜色。 火山喷发时，大量尘埃进入大气层。 尘埃颗粒散射阳光，从而在喷发后数月内增强日落色彩，使世界各地出现更为鲜艳的日落。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "only",
+          "note": "Not only are they beautiful to look = 结合句意选 only。",
+          "answer": "K — only"
+        },
+        "30": {
+          "concept": "介词 — into",
+          "note": "看前后搭配，选 into。",
+          "answer": "E — into"
+        },
+        "31": {
+          "concept": "主谓 — 时态/一致",
+          "note": "of colours seen during sunset is caused by a process called = 主谓一致 → is。",
+          "answer": "F — is"
+        },
+        "32": {
+          "concept": "让步 — while",
+          "note": "Red light has long wavelengths while blue light has short wavelengths. = 结合句意选 while。",
+          "answer": "P — while"
+        },
+        "33": {
+          "concept": "指示/所有格 — its",
+          "note": "colours of light because of its shorter wavelengths. = 结合句意选 its。",
+          "answer": "G — its"
+        },
+        "34": {
+          "concept": "介词 — with",
+          "note": "This causes the blue light, with its shorter wavelengths, to scatter = 看前后搭配，选 with。",
+          "answer": "Q — with"
+        },
+        "35": {
+          "concept": "介词 — by",
+          "note": "we see can be affected by factors like dust particles in = 看前后搭配，选 by。",
+          "answer": "C — by"
+        },
+        "36": {
+          "concept": "指示/所有格 — these",
+          "note": "these particles can scatter sunlight differently, = 指示词 these 回指上文。",
+          "answer": "M — these"
+        },
+        "37": {
+          "concept": "during",
+          "note": "结合句意选 during。",
+          "answer": "D — during"
+        },
+        "38": {
+          "concept": "介词 — of",
+          "note": "erupts, it releases large amounts of dust into the atmosphere. = 看前后搭配，选 of。",
+          "answer": "J — of"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "There was a bustling hive of activity in the shopping mall. Gerald stood in line, his patience wearing [Q39(thinner)] as he waited to lay hands on the limited edition watch he had been eyeing for weeks. As the clock ticked, Gerald fidgeted, his impatience growing with each [Q40(passed)] minute. The watch he longed for gleamed in the display window, its attraction almost [Q41(tanjibel)] . Surrounding him were fellow [Q42(enthoosyasts)] , their faces a mix of [Q43(eksitement)] and anxiety. Like Gerald, they were all [Q44(vied)] for a chance to own this masterpiece.",
+          "[Q45(Antisipaeshen)] filled the air as the queue snaked its way through the busy mall.",
+          "Gerald checked his watch for the [Q46(umptinth)] time, the minutes dragging like hours. His heart raced as he neared the front of the line, the prize [Q47(in)] reach yet still so far away. Finally, after [Q48(when)] seemed like an eternity, he stepped into the store. With bated breath, he made his purchase. The watch was now his to cherish and [Q49(admyear)] . As he walked away, he was [Q50(thrill)] to be the proud owner of the watch. The wait proved to be all worth it just for this moment!"
+        ],
+        "zh": [
+          "购物中心里人声鼎沸、一片忙碌。杰拉尔德排着队，耐心越来越薄，等待拿到他盯了好几周的限量版手表。时钟滴答作响，他坐立不安，每过一分钟不耐烦就增加一分。他渴望的那块表在橱窗里闪闪发光，吸引力几乎触手可及。周围都是同好，脸上混合着兴奋与焦虑。和杰拉尔德一样，他们都在争夺拥有这件杰作的机会。",
+          "空气中弥漫着期待。队伍在繁忙的商场里蜿蜒前行。",
+          "杰拉尔德第无数次看表，分钟像小时一样漫长。接近队首时，他心跳加速，奖品近在眼前却仍遥不可及。终于，在似乎过了永恒之后，他走进店里。屏住呼吸，他买下了手表。这块表现在属于他，可以珍藏和欣赏。离开时，他激动地成为这块表的骄傲主人。等待只为这一刻，完全值得！"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "thin"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "passing"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "tangible"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "enthusiasts"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "excitement"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "vying"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "Anticipation"
+        },
+        "46": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "umpteenth"
+        },
+        "47": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "within"
+        },
+        "48": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "what"
+        },
+        "49": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "admire"
+        },
+        "50": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "thrilled"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "We all know the feeling. We get a strange tingly sensation on our skin when we feel a cool breeze or [Q51] a spooky sound. That's goosebumps! They are small bumps that [Q52] the skin of chicken after the feathers have been plucked. But have you ever [Q53] what exactly makes your skin get all bumpy? Do goosebumps [Q54] a purpose?",
+          "Under our skin, there are millions of tiny muscles. Each of them [Q55] connected to each hair on the skin surface. [Q56] we feel cold, these muscles tighten. The contraction causes our hair to [Q57] up straight, resulting in goosebumps popping up on our skin.",
+          "Based on evolutionary theories, some scientists believe that goosebumps may have been [Q58] down from apes. They were covered in thick fur and the tiny muscles under their skin were much stronger. This meant that when goosebumps caused their fur to stand on [Q59], a warm layer of air would be trapped next to their skin. Their thick hair coat therefore served as insulation, [Q60] them from the wind and cold.",
+          "In [Q61] to keeping them warm, some animals use goosebumps as a survival tactic when [Q62] with danger. To prepare them for a flight-or-fight reaction, a hormone called adrenaline is released, causing the contraction of skin muscles. [Q63] instance, when a cat is feeling threatened by a dog, the elevated hair, together [Q64] its arched back, makes it appear bigger. This is an attempt to make the dog back off.",
+          "Similarly, we may also experience an adrenaline rush when we stand on a podium to receive an award or while watching horror movies. This often [Q65] in goosebumps, a physical reaction to intense emotions. While goosebumps might have served an important function once upon a time, evolution has rendered them unimportant. They are merely an outward reflection of surging hormones, big emotions or a literal chill."
+        ],
+        "zh": [
+          "我们都知道那种感觉：感到凉风或听见阴森声响时，皮肤会一阵刺痒发麻，那就是鸡皮疙瘩。它们是拔光鸡毛后鸡皮肤上留下的小疙瘩状凸起。但你可曾想过，究竟是什么让皮肤变得凹凸不平？鸡皮疙瘩有用吗？",
+          "皮肤之下有无数细小肌肉，每一束都与皮肤表面的一根毛发相连。当我们感到寒冷，这些肌肉就会收缩；收缩使毛发竖直，于是皮肤表面便冒出鸡皮疙瘩。",
+          "依据进化论，一些科学家认为鸡皮疙瘩可能是从类人猿那里遗传下来的。它们身披厚毛，皮下的细小肌肉也强壮得多；当鸡皮疙瘩使毛发竖立时，一层暖空气便会滞留在皮肤旁。厚密的毛发因此起保温作用，为它们挡风御寒。",
+          "除了保暖，有些动物在面对危险时还把鸡皮疙瘩当作生存策略。为备战'战或逃'反应，肾上腺素这种激素会释出，引起皮肤肌肉收缩。例如，猫感到被狗威胁时，竖起的毛连同拱起的背会让它看起来更大，意在逼退对方。",
+          "同样地，我们站在领奖台上领奖或看恐怖片时，也可能经历肾上腺素飙升。这常常最终以鸡皮疙瘩收场，是强烈情绪下的身体反应。鸡皮疙瘩虽曾在演化中扮演要角，如今却已不那么重要；它们不过是激素汹涌、情绪高涨或一阵寒意的表面征兆。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "动词与场景搭配",
+          "note": "凉风或听到声音都会引发特定感觉。结合后文的 a spooky sound（鬼祟/可怕的声音），此处缺少动词原形，填入 hear 或 notice 表达“听见”或“注意到”。",
+          "answer": "hear/notice"
+        },
+        "52": {
+          "concept": "定语从句与动词语意",
+          "note": "由关系代词 that 引导的定语从句修饰复数名词 small bumps，从句谓语动词用原形。指鸡皮疙瘩“类似于”或“看起来像”拔毛后的鸡皮，填入 resemble / mimic / match。",
+          "answer": "resemble/mimic/match"
+        },
+        "53": {
+          "concept": "现在完成时动词形式",
+          "note": "前面有助动词 have you ever，后接过去分词。在此处用于引出设问，指你是否曾经“想知道”或“思考过”背后的原因，故填 wondered / thought / questioned。",
+          "answer": "wondered/thought/questioned"
+        },
+        "54": {
+          "concept": "一般现在时助动词",
+          "note": "一般现在时的疑问句结构。主语 goosebumps 为复数名词，后面有动词原形 serve，因此空格处需填入原形助动词 have 或 serve 的平行变体 do（此处构成 Do goosebumps have a purpose 或是 do goosebumps serve a purpose，原句已有 purpose，故填入 have 或者是将整个结构视作动词原形 do/serve 的考核）。",
+          "answer": "have/do/serve"
+        },
+        "55": {
+          "concept": "主谓一致与系动词",
+          "note": "主语为 Each of them，核心词 Each 充当单数第三人称主语。结合后面的形容词短语 connected to，此处需要填入单数现在时系动词 is，表示“每一个都是相连的”。",
+          "answer": "is"
+        },
+        "56": {
+          "concept": "时间/条件从句引导词",
+          "note": "引导状语从句。表示“当（When）”或者“每当（Whenever/If）”我们感到寒冷时，肌肉就会收紧。位于句首需大写。",
+          "answer": "When/Whenever/If"
+        },
+        "57": {
+          "concept": "短语动词固定搭配",
+          "note": "动词使役结构 causes our hair to... 后接动词原形。与后面的 up straight 组合，构成固定短语 stand up straight，表示毛发“竖立”起来。",
+          "answer": "stand"
+        },
+        "58": {
+          "concept": "被动语态短语动词",
+          "note": "前面有助动词 may have been，后接过去分词构成被动语态。与后面的 down from 组合，构成高频短语 passed down 或 handed down，意为从类人猿世代“相传”或“遗传”下来。",
+          "answer": "passed/handed"
+        },
+        "59": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合英语中形容毛发直立的经典专属习语 stand on end，意思是指毛发受刺激后“直立/竖到发直”。",
+          "answer": "end"
+        },
+        "60": {
+          "concept": "现在分词充当伴随状语",
+          "note": "前面句子结构完整，此处使用现在分词短语作伴随结果状语。指厚重的毛发能起到绝缘保暖的作用，从而“保护”或者“隔绝”风寒（protecting / shielding / insulating / saving）。",
+          "answer": "protecting/shielding/insulating/saving"
+        },
+        "61": {
+          "concept": "复合介词衔接短语",
+          "note": "后接介词短语 to keeping them warm。填入名词 addition 构成极为高频的复合介词短语 In addition to，意思是“除了……之外（还）”。",
+          "answer": "addition"
+        },
+        "62": {
+          "concept": "过去分词状语从句省略",
+          "note": "在时间连词 when 引导的状语从句中，省略了主语和系动词（when they are...）。结合后面的介词 with，构成常用固定搭配 when faced with danger 或 when confronted with danger，意为“面对危险时”。",
+          "answer": "faced/confronted"
+        },
+        "63": {
+          "concept": "固定搭配与篇章标记语",
+          "note": "后文紧跟名词 instance，与之组合构成最经典的例证引导短语 For instance（例如），用以引出猫和狗的例子。位于句首需大写。",
+          "answer": "For"
+        },
+        "64": {
+          "concept": "介词固定搭配",
+          "note": "完美契合高频常考的经典介词伴随搭配 together with，意思是“连同”或“结合”它弓起的背部，让它看起来体型更大。",
+          "answer": "with"
+        },
+        "65": {
+          "concept": "主谓一致与短语动词",
+          "note": "主语为指示代词 This，在语法上充当单数第三人称。后文有介词 in，此处填入单三形式动词 results，构成固定短语 results in（导致/引发），以此呼应强烈的身体情绪反应。",
+          "answer": "results"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "“Are you aware that our neighbour’s dog underwent a surgery recently?” my mother asked me.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "My mother asked me __________."
+        },
+        "67": {
+          "stem_plain": "This novel was chosen by Janet for her book review.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Janet __________."
+        },
+        "68": {
+          "stem_plain": "My grandparents prefer visiting local attractions to travelling overseas.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ preference __________."
+        },
+        "69": {
+          "stem_plain": "Sam fell ill suddenly. He missed the meeting.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "On account of Sam’s __________."
+        },
+        "70": {
+          "stem_plain": "Ramu stared at the computer screen. He could not believe it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ in __________."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "间接引语 — Reported speech (yes/no question)",
+          "zh": "母亲问我是否知道邻居的狗最近做了手术。",
+          "note": "间接引语：<em>Are you aware …?</em> → <em>if I was aware …</em>；宾语从句保留 <em>that … had undergone … recently</em>。",
+          "answer": "My mother asked me if I was aware that our neighbour's dog had undergone a surgery recently."
+        },
+        "67": {
+          "concept": "主动语态 — Active voice reorder",
+          "zh": "珍妮特选了这本小说写书评。",
+          "note": "语态转换：被动 <em>was chosen by Janet</em> → 主动 <em>Janet chose this novel</em>；保留 <em>for her book review</em>。",
+          "answer": "Janet chose this novel for her book review."
+        },
+        "68": {
+          "concept": "比较结构 — Preference (prefer X to Y)",
+          "zh": "我的祖父母更喜欢游览本地景点，而不是出国旅行。",
+          "note": "比较结构：<em>prefer … to …</em> → <em>have a preference for … over …</em>；动名词 <em>visiting / travelling</em>。",
+          "answer": "My grandparents have a preference for visiting local attractions over travelling overseas."
+        },
+        "69": {
+          "concept": "原因短语 — On account of + noun",
+          "zh": "由于萨姆突然生病，他错过了会议。",
+          "note": "原因短语：<em>fell ill suddenly</em> → <em>On account of Sam's sudden illness</em>；后接结果 <em>he missed the meeting</em>。",
+          "answer": "On account of Sam's sudden illness, he missed the meeting."
+        },
+        "70": {
+          "concept": "介词短语 — In + noun (disbelief)",
+          "zh": "拉穆难以置信地盯着电脑屏幕。",
+          "note": "介词短语：<em>could not believe it</em> → <em>in disbelief</em>；与 <em>stared at the computer screen</em> 合并。",
+          "answer": "Ramu stared at the computer screen in disbelief."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "(a) Give **two** ways the writer helped her parents as a translator. **(c)** Why were the writer’s parents unable to perform the tasks in (a) and (b)? .",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "(a)",
+              "rows": [
+                "[Q71a]"
+              ]
+            },
+            "col_2": {
+              "header": "(b)",
+              "rows": [
+                "[Q71b]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "From the second paragraph, pick out a **four-word phrase** that tells us that the writer grew up faster than other kids her age.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "State **two** ways in which the writer acted “like a second mother to Timmy” (line 9).",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q73a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Based on lines 9–24, state whether each statement in the table below is **true** or **false**, then give **one** reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "",
+              "rows": [
+                "(a) Only Timmy attended student care centre.",
+                "(b) The writer was disappointed to hear about what Timmy had done in school."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "“I did not want to fail my parents.” (line 24) In what ways did the writer think that she had **failed** her parents?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Explain clearly why the writer’s parents were “visibly upset” (line 27)",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Why was the writer unable to meet the gaze of her parents (line 31)?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Words from the passage",
+              "rows": [
+                "(a) **them** (line 15)",
+                "(b) **it** (line 31)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q78a]",
+                "[Q78b]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Pick out **two words** from lines 34–38 which show how the writer saw her responsibilities **differently** after the “turning point” (line 35). Each word is found in a **separate** sentence.",
+          "marks": 2,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Before the turning point",
+              "rows": [
+                "[Q79a]"
+              ]
+            },
+            "col_2": {
+              "header": "After the turning point",
+              "rows": [
+                "[Q79b]"
+              ]
+            }
+          }
+        },
+        "80": {
+          "stem_plain": "Based on the **last paragraph**, explain clearly how the writer’s childhood experiences helped her in her job as a counsellor.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Growing up, my childhood was filled with responsibilities that have moulded me into",
+          "2": "who I am today. Since young, I had to step up as I was the older child in the family. Because",
+          "3": "of my parents’ lack of proficiency in English, there were countless times when I had to assist",
+          "4": "them with official matters. Whether it was making phone calls on their behalf or explaining",
+          "5": "the content of letters sent to them, I became their translator.",
+          "6": "As hawkers, my parents worked long hours at the market. While they were toiling at",
+          "7": "work, I had to shoulder a huge responsibility that pushed me to be mature beyond my years.",
+          "8": "I was tasked to take care of my younger brother, Timmy.",
+          "9": "Every day after school, I was expected to act like a second mother to Timmy. I would",
+          "10": "prepare my own lunch, do my homework and help my parents out with the household",
+          "11": "chores. In the evening, I would then head out to pick Timmy up from the student care centre.",
+          "12": "My parents could only afford to put one of us there and it was crucial for Timmy to have a",
+          "13": "place to go after school. Once home, I would help him catch up with his schoolwork. I",
+          "14": "seldom went out with my friends after school and rarely spent time doing what I liked.",
+          "15": "Seeing my friends who led carefree lives made me envious of **them** thus I resented my role",
+          "16": "as an older sister. These responsibilities entrusted to me felt more and more overwhelming.",
+          "17": "One afternoon, Timmy’s teacher called my parents who then instructed me to find out",
+          "18": "what had happened. My heart sank at the end of the conversation with his teacher. He had",
+          "19": "gotten into a fight at school. I rushed to his school ahead of my parents since they were still",
+          "20": "busy at the stall. While I hoped that Timmy was not injured, my mind was consumed with",
+          "21": "the fear of him being expelled from school. Taking my role very seriously, I had always felt",
+          "22": "burdened by the thought of meeting my parents expectation of being a good older sister.",
+          "23": "Would my parents think that I did not guide Timmy well? I felt as if I was forced into a tight",
+          "24": "corner, unable to breathe. I did not want to fail my parents.",
+          "25": "Eventually, my parents turned up. The principal decided that Timmy would be",
+          "26": "suspended from school for a week and we had to make arrangements for his care during",
+          "27": "school hours. That evening, my parents were visibly upset. “Someone has to be home",
+          "28": "with him. I can’t handle the stall on my own. And we can’t afford to close our stall for a",
+          "29": "week,” my father said to my mother. Seeing how troubled they were, I wanted to do",
+          "30": "something to make amends.",
+          "31": "“I’ll do **it**,” I offered, unable to meet the gaze of my parents. Initially, they were",
+          "32": "hesitant to accept my suggestion. I would miss lessons and fall behind in my own work.",
+          "33": "After much deliberation, my parents made a difficult decision.",
+          "34": "“Thank you,” my mother said softly. “We can’t do this without you. And this is not your",
+          "35": "fault.” Hearing her words of gratitude warmed my heart. That was a **turning point** for me",
+          "36": "as I was reminded that I was valued. From then on, I was never bitter about a childhood",
+          "37": "full of responsibilities. Nor did I see my responsibilities as a burden. I realised they were",
+          "38": "opportunities for me to grow and support my family.",
+          "39": "Looking back, I had my childhood experiences to thank for guiding me in my career.",
+          "40": "In my growing years, I had become more resilient and patient. With all that I had been",
+          "41": "through, as a counsellor, I am now able to better connect with teens and support those in",
+          "42": "need. Even if I could turn back the clock, I would not wish for a different childhood."
+        },
+        "paragraphs": {
+          "1": "成长过程中，童年充满责任，塑造了我今天的模样。自幼身为家中姊姊，我必须挺身而出。父母英文不流利，无数次要我协助处理官方事务——代他们打电话、解释寄来的信件，我成了他们的翻译。",
+          "6": "父母是摊贩，在市场长时间劳作；他们工作时，我肩上沉甸甸的责任迫使我比同龄人更早成熟，还要照顾弟弟 Timmy。",
+          "9": "每天放学后，我要像“第二个妈妈”照顾 Timmy：做自己的午饭、写作业、帮父母做家务；傍晚去接他从学生托管中心回家——父母只负担得起一个孩子去那里，Timmy 放学后必须有地方可去。回家后帮他补习功课。我很少和同学放学出去玩，也难得做自己爱做的事。看着朋友们无忧无虑的生活，我羡慕他们，因而怨恨当姐姐的角色；这些托付给我的责任越来越压得喘不过气。",
+          "17": "一天下午，Timmy 的老师打电话给父母，他们让我去了解情况。和老师谈完，我心一沉——他在学校打架了。父母还在摊位忙碌，我先赶往学校。虽希望 Timmy 没受伤，脑海里却满是被学校开除的恐惧。我一直很认真看待姐姐的角色，总担心达不到父母对“好姐姐”的期望。父母会不会觉得我没能好好引导 Timmy？我感到被逼到墙角，喘不过气来，绝不想让父母失望。",
+          "25": "父母终于赶到。校长决定 Timmy 停学一周，我们得安排他上学时间的照料。那晚父母明显心烦：“得有人在家陪他。我一个人顾不了摊位，又不能关摊一周。”父亲对母亲说。见他们如此为难，我想弥补些什么。",
+          "31": "“我来。”我主动提出，却不敢直视父母。起初他们犹豫——我会缺课、功课会落后。再三考虑后，父母作出了艰难的决定。",
+          "34": "母亲轻声说：“谢谢你。没有我们办不成。而且不是你的错。”感激的话温暖了我的心。那是转折点——我意识到自己受重视。此后不再为充满责任的童年苦涩，也不再把责任当负担；我明白它们是成长、扶持家人的机会。",
+          "39": "回首往事，童年经历引导了我的职业。成长岁月让我更坚韧、更有耐心；经历过这一切，作为辅导员，我能更好与青少年沟通、帮助有需要的人。即使能重来，我也不愿换另一种童年。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": {
+            "71a": "",
+            "71b": ""
+          },
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "mature beyond my years"
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": {
+            "73a": "She would pick Timmy up from the student care centre,",
+            "73b": "once home she would help him catch up with his schoolwork."
+          }
+        },
+        "74": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "True",
+            "74b": "The writer's parents could only afford to put either the writer or Timmy at student care, and it was crucial for Timmy to have a place to go after school.",
+            "74c": "True",
+            "74d": "Her heart sank when she found out what Timmy had done in school."
+          }
+        },
+        "75": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "She thought that her parents would think she did not guide Timmy well, and she was always feeling burdened by her parents' expectation of being a good older sister, which she felt she failed to be."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "Timmy was suspended from school for a week and someone had to be at home with him during school hours, but the parents could not handle the stall on their own and could not afford to close it for a week, so they were upset by this difficult arrangement."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "The writer felt guilty because she thought she had failed her parents, so she could not bring herself to face them."
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "the writer's friends who led carefree lives",
+            "78b": "staying at home with Timmy for the week during which he would be suspended"
+          }
+        },
+        "79": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": {
+            "79a": "burden",
+            "79b": "opportunities"
+          },
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": [
+            "Her childhood responsibilities helped her grow up to be more resilient and patient, which now allows her, as a counsellor, to better connect with teens and support those in need."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

@@ -1,0 +1,710 @@
+{
+  "paperid": "p4_english_2024_sa2_redswastika",
+  "sections": {
+    "101": {
+      "questions": {
+        "7": {
+          "stem_plain": "I am going to buy some stationery __________ the school bookshop.",
+          "options": {
+            "1": "by",
+            "2": "on",
+            "3": "into",
+            "4": "at"
+          }
+        },
+        "8": {
+          "stem_plain": "While he was on his way home, my father __________ shocked when a dog dashed out in front of him.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "9": {
+          "stem_plain": "Peter and his sister __________ delighted when they found their lost rabbit.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Keep your voices down. The baby __________ right now,\" said Aunt Mary when we visited her.",
+          "options": {
+            "1": "is sleeping",
+            "2": "has slept",
+            "3": "slept",
+            "4": "sleeps"
+          }
+        },
+        "11": {
+          "stem_plain": "Last Sunday, we __________ the library books before going to the mall.",
+          "options": {
+            "1": "return",
+            "2": "returned",
+            "3": "were returning",
+            "4": "have returned"
+          }
+        },
+        "12": {
+          "stem_plain": "While Mother __________ dinner, the doorbell rang.",
+          "options": {
+            "1": "was preparing",
+            "2": "will prepare",
+            "3": "has prepared",
+            "4": "prepares"
+          }
+        },
+        "13": {
+          "stem_plain": "__________ boy playing on the swing over there is my brother.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "14": {
+          "stem_plain": "Sally can play both the piano __________ the violin very well.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "and",
+            "4": "then"
+          }
+        },
+        "15": {
+          "stem_plain": "Michael who sits only __________ tables away from me in class is my best friend.",
+          "options": {
+            "1": "a lot of",
+            "2": "a few",
+            "3": "much",
+            "4": "little"
+          }
+        },
+        "16": {
+          "stem_plain": "Dogs need __________ space to exercise, so you have to take them out for walks regularly.",
+          "options": {
+            "1": "every",
+            "2": "little",
+            "3": "many",
+            "4": "a lot of"
+          }
+        }
+      },
+      "answers": {
+        "7": {
+          "zh": "我打算去学校书店买些文具。",
+          "note": "“the school bookshop” 表示一个具体的具体地点或场所，介词通常使用 at。",
+          "concept": "地点介词 — Prepositions of Place — at",
+          "answer": "4"
+        },
+        "8": {
+          "zh": "在他回家的路上，当一只狗突然窜到他面前时，我的父亲吓了一跳。",
+          "note": "从句中的 “was” 提示整个语境处于过去时态，主语 “my father” 是单数，因此系动词应选 was。",
+          "concept": "系动词过去时与时态一致 — Simple Past Tense of 'be'",
+          "answer": "3"
+        },
+        "9": {
+          "zh": "当彼得和他的妹妹找到他们丢失的兔子时，他们很高兴。",
+          "note": "主语 “Peter and his sister” 是复数，且时间状语从句 “when they found” 提示过去发生的事情，故用复数过去式 were。",
+          "concept": "主谓一致与一般过去时 — Subject-Verb Agreement & Simple Past Tense",
+          "answer": "4"
+        },
+        "10": {
+          "zh": "“小声点。婴儿现在正在睡觉，”玛丽阿姨在我们拜访她时说道。",
+          "note": "“right now”（现在，此刻）明确提示动作正在进行，因此动词使用现在进行时 is sleeping。",
+          "concept": "现在进行时 — Present Continuous Tense",
+          "answer": "1"
+        },
+        "11": {
+          "zh": "上个星期天，我们在去商场之前把图书馆的书还了。",
+          "note": "“Last Sunday”（上个星期天）明确提示过去时间，谓语动词应选用一般过去式 returned。",
+          "concept": "一般过去时 — Simple Past Tense",
+          "answer": "2"
+        },
+        "12": {
+          "zh": "当妈妈正在做晚饭时，门铃响了。",
+          "note": "“While” 引导的时间状语从句表示过去一个正在持续进行的背景动作，因此主句动词使用过去进行时 was preparing。",
+          "concept": "过去进行时 — Past Continuous Tense",
+          "answer": "1"
+        },
+        "13": {
+          "zh": "在那边荡秋千的那个男孩是我弟弟。",
+          "note": "“boy” 为单数名词，且 “over there”（在那边）表示空间距离较远，因此使用表示单数远称的指示代词 That。",
+          "concept": "指示代词 — Demonstrative Pronouns — That",
+          "answer": "2"
+        },
+        "14": {
+          "zh": "莎莉弹钢琴和拉小提琴都非常出色。",
+          "note": "“both ... and ...” 是并列连词的固定搭配，意为“既……又……”。",
+          "concept": "并列连词搭配 — Correlative Conjunctions — both...and",
+          "answer": "3"
+        },
+        "15": {
+          "zh": "在班里只坐在离我几张桌子远处的迈克尔是我最好的朋友。",
+          "note": "“tables” 是可数名词复数，且由前面的 “only”（仅仅）修饰，表达数量很少，故用 a few 修饰。",
+          "concept": "可数名词修饰语 — Quantifiers with Countable Nouns — a few",
+          "answer": "2"
+        },
+        "16": {
+          "zh": "狗需要大量的空间来运动，所以你必须定期带它们出去散步。",
+          "note": "“space”（空间）在此处是不可数名词，根据后半句定期带去散步的逻辑，它们需要“很多”空间，因而选用符合修饰不可数名词的量词短语 a lot of。",
+          "concept": "不可数名词修饰语 — Quantifiers with Uncountable Nouns — a lot of",
+          "answer": "4"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "1": {
+          "stem_plain": "When Jane saw the lizard, she was __________ and screamed with fear.",
+          "options": {
+            "1": "irritated",
+            "2": "terrified",
+            "3": "annoyed",
+            "4": "embarrassed"
+          }
+        },
+        "2": {
+          "stem_plain": "This piece of music was written by a famous __________.",
+          "options": {
+            "1": "author",
+            "2": "writer",
+            "3": "journalist",
+            "4": "composer"
+          }
+        },
+        "3": {
+          "stem_plain": "Jack __________ about the room as he had twisted his ankle.",
+          "options": {
+            "1": "jumped",
+            "2": "leaped",
+            "3": "limped",
+            "4": "skipped"
+          }
+        },
+        "4": {
+          "stem_plain": "Grandmother carries her crystal vase to the table carefully as it is __________.",
+          "options": {
+            "1": "weak",
+            "2": "flimsy",
+            "3": "tender",
+            "4": "fragile"
+          }
+        },
+        "5": {
+          "stem_plain": "The __________ crept through the jungle with his rifle, tracking the pangolin.",
+          "options": {
+            "1": "prey",
+            "2": "predator",
+            "3": "poacher",
+            "4": "scavenger"
+          }
+        },
+        "6": {
+          "stem_plain": "The students bit their fingernails __________ as their teacher handed out their examination results.",
+          "options": {
+            "1": "sadly",
+            "2": "sleepily",
+            "3": "happily",
+            "4": "nervously"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "zh": "当简看到蜥蜴时，她被吓坏了，恐惧地尖叫起来。",
+          "note": "“screamed with fear”（恐惧地尖叫）是核心线索，提示心理状态是极度害怕，因此选用 “terrified”（非常害怕的，极度惊恐的）。",
+          "concept": "形容词词义辨析与情感搭配 — Vocabulary (Adjectives) — terrified",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "irritated",
+              "zh": "被激怒的，恼火的",
+              "eg": "He became highly irritated by the constant noise outside his window."
+            },
+            {
+              "opt": "2",
+              "word": "terrified",
+              "zh": "极度恐惧的，吓坏了的",
+              "eg": "The little child was terrified of the dark and always left the lamp on."
+            },
+            {
+              "opt": "3",
+              "word": "annoyed",
+              "zh": "生气的，烦恼的",
+              "eg": "She felt deeply annoyed when her computer suddenly froze again."
+            },
+            {
+              "opt": "4",
+              "word": "embarrassed",
+              "zh": "尴尬的，难堪的",
+              "eg": "He was embarrassed when he called his teacher by the wrong name."
+            }
+          ]
+        },
+        "2": {
+          "zh": "这首乐曲是由一位著名的作曲家谱写的。",
+          "note": "“piece of music”（乐曲）和 “written”（创作、谱写）相呼应，写音乐的人被称为 “composer”（作曲家）。",
+          "concept": "职业名词词义辨析 — Vocabulary (Nouns) — composer",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "author",
+              "zh": "作者，作家（通常指书籍或文章的创作者）",
+              "eg": "The young author spent three years writing her first fantasy novel."
+            },
+            {
+              "opt": "2",
+              "word": "writer",
+              "zh": "作者，作家",
+              "eg": "He is a regular writer for a prominent technology magazine."
+            },
+            {
+              "opt": "3",
+              "word": "journalist",
+              "zh": "新闻记者",
+              "eg": "The brave journalist traveled to the front lines to cover the story."
+            },
+            {
+              "opt": "4",
+              "word": "composer",
+              "zh": "作曲家",
+              "eg": "Beethoven is widely regarded as one of the greatest composers in history."
+            }
+          ]
+        },
+        "3": {
+          "zh": "杰克在房间里一瘸一拐地走着，因为他扭伤了脚踝。",
+          "note": "“twisted his ankle”（扭伤了脚踝）是原因，对应的走路姿态必然是 “limped”（一瘸一拐地走）。",
+          "concept": "行走动作动词辨析 — Vocabulary (Verbs) — limped",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "jumped",
+              "zh": "跳跃，跳",
+              "eg": "The pet cat jumped onto the kitchen counter to steal the fish."
+            },
+            {
+              "opt": "2",
+              "word": "leaped",
+              "zh": "跳跃，飞跃（大跨度跳）",
+              "eg": "The graceful deer leaped over the high wooden fence effortlessly."
+            },
+            {
+              "opt": "3",
+              "word": "limped",
+              "zh": "跛行，一瘸一拐地走",
+              "eg": "The injured football player limped off the stadium field slowly."
+            },
+            {
+              "opt": "4",
+              "word": "skipped",
+              "zh": "蹦蹦跳跳地走，跳过",
+              "eg": "The joyful schoolgirls skipped along the sidewalk on their way home."
+            }
+          ]
+        },
+        "4": {
+          "zh": "奶奶小心翼翼地把她的水晶花瓶拿到桌上，因为它很易碎。",
+          "note": "“crystal vase”（水晶花瓶）以及 “carefully”（小心翼翼地）说明这个物体属于易碎品，最标准的修饰形容词是 “fragile”（易碎的）。",
+          "concept": "物品属性形容词辨析 — Vocabulary (Adjectives) — fragile",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "weak",
+              "zh": "虚弱的，无力的（多指人或身体）",
+              "eg": "He still felt slightly weak after recovering from a severe flu."
+            },
+            {
+              "opt": "2",
+              "word": "flimsy",
+              "zh": "劣质的，不结实的，单薄的（常指纸张、结构或借口）",
+              "eg": "The strong wind blew down the flimsy plastic tent within minutes."
+            },
+            {
+              "opt": "3",
+              "word": "tender",
+              "zh": "温柔的，（肉质）嫩的",
+              "eg": "The steak was exceptionally tender and cooked to perfection."
+            },
+            {
+              "opt": "4",
+              "word": "fragile",
+              "zh": "易碎的，脆的",
+              "eg": "Please handle these fragile glass ornaments with utmost care."
+            }
+          ]
+        },
+        "5": {
+          "zh": "那个偷猎者提着步枪悄悄穿过丛林，追踪着穿山甲。",
+          "note": "手持“步枪”（rifle），并且在丛林中非法“追踪穿山甲”（tracking the pangolin，一种受保护的野生动物），其身份属于 “poacher”（偷猎者）。",
+          "concept": "名词词义辨析与背景理解 — Vocabulary (Nouns) — poacher",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "prey",
+              "zh": "被捕食的猎物",
+              "eg": "The eagle scanned the grassland below for its small mammal prey."
+            },
+            {
+              "opt": "2",
+              "word": "predator",
+              "zh": "捕食者，食肉动物",
+              "eg": "Leopards are skilled predators that hunt effectively in the dark."
+            },
+            {
+              "opt": "3",
+              "word": "poacher",
+              "zh": "偷猎者，非法盗猎者",
+              "eg": "Park rangers arrested a poacher who was setting traps for tigers."
+            },
+            {
+              "opt": "4",
+              "word": "scavenger",
+              "zh": "食腐动物（吃死尸的动物）",
+              "eg": "Vultures act as nature's scavengers by feeding on animal carcasses."
+            }
+          ]
+        },
+        "6": {
+          "zh": "当老师发考试成绩时，学生们紧张地咬着指甲。",
+          "note": "“bit their fingernails”（咬指甲）是典型的内心焦虑外在行为。在发成绩（handing out examination results）的情境下，选用副词 “nervously”（紧张地）。",
+          "concept": "副词词义辨析与举止特征 — Vocabulary (Adverbs) — nervously",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sadly",
+              "zh": "悲伤地",
+              "eg": "She sighed sadly as she packed her bags to leave the city."
+            },
+            {
+              "opt": "2",
+              "word": "sleepily",
+              "zh": "困倦地，昏昏欲睡地",
+              "eg": "The toddler rubbed his eyes sleepily during the long car ride."
+            },
+            {
+              "opt": "3",
+              "word": "happily",
+              "zh": "快乐地，幸福地",
+              "eg": "The family smiled happily for a portrait picture in front of their home."
+            },
+            {
+              "opt": "4",
+              "word": "nervously",
+              "zh": "紧张地，焦虑地",
+              "eg": "He paced up and down the corridor nervously before his job interview."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "22": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "23": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "24": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "25": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "22": {
+          "concept": "语法题",
+          "note": "指代翠鸟“乔伊（Joey）的家人”。在前文中，作者使用He来指代Joey（He looks for fish...），说明在这里将这只雄性动物拟人化，修饰名词family，故使用男性形容词性物主代词“his”（他的）。",
+          "answer": "B"
+        },
+        "23": {
+          "concept": "语法题",
+          "note": "指代上文提到的“鱼（fish）”。从后文的系动词are（复数）以及意为“非常美味”可知，这里的fish代表复数概念的鱼群，在句中作主语，故使用复数人称代词主格“they”（它们）。",
+          "answer": "D"
+        },
+        "24": {
+          "concept": "语法题",
+          "note": "指代前文提到的“石油泄漏（oil leaked from a boat）”这一事件或泄漏出来的石油（oil）。在句中作has disrupted的主语，由于是单数无生命概念，故使用人称代词主格“it”（它）。",
+          "answer": "A"
+        },
+        "25": {
+          "concept": "语法题",
+          "note": "指代“乔伊和他的朋友们（Joey and his friends）的食物供应”。修饰名词短语food supply，因为是指代复数群体的所有物，故使用复数形容词性物主代词“their”（他们的）。",
+          "answer": "E"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "it",
+          "B": "his",
+          "C": "he",
+          "D": "they",
+          "E": "their",
+          "F": "theirs"
+        },
+        "cloze": [
+          "Joey, a kingfisher, lives in a mangrove tree in Pulau Ubin. Every morning, Joey hunts for food with [Q22] family. He looks for fish in the rivers as [Q23] are delicious.",
+          "Recently, oil leaked from a boat and [Q24] has disrupted the lives of many animals on the island. Joey and his friends are worried as [Q25] food supply is decreasing. Joey hopes the waters can be cleaned up soon."
+        ],
+        "zh": [
+          "乔伊是一只翠鸟，生活在乌敏岛的一棵红树林树上。每天早晨，乔伊都会和他的家人一起寻找食物。他在河流里寻找鱼，因为它们非常美味。",
+          "最近，一艘船发生了石油泄漏，这破坏了岛上许多动物的生活。乔伊和他的朋友们很担心，因为它们的食物供应正在减少。乔伊希望水域能尽快清理干净。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "34": {
+          "stem_plain": "This is the house. Its roof was blown off in the storm.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": " ... whose ..."
+        },
+        "35": {
+          "stem_plain": "I can buy a cup of coffee from the shop. I can buy a bottle of milk too.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... either ... or ..."
+        }
+      },
+      "answers": {
+        "34": {
+          "concept": "Relative Clauses — Possessive relative pronoun ('whose')",
+          "zh": "这就是那栋在暴风雨中屋顶被吹走的房子。",
+          "note": "使用关系代词‘whose’引导定语从句，替代形容词性物主代词‘Its’，修饰先行词‘house’。",
+          "answer": "This is the house whose roof was blown off in the storm."
+        },
+        "35": {
+          "concept": "Conjunctions — Correlative conjunctions ('either ... or ...')",
+          "zh": "我可以从这家店买一杯咖啡，或者买一瓶牛奶。",
+          "note": "使用‘either ... or ...’连接两个并列的宾语成分，表示二选一。重合的谓语和地点‘I can buy ... from the shop’可作省略或语序调整。",
+          "answer": "I can buy either a cup of coffee or a bottle of milk from the shop."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

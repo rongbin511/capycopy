@@ -1,0 +1,1541 @@
+{
+  "paperid": "p6_english_2025_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"He won't be attending the talk today, ________ ?\"",
+          "options": {
+            "1": "will he",
+            "2": "won't he",
+            "3": "would he",
+            "4": "wouldn't he"
+          }
+        },
+        "2": {
+          "stem_plain": "Tim, as well as his peers, ________ disappointed when they found out the tournament results yesterday.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "Julia, ________ bag has a sunflower sewn on it, will help you with the gardening project.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "4": {
+          "stem_plain": "________ the busy streets of the city, we found a peaceful park to relax in.",
+          "options": {
+            "1": "Over",
+            "2": "Amid",
+            "3": "Besides",
+            "4": "Alongside"
+          }
+        },
+        "5": {
+          "stem_plain": "All of the furniture ________ carefully arranged before the guests arrived.",
+          "options": {
+            "1": "was",
+            "2": "were",
+            "3": "are being",
+            "4": "have been"
+          }
+        },
+        "6": {
+          "stem_plain": "Everybody ________ excited for the upcoming school play as they have been spending long hours rehearsing for it.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "The adults were exhausted as they ________ with the children for two hours before their bedtime.",
+          "options": {
+            "1": "play",
+            "2": "played",
+            "3": "have played",
+            "4": "had been playing"
+          }
+        },
+        "8": {
+          "stem_plain": "Georgina would rather cook her own meals ________ eat out.",
+          "options": {
+            "1": "to",
+            "2": "over",
+            "3": "than",
+            "4": "then"
+          }
+        },
+        "9": {
+          "stem_plain": "She watched the dancers ________ onto the stage with their movements perfectly timed with the music.",
+          "options": {
+            "1": "walk",
+            "2": "walks",
+            "3": "had walked",
+            "4": "were walking"
+          }
+        },
+        "10": {
+          "stem_plain": "We have ________ free time later this afternoon, perhaps we can meet to discuss the project.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "some",
+            "4": "plenty"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "反意疑问句 — Tag question — negative statement",
+          "zh": "他今天不会参加讲座，对吗？",
+          "note": "主句是否定句'won’t be attending'，反义疑问句遵循“前否后肯”的规则；因此附加问句用肯定形式'will he'。'today'作时间状语。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "主谓一致 — subject-verb agreement, parenthetical phrase",
+          "zh": "蒂姆和他的同伴们昨天得知比赛结果时感到失望。",
+          "note": "真正的主语是单数'Tim'；插入语'as well as his peers'不改变主语单复数。时间状语从句中的'yesterday'提示过去时，所以用单数过去式'was'。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "关系词 — Possessive relative pronoun",
+          "zh": "朱莉娅的包上缝着一朵向日葵，她会帮你完成园艺项目。",
+          "note": "'whose'表示所属关系，引导非限制性定语从句，修饰'Julia'并说明“她的包”。主句结构是'Julia will help you'。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "介词 — Preposition — surrounded by",
+          "zh": "在城市繁忙的街道之中，我们找到了一个可以放松的宁静公园。",
+          "note": "'Amid'表示“在……之中 / 被……围绕”，整个介词短语作地点状语；主句是'we found a peaceful park'，不定式'to relax in'作后置定语，说明 park 的用途。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "被动语态 — Uncountable noun + past passive",
+          "zh": "所有家具在客人到达之前都已被仔细摆放好了。",
+          "note": "'furniture'是不可数名词，整体作单数主语，所以用'was'；'was arranged'是被动语态，表示家具“被摆放”。'carefully'修饰谓语，'before…'作时间状语。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "代词 — Indefinite pronoun — singular",
+          "zh": "每个人都对即将到来的学校戏剧表演感到兴奋，因为他们一直花很长时间为它排练。",
+          "note": "'Everybody'在语法上作单数主语，所以谓语用'is'；'excited'作表语；'as…'引导原因状语从句，解释大家兴奋的原因。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "过去完成时 — Past perfect continuous",
+          "zh": "大人们筋疲力尽，因为他们在孩子睡觉前已经陪孩子玩了两个小时。",
+          "note": "主句是系表结构'The adults were exhausted'；原因状语从句说明疲惫的原因。动作“play”发生在过去的“were exhausted”之前，并持续两小时，所以用过去完成进行时'had been playing'。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "固定搭配 — Fixed structure — would rather X than Y",
+          "zh": "乔治娜宁愿自己做饭，也不愿外出就餐。",
+          "note": "固定结构'would rather + 动词原形 + than + 动词原形'表示“宁愿……而不愿……”。因此用'than'，不是表示时间顺序的'then'。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "不定式 — Perception verb + bare infinitive",
+          "zh": "她看着舞者们走上舞台，他们的动作与音乐配合得非常精准。",
+          "note": "感官动词'watch'后接“宾语 + 动词原形”作宾语补足语，表示看见完整动作，所以用'walk'。后面的'with…'结构作伴随状语。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "量词 — Quantifier with uncountable nouns",
+          "zh": "今天下午晚些时候我们有一些空闲时间，也许可以见面讨论这个项目。",
+          "note": "'free time'是不可数名词；肯定句中表示“一些”用'some'。逗号后是并列分句，'perhaps'表示可能性，'to discuss the project'说明见面的目的。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The strong smell of paint really ________ me _ from working in the room.",
+          "options": {
+            "1": "set ... up",
+            "2": "put ... off",
+            "3": "take ... off",
+            "4": "break ... up"
+          }
+        },
+        "12": {
+          "stem_plain": "To ________ your vocabulary, you need to spend time reading every day.",
+          "options": {
+            "1": "diminish",
+            "2": "assemble",
+            "3": "strengthen",
+            "4": "undermine"
+          }
+        },
+        "13": {
+          "stem_plain": "After the heavy thunderstorm, the river's water level rose ________ causing a flood in no time.",
+          "options": {
+            "1": "rapidly",
+            "2": "slightly",
+            "3": "silently",
+            "4": "roughly"
+          }
+        },
+        "14": {
+          "stem_plain": "The head prefect nominee's speech was ________ with unclear statements that made his position hard to understand.",
+          "options": {
+            "1": "factual",
+            "2": "concise",
+            "3": "ambiguous",
+            "4": "straightforward"
+          }
+        },
+        "15": {
+          "stem_plain": "She wore sunglasses to ________ her tired eyes.",
+          "options": {
+            "1": "block",
+            "2": "shade",
+            "3": "conceal",
+            "4": "disguise"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "浓烈的油漆味真的让我不想在那个房间里工作。",
+          "note": "应选（2）'put ... off'：题干语境最宜表达'推迟；使（人）反感、打消念头'。解析中强调的关键形式为'put someone off (doing something)'，与正确项一致。'set ... up'义为'建立；安排；陷害'：与题干语境或搭配要求不一致。'take ... off'义为'脱下；起飞；休假'：与题干语境或搭配要求不一致。'break ... up'义为'分散；解散；分手'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — put ... off（推迟；使（人）反感、打消念头）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "set ... up",
+              "zh": "建立；安排；陷害",
+              "eg": "His friends helped to <strong>set</strong> the stall <strong>up</strong> for the school's flea market."
+            },
+            {
+              "opt": "2",
+              "word": "put ... off",
+              "zh": "推迟；使（人）反感、打消念头",
+              "eg": "The strong smell of durian <strong>put</strong> the tourist <strong>off</strong> trying it for the first time."
+            },
+            {
+              "opt": "3",
+              "word": "take ... off",
+              "zh": "脱下；起飞；休假",
+              "eg": "Please <strong>take</strong> your shoes <strong>off</strong> before entering the prayer hall."
+            },
+            {
+              "opt": "4",
+              "word": "break ... up",
+              "zh": "分散；解散；分手",
+              "eg": "The teacher had to <strong>break</strong> the noisy crowd <strong>up</strong> at the canteen."
+            }
+          ]
+        },
+        "12": {
+          "zh": "为了增强你的词汇量，你需要每天花时间阅读。",
+          "note": "应选（3）'strengthen'：题干语境最宜表达'加强；增强'。'diminish'义为'减少；削弱'：与题干逻辑及英语解析中的辨析不一致。'assemble'义为'组装；聚集'：偏指物理阻挡等义，与语境不符。'undermine'义为'削弱；破坏（信心、根基）'：语义方向与句意相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — strengthen（加强；增强）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "diminish",
+              "zh": "减少；削弱",
+              "eg": "Praise from a stranger does not <strong>diminish</strong> the value of praise from your parents."
+            },
+            {
+              "opt": "2",
+              "word": "assemble",
+              "zh": "组装；聚集",
+              "eg": "Pupils must <strong>assemble</strong> at the parade square by 7.30 a.m."
+            },
+            {
+              "opt": "3",
+              "word": "strengthen",
+              "zh": "加强；增强",
+              "eg": "Daily practice will <strong>strengthen</strong> both your memory and your confidence."
+            },
+            {
+              "opt": "4",
+              "word": "undermine",
+              "zh": "削弱；破坏（信心、根基）",
+              "eg": "Constant criticism can <strong>undermine</strong> a child's self-esteem over time."
+            }
+          ]
+        },
+        "13": {
+          "zh": "暴风雨过后，河流水位迅速上涨，很快就造成了洪水。",
+          "note": "应选（1）'rapidly'：题干语境最宜表达'迅速地；快速地'。'slightly'义为'略微地；稍微'：与题干逻辑及英语解析中的辨析不一致。'silently'义为'无声地；悄悄地'：与题干逻辑及英语解析中的辨析不一致。'roughly'义为'粗略地；粗暴地'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — rapidly（迅速地；快速地）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rapidly",
+              "zh": "迅速地；快速地",
+              "eg": "The little boy was learning English <strong>rapidly</strong> after just three months in Singapore."
+            },
+            {
+              "opt": "2",
+              "word": "slightly",
+              "zh": "略微地；稍微",
+              "eg": "Tilt the screen <strong>slightly</strong> so the sunlight does not glare on it."
+            },
+            {
+              "opt": "3",
+              "word": "silently",
+              "zh": "无声地；悄悄地",
+              "eg": "She slipped out of the dark room <strong>silently</strong> so as not to wake the baby."
+            },
+            {
+              "opt": "4",
+              "word": "roughly",
+              "zh": "粗略地；粗暴地",
+              "eg": "He <strong>roughly</strong> pushed the door open, leaving a black mark on the wall."
+            }
+          ]
+        },
+        "14": {
+          "zh": "那位总学长候选人的演讲含糊不清，里面有许多不明确的陈述，使他的立场难以理解。",
+          "note": "应选（3）'ambiguous'：题干语境最宜表达'含糊的；有歧义的'。'factual'义为'事实的；基于事实的'：与题干逻辑及英语解析中的辨析不一致。'concise'义为'简明的；简洁的'：与题干逻辑及英语解析中的辨析不一致。'straightforward'义为'直截了当的；简单的'：语义方向与句意相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — ambiguous（含糊的；有歧义的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "factual",
+              "zh": "事实的；基于事实的",
+              "eg": "The newspaper article was <strong>factual</strong> and free from personal opinions."
+            },
+            {
+              "opt": "2",
+              "word": "concise",
+              "zh": "简明的；简洁的",
+              "eg": "The teacher likes <strong>concise</strong> answers that go straight to the point."
+            },
+            {
+              "opt": "3",
+              "word": "ambiguous",
+              "zh": "含糊的；有歧义的",
+              "eg": "Her <strong>ambiguous</strong> reply left us unsure of whether she would join the trip."
+            },
+            {
+              "opt": "4",
+              "word": "straightforward",
+              "zh": "直截了当的；简单的",
+              "eg": "The instructions were <strong>straightforward</strong>, so even the youngest pupils could follow them."
+            }
+          ]
+        },
+        "15": {
+          "zh": "她戴上太阳眼镜来遮掩疲惫的双眼。",
+          "note": "应选（3）'conceal'：题干语境最宜表达'隐藏；掩盖'。'block'义为'阻挡；堵塞'：与题干逻辑及英语解析中的辨析不一致。'shade'义为'遮阴；为…遮挡阳光'：与题干逻辑及英语解析中的辨析不一致。'disguise'义为'伪装；乔装'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — conceal（隐藏；掩盖）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "block",
+              "zh": "阻挡；堵塞",
+              "eg": "A fallen tree began to <strong>block</strong> the entire road during the storm."
+            },
+            {
+              "opt": "2",
+              "word": "shade",
+              "zh": "遮阴；为…遮挡阳光",
+              "eg": "She used her hand to <strong>shade</strong> her eyes from the glaring sun."
+            },
+            {
+              "opt": "3",
+              "word": "conceal",
+              "zh": "隐藏；掩盖",
+              "eg": "He tried to <strong>conceal</strong> the broken vase by pushing the pieces under the sofa."
+            },
+            {
+              "opt": "4",
+              "word": "disguise",
+              "zh": "伪装；乔装",
+              "eg": "The detective wore a wig to <strong>disguise</strong> himself as an old man."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "bewildered",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "excited",
+            "2": "shocked",
+            "3": "annoyed",
+            "4": "confused"
+          }
+        },
+        "17": {
+          "stem_plain": "signalled",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "forced",
+            "2": "followed",
+            "3": "gestured",
+            "4": "requested"
+          }
+        },
+        "18": {
+          "stem_plain": "comprehend",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "speak",
+            "2": "translate",
+            "3": "recognise",
+            "4": "understand"
+          }
+        },
+        "19": {
+          "stem_plain": "nudged",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "pulled",
+            "2": "guided",
+            "3": "tapped",
+            "4": "pushed"
+          }
+        },
+        "20": {
+          "stem_plain": "honestly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "easily",
+            "2": "eagerly",
+            "3": "rightfully",
+            "4": "reluctantly"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Abel Mutai, a Kenyan runner, was just a few metres from the finish line. Suddenly, he became [Q16 (bewildered)] by the signage and stopped, thinking he had completed the race. A Spanish runner, Ivan Fernandez, was right behind him. He noticed the situation and [Q17 (signalled)] the Kenyan to continue running. However, Mutai could not [Q18 (comprehend)] the language. Seeing the situation, Fernandez gently [Q19 (nudged)] Mutai forward, ensuring he crossed the finish line first.",
+          "When asked by a journalist why he acted this way, Fernandez said, \"If I had taken advantage of the situation, I wouldn't have earned the medal [Q20 (honestly)]. My mother has always taught me to make choices that I can be proud of.\""
+        ],
+        "zh": [
+          "肯尼亚选手 Abel Mutai 离终点只剩几米。突然，他被路标弄得晕头转向而停下，以为自己已完成比赛。西班牙选手 Ivan Fernandez 紧跟在后，注意到情况后示意肯尼亚选手继续跑。然而 Mutai 听不懂这种语言。见此情形，Fernandez 轻轻推他向前，确保他先冲过终点线。",
+          "当记者问他为何如此行事，Fernandez 说：“如果我利用那种情况，我就不会诚实地赢得奖牌。母亲一直教我做出让自己自豪的选择。”"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — bewildered（混淆）",
+          "note": "应选（4）'confused'：短文划线的 <em>bewildered</em> 在此语境下与此义最接近。'excited'：义为'excited'，与短文语境或搭配要求不一致。'shocked'：义为'shocked'，与短文语境或搭配要求不一致。'annoyed'：义为'annoyed'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "突然，他被路标弄得晕头转向而停下，以为自己已完成比赛。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "excited",
+              "zh": "兴奋",
+              "eg": "The coach <strong>excited</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "shocked",
+              "zh": "震惊",
+              "eg": "The coach <strong>shocked</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "annoyed",
+              "zh": "惹恼",
+              "eg": "The coach <strong>annoyed</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "confused",
+              "zh": "混淆",
+              "eg": "The coach <strong>confused</strong> the players after the match."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — signalled（手势）",
+          "note": "应选（3）'gestured'：短文划线的 <em>signalled</em> 在此语境下与此义最接近。'forced'：义为'forced'，与短文语境或搭配要求不一致。'followed'：义为'followed'，与短文语境或搭配要求不一致。'requested'：义为'requested'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "西班牙选手 Ivan Fernandez 紧跟在后，注意到情况后示意肯尼亚选手继续跑。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "forced",
+              "zh": "力",
+              "eg": "The coach <strong>forced</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "followed",
+              "zh": "跟随",
+              "eg": "The coach <strong>followed</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "gestured",
+              "zh": "手势",
+              "eg": "The coach <strong>gestured</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "requested",
+              "zh": "要求",
+              "eg": "The coach <strong>requested</strong> the players after the match."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — comprehend（理解）",
+          "note": "应选（4）'understand'：短文划线的 <em>comprehend</em> 在此语境下与此义最接近。'speak'：义为'speak'，与短文语境或搭配要求不一致。'translate'：义为'translate'，与短文语境或搭配要求不一致。'recognise'：义为'recognise'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "然而 Mutai 听不懂这种语言。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "speak",
+              "zh": "说话",
+              "eg": "The pupils found the word <strong>speak</strong> useful in their composition."
+            },
+            {
+              "opt": "2",
+              "word": "translate",
+              "zh": "翻译",
+              "eg": "The speaker chose <strong>translate</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "recognise",
+              "zh": "认出",
+              "eg": "In class we discussed how <strong>recognise</strong> fits everyday English."
+            },
+            {
+              "opt": "4",
+              "word": "understand",
+              "zh": "理解",
+              "eg": "The pupils found the word <strong>understand</strong> useful in their composition."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — nudged（推）",
+          "note": "应选（4）'pushed'：短文划线的 <em>nudged</em> 在此语境下与此义最接近。'pulled'：义为'pulled'，与短文语境或搭配要求不一致。'guided'：义为'guided'，与短文语境或搭配要求不一致。'tapped'：义为'tapped'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "见此情形，Fernandez 轻轻推他向前，确保他先冲过终点线。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pulled",
+              "zh": "普尔",
+              "eg": "The coach <strong>pulled</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "guided",
+              "zh": "指导",
+              "eg": "The coach <strong>guided</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "tapped",
+              "zh": "轻敲",
+              "eg": "The coach <strong>tapped</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "pushed",
+              "zh": "推",
+              "eg": "The coach <strong>pushed</strong> the players after the match."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — honestly（正当地）",
+          "note": "应选（3）'rightfully'：短文划线的 <em>honestly</em> 在此语境下与此义最接近。'easily'：义为'容易地'，与短文语境或搭配要求不一致。'eagerly'：义为'热切地；急切地'，与短文语境或搭配要求不一致。'reluctantly'：义为'不情愿地；勉强地'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "如果我利用那种情况，我就不会正当地赢得奖牌。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "easily",
+              "zh": "易西地",
+              "eg": "She answered <strong>easily</strong> before the bell rang."
+            },
+            {
+              "opt": "2",
+              "word": "eagerly",
+              "zh": "热切地；急切地",
+              "eg": "She <strong>eagerly</strong> opened the parcel from her overseas friend."
+            },
+            {
+              "opt": "3",
+              "word": "rightfully",
+              "zh": "正当地",
+              "eg": "She answered <strong>rightfully</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "reluctantly",
+              "zh": "不情愿地；勉强地",
+              "eg": "She <strong>reluctantly</strong> handed over her phone before sitting down for the exam."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the poster in Text 1, users of easyLocker must ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "collect their parcels within 24 hours",
+            "2": "key in a unique access code to retrieve their parcels",
+            "3": "share their home address with the delivery personnel to receive their parcels",
+            "4": "provide contact details to the delivery personnel to retrieve their parcels"
+          }
+        },
+        "22": {
+          "stem_plain": "\"Remember to secure the locker before you leave!\" Why did the writer include this line in the poster in Text 1?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "To encourage users to leave the area quickly",
+            "2": "To remind users to close the lockers for security",
+            "3": "To ensure users are aware of the locker's closing time",
+            "4": "To make users aware of the importance of keeping the area tidy"
+          }
+        },
+        "23": {
+          "stem_plain": "\"Unlock the easy way to get your parcels.\" The entire picture in the middle of the poster supports this statement by giving the impression that easyLockers are ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "free for all online shoppers",
+            "2": "replacing door-to-door delivery entirely",
+            "3": "easily accessible in many parts of Singapore",
+            "4": "only useful in emergency situations or during natural disasters"
+          }
+        },
+        "24": {
+          "stem_plain": "Based on the information in both Text 1 and Text 2, why might parcel lockers be a better option?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They are free to use.",
+            "2": "They offer additional discounts on items.",
+            "3": "They guarantee faster delivery than home delivery.",
+            "4": "They help reduce the number of delivery vehicles on the road."
+          }
+        },
+        "25": {
+          "stem_plain": "Text 1 tells us the advantages of using parcel lockers. However, based on Text 2, we know that ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "the parcel lockers are underutilised",
+            "2": "the parcel lockers service is temporary",
+            "3": "the parcel lockers are confusing to use",
+            "4": "the parcel lockers are located at inconvenient places"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Reading instructions on a poster（题型考点）",
+          "breakdown": {
+            "zh": "easyLocker 用户必须输入一个专属取件码来领取包裹。",
+            "note": "'must key in'表示必须输入；宾语是'a unique access code'。不定式'to retrieve their parcels'说明输入取件码的目的。"
+          },
+          "note": "Step 4 of \"How to use easyLocker?\" says \"<span class=\"hl\">Enter your unique access code sent to you</span>\" — i.e. <em>key in</em> the code. <span class=\"hl-bad\">(1)</span> \"within 24 hours\" is not stated; <span class=\"hl-bad\">(3)/(4)</span> contradict the poster — Privacy section says easyLocker <em>keeps</em> the home address and contact details <em>private</em> from delivery personnel.",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "目的 — Author’s purpose — closing reminder（目的考点）",
+          "breakdown": {
+            "zh": "作者加入这句话，是为了提醒用户为了安全要关好储物柜。",
+            "note": "'to remind…'是不定式目的状语，说明作者写这句话的目的；'for security'进一步说明为什么要关好 locker。"
+          },
+          "note": "\"<span class=\"hl\">Secure</span>\" the locker = make sure it is properly closed / locked, so the contents stay safe. The reminder is about <span class=\"hl-good\">security</span>, not housekeeping or speed. <span class=\"hl-bad\">(1)</span> \"leave quickly\" misreads <em>secure</em>; <span class=\"hl-bad\">(3)</span> there’s no closing time mentioned — easyLocker is \"Always Open\"; <span class=\"hl-bad\">(4)</span> tidiness is not the point.",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "推理 — Inference from a poster picture（推理考点）",
+          "breakdown": {
+            "zh": "这张图给人的印象是，easyLocker 在新加坡许多地方都很容易使用。",
+            "note": "'give the impression that…'是固定表达，that 从句作宾语补足语，说明“留下什么印象”。'easily accessible'是形容词短语作表语。"
+          },
+          "note": "The middle picture shows lockers in different settings together with the \"<span class=\"hl\">Convenient Location: choose from over 250 locations</span>\" caption. The visual reinforces the idea that easyLockers are spread out across many areas → <span class=\"hl-good\">easily accessible</span>. <span class=\"hl-bad\">(1)</span> \"free\" is never claimed; <span class=\"hl-bad\">(2)</span> \"replacing entirely\" — too strong; <span class=\"hl-bad\">(4)</span> \"emergencies / disasters\" — never mentioned.",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "题型 — Comparing two texts — environmental benefit（题型考点）",
+          "breakdown": {
+            "zh": "包裹储物柜有助于减少道路上的送货车辆数量。",
+            "note": "'help reduce'后接动词原形，表示“帮助减少”。宾语是'the number of delivery vehicles'，'on the road'修饰 vehicles，说明车辆在哪里。"
+          },
+          "note": "Text 1 highlights \"<span class=\"hl\">Consolidated deliveries … reduce your carbon footprint</span>\", and Text 2 echoes this with \"<span class=\"hl\">Using parcel lockers can help reduce traffic from delivery vehicles and lower our carbon footprint</span>\". The shared point in BOTH texts is fewer delivery vehicles. <span class=\"hl-bad\">(1)</span> \"free\" is not claimed in either text; <span class=\"hl-bad\">(2)</span> \"discounts\" is not mentioned; <span class=\"hl-bad\">(3)</span> \"faster than home delivery\" is the opposite — Text 2 says people prefer home delivery <em>because</em> it is <em>more convenient</em>.",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Contrast between two texts（题型考点）",
+          "breakdown": {
+            "zh": "根据文本二，包裹储物柜的使用率偏低。",
+            "note": "'underutilised'表示“未被充分使用 / 使用率不足”。Text 2 中 “only 13 out of every 100 lockers were being used” 是关键证据。"
+          },
+          "note": "Text 2’s headline statistic: \"<span class=\"hl\">only 13 out of every 100 lockers were being used</span>\" — i.e. <span class=\"hl-good\">underutilised</span>. <span class=\"hl-bad\">(2)</span> \"temporary\" is not stated; the article actually says companies hope <em>more</em> people will use lockers. <span class=\"hl-bad\">(3)</span> \"confusing\" — Text 2 says <em>some shoppers didn’t see</em> the option, not that it is confusing to use. <span class=\"hl-bad\">(4)</span> directly contradicts Text 2: lockers are \"<em>placed conveniently around the country</em>\".",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "any",
+          "D": "at",
+          "G": "might",
+          "K": "should",
+          "N": "to",
+          "B": "are",
+          "E": "however",
+          "H": "my",
+          "L": "then",
+          "P": "with",
+          "C": "as",
+          "F": "is",
+          "J": "or",
+          "M": "this",
+          "Q": "which"
+        },
+        "cloze": [
+          "Spending time on your phone, tablet, or computer can be very enjoyable. [Q26], it is important to remember that too much screen time can have negative effects. If you spend long hours looking [Q27] a screen, it can make you feel tired, affect your sleep and even leave you feeling less energetic. You [Q28] also find it harder to focus on other important things, like schoolwork or spending quality time [Q29] family and friends.",
+          "To stay healthy, you [Q30] balance screen time with other activities. Make time for outdoor play, reading, [Q31] hobbies that do not involve screens. Setting limits on how much time you spend on devices [Q32] an effective way to keep things in balance. For example, you could decide to play for thirty minutes and [Q33] take a break to do something else. This is more beneficial than spending the entire day on screens [Q34] can leave you feeling drained.",
+          "It is also a good idea to have days when you do not use screens at all and take [Q35] chance to explore new activities. Remember, technology is fun, but it is important to enjoy the world around you too!"
+        ],
+        "zh": [
+          "花时间使用手机、平板或电脑可能非常有趣。然而，重要的是要记住，过多的屏幕时间可能会产生负面影响。如果你长时间盯着屏幕，它会让你感到疲倦，影响睡眠，甚至让你觉得精力不足。你还可能更难专注于其他重要的事情，比如学业或与亲朋好友共度美好时光。",
+          "为了保持健康，你应该平衡屏幕时间与其他活动。腾出时间进行户外玩耍、阅读或不涉及屏幕的爱好。限制使用电子设备的时间是一种保持平衡的有效方法。例如，你可以决定玩三十分钟，然后休息一下去做其他事情。这比整天盯着屏幕更有益，后者会让你感到筋疲力尽。",
+          "完全不使用屏幕并抓住机会探索新活动的日子也是个好主意。记住，科技很有趣，但欣赏你周围的世界也很重要。"
+        ]
+      },
+      "answers": {
+        "26": {
+          "concept": "转折 — however",
+          "note": "好玩，however 提醒屏幕时间过多。",
+          "answer": "E — however"
+        },
+        "27": {
+          "concept": "介词 — at",
+          "note": "looking at a screen = 盯着屏幕。",
+          "answer": "D — at"
+        },
+        "28": {
+          "concept": "情态 — might",
+          "note": "You might also find = 可能更难专注。",
+          "answer": "G — might"
+        },
+        "29": {
+          "concept": "介词 — with",
+          "note": "time with family and friends = 与亲友相处。",
+          "answer": "P — with"
+        },
+        "30": {
+          "concept": "情态 — should",
+          "note": "you should balance = 应平衡屏幕与其他活动。",
+          "answer": "K — should"
+        },
+        "31": {
+          "concept": "并列 — or",
+          "note": "reading, or hobbies = 阅读或不用屏幕的爱好。",
+          "answer": "J — or"
+        },
+        "32": {
+          "concept": "主谓一致 — is",
+          "note": "Setting limits … is an effective way，动名词主语用 is。",
+          "answer": "F — is"
+        },
+        "33": {
+          "concept": "顺序 — then",
+          "note": "play … then take a break = 玩一会儿再休息。",
+          "answer": "L — then"
+        },
+        "34": {
+          "concept": "关系代词 — which",
+          "note": "screens which can leave you drained，修饰 screens。",
+          "answer": "Q — which"
+        },
+        "35": {
+          "concept": "指示词 — this",
+          "note": "take this chance = 抓住这个机会。",
+          "answer": "M — this"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Dear Diary, It was an unforgettable day of outdoor learning with my Primary 6 schoolmates. The morning started off [Q36(in)] a sense of excitement as we ventured out into the field for our first hands-on [Q37(expirience)] . I was initially very concerned about the [Q38(complex)] of the tasks that we needed to do but it turned out quite to be [Q39(manegeble)] with the instructor's clear instructions. I was pleasantly surprised by how [Q40(engaging)] my schoolmates were in these activities!",
+          "We began with a nature walk. We had to observe and describe the different plants and insects we saw. It was a great [Q41(opurtunity)] for us to practise using descriptive language. [Q42(Although)] struggling to find the right words, we worked well together. It was a wonderful moment of [Q43(collebaration)] and learning.",
+          "Later, we had a group discussion, where we shared what we had discovered. Even the quieter ones found their voice, and I could see their confidence growing. It was indeed a [Q44(fulfilled)] day as outdoor learning not only broadened our vocabulary but also built a stronger sense of [Q45(comunnity)] among the students. Outdoor learning is definitely fun and meaningful!"
+        ],
+        "zh": [
+          "亲爱的日记：与六年级同学户外学习的一天令人难忘。早晨在兴奋感中开始，我们走向户外进行第一次动手体验。我起初担心任务的复杂程度，但在教练清晰说明下，一切相当 manageable。我惊喜于同学们在这些活动中多么投入。",
+          "我们先进行自然漫步，观察并描述所见植物与昆虫。这是练习描述性语言的绝佳机会。尽管找合适词语有些吃力，我们仍合作得很好，那是协作与学习的美好时刻。",
+          "后来我们小组讨论，分享发现。较安静的同学也找到声音，我看到他们的信心在增长。这确实是充实的一天：户外学习不仅拓展词汇，也在学生间建立更强的共同体感。户外学习确实有趣且有意义！"
+        ]
+      },
+      "answers": {
+        "36": {
+          "concept": "Preposition collocation",
+          "note": "\"start off <span class=\"hl-good\">with</span> + noun\" = begin by having / including. \"started off <em>in</em> a sense of excitement\" is wrong (<em>in</em> describes location / state, not a starting accompaniment).",
+          "answer": "with"
+        },
+        "37": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-good\">experience</span> — note <code>ex-pe-ri-ence</code>, not <em>expirience</em>. The vowel is <strong>e</strong>, not <em>i</em>, after <code>p</code>.",
+          "answer": "experience"
+        },
+        "38": {
+          "concept": "Word-form (adjective → noun)",
+          "note": "After \"<em>concerned about <strong>the</strong></em>\" we need a <strong>noun</strong>. <code>complex</code> is an adjective; the noun form is <span class=\"hl-good\">complexity</span> (= the state of being complex).",
+          "answer": "complexity"
+        },
+        "39": {
+          "concept": "Spelling — keep the e in -age + -able",
+          "note": "<code>manage</code> + <code>-able</code>. Verbs ending in <em>-ge</em> keep the silent <code>e</code> before <code>-able</code> to preserve the soft <em>g</em> sound: <span class=\"hl-good\">manageable</span> (compare <em>changeable</em>, <em>noticeable</em>).",
+          "answer": "manageable"
+        },
+        "40": {
+          "concept": "Word-form (-ing → -ed)",
+          "note": "When describing how a person <em>feels / behaves</em>, use the <code>-ed</code> participle: \"schoolmates <em>were</em> <span class=\"hl-good\">engaged</span> in these activities\" (= taking part). <em>engaging</em> describes something that <em>holds your interest</em> — used for activities, not for the people doing them.",
+          "answer": "engaged"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-good\">opportunity</span> — double <strong>p</strong>, single <strong>r</strong>, ends in <em>-tunity</em>. <em>opurtunity</em> is wrong on both counts.",
+          "answer": "opportunity"
+        },
+        "42": {
+          "concept": "Subordinator vs preposition",
+          "note": "\"<em>Although</em>\" needs a clause with a subject (<em>Although <strong>we</strong> struggled…</em>). The original \"<em>Although struggling</em>\" has only an <code>-ing</code> phrase, so use the preposition <span class=\"hl-good\">Despite</span>: <code>Despite + V-ing / + noun</code> = <em>even though</em>.",
+          "answer": "Despite"
+        },
+        "43": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-good\">collaboration</span> — double <strong>l</strong> (co<strong>ll</strong>-), single <strong>b</strong>, ends in <em>-oration</em>. <em>collebaration</em> swaps the second <em>a</em> for <em>e</em>.",
+          "answer": "collaboration"
+        },
+        "44": {
+          "concept": "Word-form (-ed → -ing for things that feel)",
+          "note": "\"a <span class=\"hl-good\">fulfilling</span> day\" — adjective describing the day (the day <em>caused</em> a feeling of fulfilment). <em>fulfilled</em> describes a person <em>who feels</em> satisfied, not the day itself.",
+          "answer": "fulfilling"
+        },
+        "45": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-good\">community</span> — single <strong>m</strong>, single <strong>n</strong>: <em>com-mu-ni-ty</em>. <em>comunnity</em> wrongly doubles the <em>n</em>.",
+          "answer": "community"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The Singapore Food Agency (SFA) is planning to change Lim Chu Kang into a modern farming area that uses less resources to grow more food. This will help Singaporeans produce more of [Q46] own food and not [Q47] too much on other countries.",
+          "As Singapore buys over 90% of its food [Q48] other places, we can be vulnerable when other countries face shortage problems. To combat [Q49], Singapore wants to grow 30% of the food we need by the year 2030. Much support [Q50] been given by the government to the farmers.",
+          "The new farming area will have shared [Q51] like water and power infrastructure to help farms save money and use fewer resources. It will also try to reduce waste and be more efficient. However, to [Q52] that different kinds of plants and animals are protected, an environmental study is [Q53] with the help of environmental experts.",
+          "The study looks [Q54] at the types of plants and animals living in the area, including those [Q55] may be rare or endangered. Special attention is given to native species that play an [Q56] role in the local ecosystem. Environmental experts are working with farmers and planners to make sure these species are not harmed by the development.",
+          "Measures such as [Q57] aside green spaces, creating buffer zones, and using eco-friendly farming methods will [Q58] wildlife habitats. For example, trees that birds and insects need will be kept as much as [Q59], and farming activities will be planned to stay away from areas that are easily harmed.",
+          "With careful planning, the new Lim Chu Kang farming area can become a model for how nature and modern agriculture can work hand [Q60] hand to ensure that Singapore's growth in farming does not come at the cost of its rich biodiversity."
+        ],
+        "zh": [
+          "新加坡食品局计划把林厝港打造成资源节约的现代农区，让国人生产更多自己的粮食，不过度依赖他国。",
+          "新加坡逾九成食物来自外地进口，他国若出现短缺，我们易受冲击。为应对这一问题，新加坡力争到2030年自产三成所需粮食，政府也已给予农民大量支持。",
+          "新农区将共享水电等基础设施，帮助农场省钱、少用资源，并力求减废增效。然而，为确保不同动植物受到保护，当局正与环境专家合作开展环境研究。",
+          "研究将仔细调查当地动植物种类，包括可能稀有或濒危者；特别关注在本地生态系统中扮演重要角色的本土物种。环境专家与农民、规划者合作，确保开发不伤害这些物种。",
+          "措施包括保留绿地、设立缓冲带、采用环保农法以保护野生动物栖息地。例如，尽可能保留鸟类与昆虫所需的树木，并规划农作活动，避开易受损区域。",
+          "若规划得当，林厝港新农区可成为自然与现代农业携手并进的典范，使新加坡农业增长不以牺牲丰富生物多样性为代价。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词短语 own food，指代前文的复数主体 Singaporeans（新加坡人），表示生产“他们自己的”食物，用形容词性物主代词 their。",
+          "answer": "their"
+        },
+        "47": {
+          "concept": "动词与介词固定搭配",
+          "note": "与后面的介词 on 组合构成高频固定短语动词 rely on 或 depend on，前面有否定词 not 限制，此处填入动词原形，表示“不依赖”其他国家。",
+          "answer": "rely/depend"
+        },
+        "48": {
+          "concept": "介词搭配",
+          "note": "表示食物的来源地。指新加坡有超过九成的食物是从其他地方购买、进口“而来”，使用介词 from。",
+          "answer": "from"
+        },
+        "49": {
+          "concept": "指示代词",
+          "note": "作动词 combat（对抗/解决）的宾语，用来指代前一句中提到的整个负面情况（即新加坡严重依赖进口，在面对他国食物短缺时非常脆弱的现状），用指示代词 this 或 that。",
+          "answer": "this/that"
+        },
+        "50": {
+          "concept": "主谓一致与被动语态助动词",
+          "note": "Much support 为不可数名词，充当单数第三人称主语。结合后面的 been given，构成现在完成时的被动语态（has been given），表示政府已经给予了“许多支持”。",
+          "answer": "has"
+        },
+        "51": {
+          "concept": "名词语意辨析",
+          "note": "后文有 like water and power infrastructure（如水、电基础设施）进行列举，说明该区域将会拥有共享的“设施”、“资源”或“基础设施”（facilities / resources / infrastructure）。",
+          "answer": "facilities/resources/infrastructure"
+        },
+        "52": {
+          "concept": "动词与宾语从句搭配",
+          "note": "不定式符号 to 后接动词原形表目的。后接 that 引导的宾语从句，指为了“确保”（ensure / make sure）不同种类的动植物受到保护。",
+          "answer": "ensure"
+        },
+        "53": {
+          "concept": "形容词/被动语态分词",
+          "note": "此处位于系动词 is 之后，用以说明这项环境研究目前所处的状态。可以填入形容词 ongoing（正在进行的），或填入过去分词 conducted / required / carried（后接 out 构成 carries out 变体，此处 conducts 意为被开展、被要求），表示研究“正在进行”或“被开展”。",
+          "answer": "ongoing/conducted/required"
+        },
+        "54": {
+          "concept": "动词短语与副词修饰",
+          "note": "修饰动词短语 looks at（观察/研究）。填入副词 closely（紧密地/仔细地）或 carefully（认真地）构成 look closely/carefully at，表示这项研究正在“仔细审视”该地区的动植物。",
+          "answer": "closely/carefully"
+        },
+        "55": {
+          "concept": "定语从句关系代词",
+          "note": "限定性定语从句，修饰代词 those（指代前文的 plants and animals 动植物，属于物）。从句中缺少主语且先行词为物，故填入关系代词 that 或 which。",
+          "answer": "that/which"
+        },
+        "56": {
+          "concept": "形容词固定搭配",
+          "note": "前面有不定冠词 an，后接元音开头的形容词。构成经典固定搭配 play an important/essential/integral role in，表示在本地生态系统中扮演着“重要/关键”的角色。",
+          "answer": "important/essential/integral"
+        },
+        "57": {
+          "concept": "动名词并列与短语动词",
+          "note": "介词短语 such as 后接动名词。与后面的 creating、using 在语法结构上保持平行并列，且与后面的 aside 组合构成短语动词 set aside，表示“拨出/留出”绿色空间。",
+          "answer": "setting"
+        },
+        "58": {
+          "concept": "情态动词后的动词原形",
+          "note": "情态动词 will 后面需要接动词原形。指上文提到的环保举措将能够“保护”、“拯救”或“支持”野生动物的栖息地（preserve / protect / save / support / help）。",
+          "answer": "preserve/protect/save/support/help"
+        },
+        "59": {
+          "concept": "固定习惯搭配",
+          "note": "属于极高频常考的经典固定习惯短语 as much as possible（尽可能多地）或 as much as can（这里由句式限制填入形容词 possible / feasible 最佳），表示树木将被“尽可能”保留下来。",
+          "answer": "possible/feasible"
+        },
+        "60": {
+          "concept": "习语搭配",
+          "note": "完美契合英语中形容自然与现代农业关系的经典习语 work hand in hand，意为“携手并进”或“密切配合”。",
+          "answer": "in"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "The nurse said, \"Mrs Lim, you missed your doctor's appointment last week.\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The nurse told Mrs Lim that __________ ."
+        },
+        "62": {
+          "stem_plain": "The judges will accept the artwork if it is properly framed.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Unless __________ ."
+        },
+        "63": {
+          "stem_plain": "Grace enjoys baking with her mother.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "What Grace __________ ."
+        },
+        "64": {
+          "stem_plain": "He saw the doctor. He felt much better.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Having __________ ."
+        },
+        "65": {
+          "stem_plain": "The rescue team succeeded in their mission to save the stranded hiker from the mountain.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The rescue team's mission __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "61": {
+          "concept": "间接引语 — statement（Reported speech）",
+          "zh": "护士告诉 Lim 太太，她前一周错过了自己的医生预约。",
+          "note": "直接引语改间接引语：<code>you/your</code> 改成 <code>she/her</code>，<code>last week</code> 改成 <code>the previous week</code>。",
+          "answer": "The nurse told Mrs Lim that she had missed her doctor’s appointment the previous week."
+        },
+        "62": {
+          "concept": "条件句 — If → Unless (negative condition)",
+          "zh": "除非那件艺术作品被妥善装框，否则评委不会接受它。",
+          "note": "<code>Unless</code> = <em>if ... not</em>。原句“如果装框就接受”改成“除非装框，否则不接受”。",
+          "answer": "Unless the artwork is properly framed, the judges will not accept it."
+        },
+        "63": {
+          "concept": "强调句 — What … is …（Cleft sentence）",
+          "zh": "Grace 喜欢做的事情是和她的妈妈一起烘焙。",
+          "note": "使用 cleft sentence 句型：<code>What + subject + enjoys doing + is + gerund phrase</code>。",
+          "answer": "What Grace enjoys doing is baking with her mother."
+        },
+        "64": {
+          "concept": "分词短语 — Perfect participle phrase",
+          "zh": "看过医生之后，他感觉好多了。",
+          "note": "用完成分词短语 <code>Having + past participle</code> 表示第一个动作先完成，再发生主句动作。",
+          "answer": "Having seen the doctor, he felt much better."
+        },
+        "65": {
+          "concept": "句型转换 — Verb → adjective (succeeded → was successful)",
+          "zh": "救援队从山上救下被困徒步者的任务成功了。",
+          "note": "把 <code>succeeded in saving</code> 改写成 <code>mission to save ... was successful</code>。",
+          "answer": "The rescue team’s mission to save the stranded hiker from the mountain was successful."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "Why did the narrator think that the toy cabinet was inaccessible?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "67": {
+          "stem_plain": "Fill in the following table to show the narrator's emotions before and within the first week of using the combination lock.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "(a) Before using the combination lock",
+                "(b) Within the first week of using the combination lock"
+              ]
+            },
+            "col_2": {
+              "header": "Emotions",
+              "rows": [
+                "[Q67a]",
+                "[Q67b]"
+              ]
+            }
+          }
+        },
+        "68": {
+          "stem_plain": "According to paragraph 3, which 7-word phrase shows that Scotty was very advanced in his language skills?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "69": {
+          "stem_plain": "Based on lines 19 – 28, what did Scotty do that surprised the narrator?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q69a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q69b]"
+            }
+          ]
+        },
+        "70": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answer on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **each** (line 12)",
+                "(b) **the rest** (line 18)",
+                "(c) **every one** (line 35)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q70a]",
+                "[Q70b]",
+                "[Q70c]"
+              ]
+            }
+          }
+        },
+        "71": {
+          "stem_plain": "Based on lines 9 – 44, state whether each statement in the table below is **true** or **false**, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement(s)",
+              "rows": [
+                "(a) The narrator wanted to end the use of the toy cabinet.",
+                "(b) The combination lock for the toy cabinet initially worked.",
+                "(c) Scotty's father taught him how to assemble an old clock."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q71a]",
+                "[Q71c]",
+                "[Q71e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q71b]",
+                "[Q71d]",
+                "[Q71f]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "Explain in your own words what Scotty meant when he said, \"It was quite elementary.\" in lines 29 and 30.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Do you think Scotty's mother was surprised by the incident? Use evidence from the passage to support your answer.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "What did Scotty's mother think of the narrator's chances of keeping Scotty out of the cabinet? What did she do to show it?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Which one of the following words best describes how the narrator feels towards Scotty at the end of passage? Put a tick ✓ in the box beside your answer. **DO NOT TICK MORE THAN ONE BOX.**",
+          "marks": 1,
+          "interaction": "checkbox_comp",
+          "options": [
+            "amazed",
+            "disappointed",
+            "frustrated",
+            "pleased"
+          ],
+          "max_selections": 1
+        },
+        "76": {
+          "stem_plain": "Why did he feel this way?",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "I thought I was losing my sanity because, far too often, when I arrived",
+          "2": "at the preschool I ran, I would find the toy cabinet wide open and toys strewn",
+          "3": "everywhere. The rule was that each child could take out one toy at a time and",
+          "4": "had to return it before getting another. High up and latched securely, the",
+          "5": "cabinet was not easily accessible, so I assumed a teacher with access to the",
+          "6": "key was opening it for them. I raised the issue with the staff, but they denied",
+          "7": "opening it. Frustrated, I bought a combination lock and shared the code with",
+          "8": "the teachers who needed access. The first week after installing it, we were",
+          "9": "relieved to find the cabinet still securely locked.",
+          "10": "But first thing on Monday of the following week, the cabinet had been",
+          "11": "opened again, with toys scattered everywhere. I questioned everyone who",
+          "12": "was given the lock combination but **each** insisted that they had not opened it",
+          "13": "or shared the code. Assuming I had failed to lock it properly, I made sure it",
+          "14": "was securely locked that day. However, the very next day, the cabinet was",
+          "15": "wide open again, and toys filled the room once more. It was infuriating and I",
+          "16": "considered nailing it shut and banning toys altogether. That day, I finally",
+          "17": "realised the cause of the problem when we gathered the toys. Except those",
+          "18": "the children were playing with, I put **the rest** away into the cabinet.",
+          "19": "In my flustered state, I locked the cabinet again, forgetting that some",
+          "20": "toys were still outside. Realising my mistake, I decided to leave it locked until",
+          "21": "the children were ready to switch toys. When a little girl asked to exchange",
+          "22": "her toy, a three-year-old boy named Scotty, with the vocabulary of an English",
+          "23": "professor, offered to help her. I just smiled, thinking he could not open the",
+          "24": "cabinet. After letting Scotty and the little girl each choose a toy, I put the rest",
+          "25": "away into the cabinet and locked it again. When Scotty offered to help another",
+          "26": "child exchange toys, I decided to observe. To my astonishment, he stepped",
+          "27": "on a stool to reach the lock. Next, he confidently spun the dials of the lock and",
+          "28": "the cabinet swung wide open.",
+          "29": "\"Scotty, how did you learn to open that?\" I gasped. \"It was quite",
+          "30": "elementary,\" Scotty said with a grin. \"I analysed your movements and",
+          "31": "deduced the combination.\"",
+          "32": "I could only shake my head in disbelief. When his mother arrived to",
+          "33": "pick him up, I told her about the incident and asked if a keyed lock might be a",
+          "34": "better option. She laughed. \"We tried that, and he figured out how to pick",
+          "35": "**every one** we've purchased. That's why all our locks are up high, though he",
+          "36": "still finds ways to get to them.\" I was shocked, and asked if there was anything",
+          "37": "else he did that I should know about.",
+          "38": "\"Plenty of things,\" she said with a laugh. \"For instance, my husband",
+          "39": "gave Scotty an old clock he could not fix, thinking it would keep him busy.",
+          "40": "Scotty spent the day tinkering, with pieces scattered everywhere. By evening,",
+          "41": "my husband was stunned to find the clock not only reassembled but working",
+          "42": "perfectly, though I was not surprised in the least. Scotty has always had a",
+          "43": "knack for figuring things out. So, good luck keeping him out of the cabinet and",
+          "44": "let me know if you figure out how.\"",
+          "45": "But I never did. I stood there, torn between disbelief and admiration,",
+          "46": "realising that sometimes the most unexpected answers come from the",
+          "47": "smallest hands."
+        },
+        "paragraphs": {
+          "1": "我以为自己要疯了，因为太难得了——每当我来到自己开办的学前班，总会发现玩具柜大敞着，玩具撒得到处都是。规定每个孩子一次只能拿一件玩具，要还回去才能再拿另一件。柜子架得很高，闩得也很牢，小朋友不容易够到，所以我以为是有老师用钥匙帮他们开的。我向员工提过这事，但他们都说没有开。我很沮丧，便买了一个密码锁，把密码告诉了需要开柜的老师。装好锁后的第一星期，我们松了一口气，因为柜子仍然锁得牢牢的。",
+          "10": "可到了下一周的周一一早，柜子又被打开了，玩具又是满地都是。我问了每一个知道密码的人，但他们每一个人都坚称自己没开过，也没把密码告诉别人。我以为是自己没锁好，那天特意把柜子锁牢。然而第二天，柜子又大敞着，玩具再次铺满房间。这让人怒不可遏，我甚至想把柜子钉死，干脆禁止玩玩具。那天，我们终于收拾玩具时，我才明白问题出在哪里。除了孩子们正在玩的那些，我把其余的玩具都收进柜子里。",
+          "19": "我一慌张，又把柜子锁上了，忘了还有些玩具留在外面。意识到自己的错误后，我决定先锁着，等孩子们要换玩具时再开。一个小女孩想换玩具时，一个三岁男孩 Scotty——说话用词像英语教授——主动要帮她。我只是笑笑，觉得他打不开柜子。我让 Scotty 和小女孩各选了一件玩具，把其余的收进柜子并再次上锁。当 Scotty 又要帮另一个孩子换玩具时，我决定在一旁观察。令我吃惊的是，他踩上凳子够到锁，接着自信地转动密码盘，柜门猛地敞开。",
+          "29": "“Scotty，你怎么学会开那个的？”我倒吸一口气问。“很简单，”Scotty 咧嘴笑着说，“我分析了你的动作，推断出了密码。”",
+          "32": "我只能难以置信地摇摇头。他妈妈来接他时，我把事情告诉了她，并问用钥匙锁会不会更好。她笑了。“我们试过，他把我们买的每一把钥匙锁都撬开了。所以我们把所有锁都挂得很高，可他还是有办法够到。”我很震惊，问她还有没有什么我该知道的事。",
+          "38": "“多的是，”她笑着说。“比如，我丈夫给了他一只修不好的旧钟，想让他有事可做。Scotty 摆弄了一整天，零件撒得到处都是。到了晚上，我丈夫惊讶地发现钟不仅装好了，还走得完美——我一点也不意外。Scotty 一直有琢磨东西的天分。所以，祝你好运，别让他再进柜子；你要是想到办法，告诉我一声。”",
+          "45": "但我始终没能做到。我站在那里，在难以置信与钦佩之间撕扯，才明白有时候最让人意外的答案，会来自最小的一双手。"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——说明叙述者为何认为玩具柜<strong>不易被孩子碰到</strong>。</li><li><strong>范围：</strong>行 1–6，关键在 <em>High up and latched securely</em> 与 <em>not easily accessible</em>。</li><li><strong>证据：</strong>行 4–5 写柜子<strong>架得很高、闩得很牢</strong>，因此叙述者推断须有老师用钥匙代开。</li><li><strong>失分：</strong>只写“很高”或只写“上闩”，未点出两者共同造成“难接近”。</li></ol>",
+          "answer": [
+            "Because the cabinet was high up and latched securely."
+          ],
+          "type": "comprehension"
+        },
+        "67": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>题型：</strong>表格简答题——按时间对比<strong>用锁前 / 装锁第一周内</strong>的情绪各一词。</li><li><strong>(a) 用锁前：</strong>行 7 <em>Frustrated, I bought a combination lock</em>，因柜门一再被打开而<strong>沮丧</strong>。</li><li><strong>(b) 第一周内：</strong>行 8–9 <em>relieved to find the cabinet still securely locked</em>，锁似乎奏效→<strong>松了口气</strong>。</li><li><strong>书写：</strong>表格第二列各填一词；须与原文用词一致或同义可接受词。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "67a": "Frustrated",
+            "67b": "Relieved"
+          }
+        },
+        "68": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句题——第三段中<strong>恰好七个英文词</strong>的短语，证明 Scotty 语言能力超前。</li><li><strong>范围：</strong>第三段对应 <em>lines 19–28</em>（空行分段下以行 19 起为段首）。</li><li><strong>答案：</strong>行 22–23 <em>with the vocabulary of an English professor</em>，七词，把三岁孩子的用词比作教授词汇量。</li><li><strong>失分：</strong>词数不等于七；抄到别段短语。</li></ol>",
+          "answer": [
+            "“with the vocabulary of an English professor”"
+          ],
+          "type": "comprehension"
+        },
+        "69": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——写出让叙述者<strong>吃惊的两步动作</strong>，顺序与原文一致。</li><li><strong>范围：</strong><em>lines 19–28</em>，提示语 <em>To my astonishment</em>（行 26）。</li><li><strong>要点一：</strong>行 26–27 踩凳子<strong>够到锁</strong>。</li><li><strong>要点二：</strong>行 27–28 自信<strong>拨动密码盘</strong>，柜门<strong>大开</strong>。</li><li><strong>失分：</strong>漏写“转拨盘/柜门打开”；把观察前的微笑误判为惊讶点。</li></ol>",
+          "answer": {
+            "69a": "Scotty stepped on a stool to reach the lock.",
+            "69b": "He confidently spun the dials of the lock and the cabinet swung wide open."
+          }
+        },
+        "70": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左栏代词/名词须回指<strong>具体人或事物</strong>。</li><li><strong>(a) each（行 12）：</strong>紧接 <em>everyone who was given the lock combination</em>，<em>each</em> 指<strong>每一位被告知密码的人</strong>。</li><li><strong>(b) the rest（行 18）：</strong>上文 <em>Except those the children were playing with, I put the rest away</em>，<em>the rest</em> 指<strong>当时没在玩的其余玩具</strong>。</li><li><strong>(c) every one（行 35）：</strong>母亲谈钥匙锁 <em>pick every one we've purchased</em>，指<strong>父母买过的每一把钥匙锁</strong>。</li><li><strong>失分：</strong>写得太泛（如“东西”“他们”）未扣原文对象。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "70a": "Everyone who had been given the lock combination.",
+            "70b": "The toys the children were not playing with.",
+            "70c": "Every keyed lock Scotty's parents had purchased."
+          }
+        },
+        "71": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——范围 <em>lines 9–44</em>，每行先判再写<strong>一句理由</strong>。</li><li><strong>(a) True：</strong>行 15–16 <em>considered nailing it shut and banning toys altogether</em>，确有“停用玩具柜”之念。</li><li><strong>(b) True：</strong>行 8–9 装锁后第一周柜仍<strong>牢牢锁着</strong>，密码锁起初有效。</li><li><strong>(c) False：</strong>行 38–41 父亲给坏钟是让 Scotty 自己摸索；傍晚钟已装好运转，<strong>并非父亲教他组装</strong>。</li><li><strong>若判错：</strong>核对行号，勿把母亲的“不意外”误当成父亲“教学”。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "True",
+            "71b": "The narrator considered nailing the cabinet shut and banning toys altogether (lines 15–16)",
+            "71c": "True",
+            "71d": "The first week after installing the combination lock, the cabinet was still securely locked (lines 8–9)",
+            "71e": "False",
+            "71f": "Scotty's father gave him a broken clock to tinker with; Scotty reassembled it himself by evening — the father did not teach him how (lines 38–41)"
+          }
+        },
+        "72": {
+          "concept": "短语/句子释义",
+          "note": "<ol><li><strong>题型：</strong>短语/句子释义——用<strong>自己的话</strong>解释 <em>It was quite elementary</em> 的口气与含义。</li><li><strong>语境：</strong>行 29–31 Scotty 刚轻松打开密码锁，对叙述者的惊问故作轻描淡写。</li><li><strong>含义：</strong><em>Elementary</em> 在此≈“很简单、基础、不费事”——暗示<strong>推断密码对他轻而易举</strong>（可联系他观察叙述者拨号）。</li><li><strong>失分：</strong>只抄词典义不扣“开锁”情境；未体现自负、轻松语气。</li></ol>",
+          "answer": [
+            "Scotty meant that opening the lock was very easy / simple for him."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>题型：</strong>证据简答题——先表态“是否惊讶”，再用<strong>文中细节</strong>支撑。</li><li><strong>立场：</strong>母亲<strong>并不惊讶</strong>（常见校答）。</li><li><strong>证据：</strong>行 33–36 她 <em>laughed</em>；并说家里钥匙锁也被他撬开、锁只好<strong>挂高</strong>，他仍有办法——说明此类事<strong>在家已司空见惯</strong>。</li><li><strong>失分：</strong>只写“笑了”未点出“习以为常”；证据脱离行 33–36。</li></ol>",
+          "answer": [
+            "No, Scotty’s mother was not surprised. She laughed when told about the incident and said keyed locks at home had also been picked, with all locks now placed up high — meaning Scotty’s lock-cracking was already a routine occurrence at home."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——母亲认为叙述者<strong>能否看住 Scotty</strong>，以及她<strong>如何表达</strong>这一态度。</li><li><strong>看法：</strong>行 43–44 <em>good luck keeping him out of the cabinet</em> 带反讽，意指<strong>几乎没机会</strong>拦住他。</li><li><strong>举动：</strong>同句让她若想到办法再告知——暗示<strong>不指望成功</strong>，语气轻松却“唱衰”。</li><li><strong>失分：</strong>只答“祝好运”未解释讽刺含义；漏写“让你知道若你办得到”。</li></ol>",
+          "answer": [
+            "She thought the narrator had little to no chance. To show this, she told the narrator “good luck keeping him out of the cabinet” and asked the narrator to let her know if the narrator ever figured out how to."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>题型：</strong>勾选题——篇末叙述者对 Scotty 的总体态度，<strong>只能勾一词</strong>。</li><li><strong>范围：</strong>末段行 45–47 <em>torn between disbelief and admiration</em>。</li><li><strong>选项：</strong><span class=\"hl-good\">amazed</span> 与 <em>disbelief</em>、钦佩神童能力相合；<span class=\"hl-bad\">frustrated/disappointed</span> 与末段情绪不符；<span class=\"hl-bad\">pleased</span> 过轻，未含“难以置信”。</li><li><strong>书写：</strong>勿多勾；理由见下一题。</li></ol>",
+          "answer": [
+            "amazed"
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——解释上一题所选态度的<strong>原因</strong>，须回扣篇末。</li><li><strong>证据：</strong>行 45–47 点出 <em>smallest hands</em> 与 <em>unexpected answers</em>；前文写三岁儿破解密码锁、修好父亲修不好的钟，强化<strong>能力反差</strong>。</li><li><strong>书写：</strong>完整句；可并写“钦佩其才智”与“难以置信其年龄”。</li></ol>",
+          "answer": [
+            "Because Scotty, though only three, could open the combination lock and reassemble a clock his father could not fix, the narrator stood torn between disbelief and admiration."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

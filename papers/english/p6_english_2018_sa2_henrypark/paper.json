@@ -1,0 +1,1125 @@
+{
+  "paperid": "p6_english_2018_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Kerrine, as well as her brother, always _________ fishball noodles every Friday.",
+          "options": {
+            "1": "eat",
+            "2": "eats",
+            "3": "ate",
+            "4": "eating"
+          }
+        },
+        "2": {
+          "stem_plain": "Thomas drew a picture of a tree, to _________ Jonathan added some apples.",
+          "options": {
+            "1": "who",
+            "2": "what",
+            "3": "whom",
+            "4": "which"
+          }
+        },
+        "3": {
+          "stem_plain": "\"I remember Mrs Tan _________ our class to bring scissors and glue for our next Art lesson,\" Jane commented.",
+          "options": {
+            "1": "tell",
+            "2": "tells",
+            "3": "told",
+            "4": "telling"
+          }
+        },
+        "4": {
+          "stem_plain": "Some ships belonging to that company _________ off that coast a decade ago.",
+          "options": {
+            "1": "was sunk",
+            "2": "were sunk",
+            "3": "was sinking",
+            "4": "were sinking"
+          }
+        },
+        "5": {
+          "stem_plain": "\"I have explained this concept a few times. _________, I will have to run through this topic with you again,\" said the teacher impatiently.",
+          "options": {
+            "1": "Before that",
+            "2": "Even though",
+            "3": "Nonetheless",
+            "4": "Consequently"
+          }
+        },
+        "6": {
+          "stem_plain": "Ronaldo, the famous soccer player, was greeted warmly by his fans _________ his arrival at the airport.",
+          "options": {
+            "1": "at",
+            "2": "in",
+            "3": "on",
+            "4": "to"
+          }
+        },
+        "7": {
+          "stem_plain": "Zachary and his brother were shocked to discover that their luggage _________ left behind at the hotel.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "My grandfather _________ in the company for more than fifty years when he retires next year.",
+          "options": {
+            "1": "worked",
+            "2": "has worked",
+            "3": "will have worked",
+            "4": "has been working"
+          }
+        },
+        "9": {
+          "stem_plain": "The concert _________ by the time Lily and her family arrived last evening.",
+          "options": {
+            "1": "begins",
+            "2": "began",
+            "3": "has begun",
+            "4": "had begun"
+          }
+        },
+        "10": {
+          "stem_plain": "\"The Principal needs to sign the two documents, _________ he?\" asked the clerk.",
+          "options": {
+            "1": "has",
+            "2": "does",
+            "3": "hasn't",
+            "4": "doesn't"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "当主语后接有 “as well as...” 引导的短语时，谓语动词的单复数仅由前面的核心主语（Kerrine，单数）决定。时间状语 “every Friday” 提示应用一般现在时，故选单数动词 “eats”。",
+          "concept": "主谓一致 — Subject-Verb Agreement — Intervening Phrases",
+          "zh": "凯琳和她的弟弟每周五总是吃鱼丸面。",
+          "answer": "2"
+        },
+        "2": {
+          "note": "非限定性定语从句中先行词是 “a picture of a tree”（指物），在介词 “to” 后面作宾语，必须使用关系代词 “which”。“to which” 在这里表示“向那幅画上”。",
+          "concept": "定语从句 — Relative Clauses — Preposition + Which",
+          "zh": "托马斯画了一棵树，乔纳森在上面画了一些苹果。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "动词 “remember” 后面接名词/代词（Mrs Tan）时，若表示记得某人做过某事，通常接动名词形式（-ing）充当复合宾语中的非谓语动词部分。",
+          "concept": "非谓语动词 — Gerunds — remember somebody doing something",
+          "zh": "简评论道：“我记得陈老师曾叫我们班带剪刀和胶水来上下一节美术课。”",
+          "answer": "4"
+        },
+        "4": {
+          "note": "核心主语是 “Some ships”（复数）。时间状语 “a decade ago” 提示应用一般过去时。船是被击沉或沉没的，此处需要过去时的复数被动语态结构 “were sunk”。",
+          "concept": "被动语态与时态 — Passive Voice — Simple Past Plural",
+          "zh": "十年前，属于那家公司的一些船只在那片海岸附近沉没了。",
+          "answer": "2"
+        },
+        "5": {
+          "note": "“Consequently” 是副词，意为“因此”或“结果”。根据前后句的因果逻辑（因为解释了很多遍他们还不懂，所以结果是必须再讲一遍），此处最为通顺。",
+          "concept": "连接副词辨析 — Transition Words — Consequently",
+          "zh": "老师不耐烦地说：“这个概念我已经解释好几次了。因此，我不得不和你们再过一遍这个话题。”",
+          "answer": "4"
+        },
+        "6": {
+          "note": "“on one's arrival” 是一个固定介词短语搭配，意思是 “在某人到达时”。",
+          "concept": "介词搭配 — Prepositions — Fixed Phrases",
+          "zh": "著名的足球运动员罗纳尔多在到达机场时受到了球迷们的热烈欢迎。",
+          "answer": "3"
+        },
+        "7": {
+          "note": "“luggage”（行李）在英语中是不可数名词，作主语时谓语动词只能用单数形式。主句动词 “were shocked” 提示事情发生在过去，因此选用一般过去时单数被动形式 “was”。",
+          "concept": "主谓一致与不可数名词 — Subject-Verb Agreement — Uncountable Nouns",
+          "zh": "扎卡里和他的弟弟震惊地发现他们的行李被遗忘在酒店了。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "时间状语 “when he retires next year” 指向未来的某一个时间节点。结合 “for more than fifty years”，表示到未来那个时间为止，动作已经完成并累计了多少时间，应用将来完成时（will have + 过去分词）。",
+          "concept": "动词时态 — Verb Tenses — Future Perfect",
+          "zh": "到明年退休时，我爷爷在这家公司工作的时限就将超过五十年了。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "“by the time + 过去时从句” 结构中，主句的动词通常发生在从句动作（arrived last evening）之前，即属于“过去的过去”，应用过去完成时（had + 过去分词）。",
+          "concept": "动词时态 — Verb Tenses — Past Perfect with By the time",
+          "zh": "在莉莉和她的家人昨晚到达之前，音乐会就已经开始了。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "陈述句的主语动词是 “needs”（一般现在时单数，肯定形式），它是一个实义动词，因此在变成反意疑问句时，需要借用相应的否定助动词形式 “doesn't he”。",
+          "concept": "反意疑问句 — Question Tags — Simple Present with Action Verbs",
+          "zh": "店员问：“校长需要在这两份文件上签字，对吧？”",
+          "answer": "4"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "\"It's just a ________,\" comforted the nurse as she pointed to the wound on the boy's knee.",
+          "options": {
+            "1": "stain",
+            "2": "smear",
+            "3": "scrape",
+            "4": "smudge"
+          }
+        },
+        "12": {
+          "stem_plain": "Ken Lim was ________ the first prize in the essay competition.",
+          "options": {
+            "1": "granted",
+            "2": "awarded",
+            "3": "conferred",
+            "4": "honoured"
+          }
+        },
+        "13": {
+          "stem_plain": "She leaned forward to pat the dog but quickly ________ when it growled at her.",
+          "options": {
+            "1": "gave in",
+            "2": "threw in",
+            "3": "took back",
+            "4": "drew back"
+          }
+        },
+        "14": {
+          "stem_plain": "The ________ of his controversial online post on social media could be damaging to his career.",
+          "options": {
+            "1": "retention",
+            "2": "repression",
+            "3": "repercussion",
+            "4": "reverberation"
+          }
+        },
+        "15": {
+          "stem_plain": "After a long and arduous hike, the ________ climbers could not continue with their journey and stopped to take a short break.",
+          "options": {
+            "1": "active",
+            "2": "weary",
+            "3": "drowsy",
+            "4": "energetic"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "“这只是擦伤，”护士指着男孩膝盖上的伤口安慰道。",
+          "note": "‘scrape’ 意为‘擦伤，刮伤’。后文提到 “wound on the boy's knee”（男孩膝盖上的伤口），在奔跑或摔倒时膝盖最容易发生的皮肤损伤就是擦伤（scrape）。",
+          "concept": "名词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stain",
+              "zh": "污点，污渍（名词，指咖啡、墨水、血迹等液体不小心弄到衣服、地毯或墙壁上，留下的难以清洗的变色痕迹，或指名誉上的污点）",
+              "eg": "He tried to wash the shirt, but the stubborn tomato sauce stain wouldn't come out."
+            },
+            {
+              "opt": "2",
+              "word": "smear",
+              "zh": "污迹，涂抹（名词，指油腻、黏稠或脏污的物质如泥土、化妆品、油脂等被不小心擦抹在物体表面而留下的一团模糊脏痕）",
+              "eg": "There was a greasy smear of chocolate on the car window where the child had pressed his face."
+            },
+            {
+              "opt": "3",
+              "word": "scrape",
+              "zh": "擦伤，刮痕（名词，指皮肤因摩擦粗糙表面而导致的表皮轻微破损流血，或者指车辆、家具表面被尖锐物品划破的痕迹）",
+              "eg": "The little girl fell off her bicycle and got a minor scrape on her elbow."
+            },
+            {
+              "opt": "4",
+              "word": "smudge",
+              "zh": "污迹，模糊的痕迹（名词，特指原本清晰的字迹、刚涂的墨水或化妆品被手指不小心抹开、弄糊，从而形成的一块脏污或模糊痕迹）",
+              "eg": "The ink was still wet, so when he touched the page, it left a dark smudge across the sentence."
+            }
+          ]
+        },
+        "12": {
+          "zh": "林肯在作文比赛中被授予一等奖。",
+          "note": "‘awarded’ 意为‘授予，颁发（奖品、奖金等）’。‘be awarded the first prize’ 是固定搭配，表示因为表现优异而被正式颁发一等奖。",
+          "concept": "动词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "granted",
+              "zh": "准许，同意（动词，指向他人、下属或申请者正式、官方地批准某种特定的请求、权利、法律许可、休假或给予政府拨款）",
+              "eg": "The local council granted permission to the developer to build a modern community park."
+            },
+            {
+              "opt": "2",
+              "word": "awarded",
+              "zh": "授予，颁发（动词，指作为对某人出色成就、优异成绩、英勇行为或艺术创作的肯定，正式将奖牌、奖金或奖项颁发给对方）",
+              "eg": "The brave soldier was awarded a medal of honor for his outstanding courage during the rescue."
+            },
+            {
+              "opt": "3",
+              "word": "conferred",
+              "zh": "授予（学位等），商谈（动词，指大学、机构在正式仪式上将学位、荣誉或头衔授予某人，或者指几个人聚集在一起进行严肃的商讨）",
+              "eg": "The prestigious university conferred an honorary doctorate degree upon the famous scientist."
+            },
+            {
+              "opt": "4",
+              "word": "honoured",
+              "zh": "使感到荣幸，给…以荣誉（动词，指通过某种仪式、赞美或特别的接待来向某人表达崇高的敬意，或者在被动语态中指某人因受宠若惊而感到荣幸）",
+              "eg": "The retired headmaster was honoured with a special dinner for his thirty years of dedication."
+            }
+          ]
+        },
+        "13": {
+          "zh": "她探出身去想摸摸那只狗，但当狗冲她低吼时，她迅速把手缩了回来（退缩）。",
+          "note": "‘drew back’ 是短语动词，意为‘缩回，后退’。后文提到 “when it growled at her”（当狗朝她低吼时），这是一种危险的警告，正常人在本能驱使下会迅速退缩或缩手。",
+          "concept": "短语动词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "gave in",
+              "zh": "屈服，让步（动词短语，指在他人长期的施压、不停的哀求、争论或强大攻势下彻底放弃抵抗、低头妥协、向对方的要求让步）",
+              "eg": "After hours of endless begging from his children, the father finally gave in and bought the toy."
+            },
+            {
+              "opt": "2",
+              "word": "threw in",
+              "zh": "投产，外加（动词短语，常用在商业买卖中，表示在顾客购买某件核心商品时，商家为了促销而免费额外赠送、搭售别的小物件）",
+              "eg": "If you buy the smart television today, the store will throw in a premium soundbar for free."
+            },
+            {
+              "opt": "3",
+              "word": "took back",
+              "zh": "收回（话语），带回（动词短语，指公开收回自己之前说错的话或承认某种不当言论，或指将买回家的不合适商品退回商店）",
+              "eg": "Realizing his rude mistake, the employee immediately took back his insulting words and apologized."
+            },
+            {
+              "opt": "4",
+              "word": "drew back",
+              "zh": "退缩，缩回（动词短语，指由于突然感到害怕、震惊、遇到危险或反感，身体下意识地向后退开，或者迅速将伸出的手抽回来）",
+              "eg": "She drew back in pure horror when a large black spider suddenly jumped onto her desk."
+            }
+          ]
+        },
+        "14": {
+          "zh": "他在社交媒体上发布的引发争议的帖子所带来的不良后果，可能会对他的职业生涯造成损害。",
+          "note": "‘repercussion’ 意为‘（尤指不好的）反响、不良后果’。常以复数或单数形式形容某项错误、不妥或具争议的举动（controversial online post）在随后引发的一连串负面连锁反应。",
+          "concept": "名词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "retention",
+              "zh": "保留，保持（名词，指机构成功留住优秀员工、学校留住学生不流失的行为，或者指物理上物体保持、储存水分或记忆的能力）",
+              "eg": "The corporate manager focused on staff retention by improving the office working conditions."
+            },
+            {
+              "opt": "2",
+              "word": "repression",
+              "zh": "镇压，压抑（名词，指政府或统治者用强力、武力手段剥夺公民自由并残酷平定反抗，或指心理上对痛苦情感的刻意压抑控制）",
+              "eg": "The political protest was met with severe government repression and massive arrests."
+            },
+            {
+              "opt": "3",
+              "word": "repercussion",
+              "zh": "不良后果，间接影响（名词，特指某个决定、错误行动、历史事件或争议言论在随后一段时间内，间接带来的、往往是糟糕且广泛的负面反应和后果）",
+              "eg": "The sudden increase in fuel prices had a huge economic repercussion on small logistics companies."
+            },
+            {
+              "opt": "4",
+              "word": "reverberation",
+              "zh": "回声，持续反响（名词，指巨大的声波在封闭空间里不断撞击墙壁而产生的强烈回响、震动，或指重大突发事件在全社会引起的长期震荡）",
+              "eg": "The heavy thunder caused a loud reverberation through the narrow valleys of the mountain."
+            }
+          ]
+        },
+        "15": {
+          "zh": "经过漫长而艰苦的徒步旅行，疲惫不堪的登山者们无法再继续他们的旅程，停下来短暂休息。",
+          "note": "‘weary’ 意为‘疲惫的，精疲力竭的’。前半句提到 “After a long and arduous hike”（经过漫长而艰苦的徒步），在这样的生理消耗下，登山者必然呈现出极度疲惫（weary）的状态，因而不得不停下休息。",
+          "concept": "形容词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "active",
+              "zh": "活跃的，积极的（形容词，指某人充满干劲、经常参加各种体育锻炼或社交活动，或者指某个火山、账户正处于正常运作和喷发状态）",
+              "eg": "Even at the age of eighty, the grandmother remains highly active in the community volunteer group."
+            },
+            {
+              "opt": "2",
+              "word": "weary",
+              "zh": "疲惫的，精疲力竭的（形容词，形容因为进行了高强度的体力劳动、长途跋涉、由于严重缺乏睡眠而导致身体和精神极度劳累、虚弱的状态）",
+              "eg": "The weary travelers were delighted to finally see the lights of the hotel after their twenty-hour flight."
+            },
+            {
+              "opt": "3",
+              "word": "drowsy",
+              "zh": "昏昏欲睡的（形容词，指人因为吃了感冒药、房间空气不流通或缺乏睡眠而大脑发沉、眼皮沉重、处于一种半睡半醒、昏沉迷糊的状态）",
+              "eg": "The cough syrup made him feel extremely drowsy, so he decided not to drive his car home."
+            },
+            {
+              "opt": "4",
+              "word": "energetic",
+              "zh": "精力充沛的（形容词，形容人或动物浑身上下散发出无穷的活力、热情，动作敏捷迅速，完全没有任何疲劳或懈怠的迹象）",
+              "eg": "The energetic children ran around the backyard playground all afternoon without ever stopping."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "marvelled at",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "accepted",
+            "2": "admired",
+            "3": "approved",
+            "4": "appreciated"
+          }
+        },
+        "17": {
+          "stem_plain": "cautiously",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "gradually",
+            "2": "discreetly",
+            "3": "confidently",
+            "4": "thoughtfully"
+          }
+        },
+        "18": {
+          "stem_plain": "anxious",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "worried",
+            "2": "crossed",
+            "3": "flattered",
+            "4": "heartened"
+          }
+        },
+        "19": {
+          "stem_plain": "determined and intentional",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "profound",
+            "2": "pervasive",
+            "3": "conscious",
+            "4": "composed"
+          }
+        },
+        "20": {
+          "stem_plain": "advocate",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "activist",
+            "2": "contributor",
+            "3": "stakeholder",
+            "4": "broadcaster"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “marvelled at”表示对美景或奇观发出惊叹、赞美，与“admired（赞赏、钦佩地看着）”意思最接近。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "accepted",
+              "zh": "接受",
+              "eg": "She gladly accepted the invitation to the beach party."
+            },
+            {
+              "opt": "2",
+              "word": "admired",
+              "zh": "赞赏，钦佩，欣赏",
+              "eg": "We stood on the shore and admired the beautiful sunset."
+            },
+            {
+              "opt": "3",
+              "word": "approved",
+              "zh": "赞成，批准",
+              "eg": "The committee approved the new marine protection plan."
+            },
+            {
+              "opt": "4",
+              "word": "appreciated",
+              "zh": "感激，领会",
+              "eg": "The tourists appreciated the help from the local guide."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — 为了不惊动海洋生物而“cautiously（小心翼翼地）”接近，此处与“discreetly（谨慎地、悄悄地以防引人注意）”语义最契合。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "gradually",
+              "zh": "逐渐地",
+              "eg": "The water temperature gradually became warmer in the afternoon."
+            },
+            {
+              "opt": "2",
+              "word": "discreetly",
+              "zh": "谨慎地，隐蔽地",
+              "eg": "He discreetly closed the door so as not to wake the baby."
+            },
+            {
+              "opt": "3",
+              "word": "confidently",
+              "zh": "自信地",
+              "eg": "She walked confidently onto the stage to give her speech."
+            },
+            {
+              "opt": "4",
+              "word": "thoughtfully",
+              "zh": "深思熟虑地，贴心地",
+              "eg": "He thoughtfully brought an extra umbrella for his friend."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — 看到海龟拼命挣扎，内心感到“anxious（焦虑的、担心的）”，与“worried”意思完全相同。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "worried",
+              "zh": "担心的，焦虑的",
+              "eg": "Parents are often worried about their children's safety."
+            },
+            {
+              "opt": "2",
+              "word": "crossed",
+              "zh": "生气的，不悦的",
+              "eg": "Please don't get crossed with me; it was just an accident."
+            },
+            {
+              "opt": "3",
+              "word": "flattered",
+              "zh": "感到荣幸的，受宠若惊的",
+              "eg": "I felt highly flattered by your wonderful compliments."
+            },
+            {
+              "opt": "4",
+              "word": "heartened",
+              "zh": "受到鼓舞的，感到欣慰的",
+              "eg": "We were heartened by the news of the successful rescue."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “determined and intentional effort”意为坚定且有意识的努力，与“conscious effort（自觉的、有意识的努力）”意思最接近。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "profound",
+              "zh": "深刻的，巨大的",
+              "eg": "The book had a profound impact on his view of nature."
+            },
+            {
+              "opt": "2",
+              "word": "pervasive",
+              "zh": "普遍的，无处不在的",
+              "eg": "Plastic pollution is a pervasive problem across the global oceans."
+            },
+            {
+              "opt": "3",
+              "word": "conscious",
+              "zh": "有意识的，自觉的",
+              "eg": "He made a conscious decision to use less single-use plastic."
+            },
+            {
+              "opt": "4",
+              "word": "composed",
+              "zh": "镇静的，沉着冷静的",
+              "eg": "She remained calm and composed during the sudden emergency."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “marine conservation advocate”指海洋保护的倡导者或呼吁者，与“activist（积极分子、行动主义者）”意思相近。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "activist",
+              "zh": "积极分子，行动主义者",
+              "eg": "The environmental activist organized a beach cleanup campaign."
+            },
+            {
+              "opt": "2",
+              "word": "contributor",
+              "zh": "贡献者，投稿人",
+              "eg": "He is a regular contributor to the wildlife magazine."
+            },
+            {
+              "opt": "3",
+              "word": "stakeholder",
+              "zh": "利益相关者",
+              "eg": "Every local business is a stakeholder in keeping the beach clean."
+            },
+            {
+              "opt": "4",
+              "word": "broadcaster",
+              "zh": "广播电视公司，播音员",
+              "eg": "The famous broadcaster reported on the coral reef crisis."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "During the June holidays, John and his family went on a beach vacation. First on their itinerary was John's favourite, snorkelling! As he swam in the deep blue sea, he [Q16(marvelled at)] the beautiful marine life. Suddenly, something strange and red caught John's eye. He approached it [Q17(cautiously)], making sure he did not alarm the red sea creature. To John's horror, it was a turtle stuck in a red plastic bag. John felt [Q18(anxious)] as he watched the turtle trying desperately to free itself from the bag. John's father helped to remove the bag from the turtle and it swam away to freedom.",
+          "Since then, John and his family made a [Q19(determined and intentional)] effort to reduce their plastic footprints. John became an active marine conservation [Q20(advocate)] and often takes part in activities to help raise public awareness and support for the protection of marine life."
+        ],
+        "zh": [
+          "在六月假期里，约翰和家人去海滩度假。他们行程上的第一站是约翰最喜欢的活动——浮潜！当他在深蓝色的海里游泳时，他惊叹于美丽的海洋生物。突然，一个奇怪的红色东西吸引了约翰的注意。他小心翼翼地走近，确保不惊动那个红色的海洋生物。令约翰惊恐的是，那是一只被困在红色塑料袋里的海龟。约翰看着海龟拼命挣扎想摆脱塑料袋，心里十分焦虑。约翰的父亲帮忙取下了海龟身上的塑料袋，它重获自由游走了。",
+          "从那以后，约翰和家人做出了坚定且有意识的努力来减少他们的塑料足迹。约翰成为了一名活跃的海洋保护倡导者，并经常参加各种活动，以帮助提高公众的保护意识，并争取大家对保护海洋生物的支持。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "冠词用法（不定冠词修饰单数名词）",
+          "note": "‘A severe snow storm’，修饰以辅音音素开头的单数可数名词 severe，应用不定冠词 a 表示‘一场严重的暴风雪’。",
+          "answer": "A"
+        },
+        "30": {
+          "concept": "动词时态与主谓一致（一般过去时）",
+          "note": "‘Albert and his siblings had to...’，全篇叙述过去发生的一个故事，且与后面的动词原形 stay 连用构成固定短语，表示过去‘不得不’待在家里，故选 had。",
+          "answer": "F"
+        },
+        "31": {
+          "concept": "动词时态与语态（一般过去时复数被动语态）",
+          "note": "‘All the children... were forced to...’，主语为复数名词 children，且表示‘被迫’待在家里，发生在过去，故被动语态助动词选 were。",
+          "answer": "N"
+        },
+        "32": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘Out of sheer boredom’ 是固定短语，意为‘出于极度的无聊’。",
+          "answer": "K"
+        },
+        "33": {
+          "concept": "动词不定式/分词（与实义动词连用表示伴随）",
+          "note": "‘attempted to play...’，动词 attempt 后面通常接不定式短语，在所给选项中这里可以作为介词或者结合选项：(M) through, (P) while。若看句意表示伴随或方式：‘他们尝试着[通过]在山上的小屋里玩一些棋盘游戏来娱乐自己’，故选 through。",
+          "answer": "M"
+        },
+        "34": {
+          "concept": "介词用法（引导时间状语）",
+          "note": "‘After some time’ 是固定搭配，意为‘一段时间之后’，用来引出后面的决定。",
+          "answer": "B"
+        },
+        "35": {
+          "concept": "介词/副词搭配（动短语固定搭配）",
+          "note": "‘scrambling back into their house’，表示由于寒冷而‘仓皇逃回/跑进他们的屋子里’，into 强调从室外进入室内的动态方向。",
+          "answer": "G"
+        },
+        "36": {
+          "concept": "连词用法（时间状语从句）",
+          "note": "‘While he was sculpturing...’，连词 while 引导时间状语从句，常与过去进行时连用，表示‘当他正在堆雪人时’。",
+          "answer": "P"
+        },
+        "37": {
+          "concept": "连词用法（转折关系）",
+          "note": "‘He yelled for help frantically but his hoarse voice...’，引导转折句，意为‘他拼命大声呼救，但沙哑的声音被狂风淹没了’。",
+          "answer": "C"
+        },
+        "38": {
+          "concept": "介词用法（表示空间穿过或渗透）",
+          "note": "‘relief surged through his numb and cold body’，介词 through 表示‘在……内部穿过/传遍’，意为‘一股巨大的释怀感传遍了他麻木寒冷的身体’。",
+          "answer": "M"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "after",
+          "C": "but",
+          "D": "by",
+          "E": "despite",
+          "F": "had",
+          "G": "into",
+          "H": "of",
+          "J": "over",
+          "K": "out",
+          "L": "some",
+          "M": "through",
+          "N": "were",
+          "P": "while",
+          "Q": "with"
+        },
+        "cloze": [
+          "Winters were always bitter and harsh in Albert's hometown. There was [Q29] severe snow storm looming with strong winds and the visibility was greatly reduced. Albert and his siblings [Q30] to stay away from school because of the threatening blizzard. All the children in the village [Q31] forced to stay at home as the schools were closed. [Q32] of sheer boredom, Albert and his siblings had to think of ways to occupy themselves. They attempted to entertain themselves [Q33] some board games in their cottage on the hill. [Q34] some time, they decided to venture out of their cottage to sculpt a snowman.",
+          "In no time, the cold and chill sent Albert's siblings scrambling back [Q35] their house. However, Albert was oblivious to the brewing storm. [Q36] he was sculpturing a snowman, a howling gust of wind swept him off his feet. He fell heavily on his back. He yelled for help frantically [Q37] his hoarse voice was drowned out by the swirling wind.",
+          "All of a sudden, he heard some voices. A great sense of relief surged [Q38] his numb and cold body. He knew he was safe."
+        ],
+        "zh": [
+          "在阿尔伯特的家乡，冬天总是刺骨且严酷。有一场狂风大作的严重暴风雪即将来临，能见度被大大降低了。由于这场具有威胁性的暴风雪，阿尔伯特和他的兄弟姐妹不得不休学。由于学校关闭，村里的所有孩子都被迫待在家里。出于极度的无聊，阿尔伯特和他的兄弟姐妹必须想办法打发时间。他们尝试着通过在山上的小屋里玩一些棋盘游戏来娱乐自己。一段时间之后，他们决定冒险走出小屋去堆个雪人。",
+          "不一会儿，严寒就让阿尔伯特的兄弟姐妹们狼狈地跑回了屋里。然而，阿尔伯特并没有注意到正在酝酿的暴风雪。当他正在堆雪人时，一阵狂风将他刮倒在地。他重重地摔倒在地上，背部着地。他拼命大声呼救，但他沙哑的声音却被旋转的狂风淹没了。",
+          "突然间，他听到了一些声音。一股巨大的释怀感传遍了他那麻木寒冷的身体。他知道自己安全了。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：此处陈述客观普遍事实，且前文使用了一般现在时 comes，因此 past tense 形式 were Thought 应改为一般现在时 are 保持一致。",
+          "answer": "are"
+        },
+        "40": {
+          "concept": "限定词 - Quantifiers",
+          "note": "修饰错误：life 为不可数名词，不能用 many 修饰，应改为 most，表示“它生命中的大部分时间”。",
+          "answer": "most"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 cooperate（动词，意为合作），因主语是复数 The members，故用动词原形。",
+          "answer": "cooperate"
+        },
+        "42": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词错误：结合上下文，表示捍卫领土免受其他狼群的侵害，应用介词 against，而非 with。",
+          "answer": "against"
+        },
+        "43": {
+          "concept": "被动语态中的动词形式 - Verbs in Passive Voice",
+          "note": "语态错误：被动语态的结构为 be 动词 + 过去分词，因此 permit 应改为过去分词形式 permitted。",
+          "answer": "permitted"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 athletic（形容词，意为擅长运动的、强壮的）。",
+          "answer": "athletic"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 pursuing（动词 pursue 的现在分词形式，这里用在 such as 后面）。",
+          "answer": "pursuing"
+        },
+        "46": {
+          "concept": "连词 - Conjunctions",
+          "note": "连词逻辑错误：根据前后文让步关系的逻辑，前面提到它有强大的撕裂能力，后面提到它在野外极度怕人，应使用 Although 或 Though（原卷划线部分包含了 Through，通常意在将其改为 Although 引导让步状语从句）。",
+          "answer": "Although"
+        },
+        "47": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：定冠词 the 后面修饰核心词应用名词形式 strongest（结合后面的 men 构成 the strongest of men，意为最强壮的人），而非形容词原形 strong。",
+          "answer": "strongest"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "When you think of a wolf, one of the first things that probably comes to [Q39(mind is their loud howl at full moon. These creatures were)] thought to be one of the most ferocious predators in the animal kingdom. The wolf is a highly social animal. It lives [Q40(within the same group for many)] of its life. The members of the pack [Q41(cooparate)] in hunting, feeding and caring for the young and even defending their territory [Q42(with)] other packs.",
+          "Only 'Alphas' which are the top male and female wolves are [Q43(permit)] to breed, while any attempts to do so by others are punished. Generally, wolves are very [Q44(altheletic)], capable of incredible endurance such as [Q45(persueing)] a prey over long distances or ploughing through chest-high snow for long periods. [Q46(Through)] quite capable of ripping apart even the [Q47(strong)] of men, the wolf in the wild is extremely fearful of people."
+        ],
+        "zh": [
+          "当你想到狼时，最先浮现在脑海中的事情之一可能就是它们在满月时响亮的嚎叫声。这些生物被公认为是动物王国中最凶猛的捕食者之一。狼是一种高度社会化的动物。它生命中的大部分时间都生活在同一个群体中。狼群的成员在捕猎、喂养和照顾幼崽方面通力合作，甚至还要捍卫自己的领土免受其他狼群的侵犯。",
+          "只有作为头狼的“阿尔法”雄狼和雌狼才被允许繁殖后代，而其他成员的任何尝试都会受到惩罚。总的来说，狼非常擅长运动，具有令人难以置信的耐力，例如可以在长距离内追捕猎物，或者在齐胸深的雪地中长时间破雪前行。虽然它们完全有能力撕碎哪怕是最强壮的人，但野外的狼其实对人类极其恐惧。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "代词 (主语)",
+          "answer": "they",
+          "note": "用作从句主语，指代前文提到的复数名词对象。"
+        },
+        "52": {
+          "concept": "动词 (过去时/过去分词)",
+          "answer": "hunted",
+          "note": "表示主动的过去动作或在被动语态、非谓语结构中作过去分词，意为‘捕猎’或‘搜寻’。"
+        },
+        "53": {
+          "concept": "固定搭配 / 介词",
+          "answer": "on",
+          "note": "与特定的动词（如 depend on, focus on）或名词搭配，构成语境所需的固定短语意群。"
+        },
+        "54": {
+          "concept": "形容词",
+          "answer": "illegal",
+          "note": "用作定语或表语，修饰名词，表示该行为或事物违反法律规定。"
+        },
+        "55": {
+          "concept": "现在分词 / 动名词",
+          "answer": "visiting",
+          "note": "在特定动词后作宾语，或作伴随状语、定语，表示‘访问’、‘参观’或‘拜访’的动作。"
+        },
+        "56": {
+          "concept": "现在分词 / 助动词",
+          "answer": "being",
+          "note": "用于进行时态的被动语态（is/are/was/were being + 过去分词）或在句中充当非谓语动词成分。"
+        },
+        "57": {
+          "concept": "动词 (过去时/固定搭配)",
+          "answer": "turned",
+          "note": "多与介词搭配（如 turned into, turned away），用于过去时态叙事中表示状态的改变或动作的发生。"
+        },
+        "58": {
+          "concept": "名词 / 动词原形",
+          "answer": "cure",
+          "note": "作名词表示‘治愈的方法’，或在情态动词、不带to的动词不定式后作动词原形，表示‘治愈’。"
+        },
+        "59": {
+          "concept": "名词",
+          "answer": "threat",
+          "note": "作句子的宾语或主语，表示对某人或某事物构成的‘威胁’。"
+        },
+        "60": {
+          "concept": "动词原形 / 助动词",
+          "answer": "have",
+          "note": "在情态动词或助动词（如 do/does/did）后作动词原形，或作为现在完成时态中的助动词。"
+        },
+        "61": {
+          "concept": "关系代词 / 连词",
+          "answer": "that",
+          "note": "用作定语从句的关系代词代指先行词，或用作连词引导名词性从句（如宾语从句、主语从句）。"
+        },
+        "62": {
+          "concept": "副词 / 介词搭配",
+          "answer": "away",
+          "note": "常与动词搭配（如 run away, turn away, go away），表示空间上的‘远离’或‘除去’。"
+        },
+        "63": {
+          "concept": "最高级修饰词 / 限定词",
+          "answer": "most",
+          "note": "与多音节形容词/副词连用构成最高级结构，或作为限定词修饰名词表示‘大多数’。"
+        },
+        "64": {
+          "concept": "连词 (比较级结构)",
+          "answer": "than",
+          "note": "用于形容词或副词的比较级之后，用来引出比较的对象，表示‘比……’。"
+        },
+        "65": {
+          "concept": "动词原形",
+          "answer": "grow",
+          "note": "在助动词、情态动词或 to 不定式符号后作动词原形，表示‘生长’、‘种植’或‘逐渐变得’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Elephants are fast disappearing from the wild. Without urgent international action, [Q51] could be gone within a generation. Most people know that elephants have long been [Q52] for their ivory. In the 1970s, half of the elephant population in Africa disappeared - ruthlessly slaughtered for their ivory tusks. In 1989, [Q53] international ban was imposed on the ivory trade. This means that while it is still legal to sell ivory within one's own country, it is [Q54] to export it to other countries. Unfortunately, many tourists still purchase ivory jewellery and art objects while [Q55] African and Asian countries, resulting in a constant demand for ivory.",
+          "In addition to [Q56] threatened by the ivory trade, Asian elephants are also hunted for their hide and bone. In Thailand, the hide is made into shoes and hand bags. And in China, the bone is [Q57] into bone ash and used in traditional medicines to [Q58] ulcers of the skin and stomach.",
+          "An even greater [Q59] to elephants than poaching may be habitat loss. As human populations expand, more land is used for agriculture. Human beings [Q60] encroached into elephant habitats. The critical overlap of human and elephant habitats has caused problems for both the elephants and humans. Occasionally, it is the elephants [Q61] accidentally harm the humans.",
+          "Elephants sometimes raid farmers' fields and damage their crops as well. Human attempts to drive elephants [Q62] from their land sometimes lead to them being injured, accidentally or deliberately.",
+          "In Asia, [Q63] people would rather capture a wild elephant and train it [Q64] purchase one. They find it much more attractive to have a large, productive adult elephant at hand, than to breed elephants and wait ten years for the babies to [Q65] up.",
+          "Unfortunately, many of the methods used to capture elephants result in the death of these animals. The fate of these wild elephants depends on the willingness of human beings to act with compassion and integrity."
+        ],
+        "zh": [
+          "大象正从野外迅速消失。如果不起紧迫的国际行动，它们（they）可能会在这一代人内灭绝。大多数人都知道，大象长期以来一直因其象牙而遭遇捕猎（hunted）。在20世纪70年代，非洲有一半的大象消失了——为了获取象牙而被无情地屠杀。1989年，一项（An）国际象牙贸易禁令被强力实施。这意味着，虽然在自己国家内部销售象牙仍然合法，但将其出口到其他国家则是违法的（illegal）。不幸的是，许多游客在观光（visiting）非洲和亚洲国家时仍然会购买象牙首饰和工艺品，从而导致对接骨象牙的持续需求。",
+          "除了受到（being）象牙贸易的威胁之外，亚洲象也因其皮革和骨头而遭到猎杀。在泰国，象皮被制成鞋子和手提包。而在中国，大象的骨头被加工（made）成骨灰，并用于传统中药来治疗（cure）皮肤和胃溃疡。",
+          "对大象而言，一个甚至比偷猎更严重的威胁（threat）可能是栖息地的丧失。随着人口的增加，更多的土地被用于农业。人类已经（have）侵占了大象的栖息地。人类与大象栖息地的严重重叠给大象和人类都带来了问题。偶尔，正是这些（who）在无意中伤害了人类的大象，自己也陷入了危险。",
+          "大象有时还会袭击农民的田地并破坏他们的作物。人类试图将大象从他们的土地上赶跑（away）的行为，有时会导致它们受伤，无论是意外还是有意的。",
+          "在亚洲，许多（many）人宁愿捕捉一头野象并训练它，也不愿意（than）去购买一头。他们觉得身边有一头体型大、有生产力的成年象要划算得多，而不是去繁育大象并等待十年让小象长大（grow）。",
+          "不幸的是，许多用于捕捉大象的方法都会导致这些动物的死亡。这些野生大象的命运取决于人类是否愿意以同情心和诚实正直的态度去采取行动。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

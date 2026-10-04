@@ -1,0 +1,429 @@
+{
+  "paperid": "p6_english_2019_sa2_rosyth",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Dummy 1 grammer mcq, any option is ok _____.",
+          "options": {
+            "1": "option1",
+            "2": "option2",
+            "3": "option3",
+            "4": "option4"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Dummy 1 vocabulary item: She felt ________ after the long hike.",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "对stem_plain的中文翻译",
+          "note": "对正确option 的解释",
+          "concept": "题型概念-Concept",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "The recruits were told to **Option 1** at the parade square before the inspection."
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "选项2",
+              "eg": "Sales of the toy **Option 2** sharply after reports of a safety defect."
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "选项3",
+              "eg": "Several branches **Option 3** onto the road during last night's thunderstorm."
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "选项4",
+              "eg": "The plans for the rebuilding of the orphanage **Option 4** as there was no donor for the project."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘would like to do sth.’ 是固定搭配，意为‘想要做某事’。",
+          "answer": "Q"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘set off’ 是固定短语，表示‘出发、动身’去进行新的水下冒险。",
+          "answer": "L"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘its shell’ 物主代词，指代前面提到的一只巨大的牡蛎（an enormous one）‘它的外壳’。",
+          "answer": "J"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘into the gap’ 表示把刀‘滑进’外壳的缝隙中。",
+          "answer": "H"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘but’ 表示转折关系，‘我想伸手去碰它，但船长阻止了我’。",
+          "answer": "C"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘which’ 引导非限制性定语从句，先行词是 submarine（潜水艇），在从句中作主语。",
+          "answer": "P"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘above us’ 介词短语，表示‘在我们的上方’（清澈的海水中），看到了独木舟的底部。",
+          "answer": "A"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘himself’ 反身代词用作强调用法，‘by himself’ 或直接作伴随，意为‘他独自一人在附近游着’。",
+          "answer": "E"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘in his hand’ 固定介词短语，表示‘（手里）抓着一个小包’。",
+          "answer": "G"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘and’ 表顺承或并列，‘船长向他游去，并且通过对鲨鱼鼻子猛踢一脚将它赶走’。",
+          "answer": "B"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "above",
+          "B": "and",
+          "C": "but",
+          "D": "could",
+          "E": "himself",
+          "F": "however",
+          "G": "in",
+          "H": "into",
+          "J": "its",
+          "K": "on",
+          "L": "off",
+          "M": "ourselves",
+          "N": "over",
+          "P": "which",
+          "Q": "would"
+        },
+        "cloze": [
+          "One morning, Captain Nemo knocked at my cabin door.",
+          "\"Professor,\" he said, \"we are near the island and there is something I [Q29] like to show you.\" We put on our diving gear and set [Q30] on a new underwater adventure.",
+          "We swam into an underwater cave and I gasped in surprise at the sight before me. Amongst the many oysters, an enormous one had [Q31] shell partly opened. The captain gently slid his knife [Q32] the gap of the shell and beckoned me forward. Peering inside, I saw a huge pearl the size of a child's fist! I reached out my hand to touch it [Q33] the captain stopped me.",
+          "We left the oyster and began to swim back to the submarine [Q34] was resting on the sea bed. In the clear water [Q35] us, we noticed the bottom of a canoe. We also saw a man swimming by [Q36]. He was a pearl fisherman. Holding his breath, the man gradually made his approach to the surface, clasping a small bag [Q37] his hand. Suddenly, a huge shark attacked him. The swimmer fought furiously but was unfortunately stunned by the shark's thrashing tail. At once, the captain swam towards him [Q38] chased the shark away by delivering a strong kick to its snout. Then, he pulled the unconscious fisherman back into his boat."
+        ],
+        "zh": [
+          "一天早晨，尼摩船长敲了敲我船舱的门。",
+          "“教授，”他说，“我们靠近岛屿了，我有东西想让你看看。” 我们穿上潜水装备，出发去进行一次新的水下冒险。",
+          "我们游进了一个水下洞穴，眼前的景象让我惊讶得倒吸了一口气。在众多的牡蛎中，有一个巨大的牡蛎，它的外壳部分张开了。船长轻轻地把他的刀滑进外壳的缝隙中，并示意我上前。往里面窥视，我看到了一颗小孩子拳头那么大的巨型珍珠！我伸手去摸它，但船长阻止了我。",
+          "我们离开了那只牡蛎，开始游回正停在海床上的潜水艇。在上面清澈的海水里，我们注意到了一个独木舟的底部。我们还看到一个人独自在旁边游泳。他是一个采珠人。那人屏住呼吸，渐渐向水面靠近，手里抓着一个小包。突然，一条巨鲨袭击了他。游泳者拼命反抗，但很不幸被鲨鱼拍打的尾巴击晕了。船长立刻朝他游过去，并通过猛踢鲨鱼的鼻子将它赶走。然后，他把昏迷不醒的渔夫拉回到了他的船上。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

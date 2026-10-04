@@ -1,0 +1,749 @@
+{
+  "paperid": "p6_english_2026_sa2_aitong",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Dummy 1 grammer mcq, any option is ok _____.",
+          "options": {
+            "1": "option1",
+            "2": "option2",
+            "3": "option3",
+            "4": "option4"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The ________ of the football player was on full display as he successfully dodged the tackles from his opponents.",
+          "options": {
+            "1": "accuracy",
+            "2": "strength",
+            "3": "stamina",
+            "4": "agility"
+          }
+        },
+        "12": {
+          "stem_plain": "David stayed up late to revise for the examinations because he had ________ studying until the night before his first paper.",
+          "options": {
+            "1": "put out",
+            "2": "put off",
+            "3": "put up",
+            "4": "put on"
+          }
+        },
+        "13": {
+          "stem_plain": "Although Lilian had won the Student Leader Award, she remained ________, rarely bringing up her achievements to her classmates.",
+          "options": {
+            "1": "confident",
+            "2": "modest",
+            "3": "selfless",
+            "4": "proud"
+          }
+        },
+        "14": {
+          "stem_plain": "The detective searched the room ________ for fingerprints, looking into every nook and cranny for even the smallest clue.",
+          "options": {
+            "1": "meticulously",
+            "2": "vigorously",
+            "3": "hastily",
+            "4": "calmly"
+          }
+        },
+        "15": {
+          "stem_plain": "When Jessie and her team members were having a heated argument, Mrs Lim stepped in to ________ the tension before it worsened.",
+          "options": {
+            "1": "minimise",
+            "2": "subside",
+            "3": "reduce",
+            "4": "defuse"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "这位足球运动员成功躲过了对手的铲球，充分展现了他的敏捷性。",
+          "note": "‘agility’意思是敏捷、灵活，最适合用来形容成功躲避他人阻截或铲球的身体能力。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "accuracy",
+              "zh": "准确性，精确度",
+              "eg": "The striker shot the ball with great accuracy into the top corner."
+            },
+            {
+              "opt": "2",
+              "word": "strength",
+              "zh": "力量，体力",
+              "eg": "It takes a lot of physical strength to lift those heavy stone blocks."
+            },
+            {
+              "opt": "3",
+              "word": "stamina",
+              "zh": "耐力，持久力",
+              "eg": "Long-distance runners need exceptional stamina to finish the marathon."
+            },
+            {
+              "opt": "4",
+              "word": "agility",
+              "zh": "敏捷，灵活",
+              "eg": "The gymnast showed incredible agility during her floor routine."
+            }
+          ]
+        },
+        "12": {
+          "zh": "大卫熬夜复习功课，因为他把学习推迟到了第一门考试的前一天晚上。",
+          "note": "‘put off’是短语动词，意思是推迟、拖延，符合前文因为拖延而不得不熬夜复习的因果语境。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "put out",
+              "zh": "熄灭，出版，给……添麻烦",
+              "eg": "The firefighters worked hard to put out the forest fire."
+            },
+            {
+              "opt": "2",
+              "word": "put off",
+              "zh": "推迟，拖延",
+              "eg": "Do not put off your assignments until the final moment."
+            },
+            {
+              "opt": "3",
+              "word": "put up",
+              "zh": "建造，张贴，提供住宿",
+              "eg": "They put up a tent in the backyard to camp overnight."
+            },
+            {
+              "opt": "4",
+              "word": "put on",
+              "zh": "穿上，上演，增加（体重）",
+              "eg": "She put on a warm jacket before walking into the snow."
+            }
+          ]
+        },
+        "13": {
+          "zh": "虽然莉莉安获得了学生领袖奖，但她依然保持谦逊，很少向同学们提及自己的成就。",
+          "note": "‘modest’意思是谦逊的、低调的，与后文“很少向同学们提及自己的成就”完全吻合。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "confident",
+              "zh": "自信 my 的，确信的",
+              "eg": "The actor felt confident that the show would be a huge success."
+            },
+            {
+              "opt": "2",
+              "word": "modest",
+              "zh": "谦逊的，低调的",
+              "eg": "Despite being incredibly wealthy, he lives in a modest house."
+            },
+            {
+              "opt": "3",
+              "word": "selfless",
+              "zh": "无私的，忘我的",
+              "eg": "Her selfless devotion to nursing helped thousands of poor patients."
+            },
+            {
+              "opt": "4",
+              "word": "proud",
+              "zh": "骄傲的，自豪的",
+              "eg": "The parents felt very proud when their son won the prize."
+            }
+          ]
+        },
+        "14": {
+          "zh": "侦探一丝不苟地在房间里搜寻指纹，寻找每一个角落以获取哪怕是最小的线索。",
+          "note": "‘meticulously’意思是极其细致地、一丝不苟地，与后文“寻找每一个角落”的缜密态度最为对应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "meticulously",
+              "zh": "细致地，一丝不苟地",
+              "eg": "The accountant meticulously reviewed the financial reports for errors."
+            },
+            {
+              "opt": "2",
+              "word": "vigorously",
+              "zh": "精力充沛地，猛烈地",
+              "eg": "He shook the bottle vigorously to mix the oil and vinegar."
+            },
+            {
+              "opt": "3",
+              "word": "hastily",
+              "zh": "仓促地，草率地",
+              "eg": "She hastily packed her bag and ran out to catch the early bus."
+            },
+            {
+              "opt": "4",
+              "word": "calmly",
+              "zh": "冷静地，镇定地",
+              "eg": "The captain calmly explained the situation to the passengers."
+            }
+          ]
+        },
+        "15": {
+          "zh": "当杰西和她的团队成员激烈争吵时，林老师介入以缓和紧张局势，以免情况恶化。",
+          "note": "‘defuse the tension’是固定动宾搭配，意思是缓和/平息紧张局势（犹如拆除炸弹引信）。",
+          "concept": "Vocabulary Collocation MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "minimise",
+              "zh": "使减少到最低限度，轻视",
+              "eg": "Wearing a seatbelt will help minimise the risk of severe injury."
+            },
+            {
+              "opt": "2",
+              "word": "subside",
+              "zh": "（风雨等）平息，减弱",
+              "eg": "We waited inside for the heavy downpour to subside completely."
+            },
+            {
+              "opt": "3",
+              "word": "reduce",
+              "zh": "减少，降低 (后面通常接具体数量或程度)",
+              "eg": "The shop offered discounts to reduce the stock of old items."
+            },
+            {
+              "opt": "4",
+              "word": "defuse",
+              "zh": "缓和，平息（危机/紧张）",
+              "eg": "A witty joke helped defuse the awkward situation between them."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "This / Its",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "介词搭配",
+          "note": "“inspired by...” 意为“受……启发/灵感来自……”，由by引导动作的发出者或来源。",
+          "answer": "E"
+        },
+        "27": {
+          "concept": "is的倒装/主谓一致",
+          "note": "“one of the examples is...” 意为“其中的一个例子是……”，主语核心词是单数形式的one，且陈述客观事实，故动词用is。",
+          "answer": "J"
+        },
+        "28": {
+          "concept": "定语从句关系代词",
+          "note": "先行词是“The creator”（创建者，指人），在定语从句中作主语，故用who引导。",
+          "answer": "N"
+        },
+        "29": {
+          "concept": "并列连词",
+          "note": "“wanted to showcase... and highlight...” 意为“想要展示……并且强调……”，前后两个动词不定式（省略了to）呈并列关系，故用and连接。",
+          "answer": "C"
+        },
+        "30": {
+          "concept": "不定冠词",
+          "note": "“play a unique role” 为固定短语，意为“扮演独特的角色/起独特作用”，unique以辅音音素[j]开头，前面使用不定冠词a。",
+          "answer": "A"
+        },
+        "31": {
+          "concept": "介词搭配",
+          "note": "“communicate with others” 意为“与他人交流”，与with构成固定搭配。",
+          "answer": "Q"
+        },
+        "32": {
+          "concept": "介词搭配",
+          "note": "“provide a platform for...” 意为“为……提供一个平台”，由介词for引出平台的服务对象或目的。",
+          "answer": "F"
+        },
+        "33": {
+          "concept": "介词短语搭配",
+          "note": "“from all/different walks of life” 为固定短语，意为“来自各行各业/不同阶层”。",
+          "answer": "G"
+        },
+        "34": {
+          "concept": "介词搭配",
+          "note": "“grown in popularity” 意为“受欢迎程度增加/在普及度方面有所增长”，用介词in限定增长的领域或方面。",
+          "answer": "H"
+        },
+        "35": {
+          "concept": "形容词性物主代词",
+          "note": "“Its success has also encouraged...” 意为“它的（指代上文该词典的）成功也鼓励了……”，表示所属关系用形容词性物主代词its，置于句首需大写。",
+          "answer": "K"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "and",
+          "D": "are",
+          "E": "by",
+          "F": "for",
+          "G": "from",
+          "H": "in",
+          "J": "is",
+          "K": "its",
+          "L": "it's",
+          "M": "or",
+          "N": "who",
+          "P": "whom",
+          "Q": "with"
+        },
+        "cloze": [
+          "A 25-year-old Singaporean, Daniel Goh, has gained attention online for creating Chimbridge, a Singlish dictionary. The project features humorous entries inspired [Q26] local expressions and everyday speech commonly used in Singapore. Many of these entries include creative phrases and one of the examples [Q27] \"lao hong biscuit\", which describes something that has become outdated over time.",
+          "The creator, [Q28] started the project as a personal passion, wanted to showcase the uniqueness of Singlish [Q29] highlight how language reflects identity in society. He believes Singlish plays [Q30] unique role in shaping how Singaporeans communicate [Q31] others in daily life.",
+          "Through Chimbridge, he hopes to provide a platform [Q32] creative expression and cultural sharing among online users [Q33] different walks of life. The dictionary has rapidly grown [Q34] popularity over time, gaining attention from local and international audiences. [Q35] success has also encouraged others to contribute ideas to the project in meaningful ways. Do refer to the Chimbridge dictionary if you ever need Singlish references."
+        ],
+        "zh": [
+          "一位25岁的新加坡年轻人吴丹尼（Daniel Goh）因创建了新加坡式英语（Singlish）词典——Chimbridge而在网络上引发关注。该项目的特点是包含了受新加坡常用本地表达方式和日常对话启发的幽默词条。这些词条中许多都包含极具创意的短语，其中一个例子就是“lao hong biscuit”（受潮发软的饼干），它用来形容随着时间推移而变得过时、陈旧的事物。",
+          "这位创建者最初是出于个人的热爱而启动这个项目的，他希望能够展示新加坡式英语的独特性，并强调语言是如何反映社会身份认同的。他认为，新加坡式英语在塑造新加坡人在日常生活中与他人交流的方式上扮演着独特的角色。",
+          "通过Chimbridge，他希望能为来自不同阶层的网络用户提供一个进行创意表达和文化分享的平台。随着时间的推移，这本词典的普及度迅速增长，吸引了本地及国际受众的关注。它的成功还鼓励了其他人以有意义的方式为该项目贡献想法。如果您需要参考新加坡式英语，请务必查阅Chimbridge词典。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "不定冠词",
+          "note": "“underwent an extensive revamp” 意为“经历了全面的翻新”，修饰单数可数名词revamp，且形容词extensive以元音音素开头，故用an。",
+          "answer": "B"
+        },
+        "27": {
+          "concept": "定语从句关系代词",
+          "note": "先行词是“prisoners of war (POWs) and civilians”（战俘与平民，指人），在定语从句中作主语，故用关系代词who引导。",
+          "answer": "Q"
+        },
+        "28": {
+          "concept": "介词搭配/动作发出者",
+          "note": "“built by POWs” 意为“由战俘们所建造”，此处为被动语态的省略形式，用介词by引出动作的执行者。",
+          "answer": "E"
+        },
+        "29": {
+          "concept": "情态动词表能力",
+          "note": "“where prisoners could find comfort...” 意为“战俘们可以在那里寻得一丝慰藉”，表示在过去艰苦环境下的可能性与能力，故用could。",
+          "answer": "C"
+        },
+        "30": {
+          "concept": "介词搭配",
+          "note": "“a quiet space for reflection” 意为“一个供人沉思的宁静空间”，用介词for引出空间的特定用途或目的。",
+          "answer": "F"
+        },
+        "31": {
+          "concept": "介词搭配",
+          "note": "“is home to...” 为固定搭配，意为“是……的所在地/家园”。",
+          "answer": "N"
+        },
+        "32": {
+          "concept": "形容词性物主代词",
+          "note": "“its own story of resilience” 意为“它自己的关于坚韧的故事”，用its指代前面提到的单数名词“Every artefact”（每件文物）。",
+          "answer": "J"
+        },
+        "33": {
+          "concept": "定语从句关系代词",
+          "note": "先行词是单数名词短语“its own story of resilience”，指物，在非限制性定语从句中作主语，故用which引导。",
+          "answer": "R"
+        },
+        "34": {
+          "concept": "情态动词表建议",
+          "note": "“should make a visit to this site” 意为“应当去参观这个遗址”，此处作情态动词表示对历史感兴趣的人的推荐或建议。",
+          "answer": "L"
+        },
+        "35": {
+          "concept": "介词搭配",
+          "note": "“bridges the gap between A and B” 为固定搭配，意为“消除/弥合A与B之间的差距（连接过去与现在）”，置于句首需大写。",
+          "answer": "D"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "an",
+          "C": "could",
+          "D": "between",
+          "E": "by",
+          "F": "for",
+          "G": "have",
+          "H": "in",
+          "J": "its",
+          "M": "their",
+          "L": "should",
+          "N": "to",
+          "R": "which",
+          "Q": "who"
+        },
+        "cloze": [
+          "The Changi Chapel and Museum stands as a reminder of Singapore's wartime history.",
+          "Originally opened in 2001, the museum underwent [Q26] extensive revamp to modernise itself. It serves to honour the prisoners of war (POWs) and civilians [Q27] were held in the Changi area during the Japanese Occupation.",
+          "The original chapel was built [Q28] POWs during their imprisonment. These brave individuals used whatever materials they could find, such as attap leaves and scrap metal, to construct a place of worship. The chapel provided a crucial sanctuary where prisoners [Q29] find comfort amidst harsh conditions. Today, a faithful replica of the chapel sits in the open-air area of the museum, allowing visitors a quiet space [Q30] reflection.",
+          "The main exhibition area is home [Q31] a massive collection of personal items, photographs, and letters donated by the survivors and their families. Every artefact has [Q32] own story of resilience [Q33] has been preserved for future generations. For example, visitors can view secret messages hidden within everyday objects, demonstrating the creativity of the prisoners.",
+          "Anyone who is interested in history [Q34] make a visit to this site. It bridges the gap [Q35] the painful past and the peaceful present, teaching the younger generation the true value of psychological defence and strength."
+        ],
+        "zh": [
+          "樟宜礼拜堂与博物馆是新加坡战时历史的见证与提醒。",
+          "该博物馆最初于2001年开放，随后经历了一次全面的翻新以实现现代化。它的设立是为了向在日本占领期间被关押在樟宜地区的战俘（POW）和平民表达敬意。",
+          "最初的礼拜堂是由战俘在被监禁期间建造的。这些勇敢的人利用了他们能找到的任何材料（例如亚答叶和废金属）来建造一个朝拜场所。礼拜堂提供了一个关键的庇护所，战俘们可以在艰苦的环境中寻得一丝慰藉。如今，一座忠实还原该礼拜堂的复制品坐落在博物馆的露天区域，为游客提供了一个沉思的宁静空间。",
+          "主展览区馆藏着由幸存者及其家属捐赠的大量个人物品、照片和书信。每件文物都有它自己关于坚韧的故事，并且这些故事已被保存下来供后代铭记。例如，游客可以一睹隐藏在日常用品中的秘密信息，这展现了战俘们的创造力。",
+          "任何对历史感兴趣的人都应当去参观这个遗址。它弥合了痛苦的过去与和平的现在之间的鸿沟，教导年轻一代心理防线与力量的真正价值。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "Mrs Lim received the bad news. Mrs Lim fainted on the spot.",
+          "marks": 2,
+          "cue": "On"
+        },
+        "62": {
+          "stem_plain": "Tina achieved her goal after months of training.",
+          "marks": 2,
+          "cue": "... of her goal came after"
+        },
+        "63": {
+          "stem_plain": "\"Why did you forget your homework?\" Mrs Gan asked Brother.",
+          "marks": 2,
+          "cue": "Mrs Gan asked Brother"
+        },
+        "64": {
+          "stem_plain": "Passing the exam needs at least fifty marks.",
+          "marks": 2,
+          "cue": "A minimum of"
+        },
+        "65": {
+          "stem_plain": "The coach adjusted the training hours so that the pressure on students would be less.",
+          "marks": 2,
+          "cue": "To ... , the coach"
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "时间状语简化 — 介词 On + 动名词短语 (表示“一……就……”)",
+          "zh": "一收到这个坏消息，林太太当场晕了过去。",
+          "note": "改写要点：使用介词 On 引导时间状语，后接动名词短语 receiving the bad news。逗号后连接主句，需将原句的代词或重复名词完整表述为主语 Mrs Lim。",
+          "answer": "On receiving the bad news, Mrs Lim fainted on the spot."
+        },
+        "62": {
+          "concept": "词性转换 — 动词变名词 (achieved -> achievement)",
+          "zh": "她目标的实现是在几个月的训练之后。",
+          "note": "改写要点：将动词 achieved 转换为对应名词 achievement。根据提示词的固定搭配结构，句首补充为 The achievement of her goal came after months of training.",
+          "answer": "The achievement of her goal came after months of training."
+        },
+        "63": {
+          "concept": "间接引语 — 特殊疑问句的转述与时态/人称/物主代词转换",
+          "zh": "颜太太问弟弟他为什么忘记了作业。",
+          "note": "改写要点：1. 疑问句语序改为陈述句语序；2. 一般过去时（did forget）向后推一个时态变为过去完成时（had forgotten）；3. 人称与物主代词转换：you -> he, your -> his。注：根据语境，此处的 Brother 常用作人称代词或人名代称，指代男性，故间接引语使用 he/his。",
+          "answer": "Mrs Gan asked Brother why he had forgotten his homework."
+        },
+        "64": {
+          "concept": "主谓搭配与限定词转换 — at least 转换为 A minimum of 结构",
+          "zh": "通过考试至少需要五十分。",
+          "note": "改写要点：原句的 at least fifty marks 转换为以 A minimum of fifty marks 为句首主语的结构，后接动词短语 is needed / is required to pass the exam。注意主谓一致性。",
+          "answer": "A minimum of fifty marks is needed to pass the exam."
+        },
+        "65": {
+          "concept": "目的状语从句简化 — 动词不定式短语置于句首表目的",
+          "zh": "为了减轻学生的压力，教练调整了训练时间。",
+          "note": "改写要点：将 so that 引导的目的状语从句简化为 To 引导的不定式短语。从句中的 less 转化为动词 lessen 或 reduce 搭配名词 pressure，后接完整的独立主句即可：To lessen the pressure on students, the coach adjusted the training hours.",
+          "answer": "To lessen the pressure on students, the coach adjusted the training hours."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

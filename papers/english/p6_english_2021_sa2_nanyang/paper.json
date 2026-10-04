@@ -1,0 +1,1585 @@
+{
+  "paperid": "p6_english_2021_sa2_nanyang",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Jane, together with her mother, _________ now after a long day.",
+          "options": {
+            "1": "is resting",
+            "2": "are resting",
+            "3": "was resting",
+            "4": "were resting"
+          }
+        },
+        "2": {
+          "stem_plain": "Ahmad never _________ to buy his sister an ice cream every evening when the ice-cream truck comes by.",
+          "options": {
+            "1": "fail",
+            "2": "fails",
+            "3": "failed",
+            "4": "failing"
+          }
+        },
+        "3": {
+          "stem_plain": "Mary hardly visits her grandmother at the nursing home now, _________ she?",
+          "options": {
+            "1": "has",
+            "2": "does",
+            "3": "hasn't",
+            "4": "doesn't"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Please keep me updated _________ you receive any news about the missing cat,\" Mr Lim told the police officer.",
+          "options": {
+            "1": "will",
+            "2": "shall",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "5": {
+          "stem_plain": "At the upcoming meeting, participants who have indicated their attendance for the session _________ some snacks.",
+          "options": {
+            "1": "are served",
+            "2": "will be served",
+            "3": "is to be served",
+            "4": "are being served"
+          }
+        },
+        "6": {
+          "stem_plain": "_________ all the hours of training, our team lost the soccer match.",
+          "options": {
+            "1": "Due to",
+            "2": "Despite",
+            "3": "Although",
+            "4": "Owing to"
+          }
+        },
+        "7": {
+          "stem_plain": "A number of people in the neighbourhood _________ excited about volunteering for the next donation drive.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "The burglar was arrested and charged _________ breaking into the millionaire's house.",
+          "options": {
+            "1": "at",
+            "2": "of",
+            "3": "with",
+            "4": "about"
+          }
+        },
+        "9": {
+          "stem_plain": "Of all the ballet dancers you saw performing that day, who was the most graceful dancer?",
+          "options": {
+            "1": "when",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "10": {
+          "stem_plain": "Ravi was able to complete his project quickly as _________ of the work had already been done by the others.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "主谓一致 — Subject–verb agreement (together with)",
+          "zh": "简和她母亲一起，在漫长的一天之后现在正在休息。",
+          "note": "主谓一致 (Subject–verb agreement)：<em>together with</em> 不改变主语单复数；现在进行时表示此刻正在发生。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "一般现在时 — Present simple (habitual)",
+          "zh": "冰淇淋车来时，艾哈迈德从不会忘记每天晚上给妹妹买冰淇淋。",
+          "note": "一般现在时 (Present simple)：<em>never</em> + 第三人称单数 -s 表习惯性动作；<em>every evening</em> 为时间状语。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "反意疑问句 — Question tag (hardly)",
+          "zh": "玛丽现在几乎不去养老院看望祖母，是吗？",
+          "note": "附加问句 (Question tag)：<em>hardly</em> 含否定义，附加部分用肯定式；时态与 <em>visits</em> 一致用 <em>does</em>。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "情态动词 — Modal (should — request)",
+          "zh": "“一有任何关于失踪猫的消息请随时告诉我，”林先生对警官说。",
+          "note": "情态动词 (Modal)：<em>should</em> 在此相当于“一旦/若”，用于正式请求；祈使句 + 条件从句结构。",
+          "answer": "4"
+        },
+        "5": {
+          "concept": "被动语态 — Future passive",
+          "zh": "即将举行的会议上，已确认出席的与会者将获得一些茶点。",
+          "note": "被动语态 (Passive voice) + 将来时：会议尚未举行，用 <em>will be + 过去分词</em> 表将来被动。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "转折 — Contrast (Despite)",
+          "zh": "尽管训练了那么多小时，我们队还是输了足球赛。",
+          "note": "让步 (Concession)：<em>Despite</em> + 名词短语表“尽管”；<em>Although</em> 后接从句。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "主谓一致 — Subject–verb agreement (a number of)",
+          "zh": "邻里中有许多人对参加下一次募捐活动当志愿者感到兴奋。",
+          "note": "主谓一致：<em>a number of</em> + 复数名词 → 复数谓语；与 <em>the number of</em>（单数谓语）不同。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "介词 — Preposition (charged with)",
+          "zh": "窃贼被捕，被控闯入那位百万富翁家中。",
+          "note": "介词搭配 (Preposition)：<em>be charged with</em> 控告/起诉；后接名词或动名词。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "关系词 — Relative pronoun (object — whom)",
+          "zh": "那天你看到的所有芭蕾舞者中，谁是最优雅的那位？",
+          "note": "关系代词 (Relative pronoun)：<em>whom</em> 指人作宾语；口语常作 <em>who</em>，试卷选正式形式。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "量词 — Quantifier (uncountable — much)",
+          "zh": "拉维能快速完成项目，因为大部分工作已由他人做好。",
+          "note": "数量词 (Quantifier)：<em>much of</em> + 不可数名词；<em>many of</em> + 可数复数。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The plans for the rebuilding of the orphanage _________ as there was no donor for the project.",
+          "options": {
+            "1": "fell in",
+            "2": "fell off",
+            "3": "fell down",
+            "4": "fell through"
+          }
+        },
+        "12": {
+          "stem_plain": "I _________ the online order for the book after I realised I had entered the delivery address incorrectly.",
+          "options": {
+            "1": "dissolved",
+            "2": "scrapped",
+            "3": "cancelled",
+            "4": "abandoned"
+          }
+        },
+        "13": {
+          "stem_plain": "Unsure of who the stranger was, Mrs Tan stared at him in _________.",
+          "options": {
+            "1": "amusement",
+            "2": "desperation",
+            "3": "exasperation",
+            "4": "bewilderment"
+          }
+        },
+        "14": {
+          "stem_plain": "The photograph in the school yearbook was accompanied by a funny _________ under it which made us laugh out loud.",
+          "options": {
+            "1": "title",
+            "2": "caption",
+            "3": "footnote",
+            "4": "headline"
+          }
+        },
+        "15": {
+          "stem_plain": "Mr Thomas is _________ as he makes decisions hastily without thinking through the possible consequences.",
+          "options": {
+            "1": "cautious",
+            "2": "paranoid",
+            "3": "impulsive",
+            "4": "meticulous"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "重建孤儿院的计划落空了，因为该项目没有捐赠者。",
+          "note": "应选（4）'fell through'：计划因无捐赠而'泡汤、落空'。'fell in'：义为'塌陷'或'列队集合'，不能指计划失败。'fell off'：义为'脱落、下降'。'fell down'：义为'倒下、倒塌'，指物理坠落。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — fell through（落空；未能实现）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fell in",
+              "zh": "集合，列队；塌陷（短语动词，军事术语指士兵按顺序排队集合，亦可指房顶等结构向内塌陷）",
+              "eg": "The recruits were told to fall in at the parade square before the formal morning inspection started."
+            },
+            {
+              "opt": "2",
+              "word": "fell off",
+              "zh": "减少，下降；从……跌落（短语动词，指数量、销售额、支持率等大幅度缩减，或指物体从高处脱落、掉下）",
+              "eg": "Sales of the toy fell off sharply after widespread media reports of a serious safety defect."
+            },
+            {
+              "opt": "3",
+              "word": "fell down",
+              "zh": "倒塌；跌倒，摔倒（短语动词，指建筑物、树木或其一部分由于外力而倒在地上，或人失去平衡摔倒）",
+              "eg": "Several large branches fell down onto the busy road during last night's severe thunderstorm."
+            },
+            {
+              "opt": "4",
+              "word": "fell through",
+              "zh": "落空，失败，未能实现（短语动词，特指计划、协议、安排或交易因突发意外情况或缺乏支持而中途夭折、泡汤）",
+              "eg": "The plans for the rebuilding of the orphanage fell through as there was no donor willing to fund the project."
+            }
+          ]
+        },
+        "12": {
+          "zh": "发现填错收货地址后，我取消了那本书的网上订单。",
+          "note": "应选（3）'cancelled'：固定搭配 <em>cancel an order</em> 取消订单。'dissolved'：义为'溶解'或'解散'，不能接 order。'scrapped'：义为'废弃计划'，偏政策/方案。'abandoned'：义为'放弃、遗弃'，多指不再继续某事而非正式取消订单。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — cancelled（取消（订单））",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dissolved",
+              "zh": "溶解；解散，消除（动词，指固体在液体中化开，或指官方机构、议会、婚姻、商业合同等被正式终止、解散或不复存在）",
+              "eg": "The sugar dissolved completely when she stirred it into the hot tea, leaving no residue at the bottom of the cup."
+            },
+            {
+              "opt": "2",
+              "word": "scrapped",
+              "zh": "废弃，报废；取消（计划）（动词，指因为某物变旧、无用、无法推行而将其当作废品扔掉，或彻底取消原定的政策与想法）",
+              "eg": "The school scrapped the old uniform policy after parents complained about the uncomfortable fabric and high costs."
+            },
+            {
+              "opt": "3",
+              "word": "cancelled",
+              "zh": "取消（活动、订单等）（动词，指正式决定某项已经安排好的会议、演出、行程或网购订单将不再举行、不再生效）",
+              "eg": "I cancelled the online order for the book after I realised I had entered the delivery address incorrectly."
+            },
+            {
+              "opt": "4",
+              "word": "abandoned",
+              "zh": "放弃，中途丢下；遗弃（动词，指由于遇到危险或困难而被迫离开某地、停止某事，或指抛弃无人看管的宠物或家庭财产）",
+              "eg": "The hikers abandoned the trail when the path became too muddy and dangerous to continue safely in the dark."
+            }
+          ]
+        },
+        "13": {
+          "zh": "不确定陌生人是谁，陈太太困惑地盯着他。",
+          "note": "应选（4）'bewilderment'：固定搭配 <em>in bewilderment</em> 表'困惑地'。'amusement'：义为'觉得有趣'，与'不确定身份'不符。'desperation'：义为'绝望'。'exasperation'：义为'恼怒、不耐烦'。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — bewilderment（困惑）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "amusement",
+              "zh": "觉得有趣，娱乐，消遣（名词，指因为看到滑稽、有趣的事物而产生愉悦、好玩或被逗乐的心情）",
+              "eg": "The pupils watched the street performer in amusement as he juggled three tennis balls with his feet."
+            },
+            {
+              "opt": "2",
+              "word": "desperation",
+              "zh": "绝望，孤注一掷（名词，指由于陷入极端糟糕、毫无希望的绝境，而表现出极度痛苦或不顾一切进行挣扎的心理状态）",
+              "eg": "The stranded climber waved his neon jacket in desperation to attract the attention of the distant rescue helicopter."
+            },
+            {
+              "opt": "3",
+              "word": "exasperation",
+              "zh": "恼怒，气恼，不耐烦（名词，指由于事情进展不顺、他人不断犯错或设备故障而感到极度心烦意乱、忍无可忍的负面情绪）",
+              "eg": "She tapped her foot in exasperation when the office computer froze for the third time while she was typing the report."
+            },
+            {
+              "opt": "4",
+              "word": "bewilderment",
+              "zh": "困惑，迷茫（名词，指由于面对完全陌生、极其复杂或出乎意料的情况，而大脑一片空白、完全无法理解的混乱状态）",
+              "eg": "Unsure of who the masked stranger was, Mrs Tan stared at him in bewilderment as he stood at her front doorstep."
+            }
+          ]
+        },
+        "14": {
+          "zh": "年鉴照片下方配有一段有趣的说明文字，把我们逗笑了。",
+          "note": "应选（2）'caption'：照片或图片下的说明文字用 <em>caption</em>。'title'：义为'标题'，指书名、作品名。'footnote'：义为'脚注'，多见于学术文章。'headline'：义为'报纸头条'。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — caption（图片说明；配文）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "title",
+              "zh": "书名，标题；头衔，职称（名词，指书籍、乐曲、诗歌或文章的名称，或者指由于地位或职业而获得的官方称谓）",
+              "eg": "The title of the novel is printed in gold letters on the dark blue cover to attract more readers."
+            },
+            {
+              "opt": "2",
+              "word": "caption",
+              "zh": "说明文字，图片配文（名词，指紧挨着照片、插图、表格或电影画面下方，用来解释、补充说明该画面内容的简短文字）",
+              "eg": "The photograph in the school yearbook was accompanied by a funny caption under it which made us laugh out loud."
+            },
+            {
+              "opt": "3",
+              "word": "footnote",
+              "zh": "脚注（名词，指放置在书页或文档最底部，用来提供额外学术背景、解释或引文出处的附加细小说明文字）",
+              "eg": "The historian added a footnote at the bottom of the page to explain the exact dates of the historical treaty."
+            },
+            {
+              "opt": "4",
+              "word": "headline",
+              "zh": "大字标题，新闻头条（名词，指报纸头版、新闻网站最上方的粗体大字标题，通常用来报道最重大或最引人注意的焦点新闻）",
+              "eg": "The morning newspaper carried a shocking headline about the unexpected election results that dominated the national discussion."
+            }
+          ]
+        },
+        "15": {
+          "zh": "托马斯先生很冲动，做决定时不考虑可能的后果。",
+          "note": "应选（3）'impulsive'：义为'冲动的'，与 hastily without thinking 一致。'cautious'：义为'谨慎的'，与草率决定相反。'paranoid'：义为'多疑的'，非'冲动'。'meticulous'：义为'一丝不苟的'，强调仔细，与句意矛盾。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — impulsive（冲动的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cautious",
+              "zh": "谨慎的，小心的（形容词，指为了避免危险、错误或不好的后果，在言行、做决定时表现得非常提防、留神且不愿意冒险）",
+              "eg": "A cautious driver always checks the mirrors before changing lanes on the highway to avoid any unexpected traffic collision."
+            },
+            {
+              "opt": "2",
+              "word": "paranoid",
+              "zh": "多疑的，患偏执狂的（形容词，指由于极度焦虑或精神压力，在没有确凿证据的情况下毫无理性地坚信别人在针对、监视或企图加害自己）",
+              "eg": "After the break-in, he grew paranoid that someone was still watching his flat and installed security cameras everywhere."
+            },
+            {
+              "opt": "3",
+              "word": "impulsive",
+              "zh": "冲动的，凭一时冲动的（形容词，指人做事完全由一时的强烈情感驱使，在极其仓促的情况下做出决定，完全不去考虑后续可能产生的后果）",
+              "eg": "Mr Thomas is impulsive because he makes decisions hastily without thinking through the possible consequences of his actions."
+            },
+            {
+              "opt": "4",
+              "word": "meticulous",
+              "zh": "一丝不苟的，极精细的（形容词，指对工作具有极高的责任心，处理事务时付出了巨大的心思，对极微小的细节都给予高度专注）",
+              "eg": "The watchmaker is so meticulous that he checks every tiny gear with a magnifying glass before reassembling the antique timepiece."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "(1) fortune",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "2": "prosperity",
+            "3": "accomplishment",
+            "4": "acknowledgement",
+            "1": "fortune"
+          }
+        },
+        "17": {
+          "stem_plain": "(1) tricked",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "2": "trained",
+            "3": "tempted",
+            "4": "threatened",
+            "1": "tricked"
+          }
+        },
+        "18": {
+          "stem_plain": "(1) renewed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "2": "animated",
+            "3": "invigorated",
+            "4": "enlightened",
+            "1": "renewed"
+          }
+        },
+        "19": {
+          "stem_plain": "(1) grew",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "2": "soared",
+            "3": "multiplied",
+            "4": "escalated",
+            "1": "grew"
+          }
+        },
+        "20": {
+          "stem_plain": "(1) local",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "2": "global",
+            "3": "national",
+            "4": "regional",
+            "1": "local"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The creation of the Winnie-the-Pooh stories was a family affair. A.A. Milne often credited his wife, Daphne, for his [Q16 (success)]. She collaborated closely with him in producing his works. He was inspired by watching how she [Q17 (enticed)] their son, Christopher Robin, to listen to stories. Stuffed animals were [Q18 (brought)] to life with different voices and personalities during play time. Later, A.A. Milne wrote a story which included Christopher and his bear. Its [Q19 (popularity)] skyrocketed after it was published.",
+          "Fan mail poured in and the author would give his autograph on the letters, introducing the boy to his new, [Q20 (worldwide)] fame. With his nanny's help, Christopher would respond to each letter, much to the delight of the fans."
+        ],
+        "zh": [
+          "Winnie-the-Pooh 故事的创作是一件家庭事务。A.A. Milne 常把成功归功于妻子 Daphne。她在创作中与他密切合作。他受启发于观察 Daphne 如何吸引儿子 Christopher Robin 听故事。玩耍时，毛绒玩具被赋予不同的声音和性格，仿佛活了过来。后来，A.A. Milne 写了一个包含 Christopher 和他的熊的故事。出版后，它的受欢迎程度急剧上升。",
+          "粉丝来信纷至沓来，作者会在信上签名，让男孩面对突如其来的全球名声。在保姆帮助下，Christopher 会回复每一封信，这让粉丝们十分高兴。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — (1) fortune（成就）",
+          "note": "应选（3）'accomplishment'：短文划线的 <em>fortune</em> 在此语境下与此义最接近。'fortune'：义为'财富；运气'，与短文语境或搭配要求不一致。'prosperity'：义为'繁荣'，与短文语境或搭配要求不一致。'acknowledgement'：义为'承认；致谢'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "A.A. Milne 常把成就归功于妻子 Daphne。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fortune",
+              "zh": "财富；运气",
+              "eg": "He made his <strong>fortune</strong> in the shipping industry."
+            },
+            {
+              "opt": "2",
+              "word": "prosperity",
+              "zh": "繁荣",
+              "eg": "Trade brought <strong>prosperity</strong> to the port town."
+            },
+            {
+              "opt": "3",
+              "word": "accomplishment",
+              "zh": "成就",
+              "eg": "Finishing the marathon was a personal <strong>accomplishment</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "acknowledgement",
+              "zh": "承认；致谢",
+              "eg": "She received an <strong>acknowledgement</strong> for her volunteer work."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — (1) tricked（引诱；吸引）",
+          "note": "应选（3）'tempted'：短文划线的 <em>tricked</em> 在此语境下与此义最接近。'tricked'：义为'tricked/threatened'，与短文语境或搭配要求不一致。'trained'：义为'训练'，与短文语境或搭配要求不一致。'threatened'：义为'威胁'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "他受启发于观察 Daphne 如何引诱儿子 Christopher Robin 听故事。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tricked",
+              "zh": "诡计",
+              "eg": "The coach <strong>tricked</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "trained",
+              "zh": "火车",
+              "eg": "The coach <strong>trained</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "tempted",
+              "zh": "引诱；吸引",
+              "eg": "The display <strong>tempted</strong> shoppers to enter the store."
+            },
+            {
+              "opt": "4",
+              "word": "threatened",
+              "zh": "威胁",
+              "eg": "The coach <strong>threatened</strong> the players after the match."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — (1) renewed（动画）",
+          "note": "应选（2）'animated'：短文划线的 <em>renewed</em> 在此语境下与此义最接近。'renewed'：义为'renewed/invigorated/enlightened'，与短文语境或搭配要求不一致。'invigorated'：义为'使精力充沛'，与短文语境或搭配要求不一致。'enlightened'：义为'启发的'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "玩耍时，毛绒玩具被赋予不同的声音和性格，仿佛活了过来。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "renewed",
+              "zh": "更新",
+              "eg": "The coach <strong>renewed</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "animated",
+              "zh": "动画",
+              "eg": "The coach <strong>animated</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "invigorated",
+              "zh": "充满活力",
+              "eg": "The coach <strong>invigorated</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "enlightened",
+              "zh": "开导",
+              "eg": "The coach <strong>enlightened</strong> the players after the match."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — (1) grew（翱翔）",
+          "note": "应选（2）'soared'：短文划线的 <em>grew</em> 在此语境下与此义最接近。'grew'：义为'grew/multiplied/escalated'，与短文语境或搭配要求不一致。'multiplied'：义为'成倍增加'，与短文语境或搭配要求不一致。'escalated'：义为'升级；加剧'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "出版后，它的受欢迎程度急剧上升。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "grew",
+              "zh": "长大了",
+              "eg": "Her essay used <strong>grew</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "2",
+              "word": "soared",
+              "zh": "翱翔",
+              "eg": "The coach <strong>soared</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "multiplied",
+              "zh": "乘",
+              "eg": "The coach <strong>multiplied</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "escalated",
+              "zh": "升级；加剧",
+              "eg": "The argument <strong>escalated</strong> into a shouting match."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — (1) local（全球的）",
+          "note": "应选（2）'global'：短文划线的 <em>local</em> 在此语境下与此义最接近。'local'：义为'local/national/regional'，与短文语境或搭配要求不一致。'national'：义为'全国的'，与短文语境或搭配要求不一致。'regional'：义为'地区的'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "粉丝来信纷至沓来，作者会在信上签名，让男孩面对突如其来的全球名声。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "local",
+              "zh": "当地的，地方的（指特定区域、城镇或社区范围内的）",
+              "eg": "The local residents gathered at the community center to discuss the new park project."
+            },
+            {
+              "opt": "2",
+              "word": "global",
+              "zh": "全球的，全世界的（涵盖整个地球范围的）",
+              "eg": "Climate change is a global issue that requires international cooperation to solve."
+            },
+            {
+              "opt": "3",
+              "word": "national",
+              "zh": "国家的，全国性的（涉及一个完整国家或其政府的）",
+              "eg": "The athlete proud to represent her country on the national team during the tournament."
+            },
+            {
+              "opt": "4",
+              "word": "regional",
+              "zh": "区域性的，地方性的（通常指国家内某个特定地理大区或行政区的）",
+              "eg": "The regional dialects vary significantly between the northern and southern provinces."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Why is an exclamation mark used in the heading, \"Join us on a luxurious cruise on board a Queen's Cruises ship this school holidays!\"?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to emphasise that the cruise will be a luxurious one",
+            "2": "to draw attention to the name of the cruise company",
+            "3": "to convey the excitement of going on a cruise with the company",
+            "4": "to highlight that the ship is only sailing during the school holidays"
+          }
+        },
+        "22": {
+          "stem_plain": "Based on the advertisement, which of the following statements is **not** true about the cruise?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A child travels free with every paying adult.",
+            "2": "The name of the cruise company is Queen's Cruises.",
+            "3": "Eight dining venues are available for the guests' meals.",
+            "4": "Guests have to register for the Meet-and-Greet sessions with Mickey."
+          }
+        },
+        "23": {
+          "stem_plain": "Which of the following words from the section \"Make a Date with Mickey\" may be used to explain why adults are captivated by the cartoon character?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "close",
+            "2": "personal",
+            "3": "charisma",
+            "4": "energised"
+          }
+        },
+        "24": {
+          "stem_plain": "Look at the heading \"You Create the Memories. We Take Care of the Rest.\" What does \"the Rest\" refer to?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "luxurious cabins",
+            "2": "variety of food served",
+            "3": "programmes available",
+            "4": "health and safety measures"
+          }
+        },
+        "25": {
+          "stem_plain": "Mr Tan wants to take his twelve-year-old daughter with him on the cruise. He signed up for both of them on 31 Oct 2021. What benefit is the daughter entitled to?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "free trip",
+            "2": "designer travel bag",
+            "3": "free insurance coverage",
+            "4": "priority to the Meet-and-Greet Mickey sessions"
+          }
+        },
+        "26": {
+          "stem_plain": "To sign up for the cruise, Mr Tan can",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "use the chatbot feature",
+            "2": "visit the Queen's Cruises office",
+            "3": "visit www.queenscruises.com.sg",
+            "4": "call the telephone operators at 6835 1872"
+          }
+        },
+        "27": {
+          "stem_plain": "The advertisement highlights the awards achieved by the cruise ship to assure guests that",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "the food served on board the ship is of excellent quality",
+            "2": "they will stay safe and well-protected throughout the trip",
+            "3": "they will have an enjoyable and unforgettable experience",
+            "4": "the telephone operators are well-trained and knowledgeable"
+          }
+        },
+        "28": {
+          "stem_plain": "Why is Mrs Eva Li's testimonial included in the cruise advertisement?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to convince people to sign up for the cruise",
+            "2": "to prove that Queen's Cruises has the best cruise",
+            "3": "to show her promise that she will return for another trip",
+            "4": "to highlight her appreciation for the staff who attended to her"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "目的 — Punctuation purpose（目的考点）",
+          "note": "<p>Exclamation mark in the cruise heading conveys <span class=\"hl-good\">excitement</span> about the holiday trip — upbeat promotional tone.</p><p><span class=\"hl-bad\">(1)</span> luxury is stated in the words, not the punctuation alone; <span class=\"hl-bad\">(2)/(4)</span> misread the mark’s emotional function.</p>",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "细节 — detail check NOT-true（找出错误项）",
+          "note": "<p>Ad states Meet-and-Greet sessions are <strong>complimentary</strong> / included — guests do <strong>not</strong> have to register separately → option <span class=\"hl-good\">(4)</span> is NOT true.</p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "题型 — Word-in-context（题型考点）",
+          "note": "<p>Mickey’s <span class=\"hl-good\">charisma</span> in “Make a Date with Mickey” explains why adults are captivated.</p><p><span class=\"hl-bad\">close/personal</span> describe sessions; <span class=\"hl-bad\">energised</span> describes guests, not the character trait.</p>",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "题型 — Reference — heading（题型考点）",
+          "note": "<p>“We Take Care of the Rest” = cruise handles logistics beyond memories — <span class=\"hl-good\">health and safety measures</span> (sanitisation, protocols) appear in the ad.</p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "题型 — Promotion detail（题型考点）",
+          "note": "<p>Sign-up benefit for children includes <span class=\"hl-good\">free insurance coverage</span> (stated in booking perks).</p><p><span class=\"hl-bad\">free trip</span> applies to younger promo rules, not a 12-year-old on this date.</p>",
+          "answer": "3"
+        },
+        "26": {
+          "concept": "题型 — Sign-up channel（题型考点）",
+          "note": "<p>Ad directs customers to <span class=\"hl-good\">visit the Queen's Cruises office</span> (physical sign-up option listed).</p>",
+          "answer": "2"
+        },
+        "27": {
+          "concept": "目的 — Awards purpose（目的考点）",
+          "note": "<p>Award badges assure guests of an <span class=\"hl-good\">enjoyable and unforgettable experience</span> — quality/experience focus.</p>",
+          "answer": "3"
+        },
+        "28": {
+          "concept": "目的 — Testimonial purpose（目的考点）",
+          "note": "<p>Mrs Eva Li’s quote is social proof to <span class=\"hl-good\">convince people to sign up</span> for the cruise.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "as",
+          "D": "has",
+          "G": "may",
+          "K": "to",
+          "N": "were",
+          "B": "at",
+          "E": "in",
+          "H": "of",
+          "L": "very",
+          "P": "will",
+          "C": "had",
+          "F": "is",
+          "J": "so",
+          "M": "was",
+          "Q": "with"
+        },
+        "cloze": [
+          "The \"Fortune Cat\" is well-known by many. It is most commonly sighted sitting on top of cashier counters, greeting customers [Q29] they enter or leave the stores.",
+          "[Q30] its raised paw and pointy red ears, the Fortune Cat figurine is believed to bring luck and prosperity [Q31] its owners. Though this little figurine [Q32] a few different origin stories, they are all based in Japan.",
+          "In one origin story, an old woman was [Q33] poor that she could no longer feed her pet cat and was forced to let it go. That night, the cat appeared [Q34] her dream and said, \"If you make dolls in my image, I [Q35] certainly bring you good fortune.\" The next day, the old woman made cat figurines and sold them [Q36] the gates of the temple. The cat kept its promise. The ceramic figurines [Q37] very popular and saved the old woman from poverty.",
+          "Stories like this reflect the belief that cats are symbols of good fortune. In Japanese culture, there [Q38] a deep-rooted belief in the power of cats: Take care of them, and they will look after you. Perhaps that is why the figurines' popularity never seems to fade."
+        ],
+        "zh": [
+          "'招财猫'广为人知。它最常见于收银台，在顾客进出时向他们招手。",
+          "它举起的爪子与尖尖的红耳朵，被认为能给主人带来好运与繁荣。虽然这个小雕像有几种起源故事，但都源于日本。",
+          "在一个故事里，一位老妇太穷，养不起宠物猫，只好放它走。当晚猫入梦说：'若按我的样子做玩偶，我必带给你好运。'次日她制作猫形陶瓷在庙门出售。猫信守承诺；玩偶大受欢迎，使她摆脱贫困。",
+          "这类故事反映人们相信猫是好运象征。在日本文化中，人们深信猫有灵性：善待猫，猫也会护佑你。或许正因如此，招财猫的热度经久不衰。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "连词 — time",
+          "note": "of cashier counters, greeting customers as they enter or leave the = 句间逻辑 → as。",
+          "answer": "A — as"
+        },
+        "30": {
+          "concept": "介词 — accompaniment",
+          "note": "with its raised paw and pointy = 看前后搭配，选 with。",
+          "answer": "Q — with"
+        },
+        "31": {
+          "concept": "介词 — benefit",
+          "note": "看前后搭配，选 to。",
+          "answer": "K — to"
+        },
+        "32": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Though this little figurine has a few different origin stories, = 主谓一致 → has。",
+          "answer": "D — has"
+        },
+        "33": {
+          "concept": "关系词 — so … that",
+          "note": "story, an old woman was so poor that she could no = 定语/名词性从句 → so。",
+          "answer": "J — so"
+        },
+        "34": {
+          "concept": "介词 — in a dream",
+          "note": "That night, the cat appeared in her dream and said, \"If = 看前后搭配，选 in。",
+          "answer": "E — in"
+        },
+        "35": {
+          "concept": "情态动词 — promise",
+          "note": "情态动词 will。",
+          "answer": "P — will"
+        },
+        "36": {
+          "concept": "介词 — location",
+          "note": "看前后搭配，选 at。",
+          "answer": "B — at"
+        },
+        "37": {
+          "concept": "主谓 — 时态/一致",
+          "note": "The ceramic figurines were very popular and saved the = 主谓一致 → were。",
+          "answer": "N — were"
+        },
+        "38": {
+          "concept": "存在句 — there be",
+          "note": "In Japanese culture, there is a deep-rooted belief in the = 结合句意选 is。",
+          "answer": "F — is"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "In June, I went through two weeks of Basic Training conducted by the Singapore Armed Forces Volunteer Corps (SAFVC). From the moment I [Q39(steps)] into the army camp, I was swarmed by [Q40(newmerus)] mosquitoes. None of the insect repellants I had made any difference in [Q41(deteri)] their attacks. In addition, the discomfort of not showering for three days and the [Q42(fertig)] from overnight guard duties soon caused my [Q43(determined)] to complete my training to waver.",
+          "One morning, I woke up [Q44(on)] tears from a sharp pain in my shoulders — the result of [Q45(oa)] the weight of my army gear for hours. I would have given up if not for the [Q46(encoragment)] of my platoon mates — other women who had also signed up as trainees. [Q47(Drove)] by a desire to contribute to our nation's defence, we [Q48(peseveered)] together.",
+          "The experience made me realise I had taken for [Q49(ghrunted)] the effort that goes into building Singapore's defence and security. Even the most basic things like warm meals and clean running water [Q50(is)] sorely missed during the field camp. I felt an overwhelming sense of appreciation for our full-time national servicemen (NSF)."
+        ],
+        "zh": [
+          "六月，我参加了新加坡武装部队志愿军团为期两周的基础训练。从我踏入军营那一刻起，成群蚊子便扑来。我带的驱虫剂对它们的叮咬毫无用处。此外，三天不能洗澡，加上夜间站岗的疲惫，很快让我完成训练的决心动摇了。",
+          "一天早上，肩上的剧痛让我哭着醒来——那是长时间负重行军的结果。若不是战友——同样报名受训的女性——的鼓励，我本想放弃。在为国家防务贡献的愿望驱使下，我们一起坚持了下来。",
+          "这段经历让我意识到，自己一直把建设新加坡防务与安保的努力视为理所当然。野营时，连热饭和自来水这样的基本需求都令人格外怀念。我对全职国民服役子弟充满了感激。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Verb tense",
+          "note": "<p>Narrative past: From the moment I <span class=\"hl-good\">stepped</span> into camp (not present <em>steps</em>).</p>",
+          "answer": "stepped"
+        },
+        "40": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">numerous</span> mosquitoes — correct spelling of the adjective.</p>",
+          "answer": "numerous"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<p>Made any difference in <span class=\"hl-good\">deterring</span> their attacks.</p>",
+          "answer": "deterring"
+        },
+        "42": {
+          "concept": "Spelling + word class",
+          "note": "<p><span class=\"hl-good\">fatigue</span> from guard duties (noun, not <em>fertig</em>).</p>",
+          "answer": "fatigue"
+        },
+        "43": {
+          "concept": "Word form",
+          "note": "<p>Caused my <span class=\"hl-good\">determination</span> to waver (noun after possessive <em>my</em>).</p>",
+          "answer": "determination"
+        },
+        "44": {
+          "concept": "Preposition",
+          "note": "<p>Woke up <span class=\"hl-good\">in</span> tears — fixed collocation.</p>",
+          "answer": "in"
+        },
+        "45": {
+          "concept": "Gerund",
+          "note": "<p>Result of <span class=\"hl-good\">bearing</span> the weight of army gear (after preposition <em>of</em>).</p>",
+          "answer": "bearing"
+        },
+        "46": {
+          "concept": "Spelling",
+          "note": "<p><span class=\"hl-good\">encouragement</span> of my platoon mates.</p>",
+          "answer": "encouragement"
+        },
+        "47": {
+          "concept": "Word form / passive participle",
+          "note": "<p><span class=\"hl-good\">Driven</span> by a desire to contribute (past participle, not <em>Drove</em>).</p>",
+          "answer": "driven"
+        },
+        "48": {
+          "concept": "Spelling",
+          "note": "<p>We <span class=\"hl-good\">persevered</span> together — correct past tense.</p>",
+          "answer": "persevered"
+        },
+        "49": {
+          "concept": "Spelling — idiom",
+          "note": "<p>Taken for <span class=\"hl-good\">granted</span> — fixed phrase.</p>",
+          "answer": "granted"
+        },
+        "50": {
+          "concept": "Subject–verb agreement",
+          "note": "<p>Things like warm meals and clean water <span class=\"hl-good\">were</span> sorely missed (plural subject).</p>",
+          "answer": "were"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "短语动词被动形式",
+          "note": "前面有助动词被动结构 is being，后接过去分词。与后面的副词 out 完美组合，构成全行业说明文中最核心的高频短语动词 carried out，意为观鲸活动如今在全球多国被广泛“开展/进行”。",
+          "answer": "carried"
+        },
+        "52": {
+          "concept": "经典习语固定搭配",
+          "note": "前面有完成时助动词 have，且后接介词短语 on the bandwagon。完美契合形容赶时髦、顺应大众潮流的核心经典比喻习语 jump on the bandwagon，此处需填入过去分词形式 jumped（原答案表误写为现在分词 jumping，备考需注意完成时语态的正确性）。",
+          "answer": "jumped/jumping"
+        },
+        "53": {
+          "concept": "时间介词完成时搭配",
+          "note": "位于句首，后接表示一段时间的短语 many years，且与后文的现在完成时 raised 呼应。完美契合时间持续介词 For 的核心用法，表示“多年来/历经多年”。位于句首需大写。",
+          "answer": "For"
+        },
+        "54": {
+          "concept": "名词语意与介词搭配",
+          "note": "前面有形容词 valid（合理的）修饰，后接介词短语 about the negative impact。指科学家对观鲸活动的负面冲击提出了许多合理的“担忧”、“质疑”或“问题”，故填复数名词 concerns / doubts / questions / objections。",
+          "answer": "concerns/doubts/questions/objections"
+        },
+        "55": {
+          "concept": "举例引导词固定搭配",
+          "note": "与前面的名词/代词结构 完美组合，后接 as how they feed...。构成最经典的高频举例固定标记语 such as，用于引出觅食和休息等自然行为的例子。",
+          "answer": "such"
+        },
+        "56": {
+          "concept": "名词语意与同位语从句",
+          "note": "前面有不定冠词 a，后接 that 引导的同位语从句。指船只与鲸鱼相撞这一潜在的“风险”、“可能性”或“危险”始终存在，故填单数名词 risk / possibility / danger / chance。",
+          "answer": "risk/possibility/danger/chance"
+        },
+        "57": {
+          "concept": "现在分词短语充当伴随/结果状语",
+          "note": "前半句句子结构已经表达完整，此处使用现在分词短语作伴随结果状语。与后面的介词短语 at serious injury 完美组合，构成经典短语 putting it at...（使它处于……的危险中），填入 leaving 或 subjecting 表达“导致/让它面临”亦完全通顺。",
+          "answer": "putting/leaving/subjecting"
+        },
+        "58": {
+          "concept": "一般过去时动词语意形式",
+          "note": "前面有现在完成时助动词 have，后接过去分词。指为了减少环境冲击，部分国家已经“制定”、“通过”或“颁布”了限制法令，完美契合法律专属搭配 passed / introduced / enacted / established / made，需用过去分词形式。",
+          "answer": "passed/introduced/enacted/established/made"
+        },
+        "59": {
+          "concept": "助动词后的动词原形与场景搭配",
+          "note": "在定语从句中，前面有情态助动词 can，后面必须接动词原形。在限制航运速度的特定场景下，指船只可以在海里“航行（travel）”、“行驶（move/go/sail）”或“运作”的速度范围。",
+          "answer": "travel/move/go/sail"
+        },
+        "60": {
+          "concept": "动词与法律名词专属搭配",
+          "note": "不定式符号 to 后接动词原形。用来形容法律在浩瀚的公海上往往很难被强力“执行”或“实施”，完美契合法律和规范专属的高阶核心动词 enforse 或者是管教词 implement / execute / police。",
+          "answer": "enforce/implement/execute/police"
+        },
+        "61": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词短语 get 极其后文的 the system 完美组合。构成在探讨政策漏洞、不法商家偷鸡摸狗语境下极高频考核的经典习惯短语 get around the system（绕过制度/钻制度空子），填入 past / through 表达“规避规章”亦可。",
+          "answer": "around/past/through"
+        },
+        "62": {
+          "concept": "对比结构固定习惯搭配",
+          "note": "与其前后置的介词 In 极其名词 hand 完美结合。承接上文的负面危害，此处引出其正面的社会和经济效益。完美契合高频常考的经典对比逻辑习语 On the other hand（另一方面）。",
+          "answer": "other"
+        },
+        "63": {
+          "concept": "名词语意与介词搭配",
+          "note": "前面有形容词 close（近距离的）修饰，后接介词短语 with these animals。指观鲸能让大众有机会与这些庞然大物产生近距离的“接触”、“体验”或“互动”，故填复数名词 encounters / contact / experiences / interactions（此处 encounters 或 contact 最自然）。",
+          "answer": "encounters/contact/experiences/interactions"
+        },
+        "64": {
+          "concept": "名词语意与前文搭配",
+          "note": "前面有形容词短语 an all-out（彻底的/全面的）修饰。指目前并没有人呼吁要“全面禁止”观鲸活动，标准语法填入名词 ban。若根据特定错位答案表，由于 64 空与 65 空答案发生排版错位易位为 up，则在特定同步中以 up 保持校对一致。",
+          "answer": "ban/up"
+        },
+        "65": {
+          "concept": "名词作前置定语修饰",
+          "note": "用来修饰名词短语 unintended consequences（意外后果）。指强行一刀切完全禁止观鲸，反而可能会衍生出由于“禁止（ban）”政策本身所引发的意想不到的反作用，标准语法填入名词 ban 充当定语。若根据特定错位答案表异动，则以 ban 保持校对一致。",
+          "answer": "ban"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Organised whale watching originated in the United States in the 1950s. Now, the activity is being [Q51] out in 120 countries worldwide. Asian countries have [Q52] on the bandwagon in recent years, and the booming billion-dollar industry is set to see continued growth.",
+          "[Q53] many years, scientists and animal rights activists have raised many valid [Q54] about the negative impact that whale watching may have on the animals. Marine biologist Dr David Lusseau cautions that excessive whale watching can interfere with the animals' natural behaviour, [Q55] as how they feed and rest. There is also a [Q56] that a whale-watching boat may collide with a whale, [Q57] it at serious injury or even death.",
+          "To reduce the impact brought about by whale watching, some countries have [Q58] laws to limit the number of boats allowed to be out at sea at any one time, as well as the speed at which they can [Q59]. Unfortunately, these laws are often difficult to [Q60] and boat operators often find ways to get [Q61] the system and continue with their illegal practices.",
+          "On the [Q62] hand, the whale-watching industry does bring with it some benefits. Whale watching enables people to have close [Q63] with these animals, which may inspire people to care more about them and speak up for their welfare, especially against threats like ocean pollution and illegal hunting.",
+          "As such, no one is calling for an all-out [Q64] on whale watching for now. In fact, insisting that whale watching should completely stop may have [Q65] unintended consequences which may not benefit the whales. However, whale-watching companies should conduct their activities in a responsible manner for the welfare of the whales."
+        ],
+        "zh": [
+          "有组织的观鲸活动起源于20世纪50年代的美国。如今，这项活动已在全球120个国家开展。近年来，亚洲国家也纷纷加入这一潮流，这一蓬勃发展的数十亿美元产业注定将持续增长。",
+          "多年来，科学家和动物权益维护者对观鲸可能给这些动物带来的负面影响提出了许多合理的担忧。海洋生物学家大卫·卢梭博士警告说，过度的观鲸活动会干扰动物的自然行为，例如它们如何觅食和休息。此外，观鲸船还存在与鲸鱼相撞的风险，从而导致其严重受伤甚至死亡。",
+          "为了减少观鲸带来的影响，一些国家已经出台法律，限制任何时候允许出海的船只数量，以及它们的航行速度。不幸的是，这些法律往往难以执行，船只经营者经常想方设法规避系统漏洞，继续他们的非法行为。",
+          "另一方面，观鲸产业确实也带来了一些好处。观鲸让人们能够与这些动物进行近距离接触，这可能会激励人们更加关心它们，并为它们的福祉发声，尤其是针对海洋污染和非法捕猎等威胁。",
+          "因此，目前还没有人要求全面禁止观鲸。事实上，坚持要求完全停止观鲸可能会带来一些始料未及的后果，而这些后果未必对鲸鱼有利。然而，为了鲸鱼的福祉，观鲸公司应当以负责任的方式开展其活动。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "John chose his favourite shirt. He put on a matching tie.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Having __________"
+        },
+        "67": {
+          "stem_plain": "All the cooking utensils have not been washed.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Not one of __________"
+        },
+        "68": {
+          "stem_plain": "Jane asked her father if he had forgotten to sign her report book the previous day.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "\"Did you __________\" Jane asked her father"
+        },
+        "69": {
+          "stem_plain": "Mary does not want to leave the park. Her brothers do not want to leave the park.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Neither __________"
+        },
+        "70": {
+          "stem_plain": "The dog was extremely aggressive. No one dared to approach it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Due to the dog's __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "分词短语 — Participle clause (Having done)",
+          "zh": "选好最喜欢的衬衫后，约翰戴上相配的领带。",
+          "note": "分词结构：<em>Having + 过去分词</em> 作时间状语，表前一动作先完成。",
+          "answer": "Having chosen his favourite shirt, John put on a matching tie."
+        },
+        "67": {
+          "concept": "句型转换 — Negative transformation (not one of)",
+          "zh": "厨具没有一件被洗过。",
+          "note": "否定转换：<em>all … not</em> → <em>not one of</em> + 单数谓语 <em>has</em>。",
+          "answer": "Not one of the cooking utensils has been washed."
+        },
+        "68": {
+          "concept": "间接引语 — Reported speech → direct speech",
+          "zh": "“你昨天是不是忘了在我的报告册上签名？”简问父亲。",
+          "note": "间接引语转直接引语：一般疑问句用 Did you …?；时间状语 yesterday。",
+          "answer": "\"Did you forget to sign my report book yesterday?\" Jane asked her father."
+        },
+        "69": {
+          "concept": "关联结构 — Neither … nor",
+          "zh": "玛丽和她的兄弟们都不想离开公园。",
+          "note": "关联连词 (Correlative)：<em>Neither A nor B</em> 连接两个并列主语。",
+          "answer": "Neither Mary nor her brothers want to leave the park."
+        },
+        "70": {
+          "concept": "原因短语 — Due to + noun phrase",
+          "zh": "由于那条狗极其凶猛，没人敢靠近它。",
+          "note": "因果转换：形容词 → 名词短语 <em>extreme aggressiveness</em>，用 <em>Due to</em> 引导。",
+          "answer": "Due to the dog's extreme aggressiveness, no one dared to approach it."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Pick out a two-word phrase from the second paragraph that tells us the writer was in an unsafe position.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Based on information from paragraphs 2 and 5, fill in the following table.",
+          "marks": 3,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3",
+              "col_4"
+            ],
+            "col_1": {
+              "header": "Situation",
+              "rows": [
+                "without his glasses",
+                "with his glasses"
+              ]
+            },
+            "col_2": {
+              "header": "How the writer felt when the gardener asked him to get down from the tree",
+              "rows": [
+                "scared",
+                "[Q72b]"
+              ]
+            },
+            "col_3": {
+              "header": "Reason he felt that way",
+              "rows": [
+                "[Q72a]",
+                "He felt comforted by the cherry tree."
+              ]
+            },
+            "col_4": {
+              "header": "What he did as a result",
+              "rows": [
+                "He returned to his original position and clung on tighter.",
+                "[Q72c]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Why was it a **'good thing'** (line 17) that Estella used to climb trees?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Which two adjectives best describe Estella in paragraphs 2 and 3?",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "agile",
+            "careful",
+            "bossy",
+            "helpful",
+            "clumsy",
+            "impatient"
+          ],
+          "max_selections": 2
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the word(s) in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **a crunch** (line 14)",
+                "(b) **here** (line 27)",
+                "(c) **it** (line 31)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]",
+                "[Q75c]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "How did the gardener eventually convince the writer to get down from the tree?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The writer could see the gardener easily from the cherry tree when they first met.",
+                "(b) The first item the writer crossed out from his list was playing his favourite tune on the piano."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q77a]",
+                "[Q77c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q77b]",
+                "[Q77d]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Write **1**, **2** and **3** in the blanks below to indicate the order in which the events occurred in the passage.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "The writer met Estella.",
+            "The writer's eyesight started failing.",
+            "The writer was stuck in the cherry tree."
+          ]
+        },
+        "79": {
+          "stem_plain": "Explain clearly what the writer meant by **\"it hurt to hear my fate\"** (lines 27–28).",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Why was the writer thankful that Estella gave him the idea for the list?",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "I smiled as I crossed out yet another item on my list: \"Play my favourite tune on the piano\". It",
+          "2": "had taken weeks of practice, but I finally mastered playing the tune blindfolded. I was relieved that",
+          "3": "music would continue to be a part of my life and I was thankful that Estella had given me the idea for",
+          "4": "the list the day we had met three years ago.",
+          "5": "That fateful day, the bell had rung, but I was still perched precariously on the cherry tree in",
+          "6": "the school playground. Fearful, I clung on tightly to a branch without moving. Unexpectedly, I heard",
+          "7": "a voice called out, \"Are you stuck, boy?\" I looked down from the tree and squinted hard. Standing",
+          "8": "near the tree, arms crossed, was a gardener I had never seen before. She was tall and her eyes",
+          "9": "looked so big and black that they sent a shiver down my spine. \"Put your foot here,\" the gardener",
+          "10": "instructed, pointing to a piece of trunk jutting out just below me. I let go of my branch and lowered",
+          "11": "my foot, but I heard the bark crack. Alarmed by the prospect of falling, I went straight back to my",
+          "12": "original position and clung on tighter. \"Come on down!\" urged the gardener. I shook my head",
+          "13": "vigorously.",
+          "14": "The gardener took a step closer and there was **a crunch**. She bent down and picked up a",
+          "15": "pair of red glasses. They had been hidden in the grass. \"What's this? Yours?\" she asked. \"They fell",
+          "16": "when I was climbing up. And now I can't get back down!\" I burst out crying. \"Shhh...\" the gardener",
+          "17": "said. \"It's **a good thing** I used to climb trees and pretend I was riding a horse,\" she recalled as she",
+          "18": "quickly scaled the tree. Soon, she reached me, swung one leg over and sat down like she was riding",
+          "19": "a horse.",
+          "20": "She handed over my cracked glasses and I put them on right away. Up close, I could see",
+          "21": "that her big, dark eyes were actually brown and sparkled prettily when she spoke. She started to",
+          "22": "descend as quickly as she had climbed up.",
+          "23": "‘Let's go!’ she called out on her way down. \"Wait! I don't want to go down,\" I murmured.",
+          "24": "\"Follow me down quickly - I have to go!\" she said, exasperated. I felt bad about wasting her time but",
+          "25": "I was not ready. I had sought solace from the cherry tree because Doctor Olga had confirmed the",
+          "26": "day before that my failing eyesight would eventually be completely lost. The sweet smell of cherries",
+          "27": "comforted me and I could pretend nothing bad would happen when I was hidden up here. To be",
+          "28": "honest, I had been anticipating the worst for a few years. Still, it hurt to hear my fate. I feared I",
+          "29": "would not be able to climb the cherry tree anymore.",
+          "30": "When I told her how I felt, she replied, \"If there are things you can't do anymore, you must",
+          "31": "write them into a list. That way, you won't forget anything.\" She said it like it was the most natural",
+          "32": "thing to do. It was the first time anyone told me I could do something about my condition. It sounded",
+          "33": "like a great idea - it was something within my control as I waited for the inevitable. \"I made a list too,",
+          "34": "years ago,\" she continued. \"What was on your list?\" I asked. \"I'll show you when we get down,\" she",
+          "35": "promised. Intrigued, I followed her gingerly, edging along my branch, forgetting my fear.",
+          "36": "From then on, I would meet Estella every day at school. I showed her my list at least once a",
+          "37": "week. I would cross out items on the list by practising those activities blindfolded daily until I mastered",
+          "38": "them. Sometimes, that worked and when it did not, I would move on to the next item on the list. The",
+          "39": "list had filled up three pages, and many items had been crossed out through my hard work and sheer",
+          "40": "determination.",
+          "41": "These days, I would leave my glasses at home since I was hardly able to see beyond a few",
+          "42": "inches. Despite that, I was living a full life thanks to the list. I still climbed the cherry tree every day",
+          "43": "and I could get up and down on my own easily now. It had been the first thing I crossed out from my",
+          "44": "list. The list truly showed me that I could do much more than I had dared dream of. I was so thankful",
+          "45": "to Estella for her idea. If we had not met by chance years back, I might not be who I was today."
+        },
+        "paragraphs": {
+          "1": "我微笑着划掉清单上的又一项：“用钢琴弹奏我最喜欢的曲子”。经过数周练习，我终于能蒙眼弹奏这支曲子。我松了一口气——音乐仍将是我生活的一部分；我也感谢埃斯特拉，三年前我们相遇那天，她给了我写这份清单的主意。",
+          "5": "就在那天，放学铃已响，我仍危险地栖在学校操场樱桃树的枝头。我害怕得紧紧抱住树枝一动不敢动。忽然有人喊：“男孩，你卡住了吗？”我向下望去，使劲眯眼。树旁站着一位从未见过的园丁，双臂交叉。她很高，眼睛又大又黑，看得我脊背发凉。“把脚放这里，”她指着脚下突出的树干说。我松开树枝伸脚，却听见树皮裂开。一想到可能摔下去，我立刻回到原位，抱得更紧。“下来吧！”她催促。我使劲摇头。",
+          "14": "园丁走近一步，传来咔嚓一声。她弯腰从草丛里捡起一副红眼镜。“这是什么？你的吗？”“我往上爬时掉下来的。现在我下不去了！”我哭出声。“嘘……”她说，“好在我小时候也常爬树，假装自己在骑马。”她很快爬上树，到我身边，一腿跨过，像骑马一样坐下。",
+          "20": "她把破裂的眼镜递给我，我立刻戴上。近看才发现，她乌黑的大眼睛其实是棕色的，说话时闪闪发亮。她随即像上来时一样迅速往下爬。",
+          "23": "她边下边说：“走吧！”“等等！我不想下去，”我低声说。“快跟我下来——我得走了！”她不耐烦地说。我因耽误她的时间而愧疚，但还没准备好。前一天奥尔加医生证实我的视力终将完全丧失，我才躲到樱桃树寻求安慰。樱桃的甜香让我安心，躲在树上仿佛坏事不会发生。老实说，几年来我一直在做最坏的打算；可亲耳听到命运，仍然心痛。我怕再也不能爬这棵樱桃树了。",
+          "30": "我把感受告诉她，她回答：“如果有些事再也做不了，就写进清单，这样就不会忘记。”她说得如此自然。第一次有人告诉我，对自己的状况还能做些什么。这主意很棒——在等待不可避免的结局时，这是我仍能掌控的事。“多年前我也做过一份清单，”她继续说。“你清单上有什么？”我问。“下去再给你看，”她答应。我很好奇，小心翼翼地跟着她沿树枝挪动，忘记了恐惧。",
+          "36": "此后我每天在学校见埃斯特拉，每周至少给她看一次清单。我蒙眼练习清单上的活动，直到掌握；有时成功，有时不行就换下一项。清单写满三页，许多项目凭努力和决心被划掉。",
+          "41": "如今我几乎看不清几英寸以外，常把眼镜留在家，但靠着清单我仍过着充实的生活。我每天仍爬樱桃树，上下自如——那是清单上最先划掉的一项。清单让我明白自己比敢想的更能做很多事。我无比感谢埃斯特拉的主意；若多年前没有那次偶遇，我或许不会成为今天的自己。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>从第二段摘录两个词的短语，说明作者处境不安全。</li><li><strong>范围：</strong>第 2 段（行 5–12），写作者困在樱桃树上。</li><li><strong>关键词：</strong>行 5 <em>still perched precariously on the cherry tree</em> — 危险地栖在枝头。</li><li><strong>书写：</strong>必须两个词、来自该段；<span class=\"hl-good\">perched precariously</span> 为官方答案。</li></ol>",
+          "answer": [
+            "perched precariously"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>题型：</strong>据第 2、5 段填表，两行：没戴眼镜 / 戴眼镜。</li><li><strong>无眼镜（行 10–12）：</strong>园丁催促下来 → 怕摔（<em>alarm … falling</em>）→ 回到原位抱更紧。</li><li><strong>有眼镜（行 23–28）：</strong>戴上后仍不愿下树 → 樱桃树带来安慰（<em>comforted</em>）→ 告诉 Estella 不想离开。</li><li><strong>书写：</strong>每格一词或一句，与表头列一致；表格 <code>fill</code> 已对齐官方键。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "He was alarmed by the prospect of falling.",
+            "72b": "reluctant",
+            "72c": "He told Estella he did not want to leave."
+          }
+        },
+        "73": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>问法：</strong>行 17 为何说 Estella 会爬树是 <em>good thing</em>。</li><li><strong>定位：</strong>行 15–20：眼镜掉在草丛，作者无法下去；Estella 爬树把眼镜递给他。</li><li><strong>因果：</strong>正因她会爬树，才能上树把眼镜交给作者。</li><li><strong>书写：</strong>完整因果句，含 climb up 与 pass/give glasses。</li></ol>",
+          "answer": [
+            "This was a good thing because Estella would then be able to climb up the cherry tree and pass the writer's glasses to him."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>题型：</strong>第 2、3 段中勾选两个形容词描述 Estella。</li><li><strong>agile：</strong>行 17–18 她迅速爬树、像骑马一样跨过树枝。</li><li><strong>helpful：</strong>行 9–12、17–20 指引落脚、拾眼镜、上树协助。</li><li><strong>排除：</strong>careful/clumsy 与行动不符；bossy/impatient 非主要特征。</li></ol>",
+          "answer": [
+            "agile",
+            "helpful"
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>三处指代填空 (a)(b)(c)。</li><li><strong>(a) a crunch（行 14）：</strong>园丁踩到眼镜发出的声响。</li><li><strong>(b) here（行 27）：</strong>樱桃树的枝头 / 树上藏身之处。</li><li><strong>(c) it（行 31）：</strong>把再也做不了的事写进清单这一做法。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "the sound made when the gardener stepped on the (writer's) glasses",
+            "75b": "on (the branches of) the cherry tree",
+            "75c": "writing the things the writer could not / would not be able to do into a list"
+          }
+        },
+        "76": {
+          "concept": "过程描述题",
+          "note": "<ol><li><strong>问法：</strong>园丁如何最终说服作者下树。</li><li><strong>定位：</strong>行 33–35：Estella 说 <em>I'll show you when we get down</em>（下去后给你看她的清单）。</li><li><strong>效果：</strong>作者 <em>intrigued</em>，跟着她挪动，<em>forgetting my fear</em>。</li><li><strong>书写：</strong>要点 = 承诺展示清单 + 引发好奇/忘记恐惧。</li></ol>",
+          "answer": [
+            "Estella said she would show the writer her list when they got down the tree, which intrigued the writer and made him forget his fear."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题式：</strong>每行先判 T/F 再写一句依据。</li><li><strong>(a) FALSE：</strong>行 7 作者 <em>squinted hard</em> 才看清园丁——并非 easily。</li><li><strong>(b) FALSE：</strong>行 43–44 最先划掉的是爬树上下，不是行 1 的钢琴曲。</li><li><strong>书写：</strong>依据须引用文中细节，各一句。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "False",
+            "77b": "He had to squint hard (to see the gardener)",
+            "77c": "False",
+            "77d": "The first item he crossed out was climbing / getting up and down the cherry tree"
+          }
+        },
+        "78": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>题型：</strong>三事件按发生顺序标 1、2、3。</li><li><strong>逻辑：</strong>视力开始衰退（Doctor Olga，行 25–26）→ 困在樱桃树（当天）→ 遇见 Estella（同一事件链）。</li><li><strong>答案顺序：</strong>遇见 Estella = <strong>3</strong>；视力衰退 = <strong>1</strong>；困在树上 = <strong>2</strong> → <span class=\"hl-good\">3, 1, 2</span>。</li></ol>",
+          "answer": [
+            "3, 1, 2"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "短语/句子释义",
+          "note": "<ol><li><strong>问法：</strong>解释行 27–28 <em>it hurt to hear my fate</em> 的含义。</li><li><strong>指代：</strong><em>it</em> = 听到命运/诊断；<em>my fate</em> = 视力终将完全丧失（行 25–26）。</li><li><strong>情感：</strong>虽早有心理准备，亲耳听到仍<strong>伤心、难过</strong>。</li><li><strong>书写：</strong>说明 sad/upset + 将完全失明之意。</li></ol>",
+          "answer": [
+            "He meant that he was sad to know that he was going to lose his eyesight completely."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>问法：</strong>为何感谢 Estella 的清单主意（行 3–4 呼应）。</li><li><strong>证据：</strong>行 41–44 靠清单仍过充实生活；做到比敢想的更多（<em>much more than I had dared dream of</em>）。</li><li><strong>要点：</strong>清单让他在失明前掌控能做的事，活出充实人生。</li><li><strong>书写：</strong>因果完整句，含 full life / more than dreamed 等意。</li></ol>",
+          "answer": [
+            "He was able to do much more than he dreamed of, and was able to live a full life."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

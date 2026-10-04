@@ -1,0 +1,1547 @@
+{
+  "paperid": "p6_english_2021_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "We were unable to complete the assignment as we had _________ out of time.",
+          "options": {
+            "1": "fan",
+            "2": "run",
+            "3": "runs",
+            "4": "running"
+          }
+        },
+        "2": {
+          "stem_plain": "All the toys in this shop _________ stolen last week.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "Christina, chosen as a lead singer in the group, _________ a lot more confident now.",
+          "options": {
+            "1": "is",
+            "2": "was",
+            "3": "had been",
+            "4": "having been"
+          }
+        },
+        "4": {
+          "stem_plain": "You will be disciplined _________ you do not follow our school rules.",
+          "options": {
+            "1": "if",
+            "2": "unless",
+            "3": "when",
+            "4": "after"
+          }
+        },
+        "5": {
+          "stem_plain": "Thomas and Jake are good friends. They _________ each other since kindergarten.",
+          "options": {
+            "1": "knew",
+            "2": "has known",
+            "3": "had known",
+            "4": "have known"
+          }
+        },
+        "6": {
+          "stem_plain": "I was embarrassed when I realised that I _________ him for someone else.",
+          "options": {
+            "1": "mistook",
+            "2": "mistaken",
+            "3": "had mistaken",
+            "4": "have mistaken"
+          }
+        },
+        "7": {
+          "stem_plain": "If _________ you, I would tell him the truth.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "Lisa _________ if she had not got the last question wrong.",
+          "options": {
+            "1": "will pass",
+            "2": "would pass",
+            "3": "will have passed",
+            "4": "would have passed"
+          }
+        },
+        "9": {
+          "stem_plain": "The idea of more electric cars plying our roads will not take off _________ there are more charging stations.",
+          "options": {
+            "1": "if",
+            "2": "after",
+            "3": "when",
+            "4": "unless"
+          }
+        },
+        "10": {
+          "stem_plain": "At this moment, the promise of a good supper _________ the race participants to band together and not give up.",
+          "options": {
+            "1": "spur",
+            "2": "spurs",
+            "3": "spurred",
+            "4": "spurring"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "过去完成时 — Phrasal verb — run out of (past perfect)",
+          "zh": "我们没能完成作业，因为当时时间已经用完了。",
+          "note": "过去完成时 (past perfect) 表“过去的过去”；run out of time 为固定搭配，过去分词仍为 run。",
+          "answer": "2"
+        },
+        "2": {
+          "concept": "被动语态 — Subject–verb agreement (passive, plural)",
+          "zh": "上周这家店里的所有玩具都被偷了。",
+          "note": "主语为复数 toys，被动语态且时间状语为 last week，用 were stolen。",
+          "answer": "4"
+        },
+        "3": {
+          "concept": "关系词 — Reduced relative clause + present state",
+          "zh": "克里斯蒂娜被选为小组主唱，现在自信多了。",
+          "note": "插入语 reduced clause 不改变主语单复数；now 提示一般现在时 is。",
+          "answer": "1"
+        },
+        "4": {
+          "concept": "连词 — Conditional conjunction (first conditional)",
+          "zh": "如果你不遵守校规，你将受到处分。",
+          "note": "第一条件句：主句将来时，从句用 if + 一般现在时表示条件；unless 虽可表条件，但此处卷面选项以 if 最贴切。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "现在完成时 — Present perfect with since",
+          "zh": "托马斯和杰克是好朋友，他们从幼儿园起就互相认识。",
+          "note": "since 表示从过去持续到现在，主语 They 用现在完成时 have known。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "一般过去时 — Past simple parallel to realised",
+          "zh": "我意识到把他错认成别人时感到很尴尬。",
+          "note": "mistake…for… 的过去式为 mistook；与 realised 同属过去时间，常用一般过去时衔接。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "虚拟语气 — Subjunctive after if (were you)",
+          "zh": "如果我是你，我会告诉他真相。",
+          "note": "虚拟条件 If I were you 中 be 动词一律用 were（正式书面与考试标准）。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "虚拟语气 — Third conditional",
+          "zh": "如果丽莎没有把最后一题做错，她本来会通过考试的。",
+          "note": "第三条件句：从句 had done，主句 would have done，表示与过去事实相反的假设结果。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "固定搭配 — Unless = except if",
+          "zh": "除非有更多充电站，否则更多电动汽车上路的想法不会真正普及。",
+          "note": "unless = if not，连接否定主句与必要条件；if 会颠倒逻辑。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "主谓一致 — Subject–verb agreement (singular present)",
+          "zh": "此刻，好好吃一顿晚饭的前景激励着参赛者团结在一起、不放弃。",
+          "note": "主语 promise 为单数，一般现在时谓语加 -s：spurs。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "“_________ someone your own size,” the child said to the bully.",
+          "options": {
+            "1": "Pick at",
+            "2": "Pick on",
+            "3": "Pick up",
+            "4": "Pick out"
+          }
+        },
+        "12": {
+          "stem_plain": "As expected, the _________ explorer thrived in dangerous conditions.",
+          "options": {
+            "1": "timid",
+            "2": "flailing",
+            "3": "intrepid",
+            "4": "sympathetic"
+          }
+        },
+        "13": {
+          "stem_plain": "The competitive eater is known for his _________ appetite; he can wolf down fifteen hot dogs in mere minutes.",
+          "options": {
+            "1": "malicious",
+            "2": "voracious",
+            "3": "suspicious",
+            "4": "auspicious"
+          }
+        },
+        "14": {
+          "stem_plain": "Green with envy, Siti cast _________ eyes at Nadia’s brand-new gaming console.",
+          "options": {
+            "1": "covetous",
+            "2": "gratuitous",
+            "3": "calamitous",
+            "4": "momentous"
+          }
+        },
+        "15": {
+          "stem_plain": "Shiva could not answer the teacher’s question. He tried every technique, but he was clearly _________.",
+          "options": {
+            "1": "dodging a bullet",
+            "2": "grasping at straws",
+            "3": "falling on deaf ears",
+            "4": "reading between the lines"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "孩子对欺凌者说：“去找跟你块头相当的人欺负。”",
+          "note": "选2：Pick on 表“欺负、找茬”，符合挑战欺凌者的习语；其余短语语义不符。",
+          "concept": "词汇辨析 — Pick on（欺负；找茬）",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Pick at",
+              "zh": "挑剔；不断指责",
+              "eg": "Parents should not <strong>pick at</strong> every small mistake a child makes."
+            },
+            {
+              "opt": "2",
+              "word": "Pick on",
+              "zh": "欺负；找茬",
+              "eg": "Bullies often <strong>pick on</strong> quieter classmates."
+            },
+            {
+              "opt": "3",
+              "word": "Pick up",
+              "zh": "捡起；学会；接人",
+              "eg": "I will <strong>pick up</strong> the books after class."
+            },
+            {
+              "opt": "4",
+              "word": "Pick out",
+              "zh": "挑选",
+              "eg": "Can you <strong>pick out</strong> the odd one in each row?"
+            }
+          ],
+          "image": "a11.jpeg"
+        },
+        "12": {
+          "zh": "不出所料，这位勇敢的探险家在危险环境中依然茁壮成长。",
+          "note": "选3：intrepid（无畏的）与在险境中 thrive 搭配；timid 为反义。",
+          "concept": "词汇辨析 — intrepid（勇敢的；无畏的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "timid",
+              "zh": "胆小的",
+              "eg": "The kitten stayed <strong>timid</strong> under the chair."
+            },
+            {
+              "opt": "2",
+              "word": "flailing",
+              "zh": "乱摆的；慌乱挣扎的",
+              "eg": "He was <strong>flailing</strong> his arms in the water."
+            },
+            {
+              "opt": "3",
+              "word": "intrepid",
+              "zh": "勇敢的；无畏的",
+              "eg": "An <strong>intrepid</strong> reporter travelled into the storm."
+            },
+            {
+              "opt": "4",
+              "word": "sympathetic",
+              "zh": "有同情心的",
+              "eg": "She gave me a <strong>sympathetic</strong> smile."
+            }
+          ]
+        },
+        "13": {
+          "zh": "这名大胃王以食量闻名，几分钟就能狼吞虎咽地吃掉十五根热狗。",
+          "note": "选2：voracious 形容食量极大，与 wolf down 呼应。",
+          "concept": "词汇辨析 — voracious（贪吃的；求知欲极强的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "malicious",
+              "zh": "恶意的",
+              "eg": "He spread a <strong>malicious</strong> rumour."
+            },
+            {
+              "opt": "2",
+              "word": "voracious",
+              "zh": "贪吃的；求知欲极强的",
+              "eg": "The boy has a <strong>voracious</strong> appetite for pizza."
+            },
+            {
+              "opt": "3",
+              "word": "suspicious",
+              "zh": "可疑的；怀疑的",
+              "eg": "A <strong>suspicious</strong> parcel was reported to security."
+            },
+            {
+              "opt": "4",
+              "word": "auspicious",
+              "zh": "吉利的",
+              "eg": "They chose an <strong>auspicious</strong> day for the wedding."
+            }
+          ]
+        },
+        "14": {
+          "zh": "西蒂妒火中烧，用贪婪羡慕的目光盯着娜迪亚崭新的游戏机。",
+          "note": "选1：covetous 与 green with envy 同向；gratuitous 等语义不符。",
+          "concept": "词汇辨析 — covetous（贪婪觊觎的）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "covetous",
+              "zh": "贪婪觊觎的",
+              "eg": "She gave a <strong>covetous</strong> glance at the trophy."
+            },
+            {
+              "opt": "2",
+              "word": "gratuitous",
+              "zh": "无必要的；免费的",
+              "eg": "The film had <strong>gratuitous</strong> violence."
+            },
+            {
+              "opt": "3",
+              "word": "calamitous",
+              "zh": "灾难性的",
+              "eg": "The storm had a <strong>calamitous</strong> effect on crops."
+            },
+            {
+              "opt": "4",
+              "word": "momentous",
+              "zh": "重大的",
+              "eg": "It was a <strong>momentous</strong> day for the nation."
+            }
+          ]
+        },
+        "15": {
+          "zh": "希瓦答不出老师的问题，试了各种办法，显然是在乱抓救命稻草。",
+          "note": "选2：grasping at straws 比喻毫无把握仍乱试一通，贴合语境。",
+          "concept": "词汇辨析 — grasping at straws（抓救命稻草；病急乱投医）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dodging a bullet",
+              "zh": "侥幸躲过一劫",
+              "eg": "We were <strong>dodging a bullet</strong> when the test was postponed."
+            },
+            {
+              "opt": "2",
+              "word": "grasping at straws",
+              "zh": "抓救命稻草；病急乱投医",
+              "eg": "With no ideas left, he was <strong>grasping at straws</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "falling on deaf ears",
+              "zh": "不被理会",
+              "eg": "Her warnings were <strong>falling on deaf ears</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "reading between the lines",
+              "zh": "读出言外之意",
+              "eg": "By <strong>reading between the lines</strong>, I sensed he was worried."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "bonds",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "ties",
+            "2": "cords",
+            "3": "strains",
+            "4": "resentment"
+          }
+        },
+        "17": {
+          "stem_plain": "urban",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "civic",
+            "2": "rural",
+            "3": "rustic",
+            "4": "idyllic"
+          }
+        },
+        "18": {
+          "stem_plain": "champion",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "winner",
+            "2": "enemy",
+            "3": "advocate",
+            "4": "antagonist"
+          }
+        },
+        "19": {
+          "stem_plain": "drastically",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "radically",
+            "2": "suddenly",
+            "3": "gradually",
+            "4": "minimally"
+          }
+        },
+        "20": {
+          "stem_plain": "backgrounds",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "heritages",
+            "2": "circumstances",
+            "3": "identities",
+            "4": "traditions"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Imagine having everything you need — community centres, supermarkets, parks — just a few steps from home. It could make you healthier and build stronger [Q16 (bonds)] between you and your neighbours. This is the idea behind the 15-minute city. Here, people can get all the services they need within 15 minutes of home, on foot or by bike. This [Q17 (urban)] model is being developed in cities around the world.",
+          "Carlos Moreno has been a [Q18 (champion)] of 15-minute cities for years. Inspired by the need to fight climate change, he proposed to build more pavements and bicycle lanes to [Q19 (drastically)] reduce carbon emissions. As housing costs increase, he is also worried about people being displaced. As such, he is focused on inclusion and wants to create places that people of all [Q20 (backgrounds)] can call home."
+        ],
+        "zh": [
+          "想象一下，你所需的一切——社区中心、超市、公园——都在离家几步之遥。这可能让你更健康，也能加强你和邻居之间的联系。这就是“15分钟城市”背后的理念：人们步行或骑车，在15分钟内就能在家附近获得所需的各种服务。这种城市模式正在世界各地的城市中发展。",
+          "Carlos Moreno 多年来一直是15分钟城市的倡导者。受应对气候变化需求的启发，他提议修建更多人行道和自行车道，以大幅减少碳排放。随着住房成本上涨，他也担心人们被迫搬迁。因此，他关注包容性，希望创造让各种背景的人都能称为家园的地方。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — bonds（联系；纽带）",
+          "note": "应选（1）'ties'：短文划线的 <em>bonds</em> 在此语境下与此义最接近。'cords'：义为'绳索； cord'，与短文语境或搭配要求不一致。'strains'：义为'紧张关系；压力'，与短文语境或搭配要求不一致。'resentment'：义为'怨恨；不满'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这可能让你更健康，也能加强你和邻居之间更紧密的联系。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "ties",
+              "zh": "联系；纽带",
+              "eg": "Strong family <strong>ties</strong> helped them stay close despite living far apart."
+            },
+            {
+              "opt": "2",
+              "word": "cords",
+              "zh": "绳索； cord",
+              "eg": "He tied the package with thick <strong>cords</strong> of rope."
+            },
+            {
+              "opt": "3",
+              "word": "strains",
+              "zh": "紧张关系；压力",
+              "eg": "Long hours created <strong>strains</strong> between the teammates."
+            },
+            {
+              "opt": "4",
+              "word": "resentment",
+              "zh": "怨恨；不满",
+              "eg": "She hid her <strong>resentment</strong> after being overlooked for promotion."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — urban（城市的；市政的）",
+          "note": "应选（1）'civic'：短文划线的 <em>urban</em> 在此语境下与此义最接近。'rural'：义为'乡村的'，与短文语境或搭配要求不一致。'rustic'：义为'质朴的；乡村风味的'，与短文语境或搭配要求不一致。'idyllic'：义为'田园诗般的； idyllic'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这种城市模式正在世界各地的城市中发展。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "civic",
+              "zh": "城市的；市政的",
+              "eg": "Voters attended a <strong>civic</strong> meeting about the new park."
+            },
+            {
+              "opt": "2",
+              "word": "rural",
+              "zh": "乡村的",
+              "eg": "They moved to a quiet <strong>rural</strong> village."
+            },
+            {
+              "opt": "3",
+              "word": "rustic",
+              "zh": "质朴的；乡村风味的",
+              "eg": "The cabin had a charming <strong>rustic</strong> interior."
+            },
+            {
+              "opt": "4",
+              "word": "idyllic",
+              "zh": "田园诗般的； idyllic",
+              "eg": "We spent an <strong>idyllic</strong> afternoon by the lake."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — champion（倡导者；拥护）",
+          "note": "应选（3）'advocate'：短文划线的 <em>champion</em> 在此语境下与此义最接近。'winner'：义为'获胜者'，与短文语境或搭配要求不一致。'enemy'：义为'敌人'，与短文语境或搭配要求不一致。'antagonist'：义为'对手；反派'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "Carlos Moreno 多年来一直是15分钟城市的倡导者。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "winner",
+              "zh": "获胜者",
+              "eg": "The <strong>winner</strong> received a gold medal on stage."
+            },
+            {
+              "opt": "2",
+              "word": "enemy",
+              "zh": "敌人",
+              "eg": "The two countries were once bitter <strong>enemies</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "advocate",
+              "zh": "倡导者；拥护",
+              "eg": "She is a passionate <strong>advocate</strong> for girls' education."
+            },
+            {
+              "opt": "4",
+              "word": "antagonist",
+              "zh": "对手；反派",
+              "eg": "The hero finally defeated the <strong>antagonist</strong> in the final chapter."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — drastically（根本地；大幅地）",
+          "note": "应选（1）'radically'：短文划线的 <em>drastically</em> 在此语境下与此义最接近。'suddenly'：义为'突然地'，与短文语境或搭配要求不一致。'gradually'：义为'逐渐地'，与短文语境或搭配要求不一致。'minimally'：义为'最低限度地；略微'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "受应对气候变化需求的启发，他提议修建更多人行道和自行车道，以根本性地减少碳排放。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "radically",
+              "zh": "根本地；大幅地",
+              "eg": "The policy will <strong>radically</strong> change how schools assess pupils."
+            },
+            {
+              "opt": "2",
+              "word": "suddenly",
+              "zh": "突然地",
+              "eg": "The lights went out <strong>suddenly</strong> during the storm."
+            },
+            {
+              "opt": "3",
+              "word": "gradually",
+              "zh": "逐渐地",
+              "eg": "The pain <strong>gradually</strong> faded after she rested."
+            },
+            {
+              "opt": "4",
+              "word": "minimally",
+              "zh": "最低限度地；略微",
+              "eg": "The recipe changed <strong>minimally</strong> over the years."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — backgrounds（情况）",
+          "note": "应选（2）'circumstances'：短文划线的 <em>backgrounds</em> 在此语境下与此义最接近。'heritages'：义为'遗产；传统'，与短文语境或搭配要求不一致。'identities'：义为'身份'，与短文语境或搭配要求不一致。'traditions'：义为'传统'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "因此，他关注包容性，希望创造让各种境况的人都能称为家园的地方。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "heritages",
+              "zh": "遗产；传统",
+              "eg": "The museum celebrates diverse cultural <strong>heritages</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "circumstances",
+              "zh": "情况",
+              "eg": "The pupils found the word <strong>circumstances</strong> useful in their composition."
+            },
+            {
+              "opt": "3",
+              "word": "identities",
+              "zh": "身份",
+              "eg": "The speaker chose <strong>identities</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "4",
+              "word": "traditions",
+              "zh": "传统",
+              "eg": "Her essay used <strong>traditions</strong> in a clear, natural sentence."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following words can be used to describe the festival?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "dull",
+            "2": "exciting",
+            "3": "humorous",
+            "4": "monotonous"
+          }
+        },
+        "22": {
+          "stem_plain": "What was the highlight for Roslina for Fruit Feast 2021?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The free flow of fresh fruit such as mangosteens and durians.",
+            "2": "The pleasure of opening her own durians.",
+            "3": "The top-notch service by the staff.",
+            "4": "The free flow of coconut juice."
+          }
+        },
+        "23": {
+          "stem_plain": "Why is an asterisk (*) used in the heading “Healthy Fruit Salad*”?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to highlight the title of the workshop",
+            "2": "to tell readers to sign up for the workshop",
+            "3": "to show that this is their signature workshop",
+            "4": "to convey information for children who may be underaged"
+          }
+        },
+        "24": {
+          "stem_plain": "What should Mrs Wong do to secure cheaper tickets for herself?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Register as a member of Greenview Community Club.",
+            "2": "Volunteer at Greenview Community Club.",
+            "3": "Donate to Health Board Singapore.",
+            "4": "Sign up before 3 December 2021."
+          }
+        },
+        "25": {
+          "stem_plain": "Which one of these statements is not true of Fruit Feast 2021?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Members of the public can buy a surprise fruit box.",
+            "2": "Health Board Singapore is contributing to the event.",
+            "3": "Only selected participants will receive a reusable bag.",
+            "4": "Greenview CC members have a higher chance to win in the lucky draw."
+          }
+        },
+        "26": {
+          "stem_plain": "What is the similarity between the workshops “Mystery Ink” and “Party Fruit Tarts”?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Both workshops are free.",
+            "2": "Both workshops have the same duration.",
+            "3": "Both workshops use fruit as one of the ingredients.",
+            "4": "Both workshops are conducted by famous trainers."
+          }
+        },
+        "27": {
+          "stem_plain": "Zoe would like to donate dried food items. She should",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "call Mr Raju at 6232 4334",
+            "2": "visit the Rainbow Old Age Home website",
+            "3": "donate them at Greenview Community Club",
+            "4": "leave the items at the Peach Room at Rainbow Old Age Home"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of the article?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to garner support for Fruit Festival 2021",
+            "2": "to create a donation drive for Rainbow Old Age Home",
+            "3": "to promote the workshops available at the Community Centre",
+            "4": "to conduct a review of the previous Fruit Festivals for their readers"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "目的 — Tone / poster purpose（目的考点）",
+          "note": "<p>The poster calls the festival <em>fun-filled</em> and urges readers not to miss it → <span class=\"hl-good\">exciting</span>. <span class=\"hl-bad\">dull / monotonous</span> contradict the copy; <span class=\"hl-bad\">humorous</span> is not emphasised.</p>",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "题型 — Detail from review（题型考点）",
+          "note": "<p>Roslina’s review ends with <em>What’s best? The free flow of refreshing coconut juice!</em> → highlight = <span class=\"hl-good\">coconut juice</span> option. Fruit flow is praised but the question spotlights her <strong>highlight</strong> sentence.</p>",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "题型 — Footnote asterisk（题型考点）",
+          "note": "<p>The footnote <em>*For children 8 years and above.</em> limits age for the Healthy Fruit Salad workshop → <span class=\"hl-good\">information for children who may be underaged</span>.</p>",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "题型 — Ticket pricing table（题型考点）",
+          "note": "<p>Members pay <strong>$10</strong> vs non-members <strong>$15</strong> for adults → cheaper tickets by <span class=\"hl-good\">registering as a member</span>.</p>",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "判断 — NOT true（找出错误项）",
+          "note": "<p><span class=\"hl-good\">(1)</span> is NOT stated: there is no “surprise fruit box” product. <span class=\"hl-bad\">(2)</span> Sponsor line matches Health Board Singapore. <span class=\"hl-bad\">(3)</span> first 50 get bags = selected participants. <span class=\"hl-bad\">(4)</span> lucky draw is open to all ticket holders — the flyer does not say members have higher chance (treat as not stated / false depending on memo; here keyed as not true statement = option 1 as the false claim).</p>",
+          "answer": "1"
+        },
+        "26": {
+          "concept": "题型 — Compare workshops（题型考点）",
+          "note": "<p><span class=\"hl-good\">Both use fruit</span>: Mystery Ink needs <em>lemons</em>; Party Fruit Tarts are fruit tarts. Durations and fees differ; only fruit-as-ingredient overlaps.</p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "题型 — Donation logistics（题型考点）",
+          "note": "<p>Donations go to the <strong>Peach Room at Greenview CC, Level 1</strong> → deliver at the community club (option 3). Calling Mr Raju is for volunteering to sort, not the drop-off itself.</p>",
+          "answer": "3"
+        },
+        "28": {
+          "concept": "主旨 — main purpose（主要目的）",
+          "note": "<p>The flyer promotes the Fruit Festival dates, prices, workshops and website → overall <span class=\"hl-good\">garner attendance / support for Fruit Festival 2021</span>. Donations section is secondary.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "B": "as",
+          "C": "by",
+          "D": "during",
+          "E": "how",
+          "F": "in",
+          "G": "into",
+          "H": "is",
+          "J": "moreover",
+          "K": "on",
+          "L": "that",
+          "M": "then",
+          "N": "was",
+          "P": "were",
+          "Q": "what"
+        },
+        "cloze": [
+          "There is something fascinating about a sunken ship. It is as if the vessel [Q29] frozen in time at the bottom of a body of water. Thanks to popular culture, we think there is a chance of finding some treasure down there.",
+          "In May 2020, the remnants of what was thought to be the PT-59 Navy vessel [Q30] lifted off the bottom of the Harlem River in Manhattan. A sunken ship in a major city was news in itself. [Q31], this boat had another interesting layer. John F. Kennedy commanded the PT-59 during World War Two, in 1943, when he [Q32] in his mid-20s.",
+          "[Q33] did the boat get there? After the war, it was operated as a charter boat from the 1950s to 1970s. It was painted white, its machine guns replaced by fishing rod holders and railings for anglers to lean [Q34]. Its powerful engines were replaced [Q35] more economical twin diesels. [Q36] 1970, a school teacher, Redmond Burke, purchased the PT-59 for a thousand dollars and turned it [Q37] a houseboat. He lived in it for a while. Unfortunately, it kept leaking and eventually the upkeep got to be too much [Q38] Burke let it sink to the bottom of the river. It remained there for decades."
+        ],
+        "zh": [
+          "沉船总让人觉得有种迷人的魅力。 仿佛船只被定格在水底的时间里。 得益于流行文化，我们总觉得水下或许能找到宝藏。",
+          "2020年5月，被认为是肯尼迪在二战中指挥过的 PT-59 海军舰艇残骸，从曼哈顿哈莱姆河底被打捞上岸。 在大都市里出现沉船，本身已是新闻。 此外，这艘船还有另一层引人玩味的故事。 约翰·F·肯尼迪在1943年第二次世界大战期间指挥过 PT-59，那时他二十多岁。",
+          "船是怎么到那里的？ 战后它从二十世纪五十年代到七十年代被当作包租船运营。 船身被漆成白色，机枪换成了钓竿架，还装了供钓鱼者倚靠的栏杆。 强劲的发动机被更经济的双柴油发动机所取代。 1970年，教师 Redmond Burke 以一千美元买下 PT-59，并把它改造成住家船。 他在船上住过一段时间。 不幸的是，船一直漏水，最终维护费用高到 Burke 只好让它沉入河底。 此后它在河底停留了数十年。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "固定搭配 — as if",
+          "note": "is as if the vessel is frozen in time at the = 结合句意选 is。",
+          "answer": "H — is"
+        },
+        "30": {
+          "concept": "主谓 — 时态/一致",
+          "note": "be the PT-59 Navy vessel were lifted off the bottom of = 主谓一致 → were。",
+          "answer": "P — were"
+        },
+        "31": {
+          "concept": "moreover",
+          "note": "moreover , this boat had another = 结合句意选 moreover。",
+          "answer": "J — moreover"
+        },
+        "32": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Two, in 1943, when he was in his mid-20s. = 主谓一致 → was。",
+          "answer": "N — was"
+        },
+        "33": {
+          "concept": "关系/连接词 — how",
+          "note": "how did the boat get there? = 定语/名词性从句 → how。",
+          "answer": "E — how"
+        },
+        "34": {
+          "concept": "介词 — on",
+          "note": "railings for anglers to lean on . = 看前后搭配，选 on。",
+          "answer": "K — on"
+        },
+        "35": {
+          "concept": "介词 — by",
+          "note": "Its powerful engines were replaced by more economical twin diesels. = 看前后搭配，选 by。",
+          "answer": "C — by"
+        },
+        "36": {
+          "concept": "介词 — in",
+          "note": "in 1970, a school teacher, Redmond = 看前后搭配，选 in。",
+          "answer": "F — in"
+        },
+        "37": {
+          "concept": "介词 — into",
+          "note": "看前后搭配，选 into。",
+          "answer": "G — into"
+        },
+        "38": {
+          "concept": "关系/连接词 — that",
+          "note": "got to be too much that Burke let it sink to = 指示词 that 回指上文。",
+          "answer": "L — that"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The cherry blossoms, known in Japan as sakura, are well-known around the world for their radiant, delicate and transient beauty. However, they are more than simply beautiful trees. The sakura have powerful ties to Japan's history, culture and [Q39(idantetee)] and [Q40(is)] one of Japan's most iconic natural [Q41(symbles)] .",
+          "Adding to their magic and [Q42(mystik)] , the sakura are usually in full bloom for around a week. On the diverse landscape of Japan's main islands, this magical moment can occur from late March [Q43(in)] early May. After the [Q44(brif)] period of full bloom, the small, round shaped flowers start to flutter gracefully from their trees and the blossoms are said to be the most beautiful.",
+          "With many Japanese, the blooming of the cherry blossom trees [Q45(represent)] human life, transience and nobleness. The Japanese [Q46(chareesh)] the cherry blossoms trees during the limited flowering period. Many people hold ‘flower watching’ parties [Q47(knows)] as hanami. You simply cannot travel to Japan in spring without [Q48(apresniating)] the beauty of the sakura and experiencing a hanami party for [Q49(myself)] !",
+          "Given the cultural significance of the sakura, there are countless events and festivals that [Q50(is)] centred on the blooming of the cherry blossom."
+        ],
+        "zh": [
+          "樱花在日本被称为 sakura，以其灿烂、精致而短暂的美闻名于世。然而，它们不只是美丽的树。樱花与日本的历史、文化和身份紧密相连，也是日本最具代表性的自然象征之一。",
+          "它们的魅力与神秘感更添神奇；樱花通常盛花期约一周。在日本各主岛多样的地貌上，这一神奇时刻可自三月末延续至五月初。盛花期过后，小而圆的花开始从树上轻盈飘落，据说此时最美。",
+          "对许多日本人而言，樱花盛开象征人生、无常与高尚。日本人在花期有限时珍视樱花树。许多人举办“赏花”聚会，称为 hanami。春季到日本，几乎无法不欣赏樱花之美、不体验 hanami 聚会。",
+          "鉴于樱花的文化意义，围绕樱花盛开的节庆活动众多，都以花开为主题。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling",
+          "note": "<p><em>idantetee</em> → <span class=\"hl-good\">identity</span> (identity and culture).</p>",
+          "answer": "identity"
+        },
+        "40": {
+          "concept": "Agreement",
+          "note": "<p><em>The sakura have … and is one</em> — the second verb should agree with plural <em>sakura</em>: <span class=\"hl-good\">are</span>.</p>",
+          "answer": "are"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<p><em>symbles</em> → <span class=\"hl-good\">symbols</span>.</p>",
+          "answer": "symbols"
+        },
+        "42": {
+          "concept": "Spelling",
+          "note": "<p><em>mystik</em> → <span class=\"hl-good\">mystique</span>.</p>",
+          "answer": "mystique"
+        },
+        "43": {
+          "concept": "Preposition",
+          "note": "<p>Range from late March <span class=\"hl-good\">to</span> early May (not <em>in</em>).</p>",
+          "answer": "to"
+        },
+        "44": {
+          "concept": "Spelling",
+          "note": "<p><em>brif</em> → <span class=\"hl-good\">brief</span>.</p>",
+          "answer": "brief"
+        },
+        "45": {
+          "concept": "Agreement",
+          "note": "<p>Gerund subject <em>The blooming …</em> takes singular verb: <span class=\"hl-good\">represents</span>.</p>",
+          "answer": "represents"
+        },
+        "46": {
+          "concept": "Spelling",
+          "note": "<p><em>chareesh</em> → <span class=\"hl-good\">cherish</span>.</p>",
+          "answer": "cherish"
+        },
+        "47": {
+          "concept": "Participle",
+          "note": "<p>Parties <span class=\"hl-good\">known</span> as hanami (passive participle).</p>",
+          "answer": "known"
+        },
+        "48": {
+          "concept": "Spelling",
+          "note": "<p><em>apresniating</em> → <span class=\"hl-good\">appreciating</span>.</p>",
+          "answer": "appreciating"
+        },
+        "49": {
+          "concept": "Pronoun",
+          "note": "<p>Imperative to the reader: <span class=\"hl-good\">yourself</span>, not <em>myself</em>.</p>",
+          "answer": "yourself"
+        },
+        "50": {
+          "concept": "Agreement",
+          "note": "<p><em>events and festivals that are centred</em> — plural relative subject → <span class=\"hl-good\">are</span>.</p>",
+          "answer": "are"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "What is perseverance? Perseverance is grit, dedication and determination. It is the ability to [Q51] doing something even though it seems hopeless. It means not giving up.",
+          "Perseverance is an important and positive character [Q52] to have in your life. Students these days are [Q53] how to persevere in school because it is not just necessary in school [Q54] also in daily life.",
+          "Mistakes are necessary building [Q55] of learning and creativity. Making mistakes [Q56] necessary to benefit one’s life. Accepting your mistakes [Q57] you learn and achieve more. Once you fail and try again, you might be able to taste success.",
+          "We should embrace and celebrate mistakes [Q58] we are unable to grow without them. [Q59] things are getting tough, you can get back up again and try your hardest to succeed. It may not seem easy but you will succeed if you do not give [Q60]. There is [Q61] challenge too big that you cannot handle. If you feel as though you are [Q62] to handle it, ask for help. There will always be someone who is able to [Q63] you.",
+          "Once you learn how to persevere, you are in a better position to handle difficulties. [Q64], perseverance must be practised from childhood so that the habit becomes [Q65] and parcel of one’s life. With that great asset, a person can walk easily on the hazardous road of life’s journey. Success will be his and only his."
+        ],
+        "zh": [
+          "毅力是什么？毅力是坚韧、投入与决心，是在看似无望时仍坚持做某事的能力，意味着不放弃。",
+          "毅力是人生中重要而积极的品格。学生在校学习如何坚持，因为毅力不只学业需要，日常生活也需要。",
+          "错误是学习与创造必要的基石；犯错有益于人生；接纳错误助你学得更多、取得更大成就。",
+          "我们应拥抱并庆祝错误，因为没有错误就无法成长。处境艰难时仍可重新振作、全力以赴；只要不放弃就能成功；没有克服不了的难题；若自觉无力应对要寻求帮助，总会有人能帮你。",
+          "学会毅力后更能应对困难；因此须从小练习，使之成为生活的一部分；凭此资产，人能在人生险路上稳步前行，成功可期。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "动词与动名词固定搭配",
+          "note": "不定式符号 to 后接动词原形，且后接动名词形式 doing。构成在各类励志主题中频繁考核的地道特定短语 keep doing something 或者是 continue doing，表示“坚持做某事”的能力。",
+          "answer": "keep/continue"
+        },
+        "52": {
+          "concept": "复合名词固定习惯搭配",
+          "note": "与前置的名词 character 完美组合。构成在人格素养和品德教育文体中极高频考核的经典专属复合名词 character trait，意为这是一项极其重要的积极“性格特征/品格特质”。",
+          "answer": "trait"
+        },
+        "53": {
+          "concept": "被动语态或进行时动词语意",
+          "note": "前面有系动词 are，后面接 how to 不定式结构。用来描述目前的校园学习现状，指学生们在学校里正被“传授（taught）”或者自己正在“学习（learning/shown）”如何去面对挫折，故填分词形式。",
+          "answer": "taught/learning/shown"
+        },
+        "54": {
+          "concept": "并列并列关联词搭配",
+          "note": "与前文的否定关联词 not just 完美呼应，构成经典关联句型结构 not just... but also...（不仅……而且……），用以加强顺承递进的语气。",
+          "answer": "but"
+        },
+        "55": {
+          "concept": "经典比喻习语搭配",
+          "note": "与其前置的修饰词 building 完美结合。构成英语中用于形容基础组成部分、奠基石的极高频标志性专属比语习语 building blocks，意为犯错是创造力不可或缺的“基石”，需用复数形式。",
+          "answer": "blocks"
+        },
+        "56": {
+          "concept": "主谓一致与状态系动词",
+          "note": "主语为动名词短语 Making mistakes（犯错，在语法上充当单数第三人称）。本句陈述客观存在的哲理，需用一般现在时单数系动词 is，构成“犯错是必要的”语意。",
+          "answer": "is"
+        },
+        "57": {
+          "concept": "主谓一致与动词语意",
+          "note": "主语为单数动名词短语 Accepting your mistakes，后接代词宾语 you 和动词原形 learn。指直面错误能够“帮助（helps）”、“促使（makes/lets/allows）”你学习并实现更多，谓语动词需用单三形式。",
+          "answer": "helps/makes/lets/allows"
+        },
+        "58": {
+          "concept": "从属原因连词",
+          "note": "引导原因状语从句。用来连接前后两句，指我们应该接纳犯错，是“因为（because / as / since）”如果没有错误，我们将永远无法获得真正的成长，故填入表示原因的连词。",
+          "answer": "because/as/since"
+        },
+        "59": {
+          "concept": "时间状语从句引导词",
+          "note": "引导时间/条件从句，后接名词短语 things are getting tough（情况变得艰难）。填入连词 When（当……时）或者是 Whenever / If（每当/如果），用作段落开头的逻辑背景引入。位于句首需大写。",
+          "answer": "When/Whenever/If"
+        },
+        "60": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词 do not give 完美组合。构成在各大主流名校考卷中极其核心、高频的专属短语动词 give up，意为只要你绝不“放弃”，就一定能收获成功。",
+          "answer": "up"
+        },
+        "61": {
+          "concept": "绝对否定限定词形式",
+          "note": "修饰单数可数名词 challenge，后接 too... that... 结构。指世界上“没有任何一个（no）”挑战是宏大到你无法去独自应对的，用作双重否定加强绝对肯定语气。",
+          "answer": "no"
+        },
+        "62": {
+          "concept": "形容词与不定式搭配",
+          "note": "系动词 are 之后，后接不定式符号 to handle it。指如果你觉得自己“无能为力的”、“无法（unable / structural / helpless）”去独自处理眼前的困难，就应该主动寻求支持，构成 be unable to 结构。",
+          "answer": "unable/helpless"
+        },
+        "63": {
+          "concept": "定语从句不定式动词原形",
+          "note": "不定式符号 to 后接动词原形。在定语从句中充当谓语，指身边总会有人随时能够“帮助（help/assist/aid/support/guide）”或引导你渡过难关。",
+          "answer": "help/assist/aid/support/guide"
+        },
+        "64": {
+          "concept": "篇章逻辑承接总结连词",
+          "note": "位于句首且后面有逗号隔开。前文写坚韧能让人从容面对困难，此处顺理成章地引出最终全篇的核心结论：因此它必须从小抓起。可填入因果总结连词 Therefore / Hence / Thus / So（因此）。位于句首需大写。",
+          "answer": "Therefore/Hence/Thus/So"
+        },
+        "65": {
+          "concept": "经典习语固定搭配",
+          "note": "与其后置的并列连词 and 极其名词 parcel 完美组合。构成在各类倡议书、成长演讲中极高频考查的经典核心专属二字成语习语 part and parcel of something，意为让这种习惯成为一个人生命中“不可分割的一部分”。",
+          "answer": "part"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Mrs Tan scolded Tina for breaking the expensive vase.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Tina __________"
+        },
+        "67": {
+          "stem_plain": "Only call the number if it is an emergency.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________"
+        },
+        "68": {
+          "stem_plain": "Mark was relieved. He passed his examination.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Much to __________"
+        },
+        "69": {
+          "stem_plain": "The table was unstable so it fell.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ due to __________"
+        },
+        "70": {
+          "stem_plain": "Mrs Ng asked her husband, “Are you able to attend this party next week?”",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mrs Ng asked her husband __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "被动语态 — Passive voice",
+          "zh": "蒂娜因打破昂贵花瓶而被谭太太责骂。",
+          "note": "主动改被动：宾语变主语，用 by 引出施事者，保留 for 短语表原因。",
+          "answer": "Tina was scolded by Mrs Tan for breaking the expensive vase."
+        },
+        "67": {
+          "concept": "条件句 — Imperative + unless",
+          "zh": "除非情况紧急，否则不要拨打该号码。",
+          "note": "only … if 与 not … unless 同义改写，注意主句否定祈使句。",
+          "answer": "Do not call the number unless it is an emergency."
+        },
+        "68": {
+          "concept": "句型转换 — Much to + noun + comma",
+          "zh": "让马克大感宽慰的是，他通过了考试。",
+          "note": "Much to one's relief 后接逗号，再写结果分句。",
+          "answer": "Much to Mark's relief, he passed his examination."
+        },
+        "69": {
+          "concept": "原因短语 — Due to + noun (cause)",
+          "zh": "桌子倒了，原因是它不稳。",
+          "note": "due to 后接名词短语表原因；so 句可拆成结果 + due to 原因。",
+          "answer": "The table fell due to its instability."
+        },
+        "70": {
+          "concept": "间接引语 — Reported speech (yes/no question)",
+          "zh": "吴太太问丈夫下周是否能参加那个聚会。",
+          "note": "引述一般疑问句用 if/whether，时态与指示词随 reporting verb 后移。",
+          "answer": "Mrs Ng asked her husband if he was able to attend that party the following week."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "In the first paragraph, which two-word phrase tells us that Lisa’s dream of scaling Mount Everest was not going to be realised?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "From lines 5–15, state two reasons to show that Lisa was struggling with the climb.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q72a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "Which sentence in lines 13–16 tells us that Kami’s priority is always his clients’ safety?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Based on lines 17–19, fill in the following table.",
+          "marks": 1,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Cause",
+              "rows": [
+                "[Q74a]"
+              ]
+            },
+            "col_2": {
+              "header": "Effect",
+              "rows": [
+                "Why Mount Everest attracts hundreds of climbers every year."
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **make it** (line 6)",
+                "(b) **this** (line 18)",
+                "(c) **They** (line 26)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]",
+                "[Q75c]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Choose a word from lines 23–37 which has a similar meaning to the given word for each question listed below.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Given word",
+              "rows": [
+                "experienced",
+                "disabled",
+                "manoeuvre"
+              ]
+            },
+            "col_2": {
+              "header": "A word from the passage",
+              "rows": [
+                "[Q76a]",
+                "[Q76b]",
+                "[Q76c]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "What are the misunderstandings that people have about having a Sherpa guide during an expedition?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q77a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q77b]"
+            }
+          ]
+        },
+        "78": {
+          "stem_plain": "What are the difficulties that climbers might face when they climb from Camp 4 to the summit? Support your answer with evidence from lines 33–37.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "What does the **by-product** in line 42 refer to? Why do you think Kami said that?",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "On 13 May, exhausted and struggling to breathe, Lisa staggered into Camp 3. At 7162 metres,",
+          "2": "it was higher than she had ever climbed. However, the expedition was not going according to",
+          "3": "plan as she was struggling to scale Mount Everest. It had been her dream but it was slipping",
+          "4": "away quickly. Helping Lisa with her oxygen mask was the group's leader, Kami.",
+          "5": "“I always try to make sure every client reaches the summit,” says Kami. “But there is a line.",
+          "6": "The moment I realise that any of my clients will not **make it**, I will abort the mission.” Even from",
+          "7": "the outset, he saw that Lisa was struggling. Days earlier, she took 19 hours, twice the expected",
+          "8": "time, to trek from Base Camp to Camp 2. When Lisa finally arrived, Kami made the decision",
+          "9": "that she was not ready for the summit and had her flown back down.",
+          "10": "Rejoining the group a few days later, things started well. However, by 6000 metres, Lisa was",
+          "11": "already heavily reliant on supplementary oxygen, a resource normally reserved for altitudes of",
+          "12": "7000 metres and above. By the time they arrived at Camp 3, Kami had made up his mind. The",
+          "13": "risk was too great and he ordered her to be taken back down the mountain to safety. Kami",
+          "14": "says, “There is always a risk of avalanche and above Camp 3, the path is steep and",
+          "15": "treacherous.” He strongly believes that descent is always the best decision so that everyone",
+          "16": "is safe.",
+          "17": "Towering 8850 metres above sea level, Mount Everest is the highest mountain in the world.",
+          "18": "Located on the Nepal–Tibet border, **this** global beacon of exploration lures hundreds of climbers",
+          "19": "every year. The death toll has been the highest in four years. Overcrowding, bad weather and",
+          "20": "a record number of permits being issued may all be contributing factors. Kami also believes it",
+          "21": "is an increase in the number of less experienced climbers that is making the problem worse.",
+          "22": "He blames some tour companies for not educating the risks of climbing Mount Everest to",
+          "23": "novice climbers.",
+          "24": "Many veteran climbers have also warned novice climbers with little or no training of the risk of",
+          "25": "attempting to scale huge peaks such as Everest. These climbers need to understand that",
+          "26": "climbing Everest is extremely risky. **They** need to stop believing that they will be rescued",
+          "27": "if they get in trouble just because they are with a Sherpa guide. Even the strongest Sherpa cannot",
+          "28": "lower an incapacitated person by themselves or expect extra oxygen to be delivered to 8400",
+          "29": "metres at a moment's notice.",
+          "30": "Any expedition to climb Mount Everest must be accompanied by a Sherpa. Mostly young men,",
+          "31": "Sherpa guides are not just the muscle behind any expedition, they are also expert navigators.",
+          "32": "Enduring freezing temperatures, they help climbers to negotiate icefalls, avalanches and extreme",
+          "33": "altitude. From Camp 4 up to the summit, climbers will enter what is commonly known as the “death",
+          "34": "zone”. Operating above 8,000 metres, climbers might develop altitude sickness. Relying on",
+          "35": "supplementary oxygen carried in bottles, climbers must also conserve enough oxygen supply",
+          "36": "for the return journey. “I keep checking everyone's oxygen levels, and in the event of extreme",
+          "37": "weather, I make strategic decisions about whether we should ascend or descend to avoid any",
+          "38": "developing situations in the mountains,” explains Kami.",
+          "39": "Working as a mountain guide since 1992, last month Kami broke his own world record of",
+          "40": "successful ascents not just once, but twice. When asked about his achievements, Kami said",
+          "41": "humbly, “I treat every climb with the same sincerity as the first. Whenever a client is successful,",
+          "42": "it makes my day. I believe breaking records is just a by-product.”"
+        },
+        "paragraphs": {
+          "1": "5月13日，精疲力竭、呼吸困难的丽莎摇摇晃晃地走进三号营地。海拔7162米，比她以往爬过的都高。但珠峰远征不顺，她攀登艰难。登上珠峰本是她的梦想，却迅速化为泡影。领队卡米正帮她戴氧气面罩。",
+          "5": "卡米说自己会尽量让每位客户登顶，但也有底线；一旦发觉任一位客户无法登顶就会中止行动。从一开始他就看出丽莎吃力：数日前她从大本营到二号营走了19个小时，是预计时间的两倍。她到营后，卡米认定她尚未具备冲顶条件，派人把她送下山。",
+          "10": "几天后丽莎重新加入队伍，起初尚顺；然而到六千米处她已严重依赖补充氧气——那种氧气通常留给七千米以上海拔使用。抵达三号营时，卡米认定风险过大，下令送她下山确保安全。卡米谈到雪崩风险及三号营以上陡峭危险的路径，坚信下撤始终是确保众人安全的最佳决定。",
+          "17": "珠峰海拔8850米，为世界最高峰。它位于尼泊尔与西藏边界，吸引全球探险者，每年引来成百上千登山者。近四年死亡人数达新高，过度拥挤、恶劣天气与许可大增都可能是原因。卡米还认为缺乏经验的登山者增多使问题恶化。他指责部分旅行社未向新手充分说明登珠峰的风险。",
+          "24": "许多资深登山者也提醒训练不足的新手：试图攀登珠峰等高峰风险极高。他们须明白登珠峰极其危险，不能再以为只要有夏尔巴向导遇险就一定会获救。最强壮的夏尔巴也无法独自把丧失行动能力者抬下山，更不能指望氧气随时送到8400米高海拔。",
+          "30": "攀登珠峰的远征须有夏尔巴陪同。夏尔巴多为青年男性，不仅是队伍中的体力担当，也是高明的向导。他们在严寒中协助登山者越过冰瀑、雪崩与极端海拔。从四号营到顶峰会进入所谓“死亡区”。在八千米以上活动可能出现高原反应；登山者依靠瓶氧还须为回程预留足够氧气。卡米解释他会监测众人含氧量，遇极端天气还须决定上撤以避免险况恶化。",
+          "39": "卡米自1992年起当高山向导，上个月他两度打破自己成功登顶次数的纪录。谈及成就他谦称每一次攀登都如第一次般认真；只要客户成功他就开心，认为破纪录不过是副产品。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>首段中找出两词短语，说明丽莎的珠峰梦难以实现。</li><li><strong>定位：</strong>行 3–4：<em>It had been her dream but it was <strong>slipping away</strong> quickly.</em></li><li><strong>证据：</strong><em>slipping away</em> 字面“溜走”，与梦想破灭、希望消逝同向。</li><li><strong>书写：</strong>照抄两词短语即可。</li></ol>",
+          "answer": [
+            "slipping away"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>行 5–15。</li><li><strong>要点一：</strong>耗时远超预期，说明体能/进度跟不上（行 7–9）。</li><li><strong>要点二：</strong>在较低海拔就高度依赖补氧，显示高反/适应问题（行 10–12）。</li><li><strong>备选：</strong>亦可写卡米认定她不宜冲顶并送她下山（行 8–9、12–13），须与题干“struggling”紧密挂钩。</li></ol>",
+          "answer": {
+            "72a": "She took 19 hours, twice the expected time, to trek from Base Camp to Camp 2 (lines 7–9).",
+            "72b": "By 6000 metres she was already heavily reliant on supplementary oxygen usually reserved for 7000 metres and above (lines 10–12)."
+          }
+        },
+        "73": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>范围：</strong>题干行 13–16。</li><li><strong>关键：</strong>“priority … safety” 对应卡米对下撤与安全的态度。</li><li><strong>证据句：</strong>行 14–15 直接陈述下撤是为了人人安全。</li></ol>",
+          "answer": [
+            "He strongly believes that descent is always the best decision so that everyone is safe."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>表格逻辑：</strong>Effect 已给“每年吸引成百上千登山者”，Cause 填珠峰的客观吸引力。</li><li><strong>定位：</strong>行 17–19：高度 + “global beacon of exploration” + lures climbers。</li><li><strong>书写：</strong>用一句完整原因概括即可。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "It is the highest mountain in the world (8850 m) and is described as a global beacon of exploration that attracts climbers."
+          }
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a) make it（行 6）：</strong>卡米说若客户无法 <em>make it</em> 就中止任务，即无法<strong>成功登顶/完成攀登目标</strong>。</li><li><strong>(b) this（行 18）：</strong>承前行 <em>Mount Everest</em>，指这座世界最高峰。</li><li><strong>(c) They（行 26）：</strong>回指前文 <em>These climbers</em>（试图登珠峰的新手/登山者）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "reach the summit / succeed on the climb (abort if they cannot do so)",
+            "75b": "Mount Everest (the mountain on the Nepal–Tibet border)",
+            "75c": "Novice climbers / those climbers (who need to understand the risks)"
+          }
+        },
+        "76": {
+          "concept": "同义替换表",
+          "note": "<ol><li><strong>范围：</strong>行 23–37。</li><li><strong>inexperienced → novice：</strong>行 23–24 有 <em>novice climbers</em>。</li><li><strong>veteran → expert：</strong>行 31 <em>expert navigators</em> 与经验丰富同向。</li><li><strong>incapacitated：</strong>行 28 原词 <em>incapacitated</em>。</li><li><strong>negotiate：</strong>行 32 原词 <em>negotiate icefalls</em>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "veteran",
+            "76b": "incapacitated",
+            "76c": "negotiate"
+          }
+        },
+        "77": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>定位：</strong>行 26–28 连续否定大众误解。</li><li><strong>要点一：</strong>以为有夏尔巴就一定能获救。</li><li><strong>要点二：</strong>低估供氧与救援难度（最强夏尔巴也无法独自抬人、氧气不能随叫随到）。</li></ol>",
+          "answer": {
+            "77a": "They believe they will always be rescued if they get in trouble simply because a Sherpa guide is with them.",
+            "77b": "They believe extra oxygen can be delivered to 8400 metres at a moment’s notice / that one Sherpa alone can lower an incapacitated climber."
+          }
+        },
+        "78": {
+          "concept": "证据运用题",
+          "note": "<ol><li><strong>范围：</strong>行 33–37。</li><li><strong>困难：</strong>死亡区、高原反应风险、瓶氧依赖与回程储备、极端天气下的路线决策。</li><li><strong>证据：</strong>引用 <em>death zone</em>、<em>altitude sickness</em>、<em>supplementary oxygen</em>、<em>extreme weather … ascend or descend</em> 等短语组织成句。</li></ol>",
+          "answer": [
+            "They enter the “death zone” where altitude sickness may strike; they must rely on bottled oxygen and conserve enough for the descent; extreme weather forces leaders to choose safe ascent/descent (lines 33–37)."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "含义推断题",
+          "note": "<ol><li><strong>指代：</strong>紧接前文两次破纪录，<em>by-product</em> 指<strong>破纪录本身</strong>相对客户成功而言是附带结果。</li><li><strong>态度：</strong>他把每次攀登都当第一次般认真，客户成功才让他开心，体现谦逊与服务优先。</li></ol>",
+          "answer": [
+            "It refers to breaking his world record of successful ascents; he says so to show that clients’ success matters more than records (lines 39–42)."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

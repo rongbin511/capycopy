@@ -1,0 +1,1473 @@
+{
+  "paperid": "p6_english_2024_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "_______________ the students' requests, the teacher said the project submission deadline would be extended.",
+          "options": {
+            "1": "In case of",
+            "2": "In addition to",
+            "3": "In response to",
+            "4": "In connection with"
+          }
+        },
+        "2": {
+          "stem_plain": "Our performance in the match was a huge disappointment. In fact, it was _______________ we had ever put up.",
+          "options": {
+            "1": "as bad as",
+            "2": "very bad",
+            "3": "worse than",
+            "4": "the worst"
+          }
+        },
+        "3": {
+          "stem_plain": "With great difficulty, the man swam _______________ the current to rescue the drowning puppy.",
+          "options": {
+            "1": "by",
+            "2": "along",
+            "3": "under",
+            "4": "against"
+          }
+        },
+        "4": {
+          "stem_plain": "My grandparents had trouble _______________ how to use the computer until I taught them.",
+          "options": {
+            "1": "to learn",
+            "2": "learning",
+            "3": "having learnt",
+            "4": "to have learnt"
+          }
+        },
+        "5": {
+          "stem_plain": "With _______________ time to spare, Raju kicked the ball with all his might, scoring the winning goal at the very last minute.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "less",
+            "4": "some"
+          }
+        },
+        "6": {
+          "stem_plain": "\"_______________ James put the compass in his bag, we would not be lost in the forest,\" grumbled Ai Ling.",
+          "options": {
+            "1": "Did",
+            "2": "Had",
+            "3": "Might",
+            "4": "Should"
+          }
+        },
+        "7": {
+          "stem_plain": "The news about the famous singer performing in Singapore next year _______________ since yesterday.",
+          "options": {
+            "1": "is circulating",
+            "2": "are circulating",
+            "3": "has been circulating",
+            "4": "have been circulating"
+          }
+        },
+        "8": {
+          "stem_plain": "\"She never ever visits the museum, _______________?\" asked Mrs Lee.",
+          "options": {
+            "1": "hasn't she",
+            "2": "won't she",
+            "3": "does she",
+            "4": "will she"
+          }
+        },
+        "9": {
+          "stem_plain": "Everyone, except Sanjay and Aidan, _______________ in their homework.",
+          "options": {
+            "1": "hand",
+            "2": "handing",
+            "3": "has handed",
+            "4": "have handed"
+          }
+        },
+        "10": {
+          "stem_plain": "The police officers were looking for the man who robbed the tourists _______________ their possessions.",
+          "options": {
+            "1": "of",
+            "2": "for",
+            "3": "off",
+            "4": "with"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "介词短语搭配与逻辑关系 — Prepositional Phrases",
+          "note": "短语辨析。<code>In response to</code> 意为“回应/响应”，完美匹配老师因学生要求而延长截止日期的因果逻辑关系。",
+          "zh": "为了回应学生们的要求，老师表示项目提交的截止日期将会延长。",
+          "answer": "3"
+        },
+        "2": {
+          "concept": "形容词最高级用法 — Superlative Adjectives",
+          "zh": "我们在比赛中的表现非常令人失望。事实上，这是我们表现得最差的一次。",
+          "note": "最高级。后半句中含有定语从句 <code>we had ever put up</code>（我们有史以来……），表示在所有历史表现中进行多于两者的对比，且前面有定冠词 <code>the</code>，故选用最高级 <code>the worst</code>。",
+          "answer": "4"
+        },
+        "3": {
+          "concept": "介词空间与逻辑方向辨析 — Prepositions of Direction",
+          "zh": "顶着巨大的困难，那个男人逆流游过去，救回了那只溺水的小狗。",
+          "note": "介词辨析。<code>against the current</code> 意为“逆流/顶着水流”，与前半句的 <code>With great difficulty</code>（费了九牛二虎之力/极其艰难地）在语境上构成逻辑呼应。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "固定动词短语搭配与非谓语动词 — Gerunds after Fixed Expressions",
+          "zh": "在我不教他们之前，我的祖父母在学习如何使用电脑方面遇到了困难。",
+          "note": "动名词固定搭配。固定句型 <code>have trouble / difficulty (in) doing something</code> 表示“做某事有困难”，后面必须接动名词形式 <code>learning</code>。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "限定词与不可数名词修饰 — Quantifiers with Uncountable Nouns",
+          "zh": "由于几乎没有多余的时间，拉朱用尽全身力气将球踢出，在最后一分钟攻入了致胜一球。",
+          "note": "限定词用法。<code>time</code>（时间）在此处为不可数名词，排除修饰可数名词的 <code>few</code>；结合后文的 <code>at the very last minute</code>（在最关键的最后一分钟）可知，当时是“几乎没有”剩余时间，具有否定逻辑，故选用 <code>little</code>（几乎没有）。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "虚拟语气条件句倒装 — Inversion in Third Conditional",
+          "zh": "“要是詹姆斯把指南针放进包里，我们现在就不会在森林里迷路了，”爱玲抱怨道。",
+          "note": "虚拟语气倒装。此处为与过去事实相反的虚拟语气（Third Conditional），主句结构为 <code>would not be lost</code>（与现在相反的后果混合虚拟），条件句完整形式为 <code>If James had put</code>。省略 <code>If</code> 时需将 <code>Had</code> 提前至句首进行部分倒装。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "现在完成进行时与主谓一致 — Present Perfect Continuous & Subject-Verb Agreement",
+          "zh": "关于这位著名歌手明年将在新加坡演出的消息，从昨天开始就一直在流传。",
+          "note": "时态与主谓一致。句中主语中心词是 <code>The news</code>（消息），为不可数名词，谓语必须用单数。结合时间状语 <code>since yesterday</code>（自昨天以来），表示动作从过去持续发生到当前并且仍在继续，应使用现在完成进行时单数形式 <code>has been circulating</code>。",
+          "answer": "3"
+        },
+        "8": {
+          "concept": "反意疑问句（否定词前缀逻辑） — Tag Questions with Negative Adverbs",
+          "zh": "“她从不去参观博物馆，对吗？”李太太问道。",
+          "note": "反意疑问句。前文带有否定副词 <code>never</code>，整个陈述句在逻辑上属于否定句，因此附加疑问部分必须使用肯定形式；且前文谓语动词 <code>visits</code> 为一般现在时单数，对应的肯定助动词为 <code>does</code>。",
+          "answer": "3"
+        },
+        "9": {
+          "concept": "不定代词主谓一致 — Subject-Verb Agreement with Indefinite Pronouns",
+          "zh": "除了桑杰和艾丹之外，每个人都交了作业。",
+          "note": "主谓一致。当主语后面带有介词短语 <code>except ...</code>（除了……之外）作为插入语时，句子的真正主语依然是前面的不定代词 <code>Everyone</code>（每个人）。<code>Everyone</code> 属于单数概念，谓语动词需用单数形式 <code>has handed</code>。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "动词固定介词搭配 — Verb-Preposition Collocation",
+          "zh": "警官们正在寻找抢劫游客财物的那个男人。",
+          "note": "固定搭配。英语中表达“抢劫某人某物”需要使用固定搭配 <code>rob someone of something</code>，介词必须选用 <code>of</code>。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Li Ting went back to work when the _______________ of her health improved.",
+          "options": {
+            "1": "state",
+            "2": "form",
+            "3": "level",
+            "4": "shape"
+          }
+        },
+        "12": {
+          "stem_plain": "The guest speaker spoke in a _______________ tone that bored the students to tears.",
+          "options": {
+            "1": "stuffy",
+            "2": "tedious",
+            "3": "repetitious",
+            "4": "monotonous"
+          }
+        },
+        "13": {
+          "stem_plain": "Much bigger than the lift of a residential building, a hospital lift can _______________ a trolley bed and a few people comfortably.",
+          "options": {
+            "1": "enclose",
+            "2": "comprise",
+            "3": "incorporate",
+            "4": "accommodate"
+          }
+        },
+        "14": {
+          "stem_plain": "In this cooking competition, contestants will be _______________ on the taste and visual presentation of their dishes.",
+          "options": {
+            "1": "analysed",
+            "2": "evaluated",
+            "3": "inspected",
+            "4": "measured"
+          }
+        },
+        "15": {
+          "stem_plain": "The class voted _______________ for Hassan to be the monitor as everyone thought that he would be able to do a good job.",
+          "options": {
+            "1": "agreeably",
+            "2": "thoroughly",
+            "3": "consistently",
+            "4": "unanimously"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "note": "名词固定搭配。固定短语 <em>state of health</em> 意为“健康状况”。",
+          "concept": "名词固定搭配 — Noun Collocation",
+          "zh": "当李婷的健康状况有所改善时，她便回去工作了。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "state",
+              "zh": "状态（常用于 state of health 身体健康状况）",
+              "eg": "The doctor noted that the patient's <strong>state</strong> of health was stable."
+            },
+            {
+              "opt": "2",
+              "word": "form",
+              "zh": "形式；形状；表现（常用于体育或竞技状态良好）",
+              "eg": "The athlete is currently in peak <strong>form</strong> for the tournament."
+            },
+            {
+              "opt": "3",
+              "word": "level",
+              "zh": "水平；级别",
+              "eg": "Regular exercise can lower the <strong>level</strong> of stress in your body."
+            },
+            {
+              "opt": "4",
+              "word": "shape",
+              "zh": "外形；身材（常用于 in shape 身体健康、保持体形）",
+              "eg": "She exercises every day to stay in good <strong>shape</strong>."
+            }
+          ]
+        },
+        "12": {
+          "concept": "形容词近义词辨析 — Adjective Contextual Fit",
+          "note": "修饰词与语境匹配。<em>monotonous tone</em> 指单一、毫无抑扬顿挫的单调语调，与后面“bored the students to tears（让学生厌烦得流泪）”呼应。",
+          "zh": "受邀演讲者用一种单调无聊的语调讲话，让学生们厌烦得流泪。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stuffy",
+              "zh": "闷热的；古板的",
+              "eg": "The room felt <strong>stuffy</strong> because all the windows were closed."
+            },
+            {
+              "opt": "2",
+              "word": "tedious",
+              "zh": "冗长乏味的（通常修饰工作、旅程或演讲，少直接修饰单一的声音/声调）",
+              "eg": "Checking data all day can be a <strong>tedious</strong> task."
+            },
+            {
+              "opt": "3",
+              "word": "repetitious",
+              "zh": "重复的；唠叨的",
+              "eg": "His speech became <strong>repetitious</strong> as he kept making the same point."
+            },
+            {
+              "opt": "4",
+              "word": "monotonous",
+              "zh": "单调的；毫无变化的（常与 tone 搭配修饰声音无起伏）",
+              "eg": "He spoke in a <strong>monotonous</strong> voice that made everyone sleepy."
+            }
+          ]
+        },
+        "13": {
+          "concept": "动词词义辨析 — Verb Semantics",
+          "note": "动词词义辨析。动词 <em>accommodate</em> 意为“提供空间以容纳”，符合电梯容纳病床和多人的情境。",
+          "zh": "医院的电梯比住宅楼的电梯大得多，可以轻松容纳一张推车病床和几个人。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "enclose",
+              "zh": "（用墙或篱笆等）围起；封入",
+              "eg": "Please remember to <strong>enclose</strong> a passport photo with your application."
+            },
+            {
+              "opt": "2",
+              "word": "comprise",
+              "zh": "包含；由……组成（主语通常为整体，宾语为部分）",
+              "eg": "The student council is <strong>comprised</strong> of ten representatives."
+            },
+            {
+              "opt": "3",
+              "word": "incorporate",
+              "zh": "包含；将……纳入整体",
+              "eg": "We need to <strong>incorporate</strong> these new ideas into our project."
+            },
+            {
+              "opt": "4",
+              "word": "accommodate",
+              "zh": "容纳（人或物）；提供足够的空间",
+              "eg": "The new auditorium can <strong>accommodate</strong> up to one thousand people."
+            }
+          ]
+        },
+        "14": {
+          "concept": "特定语境动词选择 — Context-Specific Vocabulary",
+          "note": "比赛语境词汇。在烹饪比赛中，根据味道和视觉呈现对选手进行“评估/打分”，应选用 <em>evaluated</em>。",
+          "zh": "在这场烹饪比赛中，参赛者将根据他们菜肴的味道和视觉呈现接受评估。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "analysed",
+              "zh": "分析",
+              "eg": "The scientists <strong>analysed</strong> the water samples for harmful chemicals."
+            },
+            {
+              "opt": "2",
+              "word": "evaluated",
+              "zh": "评估；评价；打分（依据特定标准进行全面考量）",
+              "eg": "The students' performance will be <strong>evaluated</strong> at the end of the term."
+            },
+            {
+              "opt": "3",
+              "word": "inspected",
+              "zh": "检查；视察（主要指排查是否有问题、漏洞或违规）",
+              "eg": "The health officer <strong>inspected</strong> the kitchen for cleanliness."
+            },
+            {
+              "opt": "4",
+              "word": "measured",
+              "zh": "测量（尺寸、重量等）",
+              "eg": "The tailor <strong>measured</strong> his waist to make a pair of trousers."
+            }
+          ]
+        },
+        "15": {
+          "concept": "副词修饰逻辑与辨析 — Adverbial Logical Agreement",
+          "note": "修饰语境分析。副词 <em>unanimously</em> 表示“所有人意见完全一致地”，与后文的原因状语“as everyone thought（因为每个人都认为）”完美呼应。",
+          "zh": "全班同学一致投票赞成哈桑担任班长，因为大家都认为他能够把工作做好。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "agreeably",
+              "zh": "欣然地；惬意地",
+              "eg": "They chatted <strong>agreeably</strong> as they walked through the garden."
+            },
+            {
+              "opt": "2",
+              "word": "thoroughly",
+              "zh": "彻底地；完全地",
+              "eg": "The police searched the house <strong>thoroughly</strong> for clues."
+            },
+            {
+              "opt": "3",
+              "word": "consistently",
+              "zh": "一贯地；始终如一地",
+              "eg": "She has <strong>consistently</strong> achieved top marks throughout the year."
+            },
+            {
+              "opt": "4",
+              "word": "unanimously",
+              "zh": "全体一致地；无异议地",
+              "eg": "The committee <strong>unanimously</strong> agreed to approve the new budget."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "keenly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "slowly",
+            "2": "sharply",
+            "3": "steadily",
+            "4": "suddenly"
+          }
+        },
+        "17": {
+          "stem_plain": "quietness",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "silence",
+            "2": "privacy",
+            "3": "secrecy",
+            "4": "atmosphere"
+          }
+        },
+        "18": {
+          "stem_plain": "lunged forward",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "pounced",
+            "2": "bounce",
+            "3": "launched",
+            "4": "advanced"
+          }
+        },
+        "19": {
+          "stem_plain": "in no time",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "briefly",
+            "2": "urgently",
+            "3": "instantly",
+            "4": "hurriedly"
+          }
+        },
+        "20": {
+          "stem_plain": "reverently",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "in wonder",
+            "2": "with respect",
+            "3": "in humbleness",
+            "4": "with enthusiasm"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "副词 keenly 在此处表示动作发出的敏锐度，与 sharply（敏锐地、强烈地）意思最贴近。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "slowly",
+              "zh": "缓慢地",
+              "eg": "The old snail crawled slowly across the wet garden path."
+            },
+            {
+              "opt": "2",
+              "word": "sharply",
+              "zh": "敏锐地，强烈地",
+              "eg": "He looked sharply at the strange shadow moving near the bushes."
+            },
+            {
+              "opt": "3",
+              "word": "steadily",
+              "zh": "稳定地，持续地",
+              "eg": "The heavy rain fell steadily throughout the entire afternoon."
+            },
+            {
+              "opt": "4",
+              "word": "suddenly",
+              "zh": "突然，骤然",
+              "eg": "The loud alarm rang suddenly, waking everyone up in the building."
+            }
+          ]
+        },
+        "17": {
+          "note": "名词 quietness（安静、寂静）在此处指的是周围环境没有声音的状态，最直接 the 同义词是 silence（寂静）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "silence",
+              "zh": "寂静，无声",
+              "eg": "A deep silence filled the library as everyone focused on studying."
+            },
+            {
+              "opt": "2",
+              "word": "privacy",
+              "zh": "隐私，私密",
+              "eg": "The tall wooden fence provides excellent privacy for our backyard."
+            },
+            {
+              "opt": "3",
+              "word": "secrecy",
+              "zh": "保密，秘密状态",
+              "eg": "The project layout was planned in strict secrecy to protect ideas."
+            },
+            {
+              "opt": "4",
+              "word": "atmosphere",
+              "zh": "气氛，大气层",
+              "eg": "The warm lighting created a highly cozy atmosphere in the cafe room."
+            }
+          ]
+        },
+        "18": {
+          "note": "动词短语 lunged forward 指的是身体向前猛冲去抓某物，在捕食场景下等同于 pounced（猛扑）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pounced",
+              "zh": "猛扑，突袭",
+              "eg": "The stray cat stayed perfectly still and pounced on the little mouse."
+            },
+            {
+              "opt": "2",
+              "word": "bounce",
+              "zh": "弹跳，反弹",
+              "eg": "The children love to bounce on the large trampoline in the yard."
+            },
+            {
+              "opt": "3",
+              "word": "launched",
+              "zh": "发动，发射，推出",
+              "eg": "The technology company successfully launched its new smartphone system today."
+            },
+            {
+              "opt": "4",
+              "word": "advanced",
+              "zh": "前进，推进",
+              "eg": "The soldiers advanced slowly through the thick forest toward the base."
+            }
+          ]
+        },
+        "19": {
+          "note": "固定习语 in no time 意为“极其迅速地”、“立刻”，与其对应且最符合语境的是副词 instantly（立即）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "briefly",
+              "zh": "短暂地，简短地",
+              "eg": "She closed her books and rested her eyes briefly before the test."
+            },
+            {
+              "opt": "2",
+              "word": "urgently",
+              "zh": "紧急地，迫切地",
+              "eg": "The hospital requested volunteers to urgently donate rare blood types."
+            },
+            {
+              "opt": "3",
+              "word": "instantly",
+              "zh": "立即，马上",
+              "eg": "The automated program responded instantly as soon as I clicked enter."
+            },
+            {
+              "opt": "4",
+              "word": "hurriedly",
+              "zh": "仓促地，急忙地",
+              "eg": "He hurriedly packed his laptop and vanished out to catch the bus."
+            }
+          ]
+        },
+        "20": {
+          "note": "副词 reverently 意为“虔诚地”、“恭敬地”，在含义上等同于介词短语 with respect（充满尊敬地）。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "in wonder",
+              "zh": "惊奇地，诧异地",
+              "eg": "The kids stared in wonder at the massive dinosaur skeleton display."
+            },
+            {
+              "opt": "2",
+              "word": "with respect",
+              "zh": "充满尊敬地，恭敬地",
+              "eg": "You should always treat others with respect regardless of differences."
+            },
+            {
+              "opt": "3",
+              "word": "in humbleness",
+              "zh": "谦逊地",
+              "eg": "He accepted the prestigious title in humbleness, thanking his team."
+            },
+            {
+              "opt": "4",
+              "word": "with enthusiasm",
+              "zh": "满怀热情地",
+              "eg": "The students welcomed the new art coach with great enthusiasm."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "I was watching, ready to jump into action. My prey moved gingerly, as if it was [Q16 (keenly)] aware of my presence. With my gaze fixed on it, I followed stealthily. All of a sudden, the [Q17 (quietness)] was broken by a rustling sound when I stepped on a plastic bag.",
+          "Instinctively, I [Q18 (lunged forward)] as my prey scurried away. I was fast and caught it [Q19 (in no time)].",
+          "Staring down at it, I decided to offer it as a gift to my masters. With a great leap, I got up the royal bed and placed it between the two sleeping masters. I crouched down and called out my greetings [Q20 (reverently)]. They woke up and were about to respond when they saw my gift.",
+          "\"Fluffy left a huge lizard on our bed!\" Mrs Tan screamed. \"Naughty cat!\""
+        ],
+        "zh": [
+          "我注视着，准备随时采取行动。我的猎物小心翼翼地移动着，仿佛它（16）敏锐地察觉到了我的存在。我的目光紧盯着它，悄悄地尾随其后。突然，当我踩到一个塑料袋时，一阵沙沙声打破了原本的（17）寂静。",
+          "出于本能，当猎物仓皇逃窜时，我（18）向前扑去。我的速度很快，（19）立刻就抓住了它。",
+          "我低头盯着它，决定把它作为礼物送给我的主人。我奋力一跃，跳上了那张豪华的床，把它放在两个正在熟睡的主人之间。我蹲下身子，（20）恭敬地发出叫声向他们问候。他们醒了过来，正准备回应我，这时他们看到了我的礼物。",
+          "“弗拉菲在我们的床上留了一只巨大的蜥蜴！”陈太太尖叫道。“淘气的猫！”"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "concept": "PSLE sample",
+          "note": "<p><em>Dummy PSLE sample paper — content placeholder. Replace with real items when ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "also",
+          "B": "as",
+          "C": "be",
+          "D": "been",
+          "E": "even",
+          "F": "for",
+          "G": "had",
+          "H": "is",
+          "J": "its",
+          "K": "of",
+          "L": "some",
+          "M": "their",
+          "N": "this",
+          "P": "those",
+          "Q": "was"
+        },
+        "cloze": [
+          "Have you ever wondered who built the world's first zoo? Truth be told, no one knows when the first zoo was built and by whom. The only thing we can be very certain of [Q29] that it happened a long time ago.",
+          "Humans have always [Q30] fascinated by animals since the beginning of time, [Q31] evident by the paintings of animals they drew in ancient caves. At [Q32] point in time, humans who had the means began to keep animals in captivity for entertainment. Researchers suggest that the first zoos were owned by royalty and were not meant for public enjoyment. This was likely a way for members of royalty to demonstrate [Q33] wealth and power.",
+          "Life [Q34] not easy for the animals kept in captivity during the early days. It is not hard to imagine the plight of [Q35] animals which were forcibly taken from the wild. They probably [Q36] short lives as their skeletal remains show evidence [Q37] severe injuries. Thankfully, today's zoos are designed to be like the animals' natural environment. No longer are zoos set up [Q38] the sole purpose of recreation. They also provide a place for us to learn about endangered animals and protect them."
+        ],
+        "zh": [
+          "你有没有想过是谁建造了世界上第一个动物园？说实话，没有人知道第一个动物园是什么时候建的，是由谁建的。我们唯一可以非常确定的是，它很久以前就发生了。",
+          "自古以来，人类一直对动物非常着迷，这从他们在古代洞穴中绘制的动物壁画中就可以明显看出来。在那个时间点，有能力的人开始将动物圈养起来以供娱乐。研究人员认为，最早的动物园归皇室所有，并不是为了让公众享乐的。这很可能是皇室成员展示他们财富和权力的一种方式。",
+          "在早期，被圈养的动物生活并不容易。不难想象那些被强行从野外带走的动物的困境。它们的寿命可能很短，因为它们的骨骼遗骸显示出了严重受伤的证据。值得庆幸的是，今天的动物园被设计得更像动物的自然环境。动物园的建立不再仅仅是为了娱乐目的。它们还为我们提供了一个了解濒危动物并保护它们的地方。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "主谓一致与时态 — Present Tense",
+          "note": "使用现在时单数动词 <code>is</code>（对应字母 H）来陈述当前已知的客观事实。",
+          "answer": "H"
+        },
+        "30": {
+          "concept": "现在完成时被动语态 — Present Perfect Passive",
+          "note": "配合助动词构成现在完成时形式 <code>have always been fascinated</code>（对应字母 D），表示过去发生且影响持续至今的状态。",
+          "answer": "D"
+        },
+        "31": {
+          "concept": "固定搭配与连词 — Conjunction Usage",
+          "note": "使用固定搭配 <code>as evident by</code>（对应字母 B），表示“正如……所清晰表明/证明的那样”。",
+          "answer": "B"
+        },
+        "32": {
+          "concept": "固定短语修饰限定 — Determiner Usage",
+          "note": "使用 <code>some</code>（对应字母 L）构成固定短语 <code>At some point in time</code>，用以指代过去某个未明确提及的具体时间点。",
+          "answer": "L"
+        },
+        "33": {
+          "concept": "物主代词一致性 — Possessive Pronoun",
+          "note": "使用复数代词 <code>their</code>（对应字母 M），前置修饰名词用以指代前文所述复数核心主语“皇室成员（members of royalty）”。",
+          "answer": "M"
+        },
+        "34": {
+          "concept": "一般过去时 — Past Tense",
+          "note": "通过时间短语 <code>during the early days</code> 判定属过去时间，应使用单数系动词过去式 <code>was</code>（对应字母 Q）。",
+          "answer": "Q"
+        },
+        "35": {
+          "concept": "指示限定词 — Demonstrative Determiner",
+          "note": "指示限定词 <code>those</code>（对应字母 P）用于修饰空间或时间上具有距离感的复数名词 <code>animals</code>。",
+          "answer": "P"
+        },
+        "36": {
+          "concept": "一般过去时动词 — Past Tense Verb",
+          "note": "使用过去式动词 <code>had</code>（对应字母 G）来描述过去已经完成并结束的动作或状态（拥有短暂的寿命）。",
+          "answer": "G"
+        },
+        "37": {
+          "concept": "介词搭配 — Preposition Usage",
+          "note": "介词 <code>of</code>（对应字母 K）在此用作后置定语成分，用以具体补充、说明名词 <code>evidence</code>（证据）的实际内容。",
+          "answer": "K"
+        },
+        "38": {
+          "concept": "介词表目的 — Preposition for Purpose",
+          "note": "介词 <code>for</code>（对应字母 F）用于引出行动背后的根本动机、原因，此处说明设立动物园是“为了娱乐目的”。",
+          "answer": "F"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Dear Uncle Sunny,",
+          "How have you been? I know it can get [Q39(orfoolee)] cold in London this time of year. I do hope that you are keeping [Q40(warms)] and enjoying your holiday despite the [Q41(warether.)]",
+          "Guess what? My friends and I went to the MacRitchie [Q42(rehzervwa)] last week. Being in an [Q43(adventure)] mood, we decided to try out the newly opened suspension bridge. It was [Q44(true)] an amazing experience taking in the beautiful views below from the top. There have been many sightings [Q45(to)] wild boars reported by people. We thought these reports were [Q46(unbiliveable)] until we saw one ourselves! Let me [Q47(takes)] you and Aunt Dawn there when you next visit us in June.",
+          "Rest [Q48(ashurred)] that I have planned a week of fun-filled activities. I [Q49(gehranti)] both of you will enjoy [Q50(ourselves!)]",
+          "I am looking forward to seeing you and Aunt Dawn soon. Take care!",
+          "Best wishes,",
+          "Mei Chin"
+        ],
+        "zh": [
+          "亲爱的萨尼叔叔：",
+          "您最近怎么样？我知道每年的这个时候伦敦会变得非常冷。我真心希望您能注意保暖，尽管天气不好，但依然能享受您的假期。",
+          "您猜怎么着？上周我和朋友们去了麦里芝蓄水池。怀着冒险的心情，我们决定去体验新开放的吊桥。从桥顶欣赏下方美丽的景色真正是一次美妙的体验。常有人们报告发现野猪的踪迹。在亲眼看到之前，我们还以为这些报告是不可思议的呢！六月份您和道恩阿姨再来拜访我们时，让我带你们去那里吧。",
+          "请放心，我已经计划了一周充满乐趣的活动。我保证你们两位都会玩得尽兴！",
+          "期待很快见到您和道恩阿姨。保重！",
+          "最美好的祝愿，",
+          "美珍"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>orfoolee</em> 改正为正确的副词 <em>awfully</em>（非常）。",
+          "answer": "awfully"
+        },
+        "40": {
+          "concept": "词性转换 — Adjective Usage",
+          "note": "在短语 <em>keeping warm</em> 中应当使用形容词原形 <em>warm</em>（保持温暖），而不是复数名词形式。",
+          "answer": "warm"
+        },
+        "41": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>warether</em> 改正为正确的名词 <em>weather</em>（天气）。",
+          "answer": "weather"
+        },
+        "42": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>rehzervwa</em> 改正为正确规范的特定地点专有名词 <em>reservoir</em>（蓄水池/水库）。",
+          "answer": "reservoir"
+        },
+        "43": {
+          "concept": "词性转换 — Noun to Adjective",
+          "note": "应当使用形容词 <em>adventurous</em> 来修饰限定后面的名词短语中心语 <em>mood</em>，构成“冒险的心情”。",
+          "answer": "adventurous"
+        },
+        "44": {
+          "concept": "词性转换 — Adjective to Adverb",
+          "note": "应当使用副词 <em>truly</em> 来修饰、传达并强调某种属性的实际程度（真正地/确实地）。",
+          "answer": "truly"
+        },
+        "45": {
+          "concept": "介词搭配 — Preposition Usage",
+          "note": "应当使用介词 <em>of</em> 与前面的名词 <em>sightings</em> 构成属格修饰关系，补充说明其具体内容为“野猪的踪迹”。",
+          "answer": "of"
+        },
+        "46": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>unbiliveable</em> 改正为正确的形容词 <em>unbelievable</em>（难以置信的）。",
+          "answer": "unbelievable"
+        },
+        "47": {
+          "concept": "非谓语动词 — Bare Infinitive",
+          "note": "在祈使句 <em>Let me</em> 后面需要承接不带 to 的动词不定式原形 <em>take</em> 充当宾语补足语。",
+          "answer": "take"
+        },
+        "48": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>ashurred</em> 改正为正确的动词分词形式 <em>assured</em>（确信的/放心的），构成短语 <em>Rest assured</em>。",
+          "answer": "assured"
+        },
+        "49": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>gehranti</em> 改正为正确的动词原形 <em>guarantee</em>（保证）。",
+          "answer": "guarantee"
+        },
+        "50": {
+          "concept": "代词人称不一致 — Reflexive Pronoun",
+          "note": "句子主语指代的是第二人称复数概念的“你们两位（both of you）”，因此对应的反身代词必须保持一致，使用 <em>yourselves</em>（你们自己）。",
+          "answer": "yourselves"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever played with a 'dragon'? We are not talking about the fairy tale creature in story books [Q51] an actual playground in Singapore for children growing up in the 1980s. As the name [Q52], the 'dragon' playground has a dragon-shaped slide covered in tiles. Other playgrounds had designs like bumboats and attap houses to reflect Singapore's culture. There were also playgrounds that were designed [Q53] the history and geography of the housing estates in mind. For example, towns built on reclaimed [Q54] had playground designs inspired by the sea.",
+          "Do you know that playgrounds played an important role in Singapore's history? As demand for housing [Q55] in the 1960s, more high-rise apartment blocks were built. While this [Q56] the basic housing needs of the people, many felt distant from one another. Most public housing designs then did not encourage much interaction [Q57] residents. To resolve this issue, public facilities [Q58] as playgrounds and community centres were built in the estates to create the spaces for [Q59] people together. Singaporeans who grew up [Q60] much time in these playgrounds have fond [Q61] of how they formed friendships with their neighbours there.",
+          "Later on, many of these playgrounds were demolished and replaced by new ones with better designs. To [Q62] children's safety, the surfaces of playgrounds, which used to be covered with sand, have been replaced by rubber flooring. The modern playgrounds also feature innovative designs.",
+          "Today, [Q63] a few traditional playgrounds are left in Singapore. Who knows how [Q64] more these playgrounds will be around? So, if you have not played with a 'dragon' before, ask your parents about it. Better [Q65], ask them to take you there. Don't wait till the 'dragon' disappears."
+        ],
+        "zh": [
+          "你曾和“龙”一起玩耍过吗？我们说的不是故事书里的神话生物，而是一个供二十世纪八十年代成长起来的新加坡儿童玩耍的真实游乐场。正如名字所表明的那样，“大龙”游乐场有一个铺满瓷砖的龙形滑梯。其他游乐场则有像驳船和亚答屋一样的设计，以反映新加坡的文化。还有一些游乐场在设计时将住宅区的历史 and 地理因素考虑在内。例如，建在填海土地上的城镇，其游乐场设计灵感就来自大海。",
+          "你知道游乐场在新加坡的历史上扮演了重要角色吗？随着二十世纪六十年代对住房需求的增加，越来越多的高层公寓楼被建造起来。虽然这满足了人们的基本住房需求，但许多人感到彼此疏远。当时的大多数公共住房设计并没有促进居民之间的太多互动。为了解决这个问题，社区内建造了诸如游乐场和民众俱乐部之类的公共设施，以创造让人们聚集在一起的空间。在这些游乐场里度过了大量时光的新加坡人，对他们如何在游乐场里与邻居建立友谊有着美好的回忆。",
+          "后来，许多这类游乐场被拆除，并被设计更好的新游乐场取而代之。为了确保儿童的安全，以前铺满沙子的游乐场地面已被橡胶地板所取代。现代游乐场还具有创新性的设计。",
+          "如今，新加坡仅剩下了几座传统游乐场。谁知道这些游乐场还能存在多久呢？所以，如果你以前没有和“龙”一起玩过，向你的父母问问吧。更好的是，让他们带你去那里。不要等到“大龙”消失。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "并列连词转折关系",
+          "note": "使用并列连词 but 来引出对比概念（不是故事书里的生物，而是新加坡真实的游乐场），构成 not... but...（不是……而是……）的经典对比句式。",
+          "answer": "but"
+        },
+        "52": {
+          "concept": "主谓一致与动词语意",
+          "note": "主语为单数名词 phrase 或代词 name，充当单数第三人称。结合后文“大巴窑龙头游乐场”的名字，指正如名字所“表明”、“暗示”或“提示”的那样，填入单三形式动词 suggests / implies / indicates / states。",
+          "answer": "suggests/implies/indicates/states"
+        },
+        "53": {
+          "concept": "介词固定习惯搭配",
+          "note": "与后文的 in mind 完美组合，构成在各类英语考卷中极其高频出现的特定固定习语 with... in mind，意思是游乐场的设计将各个住宅区的历史和地理因素“考虑在内”。",
+          "answer": "with"
+        },
+        "54": {
+          "concept": "固定短语与名词搭配",
+          "note": "修饰前面的过去分词 reclaimed。完美契合新加坡建国发展史核心地理高频专属词汇 reclaimed land，指的是经过人工改良而来的“填海造地/填海区”。",
+          "answer": "land"
+        },
+        "55": {
+          "concept": "一般过去时动词语意",
+          "note": "由于整段都在叙述 1960 年代（in the 1960s）的历史背景，谓语动词需采用一般过去时。用来形容随着时间的推移，住房的需求不断“增加”、“上升”或“激增”，故填 grew / increased / rose / soared。",
+          "answer": "grew/increased/rose/soar"
+        },
+        "56": {
+          "concept": "一般过去时动词语意",
+          "note": "主语为单数代词 This，指代前文建造的高楼。动词需用过去时，指虽然这些建筑“满足”、“解决”或“提供”了人们对基本住房的需求（satisfied / met / solved / provided），但邻里间却感到疏远。",
+          "answer": "satisfied/met/solved/provided"
+        },
+        "57": {
+          "concept": "介词群体范围辨析",
+          "note": "后接复数名词 residents（指代同一社区的三者或三者以上的大众群体）。指早期的组屋设计并没有在居民“之间”或“群体内部”鼓励太多的互动，故填入范围介词 among。",
+          "answer": "among"
+        },
+        "58": {
+          "concept": "举例引导词固定搭配",
+          "note": "与后面的 as 完美组合，构成最经典的举例固定标记语 such as，用于引出游乐场和社区中心等公共设施的例子。",
+          "answer": "such"
+        },
+        "59": {
+          "concept": "动名词短语充当介词宾语",
+          "note": "介词 for 后面需要接动名词。与后面的 people together 完美结合，构成高频习惯短语 bringing people together，意思是建造公共空间把大家“聚集在一起”。",
+          "answer": "bringing"
+        },
+        "60": {
+          "concept": "动词与时间量词固定搭配",
+          "note": "伴随状态现在分词短语。与后面的 time 组合，构成极高频常考的经典特定搭配 spending much time，指代那些在游乐场里“度过”了大量童年时光的新加坡人。",
+          "answer": "spending"
+        },
+        "61": {
+          "concept": "名词语意与修饰搭配",
+          "note": "前面有形容词 fond（美好的）修饰，后接介词 of。用来形容在这里长大的新加坡人对邻里友谊都保留着深刻、温暖的“回忆”或“印象”，故填复数名词 memories / recollections。",
+          "answer": "memories/recollections"
+        },
+        "62": {
+          "concept": "动词不定式与宾语搭配",
+          "note": "不定式符号 to 后接动词原形表目的。与后面的 children's safety 组合，指为了“确保”、“保证”或“保护”儿童的安全，沙地被改为了橡胶地垫，故填 ensure / ensure / guarantee / protect / secure。",
+          "answer": "ensure/guarantee/protect/secure"
+        },
+        "63": {
+          "concept": "副词修饰限定语境",
+          "note": "修饰后面的限定短语 a few traditional playgrounds。结合下文对传统游乐场面临消失的担忧，填入副词 only 构成 only a few，极力强调如今传统游乐场“仅仅”剩下少数几个了。",
+          "answer": "only"
+        },
+        "64": {
+          "concept": "限定词与疑问句式搭配",
+          "note": "引导特殊疑问从句 how... more。修饰后文的可数名词 playgrounds，用以表达谁也不知道这些老古董还能再陪伴我们“多久（how much longer）”或在数量上还能留存“多少（how many more）”。",
+          "answer": "many/much"
+        },
+        "65": {
+          "concept": "习语逻辑递进固定搭配",
+          "note": "完美契合英语中用于提出更优建议或更进一步取舍的核心经典递进习语 Better still 或者是 Better yet，意思是“更好的是”直接让父母带你现场去看看。",
+          "answer": "still/yet"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Neither of my uncles knows how to drive.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Both _________"
+        },
+        "67": {
+          "stem_plain": "Farid enjoys playing soccer with his classmates.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "_________ what Farid _________ ."
+        },
+        "68": {
+          "stem_plain": "Gopi's mother refused to buy a toy for him. He became upset.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "_________ because of his mother's _________"
+        },
+        "69": {
+          "stem_plain": "Alice chose what she wanted to eat. She placed her order.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Having _________"
+        },
+        "70": {
+          "stem_plain": "I regret not taking part in the competition yesterday.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "I wish _________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "否定转换 — Neither ... to Both ... not",
+          "zh": "我的两位舅舅（伯伯/叔叔）都不会开车。",
+          "note": "<code>Neither of + 复数名词</code> 意为“两者都不”，谓语用单数（knows）。改写为 <code>Both of + 复数名词</code> 时意为“两者都”，谓语改用复数（do not know）来实现全盘否定意义的对等。",
+          "answer": "Both of my uncles do not know how to drive."
+        },
+        "67": {
+          "concept": "强调句型 / 动名词主语 — Pseudo-cleft sentence",
+          "zh": "与同班同学一起踢足球是法里德所喜欢的。",
+          "note": "本题考查伪分裂句（Pseudo-cleft sentence）结构。将动名词短语 <code>Playing soccer with his classmates</code> 提前作为句子主语，后面连接系动词 <code>is</code>，与句尾 <code>what Farid enjoys</code> 呼应。",
+          "answer": "Playing soccer with his classmates is what Farid enjoys."
+        },
+        "68": {
+          "concept": "词性转换 — Verb to Noun (refused to refusal)",
+          "zh": "戈皮因为母亲拒绝给他买玩具而变得沮丧。",
+          "note": "<code>because of</code> 后面只能接名词或名词性短语。因此需要将前一句中的动词 <code>refused</code> 转换为名词形式 <code>refusal</code>，并将句子重心调整为 <code>Gopi became upset...</code>。",
+          "answer": "Gopi became upset because of his mother's refusal to buy a toy for him."
+        },
+        "69": {
+          "concept": "分词短语充当状语 — Perfect Participle",
+          "zh": "选好自己想吃的东西后，爱丽丝下了单。",
+          "note": "由于“选择想吃的东西”发生在“下单”之前，使用现在分词的完成式 <code>Having + 过去分词 (chosen)</code> 开头作时间状语，逗号后接主句，注意主语 <code>Alice</code> 必须移至主句首。",
+          "answer": "Having chosen what she wanted to eat, Alice placed her order."
+        },
+        "70": {
+          "concept": "虚拟语气 — Wish regarding the past",
+          "zh": "我真希望昨天我参加了那场比赛。",
+          "note": "针对过去事实（yesterday）相反的愿望或感到遗憾，在 <code>I wish</code> 后的宾语从句中，谓语动词需使用过去完成时 <code>had + 过去分词 (had taken part)</code>。",
+          "answer": "I wish I had taken part in the competition yesterday."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why was Li Mei \"eager to finish washing the dishes\" (line 1)? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Based on paragraph 4, state two reasons why Li Mei's mother scolded her. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "Reason 1: [Q72a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "Reason 2: [Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "From the second paragraph, pick out a two-word phrase that tells us Li Mei was talented in baking. [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage?\nWrite your answers in the column on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "a) mission (line 9)",
+                "b) That (line 19)",
+                "c) got the hang of it\n(line 23)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q74a]",
+                "[Q74b]",
+                "[Q74c]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Based on lines 8-28, state whether each statement in the table below is true or false, then give one reason why you think so. [2m]",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Li Mei's family was not rich.",
+                "b) Li Mei learnt to ride a bicycle to get around."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q75a]",
+                "[Q75c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q75b]",
+                "[Q75d]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "When Li Mei volunteered to clean Wei Kai's bicycle, what was she trying to achieve and why? [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "What caused \"a pang\" (line 27) in Li Mei's heart? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "Based on information from lines 29-35, complete the following table. [4m]",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "li_mei_mother",
+              "wei_kai"
+            ],
+            "li_mei_mother": {
+              "header": "Li Mei's mother",
+              "rows": [
+                "a) What does her body language tell us about how she felt?",
+                "[Q78a]",
+                "b) What did she want Li Mei to learn from the \"lesson\" (line 32)?",
+                "[Q78c]"
+              ]
+            },
+            "wei_kai": {
+              "header": "Wei Kai",
+              "rows": [
+                "c) What does his first facial expression tell us about how he felt?",
+                "[Q78b]",
+                "d) What was he trying to do when he spoke to Li Mei?",
+                "[Q78d]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Why did Li Mei \"feel worse\" (line 35) after hearing what Wei Kai said? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Explain how Li Mei’s view about her baking talent had changed in the story and the reason for the change. [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Li Mei was **eager to finish washing the dishes**, and she took care not to break",
+          "2": "anything like she had done previously. What happened then was that her mind had drifted",
+          "3": "off, and her mother had scolded her for having butterfingers. In reality, Li Mei was thinking",
+          "4": "about a new baking method. This time, she was planning something. She wanted to",
+          "5": "complete her chore quickly so that she could start looking for new recipes. She was going",
+          "6": "to surprise her older brother, Wei Kai, on his birthday the following week. A brilliant student",
+          "7": "who topped his class every year, he was the pride of the family.",
+          "8": "Li Mei was a picture of focus as she flipped through a recipe book for an idea to",
+          "9": "accomplish her important mission. Baking was all she could think of. She wanted to make",
+          "10": "the perfect gift for Wei Kai. Reading the recipes, she visualised herself mixing and matching",
+          "11": "ingredients like a professional artist working on a masterpiece. Everyone knew she could",
+          "12": "work wonders with basic ingredients. Yet, no one knew she felt her talent was useless. She",
+          "13": "secretly wished she had Wei Kai's brain. He could become a top lawyer or surgeon who",
+          "14": "would be able to afford a big house for their father and mother to live in comfort. The familiar",
+          "15": "ringing of a bicycle bell, signalling Wei Kai's return from school, interrupted her train of",
+          "16": "thought. She got up to greet him at the door. Seeing the recipe book in her hand, he said",
+          "17": "cheerfully, \"I can't wait to try your next cake!\" Li Mei smiled with a shrug, and quickly offered",
+          "18": "to clean his bicycle to shift his attention.",
+          "19": "After pushing the bicycle to a corner, Li Mei began wiping down the handles. **That**",
+          "20": "was when she had a thought. \"Why don't I learn to ride a bicycle like Wei Kai who's good",
+          "21": "at everything?\" With that, she got onto the bicycle. Grasping the handles, she pushed the",
+          "22": "pedal with one foot while using the other foot to provide balance. The bicycle started rolling",
+          "23": "unsteadily. She stumbled a few times but soon **got the hang of it**. As her confidence grew,",
+          "24": "she pictured how easily she could ride anywhere to get baking ingredients. Before she",
+          "25": "realised it, the lane began to curve down a slope. Desperately, she squeezed the hand",
+          "26": "brakes, but it was too late. The bicycle hurtled towards a thick bush. CRASH! She felt",
+          "27": "**a pang** in her heart as her eyes darted from her bruises to the bicycle. The frame was",
+          "28": "dented. Wincing in pain, Li Mei muttered, \"What have I done?\"",
+          "29": "Li Mei hobbled home with the bicycle in a sorry state. When Li Mei's mother saw her,",
+          "30": "she quickly held her shoulders, scanning her hands and legs at the same time. Once she",
+          "31": "was sure that Li Mei was not seriously hurt, she scolded her, \"You actually rode the bicycle?",
+          "32": "What were you thinking? Well, I hope you've learnt your **lesson**!\" Meanwhile, Wei Kai",
+          "33": "stared wide-eyed at his damaged bicycle. When he saw Li Mei's apologetic look, he quickly",
+          "34": "said with a smile, \"It'll still work after some repair. I'm just glad you're fine!\" Li Mei was",
+          "35": "already feeling guilty. Hearing what he said actually made her **feel worse**.",
+          "36": "The following day, with Li Mei's help, Wei Kai half-cycled and half-pushed the bicycle",
+          "37": "to the only repair shop in the village. They were hoping Uncle Soh, who was their parents'",
+          "38": "friend, would not charge a high price. However, after Uncle Soh had examined the bicycle,",
+          "39": "he said it would cost fifty dollars to repair it. Wei Kai stood still for a long minute. He thanked",
+          "40": "Uncle Soh and started to push his bicycle away sadly. That was when Li Mei blurted out,",
+          "41": "\"Uncle Soh, if I promise to clean your shop for a week, will you fix it for free?\"",
+          "42": "Seeing the earnest look in her eyes, Uncle Soh replied, \"Why don't you bake me",
+          "43": "something nice instead?\" His words almost made them jump for joy. It was a great weight",
+          "44": "off Li Mei's mind, as she whispered to herself, \"Not useless after all!\""
+        },
+        "paragraphs": {
+          "1": "李美急着洗完碗，并小心翼翼地不像以前那样摔碎任何东西。当时的情况是她走神了，她母亲责备她笨手笨脚（做事毛躁）。实际上，李美是在思考一种新的烘焙方法。这一次，她正在计划着一些事情。她想快点完成家务，这样就可以开始寻找新的食谱。她打算在下周她哥哥伟凯生日时给他一个惊喜。伟凯是一个每年都名列前茅的优秀学生，他是全家人的骄傲。",
+          "8": "李美全神贯注地翻阅着一本食谱书，寻找能够完成她这项重要任务的灵感。她脑子里想的满是烘焙。她想为伟凯制作一份完美的礼物。看着食谱，她想象着自己像一个正在创作杰作的专业艺术家一样，把食材搭配组合。大家都知道她可以用基本的食材做出奇迹般的美味。然而，没有人知道她觉得自己的才华毫无用处。她暗自希望自己能有伟凯那样的头脑。他可以成为一名顶尖的律师或外科医生，这样就能买得起大房子，让他们的父母过上舒适的生活。一阵熟悉的自行车铃声打断了她的思绪，这标志着伟凯放学回家了。她起身到门口迎接他。看到她手里的食谱书，他高兴地说：“我都迫不及待想尝尝你做的下一个蛋糕了！”李美耸了耸肩笑了笑，并赶紧提出帮他擦自行车，以转移他的注意力。",
+          "19": "把自行车推到角落后，李美开始擦拭车把。就在那时，她产生了一个想法。“我为什么不学学像什么都很擅长的伟凯那样骑自行车呢？”说完，她便跨上了自行车。她抓紧车把，一只脚踩住踏板，另一只脚用来保持平衡。自行车开始摇摇晃晃地向前滚动。她跌绊了几次，但很快就掌握了门道（找到了感觉）。随着信心的增强，她脑海中浮现出自己可以轻松地骑着车去任何地方购买烘焙材料的画面。还没等她意识到，车道开始顺着斜坡向下弯曲。她拼命地捏紧手刹，但已经太迟了。自行车直冲向一片茂密的灌木丛。砰的一声！当她的目光从自己的擦伤处移向自行车时，她感到一阵心痛。车架凹陷了进去。李美痛得龇牙咧嘴，喃喃自语道：“我都干了些什么呀？”",
+          "29": "李美一瘸一拐地带着那辆惨不忍睹的自行车回到了家。李美的母亲看到她后，赶紧扶住她的肩膀，同时打量着她的手和腿。一确定李美没有受重伤，她便责备道：“你竟然去骑了那辆自行车？你当时怎么想的？嗯，我希望你已经吸取了教训！”与此同时，伟凯瞪大眼睛看着他那辆受损的自行车。当看到李美充满歉意的眼神时，他赶紧笑着说：“修理一下应该还能用。你没事就好！”李美本来就很内疚，听他这么一说，心里反而更难受了。",
+          "36": "第二天，在李美的帮助下，伟凯半骑半推地把自行车送到了村里唯一的修理店。他们希望作为父母朋友的苏叔叔不会收取高昂的费用。然而，苏叔叔检查完自行车后表示，修理费需要五十美元。伟凯愣愣地站了好一分钟。他向苏叔叔道了谢，便伤心地准备把自行车推走。就在这时，李美脱口而出：“苏叔叔，如果我保证帮你打扫一周的店铺，你能免费帮他修好吗？”",
+          "42": "看到她眼中诚恳的目光，苏叔叔回答道：“要不你帮我烤点好吃的东西来代替吧？”他的话差点让他们高兴得跳起来。这让李美彻底松了一口气，她低声对自己说：“原来我也不是毫无用处嘛！”"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Direct Literal/Retrieval",
+          "note": "<p>Based on lines 4-6, Li Mei wanted to complete her household chore quickly to find new recipes for her brother's upcoming birthday surprise.</p>",
+          "answer": "She wanted to complete her chore quickly so that she could start looking for new recipes to surprise her older brother, Wei Kai, on his birthday the following week.",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>第四段（行 29–35）。</li><li><strong>责备原因：</strong>行 31 母亲责备她竟敢去骑自行车；行 32 母亲希望她通过这次意外吸取教训。</li></ol>",
+          "answer": {
+            "72a": "Li Mei had actually ridden the bicycle.",
+            "72b": "Her mother wanted to ensure that Li Mei had learnt her lesson."
+          }
+        },
+        "73": {
+          "concept": "Phrase Picking",
+          "note": "<p>Paragraph 2 explicitly mentions that 'Everyone knew she could work wonders with basic ingredients' regarding her baking skills.</p>",
+          "answer": "work wonders",
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "指代题",
+          "note": "<ol><li><strong>(a) mission（行 9）：</strong>指代为哥哥烘焙生日礼物。推导依据见第 9 至 10 行：“Baking was all she could think of. She wanted to make the perfect gift for Wei Kai.”</li><li><strong>(b) That（行 19）：</strong>指代李美开始擦拭自行车把手的时刻。推导依据见第 19 至 20 行：“After pushing the bicycle to a corner, Li Mei began wiping down the handles. That was when she had a thought.”</li><li><strong>(c) got the hang of it（行 23）：</strong>指代习惯了骑自行车。推导依据见第 22 至 23 行：“The bicycle started rolling unsteadily. She stumbled a few times but soon got the hang of it.”</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "Baking something for her older brother as a gift for his birthday",
+            "74b": "The moment when Li Mei started wiping down the handles of the bicycle",
+            "74c": "Getting used to riding the bicycle"
+          }
+        },
+        "75": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>范围：</strong>第 8–28 行。</li><li><strong>(a) TRUE：</strong>从第 12–14 行可知，她羡慕聪明的哥哥将来能当上律师或外科医生买得起大房子让父母过上舒适的生活，这意味着当前的家庭并不富裕。</li><li><strong>(b) FALSE：</strong>从第 26 行可知，尽管她开始掌握技巧，但随后便连人带车冲进灌木丛撞车了，说明她并没有真正学会骑车来到处转转。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "True",
+            "75b": "Li Mei envied her brother for being smart, who could one day be successful enough to afford a big house to give their parents a better quality of life, which means that Li Mei's family was not wealthy.",
+            "75c": "False",
+            "75d": "Even though Li Mei was starting to get the hang of cycling, she crashed into a bush, so she did not learn to ride a bicycle to get around."
+          }
+        },
+        "76": {
+          "concept": "Double Action/Purpose Explanation",
+          "note": "<ol><li><strong>范围：</strong>第一至二段（行 15–18）。</li><li><strong>目的与原因：</strong>行 18 提到她提出擦车是为了“转移他的注意力”（shift his attention），原因是他看到了她手里的食谱书并提到迫不及待想尝尝下个蛋糕，而她想保守下周生日惊喜的秘密。</li></ol>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "Direct Cause/Retrieval",
+          "note": "<ol><li><strong>范围：</strong>第三段（行 26–28）。</li><li><strong>原因：</strong>行 26-28 提到她撞进灌灌木丛后，看到自己身上有擦伤，而且哥哥自行车的车架撞凹进去了（dented frame）。</li></ol>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>(a)：</strong>担忧。见第 29–30 行“When Li Mei's mother saw her, she quickly held her shoulders, scanning her hands and legs at the same time.”</li><li><strong>(b)：</strong>三思而后行。见第 31–32 行“'You actually rode the bicycle? What were you thinking?'... 母亲质问反映出对其未考虑后果而行动的愤怒。”</li><li><strong>(c)：</strong>震惊。见第 32–33 行“Wei Kai stared wide-eyed at his damaged bicycle.”</li><li><strong>(d)：</strong>安慰她。见第 33–34 行“When he saw Li Mei's apologetic look, he quickly said with a smile, 'It'll still work after some repair. I'm just glad you're fine!'”</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "She was worried.",
+            "78b": "He was shocked.",
+            "78c": "She wanted Li Mei to learn to think before she acted.",
+            "78d": "He was trying to comfort her."
+          }
+        },
+        "79": {
+          "concept": "Direct Cause/Retrieval",
+          "note": "<ol><li><strong>范围：</strong>第四段（行 33–35）。</li><li><strong>原因：</strong>哥哥说的话让她原本就有的内疚感加重了，因为他更关心她的身体状况，而不是自行车惨不忍睹的损坏状态。</li></ol>",
+          "answer": "Wei Kai’s words added to the guilt that she was already feeling because he was more concerned about her condition than the sorry state of his bicycle.",
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "Character View Change/Evolution",
+          "note": "<ol><li><strong>范围：</strong>第二段（行 12-14）及最后一段（行 42-44）。</li><li><strong>心路历程转变与原因：</strong>李美不再认为自己的烘焙才华毫无用处，因为她可以利用自己的烘焙技能，来换取修理工帮她哥哥修理自行车。</li></ol>",
+          "answer": "Li Mei no longer felt that her baking talent was useless, as she could utilise her baking skills in exchange for the repairman’s help in repairing her brother’s bicycle.",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly about the 'Amazing Hearts 2024' project. --By making a morning announcement--, we would be able to let our classmates know more about the project and the date for food collection. It is important that we inform our **fellow pupils** about the event --as-- the date for the food collection will be coming up soon in about two weeks' time, on 9 October 2024.",
+          "The 'Amazing Hearts 2024' project was organised **in order to** **lend a helping hand** to elderly in need. In the form of a food donation drive, the project welcomes pupils to **contribute** a food item, which will be given to the elderly at Greenview Elder Care on 11 October 2024. --Before donating a food item at the booth--, it is important for pupils to note two things. --First--, they have to scan the QR code provided on the post about the event, **in order to** check for the list of **acceptable** food items that they can donate. --Second--, they have to check for the expiry date of their food item. --After making sure that-- their food items are not expired and within the acceptable list of food items, pupils can go ahead and donate their food items to our donation drive!",
+          "--Besides requesting permission to make an announcement in the morning assembly--, I would also like to ask for your help in **rehearsing** the morning announcement with me. My friend, Eve, and I heard Ada's announcement recently and thought that it sounded very **engaging**! We heard that you helped her to rehearse and I would love to receive your help too, --as-- I believe that it would give me the confidence to give a clear and engaging announcement to the rest of the school.",
+          "I would really **appreciate your help** in this matter and I look forward to your **favourable reply**!",
+          "Regards,\nRama"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n* 完美的格式：包含了正式的称呼 (Dear Mr Lim) 以及得体的结语 (Regards, Rama)。\n* 精准覆盖所有要点：\n  * **写信目的**：开门见山提出申请在早会做报告（“request permission to make an announcement...”）。\n  * **项目目的**：为有需要的乐龄人士伸出援手（“lend a helping hand to elderly in need”）。\n  * **两个做报告的原因**：让同学们了解活动详情、因为两周后（10月9日）就要截止了，时间紧迫。\n  * **捐赠前两件要注意的事**：扫描二维码核对允许捐赠的食物清单、检查食物保质期。\n  * **找林老师练习的原因**：听到 Ada 的报告很吸引人，得知是林老师指导的，希望借此获得公开演讲的信心。",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n* 对待老师的语气非常恭敬、得体。大量使用了委婉的高级正式句型，如 `\"request permission\"`（请求批准）, `\"appreciate your help\"`（感激您的帮助）, `\"favourable reply\"`（满意的答复）。",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n* 文章通过合理、自然的衔接词层层递进。在列举步骤时使用了 `--First--` 和 `--Second--`；在承上启下时使用了 `--Besides...--`（除了……之外）和 `--After making sure that--`（在确保……之后）。这些短语让整封邮件读起来条理清晰，非常符合行政事务沟通的逻辑性。"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "As the car turned the corner, the **scenic view** of the sea **unfolded before their eyes**. Justin closed his eyes **in content** --as-- the cooling sea breeze blew in his face. The corner of his lips lifted --as-- he thought of the exciting day ahead. It had been a long time --since-- they went to the beach. His family was also **in high spirits**, chattering in the car --as-- they made their way to their destination.",
+          "The weather was perfect --when-- they stepped out of the car. The clear blue sky was a **welcome sight** which **lifted their mood** even more. --Although-- they had been to the beach several times before, it was their first time having a picnic on the beach. The **aroma** of food **wafted in the air** --as soon as-- Justin's parents retrieved their picnic basket from the trunk of the car. Justin carried the picnic mat, his eyes **scanning the area** for an ideal spot to **settle down**. \"There!\" Justin pointed to a shady spot under a tree. --After settling down--, Justin started taking out various food and beverages from the basket.",
+          "\"I've got bread and other food items here, so try making your own sandwich! It'll be a fun activity,\" Justin's mother said.",
+          "\"I'm going to make the best sandwich!\" Justin **exclaimed**.",
+          "\"Really? I doubt you can beat me!\" his sister, Jenna, **jokingly responded**.",
+          "Looking at the **assortment** of vegetables, meats and sauces available, Justin was lost. He did not know where to start --as-- it was his first time making a sandwich all by himself. --Nonetheless--, he was still excited to try something new. He took a slice of bread and chose all his favourite ingredients, which were cheese, bacon and eggs.",
+          "\"Remember to eat your greens, Justin!\" his mother reminded him cheerily. --Even though-- Justin did not like vegetables, he decided to give it a try. He added a piece of lettuce to his sandwich.",
+          "The first bite of his sandwich was **heavenly**! Justin loved the taste of his sandwich. Adding a piece of lettuce to his sandwich was a good choice, he thought. Seeing everyone enjoy their meal, Justin's mother smiled **in contentment**.",
+          "Filling their tummies with delicious self-made sandwiches was a great start to the family picnic. --Later on--, Justin and his sister had fun building sandcastles and collecting shells together. Their parents rested on the picnic mat, glad to enjoy a **peaceful afternoon** --where-- they could simply relax without having anything on their minds.",
+          "--Soon--, it was time to head home. --After helping their parents pack up--, Justin and his sister bade goodbye to their sandcastles and the beach. --As the car drove off--, Justin leaned against the window, **admiring the view** of the orange sunset and the glistening sea. What a perfect day, he thought. On his first picnic to the beach, he got to make his very own sandwich for the first time. He was also glad that he had added lettuce into his sandwich --because-- it gave it a nice **crunchy texture**. Trying something new was not bad at all!"
+        ],
+        "markdown": [
+          "这个关于“海滩野餐”的连续写作范文（Continuous Writing）是一篇非常出色的 PSLE 叙事高分范文。主要亮点如下：",
+          "### 1. 极强的画面感与感官描写 (Vivid Sensory Details)\n* 范文不仅仅是在记流水账，而是运用了大量的**感官描写（Sensory Language）**：\n  * **视觉**：`\"scenic view... unfolded before their eyes\"`（迷人的风景在眼前展开）、`\"orange sunset and the glistening sea\"`（橘红色的落日与波光粼粼的海面）。\n  * **触觉**：`\"cooling sea breeze blew in his face\"`（凉爽的海风吹拂在脸上）。\n  * **嗅觉**：`\"aroma of food wafted in the air\"`（食物的香气在空气中弥漫）。\n  * **味觉**：`\"heavenly\"`（天堂般的美味）、`\"crunchy texture\"`（脆脆的口感）。",
+          "### 2. 生动的心理与神态描写 (Excellent Characterization & Emotion)\n* 文章对人物心情和神态的刻画非常细腻。例如写全家人 `\"in high spirits\"`（兴高采烈），Justin 因为期待而 `\"the corner of his lips lifted\"`（嘴角上扬），妈妈看到大家享受美食时 `\"smiled in contentment\"`（心满意足地微笑）。这些描写让整个家庭故事充满了温馨的温情色彩。",
+          "### 3. 高级词汇与句型的自然融入 (Natural Integration of Advanced Vocabulary)\n* 文章中高级词汇的密度很高，且用得恰到好处。比如用 `\"scanning the area\"` 代替简单的 \"looking around\"，用 `\"assortment\"`（各种各样）代替 \"many types of\"。在衔接上，使用了 `--Nonetheless--`（尽管如此）、`--Even though--`（尽管）等高级连词，使句式富于变化而不单调。",
+          "### 4. 完美的结构与主题深化 (Well-Structured with Meaningful Reflection)\n* 故事完全符合起承转合的叙事逻辑（乘车出发 → 到达准备 → 核心事件：初次做三明治 → 娱乐活动 → 踏上归途）。\n* 结尾非常出彩，没有流于俗套。Justin 通过“尝试在三明治里加蔬菜”这件生活小事，领悟到了 `\"Trying something new was not bad at all!\"`（尝试新事物其实一点也不坏）的人生道理。这种以小见大的思想升华（Reflection），正是阅卷老师最赞赏的高分要素。"
+        ]
+      }
+    }
+  }
+}

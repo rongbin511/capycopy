@@ -1,0 +1,1452 @@
+{
+  "paperid": "p6_english_2022_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Bella's mother enjoys _______________ with her neighbours in the park on weekend mornings.",
+          "options": {
+            "1": "interact",
+            "2": "interaction",
+            "3": "interacting",
+            "4": "having interacted"
+          }
+        },
+        "2": {
+          "stem_plain": "_______________ the concert was cancelled, the organiser refunded us the money.",
+          "options": {
+            "1": "If",
+            "2": "While",
+            "3": "Since",
+            "4": "Unless"
+          }
+        },
+        "3": {
+          "stem_plain": "Ten minutes _______________ the game, a player was replaced as he suffered a serious injury.",
+          "options": {
+            "1": "into",
+            "2": "over",
+            "3": "within",
+            "4": "during"
+          }
+        },
+        "4": {
+          "stem_plain": "Although Juliana _______________ some concerns initially, she has agreed to do what we asked.",
+          "options": {
+            "1": "has",
+            "2": "had",
+            "3": "have",
+            "4": "having"
+          }
+        },
+        "5": {
+          "stem_plain": "Judy witnessed a boy _______________ the game cards into his bag, so she reported it to the store manager.",
+          "options": {
+            "1": "slip",
+            "2": "slips",
+            "3": "slipped",
+            "4": "has slipped"
+          }
+        },
+        "6": {
+          "stem_plain": "_______________ the continual support from the villagers, the family is unable to make ends meet.",
+          "options": {
+            "1": "Amid",
+            "2": "Owing to",
+            "3": "In spite of",
+            "4": "With regard to"
+          }
+        },
+        "7": {
+          "stem_plain": "Mr Thomas was late for work as he had _______________ trouble starting his car this morning.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "8": {
+          "stem_plain": "The box of oranges _______________ by a customer yesterday. She complained that there were several rotten oranges inside it.",
+          "options": {
+            "1": "was returned",
+            "2": "were returned",
+            "3": "has been returned",
+            "4": "have been returned"
+          }
+        },
+        "9": {
+          "stem_plain": "\"He's never closed the shop before 6 p.m. in all his life, _______________?\" asked Peter.",
+          "options": {
+            "1": "did he",
+            "2": "has he",
+            "3": "didn't he",
+            "4": "hasn't he"
+          }
+        },
+        "10": {
+          "stem_plain": "\"Where _______________ the scissors that I left on the table just now?\" asked the art teacher.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "动词固定搭配与动名词 — Gerunds after Specific Verbs",
+          "note": "动名词用法。动词 <code>enjoy</code> 后面接动词时，必须使用动名词形式 <code>doing</code> 作为其宾语，故选 <code>interacting</code>。",
+          "zh": "贝拉的母亲喜欢在周末的早晨在公园里与邻居们互动。",
+          "answer": "3"
+        },
+        "2": {
+          "concept": "连词引导原因状语从句 — Conjunctions of Cause",
+          "zh": "既然音乐会取消了，主办方就把钱退给了我们。",
+          "note": "连词辨析。<code>Since</code> 在此用作连词，意为“既然/由于”，用来引出已知的原因，完美匹配音乐会取消与主办方退钱之间的因果逻辑。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "时间介词短语习惯搭配 — Prepositions of Time and Progress",
+          "zh": "比赛进行到十分钟时，一名球员因受重伤而被替换下场。",
+          "note": "介词搭配。短语结构 <code>[时间段] + into + [活动/赛事]</code> 是固定用法，表示某场比赛或活动“开始进行了多久/进入到第几分钟”，故选用 <code>into</code>。",
+          "answer": "1"
+        },
+        "4": {
+          "concept": "主从句时态呼应逻辑 — Tense Accordance in Concessive Clauses",
+          "zh": "尽管朱莉安娜最初有一些顾虑，但她现在已经同意按照我们的要求去做。",
+          "note": "动词时态。时间副词 <code>initially</code> 意为“最初/开始时”，明确提示了 <code>Although</code> 引导的让步状语从句描述的是过去的状态，因此必须使用一般过去时 <code>had</code>。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "感官动词的非谓语形式搭配 — Verbs of Perception",
+          "zh": "朱迪目睹了一个男孩把游戏卡偷偷溜进他的包里，于是她向店长报告了这件事。",
+          "note": "非谓语动词. <code>witness</code>（目击/目睹）作为感官动词，其后面的复合宾语结构为 <code>witness someone do / doing something</code>。选项中只有原形 <code>slip</code>符合语法规则。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "让步连词/介词短语逻辑辨析 — Prepositional Phrases of Concession",
+          "zh": "尽管有村民们的持续支持，这个家庭依然无法维持生计。",
+          "note": "逻辑关系。后文 <code>unable to make ends meet</code> 意为“无法维持生计”，这与前半句村民们的“持续支持（continual support）”在语意上形成了强烈的让步对比冲突，故选用表示“尽管/虽然”的 <code>In spite of</code>。",
+          "answer": "3"
+        },
+        "7": {
+          "concept": "不可数名词限定词修饰逻辑 — Quantifiers with Uncountable Nouns",
+          "zh": "托马斯先生今天早上上班迟到了，因为他启动汽车时遇到了很多麻烦。",
+          "note": "限定词与名词搭配。<code>trouble</code> 在此处为不可数名词，首先排除 <code>few</code> 和 <code>many</code>。根据因果关系，他迟到了（late for work）是因为遇到了“很多”麻烦，具备肯定强调逻辑，故选用 <code>much</code>。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "主谓一致与一般过去时被动语态 — Subject-Verb Agreement & Past Passive",
+          "zh": "那一箱橙子昨天被一位顾客退货了。她抱怨里面有几个烂橙子。",
+          "note": "主谓一致与时态。句子的主语核心词是单数名词 <code>The box</code>（那一箱），而不是介词短语里的复数 <code>oranges</code>，因此谓语必须用单数。结合时间状语 <code>yesterday</code>（昨天），应选用一般过去时的单数被动语态 <code>was returned</code>。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "反意疑问句（否定副词与完成时结构） — Tag Questions with Present Perfect",
+          "zh": "“他一生中从未在下午6点前关过店，对吗？”彼得问道。",
+          "note": "反意疑问句。前文 <code>He's never closed</code> 包含否定词 <code>never</code>，陈述部分为否定，故反意疑问部分需用肯定形式。同时前文的 <code>He's</code> 配合过去分词 <code>closed</code> 构成现在完成时（He has），因此对应的肯定助动词为 <code>has he</code>。",
+          "answer": "2"
+        },
+        "10": {
+          "concept": "复数名词形式与现在时态主谓一致 — Subject-Verb Agreement with Plural Nouns",
+          "zh": "“我刚才放在桌子上的剪刀在哪里？”美术老师问道。",
+          "note": "主谓一致。名词 <code>scissors</code>（剪刀）在英语中属于一类始终以复数形式出现的名词，其作主语时谓语动词必须使用复数形式。此句是在询问某物“现在”在哪里，故选用现在时复数 <code>are</code>。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The water in the pond was so _______________ that we could not see the fish clearly.",
+          "options": {
+            "1": "dim",
+            "2": "dull",
+            "3": "misty",
+            "4": "murky"
+          }
+        },
+        "12": {
+          "stem_plain": "His new restaurant _______________ because he had no idea how to run a business.",
+          "options": {
+            "1": "paid off",
+            "2": "sold out",
+            "3": "backed off",
+            "4": "went under"
+          }
+        },
+        "13": {
+          "stem_plain": "The singer performed with such emotional _______________ that we were all spellbound.",
+          "options": {
+            "1": "clarity",
+            "2": "density",
+            "3": "intensity",
+            "4": "specialty"
+          }
+        },
+        "14": {
+          "stem_plain": "My sister encourages me to read _______________ by sharing different types of books with us.",
+          "options": {
+            "1": "greatly",
+            "2": "extensively",
+            "3": "exceedingly",
+            "4": "tremendously"
+          }
+        },
+        "15": {
+          "stem_plain": "After trekking the entire day, the pupils could not wait to _______________ for the night.",
+          "options": {
+            "1": "retire",
+            "2": "revive",
+            "3": "retreat",
+            "4": "restore"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "note": "词义辨析。<code>murky</code> 专门用来形容液体（如池水、河水）因为含有泥沙而变得污浊、不透明，完美契合后文“无法看清池中的鱼”的语境。",
+          "concept": "特定名词修饰语境辨析 — Context-Specific Adjectives",
+          "zh": "池塘里的水太浑浊了，我们无法清晰地看到里面的鱼。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dim",
+              "zh": "昏暗的，微弱的；暗淡的（形容词，指光线不足、亮度极低导致看不清东西，或者引申指前景暗淡、记忆模糊不清）",
+              "eg": "We could barely read the words in our textbooks because the single bulb in the study room was too dim."
+            },
+            {
+              "opt": "2",
+              "word": "dull",
+              "zh": "沉闷的，无光泽的；不锋利的（形容词，指天气阴沉、颜色灰暗、人或生活单调无趣，或者指刀具、工具因长期使用而变钝）",
+              "eg": "The kitchen knife became completely dull after months of heavy use, making it impossible to slice the vegetables smoothly."
+            },
+            {
+              "opt": "3",
+              "word": "misty",
+              "zh": "多雾的，雾气朦胧的；模糊不清的（形容词，指空气中充斥着微小的水滴或薄雾，导致远处的景物或视线变得模糊遮挡）",
+              "eg": "The spectacular mountain view was totally misty early in the morning, hiding the valley beneath a thick layer of white fog."
+            },
+            {
+              "opt": "4",
+              "word": "murky",
+              "zh": "浑浊的，污浊不清的；阴暗幽深的（形容词，专门指江河、湖泊或池塘的水因为夹杂了大量泥沙、污垢而变得脏乱、不透明）",
+              "eg": "The once-crystal pool water quickly became murky after the heavy rainstorm washed loose soil and leaves into the open reservoir."
+            }
+          ]
+        },
+        "12": {
+          "concept": "高频动词短语辨析 — Phrasal Verbs for Business Context",
+          "note": "动词短语。后文提到 <code>had no idea how to run a business</code>（不知道如何经营生意）提示了负面结果。短语 <code>go under</code>（过去式为 <code>went under</code>）是商业语境中用于表示公司或店铺“破产、倒闭”的固定高频考点短语。",
+          "zh": "他的新餐厅倒闭了，因为他根本不知道该如何经营一门生意。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "paid off",
+              "zh": "取得成功，得到回报；还清债务（动词短语，指长期的努力、艰苦的付出或某种冒险的计划最终换来了满意的结果，或者指彻底付清所有欠款）",
+              "eg": "All her hard work and sleepless nights of revision finally paid off when she passed the national examinations with perfect grades."
+            },
+            {
+              "opt": "2",
+              "word": "sold out",
+              "zh": "售罄，售光；背叛原则（动词短语，指商店的商品、演出的门票或特定货物全部卖完，亦可贬义指为了金钱或个人利益而背叛原有的原则）",
+              "eg": "The organizers announced that the admission tickets for the charity concert were completely sold out within thirty minutes of release."
+            },
+            {
+              "opt": "3",
+              "word": "backed off",
+              "zh": "退让，后退；不再咄咄逼人（动词短语，指为了避免冲突、危险或在承受压力时选择身体往后退，或者在态度上不再强硬、放弃指责）",
+              "eg": "When the large stray dog began to bark aggressively, the alert postman slowly backed off and moved toward his delivery van."
+            },
+            {
+              "opt": "4",
+              "word": "went under",
+              "zh": "（企业、公司等）破产，倒闭；下沉（动词短语，指商业机构由于严重的财务危机、严重亏损而无法生存最终关闭，或者指船只沉没、人失去意识）",
+              "eg": "Many independent small retail shops unfortunately went under during the global economic crisis due to soaring rental expenses."
+            }
+          ]
+        },
+        "13": {
+          "concept": "抽象名词语境与搭配辨析 — Abstract Noun Selection",
+          "note": "名词辨析。后文 <code>spellbound</code> 意为“听得入迷/着魔”，表示演出具有极强的震撼力。搭配 <code>emotional intensity</code> 意为“强烈的情感/情感强度”，完美符合用来形容艺术表演极具张力和感染力的语境。",
+          "zh": "这位歌手的演唱充满了强烈的情感感染力，令我们所有人都听得入迷了。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "clarity",
+              "zh": "清晰，明确；清澈度（名词，指说话、表达或思维条理极其分明，让人毫无疑问地完全听懂、看懂，或者形容水、玻璃等高度透明）",
+              "eg": "The teacher explained the complex physics theory with such exceptional clarity that every student in the lecture hall understood it instantly."
+            },
+            {
+              "opt": "2",
+              "word": "density",
+              "zh": "密度，浓度（名词，指在特定的空间、面积或体积内，所包含的物体、物质、人口或像素的数量密集程度）",
+              "eg": "The urban planners noted that the population density in this megacity is extremely high, causing heavy strain on public transport systems."
+            },
+            {
+              "opt": "3",
+              "word": "intensity",
+              "zh": "强烈，剧烈；强度（名词，指光线、声音、热量或某种自然力量的强弱程度，也经常专门用于形容情感、欲望或痛苦等极为强烈、富有极深的感染力）",
+              "eg": "The award-winning actress delivered her final monologue with such intense emotional intensity that it moved many members of the audience to tears."
+            },
+            {
+              "opt": "4",
+              "word": "specialty",
+              "zh": "专业，专长；特色菜，特产（名词，指某人经过长期训练最擅长、最精通的特定技能或业务领域，或者指某家餐厅、地区最著名的标志性产品）",
+              "eg": "Baking delicate French pastries and designing custom wedding cakes has been the executive chef's professional specialty for over a decade."
+            }
+          ]
+        },
+        "14": {
+          "concept": "特定动词副词固定习惯搭配 — Adverbial Collocations with 'Read'",
+          "note": "副词搭配。后文明确提到了 <code>sharing different types of books</code>（分享不同类型的书籍），表示阅读的范围极广。在英语特定搭配中，修饰 <code>read</code> 表达“广泛阅读/涉猎各种书籍”最纯正地道的副词就是 <code>extensively</code>。",
+          "zh": "我的姐姐/妹妹通过与我分享不同类型的书籍，鼓励我进行广泛的阅读。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "greatly",
+              "zh": "大大地；非常（通常用来修饰影响、改变、改善或增加等动词）",
+              "eg": "The new scheme will <strong>greatly</strong> benefit the local community."
+            },
+            {
+              "opt": "2",
+              "word": "extensively",
+              "zh": "广泛地（固定搭配 read extensively 意为“广泛涉猎/博览群书”）",
+              "eg": "To improve your vocabulary, you need to read <strong>extensively</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "exceedingly",
+              "zh": "极其；非常（通常作为程度副词直接修饰形容词或副词）",
+              "eg": "The exam questions were <strong>exceedingly</strong> difficult to answer."
+            },
+            {
+              "opt": "4",
+              "word": "tremendously",
+              "zh": "极大地；非常地（用于表示程度或数量的巨大，如极大地享受、喜欢）",
+              "eg": "Thank you very much, I enjoyed the performance <strong>tremendously</strong>."
+            }
+          ]
+        },
+        "15": {
+          "concept": "动词一词多义与固定书面表达 — Formally Stylized Verbs",
+          "note": "一词多义。<code>retire</code> 除了最常用的“退休”之外，在文学书面语及各类英语权威考试中，常构成高频特定短语 <code>retire for the night / retire to bed</code>，意为“上床睡觉/就寝休息”。前文提到学生徒步整天极其疲惫（trekking the entire day），这里正需要表达他们渴望在夜间就寝休息。",
+          "zh": "在徒步旅行了一整天之后，学生们迫不及待地想去睡觉休息了。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "retire",
+              "zh": "退休；就寝，去睡觉休息（动词，指因达到一定年龄而停止全职工作，亦可作为高级文雅语，形容在劳累了一天之后回房上床睡觉、休息）",
+              "eg": "After a long and thoroughly exhausting day of managing the corporate event, she decided to retire early for the night."
+            },
+            {
+              "opt": "2",
+              "word": "revive",
+              "zh": "使苏醒，恢复意识；重振，复兴（动词，指使昏迷、疲惫或濒临死亡的人或植物重新恢复生命力、神智或活力，或者让过时的习俗、戏剧重新流行）",
+              "eg": "A sudden splash of cold spring water on his face helped to revive the collapsed hiker before the paramedics arrived."
+            },
+            {
+              "opt": "3",
+              "word": "retreat",
+              "zh": "撤退，退却；退隐，躲避（动词，指军队在战斗中因为不敌对手而向后撤离，或者指个人为了逃避喧嚣、寻找清静而前往安静的场所）",
+              "eg": "The frontline army was forced to retreat to their base after losing a significant number of soldiers in the heavy crossfire."
+            },
+            {
+              "opt": "4",
+              "word": "restore",
+              "zh": "修复，恢复原状；归还（动词，指将破损的建筑物、艺术品或中断的公共服务彻底修好并使其恢复到最初的良好状态，或者重新恢复法律与秩序）",
+              "eg": "The maintenance workers managed to restore the disrupted power supply quickly after the fallen tree branch was cleared from the cables."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "feasting my eyes on",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "relishing",
+            "2": "capturing",
+            "3": "observing",
+            "4": "discovering"
+          }
+        },
+        "17": {
+          "stem_plain": "had second thoughts",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fussed",
+            "2": "hesitated",
+            "3": "pondered",
+            "4": "wondered"
+          }
+        },
+        "18": {
+          "stem_plain": "elegantly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "lightly",
+            "2": "steadily",
+            "3": "gradually",
+            "4": "gracefully"
+          }
+        },
+        "19": {
+          "stem_plain": "characteristic",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "regular",
+            "2": "particular",
+            "3": "distinctive",
+            "4": "significant"
+          }
+        },
+        "20": {
+          "stem_plain": "exasperation",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "distress",
+            "2": "frustration",
+            "3": "harassment",
+            "4": "dissatisfaction"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "高频成语/短语动词同义词辨析 — Idiomatic Expressions",
+          "note": "短语 feasting my eyes on 意为“大饱眼福/尽情欣赏”，指的是带着极大的愉悦和享受去观看。在选项中，动词 relishing 意为“尽情享受/饱尝”，与其在语境和情感色彩上最为接近。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "relishing",
+              "zh": "尽情享受，沉浸于，滋味",
+              "eg": "The tourists spent hours relishing every beautiful second of the sunset over the deep sea."
+            },
+            {
+              "opt": "2",
+              "word": "capturing",
+              "zh": "捕获，捕捉，拍摄（照片/画面等）",
+              "eg": "The professional photographer focused his lens, successfully capturing the bird in mid-air."
+            },
+            {
+              "opt": "3",
+              "word": "observing",
+              "zh": "观察，注意到，遵守（法律/规则）",
+              "eg": "The research group stayed in the forest for weeks, closely observing the behavior of rare monkeys."
+            },
+            {
+              "opt": "4",
+              "word": "discovering",
+              "zh": "发现，发掘，发觉",
+              "eg": "The young explorers walked through the narrow pathway, eventually discovering a hidden stone cave."
+            }
+          ]
+        },
+        "17": {
+          "concept": "常用习语同义词选择 — Contextual Synonyms",
+          "note": "习语 had second thoughts 意为“产生动摇/改变主意/犹豫不决”。语境中指大家一听到有虎鲸，没有半点“犹豫”就丢下碗筷冲向甲板，故其直接同义词为 hesitated。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fussed",
+              "zh": "瞎操心，大惊小怪，（为小事）烦恼",
+              "eg": "The grandmother always fussed over her grandchildren's diet, ensuring they ate fresh vegetables."
+            },
+            {
+              "opt": "2",
+              "word": "hesitated",
+              "zh": "犹豫，迟疑，顾虑",
+              "eg": "She hesitated for a split second before stepping forward to voice her core opinions to the board."
+            },
+            {
+              "opt": "3",
+              "word": "pondered",
+              "zh": "深思，仔细考虑，琢磨",
+              "eg": "The manager sat alone in his office and pondered over the complex business offer for hours."
+            },
+            {
+              "opt": "4",
+              "word": "wondered",
+              "zh": "纳闷，想知道，感到惊奇",
+              "eg": "The pupils wondered why the school lab remained locked during the outdoor training session."
+            }
+          ]
+        },
+        "18": {
+          "concept": "副词近义词语义匹配 — Adverbial Semantics",
+          "note": "副词 elegantly 意为“优雅地/高雅地”，常用来形容动作形态非常优美。在修饰鲸鱼破水而出的流畅、优美动作时，最完美的同义词替换为 gracefully（优美地/雅致地）。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lightly",
+              "zh": "轻微地，轻轻地，轻松地",
+              "eg": "The autumn leaves drifted down and landed lightly on the surface of the quiet pond."
+            },
+            {
+              "opt": "2",
+              "word": "steadily",
+              "zh": "稳定地，持续地，稳固地",
+              "eg": "The economic report indicated that the firm's overseas sales had been rising steadily all year."
+            },
+            {
+              "opt": "3",
+              "word": "gradually",
+              "zh": "逐渐地，逐步地",
+              "eg": "The dark clouds cleared up and the volatile water temperature gradually became warmer."
+            },
+            {
+              "opt": "4",
+              "word": "gracefully",
+              "zh": "优美地，优雅地，雅致地",
+              "eg": "The dolphins leapt out of the ocean, moving gracefully across the glittering surface of the water."
+            }
+          ]
+        },
+        "19": {
+          "concept": "形容词特征辨析与替换 — Classifying Adjectives",
+          "note": "形容词 characteristic 意为“特有的/典型的”，用来指代某人或某物独一无二、一眼就能认出的标志性特征。虎鲸特有的黑白斑纹属于它的标志性外观，故选 distinctive（独特的/有特色的）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "regular",
+              "zh": "规律的，定期的，平平常常的",
+              "eg": "The primary school teacher reminded the pupils to keep a regular sleep routine during holidays."
+            },
+            {
+              "opt": "2",
+              "word": "particular",
+              "zh": "特定的，特殊的，挑剔的",
+              "eg": "The supervisor demanded that this particular workshop layout be double-checked by tonight."
+            },
+            {
+              "opt": "3",
+              "word": "distinctive",
+              "zh": "独特的，显眼的，有特色的，标志性的",
+              "eg": "The rare tropical bird features a distinctive bright blue feather pattern around its neck."
+            },
+            {
+              "opt": "4",
+              "word": "significant",
+              "zh": "显着的，重要的，意义深远的",
+              "eg": "Regular physical training played a significant part in elevating her overall fitness levels."
+            }
+          ]
+        },
+        "20": {
+          "concept": "心理情感名词近义词选择 — Abstract Nouns for Emotions",
+          "note": "名词 exasperation 意为“极其恼怒/极度沮丧”。文中作者在最想拍照的瞬间发现相机没电了，这种由于客观阻碍导致无法达成目的而产生的无力感与愤怒感，在英文核心词汇中等同于 frustration（挫败/沮丧）。",
+          "zh": "",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "distress",
+              "zh": "极度痛苦，忧虑，悲伤",
+              "eg": "The local residents expressed immense distress after receiving the shocking news of the flood."
+            },
+            {
+              "opt": "2",
+              "word": "frustration",
+              "zh": "挫败，沮丧，懊恼",
+              "eg": "The engineer let out a sigh of pure frustration when the laptop system crashed yet again."
+            },
+            {
+              "opt": "3",
+              "word": "harassment",
+              "zh": "骚扰，折磨",
+              "eg": "The tech company layout enforces strict operating policies to forbid any form of workplace harassment."
+            },
+            {
+              "opt": "4",
+              "word": "dissatisfaction",
+              "zh": "不满，不满足",
+              "eg": "The survey results clearly showed deep customer dissatisfaction with the store's slow counter service."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "\"Ladies and gentlemen, we have spotted a pod of killer whales in front of our cruise ship,\" the captain announced halfway through lunch.",
+          "I was on the trip of a lifetime, [Q16 (feasting my eyes on)] the wilderness of Alaska on a cruise. The announcement came during lunch time, but no one [Q17 (had second thoughts)] about leaving lunch behind. Like other excited passengers, I grabbed my camera and dashed to the deck.",
+          "I watched closely as eight killer whales glided through the water right before my eyes, taking turns to [Q18 (elegantly)] break the water surface to display their [Q19 (characteristic)] black and white colours. I was about to take photographs when I discovered that my camera battery had gone flat. I threw my hands up in [Q20 (exasperation)]. There was nothing I could do but watch the majestic creatures. I hoped to get another sighting of the killer whales during the trip."
+        ],
+        "zh": [
+          "“女士们、先生们，我们在游轮前方发现了一群虎鲸，”船长在午餐进行到一半时宣布道。",
+          "我正享受着一生中难得一次的旅行，在游轮上大饱眼福地欣赏着阿拉斯加的荒野。这个通知是在午餐时间传来的，但没有一个人犹豫不决地去顾虑丢下吃到一半的午餐。和其他兴奋的乘客一样，我抓起相机冲向了甲板。",
+          "我紧紧地注视着八只虎鲸就在我眼前滑过水面，它们轮流优雅地破水而出，展示它们独特的黑白相间的颜色。我正准备拍照，却发现我的相机电池没电了。我极其恼怒地摊开双手。除了看着这些雄伟的生物，我无能为力。我希望在旅途中能再次看到虎鲸的踪迹。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "concept": "PSLE sample",
+          "note": "<p><em>Dummy PSLE sample paper — content placeholder. Replace with real items when ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "as",
+          "B": "at",
+          "C": "being",
+          "D": "for",
+          "E": "having",
+          "F": "into",
+          "G": "must",
+          "H": "onto",
+          "J": "since",
+          "K": "towards",
+          "L": "was",
+          "M": "were",
+          "N": "where",
+          "P": "which",
+          "Q": "yet"
+        },
+        "cloze": [
+          "Located on the continent of Antarctica, the South Pole is one of the coldest places on Earth. Many have attempted to reach the South Pole ever [Q29] the first man, Roald Amundsen, did so in 1911.",
+          "In Singapore, some adventurers had a grand plan to go on an Antarctica quest after [Q30] scaled Mount Everest in 1998. The quest comprised two groups who aimed to reach two different destinations in Antarctica on 1 January 2000 [Q31] part of the nation's millennium celebrations. One group would trek to the South Pole while the other would ascend the highest point over there.",
+          "The groups' preparations included a trip to Greenland in [Q32] they received intensive training. To prepare [Q33] the long period of physical exertion, every member in both groups [Q34] expected to follow a special diet to gain weight.",
+          "On 4 November 1999, the first group arrived [Q35] the base camp in Antarctica. For such a quest, each member [Q36] lug supplies weighing nearly 90 kilogrammes. Their perseverance was rewarded when they reached the South Pole one day before the year turned 2000. The second group was delayed due to bad weather, [Q37] they managed to reach the highest peak in Antarctica on 7 January.",
+          "Both groups returned to Singapore a week later. At the airport, well-wishers erupted [Q38] cheers the moment both groups appeared at the arrival hall. Their loved ones were visibly relieved and definitely proud of their success."
+        ],
+        "zh": [
+          "南极点位于南极洲大陆，是地球上最寒冷的地方之一。自1911年第一人罗尔德·阿蒙森成功抵达南极点以来，许多人都曾尝试前往那里。",
+          "在新加坡，一些探险家在1998年攀登完珠穆朗玛峰后，有了一个前往南极探险的宏伟计划。这项探险由两个小组组成，他们的目标是在2000年1月1日抵达南极洲的两个不同目的地，作为该国千禧年庆祝活动的一部分。一组将徒步前往南极点，而另一组将攀登那里的最高点。",
+          "这些小组的准备工作包括前往格陵兰岛的旅行，在那里他们接受了高强度的训练。为了应对长期体能消耗做准备，两个小组的每一位成员都被要求遵循特殊的饮食以增加体重。",
+          "1999年11月4日，第一组抵达了南极洲的大本营。对于这样一次探险，每位成员都必须携带重达近90公斤的物资。在2000年到来的前一天，他们到达了南极点，他们的坚持得到了回报。第二组由于恶劣的天气而延误，然而他们成功在1月7日登上了南极洲的最高峰。",
+          "两组人于一周后返回新加坡。在机场，两个小组一出现在接机大厅，前来祝福的人群中就爆发出了欢呼声。他们的挚爱亲朋显然松了一口气，并绝对为他们的成功感到自豪。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "固定习惯搭配副词 — Adverbial Idioms",
+          "note": "使用介词/连词 <code>since</code>（对应字母 J）与前面的 <code>ever</code> 连用，构成时间短语 <code>ever since</code>，意为“自……以来”。",
+          "answer": "J"
+        },
+        "30": {
+          "concept": "现在分词完成式充当状语 — Perfect Participle Clauses",
+          "note": "使用现在分词完成式 <code>having</code>（对应字母 E）与过去分词 <code>scaled</code> 构成 <code>having scaled...</code> 结构，充当介词 <code>after</code> 的宾语，用以指代动作已经完全发生并结束。",
+          "answer": "E"
+        },
+        "31": {
+          "concept": "介词表身份/职能 — Prepositions of Function",
+          "note": "选用介词 <code>as</code>（对应字母 A），在此处意为“作为”，用以表明这次极地探险是千禧年国家级庆祝活动的一个组成部分。",
+          "answer": "A"
+        },
+        "32": {
+          "concept": "介词后接关系代词引导定语从句 — Preposition + Relative Pronouns",
+          "note": "在介词 <code>in</code> 后面必须使用关系代词 <code>which</code>（对应字母 P）构成介词短语 <code>in which</code>（意为“在其中/在格陵兰岛上”），用以引导后面的定语从句。",
+          "answer": "P"
+        },
+        "33": {
+          "concept": "动词与介词特定搭配 — Verb-Preposition Collocation",
+          "note": "固定短语搭配。英语中表达“为……做准备”需要使用固定结构 <code>prepare for something</code>，故此处填入 <code>for</code>（对应字母 D）。",
+          "answer": "D"
+        },
+        "34": {
+          "concept": "一般过去时被动语态与主谓一致 — Subject-Verb Agreement & Past Passive",
+          "note": "主语为单数不定代词短语 <code>every member</code>（每一位成员），谓语动词需要使用单数。结合全文过去发生的时间背景，选用过去式系动词 <code>was</code>（对应字母 L）构成被动语态。",
+          "answer": "L"
+        },
+        "35": {
+          "concept": "地点介词特定搭配 — Prepositions of Location",
+          "note": "属于高频地点介词用法。在表达抵达某一个特定的狭小地点、营地、车站时，常用搭配为 <code>arrive at + 地点</code>，故选 <code>at</code>（对应字母 B）。",
+          "answer": "B"
+        },
+        "36": {
+          "concept": "情态动词表客观必要性 — Modal Verbs",
+          "note": "后文承接动词原形 <code>lug</code>（拖/拉重物）。根据客观严酷的环境语境，每位成员“必须”携带近90公斤的物资，故选情态动词 <code>must</code>（对应字母 G）。",
+          "answer": "G"
+        },
+        "37": {
+          "concept": "转折连词 — Conjunctions of Contrast",
+          "note": "连词 <code>yet</code>（对应字母 Q）用于表示两个分句之间的对比与转折。虽然由于恶劣天气受到延误，然而他们最终成功登顶。",
+          "answer": "Q"
+        },
+        "38": {
+          "concept": "介词表状态改变 — Prepositions of Change",
+          "note": "介词 <code>into</code>（对应字母 F）在此处与动词 <code>erupted</code> 结合构成 <code>erupt into cheers</code>，用来表达人群的状态突然转变为爆发欢呼声。",
+          "answer": "F"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Omar had taken his new boat out to sea. He felt a sense of [Q39(exzilerashion)] as the boat cruised along, with the wind on his face. Little did he [Q40(realises)] the danger awaiting him. Suddenly, the engine died. Omar was stranded at sea, so he had to survive on a [Q41(mizerebel)] amount of food and water. Prolonged sun [Q42(expose)] caused him to be badly sunburned. Even the [Q43(gentle)] touch of his skin made him [Q44(grimerse)] in pain. What was more worrying was that he was drifting in and out of [Q45(conshousness.)]",
+          "When Omar did not return after two days, his family made a police report. The police launched a search for him but to no [Q46(ervale.)] As time ticked away, everyone became [Q47(pesimistig)] about finding him alive.",
+          "The following week, a fishing boat was sailing at sea when its crew saw a boat on the horizon. Reducing speed, they sailed past it [Q48(wary)] as there had been reports of fishing boats [Q49(become)] targets of pirate attacks. The crew was [Q50(stun)] when they spotted a weak man inside it. Omar was rescued at last."
+        ],
+        "zh": [
+          "奥马尔带着他的新船出海了。当船在海面上巡航、微风拂面时，他感到一种极度兴奋（狂喜）。他一点也没有意识到危险正等待着他。突然，引擎熄火了。奥马尔被困在海面上，因此他不得不依靠极少（可怜）的水和食物来维持生命。长时间的阳光暴晒导致他严重晒伤。甚至对皮肤的轻微触碰都让他痛苦地龇牙咧嘴（面部扭曲）。更令人担忧的是，他开始陷入半昏迷（意识断断续续）的状态。",
+          "当奥马尔两天后还没有回来时，他的家人报了警。警方展开了对他的搜寻，但徒劳无功（毫无成效）。随着时间一分一秒流逝，每个人对于能找到活着的他都变得悲观起来。",
+          "接下来的那一周，一艘渔船在海上航行时，船员们看到地平线上有一艘船。他们减慢了速度，警惕地从它身边驶过，因为此前有报道称渔船成为了海盗袭击的目标。当船员们发现里面有一个虚弱的男人时，他们惊呆了。奥马尔最终获救了。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>exzilerashion</em> 改正为正确的名词 <em>exhilaration</em>（狂喜/极度兴奋）。",
+          "answer": "exhilaration"
+        },
+        "40": {
+          "concept": "否定倒装句中的谓语动词原形 — Base Form after Inversion",
+          "note": "由于半否定副词短语 <code>Little did he</code> 置于句首引起了助动词提前的部分倒装，助动词 <code>did</code> 后面必须承接动词原形，故将 <code>realises</code> 改为 <code>realise</code>。",
+          "answer": "realise"
+        },
+        "41": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>mizerebel</em> 改正为正确的形容词 <em>miserable</em>（少得可怜的/悲惨的）。",
+          "answer": "miserable"
+        },
+        "42": {
+          "concept": "词性转换 — Verb to Noun",
+          "note": "此处需要使用名词形式 <code>exposure</code> 与前面的 <code>sun</code> 组合构成复合名词短语 <code>sun exposure</code>（阳光暴晒），作为整句话的主语。",
+          "answer": "exposure"
+        },
+        "43": {
+          "concept": "形容词最高级用法 — Superlative Adjectives",
+          "note": "根据后文晒伤极其严重的语境，哪怕是“最轻微、最温柔的”触碰都会引发剧痛，且前面有定冠词 <code>the</code>，故将 <code>gentle</code> 改为最高级 <code>gentlest</code>。",
+          "answer": "gentlest"
+        },
+        "44": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>grimerse</em> 改正为正确的动词原形 <em>grimace</em>（因痛苦而龇牙咧嘴/面部扭曲）。",
+          "answer": "grimace"
+        },
+        "45": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>conshousness</em> 改正为正确的不可数名词 <em>consciousness</em>（意识/神志）。",
+          "answer": "consciousness"
+        },
+        "46": {
+          "concept": "拼写错误与固定搭配 — Spelling in Fixed Idioms",
+          "note": "固定短语 <code>but to no avail</code> 意为“但徒劳无功/毫无效果”。因此将错误拼写 <em>ervale</em> 改正为正确的名词 <em>avail</em>。",
+          "answer": "avail"
+        },
+        "47": {
+          "concept": "拼写错误 — Spelling Error",
+          "note": "将错误拼写 <em>pesimistig</em> 改正为正确的形容词 <em>pessimistic</em>（悲观的），在系动词后面作表语。",
+          "answer": "pessimistic"
+        },
+        "48": {
+          "concept": "词性转换 — Adjective to Adverb",
+          "note": "此处用来修饰动词短语 <code>sailed past it</code>（从它身边驶过）的方式与状态。应当使用副词形式 <code>warily</code>（警惕地/小心翼翼地），不能使用形容词形式 <code>wary</code>。",
+          "answer": "warily"
+        },
+        "49": {
+          "concept": "现在分词形式充当介词宾语 — Present Participle after Prepositions",
+          "note": "在介词 <code>of</code> 后面接动词短语时，需要将其转化为现在分词（动名词）形式 <code>becoming</code>，用以描述在特定时间点正在持续发生的客观社会状况。",
+          "answer": "becoming"
+        },
+        "50": {
+          "concept": "词性与被动分词原形转化 — Participle as Adjective",
+          "note": "此处在系动词 <code>was</code> 后面充当表语，用以形容船员们目睹极度虚弱的人时内心受到的极大震撼，应使用过去分词形式的形容词 <code>stunned</code>（惊呆的/震惊的）。",
+          "answer": "stunned"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Where can you buy fresh produce without increasing your grocery bill? Ask any Singaporean and they are likely to [Q51] you to a wet market. Wet markets are [Q52] as such because the floors there are often wet. This can be caused by the melting of ice used to keep seafood fresh and the regular cleaning of stalls.",
+          "_______ of the wet floors and mix of smells, people still go there for their [Q53] regular grocery shopping. As most wet markets begin operations way [Q54] sunrise, those people who want to buy the freshest produce will wake up very early and [Q55] their way there to buy groceries.",
+          "You may think the air-conditioned supermarkets with their conducive environment will eventually [Q56] wet markets. However, there are a few reasons why people have a [Q57] for wet markets over supermarkets even though the latter are cleaner and more comfortable. For a [Q58], freshness is guaranteed with vegetables and meats delivered straight from the farms. Secondly, [Q59] you have built a rapport with the stallholders, they may give you [Q60] vegetables or meats when you buy from them.",
+          "You can also [Q61] up with friends and neighbours who are there for grocery shopping. The stallholders or other shoppers may share [Q62] for preparing some popular local dishes with you.",
+          "There is a sense of [Q63] to the community as people of different races gather in wet markets to buy groceries. These are also places where they share jokes, chat, and [Q64] with one another. For these reasons, wet markets will provide you with an [Q65] to experience a part of Singapore's culture.",
+          "So, roll up your trouser cuffs, slip on sensible shoes and go shop at a wet market."
+        ],
+        "zh": [
+          "你在哪里可以买到新鲜农产品而又不会增加你的杂货账单？询问任何新加坡人，他们很可能会把你引向菜市场。菜市场之所以被称为“湿巴刹”，是因为那里的地面经常是湿的。这可能是由于用来保持海鲜新鲜的冰块融化以及摊位的定期清洗造成的。",
+          "尽管地面潮湿且气味混杂，人们仍然去那里进行定期的杂货采购。由于大多数菜市场在日出前很久就结束或开始营业，那些想要买到最新鲜农产品的人会起得非常早，并赶路前往那里购买杂货。",
+          "你可能会认为环境舒适的空调超市最终会取代菜市场。然而，尽管后者更干净、更舒适，人们更偏爱菜市场而不是超市还是有几个原因的。首先，由于蔬菜和肉类直接从农场运来，新鲜度得到了保证。其次，一旦你与摊主建立了融洽的关系，当你向他们购买时，他们可能会给你多余的蔬菜或肉类。",
+          "你还可以和同样在那里买菜的朋友和邻居碰面。摊主或其他购物者可能会与你分享制作一些受欢迎的本地菜肴的诀窍。",
+          "由于不同种族的人聚集在菜市场购买杂货，这给社区带来了一种归属感。在这里，他们也互相开玩笑、聊天和互动。由于这些原因，菜市场将为你提供一个体验新加坡文化一部分的机会。",
+          "所以，卷起你的裤脚，穿上合适的鞋子，去菜市场购物吧。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "动词与句型固定搭配",
+          "note": "构成经典固定句式 be likely to do something。指新加坡人很可能会把你“指引（direct）”、“介绍（introduce）”或“推荐（point/refer）”到湿巴刹（巴刹）。填入 point 需与后面的 to 组成 point you to 结构。",
+          "answer": "direct/point/introduce/refer"
+        },
+        "52": {
+          "concept": "被动语态动词语意",
+          "note": "前面有系动词 are，后面接过去分词构成被动语态。指它们之所以被“称作（called/known/named）”或“冠以”这个名字，是因为里面的地面总是湿漉漉的。",
+          "answer": "called/known/named"
+        },
+        "53": {
+          "concept": "让步转折逻辑复合介词",
+          "note": "后接介词短语 of the wet floors。结合后文“人们依然会去那里买菜”的转折，说明此处填入 Regardless 或 In spite 构成 Regardless of / In spite of 结构，表示“尽管/不管”地面潮湿仍坚持前往。位于句首需大写。",
+          "answer": "Regardless/In"
+        },
+        "54": {
+          "concept": "时间比较级/介词搭配",
+          "note": "修饰时间名词 sunrise（日出），且前有程度修饰副词 way。指绝大多数湿巴刹在天亮、日出“之前（before）”或者是“提早于（ahead）”日出很久就已经开始营业了。",
+          "answer": "before/ahead"
+        },
+        "55": {
+          "concept": "短语动词固定搭配",
+          "note": "与后面的代词物主结构 their way there 完美组合。构成在各大主流名校考卷中极高频重复考核的经典移动专属习语 make their way to...，意为“前往/赶路去往”某特定地点。",
+          "answer": "make"
+        },
+        "56": {
+          "concept": "未来预测动词语意形式",
+          "note": "前面有情态动词 will 极其副词 eventually，后面接动词原形。指有些人可能会误以为设备先进的冷气超市未来会全面“取代”、“接管”或“消灭”传统的湿巴刹，故填 replace / takeover / eliminate。",
+          "answer": "replace/takeover/eliminate"
+        },
+        "57": {
+          "concept": "名词与介词固定搭配",
+          "note": "后面紧跟介词 for... over... 组合。构成在各类对比议论文中极高频考查的经典倾向性专属句式 have a preference for A over B（或者有喜爱感 have a liking/love/passion for），意为相比于超市，人们往往更“偏爱”湿巴刹。",
+          "answer": "preference/liking/love/passion"
+        },
+        "58": {
+          "concept": "举例说明固定习惯搭配",
+          "note": "与其前置的介词 For a 完美结合。在此处用于引出并列排序的第一点原因。完美契合高频常考的经典序数列举短语 For a start 或者是 For a beginning，表示“首先/第一点”。原答案表中列出的 change 为个别校方答案对“换换口味图个新鲜”的解型拓展，备考以 start 最佳。",
+          "answer": "start/change/beginning"
+        },
+        "59": {
+          "concept": "连词引导条件状语从句",
+          "note": "引导时间与条件从句。后文提到摊主会大方地多送蔬菜肉类，前提是建立在熟络的人际关系之上。填入 Once / When / Whenever 表示“一旦/当……时”，如果视作纯假设条件，填入 If 亦完全通顺。位于句首需大写。",
+          "answer": "Once/When/Whenever/If"
+        },
+        "60": {
+          "concept": "数量形容词修饰语境",
+          "note": "修饰不可数名词/复数名词 vegetables or meats。指一旦大家和摊主熟络、建立了深厚情谊（built a rapport），买菜时对方往往会慷慨地多塞给你一些“额外的”、“更多的”或“免费的”小福利，故填 extra / more / free / additional。",
+          "answer": "extra/more/free/additional"
+        },
+        "61": {
+          "concept": "短语动词固定搭配",
+          "note": "前面有情态动词 can also，后面接动词原形。与后面的副词 up 极其介词 with 完美组合，构成社交聚会专属的高频特定短语 meet up with 或者是 catch up with，表示在巴刹顺便和朋友邻居“碰面/聚聚/叙旧”。",
+          "answer": "meet/catch"
+        },
+        "62": {
+          "concept": "名词语意与场景呼应",
+          "note": "作为动词 share 的核心宾语。后文紧跟动词不定式结构 for preparing some popular local dishes（制作本地特色美食）。在探讨厨房与烹饪的特定语境下，大家乐于互相分享的必然是“食谱”、“诀窍”或“方法”，故填复数名词 recipes / methods / ways / tips / instructions。",
+          "answer": "recipes/methods/ways/tips/instructions"
+        },
+        "63": {
+          "concept": "高频抽象名词固定习惯搭配",
+          "note": "由定冠词/不定冠词结构 a sense of 引导修饰。后接介词短语 to the community。结合后文对不同种族共同参与的描写，完美契合心理认同高频专属习语 a sense of belonging（归属感）或者是 a sense of connection（连接感/凝聚力）。",
+          "answer": "belonging/connection"
+        },
+        "64": {
+          "concept": "并列动词成分平行",
+          "note": "与前面的并列动词短语 share jokes（开玩笑）、chat（聊天）通过并列连词 and 保持平行的动词原形结构。用来共同勾勒出各族居民在巴刹热烈互动交际的图景，故填 interact / mingle / socialise / bond / connect / talk。",
+          "answer": "interact/mingle/socialise/bond/connect/talk"
+        },
+        "65": {
+          "concept": "名词与不定式固定句型形式",
+          "note": "前面有不定冠词 an（提示后接元音开头的名词），后面接不定式符号 to experience...。完美契合高频能力句型 provide you with an opportunity 或者是 opening / avenue，意为为你提供了一个去亲身体验新加坡特色传统文化的绝佳“机会”。",
+          "answer": "opportunity/opening/avenue"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Max asked his sister, \"Have you collected our tickets to the zoo?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Max asked his sister whether __________"
+        },
+        "67": {
+          "stem_plain": "Jane wanted to complete her work. She did not want to go out.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Jane would rather __________"
+        },
+        "68": {
+          "stem_plain": "Vasanthi lost her mobile phone. She reported it to the police.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Vasanthi reported the __________"
+        },
+        "69": {
+          "stem_plain": "The diver adjusted his goggles slightly before entering the water.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The diver made __________"
+        },
+        "70": {
+          "stem_plain": "The meeting concluded only in the evening.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The meeting came __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "直接引语转间接引语 — Direct to Indirect Speech (General Question)",
+          "note": "一般疑问句变间接引语：用 <code>whether</code> 引导；人称 <code>you</code> 变 <code>she</code>，<code>our</code> 变 <code>their</code>；时态由现在完成时向前推移为过去完成时 <code>had collected</code>。",
+          "explanation": "<p>When changing an interactive yes/no question into indirect speech, introduce it with <em>whether</em> or <em>if</em>. Change the pronouns (<em>you</em> to <em>she</em>, <em>our</em> to <em>their</em>) and backshift the tense from present perfect (<em>Have collected</em>) to past perfect (<em>had collected</em>).</p>",
+          "zh": "马克斯问他的姐姐/妹妹她是否已经拿了他们去动物园的门票。",
+          "answer": "Max asked his sister whether she had collected their tickets to the zoo."
+        },
+        "67": {
+          "concept": "宁愿……也不愿……句型 — Preference using 'would rather ... than ...'",
+          "explanation": "<p>The formula <em>would rather do A than do B</em> is used to show preference. Both actions must follow the base form of the verb after <em>would rather</em> and <em>than</em>.</p>",
+          "zh": "简宁愿完成她的工作，也不想出去。",
+          "note": "核心考点 <code>would rather + 动词原形 (complete) + than + 动词原形 (go)</code>。注意要去掉原句表示意愿的 <code>wanted to / did not want to</code>，且 <code>than</code> 后面直接承接否定原句中想要拒绝的动作。",
+          "answer": "Jane would rather complete her work than go out."
+        },
+        "68": {
+          "concept": "词性转换与名词短语处理 — Verb to Noun Transformation",
+          "explanation": "<p>Convert the verb <em>lost</em> into its noun form <em>loss</em> to follow the definite article <em>the</em>, creating a comprehensive noun phrase object for the verb <em>reported</em>.</p>",
+          "zh": "瓦桑蒂向警方报了手机丢失的案子。",
+          "note": "词性转换。定冠词 <code>the</code> 提示后面必须接名词，因此需将第一句的动词 <code>lost</code> 转换为名词 <code>loss</code>，整合成 <code>the loss of her mobile phone</code> 作为 <code>reported</code>的宾语。",
+          "answer": "Vasanthi reported the loss of her mobile phone to the police."
+        },
+        "69": {
+          "concept": "动词与“make + 名词”结构转化 — Verb to Noun Phrase Collocation",
+          "note": "把动词 <code>adjusted</code> 和副词 <code>slightly</code> 改写为习惯搭配 <code>made a slight adjustment to...</code>。注意修饰词由副词变为形容词 <code>slight</code>，且名词 <code>adjustment</code> 后面常用介词 <code>to</code> 连用。",
+          "answer": "The diver made a slight adjustment to his goggles before entering the water."
+        },
+        "70": {
+          "concept": "动词转固定介词短语搭配 — Idiomatic Phrasal Verbs ('come to a conclusion')",
+          "explanation": "<p>Transform the verb <em>concluded</em> into the high-frequency idiomatic phrasal structure <em>come to a conclusion</em>. Since the sentence is in the past tense, use <em>came to a conclusion</em>.</p>",
+          "zh": "会议直到晚上才宣告结束。",
+          "note": "固定短语搭配。不及物动词 <code>concluded</code> 常用的地道同义改写是固定习惯搭配 <code>come to a conclusion</code>（宣告结束/得出结论）。由于原句是过去时，故接续 <code>came to a conclusion</code>。",
+          "answer": "The meeting came to a conclusion only in the evening."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer have to watch her spending when she was young?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "**the value** (line 3)",
+                "**advice** (line 25)",
+                "**these** (line 32)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q72a]",
+                "[Q72b]",
+                "[Q72c]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "Explain clearly why the writer remained \"quiet for a while\" (line 10) before she responded.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Why did the children have \"blank looks\" (line 12) on their faces?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "The writer told the children to \"earn the money\" (line 16) by doing household chores.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)How can you tell that the children were unwilling to do household chores? ",
+              "question": "[Q75a]"
+            },
+            {
+              "stem_plain": "(b)Why did the children end up doing household chores?",
+              "question": "They knew their mother would not [Q75b]"
+            }
+          ]
+        },
+        "76": {
+          "stem_plain": "Why did the children want to buy the roses for Mrs Riya?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Based on lines 10–29, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Mrs Riya did not expect anyone to give her groceries.",
+                "(b) The family was generous in giving to Mrs Riya.",
+                "(c) Mrs Riya needed help with housework."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q77a]",
+                "[Q77c]",
+                "[Q77e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q77b]",
+                "[Q77d]",
+                "[Q77f]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "From lines 26–37, pick out two separate phrases to show the characters' feelings and explain why they felt that way.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2"
+            ],
+            "col_1": {
+              "header": "Phrase showing character's feeling",
+              "rows": [
+                "Three-word phrase that shows Mrs Riya was surprised:\n",
+                "[Q78a]",
+                "Four-word phrase that shows the children felt happy:\n",
+                "[Q78c]"
+              ]
+            },
+            "col_2": {
+              "header": "Reason for the feeling",
+              "rows": [
+                "Reason for Mrs Riya's feeling:\n",
+                "[Q78b]",
+                "Reason for the children's feeling:\n",
+                "[Q78d]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "What did Yongli finally learn about helping others?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Explain why the writer looked \"puzzled\" (line 42) in the photo.",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "I learnt to appreciate the value of money as I grew up in a family with few luxuries.",
+          "2": "Although my mother was thrifty, she was not one to shy away from helping others. As a",
+          "3": "mother now, I want to nurture **this value** in my children, Xinli and Yongli, who, unlike me,",
+          "4": "seldom watch their spending. As such, I got them together to brainstorm ideas for a little",
+          "5": "family project to show kindness to others.",
+          "6": "Xinli suggested enthusiastically, \"Aha! Mum can bake cookies and sell them to raise",
+          "7": "some funds for a charity!\"",
+          "8": "\"I will get my friends to buy them, and Mum can reward me by baking extra cookies",
+          "9": "for me!\" Yongli offered as he looked at me with a cheeky grin.",
+          "10": "Frowning, I kept quiet for a while. After some thought, I replied with care so as not",
+          "11": "to dampen their spirits. \"Good suggestions, but I believe you will get more out of helping",
+          "12": "others when you are personally involved.\" Though they had blank looks on their faces, I",
+          "13": "continued, \"By the way, our neighbour, Mrs Riya, was unwell recently. As she lives alone,",
+          "14": "I've promised to buy groceries for her so that she can cook nice meals for herself.\"",
+          "15": "\"We'll help you! I'll ask Dad for money to buy the groceries,\" Xinli quipped.",
+          "16": "\"Well, maybe you should earn the money yourselves. It's actually your responsibility",
+          "17": "to tidy our home but just this once, I'll pay you to do housework.\" Knowing they would",
+          "18": "come up with creative excuses to get out of doing housework, I gave them a determined",
+          "19": "look. They knew better than to argue for an easy way out.",
+          "20": "The following week, we were at the supermarket. As we were pushing a fully loaded",
+          "21": "trolley of necessities meant for Mrs Riya, Yongli suddenly pointed at an array of flowers in",
+          "22": "the next aisle and exclaimed, \"Ooh, what pretty roses! Let's get those for her too!\"",
+          "23": "I protested, \"But you can't eat roses! You should spend the money on food instead.\"",
+          "24": "\"But we worked hard for the money. Please let us buy the roses,\" Yongli pleaded.",
+          "25": "My **advice** had fallen on deaf ears, so I let my children decide in the end.",
+          "26": "On the day of the visit, we found ourselves warmly welcomed into a sparsely",
+          "27": "furnished but well-kept flat by Mrs Riya. Looking at the bags of groceries we had brought,",
+          "28": "she could not stop smiling. When Yongli presented the roses to her, she raised her",
+          "29": "eyebrows, but said nothing. I cast Mrs Riya a sheepish glance when she looked at us.",
+          "30": "Mrs Riya suggested, \"Let's take a 'wefie' with my favourite gift!\" With Mrs Riya",
+          "31": "holding the roses, we huddled together to take a group photo with Xinli's mobile phone.",
+          "32": "\"I heard you bought **these** with money earned through doing chores! How kind of",
+          "33": "you!\" said Mrs Riya. She put her nose to the roses to take in the fragrance. When she lifted",
+          "34": "her head, her face lit up with a radiant smile. Clearly, her reaction had touched the children",
+          "35": "for their faces mirrored hers. Before this visit, they might not have thought that they would",
+          "36": "bring such joy to Mrs Riya through their small act of kindness. I could not be more proud",
+          "37": "of them.",
+          "38": "On our way home after visiting Mrs Riya, Yongli shared about his experience. He",
+          "39": "finally understood why I had wanted them to be personally involved in helping others",
+          "40": "- Mrs Riya was not the only one who felt joyful.",
+          "41": "Just as I was about to praise them, Xinli, who was looking at the photo taken earlier,",
+          "42": "interrupted, \"Mum, we're smiling in the photo, but why do you have a puzzled look?\""
+        },
+        "paragraphs": {
+          "1": "在一个没有什么奢侈品的家庭中长大，我学会了体会金钱的价值。虽然我的母亲很节俭，但她绝不会在帮助他人时退缩。现在作为一名母亲，我想在我的孩子——新丽和永丽的心中培养这种价值观。他们和我不一样，很少注意自己的花销。因此，我把他们聚在一起，集思广益，想为一个小的家庭项目出谋划策，向他人表达善意。",
+          "6": "新丽兴高采烈地建议道：“啊哈！妈妈可以烤饼干并把它们卖掉，为慈善机构筹集一些资金！”",
+          "8": "“我会让我的朋友们来买饼干，妈妈可以烤额外的饼干来奖励我！”永丽一边提议，一边带着顽皮的笑容看着我。",
+          "10": "我皱起眉头，沉默了一会儿。一番思考后，我小心翼翼地回答，以免打击他们的积极性。“很好的建议，但我相信，当你们亲身参与时，能从帮助他人中获得更多。”尽管他们的脸上露出了茫然的表情，我还是继续说道：“顺便说一下，我们的邻居里亚太太最近身体不舒服。因为她独自生活，我答应帮她买日常用品，这样她就能为自己做顿好饭了。”",
+          "15": "“我们会帮你的！我去跟爸爸要钱来买这些日常用品，”新丽抢着说道。",
+          "16": "“嗯，也许你们应该自己挣这笔钱。整理我们的家本来就是你们的责任，但就这么一次，我会付钱让你们做家务。”我知道他们会找各种新奇的借口来逃避做家务，于是给了他们一个坚定的眼神。他们很聪明，没有争辩着去寻找轻松的退路。",
+          "20": "接下来的那个星期，我们来到了超市。当我们推着满满一推车准备送给里亚太太的日用品时，永丽突然指着隔壁过道上的一排花大喊：“噢，好漂亮的玫瑰花啊！我们也帮她买一些吧！”",
+          "23": "我反对说：“但是你又不能吃玫瑰花！你应该把钱花在食物上才对。”",
+          "24": "“但这是我们辛苦挣来的钱。请让我们买玫瑰花吧，”永丽哀求道。我的劝告成了耳边风，所以最后我还是让孩子们自己做决定。",
+          "26": "在拜访的那天，我们在里亚太太那间家具简陋但收拾得井井有条的公寓里，受到了她的热情欢迎。看着我们带来的大包小包的日用品，她笑得合不拢嘴。当永丽把玫瑰花递给她时，她挑了挑眉毛，却什么也没说。当里亚太太看向我们时，我向她投去了羞愧的一瞥。",
+          "30": "里亚太太建议道：“让我们和我不喜欢的礼物拍一张合影（自拍）吧！”里亚太太拿着玫瑰花，我们簇拥在一起，用新丽的手机拍了一张合照。",
+          "32": "“我听说这些是用你们做家务挣来的钱买的！你们真是太善良了！”里亚太太说道。她把鼻子凑到玫瑰花前吸了吸花香。当她抬起头时，脸上绽放出了灿烂的笑容。显然，她的反应打动了孩子们，因为他们的脸上也露出了同样的表情。在这次拜访之前，他们可能根本没有想到，自己小小的善举会给里亚太太带来如此大的快乐。我为他们感到无比自豪。",
+          "38": "在拜访完里亚太太回家的路上，永丽分享了他的经历。他终于明白了为什么我之前想让他们亲身参与到帮助他人的行动中——里亚太太并不是唯一感到快乐的人。",
+          "41": "正当我准备夸奖他们时，正在看之前拍的照片的新丽打断了我：“妈妈，照片里我们都在笑，但为什么你脸上是一副困惑的表情呢？”"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Direct literal retrieval",
+          "note": "<p>Refer to lines 1–2: 'I learnt to appreciate the value of money as I grew up in a family with few luxuries.'</p>",
+          "answer": "She grew up in a family with few luxuries.",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "Referencing and contextual understanding",
+          "note": "<ul><li><strong>a) this value (line 3)</strong> refers to 'the value of money' or 'appreciating the value of money' mentioned in line 1.</li><li><strong>b) advice (line 25)</strong> refers to the writer's instruction in line 23 ('You should spend the money on food instead').</li><li><strong>c) these (line 32)</strong> refers to the 'pretty roses' purchased at the supermarket (lines 21–24).</li></ul>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "being thrifty",
+            "72b": "pending the money on food",
+            "72c": "the roses"
+          }
+        },
+        "73": {
+          "concept": "Inference and cause-and-effect",
+          "note": "<p>Refer to lines 10–11: 'After some thought, I replied with care so as not to dampen their spirits.'</p>",
+          "answer": "The writer was thinking of a way to reject her children's ideas without hurting their feelings and propose a better idea for her children to show kindness.",
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "Inference from contextual reaction",
+          "note": "<p>Refer to lines 11–12. The mother stated 'you will get more out of helping others when you are personally involved', which left the children confused ('blank looks').</p>",
+          "answer": "They did not understand what their mother meant.",
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "Contextual evidence and completion clue",
+          "note": "<ul><li><strong>a)</strong> Found in lines 17–18: 'Knowing they would come up with creative excuses to get out of doing housework...'.</li><li><strong>b)</strong> Found in lines 18–19: 'I gave them a determined look. They knew better than to argue for an easy way out.' Therefore, they knew their mother would not accept excuses or let them argue.</li></ul>",
+          "answer": {
+            "75a": "They believe they will always be rescued if they get in trouble simply because a Sherpa guide is with them.",
+            "75b": "take no for an answer."
+          }
+        },
+        "76": {
+          "concept": "Direct retrieval from dialogue",
+          "note": "<p>Refer to lines 21–22: 'Yongli suddenly pointed at an array of flowers in the next aisle and exclaimed, \"Ooh, what pretty roses! Let's get those for her too!\"'</p>",
+          "answer": "They found the roses very pretty and wanted to get them for her as well.",
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "判断正误表与文本推断",
+          "note": "<ol><li><strong>(a) False：</strong>作者早已答应为里亚太太购买日常用品。</li><li><strong>(b) True：</strong>全家人买了一整推车满满的日常用品送给她。</li><li><strong>(c) False：</strong>里亚太太的公寓收拾得井井有条，没有显示需要做家务的帮助。</li></ol>",
+          "answer": {
+            "77a": "False",
+            "77b": "The writer had promised to buy Mrs Riya groceries so that she could cook nice meals for herself.",
+            "77c": "True",
+            "77d": "They purchased a fully loaded trolley of necessities meant for Mrs Riya.",
+            "77e": "False",
+            "77f": "Mrs Riya's flat was well-kept."
+          },
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "短语提取与心理原因分析",
+          "note": "<ol><li><strong>(a) raised her eyebrows：</strong>对应第10段中里亚太太收到玫瑰花时的惊讶动作（行28）。</li><li><strong>(b) She did not expect to be gifted roses：</strong>里亚太太虽然预料到了日常用品，但没预料到会收到玫瑰花礼物。</li><li><strong>(c) their faces mirrored hers：</strong>对应第12段描述孩子们感到快乐的四字短语（行34-35）。</li><li><strong>(d) They saw how happy Mrs Riya was：</strong>孩子们看到里亚太太脸上因他们小小的善举而绽放出灿烂幸福的笑容，从而感同身受。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "raised her eyebrows",
+            "78b": "She did not expect to be gifted roses.",
+            "78c": "their faces mirrored hers",
+            "78d": "They saw how happy Mrs Riya was."
+          }
+        },
+        "79": {
+          "concept": "Core lesson inference",
+          "note": "<p>Based on lines 38–40 of the text: 'He finally understood why I had wanted them to be personally involved in helping others - Mrs Riya was not the only one who felt joyful.'</p>",
+          "answer": "Yongli finally learned that helping others brings happiness to others as well as himself.",
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "Character perspective linkage",
+          "note": "<p>Inferring from paragraphs 8–10 and line 30, the writer initially argued that 'you can't eat roses' and suggested spending money on food instead, making her confused by Mrs Riya's reaction.</p>",
+          "answer": "She wondered why Mrs Riya referred to the roses as her 'favourite gift'.",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

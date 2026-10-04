@@ -1,0 +1,154 @@
+/* Answer card — theme via html[data-answer-design] */
+html[data-answer-design='plain'] {
+  --tpb-answer-bg: #fafafa;
+  --tpb-answer-border: #cbd5e1;
+  --tpb-answer-accent: #475569;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #0f172a;
+  --tpb-answer-muted: #475569;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #334155;
+}
+
+html[data-answer-design='minimal'] {
+  --tpb-answer-bg: #ffffff;
+  --tpb-answer-border: #e2e8f0;
+  --tpb-answer-accent: #94a3b8;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #0f172a;
+  --tpb-answer-muted: #64748b;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #475569;
+}
+
+html[data-answer-design='blue'] {
+  --tpb-answer-bg: linear-gradient(180deg, #eff6ff 0%, #f8fafc 100%);
+  --tpb-answer-border: #bfdbfe;
+  --tpb-answer-accent: #3b82f6;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #1e3a8a;
+  --tpb-answer-muted: #475569;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #1d4ed8;
+}
+
+html[data-answer-design='mint'] {
+  --tpb-answer-bg: linear-gradient(180deg, #ecfdf5 0%, #f8fafc 100%);
+  --tpb-answer-border: #a7f3d0;
+  --tpb-answer-accent: #10b981;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #065f46;
+  --tpb-answer-muted: #475569;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #047857;
+}
+
+html[data-answer-design='warm'] {
+  --tpb-answer-bg: linear-gradient(180deg, #fff7ed 0%, #fffaf5 100%);
+  --tpb-answer-border: #fed7aa;
+  --tpb-answer-accent: #f97316;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #9a3412;
+  --tpb-answer-muted: #57534e;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #c2410c;
+}
+
+.tpb-answer-card {
+  margin: 0.5rem 0 0 2rem;
+  padding: 0.7rem 0.85rem;
+  border: 1px solid var(--tpb-answer-border, #cbd5e1);
+  border-left: 3px solid var(--tpb-answer-accent, #475569);
+  border-radius: 0.5rem;
+  background: var(--tpb-answer-bg, #fafafa);
+  color: var(--tpb-answer-text, #1e293b);
+  box-shadow: 0 1px 2px rgb(15 23 42 / 0.04);
+}
+
+.tpb-paper-sheet .tpb-answer-card {
+  margin-left: 2rem;
+}
+
+.tpb-answer-card-concept {
+  color: var(--tpb-answer-heading, #0f172a);
+}
+
+.tpb-answer-card-answer {
+  font-weight: 700;
+  color: var(--tpb-answer-answer, #047857);
+}
+
+.tpb-answer-card-muted {
+  color: var(--tpb-answer-muted, #475569);
+}
+
+.tpb-answer-card-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--tpb-answer-muted, #475569);
+}
+
+.tpb-mcq-option-breakdown-pill {
+  color: var(--tpb-answer-pill, #334155);
+}
+
+.design-preview .tpb-answer-card {
+  margin: 0;
+}
+
+.design-preview [data-answer-design='plain'] {
+  --tpb-answer-bg: #fafafa;
+  --tpb-answer-border: #cbd5e1;
+  --tpb-answer-accent: #475569;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #0f172a;
+  --tpb-answer-muted: #475569;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #334155;
+}
+
+.design-preview [data-answer-design='minimal'] {
+  --tpb-answer-bg: #ffffff;
+  --tpb-answer-border: #e2e8f0;
+  --tpb-answer-accent: #94a3b8;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #0f172a;
+  --tpb-answer-muted: #64748b;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #475569;
+}
+
+.design-preview [data-answer-design='blue'] {
+  --tpb-answer-bg: linear-gradient(180deg, #eff6ff 0%, #f8fafc 100%);
+  --tpb-answer-border: #bfdbfe;
+  --tpb-answer-accent: #3b82f6;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #1e3a8a;
+  --tpb-answer-muted: #475569;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #1d4ed8;
+}
+
+.design-preview [data-answer-design='mint'] {
+  --tpb-answer-bg: linear-gradient(180deg, #ecfdf5 0%, #f8fafc 100%);
+  --tpb-answer-border: #a7f3d0;
+  --tpb-answer-accent: #10b981;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #065f46;
+  --tpb-answer-muted: #475569;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #047857;
+}
+
+.design-preview [data-answer-design='warm'] {
+  --tpb-answer-bg: linear-gradient(180deg, #fff7ed 0%, #fffaf5 100%);
+  --tpb-answer-border: #fed7aa;
+  --tpb-answer-accent: #f97316;
+  --tpb-answer-text: #1e293b;
+  --tpb-answer-heading: #9a3412;
+  --tpb-answer-muted: #57534e;
+  --tpb-answer-answer: #047857;
+  --tpb-answer-pill: #c2410c;
+}

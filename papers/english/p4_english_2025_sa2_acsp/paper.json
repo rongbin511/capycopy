@@ -1,0 +1,867 @@
+{
+  "paperid": "p4_english_2025_sa2_acsp",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The students were reminded to pay attention ________ the morning assembly.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "into",
+            "4": "during"
+          }
+        },
+        "2": {
+          "stem_plain": "While having breakfast yesterday, Devi ________ surprised when her mother made her favourite pancakes.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "Joshua and his sister ________ excited when their father took them to the playground.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Please stop making so much noise! I ________ a book now,\" Ahmad told his brother.",
+          "options": {
+            "1": "read",
+            "2": "reads",
+            "3": "have read",
+            "4": "am reading"
+          }
+        },
+        "5": {
+          "stem_plain": "Last night, my parents ________ a present from that shop before going to the party.",
+          "options": {
+            "1": "buy",
+            "2": "bought",
+            "3": "were buying",
+            "4": "have bought"
+          }
+        },
+        "6": {
+          "stem_plain": "While everyone ________ in the canteen, Jeremy went to the library.",
+          "options": {
+            "1": "eats",
+            "2": "will eat",
+            "3": "has eaten",
+            "4": "was eating"
+          }
+        },
+        "7": {
+          "stem_plain": "________ girls standing over there have the best costumes for the competition.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "8": {
+          "stem_plain": "Jane's short story is both creative ________ interesting.",
+          "options": {
+            "1": "or",
+            "2": "but",
+            "3": "and",
+            "4": "before"
+          }
+        },
+        "9": {
+          "stem_plain": "Sam decided not to take the bus as there were ________ people in the long queue.",
+          "options": {
+            "1": "no",
+            "2": "few",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "10": {
+          "stem_plain": "The soup is not spicy enough. It has too ________ chilli in it.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "表示“在……期间”，这里指在晨会期间，故选 during。",
+          "concept": "介词辨析 — Prepositions — time",
+          "zh": "学生们被提醒在晨会期间要集中注意力。",
+          "answer": "4"
+        },
+        "2": {
+          "note": "句中有明确的过去时间状语 “yesterday”（昨天），主语 “Devi” 为单数，因此系动词用 “was”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Singular)",
+          "zh": "昨天吃早饭时，当妈妈做了她最喜欢的煎饼，德维感到很惊喜。",
+          "answer": "3"
+        },
+        "3": {
+          "note": "“when” 引导的时间状语从句使用的是过去时（took），主句也应使用过去时；主语是 “Joshua and his sister”（复数），因此用 “were”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Plural)",
+          "zh": "当父亲带乔舒亚和他的姐姐去操场时，他们非常兴奋。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "句中有提示语 “Please stop...”（请停止……）和时间副词 “now”（现在），表明说话人正在进行的动作，需用现在进行时。",
+          "concept": "动词时态 — Verb Tenses — Present Continuous Tense",
+          "zh": "“请不要这么吵！我正在看书呢，”艾哈迈德对他的弟弟说。",
+          "answer": "4"
+        },
+        "5": {
+          "note": "句首有明确的过去时间状语 “Last night”（昨晚），且是在去派对之前已经完成的事实，需用一般过去时，buy 的过去式为 bought。",
+          "concept": "动词时态 — Verb Tenses — Simple Past Tense",
+          "zh": "昨晚，在去派对之前，我父母从那家店买了一件礼物。",
+          "answer": "2"
+        },
+        "6": {
+          "note": "“While” 引导的时间状语从句表示一个持续性的背景动作，与主句中杰里米的过去动作（went）相对比，从句需用过去进行时。因为主语 everyone 视为单数，所以用 was eating。",
+          "concept": "动词时态 — Verb Tenses — Past Continuous Tense",
+          "zh": "当大家都在食堂吃饭时，杰里米去了图书馆。",
+          "answer": "4"
+        },
+        "7": {
+          "note": "句中有空间远指词 “over there”（在那里），且修饰的对象 “girls” 是复数，因此选用远指复数指示代词 “those”。",
+          "concept": "指示代词 — Demonstrative Pronouns — those",
+          "zh": "站在那边的那些女孩为比赛准备了最好的服装。",
+          "answer": "4"
+        },
+        "8": {
+          "note": "固定关联词搭配 “both ... and ...”，表示“既……又……”，用于连接两个并列的形容词。",
+          "concept": "连词搭配 — Correlative Conjunctions — both and",
+          "zh": "简的短篇故事既有创意又有意思。",
+          "answer": "3"
+        },
+        "9": {
+          "note": "“people” 是可数名词复数，不能用 much 修饰；结合前文“决定不坐公交车”以及 “long queue”（长队）的语境，表示排队的人“很多”，故选 many。",
+          "concept": "数量词修饰 — Quantifiers — countable nouns",
+          "zh": "山姆决定不坐公交车，因为长队里人太多了。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "“chilli” 在此处作为调味品，表示辣椒（粉/酱），是不可数名词，不能用 few 或 many 修饰；结合前句“汤不够辣”，说明里面的辣椒“太少”，故选 little。",
+          "concept": "数量词修饰 — Quantifiers — uncountable nouns",
+          "zh": "这汤不够辣。里面的辣椒太少了。",
+          "answer": "2"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "I admire Jack for his ____________ as he always tells the truth.",
+          "options": {
+            "1": "honesty",
+            "2": "curiosity",
+            "3": "patience",
+            "4": "diligence"
+          }
+        },
+        "12": {
+          "stem_plain": "Tom ____________ his mother's recipe to improve the taste of the ice cream.",
+          "options": {
+            "1": "revised",
+            "2": "reduced",
+            "3": "renewed",
+            "4": "restarted"
+          }
+        },
+        "13": {
+          "stem_plain": "Bala was ____________ and smiled when he found out that he had won the bowling competition.",
+          "options": {
+            "1": "thrilled",
+            "2": "charmed",
+            "3": "confused",
+            "4": "disappointed"
+          }
+        },
+        "14": {
+          "stem_plain": "Mariam found it difficult to bake the cake. She did not read the instructions ____________.",
+          "options": {
+            "1": "wisely",
+            "2": "neatly",
+            "3": "safely",
+            "4": "carefully"
+          }
+        },
+        "15": {
+          "stem_plain": "Thomas ____________ to his friend that he had a secret he wanted to share in private.",
+          "options": {
+            "1": "agreed",
+            "2": "shouted",
+            "3": "answered",
+            "4": "whispered"
+          }
+        },
+        "16": {
+          "stem_plain": "Mr Tan was ____________ that he had only suffered minor injuries from his bicycle accident.",
+          "options": {
+            "1": "fearful",
+            "2": "grateful",
+            "3": "peaceful",
+            "4": "remorseful"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "我钦佩杰克的诚实，因为他总是说实话。",
+          "note": "“honesty”意思是“诚实”，与后文“总是说实话（always tells the truth）”完美对应。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "honesty",
+              "zh": "诚实",
+              "eg": "The teacher praised the boy for his honesty when he admitted his mistake."
+            },
+            {
+              "opt": "2",
+              "word": "curiosity",
+              "zh": "好奇心",
+              "eg": "Her intense curiosity drove her to open the ancient wooden chest."
+            },
+            {
+              "opt": "3",
+              "word": "patience",
+              "zh": "耐心",
+              "eg": "Teaching young children requires a great deal of love and patience."
+            },
+            {
+              "opt": "4",
+              "word": "diligence",
+              "zh": "勤勉、勤奋",
+              "eg": "Through sheer diligence, she managed to secure top grades in the final examinations."
+            }
+          ]
+        },
+        "12": {
+          "zh": "汤姆修改了他母亲的配方，以改善冰淇淋的口味。",
+          "note": "“revised”意思是“修改、修订”，符合为了改善（improve）产品而对原本的设计或配方进行调整的语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "revised",
+              "zh": "修改、修订",
+              "eg": "The author revised the final chapters of the book based on public feedback."
+            },
+            {
+              "opt": "2",
+              "word": "reduced",
+              "zh": "减少、降低",
+              "eg": "The supermarket reduced the price of organic milk to attract more buyers."
+            },
+            {
+              "opt": "3",
+              "word": "renewed",
+              "zh": "更新、恢复",
+              "eg": "He went to the community library to get his expired membership card renewed."
+            },
+            {
+              "opt": "4",
+              "word": "restarted",
+              "zh": "重新启动",
+              "eg": "The technician restarted the main server after updating the system software."
+            }
+          ]
+        },
+        "13": {
+          "zh": "巴拉非常激动，当他发现自己赢了保龄球比赛时笑了出来。",
+          "note": "“thrilled”意思是“非常激动的、欣喜若狂的”，与赢了比赛并露出笑容（smiled）的快乐情绪契合。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "thrilled",
+              "zh": "非常激动的",
+              "eg": "The children were thrilled to bits when they arrived at the theme park."
+            },
+            {
+              "opt": "2",
+              "word": "charmed",
+              "zh": "着迷的、被迷住的",
+              "eg": "The visitors were completely charmed by the beauty of the old village."
+            },
+            {
+              "opt": "3",
+              "word": "confused",
+              "zh": "困惑的",
+              "eg": "The travelers were confused by the misleading signs along the highway."
+            },
+            {
+              "opt": "4",
+              "word": "disappointed",
+              "zh": "失望的",
+              "eg": "He felt deeply disappointed when his flight was canceled due to bad weather."
+            }
+          ]
+        },
+        "14": {
+          "zh": "玛丽亚姆觉得烤蛋糕很困难。她没有认真阅读说明书。",
+          "note": "“carefully”意思是“认真地、仔细地”，修饰阅读动作，解释了因为没认真读说明书而觉得做这件事很困难的原因。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "wisely",
+              "zh": "明智地",
+              "eg": "She spent her prize money wisely by investing in academic books."
+            },
+            {
+              "opt": "2",
+              "word": "neatly",
+              "zh": "整洁地",
+              "eg": "The books were stacked neatly in rows across the wooden shelves."
+            },
+            {
+              "opt": "3",
+              "word": "safely",
+              "zh": "安全地",
+              "eg": "The climbers reached the base camp safely before the heavy snowfall began."
+            },
+            {
+              "opt": "4",
+              "word": "carefully",
+              "zh": "认真地、仔细地",
+              "eg": "Please review the contract carefully before signing your name on it."
+            }
+          ]
+        },
+        "15": {
+          "zh": "托马斯向他的朋友低声说道，他有一个秘密想要私下分享。",
+          "note": "“whispered”意思是“低声说、耳语”，与后文的“秘密（secret）”和“私下（in private）”完美吻合。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "agreed",
+              "zh": "同意",
+              "eg": "The committee members agreed to the new proposal after a brief debate."
+            },
+            {
+              "opt": "2",
+              "word": "shouted",
+              "zh": "高喊、大叫",
+              "eg": "He shouted for help when his boat began to capsize in the rough river."
+            },
+            {
+              "opt": "3",
+              "word": "answered",
+              "zh": "回答",
+              "eg": "She answered the tricky interview questions with great confidence."
+            },
+            {
+              "opt": "4",
+              "word": "whispered",
+              "zh": "低声说",
+              "eg": "The students whispered to each other so they would not disturb the library."
+            }
+          ]
+        },
+        "16": {
+          "zh": "陈先生很庆幸自己在自行车事故中只受了轻伤。",
+          "note": "“grateful”意思是“感激的、庆幸的”，面对事故只受了轻伤（only suffered minor injuries）的结果，通常会感到庆幸。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fearful",
+              "zh": "害怕的、担心的",
+              "eg": "The wild animals are often fearful of fire and steer clear of campfires."
+            },
+            {
+              "opt": "2",
+              "word": "grateful",
+              "zh": "感激的、庆幸的",
+              "eg": "We are extremely grateful to the volunteers who offered help during the crisis."
+            },
+            {
+              "opt": "3",
+              "word": "peaceful",
+              "zh": "平静的、安宁的",
+              "eg": "The lakeside park was peaceful and quiet in the early hours of dawn."
+            },
+            {
+              "opt": "4",
+              "word": "remorseful",
+              "zh": "懊悔的、愧疚的",
+              "eg": "The driver felt remorseful about the accidental damage done to the gate."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "21": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "22": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "23": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "24": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "21": {
+          "concept": "代词（主格）",
+          "note": "指代前文的复数主语 'Julia and her family'，在句子中作主语，故选 they。",
+          "answer": "D"
+        },
+        "22": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词 parents，表示‘他们的’父母，故选 their。",
+          "answer": "F"
+        },
+        "23": {
+          "concept": "代词（主格）",
+          "note": "指代前文的 'Julia's brother'，由后文的 himself 可知是单数男性主语，故选 he。",
+          "answer": "A"
+        },
+        "24": {
+          "concept": "代词（主格）",
+          "note": "Julia 说的话，后接 be 动词 am，只能搭配第一人称单数主语，故选 I。",
+          "answer": "B"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "he",
+          "B": "I",
+          "C": "them",
+          "D": "they",
+          "E": "our",
+          "F": "their"
+        },
+        "cloze": [
+          "During the September holidays, Julia and her family visited Gardens by the Bay. [Q21] were very excited to see the Flower Dome and Cloud Forest. Julia's brother took a photograph of Julia and [Q22] parents at the waterfall. Next, [Q23] took a photograph of himself in front of some beautiful plants. After a few hours, Julia said, \"Can we have lunch now? [Q24] am hungry.\" The family then went to have lunch before heading home."
+        ],
+        "zh": [
+          "在九月假期期间，朱莉娅和她的家人参观了滨海湾花园。他们非常兴奋能看到花穹和云雾林。朱莉娅的哥哥在瀑布前为朱莉娅和他们的父母拍了一张照片。接下来，他给自己在一些美丽的植物前拍了一张照片。几个小时后，朱莉娅说：“我们现在可以吃午饭了吗？我饿了。” 然后，全家人在回家前去吃了午饭。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "29": {
+          "stem_plain": "Siti washes the plates. Then she places them on the table.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... before ..."
+        },
+        "30": {
+          "stem_plain": "The flowers are pretty. The flowers are in the vase.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... which ..."
+        },
+        "31": {
+          "stem_plain": "Mrs Tan saw a rat in the drain. Mrs Tan screamed.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "When ..."
+        },
+        "32": {
+          "stem_plain": "\"I'm going to the park tomorrow.\" Ravi told his brother.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Ravi told his brother ..."
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "时间状语从句 — Temporal Clause ('before')",
+          "zh": "西蒂在把盘子放在桌上之前，先洗了盘子。",
+          "note": "before 意为“在……之前”。根据动作的先后顺序，洗盘子发生在放盘子之前，因此 before 引导放盘子的动作，同时需要去掉表示先后顺序的副词 Then。",
+          "answer": "Siti washes the plates before she places them on the table."
+        },
+        "30": {
+          "concept": "定语从句 — Relative Clause (Subject Pronoun 'which')",
+          "zh": "花瓶里的那些花很漂亮。",
+          "note": "which 引导定语从句，修饰非人类的先行词 The flowers。从句需紧跟在它修饰的主语后，然后再接主句的其余部分（谓语和表语）。",
+          "answer": "The flowers which are in the vase are pretty."
+        },
+        "31": {
+          "concept": "时间状语从句 — Temporal Clause ('When')",
+          "zh": "当陈太太看到水沟里有一只老鼠时，她尖叫了起来。",
+          "note": "When 引导时间状语从句。连接时需要注意把第二句重复的名词 Mrs Tan 替换为代词 she，且主从句之间用逗号隔开。",
+          "answer": "When Mrs Tan saw a rat in the drain, she screamed."
+        },
+        "32": {
+          "concept": "直接引语变间接引语 — Direct to Indirect Speech",
+          "zh": "拉维告诉他的哥哥/弟弟他第二天要去公园。",
+          "note": "主句动词为过去时 told。引语中的第一人称 I 需转为 he；时态 am going 需回退为过去进行时 was going；时间状语 tomorrow 必须转换为 the next day 或 the following day。",
+          "answer": "Ravi told his brother that he was going to the park the next day."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "40": {
+          "stem_plain": "Madam Salmah's husband and children help out at the vegetable stall when _______. [1m]",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "(1) they are not tired",
+            "(2) she grumbles to them",
+            "(3) she goes to the post office",
+            "(4) they do not need to go to work or school"
+          ]
+        },
+        "41": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to show what Madam Salmah does first, next and last in paragraph 2. [1m]",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Madam Salmah arranges the vegetables.",
+            "Madam Salmah sweeps the floor.",
+            "Madam Salmah cleans the shelves."
+          ]
+        },
+        "42": {
+          "stem_plain": "Why does Mr Ong call Madam Salmah in paragraph 2? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "43": {
+          "stem_plain": "For Q43-45, decide who does the following activities. Tick (✓) your chosen answer. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "activities_described_in_paragraph_3",
+              "aziz",
+              "amina"
+            ],
+            "activities_described_in_paragraph_3": {
+              "header": "Activities described in paragraph 3",
+              "rows": [
+                "puts the vegetables neatly in baskets",
+                "greets the customers",
+                "passes the vegetables to the customers"
+              ]
+            },
+            "aziz": {
+              "header": "Aziz",
+              "rows": [
+                "[Q43a]",
+                "[Q44a]",
+                "[Q45a]"
+              ]
+            },
+            "amina": {
+              "header": "Amina",
+              "rows": [
+                "[Q43b]",
+                "[Q44b]",
+                "[Q45b]"
+              ]
+            }
+          }
+        },
+        "46": {
+          "stem_plain": "How does Madam Salmah teach her children to be kind to their customers? Explain your answer clearly. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "47": {
+          "stem_plain": "Based on the last paragraph, what are the two things that Madam Salmah does such that her customers are happy return to her stall? [2m]\ni. \nii. ",
+          "marks": 2,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "40": {
+          "concept": "Text Extraction / Synthesis",
+          "note": "对应原文第2-4行：丈夫在周末帮忙（因为平时要在邮局工作），孩子们在不上学的时候帮忙（when they do not have school）。两者结合即为‘当他们不需要去工作或上学时’，故选 (4)。",
+          "answer": "4"
+        },
+        "41": {
+          "concept": "Sequencing Events",
+          "note": "对应第二段（第6-10行）：首先清晨4:00去清理货架 (1)；接着把送到的蔬菜整齐地摆放在货架上 (2)；摆放好之后，清扫地板 (3)。因此排序为 2, 3, 1。",
+          "answer": "2\n3\n1"
+        },
+        "42": {
+          "concept": "Text Extraction / Cause and Effect",
+          "note": "对应原文第10-11行：'Sometimes, the vegetables are delivered late. Mr Ong calls Madam Salmah whenever this happens.' 当蔬菜送达迟到时，王先生就会给她打电话。",
+          "answer": "The vegetables are delivered late."
+        },
+        "43": {
+          "concept": "Table Matching / Text Extraction",
+          "note": "对应原文第15-16行：'Aziz loves arranging the vegetables neatly in small baskets.' 把蔬菜整齐地放进篮子里是 Aziz 做的事，因此 Aziz 勾选，Amina 留空。",
+          "answer": {
+            "43a": "✓",
+            "43b": "",
+            "44a": "✓",
+            "44b": "",
+            "45a": "",
+            "45b": "✓"
+          }
+        },
+        "44": {
+          "concept": "Table Matching / Text Extraction",
+          "note": "对应原文第16-17行：关于 Aziz，'he greets them and asks them politely...'。向顾客打招呼是 Aziz 做的事，因此 Aziz 勾选，Amina 留空。",
+          "answer": {
+            "Q44a": "✓",
+            "Q44b": ""
+          }
+        },
+        "45": {
+          "concept": "Table Matching / Text Extraction",
+          "note": "对应原文第17-19行：关于 Amina，'She enjoys packing vegetables and handing them to the customers.' 把蔬菜递给顾客（passes/handing them）是 Amina 做的事，因此 Aziz 留空，Amina 勾选。",
+          "answer": {
+            "Q45a": "",
+            "Q45b": "✓"
+          }
+        },
+        "46": {
+          "concept": "Text Extraction / Evidence Integration",
+          "note": "对应原文第19-21行：'Sometimes, they do not have enough money to pay for the vegetables. Madam Salmah usually tells her children to give them a discount.' 妈妈通过在顾客钱不够时让孩子们给他们打折的方式，身体力行地教导孩子们保持友善。",
+          "answer": "When the customers do not have enough money to pay for the vegetables, she tells her children to give them a discount."
+        },
+        "47": {
+          "concept": "Text Extraction / Parallel Points",
+          "note": "对应最后一段（第22-24行）：'She never fails to smile at them. She also likes sharing cooking tips with them.' 吸引顾客回购的两件事是：一总是对他们微笑，二喜欢和他们分享烹饪技巧。",
+          "answer": "i. She never fails to smile at them.\nii. She likes sharing cooking tips with them."
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Madam Salmah runs a vegetable stall at Jalan Ah Hoot Wet Market.",
+          "2": "Her husband helps out at the stall on weekends as he works at a post office",
+          "3": "on weekdays. Her children, Aziz and Amina, help her when they do not have",
+          "4": "school. Madam Salmah is very hardworking and never grumbles although she",
+          "5": "feels tired running the stall alone most of the time.",
+          "6": "She starts the day as early as 4.00 am. She goes to her stall to clean",
+          "7": "the shelves. At 5.00 am, Mr Ong, her vegetable supplier, delivers fresh",
+          "8": "vegetables in crates to her stall. Madam Salmah then starts unpacking the",
+          "9": "vegetables carefully from the crates. After she arranges them neatly on the",
+          "10": "shelves, she sweeps the floor. Sometimes, the vegetables are delivered late.",
+          "11": "Mr Ong calls Madam Salmah whenever this happens. She appreciates his",
+          "12": "thoughtfulness.",
+          "13": "During the weekends and school holidays, Aziz and Amina go to the",
+          "14": "stall to help their mother. Amina sorts the vegetables and removes those that",
+          "15": "are no longer fresh. Aziz loves arranging the vegetables neatly in small",
+          "16": "baskets. He also enjoys talking to the customers. They find him adorable as",
+          "17": "he greets them and asks them politely to buy their vegetables. Amina is quiet",
+          "18": "but hardworking. She enjoys packing vegetables and handing them to the",
+          "19": "customers. Sometimes, they do not have enough money to pay for the",
+          "20": "vegetables. Madam Salmah usually tells her children to give them a discount.",
+          "21": "She reminds Aziz and Amina to be kind.",
+          "22": "Madam Salmah's regular customers like her excellent service. She",
+          "23": "never fails to smile at them. She also likes sharing cooking tips with them.",
+          "24": "That is why they always return to buy vegetables from her."
+        },
+        "paragraphs": {
+          "1": "萨尔玛女士在阿胡路菜市场经营着一个蔬菜摊。她的丈夫周末会在摊位上帮忙，因为他周一到周五在邮局工作。她的孩子们，阿齐兹和阿米娜，在不上学的时候也会来帮她。萨尔玛女士非常勤劳，尽管大多数时候她一个人经营摊位感到很累，但她从来不抱怨。",
+          "6": "她早在凌晨4:00就开始了新的一天。她去摊位清理货架。凌晨5:00，她的蔬菜供应商王先生将装在板箱里的新鲜蔬菜送到她的摊位。随后，萨尔玛女士开始小心翼翼地从箱子里取出蔬菜。她把蔬菜整齐地摆放在货架上之后，就会清扫地板。有时蔬菜会送达得比较晚。每当发生这种情况时，王先生都会给萨尔玛女士打电话。她非常感谢他的体贴。",
+          "13": "在周末和学校假期期间，阿齐兹和阿米娜会去摊位帮助他们的母亲。阿米娜对蔬菜进行分类，并拿走那些不再新鲜的蔬菜。阿齐兹喜欢把蔬菜整齐地摆放在小篮子里。他也喜欢和顾客聊天。顾客们觉得他很可爱，因为他会向他们打招呼，并礼貌地请他们买自己的蔬菜。阿米娜性格安静但很勤劳。她喜欢把蔬菜打包并递给顾客。有时，顾客没有足够的钱来付菜款。萨尔玛女士通常会告诉她的孩子们给他们打个折。她提醒阿齐兹和阿米娜要待人友善。",
+          "22": "萨尔玛女士的熟客很喜欢她优质的服务。她总是对他们微笑着。她也喜欢和他们分享烹饪技巧。这就是为什么他们总是回来向她买蔬菜的原因。"
+        },
+        "image": "109-passage.jpeg"
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

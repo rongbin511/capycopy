@@ -1,0 +1,705 @@
+{
+  "paperid": "p4_english_2025_sa2_nanhua",
+  "sections": {
+    "101": {
+      "questions": {
+        "7": {
+          "stem_plain": "We ________ the sunset on the beach when we spotted dolphins near the shore.",
+          "options": {
+            "1": "admire",
+            "2": "will admire",
+            "3": "had admired",
+            "4": "were admiring"
+          }
+        },
+        "8": {
+          "stem_plain": "They won the match ________ their best player did not participate.",
+          "options": {
+            "1": "so",
+            "2": "until",
+            "3": "because",
+            "4": "although"
+          }
+        },
+        "9": {
+          "stem_plain": "________ cookies taste amazing. Here, have a bite!",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "10": {
+          "stem_plain": "We ________ very discouraged when we lost the game.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "11": {
+          "stem_plain": "\"We cannot go swimming now as it ________ heavily outside,\" Father explained.",
+          "options": {
+            "1": "rains",
+            "2": "rained",
+            "3": "is raining",
+            "4": "had rained"
+          }
+        },
+        "12": {
+          "stem_plain": "We decided to go home to rest as we did not have ________ energy left after the race.",
+          "options": {
+            "1": "little",
+            "2": "much",
+            "3": "many",
+            "4": "some"
+          }
+        },
+        "13": {
+          "stem_plain": "Amy ________ absent from school yesterday.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "14": {
+          "stem_plain": "Every day, the boys will play football ________ recess.",
+          "options": {
+            "1": "in",
+            "2": "by",
+            "3": "on",
+            "4": "during"
+          }
+        },
+        "15": {
+          "stem_plain": "I ________ how to ride a bicycle last Saturday.",
+          "options": {
+            "1": "learn",
+            "2": "learns",
+            "3": "learned",
+            "4": "learning"
+          }
+        },
+        "16": {
+          "stem_plain": "Jane's cupcakes were so popular that ________ were left after the party.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        }
+      },
+      "answers": {
+        "7": {
+          "note": "主句表示一个正在进行的持续性背景动作（在海滩上欣赏日落），中途被另一个突发的瞬间动作（看到海豚）所打断，因此需用过去进行时，主语 we 搭配 were admiring。",
+          "concept": "动词时态 — Verb Tenses — Past Continuous Tense",
+          "zh": "我们正在海滩上欣赏日落时，突然发现近岸处有海豚。",
+          "answer": "4"
+        },
+        "8": {
+          "note": "前半句“赢了比赛”与后半句“最好的队员没有参加”在语义上是让步转折关系，使用连词 “although” 表示“尽管”。",
+          "concept": "连词辨析 — Conjunctions — although",
+          "zh": "尽管他们最好的队员没有参赛，他们还是赢了这场比赛。",
+          "answer": "4"
+        },
+        "9": {
+          "note": "后半句提到了 “Here, have a bite!”（来，尝一口！），说明饼干就在眼前（近指）；且修饰的对象 “cookies” 是复数，故选用近指复数指示代词 “these”。",
+          "concept": "指示代词 — Demonstrative Pronouns — these",
+          "zh": "这些饼干味道棒极了。来，尝一口！",
+          "answer": "3"
+        },
+        "10": {
+          "note": "时间状语从句 “when we lost the game” 使用了一般过去时（lost），主句的系动词也应使用过去时；主语是 “We”（第一人称复数），因此选 “were”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Plural)",
+          "zh": "当我们输掉比赛时，我们感到非常沮丧。",
+          "answer": "4"
+        },
+        "11": {
+          "note": "句中有提示词 “now”（现在），表明外面正发生着具有持续性的天气状况，需要使用现在进行时 “is raining”。",
+          "concept": "动词时态 — Verb Tenses — Present Continuous Tense",
+          "zh": "“我们现在不能去游泳，因为外面正下着大雨，”父亲解释道。",
+          "answer": "3"
+        },
+        "12": {
+          "note": "“energy” 是不可数名词，不能用 many 修饰；在否定句 “did not have...” 中，表示体力/能量“不多”，常用 much 进行修饰。",
+          "concept": "数量词修饰 — Quantifiers — uncountable nouns",
+          "zh": "我们决定回家休息，因为比赛结束后我们没有多少精力了。",
+          "answer": "2"
+        },
+        "13": {
+          "note": "句尾有明确的过去时间状语 “yesterday”（昨天），主语 “Amy” 是单数第三人称，因此系动词用 “was”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Singular)",
+          "zh": "艾米昨天没去上学。",
+          "answer": "3"
+        },
+        "14": {
+          "note": "表示“在……期间”，这里指在课间休息期间，固定搭配用介词 “during recess”。",
+          "concept": "介词辨析 — Prepositions — time",
+          "zh": "每天课间休息期间，男孩子们都会踢足球。",
+          "answer": "4"
+        },
+        "15": {
+          "note": "句尾有明确的过去时间状语 “last Saturday”（上周六），动作发生在过去并已结束，需用一般过去时，learn 的过去式为 learned。",
+          "concept": "动词时态 — Verb Tenses — Simple Past Tense",
+          "zh": "上周六我学会了怎么骑自行车。",
+          "answer": "3"
+        },
+        "16": {
+          "note": "代词修饰的是复数可数名词 “cupcakes”；根据前文 “so popular”（非常受欢迎）可以推断出，派对结束后纸杯蛋糕剩下的“几乎没有”，表否定含义用 few。",
+          "concept": "数量词修饰 — Quantifiers — countable nouns",
+          "zh": "简的纸杯蛋糕太受欢迎了，以至于派对结束后几乎没有剩。 ",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "1": {
+          "stem_plain": "The children jumped into the pool, causing water to ____________ over the sides.",
+          "options": {
+            "1": "drip",
+            "2": "swell",
+            "3": "slosh",
+            "4": "trickle"
+          }
+        },
+        "2": {
+          "stem_plain": "The wooden bridge was strong and ____________ enough to hold the weight of many people.",
+          "options": {
+            "1": "stiff",
+            "2": "broad",
+            "3": "tough",
+            "4": "sturdy"
+          }
+        },
+        "3": {
+          "stem_plain": "The teacher ____________ the class that their efforts would be rewarded after the test.",
+          "options": {
+            "1": "advised",
+            "2": "assured",
+            "3": "cautioned",
+            "4": "encouraged"
+          }
+        },
+        "4": {
+          "stem_plain": "I noticed a/an ____________ of excitement in his eyes when he saw the present.",
+          "options": {
+            "1": "air",
+            "2": "glint",
+            "3": "flush",
+            "4": "glare"
+          }
+        },
+        "5": {
+          "stem_plain": "The bus stopped ____________, causing everyone to fall forward.",
+          "options": {
+            "1": "slowly",
+            "2": "hastily",
+            "3": "abruptly",
+            "4": "carelessly"
+          }
+        },
+        "6": {
+          "stem_plain": "Marianne delivers free food to the elderly living alone. She considers it a/an ____________ thing to do.",
+          "options": {
+            "1": "respectful",
+            "2": "invaluable",
+            "3": "worthwhile",
+            "4": "phenomenal"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "zh": "孩子们跳进泳池，导致水从池边泼溅出来。",
+          "note": "“slosh”意思是“（液体在容器内）晃荡、泼溅”，最符合孩子跳进水池时水花四溅的动态语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "drip",
+              "zh": "滴下",
+              "eg": "Water continued to drip from the leaky kitchen tap."
+            },
+            {
+              "opt": "2",
+              "word": "swell",
+              "zh": "肿胀、膨胀",
+              "eg": "The river began to swell after consecutive days of heavy rain."
+            },
+            {
+              "opt": "3",
+              "word": "slosh",
+              "zh": "泼溅、晃荡",
+              "eg": "The milk began to slosh over the rim of the cup as I walked."
+            },
+            {
+              "opt": "4",
+              "word": "trickle",
+              "zh": "细流、缓慢地流",
+              "eg": "A small stream of sweat began to trickle down his forehead."
+            }
+          ]
+        },
+        "2": {
+          "zh": "这座木桥既坚固又结实，足以承受许多人的重量。",
+          "note": "“sturdy”意思是“结实的、坚固的”，常用来形容建筑物或家具等结构牢固，能承受重压。",
+          "concept": "Vocabulary MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stiff",
+              "zh": "僵硬的、不易弯曲的",
+              "eg": "The target became stiff after being soaked in the rain for hours."
+            },
+            {
+              "opt": "2",
+              "word": "broad",
+              "zh": "宽阔的",
+              "eg": "The truck drove down the broad avenue lined with trees."
+            },
+            {
+              "opt": "3",
+              "word": "tough",
+              "zh": "坚韧的、强壮的",
+              "eg": "The hikers wore tough boots to survive the rocky terrain."
+            },
+            {
+              "opt": "4",
+              "word": "sturdy",
+              "zh": "结实的、坚固的",
+              "eg": "We need a sturdy ladder to reach the top of the roof safely."
+            }
+          ]
+        },
+        "3": {
+          "zh": "老师向全班同学保证，他们的努力在测试后会得到回报。",
+          "note": "“assured”意思是“向……保证、使确信”，后面直接接人（the class），符合老师给学生吃定心丸的语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "advised",
+              "zh": "建议",
+              "eg": "The doctor advised him to rest at home for a few days."
+            },
+            {
+              "opt": "2",
+              "word": "assured",
+              "zh": "向……保证",
+              "eg": "The manager assured the clients that the issue would be resolved."
+            },
+            {
+              "opt": "3",
+              "word": "cautioned",
+              "zh": "警告、提醒注意",
+              "eg": "The lifeguard cautioned the swimmers against entering the deep water."
+            },
+            {
+              "opt": "4",
+              "word": "encouraged",
+              "zh": "鼓励",
+              "eg": "The coach encouraged the team to keep fighting until the last minute."
+            }
+          ]
+        },
+        "4": {
+          "zh": "当他看到礼物时，我注意到他眼里闪过一丝兴奋的光芒。",
+          "note": "“glint”意思是“闪光、闪烁”，常与“in one's eyes”连用，形容眼神中流露出的微小神色变化。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "air",
+              "zh": "神态、气氛",
+              "eg": "There was an air of mystery surrounding the abandoned castle."
+            },
+            {
+              "opt": "2",
+              "word": "glint",
+              "zh": "闪光、闪烁",
+              "eg": "A glint of mischief appeared in the little boy's eyes."
+            },
+            {
+              "opt": "3",
+              "word": "flush",
+              "zh": "红晕、激动",
+              "eg": "A sudden flush of anger rose to her face during the argument."
+            },
+            {
+              "opt": "4",
+              "word": "glare",
+              "zh": "怒视、刺眼的光",
+              "eg": "The teacher gave the rowdy student a stern glare."
+            }
+          ]
+        },
+        "5": {
+          "zh": "公交车突然停了下来，导致所有人向前倾倒。",
+          "note": "“abruptly”意思是“突然地、出其不意地”，完美解释了车辆刹车过猛导致乘客因惯性向前倒（fall forward）的原因。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "slowly",
+              "zh": "缓慢地",
+              "eg": "The train slowly pulled out of the station into the tunnel."
+            },
+            {
+              "opt": "2",
+              "word": "hastily",
+              "zh": "仓促地、急忙地",
+              "eg": "He hastily packed his bags because he was running late."
+            },
+            {
+              "opt": "3",
+              "word": "abruptly",
+              "zh": "突然地",
+              "eg": "The music stopped abruptly, leaving the dancers confused."
+            },
+            {
+              "opt": "4",
+              "word": "carelessly",
+              "zh": "粗心地、大意地",
+              "eg": "She carelessly dropped her expensive glass phone onto the concrete floor."
+            }
+          ]
+        },
+        "6": {
+          "zh": "玛丽安为独居老人送免费食物。她认为这是一件值得做的事情。",
+          "note": "“worthwhile”意思是“值得做的、有价值的”，常用来形容做义工、做慈善等能带来社会价值或成就感的事。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "respectful",
+              "zh": "恭敬的、有礼貌的",
+              "eg": "The young man stood in a respectful silence during the ceremony."
+            },
+            {
+              "opt": "2",
+              "word": "invaluable",
+              "zh": "极有价值的、无法估价的",
+              "eg": "The mentor gave me some invaluable advice regarding my career path."
+            },
+            {
+              "opt": "3",
+              "word": "worthwhile",
+              "zh": "值得做的",
+              "eg": "Visiting the museum was a worthwhile experience for the students."
+            },
+            {
+              "opt": "4",
+              "word": "phenomenal",
+              "zh": "非凡的、杰出的",
+              "eg": "The young pianist gave a phenomenal performance that amazed everyone."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "stem_plain": ".",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词 parents，指代 Sarah 和 Tom 两个人的父母，意为‘他们的’，故选 their。",
+          "answer": "D"
+        },
+        "18": {
+          "concept": "形容词性物主代词",
+          "note": "修饰名词短语 favourite kite，指代姐姐 Sarah 的风筝，用女性单数物主代词 her，故选 her。",
+          "answer": "B"
+        },
+        "19": {
+          "concept": "代词（宾格）",
+          "note": "固定搭配 have something with someone，介词 with 后用宾格，指代单数男性 Tom 自己（随身带着），故选 him。",
+          "answer": "C"
+        },
+        "20": {
+          "concept": "代词（主格）",
+          "note": "作动词 played 的主语，指代上文的复数主语 'Sarah and Tom's cousins'（表兄弟姐妹们和他们一起），故选 they。",
+          "answer": "E"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "he",
+          "B": "her",
+          "C": "him",
+          "D": "their",
+          "E": "they",
+          "F": "we"
+        },
+        "cloze": [
+          "Sarah and Tom loved playing at West Coast Park. Every Sunday, [Q17] parents would take them there for some outdoor activities. Sarah, the elder sister, would bring [Q18] favourite kite, while Tom would always have his football with [Q19]. Last week, Sarah and Tom's cousins came along and [Q20] played together till sunset. It was so fun!"
+        ],
+        "zh": [
+          "莎拉和汤姆喜欢在西海岸公园玩耍。每个星期天，他们的父母都会带他们去那里进行一些户外活动。姐姐莎拉会带上她最喜欢的风筝，而汤姆则总是随身带着他的足球。上周，莎拉和汤姆的表兄弟姐妹也一起来了，他们一起玩到日落。真是太好玩了！"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "31": {
+          "stem_plain": "The children do well for their examinations. Mother will bring them to the movies.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... if ..."
+        },
+        "32": {
+          "stem_plain": "The robber wore a black mask. The robber was caught by the police.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... who ..."
+        }
+      },
+      "answers": {
+        "31": {
+          "concept": "条件状语从句 — Conditional Clause ('if')",
+          "zh": "如果孩子们考试考得好，妈妈会带他们去看电影。",
+          "note": "if 引导条件从句，连接两个句子表达条件关系。主句使用一般将来时（will bring），if 从句使用一般现在时（do well）。",
+          "answer": "Mother will bring the children to the movies if they do well for their examinations."
+        },
+        "32": {
+          "concept": "定语从句 — Relative Clause (Subject Pronoun 'who')",
+          "zh": "戴着黑色面具的强盗被警察抓住了。",
+          "note": "who 引导定语从句修饰先行词 The robber。从句必须紧跟在它修饰的主语后，避免主谓隔离或修饰不清（也可写为：The robber who was caught by the police wore a black mask. 但通常戴面具是动作背景，被抓是主干，故前者更佳）。",
+          "answer": "The robber who wore a black mask was caught by the police."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

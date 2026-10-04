@@ -1,0 +1,1155 @@
+{
+  "paperid": "p6_english_2019_sa2_nanhua",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"They'd be happy to be given a day off to go shopping, ________?\" the manager asked.",
+          "options": {
+            "1": "didn't they",
+            "2": "hadn't they",
+            "3": "couldn't they",
+            "4": "wouldn't they"
+          }
+        },
+        "2": {
+          "stem_plain": "All the garbage from the various households ________ cleared by the rubbish truck earlier.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "All the boys from Primary Six except James ________ to play soccer during recess every day.",
+          "options": {
+            "1": "like",
+            "2": "likes",
+            "3": "liked",
+            "4": "liking"
+          }
+        },
+        "4": {
+          "stem_plain": "Whether the customers buy goods from that shop ________ on the salesmen's service.",
+          "options": {
+            "1": "depend",
+            "2": "depends",
+            "3": "depended",
+            "4": "depending"
+          }
+        },
+        "5": {
+          "stem_plain": "The students have been told what to do ________ a fire break out within the school premise.",
+          "options": {
+            "1": "will",
+            "2": "shall",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "6": {
+          "stem_plain": "The reading level of this book is appropriate ________ young readers.",
+          "options": {
+            "1": "in",
+            "2": "by",
+            "3": "on",
+            "4": "for"
+          }
+        },
+        "7": {
+          "stem_plain": "________ his earnings as a football coach, he also owns a chain of sports shops.",
+          "options": {
+            "1": "Due to",
+            "2": "Instead of",
+            "3": "Except for",
+            "4": "Apart from"
+          }
+        },
+        "8": {
+          "stem_plain": "There was so ________ traffic on the road this morning that we were an hour late for the meeting.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "9": {
+          "stem_plain": "Karen saw her mother ________ in her direction and ran to her happily.",
+          "options": {
+            "1": "walks",
+            "2": "walked",
+            "3": "walking",
+            "4": "was walking"
+          }
+        },
+        "10": {
+          "stem_plain": "\"You ________ on your project for the last one hour. You may want to take a break,\" Mrs Lim told her son.",
+          "options": {
+            "1": "were working",
+            "2": "will be working",
+            "3": "had been working",
+            "4": "have been working"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "‘They'd’在此处是‘They would’的缩写（因为后面接动词原形 be）。陈述部分为肯定句，反意疑问部分需用相应的否定情态动词形式，即‘wouldn't they’。",
+          "concept": "反意疑问句 — Question Tag",
+          "answer": "4",
+          "zh": "“如果给他们放一天假去购物，他们会很高兴的，不是吗？”经理问道。"
+        },
+        "2": {
+          "note": "‘garbage’（垃圾）是不可数名词，作主语时谓语动词要用单数。结合句末的‘earlier’（早些时候）可知事情发生在过去，因此选用过去时单数形式‘was’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "3",
+          "zh": "各个家庭的所有垃圾早些时候都被垃圾车清运走了。"
+        },
+        "3": {
+          "note": "由‘except’连接并列成分时，句子主语的核心词依然是前面的‘All the boys’（复数）。同时根据时间状语‘every day’可知本句为一般现在时，故谓语动词用复数原形‘like’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "1",
+          "zh": "除了詹姆斯之外，所有六年级的男孩子们每天休息时间都喜欢去踢足球。"
+        },
+        "4": {
+          "note": "‘Whether引导的从句’作为整个句子的主语时，谓语动词必须使用单数第三人称形式。此处陈述一个普遍规律，用一般现在时，故选‘depends’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "2",
+          "zh": "顾客是否在那家商店购买商品取决于店员的服务。"
+        },
+        "5": {
+          "note": "此处‘should’用于虚拟条件句的倒装或省略中，等同于‘if a fire should break out’（万一发生火灾）。当 if 省略时，should 提前，符合‘should + 主语 + 动词原形’的结构。",
+          "concept": "虚拟语气 — Subjunctive Mood",
+          "answer": "4",
+          "zh": "学生们已被告知，万一校园内发生火灾该怎么做。"
+        },
+        "6": {
+          "note": "‘be appropriate for...’是一个固定形容词短语搭配，意为‘对……是合适的、适合……的’。这里指这本书的阅读难度适合年轻读者。",
+          "concept": "介词搭配 — Prepositional Phrase",
+          "answer": "4",
+          "zh": "这本书的阅读难度适合年轻读者。"
+        },
+        "7": {
+          "note": "‘Apart from’意为‘除……之外（还）’，表示累加关系。句意指除了他作为足球教练的收入外，他名下还拥有一家体育用品连锁店。",
+          "concept": "介词短语 — Prepositional Phrase",
+          "answer": "4",
+          "zh": "除了当足球教练的收入外，他拥有一家体育用品连锁店。"
+        },
+        "8": {
+          "note": "‘traffic’（交通、车流量）是不可数名词，排除 few 和 many。根据后文‘我们开会迟到了一个小时’可以推断，路上的交通流量是非常大、非常拥堵的，故选‘much’。",
+          "concept": "不定量词 — Quantifiers",
+          "answer": "3",
+          "zh": "今天早上路上的交通太拥堵了，导致我们开会迟到了一个小时。"
+        },
+        "9": {
+          "note": "‘saw’是感官动词，其后接宾语加动词形式。‘see someone doing something’表示看到某人正在做某事，这里用现在分词‘walking’强调动作正在发生、具有画面感。",
+          "concept": "感官动词 — Verbs of Perception",
+          "answer": "3",
+          "zh": "凯伦看到她母亲正朝她的方向走来，便高兴地向她跑去。"
+        },
+        "10": {
+          "note": "‘for the last one hour’表示动作从过去某一时刻开始一直持续到现在并且还在进行中，常与现在完成进行时连用。因此选用‘have been working’形式。",
+          "concept": "动词时态 — Tense",
+          "answer": "4",
+          "zh": "“在过去的一个小时里你一直都在做你的项目。你可能需要休息一下，”林太太对她儿子说。"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The fireman's ________ wit at the moment of crisis enabled him to save the boy's life.",
+          "options": {
+            "1": "swift",
+            "2": "rapid",
+            "3": "quick",
+            "4": "speedy"
+          }
+        },
+        "12": {
+          "stem_plain": "Joe had sufficient time to check his exam paper but he chose to play with his stationery instead. His ________ caused him to overlook many mistakes in the paper.",
+          "options": {
+            "1": "conspiracy",
+            "2": "composure",
+            "3": "complacency",
+            "4": "conscientiousness"
+          }
+        },
+        "13": {
+          "stem_plain": "The teacher ________ me for the last question but I simply could not find an answer.",
+          "options": {
+            "1": "called in",
+            "2": "called on",
+            "3": "called up",
+            "4": "called off"
+          }
+        },
+        "14": {
+          "stem_plain": "Kathy was so ________ in her newly bought novel that she did not hear her phone ring.",
+          "options": {
+            "1": "engulfed",
+            "2": "occupied",
+            "3": "captivated",
+            "4": "engrossed"
+          }
+        },
+        "15": {
+          "stem_plain": "Ruby was not used to receiving ________ from others. She blushed deeply as her teammates heaped praises upon her for her performance.",
+          "options": {
+            "1": "flattery",
+            "2": "esteem",
+            "3": "compliments",
+            "4": "recommendations"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "消防员在危机时刻的机智使他得以挽救那个男孩的生命。",
+          "note": "‘quick wit’是一个固定搭配，意为‘机敏、随机应变的能力’。形容在危急关头反应迅速、有智谋。",
+          "concept": "Vocabulary-Adjective",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "swift",
+              "zh": "迅速的，敏捷的（形容词，常指动作或移动速度极快）",
+              "eg": "The company made a **swift** decision to recall the defective products."
+            },
+            {
+              "opt": "2",
+              "word": "rapid",
+              "zh": "快速的，急剧的（形容词，通常指在短时间内发生或发展的变化）",
+              "eg": "The city has experienced **rapid** economic growth over the past decade."
+            },
+            {
+              "opt": "3",
+              "word": "quick",
+              "zh": "快的，机敏的（形容词，常与 wit 连用组成固定搭配 quick wit）",
+              "eg": "His **quick** response prevented the kitchen fire from spreading further."
+            },
+            {
+              "opt": "4",
+              "word": "speedy",
+              "zh": "快速的，迅速的（形容词，指没有延迟地快速完成或进行）",
+              "eg": "We wish you a **speedy** recovery after your minor surgery."
+            }
+          ]
+        },
+        "12": {
+          "zh": "乔有足够的时间检查试卷，但他却选择玩文具。他的自满导致他忽略了试卷中的许多错误。",
+          "note": "‘complacency’意为‘自满、盲目乐观’。句中提到他有时间检查却去玩文具，说明他对自己很有信心、盲目自满，从而导致粗心漏掉错误。",
+          "concept": "Vocabulary-Noun",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "conspiracy",
+              "zh": "阴谋，密谋（名词，指两人或多人秘密策划做非法或有害的事情）",
+              "eg": "The police uncovered a **conspiracy** to historical artifacts from the national museum."
+            },
+            {
+              "opt": "2",
+              "word": "composure",
+              "zh": "镇静，沉着（名词，指在压力或危机下保持平静和控制情绪的能力）",
+              "eg": "The manager maintained her **composure** despite the angry complaints from the client."
+            },
+            {
+              "opt": "3",
+              "word": "complacency",
+              "zh": "自满，盲目乐观（名词，指对现状过于满意而不思进取或掉以轻心）",
+              "eg": "We cannot allow **complacency** to set in just because we won the first match."
+            },
+            {
+              "opt": "4",
+              "word": "conscientiousness",
+              "zh": "尽职尽责，认真（名词，指做事小心谨慎、一丝不苟的态度）",
+              "eg": "Her **conscientiousness** as a researcher earned her the respect of her colleagues."
+            }
+          ]
+        },
+        "13": {
+          "zh": "老师对最后一道题点名让我回答，但我根本找不到答案。",
+          "note": "‘called on’意为‘请（某人）回答问题、点名’。老师在课堂上点名让主角回答最后一道问题，符合教学场景语境。",
+          "concept": "Vocabulary-Phrasal Verb",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "called in",
+              "zh": "召来，叫来（动词短语，指要求某人来帮忙或提供专业服务）",
+              "eg": "The plumber was **called in** to fix the leaking pipe in the bathroom."
+            },
+            {
+              "opt": "2",
+              "word": "called on",
+              "zh": "点名，邀请回答（动词短语，指老师在课堂上点名让学生发言或回答问题）",
+              "eg": "I was **called on** by the teacher to read the next paragraph aloud."
+            },
+            {
+              "opt": "3",
+              "word": "called up",
+              "zh": "打电话给，征召（动词短语，指给某人打电话，或者征召某人服兵役）",
+              "eg": "He **called up** his old high school friend to invite him to the reunion."
+            },
+            {
+              "opt": "4",
+              "word": "called off",
+              "zh": "取消（动词短语，指取消原本计划好的活动、比赛或会议）",
+              "eg": "The outdoor concert was **called off** because of the severe thunderstorm."
+            }
+          ]
+        },
+        "14": {
+          "zh": "凯西太沉浸于她新买的小说中，以至于没有听到电话铃响。",
+          "note": "‘be engrossed in’意为‘全神贯注于、聚精会神于’。形容凯西读书读得非常入迷，所以连电话响了都没听见。",
+          "concept": "Vocabulary-Adjective",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "engulfed",
+              "zh": "吞没，包围（动词过去分词，常指火灾、洪水或强烈情感将某人/某物完全淹没）",
+              "eg": "The tiny wooden cottage was completely **engulfed** by the flames within minutes."
+            },
+            {
+              "opt": "2",
+              "word": "occupied",
+              "zh": "忙碌的，被占用的（形容词，指某人正忙于做某事，或房间、座位等有人使用）",
+              "eg": "He was fully **occupied** with clearing his emails for the entire morning."
+            },
+            {
+              "opt": "3",
+              "word": "captivated",
+              "zh": "被迷住的，着迷的（动词过去分词，指因美丽、有趣或迷人的事物而被强烈吸引）",
+              "eg": "The audience was completely **captivated** by the magician's illusions."
+            },
+            {
+              "opt": "4",
+              "word": "engrossed",
+              "zh": "全神贯注的，沉迷的（形容词，指注意力完全集中在某事上，常搭配 介词 in）",
+              "eg": "She was so **engrossed** in her drawing that she didn't notice the time passing."
+            }
+          ]
+        },
+        "15": {
+          "zh": "红宝石不习惯接受别人的称赞。当她的队友们因为她的表现对她赞不绝口时，她脸红了。",
+          "note": "‘compliments’意为‘赞美、恭维’。后文提到‘heaped praises upon her’（对她赞不绝口），对应了前文她不习惯接受别人的称赞或赞美。",
+          "concept": "Vocabulary-Noun",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "flattery",
+              "zh": "奉承，阿谀（名词，通常指带有不真诚、带有目的性的虚假赞美）",
+              "eg": "He tried to use **flattery** to get a promotion from his supervisor."
+            },
+            {
+              "opt": "2",
+              "word": "esteem",
+              "zh": "尊敬，敬重（名词，指对某人的高尚品德或成就表示钦佩和尊重）",
+              "eg": "The retired headmaster is held in high **esteem** by the local community."
+            },
+            {
+              "opt": "3",
+              "word": "compliments",
+              "zh": "赞美，称赞（名词，指对某人的外表、工作、表现等表达赞许的话语）",
+              "eg": "The chef received many **compliments** from the guests on the delicious dessert."
+            },
+            {
+              "opt": "4",
+              "word": "recommendations",
+              "zh": "推荐，建议（名词，指认为某人或某物适合某项工作或用途而向他人提出建议）",
+              "eg": "The committee made several **recommendations** for improving school safety."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "ideal",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "model",
+            "2": "perfect",
+            "3": "supreme",
+            "4": "complete"
+          }
+        },
+        "17": {
+          "stem_plain": "loathes",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "hates",
+            "2": "refuses",
+            "3": "evades",
+            "4": "disregard"
+          }
+        },
+        "18": {
+          "stem_plain": "engage in",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "take up",
+            "2": "take off",
+            "3": "take over",
+            "4": "take down"
+          }
+        },
+        "19": {
+          "stem_plain": "With her heart in her mouth",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Worriedly",
+            "2": "Miserably",
+            "3": "Uncertainly",
+            "4": "Sympathically"
+          }
+        },
+        "20": {
+          "stem_plain": "regularly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "tirelessly",
+            "2": "frequently",
+            "3": "repeatedly",
+            "4": "unceasingly"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “ideal”指理想的、完美的，这里形容最心仪、最完美的餐食搭配，与“perfect”意思完全相同。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "model",
+              "zh": "模范的，模型的",
+              "eg": "He is widely considered a model student in our school."
+            },
+            {
+              "opt": "2",
+              "word": "perfect",
+              "zh": "完美的，理想的",
+              "eg": "Sunny and warm weather provides a perfect day for a picnic."
+            },
+            {
+              "opt": "3",
+              "word": "supreme",
+              "zh": "至高无上的，最高的",
+              "eg": "The supreme commander gave orders to the entire army forces."
+            },
+            {
+              "opt": "4",
+              "word": "complete",
+              "zh": "完全的，完整的",
+              "eg": "The project layout is now complete after months of work."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “loathes”指强烈厌恶、极其讨厌，与“hates”意思最接近。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hates",
+              "zh": "讨厌，憎恨",
+              "eg": "She hates washing her dirty shoes after a rainy day hike."
+            },
+            {
+              "opt": "2",
+              "word": "refuses",
+              "zh": "拒绝（做某事）",
+              "eg": "The boy firmly refuses to eat his green vegetables tonight."
+            },
+            {
+              "opt": "3",
+              "word": "evades",
+              "zh": "逃避，躲避",
+              "eg": "He always evades answering direct questions about his mistakes."
+            },
+            {
+              "opt": "4",
+              "word": "disregard",
+              "zh": "不理会，漠视",
+              "eg": "Please disregard the loud noise outside and focus on the test."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — 短语“engage in outdoor activities and sports”意为参加、从事体育活动，与之对应的短语是“take up（开始从事、培养……的兴趣）”。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "take up",
+              "zh": "开始从事，开始培养（兴趣、运动等）",
+              "eg": "She decided to take up swimming to improve her fitness level."
+            },
+            {
+              "opt": "2",
+              "word": "take off",
+              "zh": "起飞，脱掉（衣服），大受欢迎",
+              "eg": "Please remember to take off your shoes before entering the room."
+            },
+            {
+              "opt": "3",
+              "word": "take over",
+              "zh": "接管，接手",
+              "eg": "The assistant manager will take over the branch next week."
+            },
+            {
+              "opt": "4",
+              "word": "take down",
+              "zh": "记下，拆除",
+              "eg": "The police officer told him to take down the license plates."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — 习语“With her heart in her mouth”生动地形容人极度焦虑、心惊胆战、吓得心提到嗓子眼，因此对应副词“Worriedly（焦急地、担忧地）”。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Worriedly",
+              "zh": "焦急地，担忧地",
+              "eg": "The mother watched worriedly as her child climbed the tall ladder."
+            },
+            {
+              "opt": "2",
+              "word": "Miserably",
+              "zh": "痛苦地，可怜地",
+              "eg": "The wet puppy sat miserably outside the front door in the rain."
+            },
+            {
+              "opt": "3",
+              "word": "Uncertainly",
+              "zh": "不确定地，犹豫地",
+              "eg": "He looked around uncertainly, not knowing which road to take."
+            },
+            {
+              "opt": "4",
+              "word": "Sympathically",
+              "zh": "同情地",
+              "eg": "She listened sympathetically to her friend's difficult story."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “exercise regularly”意为定期、经常锻炼，与“frequently（频繁地、经常地）”在频率表述上最接近。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tirelessly",
+              "zh": "不知疲倦地",
+              "eg": "The medical researchers worked tirelessly to discover a cure."
+            },
+            {
+              "opt": "2",
+              "word": "frequently",
+              "zh": "频繁地，经常地",
+              "eg": "Trains frequently pass through this rural countryside station."
+            },
+            {
+              "opt": "3",
+              "word": "repeatedly",
+              "zh": "一再地，屡次（侧重动作的重复发生）",
+              "eg": "He was warned repeatedly not to arrive late for meetings."
+            },
+            {
+              "opt": "4",
+              "word": "unceasingly",
+              "zh": "不停地，连续不断地",
+              "eg": "The water flowed unceasingly down the side of the mountain rock."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Chwee Chan loves his junk food. His [Q16(ideal)] meal consists of pizzas, burgers, waffles, washed down with a big cup of bubble tea.",
+          "On top of that, he [Q17(loathes)] exercising so much that he does what he can to avoid doing anything strenuous. His friends and family often encourage him to [Q18(engage in)] outdoor activities and sports. However, these would fall on deaf ears.",
+          "One evening, in the middle of another snack after his dinner, Chwee Chan felt a sharp pain in his stomach! He began to break out in cold sweat and had difficulty breathing.",
+          "[Q19(With her heart in her mouth)], Chwee Chan's mother called for the ambulance and he was rushed to the hospital. The doctors found that Chwee Chan's heart was in poor condition. He was advised by the doctors that he needed to exercise [Q20(regularly)] and watch his diet. After this serious incident, Chwee Chan knew that he had to stop eating junk food and exercise more."
+        ],
+        "zh": [
+          "水赞非常喜欢吃垃圾食品。他理想中的一餐包括比萨、汉堡和华夫饼，还要配上一大杯珍珠奶茶来送服。",
+          "不仅如此，他极其讨厌运动，以至于想方设法避免进行任何剧烈运动。他的朋友和家人经常鼓励他参加户外活动和体育运动。然而，这些话都成了耳边风。",
+          "一天晚上，在晚饭后又吃零食的过程中，水赞突然感到胃部剧烈疼痛！他开始冒冷汗，呼吸也变得困难起来。",
+          "水赞的母亲吓得心惊胆战，赶紧叫了救护车，他被紧急送往医院。医生发现水赞的心脏状况很差。医生建议他需要经常锻炼并注意饮食。经历了这次严重的事件后，水赞知道自己必须停止吃垃圾食品，并且要多运动。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘has long been considered’ 构成现在完成时的被动语态，主语是动名词短语 Brushing one's teeth（刷牙），属于单数概念，故助动词用 has。",
+          "answer": "G"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘when/if’ 引导时间或条件状语从句，根据所给选项，此处使用 when，表示‘当牙齿不经常刷的时候’。",
+          "answer": "P"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘as long ago as...’ 是固定搭配，表示‘早在……的时候’。",
+          "answer": "D"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘more’ 修饰副词 effectively 构成比较级，表示‘更有效地’渗透进牙缝。",
+          "answer": "J"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘a much more sophisticated toothbrush’，副词 much 常常用来修饰形容词或副词的比较级，表示‘更……得多’。",
+          "answer": "K"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘churn out’ 是固定短语，表示‘大量生产、大量涌现’。",
+          "answer": "L"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘also’ 用作副词，表示‘也’，即‘超软毛牙刷也同样可供……使用’。",
+          "answer": "B"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘could clean’ 或 ‘would clean’，此处表示这些小三角形刷头的功能性或可能性，选用情态动词 could（能够清洁宽缝牙齿）。",
+          "answer": "E"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘with limited mobility’，介词 with 表示‘伴随、带有’，修饰前面的 individuals（有手部行动不便或不够灵活的个体）。",
+          "answer": "Q"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘although’ 引导让步状语从句，表示‘尽管建议每三到四个月更换一次牙刷，但平均每人每两年才购买三把牙刷’。",
+          "answer": "C"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "also",
+          "C": "although",
+          "D": "as",
+          "E": "could",
+          "F": "had",
+          "G": "has",
+          "H": "it",
+          "J": "more",
+          "K": "much",
+          "L": "out",
+          "M": "the",
+          "N": "up",
+          "P": "when",
+          "Q": "with"
+        },
+        "cloze": [
+          "Do you brush your teeth regularly? Brushing one's teeth [Q29] long been considered an important part of dental hygiene. [Q30] teeth are not brushed frequently, plaque which consists of about 75% bacteria grows quickly. Gum disease occurs when plaque builds up.",
+          "[Q31] long ago as 3000 BC, ancient Egyptians constructed crude toothbrushes from twigs and leaves to clean their teeth. They would fray one end of the twig so that it could penetrate between the teeth [Q32] effectively. By the 15th century, the Chinese had designed a [Q33] more sophisticated toothbrush complete with a brush attached to a handle. By the 1990s, the toothbrush industry started churning [Q34] a variety of toothbrushes of various designs. They included variations in bristle shape, size and texture, as well as unconventional handle styles. Toothbrushes with extra-soft bristles were [Q35] available for people with highly sensitive teeth. Other toothbrushes included small triangular brush heads that [Q36] clean in between widely spaced teeth.",
+          "Currently, electric toothbrushes are specially designed for individuals [Q37] limited mobility or dexterity in their hands. [Q38] it is recommended that brushes be changed every three to four months, on average, each person purchases three toothbrushes every two years. The market for toothbrushes has swelled over the years."
+        ],
+        "zh": [
+          "你定期刷牙吗？刷牙长期以来一直被认为是口腔卫生的一个重要组成部分。当牙齿不经常刷时，由大约75%的细菌组成的牙菌斑就会迅速生长。当牙菌斑积聚时，就会发生牙龈疾病。",
+          "早在公元前3000年，古埃及人就用树枝和树叶制作了简陋的牙刷来清洁牙齿。他们会把树枝的一端弄碎，以便它能更有效地渗透到牙缝之间。到了15世纪，中国人设计出了一种复杂得多的牙刷，配有固定在手柄上的刷子。到了20世纪90年代，牙刷行业开始大量生产各种设计的牙刷。它们包括刷毛形状、尺寸和质地的变化，以及非传统的手柄样式。超软毛牙刷也可供牙齿高度敏感的人使用。其他牙刷还包括小三角形的刷头，可以清洁宽缝牙齿。 ",
+          "目前，电动牙刷是专门为手部行动不便或不够灵活的人群设计的。尽管建议每三到四个月更换一次牙刷，但平均而言，每个人每两年才购买三把牙刷。这些年来，牙刷市场已经大幅膨胀。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 appreciate（动词，意为感激、欣赏）。",
+          "answer": "appreciate"
+        },
+        "40": {
+          "concept": "代词 - Pronouns",
+          "note": "关系代词指代错误：用来指代人的先行词是 a selfish child（一个自私的孩子），关系代词应用 who，而非修饰事物的 which。",
+          "answer": "who"
+        },
+        "41": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：“用言语表达”的固定短语是 put into words，而非 put on words。",
+          "answer": "into"
+        },
+        "42": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰名词 family 意为“大家庭、大家族”，应使用其形容词形式 extended family，而非现在分词形式 extending。",
+          "answer": "extended"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 cordially（副词，意为热诚地、诚挚地）。",
+          "answer": "cordially"
+        },
+        "44": {
+          "concept": "形容词比较级 - Comparatives",
+          "note": "比较级用法错误：结合后半句的 when 从句，此处是将“聚在一起吃大团圆饭时”与平时进行比较，表示“更显温馨甜美”，应用比较级 sweeter，而非原级 sweet。",
+          "answer": "sweeter"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 sumptuous（形容词，意为丰盛的、奢华的）。",
+          "answer": "sumptuous"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 magnificent（形容词，意为宏伟的、极好的）。",
+          "answer": "magnificent"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 congregate（动词，意为聚集、集合）。",
+          "answer": "congregate"
+        },
+        "48": {
+          "concept": "现在分词 - Present Participles",
+          "note": "非谓语动词/平行结构：与后面的 and sip（此处原卷伴随动名词短语，连带 sip 变为现在分词前置伴随状语）平行，作为句首的伴随状态，应用现在分词形式 Watching 充当状语，并与后面的 sipping 保持并列呼应关系（或将划线并列部分整体视为分词短语，此处应填入 Watching 开启伴随从句）。",
+          "answer": "Watching"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 portrait（名词，意为肖像、画像）。",
+          "answer": "portrait"
+        },
+        "50": {
+          "concept": "现在完成时被动语态 - Passive Voice in Present Perfect",
+          "note": "语态错误：现在完成时被动语态的结构为 has/have been + 过去分词，hang 的过去分词是 hung，而 hang 用于表达“悬挂”时不是规则变化的 hang_d（hang_d 意为绞刑）。",
+          "answer": "hung"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Most children would be overjoyed to hear that their parents were taking them on a vacation. However, as a child, I did not [Q39(apreceate)] that. I was a selfish child [Q40(which)] thought it would be better to visit the theme parks instead of my father's hometown in Malacca. Now, I cannot put [Q41(on)] words how grateful I am to my parents for instilling that family bond with my [Q42(extending)] family in Malacca all those years.",
+          "The reunion was sweet. My aunties, uncles and cousins would come to the airport to welcome us [Q43(cordearly)] and drive us to their house for the stay. It was even [Q44(sweet)] when we got together for a big family dinner with my father's grandparents, parents and siblings. After the [Q45(sumtuous)] dinner, we gathered in the living room to look at the several scrapbooks Auntie Debbie had made with my father's photographs in his younger days. They were indeed [Q46(magnefisent)]!",
+          "Every year, the different generations will [Q47(kongrigate)] at Malacca for the reunion without fail. [Q48(Watching)] and sip Auntie Debbie's homemade ginger tea, I begin to reminisce about the past. The [Q49(pourtreit)] of my great grandparents which has been [Q50(hang)] in the living room remains where it is. They are perhaps celebrating the reunion as well!"
+        ],
+        "zh": [
+          "大多数孩子听到父母要带他们去度假都会欣喜若狂。然而，小时候的我却并不[Q39(懂得感激)]。我曾是个自私的孩子，[Q40(他)]总觉得去主题公园玩，总比去父亲在马六甲的老家要好。现在，我无法[Q41(用)]言语来表达我对父母的感激之情，感谢他们这些年来一直让我与马六甲的[Q42(大家庭)]建立起如此紧密的家族纽带。",
+          "团聚是甜蜜的。我的长辈和堂表亲们会到机场[Q43(热忱地)]欢迎我们，并开车接我们去他们家住。当大家和父亲的祖父母、父母以及兄弟姐妹聚在一起吃大团圆饭时，那感觉甚至[Q44(更加温馨甜美)]。在享用完[Q45(丰盛的)]晚餐后，我们聚集在客厅里，翻看黛比姨妈用父亲年轻时的照片制作的几本剪贴簿。它们确实[Q46(精美极了)]！",
+          "每年，不同辈分的人都会雷打不动地[Q47(聚集)]在马六甲吃团圆饭。[Q48(看着)]孩子们游泳、与堂表亲的孩子们一起玩耍，并品尝着黛比姨妈自制的姜茶，我开始追忆过去。曾曾祖父母的那幅一直[Q50(挂)]在客厅里的[Q49(画像)]依然完好地留在那儿。也许，他们也在另一端和我们一起庆祝这场团圆呢！"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "动名词 / 上下文语境",
+          "answer": "causing / inducing / tracking / promoting",
+          "note": "位于介词‘for’之后，需填入动名词形式，与‘weight gain’连用，意为‘因为导致（causing）体重增加而闻名’。"
+        },
+        "52": {
+          "concept": "形容词",
+          "answer": "popular / famous / well-known / common",
+          "note": "结合后半句‘and its demand exploded’，可知巧克力在很多国家变得非常‘流行/受欢迎（popular）’。"
+        },
+        "53": {
+          "concept": "助动词 (现在完成时)",
+          "answer": "has",
+          "note": "与后面的过去分词‘become’连用构成现在完成时，主语‘Chocolate’为单数，故填入助动词‘has’。"
+        },
+        "54": {
+          "concept": "上下文语境名词",
+          "answer": "effect / effects / benefit / impact",
+          "note": "与前文疑问词及后文的介词短语‘have on our health?’连用，‘have an effect on’为固定搭配，意为‘吃巧克力对我们的健康有什么影响（effect/effects）？’"
+        },
+        "55": {
+          "concept": "名词",
+          "answer": "content / levels / amounts",
+          "note": "与‘high fat and sugar’连用，此处填入单数名词表示高脂肪和高糖分的‘含量（content）’。"
+        },
+        "56": {
+          "concept": "固定搭配 / 动词 (分词短语)",
+          "answer": "according",
+          "note": "与后文的‘to some research’连用，‘according to’为固定搭配，意为‘根据（according）一些研究’。"
+        },
+        "57": {
+          "concept": "定冠词 / 比较级固定句型",
+          "answer": "the",
+          "note": "构成‘the + 比较级..., the + 比较级...’的固定句型，意为黑巧克力中的可可含量越高，带来的益处就越（the）多。"
+        },
+        "58": {
+          "concept": "动词 (现在完成时/一般过去时)",
+          "answer": "found / discovered / observed / noticed / shown / proven",
+          "note": "主语为‘Researchers’，后接宾语从句，意为研究人员已经‘发现（found）’骑行者吃黑巧克力能减少耗氧量。"
+        },
+        "59": {
+          "concept": "名词 / 固定搭配",
+          "answer": "distance / time / period",
+          "note": "与‘cycle a longer’连用，表示‘能够骑行更长的距离（distance）’。"
+        },
+        "60": {
+          "concept": "语境词 (限定词/副词/动名词)",
+          "answer": "only / taking / drinking / consuming / having / just",
+          "note": "位于主语位置。官方参考答案给出了‘only / just（仅仅每天两杯）’或‘drinking / consuming（每天喝两杯）’作为核心主语成分。"
+        },
+        "61": {
+          "concept": "动词原形 / 动词搭配",
+          "answer": "reduce / combat / prevent / decrease",
+          "note": "与‘helps keep the brain healthy and’并列，后接名词短语‘memory loss’，意为‘有助于保持大脑健康并减少/防止（reduce）老年人的记忆力减退’。"
+        },
+        "62": {
+          "concept": "形容词比较级",
+          "answer": "better / healthier",
+          "note": "后方有比较连词‘than’，牛奶巧克力厂商坚称自己的产品比黑巧克力对健康‘更好（better）’。"
+        },
+        "63": {
+          "concept": "动词 (一般现在时单数)",
+          "answer": "provides / gives / supplies / contains / has",
+          "note": "主语为代词‘it’，此处填入一般现在时单数动词，表示因为它‘提供/含有（provides）’蛋白质和钙。"
+        },
+        "64": {
+          "concept": "副词 / 动词原形修饰",
+          "answer": "really / indeed / significantly / actually / help / definitely",
+          "note": "位于情态动词‘can’与动词原形‘improve’之间，用作副词，意为是否吃任何种类的巧克力都能‘真正地（really）’改善人们的健康。"
+        },
+        "65": {
+          "concept": "固定搭配 / 连词成分",
+          "answer": "but",
+          "note": "与前文的‘does not only have cocoa’呼应，构成‘not only... but also...’的固定关联连词结构，意为‘不仅……而且还（but）……’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The next time you eat a bar of chocolate, you may not have to feel so guilty about it anymore. Although it is known for [Q51] weight gain, it has some surprisingly good health benefits too. Chocolate is made from the seeds of the tropical cacao tree. In the 1400s, chocolate became very [Q52] in many countries and its demand exploded. Chocolate [Q53] since become a food product that millions of people enjoy every day due to its unique and sweet taste. However, what [Q54] does eating chocolate have on our health?",
+          "Chocolate is thought to be bad for health because of its high fat and sugar [Q55]. Eating too much chocolate has been linked to high blood pressure, heart disease and diabetes. However, [Q56] to some research, the higher the cocoa content in dark chocolate, [Q57] more benefits there are. This is because such dark chocolate contains less fat and sugar. Researchers have [Q58] that cyclists who ate dark chocolate used less oxygen when cycling and were also able to cycle a longer [Q59]. Other findings have also suggested that [Q60] two cups of hot chocolate a day helps improve blood flow to the brain. This helps to keep the brain healthy and [Q61] memory loss in older people.",
+          "However, milk chocolate manufacturers claim that their product is [Q62] for health than dark chocolate because it [Q63] protein and calcium. As of now, more research is needed to confirm if eating any kind of chocolate can [Q64] improve people's health since chocolate does not only have cocoa [Q65] also other ingredients. The benefits and risks of these other ingredients, such as sugar and fat, need to be considered as well."
+        ],
+        "zh": [
+          "下一次你吃巧克力棒的时候，可能再也不用感到那么内疚了。虽然它因导致体重增加而闻名，但它也具有一些令人惊讶的健康益处。巧克力是由热带可可树的种子制成的。在1400年代，巧克力在许多国家变得非常流行，其需求呈爆发式增长。此后，由于其独特而香甜的口味，巧克力已成为数百万人每天都喜爱的食品。然而，吃巧克力究竟对我们的健康有什么影响呢？",
+          "巧克力被认为对健康不利，是因为其高脂肪和高糖分的含量。吃太多巧克力被认为与高血压、心脏病和糖尿病有关。然而，根据一些研究，黑巧克力中的可可含量越高，带来的益处就越多。这是因为这种黑巧克力含有较少的脂肪和糖分。研究人员已经发现，吃黑巧克力的骑行者在骑车时消耗的氧气更少，并且能够骑行更长的距离。其他研究结果也表明，每天仅仅/喝两杯热巧克力有助于改善流向大脑的血液。这有助于保持大脑健康，并减少/防止老年人记忆力减退。",
+          "然而，牛奶巧克力制造商声称，他们的产品比黑巧克力对健康更好，因为它提供了蛋白质和钙。截至目前，还需要更多的研究来证实吃任何一种巧克力是否真的能改善人们的健康，因为巧克力不仅含有可可，而且还含有其他成分。这些其他成分（如糖和脂肪）的利与弊也需要一并考虑。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

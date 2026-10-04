@@ -1,0 +1,1551 @@
+{
+  "paperid": "p6_english_2024_sa2_taonan",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"Don't hesitate to contact me ________ you need any kind of help,\" said my brother reassuringly.",
+          "options": {
+            "1": "might",
+            "2": "could",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "2": {
+          "stem_plain": "________ their lunch break, the construction workers have been working continuously since nine in the morning.",
+          "options": {
+            "1": "Besides",
+            "2": "Owing to",
+            "3": "Apart from",
+            "4": "In addition to"
+          }
+        },
+        "3": {
+          "stem_plain": "\"She's never attended any of the meetings, ________ ?\" Muthu asked me.",
+          "options": {
+            "1": "did she",
+            "2": "has she",
+            "3": "didn't she",
+            "4": "hasn't she"
+          }
+        },
+        "4": {
+          "stem_plain": "Mr Kumar is the teacher ________ you must report to at the campsite.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "5": {
+          "stem_plain": "The scientist could not conclude the experiment because there is ________ information to support it.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "6": {
+          "stem_plain": "\"It was Mrs Jaya, and not her children, who walked home by ________ yesterday,\" Grandfather told us.",
+          "options": {
+            "1": "himself",
+            "2": "herself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "7": {
+          "stem_plain": "The sportsmanship that our athletes have been exhibiting over the years ________ truly commendable.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "There was a surge ________ excitement when the school team scored a goal during the football match.",
+          "options": {
+            "1": "on",
+            "2": "of",
+            "3": "with",
+            "4": "towards"
+          }
+        },
+        "9": {
+          "stem_plain": "\"Did you know that the earrings in the display case ________ to a princess who will be visiting Singapore soon?\" asked the museum guide.",
+          "options": {
+            "1": "belong",
+            "2": "belongs",
+            "3": "belonged",
+            "4": "have belonged"
+          }
+        },
+        "10": {
+          "stem_plain": "\"I have never heard my mother ________ that song before.\"",
+          "options": {
+            "1": "sing",
+            "2": "sang",
+            "3": "sung",
+            "4": "sings"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "条件句 — Formal conditional with should",
+          "zh": "“若你需要任何帮助，尽管联系我。”哥哥安慰道。",
+          "note": "should you need 为倒装，相当于 if you should need，语气正式、委婉，常接在 hesitate / do not hesitate 之后。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "语法 — Exception phrase",
+          "zh": "除了午休时间，建筑工人从早上九点起一直在连续工作。",
+          "note": "Apart from 表“除……之外（仍包括其他时间）”；Owing to 表原因，不合句意。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "反意疑问句 — Question tag (present perfect)",
+          "zh": "“她从未参加过任何会议，是吗？”穆图问我。",
+          "note": "never 含否定意义，主句视作否定，附加疑问用肯定 has she（与 has attended 一致）。",
+          "answer": "2"
+        },
+        "4": {
+          "concept": "介词 — Relative pronoun (object of preposition)",
+          "zh": "库马尔先生是你在营地必须向其报到的那位老师。",
+          "note": "report to 的宾语为人，介词提前用 whom。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "量词 — quantifier with uncountable noun",
+          "zh": "科学家无法下结论，因为几乎没有支持该结论的资料。",
+          "note": "information 不可数，表“不足”用 little；few 接可数复数。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "代词 — Reflexive pronoun in cleft sentence",
+          "zh": "“昨天独自走回家的是贾雅太太，而不是她的孩子们。”祖父告诉我们。",
+          "note": "强调女性本人用反身代词 herself，与 Mrs Jaya 一致。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "主谓一致 — Subject–verb agreement (uncountable subject)",
+          "zh": "多年来运动员们所展现的体育精神确实值得称赞。",
+          "note": "主语核心 The sportsmanship 为单数抽象名词，谓语用 is。",
+          "answer": "1"
+        },
+        "8": {
+          "concept": "固定介词 — Fixed preposition (of)",
+          "zh": "校队在足球赛中进球时，现场一阵兴奋高涨。",
+          "note": "固定搭配 a surge of + 抽象名词（excitement）。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "主谓一致 — Subject–verb agreement + present simple (state verb)",
+          "zh": "展柜里的耳环属于一位即将来访新加坡的公主。",
+          "note": "earrings 为复数主语，谓语用复数动词 belong。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "不定式 — Perception verb + bare infinitive",
+          "zh": "“我以前从没听妈妈唱过那首歌。”",
+          "note": "hear + 宾语 + 动词原形，表示听到动作全过程。",
+          "answer": "1"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The milk powder was immediately ________ after a strain of bacteria was found in the test samples.",
+          "options": {
+            "1": "recalled",
+            "2": "revoked",
+            "3": "reviewed",
+            "4": "recollected"
+          }
+        },
+        "12": {
+          "stem_plain": "Jade spoke ________ about attending the graduation concert with a sparkle in her eyes.",
+          "options": {
+            "1": "heatedly",
+            "2": "forcefully",
+            "3": "vigorously",
+            "4": "animatedly"
+          }
+        },
+        "13": {
+          "stem_plain": "The ________ son ensured that his retired parents were financially taken care of by starting a savings account for them.",
+          "options": {
+            "1": "filial",
+            "2": "loyal",
+            "3": "tactful",
+            "4": "faithful"
+          }
+        },
+        "14": {
+          "stem_plain": "As Mr Jiang was a man of dignity, he refused to do anything that would ________ his principles.",
+          "options": {
+            "1": "guard",
+            "2": "oppose",
+            "3": "degrade",
+            "4": "compromise"
+          }
+        },
+        "15": {
+          "stem_plain": "We are confident that the management team will use their ________ to select deserving recipients for the scholarship.",
+          "options": {
+            "1": "selection",
+            "2": "operation",
+            "3": "discretion",
+            "4": "permission"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "检测出细菌后，奶粉立刻被召回。",
+          "note": "应选（1）'recalled'：题干语境最宜表达'（厂商）召回（产品）'。解析中强调的关键形式为'recall'，与正确项一致。'revoked'义为'撤销；废除（执照、权利）'：与题干语境或搭配要求不一致。'reviewed'义为'审查；评论；复习'：与题干语境或搭配要求不一致。'recollected'义为'回想起；记起'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — recalled（（厂商）召回（产品））",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "recalled",
+              "zh": "（厂商）召回（产品）",
+              "eg": "The carmaker <strong>recalled</strong> thousands of vehicles after a faulty airbag was discovered."
+            },
+            {
+              "opt": "2",
+              "word": "revoked",
+              "zh": "撤销；废除（执照、权利）",
+              "eg": "His driving licence was <strong>revoked</strong> after the third speeding offence."
+            },
+            {
+              "opt": "3",
+              "word": "reviewed",
+              "zh": "审查；评论；复习",
+              "eg": "The teacher <strong>reviewed</strong> the test papers carefully before giving them back."
+            },
+            {
+              "opt": "4",
+              "word": "recollected",
+              "zh": "回想起；记起",
+              "eg": "Grandma slowly <strong>recollected</strong> the names of her old classmates."
+            }
+          ]
+        },
+        "12": {
+          "zh": "玉儿谈起毕业典礼时眼里闪着光，兴致勃勃。",
+          "note": "应选（4）'animatedly'：题干语境最宜表达'兴致勃勃地；生动活泼地'。'heatedly'义为'激烈地；情绪激动地（多含愤怒）'：与题干语境或搭配要求不一致。'forcefully'义为'强有力地；用力地'：与题干语境或搭配要求不一致。'vigorously'义为'强烈地；精力充沛地'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — animatedly（兴致勃勃地；生动活泼地）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "heatedly",
+              "zh": "激烈地；情绪激动地（多含愤怒）",
+              "eg": "The two debaters argued <strong>heatedly</strong> about who should win the contest."
+            },
+            {
+              "opt": "2",
+              "word": "forcefully",
+              "zh": "强有力地；用力地",
+              "eg": "He pushed the heavy door open <strong>forcefully</strong> with both hands."
+            },
+            {
+              "opt": "3",
+              "word": "vigorously",
+              "zh": "强烈地；精力充沛地",
+              "eg": "The coach shook his head <strong>vigorously</strong> to disagree with the referee's decision."
+            },
+            {
+              "opt": "4",
+              "word": "animatedly",
+              "zh": "兴致勃勃地；生动活泼地",
+              "eg": "The children chatted <strong>animatedly</strong> about their school camp adventures."
+            }
+          ]
+        },
+        "13": {
+          "zh": "孝顺的儿子早早理财，让父母退休后衣食无忧。",
+          "note": "应选（1）'filial'：题干语境最宜表达'孝顺的（对父母的）'。'loyal'义为'忠诚的；忠心的'：与题干语境或搭配要求不一致。'tactful'义为'得体的；圆滑的'：与题干语境或搭配要求不一致。'faithful'义为'忠贞的；可信赖的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — filial（孝顺的（对父母的））",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "filial",
+              "zh": "孝顺的（对父母的）",
+              "eg": "As a <strong>filial</strong> daughter, she calls her parents every weekend."
+            },
+            {
+              "opt": "2",
+              "word": "loyal",
+              "zh": "忠诚的；忠心的",
+              "eg": "Our dog has been a <strong>loyal</strong> companion for over ten years."
+            },
+            {
+              "opt": "3",
+              "word": "tactful",
+              "zh": "得体的；圆滑的",
+              "eg": "The teacher was <strong>tactful</strong> when she pointed out my mistakes in front of the class."
+            },
+            {
+              "opt": "4",
+              "word": "faithful",
+              "zh": "忠贞的；可信赖的",
+              "eg": "He has been a <strong>faithful</strong> friend through all my ups and downs."
+            }
+          ]
+        },
+        "14": {
+          "zh": "江先生重尊严，不肯做任何有辱原则的事。",
+          "note": "应选（4）'compromise'：题干语境最宜表达'（在道德或质量上）妥协；削弱'。解析中强调的关键形式为'Compromise (one's principles)'，与正确项一致。'guard'义为'保护；守卫'：与题干语境或搭配要求不一致。'oppose'义为'反对；抵制'：与题干语境或搭配要求不一致。'degrade'义为'贬低；使降级'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — compromise（（在道德或质量上）妥协；削弱）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "guard",
+              "zh": "保护；守卫",
+              "eg": "The soldiers <strong>guard</strong> the palace gates day and night."
+            },
+            {
+              "opt": "2",
+              "word": "oppose",
+              "zh": "反对；抵制",
+              "eg": "Many residents <strong>oppose</strong> the plan to build a highway through the park."
+            },
+            {
+              "opt": "3",
+              "word": "degrade",
+              "zh": "贬低；使降级",
+              "eg": "Bullying <strong>degrades</strong> a child's self-esteem and confidence."
+            },
+            {
+              "opt": "4",
+              "word": "compromise",
+              "zh": "（在道德或质量上）妥协；削弱",
+              "eg": "Honest people refuse to <strong>compromise</strong> their values just to win a contest."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我们相信管理层会凭判断力挑选得奖者。",
+          "note": "应选（3）'discretion'：题干语境最宜表达'判断力；自由裁量权'。'selection'义为'选择；挑选'：与题干语境或搭配要求不一致。'operation'义为'操作；运作；手术'：与题干语境或搭配要求不一致。'permission'义为'允许；许可'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — discretion（判断力；自由裁量权）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "selection",
+              "zh": "选择；挑选",
+              "eg": "There is a wide <strong>selection</strong> of books in the school library."
+            },
+            {
+              "opt": "2",
+              "word": "operation",
+              "zh": "操作；运作；手术",
+              "eg": "The new machine's <strong>operation</strong> is simple enough for any student to understand."
+            },
+            {
+              "opt": "3",
+              "word": "discretion",
+              "zh": "判断力；自由裁量权",
+              "eg": "Pupils may go to the toilet during the test at the teacher's <strong>discretion</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "permission",
+              "zh": "允许；许可",
+              "eg": "We need our parents' <strong>permission</strong> before joining the overseas trip."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "withdrawn",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rejoined",
+            "2": "marched",
+            "3": "withdrawn",
+            "4": "surrendered"
+          }
+        },
+        "17": {
+          "stem_plain": "charred",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "stuck",
+            "2": "burnt",
+            "3": "ablaze",
+            "4": "studded"
+          }
+        },
+        "18": {
+          "stem_plain": "mundane",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "tedious",
+            "2": "daunting",
+            "3": "complicated",
+            "4": "monotonous"
+          }
+        },
+        "19": {
+          "stem_plain": "Shortly after",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "In no time",
+            "2": "Out of the blue",
+            "3": "All of a sudden",
+            "4": "Without warning"
+          }
+        },
+        "20": {
+          "stem_plain": "Surpassing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Beating",
+            "2": "Achieving",
+            "3": "Exceeding",
+            "4": "Overcoming"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — withdrawn（退缩的）",
+          "note": "动词过去分词或形容词 withdrawn 在此处语境中指人将自己隔绝、离开并回到独处状态，核心考点近义词常用于形容回到特定空间、退回或隐退。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rejoined",
+              "zh": "重新加入，重新回到……之中",
+              "eg": "After a short break near the stream, the hikers rejoined their team on the mountain path."
+            },
+            {
+              "opt": "2",
+              "word": "marched",
+              "zh": "迈步前进，大步走去（作动词）；行进",
+              "eg": "The students marched firmly into the principal's office to hand in their petition."
+            },
+            {
+              "opt": "3",
+              "word": "withdrawn",
+              "zh": "退缩的，内向的（作形容词）；退回，隐退（作过去分词）",
+              "eg": "The shy little boy had withdrawn to the corner, refusing to play with other children."
+            },
+            {
+              "opt": "4",
+              "word": "surrendered",
+              "zh": "投降，屈服，交出",
+              "eg": "The defeated soldiers surrendered their weapons and left the stone fort quietly."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — charred（烧焦的）",
+          "note": "形容词 charred 意为被火烧焦的、烤黑的，在此处描写平底锅底顽固的食物残渣，对应的基础同义词为 burnt（烧焦的，烤糊的）。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "stuck",
+              "zh": "卡住的，粘住的，动弹不得的",
+              "eg": "The wheels of the heavy truck became stuck in the thick mud after the rain."
+            },
+            {
+              "opt": "2",
+              "word": "burnt",
+              "zh": "烧焦的，烤糊的",
+              "eg": "She spent half an hour scrubbing the burnt milk residue off the bottom of the pot."
+            },
+            {
+              "opt": "3",
+              "word": "ablaze",
+              "zh": "着火的，燃烧着的，闪耀的",
+              "eg": "Within minutes, the dry wooden barn was completely ablaze in the strong autumn wind."
+            },
+            {
+              "opt": "4",
+              "word": "studded",
+              "zh": "镶嵌的，点缀的",
+              "eg": "The deep midnight sky was beautifully studded with thousands of twinkling stars."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — mundane（单调的；一成不变的）",
+          "note": "形容词 mundane 意为单调乏味的、平凡的日常琐事，在描写工作和声音毫无波澜、缺乏变化的考点语境中，对应的核心近义词为 monotonous（单调的，一成不变的）。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tedious",
+              "zh": "冗长乏味的，单调沉闷的",
+              "eg": "Entering extensive data into the computer system manually can be a highly tedious task."
+            },
+            {
+              "opt": "2",
+              "word": "daunting",
+              "zh": "令人气馁的，使人畏缩的",
+              "eg": "Completing a 100km super marathon in mountainous regions is a daunting challenge."
+            },
+            {
+              "opt": "3",
+              "word": "complicated",
+              "zh": "复杂的，难懂的",
+              "eg": "The instruction layout of this board game is too complicated for young kids to follow."
+            },
+            {
+              "opt": "4",
+              "word": "monotonous",
+              "zh": "单调的，一成不变的，毫无变化的",
+              "eg": "The teacher's monotonous voice almost put the entire class to sleep."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — Shortly after（不一会儿）",
+          "note": "短语 shortly after 意为不久之后、很快，在此语境下直接对应常考固定习语 In no time（极其迅速地，立刻，不一会儿）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "In no time",
+              "zh": "不一会儿，立刻，极其迅速地",
+              "eg": "The professional engineering team resolved the unexpected website server error in no time."
+            },
+            {
+              "opt": "2",
+              "word": "Out of the blue",
+              "zh": "出乎意料，突然，突如其来",
+              "eg": "An old school teammate called me out of the blue to share some exciting news."
+            },
+            {
+              "opt": "3",
+              "word": "All of a sudden",
+              "zh": "一下子，突然间",
+              "eg": "All of a sudden, the thick dark clouds gathered and it began to rain heavily."
+            },
+            {
+              "opt": "4",
+              "word": "Without warning",
+              "zh": "毫无征兆，无警告地",
+              "eg": "The old wooden bridge collapsed without warning, shocking the pedestrians nearby."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — Surpassing（超过）",
+          "note": "动词现在分词/形容词 surpassing 意为超越、超过（数量或预期限度），其学术命题的直接核心近义词为 Exceeding（超越，超过）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Beating",
+              "zh": "击败（作现在分词）；敲击，跳动",
+              "eg": "Our school team succeeded in beating the defending champions in the final match."
+            },
+            {
+              "opt": "2",
+              "word": "Achieving",
+              "zh": "实现，达到，赢得（目标/成果等）",
+              "eg": "She managed to attain her goals by achieving high grades in her science project."
+            },
+            {
+              "opt": "3",
+              "word": "Exceeding",
+              "zh": "超过，超越（额度、限度或预期）",
+              "eg": "The dynamic company recorded massive growth, far exceeding their original sales expectations."
+            },
+            {
+              "opt": "4",
+              "word": "Overcoming",
+              "zh": "克服，战胜（困难、恐惧等）",
+              "eg": "The young speaker practiced tirelessly before the event, successfully overcoming her stage fright."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was my turn to wash the dishes that night. Unwinding from the day's work, my parents were lounging in the living room, sipping tea and watching television. Meanwhile, my brother had [Q16 (withdrawn)] to his room. I whistled a tune as I gave the greasy saucepan a good scrub, the bottom [Q17 (charred)] with stubborn bits of food. \"Why not inject some fun into such a [Q18 (mundane)] task?\" I thought. Setting the timer on the oven, I challenged myself to finish cleaning the saucepan in three minutes. I scrubbed relentlessly, my hands nearly giving out from the effort. [Q19 (Shortly after)], I had completed the task. It had just taken me two and a half minutes! [Q20 (Surpassing)] my goal, I pranced around the kitchen but stopped abruptly. The sight of the mountain of plates awaiting my attention made me sigh in resignation."
+        ],
+        "zh": [
+          "那晚轮到我洗碗。一天劳累过后，父母正懒洋洋地待在客厅喝茶、看电视。与此同时，弟弟也回了自己房间。我吹着轻快的调子，用力擦洗油腻的平底锅，锅底结着顽固的食物残渣。我想：为什么不给这种平淡的家务添点乐趣呢？我给烤箱设好定时器，挑战自己三分钟内洗完这只锅。我不停地刷洗，手几乎要脱力。没过多久我就完成了任务，只花两分半钟！超出目标后，我在厨房里蹦跳起来，却猛地停住——眼前还有堆积如山的盘子等着我，我只能无奈叹气。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "All participants will",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "have a good time at the bouncy castle",
+            "2": "need to make a reservation to dine at Jolly Café",
+            "3": "get a 10% discount at the Orchard Community Club",
+            "4": "be rewarded if they are correctly attired to support the event"
+          }
+        },
+        "22": {
+          "stem_plain": "Which of these statements is **not** true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Children will get to meet a few vegetable mascots.",
+            "2": "Jolly Café contributes to the cost of organising the event.",
+            "3": "This is not the first time that the event is being organised.",
+            "4": "Children who arrive before noon will enjoy the free food-tasting sessions."
+          }
+        },
+        "23": {
+          "stem_plain": "Ravi is five years old. Which activities can he participate in on his own?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Alternative Farming and Storytelling",
+            "2": "Food Tasting and Cooking Classes",
+            "3": "Bouncy Castle and Cooking Classes",
+            "4": "Storytelling and Grow Your Own Vegetables Workshop"
+          }
+        },
+        "24": {
+          "stem_plain": "Which one of the following words best describes the section **'DID YOU KNOW?'**",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "intriguing",
+            "2": "imaginary",
+            "3": "far-fetched",
+            "4": "inspirational"
+          }
+        },
+        "25": {
+          "stem_plain": "Mr Han is attending the workshop held at the Garden at 3 p.m. He will",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "have to bring his own materials",
+            "2": "have to pay a fee of thirty dollars",
+            "3": "learn how to grow vegetables at home",
+            "4": "be turning food waste into plant fertilisers"
+          }
+        },
+        "26": {
+          "stem_plain": "Why is the colon (:) used in **'Reasons for 5 A Day:'**?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to state the benefits of eating apples",
+            "2": "to further elaborate the information from THO",
+            "3": "to simplify the facts about fruit and vegetables",
+            "4": "to list information on why we should eat those foods"
+          }
+        },
+        "27": {
+          "stem_plain": "What is the similarity between *Cooking Classes* and *Grow Your Own Vegetables*?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They are held in the afternoon.",
+            "2": "They are conducted concurrently.",
+            "3": "They provide the chance for experiential learning.",
+            "4": "They require online registration on 15 September 2024."
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this article?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to urge readers to lead a healthy lifestyle",
+            "2": "to advertise Farmer's Market and Jolly Café",
+            "3": "to organise fun activities for the young and old",
+            "4": "to educate the public on how they can prevent chronic diseases"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Direct fact（题型考点）",
+          "note": "The poster says <span class=\"hl\">Participants wearing green will receive a mystery gift sponsored by Jolly Café</span>. Wearing green = correctly attired; mystery gift = a reward. The other options are wrong: bouncy castle is only for children 6–12, the café is walk-in only (no reservation), and the 10% discount only applies at the Farmer's Market with the cut-out, not the whole community club.",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "题型 — Identify the false statement（题型考点）",
+          "note": "The poster says <span class=\"hl\">Only 50 vacancies are available for each tasting session</span>, so arriving before noon does NOT guarantee a place. Options (1)–(3) are all true: the meet-and-greet has Miss Lettuce, Mr Kale and Mrs Cauliflower (mascots); Jolly Café sponsors the mystery gift (contributes); and the poster says the event is being celebrated <em>once again</em>.",
+          "answer": "4"
+        },
+        "23": {
+          "concept": "题型 — Eligibility filtering（题型考点）",
+          "note": "Ravi is 5. <em>Storytelling</em> is for children below 10 ✓. <em>Grow Your Own Vegetables</em> requires participants to be at least five years old ✓. Bouncy castle and Cooking Classes (Session 2) are for ages 6–12 / 12+. Alternative Farming is a paid workshop for parent-and-child, not for a child on his own. Food Tasting allows children but Cooking is age-restricted, so option (2) doesn't fit either.",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "语气 — Tone / register（语气考点）",
+          "note": "The <span class=\"hl\">DID YOU KNOW?</span> facts (a pomegranate has up to 1400 seeds; a banana is a berry but blackberries aren't, etc.) are surprising and curiosity-arousing — that is <span class=\"hl-good\">intriguing</span>. They are real facts (so not <em>imaginary</em> or <em>far-fetched</em>) and they don't aim to inspire action.",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "题型 — Schedule lookup（题型考点）",
+          "note": "The Garden has two activities: <em>Home Composting</em> at 3 p.m. – 4 p.m. and <em>Grow Your Own Vegetables</em> at 6 p.m. – 7 p.m. At 3 p.m. Mr Han is at Home Composting, which teaches him to <span class=\"hl-good\">transform food waste into nutrient-rich compost</span> — i.e., plant fertilisers. The 6 p.m. session would teach him to grow vegetables at home, not what he is doing now.",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "题型 — Punctuation use（题型考点）",
+          "note": "A colon after <span class=\"hl\">Reasons for 5 A Day:</span> introduces a list. The bullet points that follow give reasons to eat fruit and vegetables. Option (1) is too narrow (apples only), (2) misattributes them to THO, and (3) twists the purpose to <em>simplify</em> rather than <em>list</em>.",
+          "answer": "4"
+        },
+        "27": {
+          "concept": "题型 — Comparison（题型考点）",
+          "note": "Both are hands-on workshops: cooking actual dishes and growing vegetables from scraps — i.e., learning by doing. They are NOT held at the same time (cooking 4–6 pm, growing 6–7 pm) and not all in the afternoon (Grow Your Own ends at 7 pm). The 15 September 2024 deadline is the registration deadline, not the day of registration.",
+          "answer": "3"
+        },
+        "28": {
+          "concept": "目的 — Author's purpose（目的考点）",
+          "note": "The poster opens by linking daily fruit and vegetable consumption to preventing or controlling <span class=\"hl\">obesity and chronic diseases such as arthritis and asthma</span> and ends with the THO's 5 A Day recommendation — both anchor the article in <em>chronic disease prevention</em>. Options (2) and (3) are partial purposes; (1) is broader than what the poster mainly highlights.",
+          "answer": "4"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "D": "being",
+          "G": "consequently",
+          "K": "however",
+          "N": "of",
+          "B": "any",
+          "E": "by",
+          "H": "even",
+          "L": "its",
+          "P": "to",
+          "C": "as",
+          "F": "cannot",
+          "J": "how",
+          "M": "must",
+          "Q": "what"
+        },
+        "cloze": [
+          "Half your world is overhead. So why not look up and get to know [Q29] unknown realm better? Stargazing might not be a common activity in Singapore but that does not mean that you [Q30] do it at all.",
+          "Simple and accessible [Q31] almost everyone, everywhere, it is the perfect way to disconnect from the screens. Embarking on [Q32] new hobby might sometimes come with a hefty price tag [Q33], for stargazing, the essential tools to start with are not sophisticated and expensive gadgets but the ones we're born with — our eyes. Additionally, having a sky map and tapping on various apps are [Q34] you can significantly enhance the experience of navigating through the dazzling constellations.",
+          "You can heighten your stargazing experience at Upper Seletar Reservoir. [Q35] you cannot blast off into space when you visit the rocket-shaped tower there, it can offer you a closer look at a star-filled sky at night! [Q36] if we are not conscious of it, the endless sky helps us realise how small we are in the grand scheme [Q37] things. More so, it reminds us of [Q38] good stewards of our planetary home. All we have to do is look up."
+        ],
+        "zh": [
+          "你世界的一半就在你头顶上方。 那么，为什么不抬头看看，更好地了解这个未知的领域呢？ 在新加坡，观星也许不算常见活动，但这并不代表你完全不能做。",
+          "它简单易行，几乎人人随处可做，是远离屏幕的完美方式。 开始任何一项新爱好都可能花费不菲；然而对观星而言，最基本的工具不是高科技或昂贵的设备，而是我们与生俱来的——我们的眼睛。",
+          "此外，备一份星图、使用各种应用程序，能让你在闪耀的星座之间穿梭的体验大大提升。 你可以在上实里水池让观星的体验更上一层楼。 虽然你去那儿火箭形高塔时不能真的飞向太空，但它能让你在夜晚更近距离地仰望满天繁星！ 即使我们没有意识到，无垠的天空也提醒着我们：在万物的大格局中，我们是多么渺小。 更甚的是，它提醒我们要做好这颗星球家园的好管家。 我们要做的只是——抬头仰望。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "指示/所有格 — its",
+          "note": "up and get to know its unknown realm better? = 结合句意选 its。",
+          "answer": "L — its"
+        },
+        "30": {
+          "concept": "情态动词",
+          "note": "does not mean that you cannot do it at all. = 情态动词 cannot。",
+          "answer": "F — cannot"
+        },
+        "31": {
+          "concept": "Adjective + 介词",
+          "note": "Simple and accessible to almost everyone, everywhere, it is = 看前后搭配，选 to。",
+          "answer": "P — to"
+        },
+        "32": {
+          "concept": "限定词",
+          "note": "Embarking on any new hobby might sometimes come = 结合句意选 any。",
+          "answer": "B — any"
+        },
+        "33": {
+          "concept": "转折",
+          "note": "结合句意选 however。",
+          "answer": "K — however"
+        },
+        "34": {
+          "concept": "关系/连接词 — how",
+          "note": "tapping on various apps are how you can significantly enhance the = 定语/名词性从句 → how。",
+          "answer": "J — how"
+        },
+        "35": {
+          "concept": "让步 — although",
+          "note": "although you cannot blast off into = 结合句意选 although。",
+          "answer": "A — although"
+        },
+        "36": {
+          "concept": "Emphatic conditional (even if)",
+          "note": "even if we are not conscious = 结合句意选 even。",
+          "answer": "H — even"
+        },
+        "37": {
+          "concept": "介词 — of",
+          "note": "看前后搭配，选 of。",
+          "answer": "N — of"
+        },
+        "38": {
+          "concept": "being",
+          "note": "so, it reminds us of being good stewards of our planetary = 结合句意选 being。",
+          "answer": "D — being"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The people of Darwin, an Australian city, eat, sleep and dream about Laksa. Without a doubt, this spicy noodle is a signature Singapore dish. Nonetheless, Laksa has gained [Q39(popular)] in Darwin. There, this dish is now the meal of choice for breakfast, lunch and dinner, weekday or weekend, from food courts to [Q40(restraunts)] in Darwin. If you ask anyone living there, they will say it is [Q41(his)] now. An indisputable fact, this delicacy is now an [Q42(intergrel)] part of Darwin.",
+          "Praise from many Australians [Q43(were)] heaped on this Asian dish, [Q44(entice)] long queues of patient and salivating customers. Taking the love of Laksa [Q45(by)] a whole new level, some chefs have become local [Q46(celebretis)] . Every mealtime, like clockwork, crowds form lines in front of these eateries. During the food festival in October, many streets are decked out with banners promoting everything Laksa to [Q47(satiating)] everyone's tastebuds.",
+          "\"We've [Q48(contrakted)] this Laksa fever!\" Jason, a chef, said. \"It's [Q49(iresisteble)] ! Who knows? Laksa ice cream, Laksa sausages, Laksa chocolate and Laksa cheese could be the taste of tomorrow!\" he added with a [Q50(mischevius)] wink. Only time will tell."
+        ],
+        "zh": [
+          "澳大利亚城市达尔文的人们简直无时无刻不在想着叻沙。毫无疑问，这种辛辣面条是新加坡的招牌菜。尽管如此，叻沙在达尔文大受欢迎。在那里，无论工作日还是周末，从早午晚餐到食肆与餐厅，这道菜都成了首选。你若问当地的任何人，他们都会说如今已是他们的最爱。无可争议，这道美食已成为达尔文密不可分的一部分。",
+          "许多澳大利亚人对这道亚洲佳肴赞不绝口，引得排长队的顾客耐心等待、垂涎欲滴。对叻沙的热爱更被推上新台阶，一些厨师成了当地名人。每到用餐时分，人群准时装点般在这些餐饮店前排队。十月美食节期间，许多街道挂满横幅，把一切与叻沙有关的事物推介出来，以满足众人胃口。",
+          "'我们都染上了这种叻沙热！'厨师杰森说。'它令人难以抗拒！谁知道呢？叻沙冰淇淋、叻沙香肠、叻沙巧克力和叻沙奶酪或许就是明天的口味！'他调皮地眨了眨眼补充道。唯有时间能证明一切。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "popularity"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "restaurants"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "theirs"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "integral"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "is"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "enticing"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "to"
+        },
+        "46": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "celebrities"
+        },
+        "47": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "satiate"
+        },
+        "48": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "contracted"
+        },
+        "49": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "irresistible"
+        },
+        "50": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "mischievous"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The problem with mobile phones is that people look at them too much. Many people today find it [Q51] to put their smartphones away even for a short while. They always make sure that they are within their [Q52]. This is an observation made by Mr Cooper, an engineer dubbed as the 'father of mobile phones', who [Q53] the first handheld wireless phone some fifty years ago. To him, it was an unintended outcome when he came up with the device.",
+          "Understandably, smartphones are equipped [Q54] multiple functions, resulting in most users becoming [Q55] on them. The digital camera is one such function that enables us to [Q56] thousands of pictures without having to [Q57] about insufficient storage space. The instant image viewing means you can edit the images on the phone as and [Q58] you wish. Another reason for the prolonged smartphone [Q59] is the messaging apps such as WhatsApp.",
+          "Unlike many people, Mr Cooper uses his phone to make or [Q60] calls rather than to search for vast amount of information or entertainment online. Given the plethora of apps, we are surely [Q61] for choice. The once weighty and bulky phone had become a thing of the [Q62]. The first mobile phone [Q63] more than a kilogram, a huge contrast with today's smartphones which are so sophisticated and [Q64] that it can easily fit into one's pocket.",
+          "Indeed, smartphones have transformed our way of life and will [Q65] to change due to the many benefits they can provide.",
+          "Although Mr Cooper did not envisage every development, he always thought the device he and his team came up with would change the world rapidly."
+        ],
+        "zh": [
+          "手机的普遍问题是人们盯着屏幕看得太多。如今很多人即使只是一小会儿，也觉得很难把手机收起来。他们总要确保手机就在手边。提出这一点的是被誉为“手机之父”的工程师库珀先生，大约五十年前，他发明了第一部手持无线电话。在他看来，自己当初发明这部设备时，并没想到会变成今天这样的结果。",
+          "可以理解，智能手机具备多种功能，致使大多数用户越来越依赖手机。数码相机便是其中一种功能，让我们能拍下成千上万张照片，又不必为存储空间不足而发愁。即时查看照片意味着你随时都能按自己的意愿在手机上编辑图片。人们长时间使用手机的另一大原因，则是 WhatsApp 这类即时通讯应用。",
+          "与许多人不同，库珀先生用手机主要是为了拨打或接听电话，而不是上网搜索海量资讯或娱乐内容。应用程序五花八门，我们确实可谓选择多到犯难。过去笨重厚实的大手机早已成为历史。第一部移动电话重逾一公斤，与如今精致小巧、可轻松放进口袋的智能手机形成强烈对比。",
+          "的确，智能手机改变了我们的生活方式；得益于它们带来的诸多便利，这种改变还将继续。",
+          "尽管库珀先生并未预见所有的发展，但他一直认为自己与团队发明的这部设备会迅速改变世界。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "形式宾语结构形容词",
+          "note": "构成经典句式 find it + 形容词 + to do something。段落开头点明现代人对手机极度沉迷，因此把智能手机收起来哪怕是一小会儿，都会让人感到非常“困难”、“不易”或“痛苦”（hard / difficult / tough / painful）。",
+          "answer": "hard/difficult/tough"
+        },
+        "52": {
+          "concept": "固定习惯搭配",
+          "note": "前面有表示限定的物主代词 their。完美契合形容东西触手可及的极高频常考地道专属习语 within their reach，意为确保手机随时都在他们的“手边”或“够得着的地方”。",
+          "answer": "reach"
+        },
+        "53": {
+          "concept": "一般过去时动词语意",
+          "note": "由关系代词 who 引导的定语从句修饰手机之父 Mr Cooper，后文有明确的时间状语 fifty years ago，需用一般过去时。指他当年“发明”、“创造”或“开发”了第一部手持无线电话（invented / created / developed）。",
+          "answer": "invented/created/developed"
+        },
+        "54": {
+          "concept": "过去分词与介词固定搭配",
+          "note": "与前面的过去分词 equipped 完美组合。构成在各类说明文中极其核心和高频的经典特定短语 be equipped with，意思是智能手机“配备有”多种多样的功能。",
+          "answer": "with"
+        },
+        "55": {
+          "concept": "形容词与介词固定搭配",
+          "note": "后接介词 on。构成表示产生依赖的经典形容词短语 become reliant on 或者是 dependent on，用以解释前文手机功能繁多所引发的因果依赖关系。",
+          "answer": "reliant/dependent"
+        },
+        "56": {
+          "concept": "动词与宾语特定搭配",
+          "note": "不定式符号 to 后接动词原形。在探讨数码相机的特定场景下，指它能让我们随心所欲地“拍摄”成千上万张照片，完美契合专属动宾短语 take pictures 或者是 shoot pictures。",
+          "answer": "take/shoot"
+        },
+        "57": {
+          "concept": "动词与介词特定搭配",
+          "note": "与后文的介词 about 组合。填入动词原形 worry 构成 worry about（担心/发愁），表示海量存储空间可以让用户彻底告别对空间不足的焦虑。",
+          "answer": "worry"
+        },
+        "58": {
+          "concept": "固定口语块习惯搭配",
+          "note": "与前置词 as and 完美组合，构成英语中用来表达随心所欲的地道固定高级口语词块 as and when you wish，其核心语意相当于 whenever you like（每当/只要你想）。",
+          "answer": "when"
+        },
+        "59": {
+          "concept": "名词语意与呼应",
+          "note": "前面有形容词 prolonged（长期的/延长的）修饰。用来形容导致人们“使用”手机时间不断拉长、手机“瘾”不断加深的原因，故填名词 usage 或者是 use。",
+          "answer": "usage/use"
+        },
+        "60": {
+          "concept": "动词与宾语特定搭配",
+          "note": "与前面的动词 make 通过并列连词 or 连接，后面接核心宾语 calls。属于日常电话沟通场景下的规范动词并列搭配 make or take calls（拨打或接听电话），填入 take 或者是 receive 均可。",
+          "answer": "take/receive"
+        },
+        "61": {
+          "concept": "经典习语固定搭配",
+          "note": "前面有系动词 are。完美契合英语中用于形容选择多到眼花缭乱的极高频标志性专属习语 spoiled for choice 或者是 spoilt for choice，意为选项太多反而“无从抉择”。",
+          "answer": "spoiled/spoilt"
+        },
+        "62": {
+          "concept": "经典比喻习语搭配",
+          "note": "与前面的限定短语 a thing of the 完美组合。构成高频常考的比喻习语 a thing of the past，用来形容曾经笨重庞大的初代大砖头手机如今已经彻底“成为了历史/过时之物”。",
+          "answer": "past"
+        },
+        "63": {
+          "concept": "一般过去时动词称重语意",
+          "note": "主语为第一部手机 The first mobile phone，后接表示重量的单位 more than a kilogram。此处需用一般过去时动词 weighed，指它当年“重达”一公斤以上。",
+          "answer": "weighed"
+        },
+        "64": {
+          "concept": "形容词语意与结果从句呼应",
+          "note": "与前面的形容词 sophisticated（精密的）并列，后接 that 引导的结果从句。结合后文“能够轻松塞进一小个口袋”的描写，此处必须填入代表体积“小巧的”、“轻便的”或“紧凑的”形容词（small / light / compact / portable）。",
+          "answer": "small/light/compact/portable"
+        },
+        "65": {
+          "concept": "情态动词后的动词持续原形",
+          "note": "前面有助动词 will，后接不定式符号 to change。指智能手机已经彻底颠覆了我们的生活方式，并且由于其巨大的便利性，未来未来依然“将继续（continue）”去改变这个世界。",
+          "answer": "continue"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "We did not agree to bury the treasures behind the mountain.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "We objected __________"
+        },
+        "67": {
+          "stem_plain": "It is worrying that many people are ignorant about the dangers of too much sun exposure.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Many people's __________"
+        },
+        "68": {
+          "stem_plain": "Mrs Li asked her son, \"Why did you write such an unbelievable story for your test?\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Mrs Li asked her son __________"
+        },
+        "69": {
+          "stem_plain": "Soldiers apply face paint to camouflage themselves effectively.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Face paint __________"
+        },
+        "70": {
+          "stem_plain": "Being reckless and disobedient, the teenager was chided by his mother.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ for his __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "句型转换 — Object to + gerund",
+          "zh": "我们反对把宝藏埋在山后。",
+          "note": "<code>object to + Ving</code> 中的 <code>to</code> 是介词，所以后面要接动名词 <em>burying</em>，不是动词原形。",
+          "answer": "We objected to burying the treasures behind the mountain."
+        },
+        "67": {
+          "concept": "句型转换 — Adjective → noun (ignorant → ignorance)",
+          "zh": "许多人对过度晒太阳的危险一无所知，这令人担忧。",
+          "note": "<code>ignorant about / of N</code> → 名词化为 <code>ignorance about / of N</code>，作主语时为单数。",
+          "answer": "Many people's ignorance about the dangers of too much sun exposure is worrying."
+        },
+        "68": {
+          "concept": "间接引语 — Reported wh-question",
+          "zh": "李太太问她的儿子，为什么他在考试里写出这么离谱的一个故事。",
+          "note": "直接问句变间接引语时：①语序变陈述句；②代词随说话人变化（<em>you → he</em>，<em>your → his</em>）；③时态后退（<em>did write → had written</em>）。",
+          "answer": "Mrs Li asked her son why he had written such an unbelievable story for his test."
+        },
+        "69": {
+          "concept": "被动语态 — Active → passive (with purpose clause)",
+          "zh": "迷彩颜料由士兵涂抹，以达到有效伪装的目的。",
+          "note": "主动变被动：宾语→主语，加 <code>be + V3</code>，原主语用 <code>by</code> 引出。原句的目的状语 <em>to camouflage…</em> 必须保留，否则会丢失意思。",
+          "answer": "Face paint is applied by soldiers to camouflage themselves effectively."
+        },
+        "70": {
+          "concept": "句型转换 — Adjectives → nouns after for (cause)",
+          "zh": "那名青少年因鲁莽和不听话而被母亲责骂。",
+          "note": "<code>chide / scold / blame sb <strong>for</strong> + N</code>，所以形容词要变成名词形式：<em>reckless → recklessness</em>，<em>disobedient → disobedience</em>。",
+          "answer": "The teenager was chided by his mother for his recklessness and disobedience."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the villagers gather at the bus stop?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "**'Her father was obviously heartened by that.'** (line 6) a) What does **\"that\"** refer to? b) Why was Anna's father heartened by that?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Choose **two** words that best describe Anna from lines 1 – 10.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "ambitious",
+            "complacent",
+            "indifferent",
+            "industrious",
+            "regretful"
+          ],
+          "max_selections": 2
+        },
+        "74": {
+          "stem_plain": "Based on lines 5 – 10, how did Anna respond to her father's advice?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Two challenges Anna faced upon arriving at school.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q75a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q75b]"
+            }
+          ]
+        },
+        "76": {
+          "stem_plain": "Jim and Linda acted differently after Mrs Yan had shared Anna's response. Complete the table below to show the differences in their actions and attitudes.",
+          "marks": null,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "**When Mrs Yan introduced Anna to the class** — what did each do?",
+                "**When Mrs Yan read aloud Anna's response** — how did each feel?"
+              ]
+            },
+            "col_2": {
+              "header": "Jim",
+              "rows": [
+                "[Q76a]",
+                "[Q76c]"
+              ]
+            },
+            "col_3": {
+              "header": "Linda",
+              "rows": [
+                "[Q76b]",
+                "[Q76d]"
+              ]
+            }
+          }
+        },
+        "77": {
+          "stem_plain": "Cite a piece of evidence from the passage to show that Mrs Yan was a resourceful teacher.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "Based on lines 11 – 23, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Anna looked forward to meeting her new classmates and teachers.",
+                "(b) Anna's classmates responded to the quiz confidently."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q78b]",
+                "[Q78d]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Which sentence shows that Jim and Linda regretted their initial behaviours towards Anna?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "What did Anna mean when she thought that **'Her father was right.'** (line 43)?",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "The villagers gathered eagerly at the bus stop at the crack of dawn. The level of",
+          "2": "excitement was further heightened by the arrival of Anna, who had earned herself a place in",
+          "3": "her dream school – a prestigious one – in the bustling city with her stellar results. \"Congrats!",
+          "4": "We are so proud of you!\" the people chanted in unison.",
+          "5": "Although flattered, she felt awkward. Anna blushed and waved away the praises.",
+          "6": "Her father was obviously heartened by **that**. \"My sweetie, no matter where you go, always",
+          "7": "value what you have, use what you have and trust what you have.\" His words of wisdom",
+          "8": "were a constant source of empowerment for her. Giving her father a long loving hug, Anna",
+          "9": "promised him that she would do him proud. Soon, the bus pulled over, breaking the morning",
+          "10": "serenity with its cheerful rumble.",
+          "11": "Arriving at the new school and navigating through unfamiliar corridors, Anna",
+          "12": "eventually found her classroom. Despite the flutter in her stomach, she summoned all her",
+          "13": "resolve to confront her apprehension head-on. Unsurprised, she was met with curious stares.",
+          "14": "Her simple clothing and the innocent sparkle of village life in her eyes became the subject of",
+          "15": "whispers and giggles among the city-bred children. At that precise moment, someone",
+          "16": "entered the room. Her commanding presence ushered in silence. Much to Anna's delight,",
+          "17": "she spoke in a warm voice, easing the tension she felt in her stomach. \"Class, we have a",
+          "18": "new friend joining us today. Let's welcome Anna.\" Linda, the monitor, yawned audibly. Jim",
+          "19": "sniggered. Murmurs filled the room until Mrs Yan declared, \"Now, a quiz. Write down the",
+          "20": "seven wonders of the world.\" Everyone immediately wrote down feverishly the answers as",
+          "21": "they recalled the previous day's lesson, except Anna, whose pen was hovering over the",
+          "22": "paper. Noticing that, the teacher approached her. \"Don't worry, Anna. Just write what comes",
+          "23": "to your mind.\"",
+          "24": "Anna looked up, her eyes sincere. \"It's just that there are so many wonders. I'm",
+          "25": "thinking about which to select,\" she explained. With a gentle nod, Mrs Yan gestured for her",
+          "26": "to proceed. After the papers were collected, she began to read the answers aloud. The entire",
+          "27": "classroom was filled with a sense of achievement as the students had penned down 'The",
+          "28": "Great Wall of China, The Colosseum in Italy, Giza Pyramids in Egypt' and so on. However,",
+          "29": "Mrs Yan paused for a while when it came to Anna's response.",
+          "30": "Then she carried on, \"The Seven Wonders are – To be able to see, to be able to",
+          "31": "hear, to be able to feel, to laugh, to think, to be kind and to love.\" A profound silence",
+          "32": "enveloped the room. Visibly moved, the children looked at Anna, their eyes reflecting a",
+          "33": "mixture of admiration and enlightenment.",
+          "34": "Jim and Linda exchanged sheepish smiles. Then Jim spoke, \"I never thought of it",
+          "35": "that way. That's really cool. You've reminded us of something very important.\" His voice was",
+          "36": "tinged with newfound reverence.",
+          "37": "Linda gave the thumbs up before chiming in, \"Wow! I've lots to learn from you. Sorry",
+          "38": "about just now.\" The children's affirmation had created a welcoming atmosphere, showing",
+          "39": "acceptance and inclusion towards the new student.",
+          "40": "Anna replied, \"It's alright. These are the wonders we live by every day in our village.\"",
+          "41": "Seizing the teachable moment, Mrs Yan proposed, \"Let's dedicate today to exploring",
+          "42": "these everyday wonders. Share what each of them means to you.\" While her classmates",
+          "43": "were actively engaged, Anna was deep in her thoughts. **Her father was right.** Had she not",
+          "44": "valued what she had, would she have won her classmates' love and respect? Her father",
+          "45": "would be pleased to know that her day had ended on a high note of camaraderie."
+        },
+        "paragraphs": {
+          "1": "黎明时分，村民们热切地聚集在巴士站。随着安娜的到来，兴奋的情绪更加高涨。她凭借优异的成绩，在繁华城市的一所名校——那是她的梦想学校——赢得了一席之地。“祝贺你！我们为你感到自豪！”人们齐声欢呼。",
+          "5": "虽然感到受宠若惊，但她也有些尴尬。安娜脸红了，挥手谢绝了大家的赞美。她的父亲显然对此感到欣慰。“宝贝，无论你去哪里，都要珍惜你所拥有的，利用你所拥有的，并相信你所拥有的。”他的睿智话语一直是她力量的泉源。安娜给父亲一个长久而深情的拥抱，并承诺会让他感到自豪。不久，巴士靠站，轻快的轰鸣声打破了清晨的宁静。",
+          "11": "到达新学校并在陌生的走廊中穿行后，安娜终于找到了她的教室。尽管心里有些忐忑，她还是鼓起全部勇气，正面迎接她的忧虑。意料之中，她遇到的是好奇的目光。她朴素的衣着和眼中纯真的乡村生活气息，成了那些在城市长大的孩子们私语和嬉笑的对象。就在那一刻，有人走进了房间。她那威严的气场让房间瞬间安静下来。令安娜高兴的是，她用温和的声音说话，缓解了安娜胃部的紧张。“同学们，今天有一位新朋友加入我们。让我们欢迎安娜。”班长琳达大声打了个哈欠。吉姆窃笑。窃窃私语充斥着房间，直到严老师宣布：“现在，进行一次小测验。写下世界七大奇迹。”每个人都开始凭着对前一天课程的记忆疯狂地写下答案，唯独安娜的笔悬在纸面上方。老师注意到这一点，走向她。“别担心，安娜。想到什么就写什么。”",
+          "24": "安娜抬起头，眼神真诚。“只是奇迹实在太多了。我正在考虑该选择哪些，”她解释道。严老师轻轻点头，示意她继续。收齐试卷后，老师开始大声朗读答案。当学生们写下“中国长城、意大利斗兽场、埃及吉萨金字塔”等答案时，整个教室充满了成就感。然而，读到安娜的回答时，严老师停顿了一会儿。",
+          "30": "接着她继续读道：“七大奇迹是——能够看见，能够听见，能够感受，能够欢笑，能够思考，能够善良，以及能够爱。”教室里陷入了一片深沉的寂静。孩子们显然被触动了，他们看着安娜，眼神中交织着钦佩与启迪。",
+          "34": "吉姆和琳达交换了一个尴尬的微笑。随后吉姆开口道：“我从未从这个角度想过。这真的很酷。你提醒了我们一件非常重要的事情。”他的声音中带着一丝新产生的敬意。",
+          "37": "琳达竖起大拇指接着说：“哇！我有好多要向你学习的地方。刚才对不起了。”孩子们的肯定营造了一种温馨的氛围，表现出了对新同学的接纳与包容。",
+          "40": "安娜回答说：“没关系。这些就是我们在村子里每天赖以生存的奇迹。”",
+          "41": "严老师抓住了这个教育契机，提议道：“让我们把今天的时间专门用来探索这些日常奇迹。分享每一个奇迹对你意味着什么。”当同学们积极参与讨论时，安娜陷入了沉思。父亲是对的。如果她没有珍惜自己所拥有的，她能赢得同学们的爱和尊重吗？父亲如果知道她这一天在浓厚的同窗情谊中圆满结束，一定会感到很高兴的。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——村民为何聚集在巴士站（1 分；完整句）。</li><li><strong>范围：</strong>行 <strong>1–4</strong>（黎明送行、祝贺考上名校）。</li><li><strong>证据：</strong>行 1 <em>gathered eagerly at the bus stop at the crack of dawn</em>；行 3–4 她凭优异成绩考上城里梦想学校，众人齐声 <em>Congrats! We are so proud of you!</em>。</li><li><strong>收束：</strong><span class=\"hl-good\">They had gathered to send Anna off / to congratulate her on earning a place in her dream school in the city.</span></li><li><strong>失分：</strong>只写“祝贺”未点送行；只写等车未写祝贺升学。</li></ol>",
+          "answer": [
+            "They had gathered to send Anna off / to congratulate her on earning a place in her dream school in the city."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "指代+原因题",
+          "note": "<ol><li><strong>题型：</strong>指代+原因——(a) <em>that</em> 指什么；(b) 父亲为何 <em>heartened</em>（2 分；各一行）。</li><li><strong>(a) 行 5–6：</strong>紧接上文 <em>Anna blushed and waved away the praises</em> → <span class=\"hl-good\">that</span> 指她脸红并挥手谢绝赞美（谦虚、腼腆）。</li><li><strong>(b) 行 6–8：</strong>她考上名校却不骄，父亲随即叮嘱 <em>value / use / trust what you have</em> — 说明他欣慰于她的<strong>谦逊品格</strong>，而非被赞美冲昏头脑。</li><li><strong>失分：</strong>(a) 误指父亲的话或村民欢呼；(b) 只写“为她骄傲”未点谦虚。</li></ol>",
+          "answer": [
+            "That refers to Anna blushing and waving away the praises (i.e. her humility / modesty).",
+            "He was heartened because Anna remained humble despite her success / he was proud that she did not let praise go to her head."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>题型：</strong>圈选两词——用行 <strong>1–10</strong> 概括 Anna（2 分；在卷面五词中选两词）。</li><li><span class=\"hl-good\">ambitious</span>：行 3 考上 <em>dream school — a prestigious one</em>，目标高远。</li><li><span class=\"hl-good\">industrious</span>：<em>stellar results</em> 与行 9 承诺 <em>do him proud</em>，显示勤奋刻苦。</li><li><span class=\"hl-bad\">complacent / indifferent / regretful</span> 与行 1–10 中她害羞、感动、积极回应父亲不符。</li><li><strong>印 key 提示：</strong>学校印 <em>ambitious / indifferent</em>，<em>indifferent</em> 与文意不符，第二词应为 <em>industrious</em>。</li></ol>",
+          "answer": [
+            "ambitious",
+            "industrious"
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "过程描述题",
+          "note": "<ol><li><strong>题型：</strong>过程描述题——Anna 如何回应父亲建议（2 分；完整句）。</li><li><strong>范围：</strong>行 <strong>6–9</strong>（父亲叮嘱之后）。</li><li><strong>证据：</strong>行 8–9 <em>Giving her father a long loving hug, Anna promised him that she would do him proud.</em></li><li><strong>收束：</strong><span class=\"hl-good\">She gave her father a long loving hug and promised him that she would do him proud.</span></li><li><strong>失分：</strong>只写拥抱未写承诺；复述父亲原话而未写 Anna 的动作。</li></ol>",
+          "answer": [
+            "She gave her father a long loving hug and promised him that she would do him proud."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——到校后面临的<strong>两个</strong>挑战（2 分；(a)(b) 各一行）。</li><li><strong>(a) 行 11–12：</strong><em>navigating through unfamiliar corridors</em> — 在陌生走廊找教室。</li><li><strong>(b) 行 13–15：</strong><em>curious stares</em>、<em>whispers and giggles</em> — 城市孩子因她朴素衣着与乡村气息而议论嘲笑。</li><li><strong>失分：</strong>只写一点；把老师测验或课堂活动误作“挑战”。</li></ol>",
+          "answer": {
+            "75a": "She had to navigate through unfamiliar corridors to find her classroom.",
+            "75b": "She was met with curious stares, whispers and giggles from the city-bred children because of her simple clothing."
+          }
+        },
+        "76": {
+          "concept": "表格简答题",
+          "note": "<ol><li><strong>题型：</strong>表格简答题——Jim 与 Linda 在<strong>两个时刻</strong>的动作/态度对比（4 格；行优先从左到右填）。</li><li><strong>上行（介绍 Anna）：</strong>行 18–19 <em>Linda … yawned audibly. Jim sniggered.</em> → (a) Jim 窃笑；(c) Linda 打哈欠。</li><li><strong>下行（朗读 Anna 答案后）：</strong>行 35–36 Jim 声音 <em>tinged with newfound reverence</em>；行 37 Linda <em>I've lots to learn from you</em> → (b)(d) 填相应感受。</li><li><strong>书写：</strong>与 <code>table.*.fill</code> 一致 — 先 Jim 两格，再 Linda 两格（同一行从左到右）。</li><li><strong>失分：</strong>上下行颠倒；把 Anna 的反应填入 Jim/Linda 格。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "76a": "Jim sniggered at Anna.",
+            "76b": "Linda yawned audibly.",
+            "76c": "Jim felt newfound reverence / filled with respect for Anna.",
+            "76d": "Linda felt that there was a lot to learn from Anna."
+          }
+        },
+        "77": {
+          "concept": "证据简答题",
+          "note": "<ol><li><strong>题型：</strong>证据简答题——引用一句证明 Mrs Yan 是 <em>resourceful</em>（机敏善教）的老师（2 分）。</li><li><strong>关键词：</strong><em>resourceful</em> = 善于把握契机、灵活施教。</li><li><strong>证据（行 41–42）：</strong><em>Seizing the teachable moment, Mrs Yan proposed, \"Let's dedicate today to exploring these everyday wonders. Share what each of them means to you.\"</em></li><li><strong>收束：</strong>把契机化为全班分享活动 → <span class=\"hl-good\">She seized the teachable moment to get the class to share … what each of the everyday wonders meant to them.</span></li><li><strong>失分：</strong>只写她温和欢迎 Anna；抄测验指令而无“教育契机”。</li></ol>",
+          "answer": [
+            "She seized the teachable moment to get the class to share with one another what each of the everyday wonders meant to them."
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——每行先 T/F 再<strong>一句</strong>理由（2 分；两行）。</li><li><strong>(a) False：</strong>行 12–13 <em>flutter in her stomach</em>、<em>summoned all her resolve to confront her apprehension</em> — 紧张忧虑，非期待见面。</li><li><strong>(b) True：</strong>行 20–21 <em>Everyone immediately wrote down feverishly … as they recalled the previous day's lesson</em> — 凭记忆迅速作答，显自信。</li><li><strong>失分：</strong>T/F 与理由矛盾；理由无行 <strong>11–23</strong> 内依据。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "False",
+            "78b": "She felt anxious / nervous — there was a flutter in her stomach and she had to summon her resolve.",
+            "78c": "True",
+            "78d": "They immediately wrote down their answers feverishly, having recalled the previous day's lesson."
+          }
+        },
+        "79": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录词句题——抄<strong>一句</strong>，显示 Jim 与 Linda 后悔起初对 Anna 的态度（1 分）。</li><li><strong>关键词：</strong><em>sheepish smiles</em> = 尴尬、不好意思的笑（知错）。</li><li><strong>定位（行 34）：</strong>紧接 Anna 独特答案之后 → <span class=\"hl-good\">Jim and Linda exchanged sheepish smiles.</span></li><li><strong>失分：</strong>抄 Jim 道歉长句（非“显示后悔”的那一句）；抄行 18–19 的窃笑/哈欠。</li></ol>",
+          "answer": [
+            "Jim and Linda exchanged sheepish smiles."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "理解含义题",
+          "note": "<ol><li><strong>题型：</strong>理解含义题——行 43 <em>Her father was right</em> 在 Anna 心中何意（2 分；完整句）。</li><li><strong>回想父亲建议（行 7）：</strong><em>value what you have, use what you have and trust what you have</em>。</li><li><strong>当下领悟（行 43–44）：</strong><em>Had she not valued what she had, would she have won her classmates' love and respect?</em> — 正因珍惜并分享自己的乡村视角（七大日常奇迹），才赢得接纳。</li><li><strong>收束：</strong>父亲关于珍惜所拥有的教导是正确的；她以此赢得同学爱戴。</li><li><strong>失分：</strong>只复述父亲原话；未点“赢得尊重”与珍惜乡村经历之间的联系。</li></ol>",
+          "answer": [
+            "Anna realised that her father's advice was correct: by valuing, using and trusting what she had (her village experience and her own perspective on the wonders of the world), she had won her classmates' love and respect."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

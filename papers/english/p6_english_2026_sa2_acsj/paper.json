@@ -1,0 +1,1509 @@
+{
+  "paperid": "p6_english_2026_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Michael is most upset about the cancelled party plans and so ________ Peter.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "\"Lisa has the entire series of the limited Minecraft Collection, ________ she?\" I asked.",
+          "options": {
+            "1": "can't",
+            "2": "don't",
+            "3": "hasn't",
+            "4": "doesn't"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Ashvin, you only need to prepare for the presentation. Get your groupmates to complete the project by ________,\" Mrs Tan said.",
+          "options": {
+            "1": "himself",
+            "2": "ourselves",
+            "3": "yourselves",
+            "4": "themselves"
+          }
+        },
+        "4": {
+          "stem_plain": "There is ________ hope of finding the missing wallet before the mall closes.",
+          "options": {
+            "1": "any",
+            "2": "few",
+            "3": "little",
+            "4": "many"
+          }
+        },
+        "5": {
+          "stem_plain": "________ harsh your coach may sound, please be assured that he has the best interest of the team at heart.",
+          "options": {
+            "1": "However",
+            "2": "Although",
+            "3": "Regardless",
+            "4": "Nevertheless"
+          }
+        },
+        "6": {
+          "stem_plain": "A number of students from that class ________ to be stationed at the booths for the upcoming fund-raising carnival.",
+          "options": {
+            "1": "volunteers",
+            "2": "is volunteering",
+            "3": "had volunteered",
+            "4": "have volunteered"
+          }
+        },
+        "7": {
+          "stem_plain": "\"Had Sally cut the pineapple earlier, we ________ lost so much time in preparing the dessert,\" Jenny lamented.",
+          "options": {
+            "1": "cannot have",
+            "2": "could not have",
+            "3": "would not have",
+            "4": "should not have"
+          }
+        },
+        "8": {
+          "stem_plain": "I congratulated Yamal ________ his success winning three gold medals for swimming in the recent National School Games.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "with",
+            "4": "about"
+          }
+        },
+        "9": {
+          "stem_plain": "Wenhui saw her classmate ________ into the drain and alerted her teacher immediately.",
+          "options": {
+            "1": "fall",
+            "2": "fell",
+            "3": "has fallen",
+            "4": "had fallen"
+          }
+        },
+        "10": {
+          "stem_plain": "Join would rather drink green tea ________ jasmine tea.",
+          "options": {
+            "1": "to",
+            "2": "over",
+            "3": "than",
+            "4": "then"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "本句为“so + 动词 + 主语”倒装结构，表示“……也是如此”。前半句使用了一般现在时 is，且后面主语 Peter 为单数，所以选 is。",
+          "concept": "倒装句 — Inverted Sentences — so + auxiliary verb + subject",
+          "zh": "迈克尔对取消聚会计划感到最难过，彼得也是如此。",
+          "answer": "1"
+        },
+        "2": {
+          "note": "Lisa has the entire series 中的 has 是实义动词（表示“拥有”），属于一般现在时。肯定句的反义疑问句应用否定助动词，主语为单数第三人称女性，故用 doesn't she。",
+          "concept": "反义疑问句 — Tag Questions — full verb 'has'",
+          "zh": "“丽莎拥有全套限量版我的世界系列收藏，不是吗？”我问。",
+          "answer": "4"
+        },
+        "3": {
+          "note": "Mrs Tan 是在对 Ashvin 一个人说话。通过 get your groupmates to... 可知是让他的组员们去完成，对应的指代对象是复数第三人称的组员们（they），因此对应的反身代词为 themselves（他们自己）。",
+          "concept": "反身代词 — Reflexive Pronouns — themselves",
+          "zh": "“阿什温，你只需要准备演讲。让你的组员们自己去完成这个项目吧，”陈老师说。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "hope（希望）是不可数名词，不能用 few 或 many 修饰。结合语义“在商场关门前找到丢失钱包的希望渺茫”，用 little 表示“几乎没有（否定含义）”最为恰当。",
+          "concept": "量词与名词修饰 — Quantifiers — little with uncountable nouns",
+          "zh": "在商场关门之前，找到丢失钱包的希望渺茫。",
+          "answer": "3"
+        },
+        "5": {
+          "note": "“However + 形容词/副词 + 主语 + 谓语”结构引导让步状语从句，意为“无论多么……”。这里后面紧跟形容词 harsh（严厉的），故选择 However。",
+          "concept": "让步状语从句 — Concession — however + adjective",
+          "zh": "无论你的教练听起来多么严厉，请放心，他内心一切都是为了球队好。",
+          "answer": "1"
+        },
+        "6": {
+          "note": "“A number of + 复数名词”作主语时，谓语动词必须使用复数形式。选项 1 和 2 是单数形式；根据语境，表示他们已经报名或具有该状态，故选复数形式的 have volunteered。",
+          "concept": "主谓一致 — Subject-Verb Agreement — a number of vs the number of",
+          "zh": "那个班里的许多学生已经志愿报名，在即将到来的募捐游乐会摊位上值班。",
+          "answer": "4"
+        },
+        "7": {
+          "note": "前半句 Had Sally cut... 是 If Sally had cut... 的倒装省 if 结构，表示与过去事实相反的虚拟语气。主句结构应为“would/could/should + not + have + 过去分词”，表示“本来就不会……”，故选 would not have。",
+          "concept": "虚拟语气 — Conditional Sentences — Type 3 (Past Unreal Condition)",
+          "zh": "“如果萨莉早点把菠萝切好，我们在准备甜点时就不会浪费那么多时间了，”珍妮抱怨道。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "congratulate someone on something 是固定搭配，意为“因某事向某人表示祝贺”，介词必须用 on。",
+          "concept": "固定搭配 — Prepositions — congratulate someone on something",
+          "zh": "我祝贺雅马尔在最近的全国学校运动会游泳比赛中赢得了三枚金牌。",
+          "answer": "2"
+        },
+        "9": {
+          "note": "see someone do something 是感官动词的经典用法，表示看到动作发生的全过程或经常发生，后面接不带 to 的动词原形（省 to 不定式），故选 fall。",
+          "concept": "非谓语动词 — Bare Infinitives — see someone do something",
+          "zh": "文慧看到她的同学掉进了下水道，立即报告了老师。",
+          "answer": "1"
+        },
+        "10": {
+          "note": "would rather ... than ... 为固定句型，表示“宁愿……而不愿……、比起……更愿意……”，后接动词原形或名词，故空格处应填入 than（注：图片底部被切掉，但根据前缀推断对应的标准第(3)选项即为 than）。",
+          "concept": "固定句型比较级 — Fixed Expressions — would rather ... than",
+          "zh": "乔恩宁愿喝绿茶也不愿喝茉莉花茶。",
+          "answer": "3"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "We could smell a strong ________ stench coming from the heap of rubbish as there was a dead rat.",
+          "options": {
+            "1": "alluring",
+            "2": "enticing",
+            "3": "repulsive",
+            "4": "aggressive"
+          }
+        },
+        "12": {
+          "stem_plain": "The students are very fearful of Mrs Lim, the discipline mistress, as they know she is one who should not be ________ with.",
+          "options": {
+            "1": "dealt",
+            "2": "trifled",
+            "3": "infringed",
+            "4": "meddled"
+          }
+        },
+        "13": {
+          "stem_plain": "My elderly uncle's health has ________ to the point that he is unable to get out of bed by himself.",
+          "options": {
+            "1": "declined",
+            "2": "depreciated",
+            "3": "deteriorated",
+            "4": "denominated"
+          }
+        },
+        "14": {
+          "stem_plain": "Mr Rogers needed time alone to ________ his decision before making the announcement.",
+          "options": {
+            "1": "sink in",
+            "2": "mull over",
+            "3": "weigh down",
+            "4": "revolve around"
+          }
+        },
+        "15": {
+          "stem_plain": "The steep climb to the summit of the mountain was ________ but the boys did not let that affect their spirit.",
+          "options": {
+            "1": "arduous",
+            "2": "assiduous",
+            "3": "ambiguous",
+            "4": "adventurous"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "因为有一只死老鼠，我们可以闻到垃圾堆里飘来一股强烈的令人厌恶的恶臭。",
+          "note": "‘repulsive’意思是令人厌恶的、排斥的，常用来形容极为难闻的气味。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "alluring",
+              "zh": "迷人的，有吸引力的",
+              "eg": "The bakery filled the street with the alluring scent of fresh bread."
+            },
+            {
+              "opt": "2",
+              "word": "enticing",
+              "zh": "诱人的，引诱的",
+              "eg": "The travel brochure offered an enticing glimpse of tropical islands."
+            },
+            {
+              "opt": "3",
+              "word": "repulsive",
+              "zh": "令人厌恶的，可憎的",
+              "eg": "The sight of the rotting food was completely repulsive."
+            },
+            {
+              "opt": "4",
+              "word": "aggressive",
+              "zh": "好斗的，具有攻击性的",
+              "eg": "The stray dog became aggressive when anyone approached its food."
+            }
+          ]
+        },
+        "12": {
+          "zh": "学生们非常害怕训导主任林老师，因为他们知道她是一个不容小觑（不容戏弄）的人。",
+          "note": "‘trifled with’是一个固定搭配，意为“被怠慢、被戏弄、被小觑”，符合林老师严厉的身份。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dealt",
+              "zh": "处理，应对 (通常与 with 连用)",
+              "eg": "The crisis was dealt with quickly by the emergency team."
+            },
+            {
+              "opt": "2",
+              "word": "trifled",
+              "zh": "戏弄，轻视 (通常与 with 连用)",
+              "eg": "He is a serious man who will not be trifled with by anyone."
+            },
+            {
+              "opt": "3",
+              "word": "infringed",
+              "zh": "侵犯，违反 (通常与 on/upon 连用)",
+              "eg": "The new regulations infringed on the personal freedom of the citizens."
+            },
+            {
+              "opt": "4",
+              "word": "meddled",
+              "zh": "管闲事，干预 (通常与 with/in 连用)",
+              "eg": "Please do not meddle with my personal affairs."
+            }
+          ]
+        },
+        "13": {
+          "zh": "我年迈伯伯的健康状况已经恶化到自己无法起床的地步。",
+          "note": "‘deteriorated’指健康、形势等变坏、恶化，用于健康状况最为贴切。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "declined",
+              "zh": "下降，衰退",
+              "eg": "The company's profits have declined over the past three years."
+            },
+            {
+              "opt": "2",
+              "word": "depreciated",
+              "zh": "贬值，轻视",
+              "eg": "New cars depreciated in value as soon as they are driven off the lot."
+            },
+            {
+              "opt": "3",
+              "word": "deteriorated",
+              "zh": "恶化，变坏",
+              "eg": "The weather deteriorated quickly, forcing us to cancel the picnic."
+            },
+            {
+              "opt": "4",
+              "word": "denominated",
+              "zh": "以…面额单位表示，命名",
+              "eg": "The international loans were denominated in US dollars."
+            }
+          ]
+        },
+        "14": {
+          "zh": "罗杰斯先生在宣布决定之前，需要独处的时间来深思熟虑他的决定。",
+          "note": "‘mull over’是短语动词，意思是深思熟虑、仔细思考。",
+          "concept": "Phrasal Verbs MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sink in",
+              "zh": "被完全理解，渗入",
+              "eg": "It took a few moments for the shocking news to sink in."
+            },
+            {
+              "opt": "2",
+              "word": "mull over",
+              "zh": "深思熟虑，琢磨",
+              "eg": "I need some time to mull over the job offer before accepting it."
+            },
+            {
+              "opt": "3",
+              "word": "weigh down",
+              "zh": "使……负重，使沮丧",
+              "eg": "She was weighed down by the heavy responsibilities at work."
+            },
+            {
+              "opt": "4",
+              "word": "revolve around",
+              "zh": "围绕……旋转，以……为中心",
+              "eg": "The discussion seemed to revolve around the budget issues."
+            }
+          ]
+        },
+        "15": {
+          "zh": "登上山顶的陡峭攀登是艰难费力的，但男孩子们并没有让这影响到他们的精神。",
+          "note": "‘arduous’意思是艰难的、费力的，常用来形容攀登或艰苦的旅程。",
+          "concept": "Vocabulary MCQ",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "arduous",
+              "zh": "艰难的，费力的",
+              "eg": "The hikers completed an arduous journey through the thick jungle."
+            },
+            {
+              "opt": "2",
+              "word": "assiduous",
+              "zh": "刻苦的，勤勉的",
+              "eg": "She was assiduous in her duties and never missed a deadline."
+            },
+            {
+              "opt": "3",
+              "word": "ambiguous",
+              "zh": "模棱两可的，含糊不清的",
+              "eg": "His ambiguous answer left everyone confused about his plans."
+            },
+            {
+              "opt": "4",
+              "word": "adventurous",
+              "zh": "有冒险精神的，大胆的",
+              "eg": "The adventurous travelers decided to explore the uncharted cave."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "finality",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "unfairness",
+            "2": "uneasiness",
+            "3": "seriousness",
+            "4": "decisiveness"
+          }
+        },
+        "17": {
+          "stem_plain": "drastically",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "subtly",
+            "2": "strongly",
+            "3": "severely",
+            "4": "suddenly"
+          }
+        },
+        "18": {
+          "stem_plain": "confirmed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "settled",
+            "2": "proved",
+            "3": "accepted",
+            "4": "accustomed"
+          }
+        },
+        "19": {
+          "stem_plain": "outlived",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "outlaid",
+            "2": "outlasted",
+            "3": "outstayed",
+            "4": "outreached"
+          }
+        },
+        "20": {
+          "stem_plain": "sullenly",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "lowly",
+            "2": "boldly",
+            "3": "calmly",
+            "4": "angrily"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词汇理解 — 确定性/断然的态度",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unfairness",
+              "zh": "不公平",
+              "eg": "The workers protested against the unfairness of their low wages."
+            },
+            {
+              "opt": "2",
+              "word": "uneasiness",
+              "zh": "不安；焦虑",
+              "eg": "He felt a sudden wave of uneasiness as he entered the dark room."
+            },
+            {
+              "opt": "3",
+              "word": "seriousness",
+              "zh": "严肃；严重性",
+              "eg": "The doctor's grave expression showed the seriousness of the situation."
+            },
+            {
+              "opt": "4",
+              "word": "decisiveness",
+              "zh": "果断；确定性",
+              "eg": "The military commander acted with total decisiveness during the crisis."
+            }
+          ]
+        },
+        "17": {
+          "note": "近义词替换 — 剧烈地/严重地变化",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "subtly",
+              "zh": "微妙地；精细地",
+              "eg": "The flavor of the soup was subtly altered by adding herbs."
+            },
+            {
+              "opt": "2",
+              "word": "strongly",
+              "zh": "强烈地",
+              "eg": "The teacher strongly recommended reading more historical fiction books."
+            },
+            {
+              "opt": "3",
+              "word": "severely",
+              "zh": "严重地；剧烈地",
+              "eg": "The old coastal town was severely affected by the winter storm."
+            },
+            {
+              "opt": "4",
+              "word": "suddenly",
+              "zh": "突然",
+              "eg": "The lights went out suddenly during the middle of dinner."
+            }
+          ]
+        },
+        "18": {
+          "note": "近义词替换 — 证实/证明",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "settled",
+              "zh": "定居；解决",
+              "eg": "The two feuding neighbors finally settled their arguments out of court."
+            },
+            {
+              "opt": "2",
+              "word": "proved",
+              "zh": "证明；证实",
+              "eg": "The DNA test results proved that his initial theory was right."
+            },
+            {
+              "opt": "3",
+              "word": "accepted",
+              "zh": "接受",
+              "eg": "She happily accepted the invitation to be the guest speaker."
+            },
+            {
+              "opt": "4",
+              "word": "accustomed",
+              "zh": "习惯于",
+              "eg": "He quickly became accustomed to the cold climate of Canada."
+            }
+          ]
+        },
+        "19": {
+          "note": "近义词替换 — 活得比...长/比...更耐久",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "outlaid",
+              "zh": "支出；花费",
+              "eg": "The company outlaid a significant amount of money for new equipment."
+            },
+            {
+              "opt": "2",
+              "word": "outlasted",
+              "zh": "比...持久；寿命长于",
+              "eg": "The reliable metal roof outlasted the rest of the old wooden house."
+            },
+            {
+              "opt": "3",
+              "word": "outstayed",
+              "zh": "逗留得比...久",
+              "eg": "They outstayed their welcome by remaining at the house for weeks."
+            },
+            {
+              "opt": "4",
+              "word": "outreached",
+              "zh": "超过；伸得比...远",
+              "eg": "The demands of the growing project outreached our available budget."
+            }
+          ]
+        },
+        "20": {
+          "note": "上下文语境 — 愠怒地/愤怒地",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lowly",
+              "zh": "卑微地；低声地",
+              "eg": "He bowed lowly before entering the ancient temple gates."
+            },
+            {
+              "opt": "2",
+              "word": "boldly",
+              "zh": "大胆地",
+              "eg": "She walked boldly up to the microphone to pitch her business idea."
+            },
+            {
+              "opt": "3",
+              "word": "calmly",
+              "zh": "冷静地",
+              "eg": "The captain calmly guided the ship through the rough waves."
+            },
+            {
+              "opt": "4",
+              "word": "angrily",
+              "zh": "愤怒地；气恼地",
+              "eg": "He slammed his textbook down and walked angrily out of the classroom."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Father had made up his mind. \"Ellen will be taking care of you. Stop your whining right now! Nothing will change my mind!\" he said [Q16 (with finality)].",
+          "I sensed my life was about to change [Q17 (drastically)] when Ellen began taking charge of me. Father [Q18 (confirmed)] my worst fears when he added, \"Shu Ma will leave tonight.\" They were getting rid of my Shu Ma just like other families getting rid of servants who had [Q19 (outlived)] their usefulness.",
+          "\"I don't want Ellen! I don't like her!\" I cried. \"I want Shu Ma!\"",
+          "Ever kind and patient, Ellen bit her lip and put on a brave face even in my stormiest moments. Father was less understanding. \"We'll see about that, young man,\" he growled [Q20 (sullenly)]. I knew then that I had better stop throwing my tantrums."
+        ],
+        "zh": [
+          "父亲已经下定了决心。“艾伦会照顾你的。现在立刻停止你的哭闹！没有任何事情能改变我的想法！”他[Q16 (断然地/不容置疑地)]说道。",
+          "当艾伦开始接管我时，我感觉到我的生活将发生[Q17 (剧烈地)]变化。当父亲补充说“蜀妈今晚就走”时，他[Q18 (证实)]了我最坏的担忧。他们正急于打发走我的蜀妈，就像其他家庭打发走那些已经[Q19 (不再有)]利用价值的仆人一样。",
+          "“我不要艾伦！我不喜欢她！”我哭着喊道，“我要蜀妈！”",
+          "艾伦一向善良而耐心，即使在我情绪最暴躁的时刻，她也咬着嘴唇，表现得十分坚强。父亲就没那么体谅人了。“小伙子，那我们走着瞧吧，”他[Q20 (愠怒地/生气地)]低吼道。那时我知道，我最好别再发脾气了。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Which of the following statements is true about the launch?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Reservations for the shoes can be made online.",
+            "2": "Only a limited number of shoes will be available.",
+            "3": "Anyone can purchase the shoes on 12 December.",
+            "4": "Falcon shoes will be sold at all Sports House outlets."
+          }
+        },
+        "22": {
+          "stem_plain": "Although Linda has pain in her knees, she still enjoys her occasional runs at night. Based on Text 1, which two features would benefit Linda most?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "A and E",
+            "2": "B and D",
+            "3": "C and E",
+            "4": "D and F"
+          }
+        },
+        "23": {
+          "stem_plain": "What kind of poster is shown in Text 1?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "educational",
+            "2": "promotional",
+            "3": "motivational",
+            "4": "informational"
+          }
+        },
+        "24": {
+          "stem_plain": "Which of the following statements is supported by Text 2?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "All good running shoes prevent runners from getting injured.",
+            "2": "The only thing running shoes do is provide runners with comfort.",
+            "3": "Choosing a pair of good running shoes is a decision that comes easily to all.",
+            "4": "The benefits of proper running shoes are not limited to experienced runners."
+          }
+        },
+        "25": {
+          "stem_plain": "What message do both Text 1 and Text 2 convey about running shoes?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Lightweight shoes are now the best choice for every runner.",
+            "2": "Choosing the right running shoes depends on a runner's needs.",
+            "3": "The more features a pair of shoes has, the better the shoes are for you.",
+            "4": "Shoes with reflective materials are safer than shoes with better cushioning."
+          }
+        }
+      },
+      "answers": {
+        "21": {
+          "note": "海报明确指出“A total of 88 pairs will be released”，意味着只有限量鞋款可供购买。因此选择选项2。",
+          "concept": "信息细节检索",
+          "answer": "2"
+        },
+        "22": {
+          "note": "林达（Linda）在“夜间”（night）跑步需要“D) Visibility”（反光材料）；她“膝盖痛”（pain in her knees）则需要“F) Support”（提供稳定性以实现无受伤跑步），而B选项只提到防水泡。因此选择选项4。",
+          "concept": "特定场景条件匹配",
+          "answer": "4"
+        },
+        "23": {
+          "note": "该海报宣传新鞋发布、标注价格、会员专属以及发售时间和地点，其主要目的是为了促销和吸引购买。因此选择选项2。",
+          "concept": "文本意图与文体辨析",
+          "answer": "2"
+        },
+        "24": {
+          "note": "文章第一段提到“whether they are experienced athletes or beginners”，说明合适的跑鞋带来的好处不仅限于有经验的跑者，对初学者同样重要。因此选择选项4。",
+          "concept": "信息无误转换与推断",
+          "answer": "4"
+        },
+        "25": {
+          "note": "文本1指出“Not every pair is made for the same purpose. Which features would work best for you?”，文本2指出“Think about the features that will suit you best.”，两文都强调选择跑鞋应该因人而异、取决于跑者的具体个人需求。因此选择选项2。",
+          "concept": "跨文本共同核心观点提炼",
+          "answer": "2"
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      }
+    },
+    "105": {
+      "questions": {
+        "26": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "26": {
+          "concept": "主谓一致与时态",
+          "note": "本句主语为不可数名词“ivory”（象牙），且事情发生在过去（During the Stone Age），因此系动词使用过去式单数was。",
+          "answer": "N"
+        },
+        "27": {
+          "concept": "介词固定搭配",
+          "note": "“cool to the touch”为固定搭配，意为“摸上去很凉爽”。",
+          "answer": "L"
+        },
+        "28": {
+          "concept": "结果状语从句连词",
+          "note": "“so ... that ...”为固定句型，意为“如此……以至于……”，此处修饰形容词precious。",
+          "answer": "H"
+        },
+        "29": {
+          "concept": "固定短语",
+          "note": "“such as”意为“例如”，用于举例说明象牙制成的物品。",
+          "answer": "J"
+        },
+        "30": {
+          "concept": "原因状语从句连词",
+          "note": "后文“they regarded it as...”是富人们继续使用象牙的原因，故用because引导原因状语从句。",
+          "answer": "D"
+        },
+        "31": {
+          "concept": "动词短语搭配",
+          "note": "“sought after”为固定搭配，是seek after的过去分词形式，意为“受青睐的/紧俏的”。",
+          "answer": "A"
+        },
+        "32": {
+          "concept": "形容词性物主代词",
+          "note": "“their Asian counterparts”意为“它们在亚洲的同类（亚洲象）”，their指代复数名词African elephants。",
+          "answer": "K"
+        },
+        "33": {
+          "concept": "介词搭配",
+          "note": "“a ban on...”为固定搭配，意为“对……的禁令”。",
+          "answer": "G"
+        },
+        "34": {
+          "concept": "条件状语从句连词",
+          "note": "“Unless stronger efforts are made...”意为“除非付出更大的努力，否则……”，引导否定条件状语从句，置于句首需大写。",
+          "answer": "M"
+        },
+        "35": {
+          "concept": "介词搭配",
+          "note": "“within the next twenty years”意为“在未来的二十年之内”，within表示在某一时间范围之内。",
+          "answer": "Q"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "after",
+          "B": "and",
+          "C": "at",
+          "D": "because",
+          "E": "before",
+          "F": "into",
+          "G": "on",
+          "H": "so",
+          "J": "such",
+          "K": "their",
+          "L": "to",
+          "M": "unless",
+          "N": "was",
+          "P": "when",
+          "Q": "within"
+        },
+        "cloze": [
+          "For thousands of years, people have admired ivory for its beauty and strength.",
+          "During the Stone Age, ivory from the mammoth, an extinct ancestor of the elephant, [Q26] used to make household items, tools, weapons and ornaments. Durable, smooth, easy to carve and cool [Q27] the touch, ivory was considered a valuable material. It was [Q28] precious that many people referred to it as \"white gold\".",
+          "Before plastic was invented, ivory was carved into many useful and decorative objects, [Q29] as chopsticks, musical instruments and furniture. Even after plastic became widely available, wealthy people continued to use ivory as ornaments [Q30] they regarded it as a symbol of wealth and prestige.",
+          "As demand for ivory increased, it became highly sought [Q31]. African elephants, which generally have larger and heavier tusks than [Q32] Asian counterparts, became the main targets of poachers. Although there is now an international ban [Q33] the ivory trade, illegal hunting still continues in many parts of the world.",
+          "[Q34] stronger efforts are made to protect these animals, conservationists fear that African elephants could disappear [Q35] the next twenty years.",
+          "Protecting endangered animals is everyone's responsibility if we want future generations to enjoy the rich diversity of wildlife."
+        ],
+        "zh": [
+          "数千年来，人们因象牙的美丽和坚固而对其赞赏有加。",
+          "在石器时代，来自猛犸象（大象的一种已灭绝的祖先）的象牙被用来制作生活用品、工具、武器和装饰品。象牙耐用、光滑、易于雕刻且摸起来凉爽，被认为是一种珍贵的材料。它是如此珍贵，以至于许多人称其为“白金”。",
+          "在塑料被发明之前，象牙被雕刻成许多实用和装饰性的物品，例如筷子、乐器和家具。即使在塑料广泛普及之后，富人们仍继续使用象牙作为装饰品，因为他们将其视为财富和声望的象征。",
+          "随着对接牙需求的增加，它变得非常紧俏。非洲象的象牙通常比它们的亚洲同类更大、更重，因此成为了偷猎者的主要目标。尽管现在已经有了针对象牙贸易的国际禁令，但非法狩猎在世界许多地方仍在继续。",
+          "除非付出更大的努力来保护这些动物，否则野生动物保护主义者担心非洲象可能会在未来二十年内消失。",
+          "如果我们想让子孙后代享受到丰富多样性野生动物，保护濒危动物就是每个人的责任。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "36": {
+          "stem_plain": "She was begin to understand",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "listeners were cabtivatted.",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "give in to her nervous this time.",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "even to jescher a little",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "Eloquent, she talked",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "her father's daspparate needs",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "did she foltor.",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "she stammer and could not",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "A fimilair face had appeared",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "erupted to a roar.",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "36": {
+          "concept": "词形变化 (时态)",
+          "note": "这里表示“她开始明白”，应用过去进行时 was beginning 表达逐渐开始的过程。",
+          "answer": "beginning"
+        },
+        "37": {
+          "concept": "单词拼写",
+          "note": "拼写错误，应将 cabtivatted 改为正确的形容词形式 captivated，表示“被迷住的”。",
+          "answer": "captivated"
+        },
+        "38": {
+          "concept": "词性转换",
+          "note": "形容词 nervous 不能被物主代词 her 修饰，应改为名词形式 nervousness（紧张）。",
+          "answer": "search"
+        },
+        "39": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示“做手势”，应将语音拼写 jescher 纠正为动词 gesture。",
+          "answer": "gesture"
+        },
+        "40": {
+          "concept": "词性转换",
+          "note": "原句中 Eloquent 为形容词，此处作状语修饰动词 talked，应用副词形式 eloquently（雄辩地、口才流利地）。",
+          "answer": "eloquently"
+        },
+        "41": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示“绝望的/迫切的需要”，应将 daspparate 纠正为 desperate。",
+          "answer": "desperate"
+        },
+        "42": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示演讲“动摇、踉跄”，应将 foltor 纠正为 falter。",
+          "answer": "falter"
+        },
+        "43": {
+          "concept": "词形变化 (时态)",
+          "note": "整篇故事为过去时态，动词 stammer 应用过去式 stammered（结结巴巴地说）以保持时态一致。",
+          "answer": "stammered"
+        },
+        "44": {
+          "concept": "单词拼写",
+          "note": "拼写错误，此处表示“一张熟悉的面孔”，应将 fimilair 纠正为 familiar。",
+          "answer": "familiar"
+        },
+        "45": {
+          "concept": "介词搭配",
+          "note": "固定搭配错误，表示“观众爆发出一阵轰鸣声”，应用 erupt into a roar，将 to 改为 into。",
+          "answer": "into"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Janet stood in the middle of the stage, starting her speech. She had often wondered why people listened spellbound whenever Dave, her brother, spoke. She was [Q36(begin)] to understand that it was not just the way he spoke but how he said it. A flick of the wrist here, a pause there, a sudden unexpected smile and his listeners were [Q37(cabtivatted)]. Practising her own speech over the last week, Janet had incorporated some of his skills. She refused to give in to her [Q38(nervous)] this time.",
+          "Now as Janet spoke about the drought in the village, she knew how to modulate her voice, when to pause for effect, even to [Q39(jescher)] a little with her hands. [Q40(Eloquent)], she talked of the poor harvest, of her father's [Q41(daspparate)] needs to make ends meet and of her father's sacrifices for his children. At only one point did she [Q42(foltor)]. When she started to describe her father while standing behind the podium, she [Q43(stammer)] and could not continue.",
+          "[Q44(A fimilair)] face had appeared in the audience. Instinctively, Janet raised her right hand and pointed in his direction. \"He's the reason why I am speaking here today!\" The audience erupted [Q45(to)] a roar. \"That's my father!\""
+        ],
+        "zh": [
+          "珍妮特站在舞台中央，开始她的演讲。她经常纳闷为什么每当她的哥哥戴夫说话时，人们都会听得入迷。她开始明白，这不仅是他说话的方式，还有他表达内容的方式。这里手腕抖动一下，那里停顿一下，一个突然而意想不到的微笑，他的听众就被迷住了。在过去的一周里练习自己的演讲时，珍妮特融入了他的一些技巧。这次她拒绝屈服于自己的紧张。",
+          "现在，当珍妮特谈到村里的旱灾时，她知道如何调节自己的声音，何时为了效果而停顿，甚至用她的双手做一点手势。她口才流利地谈到了歉收、她父亲为了维持生计而产生的绝望需求，以及她父亲为孩子们做出的牺牲。只有在一点上她动摇了。当她站在讲台后面开始描述她的父亲时，她结结巴巴，无法继续下去。",
+          "一张熟悉的面孔出现在观众席中。出于本能，珍妮特举起右手指向他的方向。“他就是我今天站在这里演讲的原因！” 观众爆发出一阵轰鸣声。“那是我的父亲！”"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "46": {
+          "concept": "形容词词义辨析",
+          "note": "The country's limited land 意为这个国家“有限的”土地，呼应前文的 small land size。",
+          "answer": "limited"
+        },
+        "47": {
+          "concept": "形容词或名词修饰语",
+          "note": "depends heavily on imported food 意为严重依赖“进口”食品，呼应首句的 imports much of its food。",
+          "answer": "imported"
+        },
+        "48": {
+          "concept": "副词作连接/转折",
+          "note": "However, unexpected events... 意为“然而”，突发事件可能会使食品供应容易中断，用作句首逻辑转折。",
+          "answer": "However"
+        },
+        "49": {
+          "concept": "形容词固定搭配",
+          "note": "make food supplies more vulnerable/prone to interruptions 意为使食品供应更容易“脆弱/倾向于”受到中断的影响，vulnerable/prone to 为固定搭配。",
+          "answer": "vulnerable"
+        },
+        "50": {
+          "concept": "名词词义辨析与搭配",
+          "note": "lead to temporary food shortages 意为导致临时的食品“短缺”，food shortages 为固定搭配。",
+          "answer": "shortages"
+        },
+        "51": {
+          "concept": "形容词或名词修饰语",
+          "note": "invested in innovative/modern farming methods 意为投资于“创新的/现代的”耕作方法，与下文的高科技和垂直农业相呼应。",
+          "answer": "innovative"
+        },
+        "52": {
+          "concept": "介词短语固定搭配",
+          "note": "instead of across wide fields 意为“而不是”在广阔的农田上，与前半句在堆叠的架子上种植形成对比。",
+          "answer": "instead"
+        },
+        "53": {
+          "concept": "名词固定短语",
+          "note": "produce a larger volume/quantity/amount of crops 意为生产更“大数量/产量”的作物，volume 或 quantity 均可。",
+          "answer": "volume"
+        },
+        "54": {
+          "concept": "形容词词义辨析",
+          "note": "receive the right/exact/optimal amount of water 意为让作物接受“正确/精准/最适宜”数量的水分和养分。",
+          "answer": "right"
+        },
+        "55": {
+          "concept": "动词词义辨析与搭配",
+          "note": "optimize/maximize/monitor the growth of their crops 意为农民可以“优化/最大化/监控”作物的生长，根据前文精准控制水肥的语境，此处填 optimize（优化）或 maximize（使最大化）最符合意图。",
+          "answer": "optimize"
+        },
+        "56": {
+          "concept": "动词固定搭配",
+          "note": "helping to conserve/save valuable natural resources 意为有助于“节约/保护”宝贵的自然资源，conserve 或 save 均符合语境。",
+          "answer": "conserve"
+        },
+        "57": {
+          "concept": "副词比较级/修饰语",
+          "note": "reach supermarkets more quickly/faster 意为“更快地”到达超市，more 后接副词原形构成比较级。",
+          "answer": "quickly"
+        },
+        "58": {
+          "concept": "介词固定搭配",
+          "note": "transported over long distances 意为经过“长距离”运输，over 与 distances 搭配表示跨越空间距离。",
+          "answer": "over"
+        },
+        "59": {
+          "concept": "名词词义辨析",
+          "note": "meet the entire demand/need for food 意为满足全部对食品的“需求”。",
+          "answer": "demand"
+        },
+        "60": {
+          "concept": "形容词词义辨析",
+          "note": "building a more resilient/secure food supply 意为建立一个更具“韧性/安全”的食品供应，resilient 完美契合新加坡食品安全未来的战略语境。",
+          "answer": "resilient"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Singapore imports much of its food because of its small land size. The country's [Q46(limited)] land means that local farms cannot produce enough food to feed the entire population. As a result, Singapore depends heavily on [Q47(imported)] food from many different countries. [Q48(However)], unexpected events such as extreme weather, global conflicts or disruptions to transport routes may make food supplies more [Q49(vulnerable)] to interruptions. These events could even lead to temporary food [Q50(shortages)] in some parts of the world.",
+          "To strengthen food security, Singapore has invested in [Q51(innovative)] farming methods that make better use of every available space. One example is vertical farming, where vegetables are grown on stacked shelves [Q52(instead)] of across wide fields. This allows farmers to produce a larger [Q53(volume)] of crops while using much less land.",
+          "Many farms also rely on modern farming techniques. Sensors monitor light, temperature and humidity so that crops receive the [Q54(right)] amount of water and nutrients. As a result, farmers can [Q55(optimize)] the growth of their crops while avoiding unnecessary waste of water and energy.",
+          "Some farms recycle water and use it more efficiently, helping to [Q56(conserve)] valuable natural resources. Since the vegetables are grown locally, they reach supermarkets more [Q57(quickly)], allowing consumers to enjoy greater freshness than vegetables transported [Q58(over)] long distances. Although local farms cannot meet the entire [Q59(demand)] for food, they play an important role in building a more [Q60(resilient)] food supply for Singapore's future. Urban farming demonstrates how careful planning, technology and innovation can help Singapore prepare for future challenges."
+        ],
+        "zh": [
+          "新加坡由于土地面积小，大部分食品都依赖进口。该国有限的土地意味着当地农场无法生产足够的食物来养活整个国家的人口。因此，新加坡严重依赖来自许多不同国家的进口食品。然而，极端天气、全球冲突或运输路线中断等突发事件可能会使食品供应更容易受到中断的影响。这些事件甚至可能导致世界某些地区出现暂时的粮食短缺。",
+          "为了加强食品安全，新加坡投资了创新的耕作方法，以更好地利用每一个可用空间。其中一个例子就是垂直农业，蔬菜种植在堆叠的架子上，而不是在广阔的农田里。这使得农民在耗费更少土地的同时能够生产更大数量的作物。",
+          "许多农场还依赖现代化的耕作技术。传感器监测光照、温度和湿度，从而让作物获得正确数量的水分和养分。因此，农民可以优化作物的生长，同时避免水和能源的不必要浪费。",
+          "一些农场循环用水并更有效地利用水，有助于保护宝贵的自然资源。由于这些蔬菜是在本地种植的，它们能更快地到达超市，使消费者能够享受到比长途运输的蔬菜更好的新鲜度。虽然当地农场无法满足全部的食品需求，但它们在为新加坡的未来建立更具韧性的食品供应方面发挥着重要作用。城市农业展示了周密的规划、技术和创新如何帮助新加坡应对未来的挑战。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "61": {
+          "stem_plain": "Dave does not turn up for morning exercise. His brothers do not turn up either.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Neither ..."
+        },
+        "62": {
+          "stem_plain": "Min wants to perfect his pasta recipe. He also hopes to learn how to make bread.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Other than ..."
+        },
+        "63": {
+          "stem_plain": "\"Where did you hide my toy last week?\" Lee asked his sister.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "Lee asked ..."
+        },
+        "64": {
+          "stem_plain": "Tabitha called the police when she witnessed a robbery.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "... upon ..."
+        },
+        "65": {
+          "stem_plain": "She worked hard to pursue excellence in her studies.",
+          "marks": 2,
+          "interaction": "transformation",
+          "cue": "In her ..."
+        }
+      },
+      "answers": {
+        "61": {
+          "concept": "并列连词 — Neither... nor... 句型与主谓一致",
+          "zh": "戴夫没有去早操，他的兄弟们也没有去。",
+          "note": "改写要点：Neither A nor B 结构中，谓语动词的时态和单复数需与邻近的主语（his brothers，复数）保持一致。原句为一般现在时，故使用 turn up。",
+          "answer": "Neither Dave nor his brothers turn up for morning exercise."
+        },
+        "62": {
+          "concept": "介词短语引导的让步/递进 — Other than + 动名词",
+          "zh": "除了想完善他的意大利面配方，敏还希望学会做面包。",
+          "note": "改写要点：Other than 作为介词后接动名词形式 wanting。主句保留完整的主谓结构，即 Min also hopes...。",
+          "answer": "Other than wanting to perfect his pasta recipe, Min also hopes to learn how to make bread."
+        },
+        "63": {
+          "concept": "间接引语 — 疑问句的转述与时态/时间状语转换",
+          "zh": "李问他的姐姐/妹妹上周把他的玩具藏在哪里了。",
+          "note": "改写要点：1. 疑问句语序变为陈述句语序；2. 一般过去时（did hide）向后推一个时态变为过去完成时（had hidden）；3. 对应的人称代词和时间状语转换：you->she, my->his, last week->the previous week 或 the week before。",
+          "answer": "Lee asked his sister where she had hidden his toy the previous week."
+        },
+        "64": {
+          "concept": "时间状语从句简化 — 介词 upon + 动名词",
+          "zh": "塔比莎在目击抢劫案时立即报警了。",
+          "note": "改写要点：将 when 引导的时间状语从句简化为 upon 引导的介词短语，后接动名词 witnessing，表示“一……就……”。",
+          "answer": "Tabitha called the police upon witnessing a robbery."
+        },
+        "65": {
+          "concept": "词性转换 — 动词变名词短语",
+          "zh": "在追求学业卓越的过程中，她刻苦努力。",
+          "note": "改写要点：将动词词组 pursue excellence 转换为名词所有格后的短语形式 pursuit of excellence。句首的 In her 作为介词短语修饰主句。",
+          "answer": "In her pursuit of excellence in her studies, she worked hard."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "66": {
+          "stem_plain": "Based on lines 1 to 8, why were visitors impressed by Trev? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "67": {
+          "stem_plain": "Which six-word phrase in Paragraph 3 shows that Dev used his observations to guide his choice of sculpture? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "68": {
+          "stem_plain": "Based on lines 18 to 21, explain Trev's attitude towards his craft. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "69": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "a) this (line 11)",
+                "b) this (line 25)",
+                "c) his (line 38)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refer(s) to",
+              "rows": [
+                "[Q69a]",
+                "[Q69b]",
+                "[Q69c]"
+              ]
+            }
+          }
+        },
+        "70": {
+          "stem_plain": "Based on paragraph 4, complete the descriptions below regarding the exchange between Trev and Dev in the workshop. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "When Trev told Dev that his sculpture was \"not getting you anything\", Trev meant that choosing a common subject would not bring Dev any [Q70a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "We can tell that Dev was unaffected by Trev's mockery because he [Q70b]"
+            }
+          ]
+        },
+        "71": {
+          "stem_plain": "Choose two words from paragraphs 4 and 5 which have similar meanings to the words below. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "given_word",
+              "synonym_from_passage"
+            ],
+            "given_word": {
+              "header": "",
+              "rows": [
+                "magnificence",
+                "battered"
+              ]
+            },
+            "synonym_from_passage": {
+              "header": "",
+              "rows": [
+                "[Q71a]",
+                "[Q71b]"
+              ]
+            }
+          }
+        },
+        "72": {
+          "stem_plain": "Explain fully what Dev meant by \"ordinary things are what matter most\" in line 27. [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "73": {
+          "stem_plain": "Based on evidence from the text, explain how Trev felt when his sculpture shattered. (lines 31 to 33) [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        },
+        "74": {
+          "stem_plain": "Based on lines 28 to 46, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Part of Trev's sculpture crumbled to the ground during the inspection.",
+                "b) Trev's sculpture attracted more spectators than Dev's on the day of judgement.",
+                "c) Trev finally understood the true meaning of the competition after Master Govin's reminder."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]",
+                "[Q74e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]",
+                "[Q74f]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "\"It was never just about the end result.\" (lines 39 to 40)\nHow did Trev's view of Dev's sculpture change after the competition? [2m]",
+          "marks": 2,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "66": {
+          "concept": "Literal Retrieval",
+          "note": "<ol><li><strong>题型：</strong>直接信息提取题——考查学生根据指定行数迅速定位核心事实的能力（1分）。</li><li><li><strong>得分点：</strong>定位到行 3 明确提及的 <span class='hl-good'>extraordinary natural talent</span>（非凡的天赋）。</li><li><strong>失分点：</strong>照抄后续“years of praise had made him proud”（多年的赞美使他骄傲），混淆了“被吸引的原因”与“带来的负面影响”。</li></ol>",
+          "type": "comprehension",
+          "answer": "He had extraordinary natural talent."
+        },
+        "67": {
+          "concept": "Phrase Matching",
+          "note": "<ol><li><strong>题型：</strong>字数限定词组提取题——考查学生严格遵循“六个单词”限制提取精准细节的能力（1分）。</li><li><li><strong>得分点：</strong>必须精确提取段落 3 中的 <span class='hl-good'>Inspired by what he had seen</span>。</li><li><strong>失分点：</strong>多字、漏字，或包含任何改变字数的核心标点符号均不得分。</li></ol>",
+          "type": "comprehension",
+          "answer": "Inspired by what he had seen"
+        },
+        "68": {
+          "concept": "Character Analysis / Explanation",
+          "note": "<ol><li><strong>题型：</strong>人物态度/性格分析题——考查对段落核心描写进行概括与推断的能力（2分）。</li><li><li><strong>得分点：</strong>1分归于指出其<span class='hl-good'>careless / superficial / paying no attention to durability</span>（不注重耐用性/敷衍），另1分归于指出其<span class='hl-good'>proud / only concerned with appearance / fame</span>（只追求外观/名利）。</li><li><strong>失分点：</strong>只停留在表面描述（如仅仅写出他工作很快），未能提炼出对待手艺的“态度”本质。</li></ol>",
+          "type": "comprehension",
+          "answer": "He was careless, superficial, and proud. He only cared about the outer appearance of his sculpture to earn fame and completely neglected its structural quality and durability."
+        },
+        "69": {
+          "concept": "Contextual referencing",
+          "note": "<ol><li><strong>题型：</strong>代词指代题——精准定位并还原文章中指示代词和物主代词在上下文中所对应的具体人、事、物（3分）。</li><li><li><strong>this (行 11)：</strong>往前看行 9-10，国王宣布了一场比赛（a competition），特雷夫将其视为赢得名声的机会，因此明确指向 <span class='hl-good'>the competition announced by the King / selecting a sculpture for the new Hall of Wisdom</span>。</li><li><strong>this (行 25)：</strong>往上文看行 24，指的是参观者都向特雷夫壮丽的武士雕塑靠拢这一现象，即 <span class='hl-good'>the visitors gravitating towards Trev's spectacular warrior / watching the visitors admire his sculpture</span>。</li><li><strong>his (行 38)：</strong>结合第38行前后的描述，特雷夫在研究德夫的雕塑（Dev's sculpture），注意到了农民眼神中的温暖，因此“他”指的是雕塑中的人物，即 <span class='hl-good'>the elderly farmer (in Dev's sculpture)</span>。</li><li><strong>失分点：</strong>无法脱离字面进行具体语境还原，或在 c) 小题中误认为 his 指代德夫（Dev）本人，而忽略了文本中描述的是雕塑本身（the farmer's worn hands）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "69a": "The competition to select a sculpture for the new Hall of Wisdom",
+            "69b": "The visitors gravitating towards Trev's spectacular warrior sculpture",
+            "69c": "The elderly farmer in Dev's sculpture"
+          }
+        },
+        "70": {
+          "concept": "Text Comprehension & Contextual Inference",
+          "note": "<ol><li><strong>题型：</strong>复合型填空题——结合句意理解与细节提取，考查对人物对话意图及心理状态的把握（2分）。</li><li><li><strong>(a) 小题得分点：</strong>答出特雷夫的心态，即认为德夫的普通题材无法为他带来任何 <span class='hl-good'>recognition / fame / reward / success</span>（名利、回报或赢的可能）。</li><li><li><strong>(b) 小题得分点：</strong>必须抓取第26行末尾的副词特征，指出他 <span class='hl-good'>replied calmly</span>（平静地回答）或表现得十分沉稳。</li><li><strong>失分点：</strong>(a)小题只填写字面物品，未提炼出比赛背景下的功利追求；(b)小题错填成德夫说的话，而非体现其“不受影响”的行为神态表现。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "70a": "fame, recognition or success in the competition",
+            "70b": "replied calmly to the mockery"
+          }
+        },
+        "71": {
+          "concept": "Vocabulary / Synonym Matching",
+          "note": "<ol><li><strong>题型：</strong>近义词查找题——限定在段落4和5中寻找目标词汇的同义词（2分）。</li><li><li><strong>magnificence (71a)：</strong>对应段落5中第35行的 <span class='hl-good'>grandeur</span>（宏伟、壮丽）。</li><li><li><strong>battered (71b)：</strong>对应段落4中第22行的 <span class='hl-good'>weathered</span>（饱经风霜的、受侵蚀的）。</li><li><strong>失分点：</strong>跨范围查找（如找到了段落6的 worn），或拼写不准确。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "71a": "grandeur",
+            "71b": "weathered"
+          }
+        },
+        "72": {
+          "concept": "Deep Comprehension / Quote Explanation",
+          "note": "<ol><li><strong>题型：</strong>核心主旨/句意深度阐释题（2分）。</li><li><li><strong>得分点：</strong>需要全面（fully）解释。1分归于指出<span class='hl-good'>true beauty and value come from daily life / everyday moments / genuine care</span>（真正的美和价值源于日常生活与真挚的关怀），另1分归于指出<span class='hl-good'>it is more important than creating grand things just to impress people</span>（这比单纯为了引人注目而创作宏大空洞的作品更重要）。</li><li><strong>失分点：</strong>回答过于单一，未能形成对比或深入揭示其寓意。</li></ol>",
+          "type": "comprehension",
+          "answer": "He meant that true value and beauty lie in everyday life, hard work, and the genuine care people show for one another, which is far more meaningful than creating something grand and artificial just to seek fame."
+        },
+        "73": {
+          "concept": "Emotions & Evidence",
+          "note": "<ol><li><strong>题型：</strong>基于证据的心情阐述题——结合文中描写推断人物心理（2分）。</li><li><li><strong>得分点：</strong>1分归于指出他感到<span class='hl-good'>extremely embarrassed / ashamed / humiliated</span>（极度尴尬/羞愧），另1分归于提供对应的文本证据，即他的<span class='hl-good'>face turned beetroot red</span> 并且 <span class='hl-good'>lowered his head</span>。</li><li><strong>失分点：</strong>只有心情词汇而缺乏证据，或者完全照抄段落而未提炼出具体的心理情感。</li></ol>",
+          "type": "comprehension",
+          "answer": "Trev felt extremely embarrassed and ashamed. This is shown when his face turned beetroot red and he lowered his head as his hidden flaws were completely exposed to everyone."
+        },
+        "74": {
+          "concept": "True/False with Justification",
+          "note": "<ol><li><strong>题型：</strong>判断正误并说明理由题——考查对文本细节的深度核实与精准推断（3分）。</li><li><li><strong>a) 小题：</strong><span class='hl-good'>True</span>。理由：文中明确写道“a large fracture spread across the statue's chest before both of its arms broke away”（他的胸部裂开，双臂断落）。</li><li><li><strong>b) 小题：</strong><span class='hl-good'>False</span>。理由：第29-30行明确说明“Both sculptures had their own seat of admirers”（两座雕塑都各有自己的仰慕者群体）。</li><li><li><strong>c) 小题：</strong><span class='hl-good'>False</span>。理由：第39行明确说明“realisation finally dawned on him”，而这发生在他研究德夫雕塑时，发生在大师入室提醒**之前**。</li><li><strong>失分点：</strong>判断错误则该小题全分皆无；理由必须扣住时间线（c题）或场合区别（b题）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "74a": "True",
+            "74b": "A large fracture spread across the statue's chest and both of its arms broke away and lay scattered across the ground.",
+            "74c": "False",
+            "74d": "The text states that on the day of judgement, both sculptures had their own seat of admirers.",
+            "74e": "False",
+            "74f": "Realisation had already dawned on Trev when he studied Dev's sculpture, before Master Govin entered the workshop to remind him."
+          }
+        },
+        "75": {
+          "concept": "Comparison / Character Change",
+          "note": "<ol><li><strong>题型：</strong>观点/看法对比转变题——考查提取前后变化并形成完整对比链条的能力（2分）。</li><li><li><strong>得分点：</strong>必须清晰答出前后的变化。1分归于指出他**之前**看不起、嘲笑德夫的普通人题材（mocked his cousin's ordinary subject / pales in comparison），另1分归于指出他**之后**注意到了作品中充满耐心的温暖和宁静之美（noticed the warmth in the farmer's eyes and the quiet beauty from patience）。</li><li><li><strong>失分点：</strong>只单一回答了竞争之后他的发现，缺失了之前的态度对比，无法完整体现“change”（变化）。</li></ol>",
+          "type": "comprehension",
+          "answer": "Before the competition, Trev mocked Dev's sculpture for being a common, ordinary subject that paled in comparison to his warrior. After the competition, he returned to study it and for the first time noticed the warmth in the farmer's eyes, the careful shaping, and its quiet beauty that came from patience."
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "In the ancient kingdom of Tiwana, two cousins, Trev and Dev, trained under the kingdom's most",
+          "2": "respected sculptor, Master Govin. Although they trained together from a young age, they were very",
+          "3": "different. Trev's extraordinary natural talent quickly earned him the admiration of visitors but years of",
+          "4": "praise had made him proud. He became dismissive of weaker apprentices and was determined to",
+          "5": "prove he was the best. He was unbothered by the words and feelings of others. Dev, however, lacked",
+          "6": "Trev's natural brilliance. His early sculptures were rough and uneven but he was patient and",
+          "7": "hardworking. Whenever Master Govin corrected him, Dev listened carefully. He observed",
+          "8": "experienced craftsmen, practised tirelessly and gradually improved.",
+          "9": "One summer, the King of Tiwana announced a competition to select a sculpture for the new Hall",
+          "10": "of Wisdom. The winner would receive a royal title and a chest of gold. While many sculptors saw it",
+          "11": "as a chance to showcase their skills, Trev saw this as an opportunity to earn fame.",
+          "12": "Ignoring Master Govin's advice to focus on the craft rather than recognition, Trev chose a huge",
+          "13": "slab of marble and began carving a towering warrior dressed in elaborate armour. His sculpture was",
+          "14": "designed to impress. Dev took a different approach. Before touching his tools, he spent several days",
+          "15": "travelling through villages and marketplaces, observing ordinary people. He watched labourers",
+          "16": "working under the scorching sun and parents caring for their children. Inspired by what he had seen,",
+          "17": "he decided to sculpt an elderly farmer carrying a tired child on his shoulders.",
+          "18": "As the weeks passed, Trev worked hastily. Whenever cracks or uneven surfaces appeared, he",
+          "19": "concealed them under carvings instead of repairing them properly. Trev was only concerned with the",
+          "20": "sculpture's appearance. He paid little attention to its durability. \"People will regard my work highly no",
+          "21": "matter what,\" he said to himself, smirking with pride. Meanwhile, Dev worked steadily. Rather than",
+          "22": "focussing on impressing others, he carefully carved the farmer's weathered hands, tired posture and",
+          "23": "gentle expression. His sculpture was simple but every detail reflected patience and care. When",
+          "24": "visitors entered the workshop to watch them work, they gravitated towards Trev's spectacular warrior.",
+          "25": "Seeing this, Trev mocked his cousin's ordinary subject. \"Your sculpture is not getting you anything.",
+          "26": "Your common man pales in comparison to my towering warrior,\" he scoffed. \"Sometimes,\" Dev",
+          "27": "replied calmly, \"ordinary things are what matter most.\"",
+          "28": "Finally, the day of judgement arrived. The palace courtyard was filled with spectators who were",
+          "29": "excited to find out which sculpture would make it to the Hall of Wisdom. Both sculptures had their",
+          "30": "own seat of admirers. The judges decided to assess Trev's sculpture first. However, just as they were",
+          "31": "inspecting it, a faint crack echoed through the courtyard. Moments later, a large fracture spread",
+          "32": "across the statue's chest before both of its arms broke away. Trev's face turned beetroot red and he",
+          "33": "lowered his head as the broken pieces lay scattered across the ground. The hidden flaws he had",
+          "34": "covered up had finally been exposed. Later that afternoon, the judges announced Dev as the winner.",
+          "35": "Although his sculpture lacked grandeur, it moved everyone. The judges praised the patience,",
+          "36": "craftsmanship and understanding reflected in every detail.",
+          "37": "That evening, Trev returned to the workshop and studied Dev's sculpture. For the first time, he",
+          "38": "noticed the warmth in the farmer's eyes, the careful shaping of his worn hands and the quiet beauty",
+          "39": "that could only come from patience. Seeing that, realisation finally dawned on him; it was never just",
+          "40": "about the end result. Master Govin then came into the workshop and reminded him, \"Young man,",
+          "41": "the competition has never been about producing the most impressive sculpture. It was about",
+          "42": "becoming the kind of sculptor capable of creating one.\"",
+          "43": "From that day on, Trev understood that his greatest failure had not been losing the competition but",
+          "44": "believing that success was measured by recognition alone. Years later, people no longer",
+          "45": "remembered the royal prize. Instead, they remembered the sculptor who had allowed the journey to",
+          "46": "shape both his masterpiece and his character."
+        },
+        "paragraphs": {
+          "1": "在古老的蒂瓦纳王国，有两名表兄弟特雷夫和德夫，他们在王国最受尊敬的雕塑家戈文大师门下学习。虽然他们从小一起训练，但他们却截然不同。特雷夫非凡的天赋很快为他赢得了参观者 的赞赏，但多年的赞美使他变得骄傲自大。他开始对能力较弱的学徒不屑一顾，并决心证明自己是最优秀的。他不在乎别人的话语和感受。然而，德夫缺乏特雷夫那种天生的才华。他早期的雕塑作品粗糙且不平整，但他既耐心又刻苦。每当戈文大师纠正他时，德夫都会认真倾听。他观察经验丰富的工匠，不知疲倦地练习，并逐渐取得了进步。",
+          "9": "一个夏天，蒂瓦纳国王宣布举办一场比赛，为新的智慧宫挑选一座雕塑。获胜者将获得王室头衔和一箱黄金。虽然许多雕塑家把这看作是展示自己手艺的机会，但特雷夫却把这看作是赢得名声的契机。",
+          "12": "特雷夫无视戈文大师关于专注于手艺而非荣誉的建议，选择了一块巨大的大理石，开始雕刻一个身穿精致铠甲的高大武士。他的雕塑旨在给人留下深刻印象。德夫则采取了不同的方法。在动用工具之前，他花了好几天时间走访村庄和市场，观察普通百姓。他注视着在烈日下劳作的工人，以及照顾孩子的父母。受到所见所闻的启发，他决定雕刻一位肩上扛着疲惫孩子的年迈农民。",
+          "18": "随着几周过去，特雷夫匆忙地工作。每当出现裂缝或表面不平整时，他就用雕刻来掩盖，而不是妥善修复。特雷夫只关心雕塑的外观。他很少注意它的耐用性。“不管怎样，人们都会高度评价我的作品，”他自言自语道，脸上带着骄傲的冷笑。与此同时，德夫在稳步工作。他没有专注于取悦他人，而是仔细雕刻出农民饱经风霜的双手、疲惫的姿态和温柔的表情。他的雕塑很朴素，但每一个细节都体现了耐心与用心。当参观者进入工作室观看他们工作时，他们都被特雷夫那座壮丽的武士雕塑所吸引。看到这一幕，特雷夫嘲笑起他表弟那平凡的题材。“你的雕塑不会给你带来任何东西。你的普通人和我高大的武士相比相形见绌，”他嘲讽道。“有时，”德夫平静地回答，“平凡的事物才是最重要的。”",
+          "28": "终于，审判的日子到了。皇宫庭院里挤满了观众，大家都兴奋地想知道哪一座雕塑能入选智慧宫。两座雕塑都有各自的倾慕者。评委们决定先评估特雷夫的雕塑。然而，正当他们进行检查时，庭院里传出了一声微弱的裂开声。片刻之后，一处巨大的裂缝蔓延过雕像的胸部，随后它的双臂断落下来。特雷夫的脸涨得通红，他低下了头，碎裂的石块散落了一地。他一直掩盖的隐蔽瑕疵终于暴露了。那天下午晚些时候，评委们宣布德夫为获胜者。虽然他的雕塑缺乏宏伟的气势，但它感动了每一个人。评委们赞扬了每个细节中所体现的耐心、工艺和理解力。",
+          "37": "那天晚上，特雷夫回到工作室，仔细研究了德夫的雕塑。他第一次注意到了农民眼神中的温暖、对那双磨损的手的精心塑造，以及那种只能来自耐心的宁静之美。看到这些，他终于恍然大悟：这从来都不只是关于最终的结果。戈文大师随后走进工作室提醒他：“年轻的人，比赛从来都不是为了创造出最令人印象深刻的雕塑。它是为了让你成为一个有能力创造出那种雕塑的雕塑家。”",
+          "43": "从那天起，特雷夫明白了他最大的失败并不是输掉了比赛，而是认为成功仅能用认可来衡量。多年后，人们不再记得那份王室奖品。相反，他们记住了那位让这段旅程重塑了其杰作与品格的雕塑家。"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

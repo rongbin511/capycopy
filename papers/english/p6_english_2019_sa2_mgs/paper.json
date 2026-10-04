@@ -1,0 +1,1167 @@
+{
+  "paperid": "p6_english_2019_sa2_mgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Mr and Mrs Walters introduced a friend of ________ to my father at the party.",
+          "options": {
+            "1": "their",
+            "2": "them",
+            "3": "theirs",
+            "4": "themselves"
+          }
+        },
+        "2": {
+          "stem_plain": "________ did the speaker expect such thunderous applause from the audience as he had forgotten a few lines during his speech.",
+          "options": {
+            "1": "Any",
+            "2": "Little",
+            "3": "None",
+            "4": "Much"
+          }
+        },
+        "3": {
+          "stem_plain": "You ________ show your staff pass to the security guard or you will not be allowed into the building.",
+          "options": {
+            "1": "will",
+            "2": "can",
+            "3": "may",
+            "4": "must"
+          }
+        },
+        "4": {
+          "stem_plain": "Norman saw Daniel ________ the money from the safe.",
+          "options": {
+            "1": "stole",
+            "2": "steal",
+            "3": "steals",
+            "4": "had stolen"
+          }
+        },
+        "5": {
+          "stem_plain": "Gopal rarely goes jogging, ________?",
+          "options": {
+            "1": "has he",
+            "2": "does he",
+            "3": "hasn't he",
+            "4": "doesn't he"
+          }
+        },
+        "6": {
+          "stem_plain": "The company's aim of conducting all these surveys ________ to gather feedback as they want to keep improving the quality of their products.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "7": {
+          "stem_plain": "________ for a short break, the workers have been painting for three hours.",
+          "options": {
+            "1": "Apart",
+            "2": "Except",
+            "3": "Besides",
+            "4": "Despite"
+          }
+        },
+        "8": {
+          "stem_plain": "Meiling ________ the house since morning and she needed a rest badly.",
+          "options": {
+            "1": "cleans",
+            "2": "cleaned",
+            "3": "was cleaning",
+            "4": "had been cleaning"
+          }
+        },
+        "9": {
+          "stem_plain": "Ten minutes ________ the match, Fandi scored the first goal for Singapore and the spectators cheered loudly.",
+          "options": {
+            "1": "into",
+            "2": "over",
+            "3": "within",
+            "4": "towards"
+          }
+        },
+        "10": {
+          "stem_plain": "If Mrs Wong ________ the house earlier, she would not have missed the train.",
+          "options": {
+            "1": "leaves",
+            "2": "has left",
+            "3": "had left",
+            "4": "is leaving"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "‘a friend of theirs’是一个双重所有格结构，相当于‘one of their friends’。空后没有名词，所以要使用名词性物主代词‘theirs’。",
+          "concept": "物主代词 — Pronoun Case",
+          "answer": "3",
+          "zh": "沃尔特斯夫妇在聚会上把他们的一位朋友介绍给了我父亲。"
+        },
+        "2": {
+          "note": "句中出现了‘did the speaker expect’的倒装语序，说明句首需要一个含有否定意义的词。‘Little’放在句首表否定意义的“几乎没有”，符合倒装句要求。",
+          "concept": "倒装句 — Inversion",
+          "answer": "2",
+          "zh": "演讲者几乎没有料到观众会报以如此雷鸣般的掌声，因为他在演讲中忘了几行台词。"
+        },
+        "3": {
+          "note": "‘or’在此表示‘否则’，引出不遵守规定带来的负面后果。‘must’表示“必须”，用来强调一种强制性的规章要求或义务。",
+          "concept": "情态动词 — Modal Verbs",
+          "answer": "4",
+          "zh": "你必须向保安出示你的员工证，否则你将不被允许进入大楼。"
+        },
+        "4": {
+          "note": "‘saw’是感官动词，其后接宾语加动词形式。‘see someone do something’表示看到某人做了某事（强调完整过程），此处应使用动词原形‘steal’。",
+          "concept": "感官动词 — Verbs of Perception",
+          "answer": "2",
+          "zh": "诺曼看见丹尼尔从保险箱里偷走了钱。"
+        },
+        "5": {
+          "note": "陈述句中含有否定副词‘rarely’（很少），因此反意疑问部分要用肯定形式。同时陈述动词为‘goes’，对应的助动词应为‘does’。",
+          "concept": "反意疑问句 — Question Tag",
+          "answer": "2",
+          "zh": "戈帕尔很少去跑步，不是吗？"
+        },
+        "6": {
+          "note": "句子的核心主语是单数名词‘aim’（目的），后面‘of conducting all these surveys’是介词短语作定语。陈述的是客观事实，谓语动词用一般现在时单数形式‘is’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "1",
+          "zh": "该公司进行所有这些调查的目的是收集反馈，因为他们想不断提高产品质量。"
+        },
+        "7": {
+          "note": "‘Except for’是一个固定短语，意为‘除了……之外’。句意指除了短暂的休息时间外，工人们已经连续刷了三个小时的墙。",
+          "concept": "介词短语 — Prepositional Phrase",
+          "answer": "2",
+          "zh": "除了短暂的休息，工人们已经刷了三个小时的墙。"
+        },
+        "8": {
+          "note": "‘since morning’表示动作在过去就开始并一直持续。后文‘she needed a rest badly’提示整个故事背景基于过去（needed），因此过去一直持续的动作要用过去完成进行时‘had been cleaning’。",
+          "concept": "动词时态 — Tense",
+          "answer": "4",
+          "zh": "美玲从早上起就一直在打扫房子，她急需休息。"
+        },
+        "9": {
+          "note": "‘Ten minutes into the match’是固定用法，意为‘比赛开始十分钟后’。介词‘into’在这里用来表示进入某个时间段或活动进程的过程。",
+          "concept": "介词用法 — Prepositions",
+          "answer": "1",
+          "zh": "比赛开始十分钟后，范迪为新加坡队攻入首球，观众们热烈欢呼。"
+        },
+        "10": {
+          "note": "根据主句‘she would not have missed...’可知这是对过去发生事情的虚拟假设。if 引导的虚拟条件句中，表示对过去事实的虚拟时，从句谓语动词要用过去完成时‘had left’。",
+          "concept": "虚拟语气 — Subjunctive Mood",
+          "answer": "3",
+          "zh": "如果黄太太早点出门，她就不会错过火车了。"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "He was led ________ by bad company in his youth, but he has since turned over a new leaf.",
+          "options": {
+            "1": "adrift",
+            "2": "aside",
+            "3": "amiss",
+            "4": "astray"
+          }
+        },
+        "12": {
+          "stem_plain": "\"You promised to attend Tammy's party tonight. It's too late to ________ now,\" said my sister.",
+          "options": {
+            "1": "back off",
+            "2": "back out",
+            "3": "back down",
+            "4": "back away"
+          }
+        },
+        "13": {
+          "stem_plain": "Smiling and waving to her ardent fans, the superstar basked in all the attention ________ upon her.",
+          "options": {
+            "1": "doted",
+            "2": "lavished",
+            "3": "honoured",
+            "4": "pampered"
+          }
+        },
+        "14": {
+          "stem_plain": "Pamela is the most ________ person I have ever known. To her, every cloud has a silver lining.",
+          "options": {
+            "1": "obstinate",
+            "2": "objective",
+            "3": "optimistic",
+            "4": "opinionated"
+          }
+        },
+        "15": {
+          "stem_plain": "The doctors wanted to prevent the disease from spreading in the village. However, a shortage of medicine ________ their efforts.",
+          "options": {
+            "1": "subdued",
+            "2": "impeded",
+            "3": "restrained",
+            "4": "suppressed"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "他年轻时被坏人引入歧途，但此后他已经改过自新了。",
+          "note": "‘led astray’是一个固定搭配，意为‘引入歧途、误导’。句中提到他年轻时结交了坏朋友（bad company）所以被引入歧途，符合前后文语境。",
+          "concept": "Vocabulary-Adverb",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "adrift",
+              "zh": "漂泊地，迷失地（副词，指船只在海上失去控制随风漂流，也指人失去生活方向）",
+              "eg": "Without a clear career plan, he felt completely **adrift** after graduating from college."
+            },
+            {
+              "opt": "2",
+              "word": "aside",
+              "zh": "在一边，向别处（副词，指离开中心位置或偏离原来的方向）",
+              "eg": "She stepped **aside** to let the elderly lady pass through the narrow corridor."
+            },
+            {
+              "opt": "3",
+              "word": "amiss",
+              "zh": "不对劲地，错误地（副词/形容词，通常与 strike 或 go 搭配，指事情不顺利或有异样）",
+              "eg": "The detective immediately noticed that something was **amiss** when he saw the open safe."
+            },
+            {
+              "opt": "4",
+              "word": "astray",
+              "zh": "迷路地，误入歧途地（副词，主要用于搭配 go astray 或 lead astray，指偏离正道）",
+              "eg": "The sheep went **astray** in the thick fog and got separated from the rest of the flock."
+            }
+          ]
+        },
+        "12": {
+          "zh": "“你答应了今晚要参加塔米的聚会。现在才想退出已经太晚了，”我姐姐说。",
+          "note": "‘back out’意为‘退出（承诺、协议）’。句子中说已经做出了出席聚会的承诺，现在再想改变主意取消、退出就太晚了。",
+          "concept": "Vocabulary-Phrasal Verb",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "back off",
+              "zh": "后退，让步（动词短语，指从某个位置往后退，或者在争论中停止纠缠、不再插手）",
+              "eg": "The security guards ordered the aggressive crowd to **back off** from the stage."
+            },
+            {
+              "opt": "2",
+              "word": "back out",
+              "zh": "退出，食言（动词短语，指决定不去做原本已经同意、承诺或安排好的一件事）",
+              "eg": "He decided to **back out** of the business deal at the last minute due to financial risks."
+            },
+            {
+              "opt": "3",
+              "word": "back down",
+              "zh": "认输，放弃要求（动词短语，指在冲突或辩论中承认自己错了或放弃自己的立场观点）",
+              "eg": "Neither of the two opposing sides was willing to **back down** during the intense debate."
+            },
+            {
+              "opt": "4",
+              "word": "back away",
+              "zh": "后退，躲避（动词短语，主要指向后退一步以远离让自己感到害怕、危险的人或物）",
+              "eg": "She slowly began to **back away** from the snarling dog on the pavement."
+            }
+          ]
+        },
+        "13": {
+          "zh": "这位超级巨星向她热烈的粉丝们微笑并挥手，沉浸在所有粉丝们的关注中。",
+          "note": "‘lavished upon’意为‘慷慨给予、大量倾注’。粉丝们把大量的爱慕、关注毫不吝啬地给予崇拜的偶像，属于常见的高阶词汇搭配。",
+          "concept": "Vocabulary-Verb",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "doted",
+              "zh": "溺爱，宠爱（动词，通常搭配 on/upon，指对某人表现出极度的、有时是过分的爱护）",
+              "eg": "The grandmother **doted** on her newborn grandson, buying him gifts every single week."
+            },
+            {
+              "opt": "2",
+              "word": "lavished",
+              "zh": "慷慨给予，大量倾注（动词，常用搭配 lavish something on/upon someone，指向某人大量给予爱、赞美或金钱）",
+              "eg": "The wealthy parents **lavished** expensive jewelry and sports cars upon their children."
+            },
+            {
+              "opt": "3",
+              "word": "honoured",
+              "zh": "给予荣誉，尊敬（动词，指公开向某人表达极大的崇敬或通过颁奖表彰其成就）",
+              "eg": "The brave firefighter was **honoured** with a medal for saving families from the burning building."
+            },
+            {
+              "opt": "4",
+              "word": "pampered",
+              "zh": "娇惯，精心照顾（动词，指通过提供极度的舒适、美食或过度的照顾来娇宠某人）",
+              "eg": "She loved to spend her weekends being **pampered** with massage therapies at a luxury spa."
+            }
+          ]
+        },
+        "14": {
+          "zh": "帕梅拉是我所知道的最乐观的人。对她来说，每朵乌云都有一道银边（意为黑暗中总有一线光明）。",
+          "note": "‘optimistic’意为‘乐观的’。后文成语‘every cloud has a silver lining’是英国著名谚语，意思是身处逆境也有希望，用以形容一个人性格非常乐观向上。",
+          "concept": "Vocabulary-Adjective",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "obstinate",
+              "zh": "顽固的，固执的（形容词，指非常顽固、不愿意改变自己的想法、决定或行为方式）",
+              "eg": "Despite the evidence, he remained **obstinate** and refused to change his flawed plan."
+            },
+            {
+              "opt": "2",
+              "word": "objective",
+              "zh": "客观的，公正的（形容词，指基于事实而非受到个人情感、偏见或意见影响的）",
+              "eg": "A judge must remain completely **objective** when listening to the testimonies of both sides."
+            },
+            {
+              "opt": "3",
+              "word": "optimistic",
+              "zh": "乐观的，充满希望的（形容词，指对未来倾向于看到好的一面并相信事情会有好结果）",
+              "eg": "The financial analysts are **optimistic** that the stock market will recover next quarter."
+            },
+            {
+              "opt": "4",
+              "word": "opinionated",
+              "zh": "武断的，固执己见的（形容词，指强烈坚持自己的看法且傲慢地不肯听取他人的合理意见）",
+              "eg": "He is so **opinionated** that it is almost impossible to have a constructive discussion with him."
+            }
+          ]
+        },
+        "15": {
+          "zh": "医生们想要阻止这种疾病在村庄里蔓延。然而，药物的短缺阻碍了他们的努力。",
+          "note": "‘impeded’意为‘阻碍、妨碍’。前半句是医生们积极的抗疫行动，后半句用‘However’转折，指出‘shortage of medicine’（缺乏药物）拖了后腿，阻碍了进展。",
+          "concept": "Vocabulary-Verb",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "subdued",
+              "zh": "制服，压制（动词，指通过武力或权威击败、控制住某人或某种反抗力量）",
+              "eg": "The police officers quickly **subdued** the violent rioter before anyone else got hurt."
+            },
+            {
+              "opt": "2",
+              "word": "impeded",
+              "zh": "阻碍，妨碍（动词，指使某项活动、进程或计划的发展变得困难、缓慢或受到拖延）",
+              "eg": "The thick layer of snow on the highway heavily **impeded** the flow of morning traffic."
+            },
+            {
+              "opt": "3",
+              "word": "restrained",
+              "zh": "克制，阻止（动词，指通过物理力量或情感控制来阻止某人做某事，也指限制某物的增长）",
+              "eg": "The angry customer had to be **restrained** by his friends from hitting the shop assistant."
+            },
+            {
+              "opt": "4",
+              "word": "suppressed",
+              "zh": "镇压，隐瞒（动词，指用强力平定暴动、起义，或有意识地不让信息、情感表达泄漏出去）",
+              "eg": "The government attempted to have the political scandal **suppressed** from the local news."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "splendour",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "luxury",
+            "2": "power",
+            "3": "radiance",
+            "4": "grandeur"
+          }
+        },
+        "17": {
+          "stem_plain": "dedicated",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "firm",
+            "2": "staunch",
+            "3": "constant",
+            "4": "committed"
+          }
+        },
+        "18": {
+          "stem_plain": "cared for",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "tended",
+            "2": "handled",
+            "3": "nurtured",
+            "4": "supervised"
+          }
+        },
+        "19": {
+          "stem_plain": "takes new staff under his wing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "dictates new staff",
+            "2": "mentors new staff",
+            "3": "consults new staff",
+            "4": "prepares new staff"
+          }
+        },
+        "20": {
+          "stem_plain": "located",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "fixed",
+            "2": "secured",
+            "3": "situated",
+            "4": "attached"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “splendour”指建筑物、庭院等壮丽、宏伟、华丽的景观，与“grandeur（宏伟、壮丽）”意思最接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "luxury",
+              "zh": "奢侈，豪华",
+              "eg": "He enjoyed the comfort and luxury of the five-star hotel room."
+            },
+            {
+              "opt": "2",
+              "word": "power",
+              "zh": "权力，力量",
+              "eg": "The president has the constitutional power to veto the new bill."
+            },
+            {
+              "opt": "3",
+              "word": "radiance",
+              "zh": "容光焕发，光辉",
+              "eg": "The bright smile added to the beauty and radiance of her face."
+            },
+            {
+              "opt": "4",
+              "word": "grandeur",
+              "zh": "宏伟，壮丽，显赫",
+              "eg": "We stood in complete awe admiring the grandeur of the old palace."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “dedicated”指对工作或事业全心全意投入的、尽职尽责的，与“committed（尽忠职守的、坚定的）”同义。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "firm",
+              "zh": "坚固的，坚定的",
+              "eg": "He made a firm decision to complete his studies abroad."
+            },
+            {
+              "opt": "2",
+              "word": "staunch",
+              "zh": "坚定的，忠实的",
+              "eg": "The famous politician was supported by his staunch followers."
+            },
+            {
+              "opt": "3",
+              "word": "constant",
+              "zh": "不断的，持续不变的",
+              "eg": "The cooling fan kept a constant flow of fresh air in the room."
+            },
+            {
+              "opt": "4",
+              "word": "committed",
+              "zh": "尽忠职守的，坚定的，全心投入的",
+              "eg": "Our school has a team of highly committed and passionate educators."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “cared for the grounds”指照料、打理草坪庭院，与动词“tended（照顾、照料、护理）”意思完全相符。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tended",
+              "zh": "照顾，照料，打理（植物/庭院/动物等）",
+              "eg": "The old gardener carefully tended the rare roses in the botanical garden."
+            },
+            {
+              "opt": "2",
+              "word": "handled",
+              "zh": "处理，搬运",
+              "eg": "The customer service representative handled the complaints professionaly."
+            },
+            {
+              "opt": "3",
+              "word": "nurtured",
+              "zh": "培育，养育",
+              "eg": "The young mother nurtured her child's talents from an early age."
+            },
+            {
+              "opt": "4",
+              "word": "supervised",
+              "zh": "监督，指导",
+              "eg": "The foreman supervised the workers as they laid the foundation stones."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — 习语“takes someone under his wing”指悉心庇护并指导、带教新人，等同于“mentors（指导、指导新手）”。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dictates new staff",
+              "zh": "命令/支配新员工",
+              "eg": "A good manager leads by example instead of simply dictates new staff."
+            },
+            {
+              "opt": "2",
+              "word": "mentors new staff",
+              "zh": "指导/带教新员工",
+              "eg": "The senior engineer mentors new staff to help them adapt quickly."
+            },
+            {
+              "opt": "3",
+              "word": "consults new staff",
+              "zh": "咨询新员工",
+              "eg": "The director consults new staff members for creative layout ideas."
+            },
+            {
+              "opt": "4",
+              "word": "prepares new staff",
+              "zh": "培训/使新员工做好准备",
+              "eg": "The orientation program prepares new staff for their upcoming roles."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “located near the main gate”指（池塘）位于大门附近，与形容词“situated（坐落于、位于……的）”完全一致。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fixed",
+              "zh": "固定的，修理好的",
+              "eg": "The display boards are securely fixed onto the classroom wall."
+            },
+            {
+              "opt": "2",
+              "word": "secured",
+              "zh": "获得，牢固系紧",
+              "eg": "The rescue workers secured the rope to the large boulder safely."
+            },
+            {
+              "opt": "3",
+              "word": "situated",
+              "zh": "位于……的，坐落于",
+              "eg": "The beautiful holiday resort is situated right next to the sea beach."
+            },
+            {
+              "opt": "4",
+              "word": "attached",
+              "zh": "附带的，依恋的",
+              "eg": "Please fill out the form that is attached to the email invitation."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Istana, the official residence of the President, celebrates its 150th anniversary this year. Strolling into the Istana, one is immediately struck by the [Q16(splendour)] of its grounds. However, behind the more than 40 hectares of sprawling greenery is a team of [Q17(dedicated)] people who work hard to maintain it daily. Some of them have done so for decades.",
+          "From cutting the grass with a simple sickle when he was 18 to using a grass-cutting machine at 65, Mr Hamid Sudi has [Q18(cared for)] the grounds of the presidential residence for nearly five decades. With his 47 years of experience, he also [Q19(takes new staff under his wing)].",
+          "Mr Hamid is also quite a handyman. He was the one who built an enclosure for the swans at the Swan Pond - [Q20(located)] near the main gate and the largest of five ponds there - using natural materials from the grounds.",
+          "“I feel happy at work. The Istana grounds have become even more beautiful over time,” Mr Hamid said in Malay. “I will surely miss this place and my colleagues when I retire, for we have become like family,” he said pensively."
+        ],
+        "zh": [
+          "作为总统官邸的总统府（Istana）今年迎来了建第150周年。漫步走进总统府，人们立刻会被其庭院的壮丽景观所震撼。然而，在这片占地40多公顷、绵延不绝的绿茵背后，有一支尽职尽责的团队每天在努力维护着它。他们中的一些人甚至已经默默坚守了数十年。",
+          "从18岁时用最简单的镰刀割草，到65岁时操作除草机，哈米德·苏迪先生打理这座总统官邸的庭院已有将近五十年的时间。凭借着47年的丰富经验，他还经常悉心指导和带教新员工。",
+          "哈米德先生也是个相当了得的能工巧匠。位于大门附近的天鹅池是这里五个池塘中最大的一个，那里供天鹅栖息的围栏就是他利用庭院里的天然材料亲手建造的。",
+          "“我在工作中感到很幸福。随着时间的推移，总统府的庭院变得越发美丽了，”哈米德先生用马来语说道。“当我退休时，我一定会非常想念这个地方和我的同事们，因为我们已经变得像家人一样了，”他深思熟虑地说道。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘which’ 引导定语从句，先行词是 mammals（哺乳动物），在从句中充当主语。",
+          "answer": "P"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘is marked by’ 是固定被动句式结构，表示‘以……为特征’或‘由……所标记’。",
+          "answer": "D"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘as’ 引导时间状语从句，表示‘随着’，即‘随着这种动物发育成熟，鳞片会变硬’。",
+          "answer": "C"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘the same... as/which...’ 属于定冠词与 same 的固定搭配，特指‘同一种材料’。",
+          "answer": "K"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘comparable... to’ 是固定搭配，表示‘可以与……相比/相媲美’。",
+          "answer": "M"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘curl up into a ball’ 是固定短语，表示‘蜷缩成一个球状’。",
+          "answer": "F"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘under its tail’ 结合语境，穿山甲通过把脸部‘塞进尾巴下面’来保护自己的面部。",
+          "answer": "N"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘defence against’ 是固定搭配，表示‘针对/防御……的防御手段’（此处指抵御捕食者）。",
+          "answer": "B"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘sense of smell’ 是固定短语，表示‘嗅觉’。",
+          "answer": "J"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘their diet’ 物主代词，指代前文复数的穿山甲（Pangolins）‘它们的饮食’。",
+          "answer": "L"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "a",
+          "B": "against",
+          "C": "as",
+          "D": "by",
+          "E": "for",
+          "F": "into",
+          "G": "its",
+          "H": "instead",
+          "J": "of",
+          "K": "the",
+          "L": "their",
+          "M": "to",
+          "N": "under",
+          "P": "which",
+          "Q": "whose"
+        },
+        "cloze": [
+          "Pangolins, also known as scaly anteaters, are mammals which live in Africa and Asia. They are the only mammals [Q29] have scales on their skin.",
+          "The physical appearance of a pangolin is marked [Q30] large hardened overlapping plate-like scales that are soft on newborn pangolins but hardens [Q31] the animal matures. They are made of keratin, [Q32] same material from which human fingernails are made. The pangolin's scaled body is comparable in appearance [Q33] a pine cone. It can curl up [Q34] a ball when threatened, with its overlapping scales acting as an armour while it protects its face by tucking it [Q35] its tail. The scales are sharp, providing additional defence [Q36] predators.",
+          "Most predators are nocturnal animals that use their well-developed sense [Q37] smell to find insects. The long-tailed pangolin is active during the day while other species of pangolins spend most of the daytime sleeping.",
+          "Pangolins are insectivorous. Most of [Q38] diet consists of various species of ants and termites and may be supplemented by other insects, especially larvae. They tend to consume only one or two species of insects, even when many other species are available to them."
+        ],
+        "zh": [
+          "穿山甲，也被称为有鳞食蚁兽，是生活在非洲和亚洲的哺乳动物。它们是唯一皮肤上长有鳞片的哺乳动物。",
+          "穿山甲的外观特征是长有巨大的、坚硬的、重叠的盘状鳞片，这些鳞片在刚出生的穿山甲身上是柔软的，但随着动物的长大成熟而变硬。它们是由角蛋白制成的，人类的指甲也是由这种材料制成的。穿山甲长满鳞片的身体在外观上可以与松果相媲美。当受到威胁时，它可以蜷缩成一个球，其重叠的鳞片就像一副盔甲，同时它通过将脸塞进尾巴下面来保护面部。鳞片很锋利，提供了抵御捕食者的额外防御手段。",
+          "大多数捕食者是夜行动物，它们利用发达的嗅觉来寻找昆虫。长尾穿山甲在白天很活跃，而其他种类的穿山甲大部分白天时间都在睡觉。",
+          "穿山甲是食虫动物。它们的大部分饮食由各种蚂蚁和白蚁组成，并可能辅以其他昆虫，特别是幼虫。它们往往只食用一到两种昆虫，即使有很多其他物种可供它们选择。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "过去分词 - Past Participles",
+          "note": "非谓语动词/被动含义：此处表示“安装在飞机上的相机”，应用过去分词 attached 作后置定语，而非 atached（拼写错误）。",
+          "answer": "attached"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 quality（名词作定语，意为高品质的）。",
+          "answer": "quality"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 reveal（动词，意为揭示、展现），主语是复数 His photographs，用动词原形。",
+          "answer": "reveal"
+        },
+        "42": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：表示“处于危险之中”应用固定短语 in danger，而非 at danger。",
+          "answer": "in"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 devastated（过去分词作表语，意为遭到严重破坏的）。",
+          "answer": "devastated"
+        },
+        "44": {
+          "concept": "名词单复数 - Noun Number",
+          "note": "语境数量与平行结构：和前面的 lions, elephants 并列，gorilla 应使用复数形式 gorillas 才能与整体搭配一致。",
+          "answer": "gorillas"
+        },
+        "45": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰名词 places 应用形容词形式 secluded（偏僻的、隔绝的），而非名词 seclusion。",
+          "answer": "secluded"
+        },
+        "46": {
+          "concept": "代词 - Pronouns",
+          "note": "代词指代错误：前面提到的是复数 large wild animals，对应的宾格代词应用 them，而非单数 it。",
+          "answer": "them"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 existence（名词，意为存在），in existence 意为“现存的”。",
+          "answer": "existence"
+        },
+        "48": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰名词 scene 应用形容词形式 worrying（令人担忧的），而非动词/名词 worry。",
+          "answer": "worrying"
+        },
+        "49": {
+          "concept": "被动语态 - Passive Voice",
+          "note": "语态错误：被动语态的结构为 be 动词 + 过去分词，drove 是过去式，应改为过去分词 driven，构成 were driven 意为“被驱使”。",
+          "answer": "driven"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 instincts（名词，意为本能）。",
+          "answer": "instincts"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Michael Fay, a National Geographic explorer, has worked for the Wildlife Conservation Society since 1990. He has compiled an excellent collection of photographs of Africa from the air. Using a camera [Q39(atached)] to his plane, he took high [Q40(quarlitee)] photographs as he flew over the continent.",
+          "His photographs [Q41(riveel)] that Africa's great wild animals are [Q42(at)] danger. Their habitats are [Q43(darevasteted)], some reduced to almost nothing because of activities such as farming and logging. The populations of lions, elephants and [Q44(gorilla)] have all declined over recent years. Today, large wild animals only live in a few [Q45(seclusion)] places where there are few humans to bother [Q46(it)].",
+          "However, in game reserves such as Mala Mala in South Africa, humans and animals live side by side in harmony. Mala Mala is the largest and oldest game reserves in [Q47(esistance)] since 1927.",
+          "Fay also discovered a [Q48(worry)] scene in Tanzania where hundreds of hippos crowded into a fast-drying river. They were [Q49(drove)] there by their natural [Q50(innstints)] during the dry season but the water is being used up for irrigation of farms.",
+          "Through his photographs, Fay encourages people to confront the problem of vanishing wildlife in Africa and to take action before it is too late."
+        ],
+        "zh": [
+          "迈克尔·费伊（Michael Fay）是一位《国家地理》探险家，自1990年以来一直为国际野生生物保护学会工作。他收集了一系列非常出色的从空中拍摄的非洲照片。他利用[Q39(安装)]在飞机上的相机，在飞越这片大陆时拍下了高[Q40(品质)]的照片。",
+          "他的照片[Q41(揭示)]了非洲的大型野生动物正[Q42(处于)]危险之中。由于农业和伐木等活动，它们的栖息地[Q43(遭到了严重破坏)]，有些甚至几乎所剩无几。近年来，狮子、大象和[Q44(大猩猩)]的数量都有所下降。如今，大型野生动物只能生活在少数几个[Q45(偏僻的)]地方，那里的几乎没有人类去打扰[Q46(它们)]。",
+          "然而，在南非的玛拉玛拉（Mala Mala）等野生动物保护区，人类和动物和谐地生活在一起。玛拉玛拉是自1927年以来现存[Q47(现存的)]最大、最古老的野生动物保护区。",
+          "费伊还在坦桑尼亚发现了一个[Q48(令人担忧的)]景象，成百上千只河马挤在一条迅速干涸的河流中。在旱季，它们在自然[Q50(本能)]的驱使下被[Q49(驱使)]到了那里，但由于农田灌溉，水资源正被消耗殆尽。",
+          "通过他的照片，费伊鼓励人们去面对非洲野生动物正在消亡的问题，并在为时已晚之前采取行动。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "上下文语境名词",
+          "answer": "hair",
+          "note": "结合前文‘barbers（理发师）’，理发店转筒与‘剪头发（hair）’有什么关系？"
+        },
+        "52": {
+          "concept": "固定搭配 / 数量代词",
+          "answer": "nothing / little",
+          "note": "与后文的‘to do with’连用，结合转折词‘However’，可知此处指现在它与理发师的工作‘毫无（nothing）’关系。"
+        },
+        "53": {
+          "concept": "固定搭配 / 介词",
+          "answer": "on",
+          "note": "‘perform operations on someone’为固定搭配，意为‘在某人身上做手术’。"
+        },
+        "54": {
+          "concept": "上下文语境名词",
+          "answer": "operations / procedures",
+          "note": "指代前句提到的‘minor operations（小手术）’，填入复数名词，意为‘其中一种手术（operations）叫做放血’。"
+        },
+        "55": {
+          "concept": "动词原形 / 语境动词",
+          "answer": "heal / recover / improve",
+          "note": "位于情态动词‘would’后接动词原形。当时的人们迷信坏血离开身体后，病人就会‘痊愈/好转（heal）’。"
+        },
+        "56": {
+          "concept": "动词原形",
+          "answer": "perform / undergo / complete / do",
+          "note": "位于动词不定式符号‘to’面接动词原形，与后面的‘the operation’搭配，意为‘为了进行/实施（perform）该手术’。"
+        },
+        "57": {
+          "concept": "动词原形",
+          "answer": "hold / grip",
+          "note": "理发师会要求病人紧紧地‘握住/抓着（hold）’一根木杆，以便于手臂静脉舒张放血。"
+        },
+        "58": {
+          "concept": "时间连词",
+          "answer": "when / whenever",
+          "note": "引导时间状语从句，由于位于句中（虽原卷换行但为小写形式），填入小写形式。意为‘当（when）’这根木杆不被使用的时候，绷带会被固定在上面。"
+        },
+        "59": {
+          "concept": "固定搭配 / 介词",
+          "answer": "as",
+          "note": "‘as a sign to people’为常用句型，意为‘作为（as）给人们的一个标志/信号’。"
+        },
+        "60": {
+          "concept": "固定搭配 / 连词",
+          "answer": "that",
+          "note": "与前文的‘so’相呼应，构成‘so... that...’结构，意为‘如此……以至于（that）……’。"
+        },
+        "61": {
+          "concept": "固定搭配 / 副词",
+          "answer": "afford",
+          "note": "‘whatever he could afford’为固定语境表达，意为‘任何他能负担得起（afford）的费用’。"
+        },
+        "62": {
+          "concept": "固定搭配 / 介词",
+          "answer": "to / throughout / across / in",
+          "note": "‘spread to England’为原图参考答案首选，意为这种付费方式‘传到了英格兰’。"
+        },
+        "63": {
+          "concept": "上下文语境名词",
+          "answer": "places / establishments",
+          "note": "修饰后文举例说明的‘like inns and pubs’，故填入复数名词‘地方/场所（places）’。"
+        },
+        "64": {
+          "concept": "固定搭配 / 名词",
+          "answer": "payment / tips",
+          "note": "这些小盒子被当作服务‘报酬/付款（payment）’来塞钱。"
+        },
+        "65": {
+          "concept": "固定搭配 / 副词",
+          "answer": "much",
+          "note": "与后文的‘as possible’呼应，‘as much money as possible’为固定搭配，意为‘尽可能多（much）的钱’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever wondered why barbers use a red-and-white pole as a sign of their profession? What has a barber pole got to do with cutting [Q51]?",
+          "The truth is that it has [Q52] to do with a barber's work today. However, a long time ago, barbers used to perform certain minor operations [Q53] people. One of such [Q54] was known as 'bleeding'. The patient would allow some blood to be taken out of his arm and it was believed that when this 'bad blood' left the body, the patient would [Q55].",
+          "In order to [Q56] the operation, the barber would ask the patient to [Q57] on to a pole tightly. In the old days, every barber always had a pole in his shop. [Q58] the pole was not being used, the bandages were fastened to it and it was placed in the doorway of the shop [Q59] a sign to people that the barber was a good 'bleeder'.",
+          "As time went on, people considered it unhygienic to use the pole and bandages that stood in the doorway so the barber painted stripes around a special pole for his advertising sign. The red stripes were meant to remind them of the blood-soaked bandages.",
+          "These poles became so identified with barbers [Q60] the custom of having one outside a barber shop has lasted right down to this day.",
+          "The beginning of tipping for work done goes back to barbers too. A patient would pay the barber whatever he could [Q61] or whatever he thought the operation was worth. This method of paying spread [Q62] England and soon little boxes appeared in [Q63] like inns and pubs into which people would drop money as [Q64] for services. To make people drop in as [Q65] money as possible, these boxes had the words 'To Insure Promptness' above them. Our word 'tip' comes from the initials of these three words!"
+        ],
+        "zh": [
+          "你有没有想过，为什么理发师要用红白相间的转筒作为他们职业的标志？理发店转筒和剪头发到底有什么关系？",
+          "事实是，它与今天理发师的工作毫无关系。然而，在很久以前，理发师经常在人们身上做一些小手术。其中一种手术被称为“放血”。病人会允许从他的手臂上抽出一部分血，人们相信当这些“坏血”离开身体时，病人就会痊愈。",
+          "为了进行这项手术，理发师会要求病人紧紧地握住一根木杆。在过去，每个理发师的店里总有一根木杆。当不用这根木杆时，绷带就会系在上面，并被放置在店铺的门口，作为给人们的一个标志，证明这位理发师是一个优秀的“放血师”。",
+          "随着时间的推移，人们认为把木杆和绷带立在门口很不卫生，于是理发师在特制的木杆周围画上条纹作为他的广告招牌。红色条纹是为了让他们联想到浸满鲜鲜血的绷带。",
+          "这些木杆与理发师的联系是如此紧密，以至于在理发店外面挂一根转筒的习俗一直延续到了今天。",
+          "为所做工作付小费的起源也可以追溯到理发师。病人会向理发师支付任何他能负担得起的费用，或者任何他认为这项手术值多少钱。这种付费方式传到了英格兰，不久之后，在像旅店和酒馆这样的地方出现了一些小盒子，人们会往里面投钱作为服务的报酬。为了让人们尽可能多地投钱，这些盒子的上方写着“确保迅速（To Insure Promptness）”几个字。我们的“tip（小费）”一词就来自这三个单词的首字母！"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

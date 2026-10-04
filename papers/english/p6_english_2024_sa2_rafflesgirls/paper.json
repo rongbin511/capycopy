@@ -1,0 +1,1581 @@
+{
+  "paperid": "p6_english_2024_sa2_rafflesgirls",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "I am looking forward to _________ Aunt May as I have not seen her in the last five years.",
+          "options": {
+            "1": "meet",
+            "2": "meets",
+            "3": "meeting",
+            "4": "have met"
+          }
+        },
+        "2": {
+          "stem_plain": "Mrs Tan thought she would be late but she was _________ right time for her cooking class.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "before",
+            "4": "behind"
+          }
+        },
+        "3": {
+          "stem_plain": "The list of all its graduates _________ by the university since 1978.",
+          "options": {
+            "1": "is kept",
+            "2": "are kept",
+            "3": "has been kept",
+            "4": "have been kept"
+          }
+        },
+        "4": {
+          "stem_plain": "She is always rushing off to the library during recess. She barely eats anything, _________?",
+          "options": {
+            "1": "is it",
+            "2": "isn’t it",
+            "3": "does she",
+            "4": "doesn’t she"
+          }
+        },
+        "5": {
+          "stem_plain": "Everyone but David and Mei Ling _________ to the dinner party now.",
+          "options": {
+            "1": "is going",
+            "2": "are going",
+            "3": "was going",
+            "4": "were going"
+          }
+        },
+        "6": {
+          "stem_plain": "Jill found a letter on the table and immediately knew _________ it belonged.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "7": {
+          "stem_plain": "He does not have many customers _________ the prices of his products are reasonable.",
+          "options": {
+            "1": "since",
+            "2": "hence",
+            "3": "because",
+            "4": "although"
+          }
+        },
+        "8": {
+          "stem_plain": "Father gave my twin sister and _________ many presents on our birthday.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "her",
+            "4": "him"
+          }
+        },
+        "9": {
+          "stem_plain": "“_________ an umbrella with you when you go out. It may rain and I will not be with you,” Mother said.",
+          "options": {
+            "1": "Take",
+            "2": "Fetch",
+            "3": "Bring",
+            "4": "Send"
+          }
+        },
+        "10": {
+          "stem_plain": "_________ you feel hungry, please help yourself to the food on the table.",
+          "options": {
+            "1": "Do",
+            "2": "Will",
+            "3": "Would",
+            "4": "Should"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "介词 — Gerund after phrasal verb + preposition *to*",
+          "zh": "我期待着见到梅阿姨，因为我已经五年没见她了。",
+          "note": "look forward to 里的 to 是介词，后面接动名词 meeting，不能接原形 meet。",
+          "answer": "3"
+        },
+        "2": {
+          "concept": "介词 — Preposition + time phrase — punctual / appropriate time",
+          "zh": "陈太太原以为会迟到，但她还是在烹饪课开始前准时到达。",
+          "note": "on time 表示准时；in time 强调赶得及、来得及。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "现在完成时 — Subject–verb agreement + present perfect passive",
+          "zh": "自1978年以来，大学一直保存着全体毕业生的名单。",
+          "note": "主语 The list 为单数；since + 过去时间点用现在完成时 has been kept（被动）。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "反意疑问句 — Question tag — negative adverb *barely*",
+          "zh": "她休息时总冲去图书馆，几乎不吃东西，是吗？",
+          "note": "barely 含否定意味，附加疑问句用肯定形式 does she；不要用 isn't it（主语应是 she）。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "主谓一致 — Subject–verb agreement — *Everyone* + parenthetical *but …*",
+          "zh": "除了大卫和美玲，现在大家都要去参加晚宴。",
+          "note": "Everyone 是真正主语，谓语用单数；but 后的名词不改变一致关系。",
+          "answer": "1"
+        },
+        "6": {
+          "concept": "关系词 — Relative / interrogative pronoun — object form",
+          "zh": "吉尔在桌上发现一封信，立刻知道那是谁的。",
+          "note": "belonged to 的宾语用 whom（正式书面语）；who 在口语常见但试卷常考 whom。",
+          "answer": "3"
+        },
+        "7": {
+          "concept": "让步状语从句 — Concessive subordinator",
+          "zh": "他的顾客不多，尽管他的产品价格合理。",
+          "note": "although 引导让步从句，表示“虽然……但是……”（英语里不与 but 连用）。",
+          "answer": "4"
+        },
+        "8": {
+          "concept": "代词 — Compound object — pronoun case after *gave*",
+          "zh": "生日那天，父亲给我和双胞胎姐姐/妹妹很多礼物。",
+          "note": "作 gave 的宾语要用宾格 me，不能用主格 I。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "祈使句 — Imperative — carry when leaving",
+          "zh": "妈妈说：“出门带伞。可能会下雨，我又不在你身边。”",
+          "note": "从家里外出携带用 take；bring 多指朝说话者方向带来。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "条件句 — Open conditional / polite offer — *Should you…*",
+          "zh": "要是饿了，请随便吃点桌上的食物。",
+          "note": "Should you… = If you should…，正式、委婉的条件句开头。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The villagers wanted to go home and start their clean-up when the flood waters _________.",
+          "options": {
+            "1": "recoiled",
+            "2": "receded",
+            "3": "reclaimed",
+            "4": "recovered"
+          }
+        },
+        "12": {
+          "stem_plain": "The heroine cleverly saved the day with _________ solutions simply by using everyday items like paper clips and bubble gum.",
+          "options": {
+            "1": "intuitive",
+            "2": "insightful",
+            "3": "ingenious",
+            "4": "indomitable"
+          }
+        },
+        "13": {
+          "stem_plain": "As it was not conducive for her to study at home, Leia _________ completing her homework in the library.",
+          "options": {
+            "1": "took in",
+            "2": "took to",
+            "3": "took on",
+            "4": "took up"
+          }
+        },
+        "14": {
+          "stem_plain": "It is important that speeches are organised clearly and _________ because it helps the audience to understand the speech and follow the speaker’s message.",
+          "options": {
+            "1": "coherently",
+            "2": "consistently",
+            "3": "conclusively",
+            "4": "continuously"
+          }
+        },
+        "15": {
+          "stem_plain": "In Singapore, the Acres Wildlife Rescue Centre (AWRC) provides a safe _________ for animals to recover after they are rescued from the illegal wildlife trade.",
+          "options": {
+            "1": "shield",
+            "2": "solace",
+            "3": "support",
+            "4": "sanctuary"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "洪水渐退，村民想回家清理。",
+          "note": "应选（2）'receded'：题干语境最宜表达'（洪水）退去；（发际线）后移'。'recoiled'义为'畏缩；后退（因恐惧）'：与题干逻辑及英语解析中的辨析不一致。'reclaimed'义为'收复；开垦；回收'：语义暗示与题干要求不一致。'recovered'义为'康复；重新寻回'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — receded（（洪水）退去；（发际线）后移）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "recoiled",
+              "zh": "畏缩；后退（因恐惧）",
+              "eg": "The cat <strong>recoiled</strong> when the noisy vacuum cleaner switched on beside her basket."
+            },
+            {
+              "opt": "2",
+              "word": "receded",
+              "zh": "（洪水）退去；（发际线）后移",
+              "eg": "After three days of sunshine, the river finally stopped rising and slowly <strong>receded</strong> from the fields."
+            },
+            {
+              "opt": "3",
+              "word": "reclaimed",
+              "zh": "收复；开垦；回收",
+              "eg": "The government plans to <strong>reclaim</strong> land from the sea to build new housing estates."
+            },
+            {
+              "opt": "4",
+              "word": "recovered",
+              "zh": "康复；重新寻回",
+              "eg": "Leo could not work until he fully <strong>recovered</strong> from a bad case of food poisoning."
+            }
+          ]
+        },
+        "12": {
+          "zh": "女主角用纸夹、泡泡糖等日常物品想出巧妙办法。",
+          "note": "应选（3）'ingenious'：题干语境最宜表达'（主意）巧妙的；（装置）制作精巧的'。'intuitive'义为'直觉的；凭直觉获知的'：与题干逻辑及英语解析中的辨析不一致。'insightful'义为'富有洞察力的；精辟的'：与题干逻辑及英语解析中的辨析不一致。'indomitable'义为'不屈不挠的；不服输的'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — ingenious（（主意）巧妙的；（装置）制作精巧的）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intuitive",
+              "zh": "直觉的；凭直觉获知的",
+              "eg": "She had an <strong>intuitive</strong> sense that the quiet student understood more than he said."
+            },
+            {
+              "opt": "2",
+              "word": "insightful",
+              "zh": "富有洞察力的；精辟的",
+              "eg": "The documentary offered an <strong>insightful</strong> look at how recycling habits shape a neighbourhood."
+            },
+            {
+              "opt": "3",
+              "word": "ingenious",
+              "zh": "（主意）巧妙的；（装置）制作精巧的",
+              "eg": "The campers built an <strong>ingenious</strong> stove from two tin cans and a handful of pebbles."
+            },
+            {
+              "opt": "4",
+              "word": "indomitable",
+              "zh": "不屈不挠的；不服输的",
+              "eg": "Despite several defeats, the team showed <strong>indomitable</strong> determination in the next match."
+            }
+          ]
+        },
+        "13": {
+          "zh": "家里不宜学习，莉娅养成了在图书馆完成作业的习惯。",
+          "note": "应选（2）'took to'：题干语境最宜表达'喜欢上；养成……的习惯'。'took in'义为'理解；收留；改小（衣物）'：与题干逻辑及英语解析中的辨析不一致。'took on'义为'承担；雇用；呈现'：与题干逻辑及英语解析中的辨析不一致。'took up'义为'开始（爱好）；占用；拿起'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — took to（喜欢上；养成……的习惯）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "took in",
+              "zh": "理解；收留；改小（衣物）",
+              "eg": "It took a while for the class to <strong>take in</strong> how the new timetable would affect them."
+            },
+            {
+              "opt": "2",
+              "word": "took to",
+              "zh": "喜欢上；养成……的习惯",
+              "eg": "After a rainy week, Mei Ling <strong>took to</strong> wearing her bright yellow raincoat every morning."
+            },
+            {
+              "opt": "3",
+              "word": "took on",
+              "zh": "承担；雇用；呈现",
+              "eg": "The club <strong>took on</strong> three new coaches to prepare for the national tournament."
+            },
+            {
+              "opt": "4",
+              "word": "took up",
+              "zh": "开始（爱好）；占用；拿起",
+              "eg": "Ethan decided to <strong>take up</strong> chess after watching the school championship."
+            }
+          ]
+        },
+        "14": {
+          "zh": "演讲要条理清楚、前后连贯，听众才跟得上。",
+          "note": "应选（1）'coherently'：题干语境最宜表达'条理清楚地；前后连贯地'。'consistently'义为'一贯地；始终如一地'：与题干逻辑及英语解析中的辨析不一致。'conclusively'义为'结论性地；毋庸置疑地'：与题干逻辑及英语解析中的辨析不一致。'continuously'义为'持续不断地'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — coherently（条理清楚地；前后连贯地）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "coherently",
+              "zh": "条理清楚地；前后连贯地",
+              "eg": "The debater arranged her points <strong>coherently</strong> so the judges could follow every step."
+            },
+            {
+              "opt": "2",
+              "word": "consistently",
+              "zh": "一贯地；始终如一地",
+              "eg": "She has <strong>consistently</strong> handed in homework on time since the start of term."
+            },
+            {
+              "opt": "3",
+              "word": "conclusively",
+              "zh": "结论性地；毋庸置疑地",
+              "eg": "The fingerprint evidence <strong>conclusively</strong> linked the suspect to the scene."
+            },
+            {
+              "opt": "4",
+              "word": "continuously",
+              "zh": "持续不断地",
+              "eg": "The ceiling fan whirred <strong>continuously</strong> through the humid afternoon."
+            }
+          ]
+        },
+        "15": {
+          "zh": "野生动物救援中心为获救动物提供安全庇护。",
+          "note": "应选（4）'sanctuary'：题干语境最宜表达'避难所；保护区'。'shield'义为'盾牌；防护物'：与题干逻辑及英语解析中的辨析不一致。'solace'义为'安慰；慰藉'：与题干逻辑及英语解析中的辨析不一致。'support'义为'支持；支撑'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — sanctuary（避难所；保护区）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "shield",
+              "zh": "盾牌；防护物",
+              "eg": "He raised his arm as a <strong>shield</strong> against the driving rain while waiting for the bus."
+            },
+            {
+              "opt": "2",
+              "word": "solace",
+              "zh": "安慰；慰藉",
+              "eg": "Reading poetry brought her <strong>solace</strong> after her grandmother passed away."
+            },
+            {
+              "opt": "3",
+              "word": "support",
+              "zh": "支持；支撑",
+              "eg": "The school provides learning <strong>support</strong> for pupils who need extra help with English."
+            },
+            {
+              "opt": "4",
+              "word": "sanctuary",
+              "zh": "避难所；保护区",
+              "eg": "The reserve acts as a <strong>sanctuary</strong> where injured birds can heal before release."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "Fortunately",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Luckily",
+            "2": "Favourably",
+            "3": "Incidentally",
+            "4": "Auspiciously"
+          }
+        },
+        "17": {
+          "stem_plain": "advocate",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "voice",
+            "2": "account",
+            "3": "promote",
+            "4": "champion"
+          }
+        },
+        "18": {
+          "stem_plain": "committed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "devoted",
+            "2": "dedicated",
+            "3": "resigned",
+            "4": "detached"
+          }
+        },
+        "19": {
+          "stem_plain": "adversity",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "hardship",
+            "2": "bravery",
+            "3": "hostility",
+            "4": "fortune"
+          }
+        },
+        "20": {
+          "stem_plain": "seems",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "appears",
+            "2": "feels",
+            "3": "proves",
+            "4": "remains"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — Fortunately（幸运地）",
+          "note": "副词 Fortunately 意为幸运地、谢天谢地。在描述突发好运或糟糕情况得以避免的语境中，它与副词 Luckily 属于最基础且直接的考点近义词代换。",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Luckily",
+              "zh": "幸运地，幸好",
+              "eg": "Luckily, the weather cleared up just before our outdoor picnic started."
+            },
+            {
+              "opt": "2",
+              "word": "Favourably",
+              "zh": "顺利地，赞同地，善意地",
+              "eg": "The independent committee looked favourably upon our new project proposal and approved it."
+            },
+            {
+              "opt": "3",
+              "word": "Incidentally",
+              "zh": "顺便提一句，偶然地，附带地",
+              "eg": "Incidentally, I ran into your primary school teacher at the library earlier this morning."
+            },
+            {
+              "opt": "4",
+              "word": "Auspiciously",
+              "zh": "吉利地，顺利地，吉祥地",
+              "eg": "The training session started auspiciously with a major breakthrough in tech research."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — advocate（捍卫者/支持者）",
+          "note": "名词 advocate 意为倡导者、支持者、捍卫者。动词/名词 champion 在此用作熟词生义核心考点，作动词时意为“捍卫，支持，为……而战”，作名词时意为“拥护者，捍卫者”，与之完美对标。",
+          "zh": "尽管面临威胁和流亡，Malala 仍坚定于她的事业，并激励了数百万人。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "voice",
+              "zh": "表达（看法/意见），发声（作动词）；嗓音，观点（作名词）",
+              "eg": "The local residents stood up to voice their strong concerns about the new construction project."
+            },
+            {
+              "opt": "2",
+              "word": "account",
+              "zh": "描述，叙述，报告；账户",
+              "eg": "The witness provided a detailed account of the sudden traffic incident near the gate."
+            },
+            {
+              "opt": "3",
+              "word": "promote",
+              "zh": "促进，推动，晋升，宣传",
+              "eg": "The government launched a massive advertising campaign to promote public health awareness."
+            },
+            {
+              "opt": "4",
+              "word": "champion",
+              "zh": "捍卫，支持，为……而战（作动词）；冠军，拥护者（作名词）",
+              "eg": "She decided to champion the cause of environmental protection throughout her career."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — committed（专注的/尽职尽责的）",
+          "note": "形容词 committed 意为全心全意投入的、尽职尽责的。在描写对待工作或学习态度极为坚定的学术测试语境中，形容词 dedicated 意为“尽职尽责的，倾注心血的”，两者互为核心近义替换。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "devoted",
+              "zh": "深爱的，忠诚的，全心全意的（多用于形容对家庭、伴侣或宗教的深厚情感）",
+              "eg": "She is a devoted teacher who regularly stays back after school to help weaker pupils."
+            },
+            {
+              "opt": "2",
+              "word": "dedicated",
+              "zh": "尽职尽责的，专用的，倾注心血的",
+              "eg": "The team set up a dedicated workspace to ensure the project layout is completed on time."
+            },
+            {
+              "opt": "3",
+              "word": "resigned",
+              "zh": "听天由命的，无奈接受的（作形容词）；辞职（作动词过去式）",
+              "eg": "With a resigned sigh, he accepted the manager's final decision without further argument."
+            },
+            {
+              "opt": "4",
+              "word": "detached",
+              "zh": "超然的，不带感情色彩的，分离的",
+              "eg": "As a professional journalist, she managed to maintain a detached attitude while reporting the dispute."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — adversity（逆境/困难）",
+          "note": "名词 adversity 意为逆境、不幸、厄运。在考查战胜生活危机、承受生活压力的名词辨析中，直接对应同义词 hardship（艰苦，困苦，艰难）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hardship",
+              "zh": "艰苦，困苦，艰难",
+              "eg": "The family faced immense financial hardship during the economic recession."
+            },
+            {
+              "opt": "2",
+              "word": "bravery",
+              "zh": "勇敢，英勇",
+              "eg": "The firefighter was awarded a medal for his exceptional bravery in saving the children."
+            },
+            {
+              "opt": "3",
+              "word": "hostility",
+              "zh": "敌意，敌对状态",
+              "eg": "The traveler noticed a sudden sense of hostility from the local crowd near the gate."
+            },
+            {
+              "opt": "4",
+              "word": "fortune",
+              "zh": "财富，运气，大笔钱",
+              "eg": "He made his fortune in the shipping industry through years of hard work."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — seems（似乎/显得）",
+          "note": "连系动词 seems 意为似乎、显得。连系动词 appears 意为显得、似乎、看起来，在表达主观观察或推测某一状态时，两者属于完全的同义连系动词替换。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "appears",
+              "zh": "似乎，显得，出现",
+              "eg": "He appears to be very confident about passing the upcoming examination."
+            },
+            {
+              "opt": "2",
+              "word": "feels",
+              "zh": "感觉，觉得",
+              "eg": "She feels extremely motivated after receiving praise from her teacher."
+            },
+            {
+              "opt": "3",
+              "word": "proves",
+              "zh": "证明是，结果是",
+              "eg": "The extra vocabulary practice proves to be highly effective for the students."
+            },
+            {
+              "opt": "4",
+              "word": "remains",
+              "zh": "保持，依然是",
+              "eg": "Despite the unexpected technical issues, the manager remains calm."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "In 2012, Malala Yousafzai, a 15-year-old girl, was severely injured by soldiers for speaking out against their ban on girls’ education. [Q16 (Fortunately)], she survived and later became an advocate, an international icon, continuing to [Q17 (advocate)] for girls’ education worldwide. Despite facing threats and exile, Malala remains [Q18 (committed)] to her cause and has inspired millions.",
+          "We may not face the same level of [Q19 (adversity)] as Malala, but we can still make a difference by standing up for what is right in our daily lives. Whether speaking out against injustice, volunteering for a cause we believe in, or simply being kind to others, every small act can have a ripple effect.",
+          "In conclusion, doing the right thing and standing up for what is right, even when it [Q20 (seems)] difficult or unpopular, is crucial to creating positive change in the world."
+        ],
+        "zh": [
+          "2012年，15岁的 Malala Yousafzai 因反对士兵禁止女孩受教育而发声，被士兵严重击伤。所幸她幸存下来，后来成为倡导者、国际偶像，继续在全球为女孩教育奔走。尽管面临威胁和流亡，Malala 仍坚定于她的事业，并激励了数百万人。",
+          "我们或许不会面临与 Malala 同等程度的逆境，但仍可在日常生活中坚持正义来产生影响。无论是反对不公、为信念做义工，还是简单地善待他人，每个小举动都可能产生连锁效应。",
+          "总之，做正确的事、坚持正义，即使看似困难或不受欢迎，对创造世界的积极改变也至关重要。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Participants who dress in green for the event will",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "receive a mystery prize",
+            "2": "enjoy a free meal at Jolly Cafe",
+            "3": "be able to play on the Bouncy Castle",
+            "4": "get a 10% discount at the Farmer’s Market"
+          }
+        },
+        "22": {
+          "stem_plain": "Which of the following indicates that the ingredients used at Jolly Cafe are fresh?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "farm-to-table",
+            "2": "award-winning",
+            "3": "first come, first served",
+            "4": "no reservations allowed"
+          }
+        },
+        "23": {
+          "stem_plain": "Which one of these statements is **not** true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "The sponsor for the event is Jolly Cafe.",
+            "2": "Free food-tasting sessions are for adults only.",
+            "3": "There are only five food items sold at Jolly Cafe.",
+            "4": "Children will get to meet more than one vegetable mascot."
+          }
+        },
+        "24": {
+          "stem_plain": "Linda is a six-year-old child. Which activities can she participate in?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Bouncy Castle and Storytelling",
+            "2": "Food Tasting and Cooking Demonstration 1",
+            "3": "Storytelling and Grow Your Own Vegetables",
+            "4": "Bouncy Castle and Cooking Demonstration 2"
+          }
+        },
+        "25": {
+          "stem_plain": "Based on the flyer, what does “alternative farming” refer to?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "building a planter",
+            "2": "growing nutrient-rich vegetables",
+            "3": "using vegetable scraps to grow vegetables",
+            "4": "substituting soil with water when growing plants"
+          }
+        },
+        "26": {
+          "stem_plain": "Mr Lim is attending the workshop held at the Garden at 3 p.m. He will",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "have to pay a fee of thirty dollars",
+            "2": "learn to grow vegetables at home",
+            "3": "fold origami vegetables at the workshop",
+            "4": "be turning food waste into nutrients for plants"
+          }
+        },
+        "27": {
+          "stem_plain": "What is the similarity between the two cooking demonstrations?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They are both conducted in Kitchen 4.",
+            "2": "Recipes are handed out after the session.",
+            "3": "Both show the steps for cooking vegetable curry.",
+            "4": "Only vegetables and lean meat are used as ingredients."
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of the event?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to inform readers that they can be happy and healthy",
+            "2": "to get the public to consume more fruit and vegetables",
+            "3": "to advertise the discounted prices at the Farmer’s Market",
+            "4": "to encourage people to visit Orchard Community Club on “Eat Your Fruit and Vegetables Day”"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — Visual comprehension — promotion detail（视觉文本考点）",
+          "note": "<p>The flyer rewards participants who wear green with a <strong>mystery prize</strong> from Jolly Cafe — match option (1).</p>",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "视觉文本 — Visual comprehension — freshness cue（视觉文本考点）",
+          "note": "<p><em>Farm-to-table</em> signals ingredients brought straight from farms, implying freshness at Jolly Cafe.</p>",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "判断 — Visual comprehension — NOT true（找出错误项）",
+          "note": "<p>Statement (2) is false: tasting sessions are listed under children’s activities, not restricted to adults.</p>",
+          "answer": "2"
+        },
+        "24": {
+          "concept": "视觉文本 — Visual comprehension — age eligibility（视觉文本考点）",
+          "note": "<p>For age six, the programme pairs <strong>Bouncy Castle</strong> and <strong>Storytelling</strong> — option (1).</p>",
+          "answer": "1"
+        },
+        "25": {
+          "concept": "视觉文本 — Visual comprehension — definition（视觉文本考点）",
+          "note": "<p><em>Alternative farming</em> here refers to hydroponics: growing plants using nutrient-rich water instead of soil — option (4).</p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "视觉文本 — Visual comprehension — workshop outcome（视觉文本考点）",
+          "note": "<p>The 3 p.m. Garden slot describes composting / converting food waste into plant nutrients — aligns with option (4).</p>",
+          "answer": "4"
+        },
+        "27": {
+          "concept": "视觉文本 — Visual comprehension — compare columns（视觉文本考点）",
+          "note": "<p>Both cooking demonstrations state that <strong>recipes are provided after the session</strong> — option (2).</p>",
+          "answer": "2"
+        },
+        "28": {
+          "concept": "主旨 — Visual comprehension — main purpose（主要目的）",
+          "note": "<p>The event’s overarching aim is healthy eating: encouraging people to eat more fruit and vegetables — option (2).</p>",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "an",
+          "B": "and",
+          "C": "apart",
+          "D": "besides",
+          "E": "but",
+          "F": "by",
+          "G": "for",
+          "H": "from",
+          "J": "in",
+          "K": "its",
+          "L": "of",
+          "M": "on",
+          "N": "them",
+          "P": "to",
+          "Q": "towards"
+        },
+        "cloze": [
+          "Have you visited Singapore’s Gardens by the Bay? It is a national garden [Q29] also one of the most popular attractions [Q30] local and international visitors. Indeed, the Gardens is a showpiece [Q31] horticulture and artistry that presents the plant kingdom in a whole new way. [Q32] entertaining visitors, it also educates them about plants seldom seen in this part of the world, ranging [Q33] cool, temperate climates to tropical forests and habitats.",
+          "The Gardens is led [Q34] a multi-disciplinary team of professionals who rely [Q35] the extensive global network of plant sources for knowledge building. Guided by [Q36] vision to be a world of gardens for all to own, enjoy and cherish, the Gardens has earned numerous awards and accolades. These achievements are testament [Q37] the ongoing excellence of the Gardens and spur the team [Q38] their goal of attaining greater success.",
+          "Buy your tickets today and get up close to over 1.5 million plants from around the world in the Gardens’ iconic cooled conservatories!"
+        ],
+        "zh": [
+          "你是否参观过新加坡滨海湾花园？ 它既是国家花园，也是本地与国际游客最热门的景点之一。 的确，滨海湾花园是园艺与艺术的展示，以全新方式呈现植物王国。 在娱乐游客的同时，它也教育他们认识在本地区难得一见的植物，涵盖凉爽温带气候到热带森林与栖息地。",
+          "花园由多学科专业团队领导，他们依靠广泛的全球植物资源网络积累知识。 在“为所有人拥有、享受和珍惜的花园世界”这一愿景指引下，滨海湾花园屡获殊荣。 这些成就证明了花园的持续卓越，并激励团队朝着更大成功的目标迈进。",
+          "今天就购票，在花园标志性的冷室中近距离观赏来自世界各地的逾150万株植物！"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "连词 — and",
+          "note": "It is a national garden and also one of the most = 句间逻辑 → and。",
+          "answer": "B — and"
+        },
+        "30": {
+          "concept": "介词 — for",
+          "note": "看前后搭配，选 for。",
+          "answer": "G — for"
+        },
+        "31": {
+          "concept": "介词 — of",
+          "note": "the Gardens is a showpiece of horticulture and artistry that presents = 看前后搭配，选 of。",
+          "answer": "L — of"
+        },
+        "32": {
+          "concept": "Besides",
+          "note": "besides entertaining visitors, it also educates = 结合句意选 besides。",
+          "answer": "D — besides"
+        },
+        "33": {
+          "concept": "介词 — from",
+          "note": "看前后搭配，选 from。",
+          "answer": "H — from"
+        },
+        "34": {
+          "concept": "介词 — by",
+          "note": "The Gardens is led by a multi-disciplinary team of professionals = 看前后搭配，选 by。",
+          "answer": "F — by"
+        },
+        "35": {
+          "concept": "介词 — on",
+          "note": "看前后搭配，选 on。",
+          "answer": "M — on"
+        },
+        "36": {
+          "concept": "指示/所有格 — its",
+          "note": "Guided by its vision to be a world = 结合句意选 its。",
+          "answer": "K — its"
+        },
+        "37": {
+          "concept": "介词 — to",
+          "note": "These achievements are testament to the ongoing excellence of the = 看前后搭配，选 to。",
+          "answer": "P — to"
+        },
+        "38": {
+          "concept": "towards",
+          "note": "结合句意选 towards。",
+          "answer": "Q — towards"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Michelle was just seven years old. However, she knew [Q39(in)] great certainty that it was her true [Q40(vokayshen)] to be a photographer when she grew up. In fact, she [Q41(yeeaned)] so much to be one that she [Q42(immplord)] with her father [Q43(te)] purchase a camera for her. That year, she received a small [Q44(deesposabal)] one. At first, she randomly clicked the button, not giving much thought to what she was doing. “My pictures don’t look good,” she sighed in [Q45(egzesperashen)] . When her father examined her aimless shots and [Q46(blur)] images, he told Michelle earnestly to look into the [Q47(leng)] and think about what the result picture would look like. The next day, Michelle saw a family of ducks, and [Q48(remember)] what her father had said then, she [Q49(fie)] down on the ground and waited patiently for a duckling to [Q50(woddel)] near her.",
+          "That picture still hangs on her bedroom wall."
+        ],
+        "zh": [
+          "米歇尔只有七岁，却十分确信长大后当摄影师是她的天职。她渴望得如此强烈，以至恳求父亲为她买一台相机。那年她得到一台小型一次性相机。起初她随意按快门，不太思考自己在做什么。'我的照片不好看，'她懊恼地叹气。父亲查看她胡乱拍摄、模糊不清的照片后，认真地要她透过镜头思考成片会是什么样子。次日，米歇尔看见一窝鸭子，想起父亲的话，便趴在地上，耐心等待一只小鸭子摇摇摆摆靠近。",
+          "那张照片至今仍挂在她卧室墙上。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Preposition — with vs in",
+          "note": "<p>The fixed phrase is <em>with great certainty</em>, not <span class=\"hl-bad\">in</span> great certainty.</p>",
+          "answer": "with"
+        },
+        "40": {
+          "concept": "spelling",
+          "note": "<p><em>Vocation</em> — correct spelling.</p>",
+          "answer": "vocation"
+        },
+        "41": {
+          "concept": "spelling",
+          "note": "<p><em>Yearned</em> — spelling.</p>",
+          "answer": "yearned"
+        },
+        "42": {
+          "concept": "spelling",
+          "note": "<p><em>Implored</em> — spelling.</p>",
+          "answer": "implored"
+        },
+        "43": {
+          "concept": "grammar",
+          "note": "<p><em>To purchase</em> — infinitive of purpose, not <em>te</em>.</p>",
+          "answer": "to"
+        },
+        "44": {
+          "concept": "spelling",
+          "note": "<p><em>Disposable</em> camera.</p>",
+          "answer": "disposable"
+        },
+        "45": {
+          "concept": "spelling",
+          "note": "<p><em>Exasperation</em>.</p>",
+          "answer": "exasperation"
+        },
+        "46": {
+          "concept": "grammar",
+          "note": "<p>Adjective before <em>images</em>: <em>blurred</em>.</p>",
+          "answer": "blurred"
+        },
+        "47": {
+          "concept": "spelling",
+          "note": "<p>Look into the <em>lens</em>.</p>",
+          "answer": "lens"
+        },
+        "48": {
+          "concept": "grammar",
+          "note": "<p>Participial phrase after comma: <em>remembering what…</em>.</p>",
+          "answer": "remembering"
+        },
+        "49": {
+          "concept": "grammar",
+          "note": "<p><em>Lay</em> down (past of lie).</p>",
+          "answer": "lay"
+        },
+        "50": {
+          "concept": "spelling",
+          "note": "<p><em>Waddle</em> — how ducklings move.</p>",
+          "answer": "waddle"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "A little boy invited his mother to attend his first Games Day in primary school. Much [Q51] the little boy’s dismay, she said she would go. This would be the first time that his [Q52] classmates and form teacher met his mother and he was embarrassed by her [Q53]. Although she was beautiful, there was an ugly scar that covered the entire right [Q54] [Q55] of her face. Feeling utterly ashamed, the boy wanted [Q56] to talk about the scar.",
+          "At the games, [Q57] was impressed by the kindness and natural beauty of the boy’s mother despite the scar, but the little boy still felt uncomfortable and hid himself from all of them. He did, however, get within earshot of a conversation between his mother and his teacher, and [Q58] them speaking.",
+          "“How did you get the scar on your face?” the teacher asked softly.",
+          "The mother replied, “When my son was an [Q59] , he was in a room that caught fire. No one else was [Q60] to go in because the fire was out of [Q61] , so I went in. As I was running towards his crib, I saw a wooden beam coming down and I placed [Q62] over him to shield him. I was knocked out and lost [Q63] but thankfully, a fireman came in and helped both of us out.” She touched the burned side of her face. “This scar is permanent, but to this day, I have never [Q64] doing what I did.”",
+          "At this point, the little boy came running towards his mother with tears in his eyes. He hugged her and was overwhelmed by the [Q65] that his mother had made for him. He held her hand tightly for the rest of the day."
+        ],
+        "zh": [
+          "小男孩邀请母亲来参加他在小学的第一个运动日。令他万分沮丧的是，母亲说她愿意去。这将是他的新同学和班主任第一次见到母亲，而她的外表让他感到尴尬。尽管母亲很美，她右脸一侧的半张脸上却有一道难看的伤疤，触目惊心。男孩羞愧难当，希望谁也不要提起这道疤。",
+          "运动会上，尽管有伤疤，大家都对母亲的善良与自然美印象深刻，小男孩却仍感不自在，躲着所有人。不过，他悄悄靠近母亲与老师的谈话现场，听到了她们的对话。",
+          "'你脸上的伤疤是怎么来的？'老师轻声问道。",
+          "母亲答道：'我儿子还是婴儿时，待的房间起了火。因为当时火势失控，没人还能冲得进去，只有我进去了。我朝他的小床跑去时，看见一根木梁就要砸下来，便伏在他身上护住他。我当场昏了过去，失去了知觉，幸好消防员进来把我们救了出来。'她摸了摸烫伤的那半边脸。'这道疤是永久的，但直到今天，我从未后悔当初所做的事。'",
+          "这时，小男孩眼含泪水朝母亲奔去。他紧紧抱住她，并为母亲为他所作出的牺牲而万分感动。此后一整天他都紧握着母亲的手。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "固定习惯搭配",
+          "note": "与后文的名词短语 the little boy’s dismay 完美组合，构成表达情感反应的经典专属习语 Much to someone's dismay，意思是“令某人极其失望/沮丧的是”。",
+          "answer": "to"
+        },
+        "52": {
+          "concept": "形容词修饰",
+          "note": "修饰复数名词 classmates。由于这是小男孩上小学后的第一个 Games Day，因此这是他的“新（new）”同学和班主任第一次见到他的母亲。填入 school/primary 亦符合基础修饰。",
+          "answer": "new/school/primary"
+        },
+        "53": {
+          "concept": "名词语意与场景呼应",
+          "note": "由形容词性物主代词 her 修饰。结合下文对母亲脸上丑陋伤疤（ugly scar）的描写，说明小男孩是因为母亲的“外表”、“容貌”或“状况”而感到难堪（appearance / looks / condition / scar）。",
+          "answer": "appearance/looks/condition/scar"
+        },
+        "54": {
+          "concept": "名词部位修饰",
+          "note": "修饰结构 the entire right side of her face，指丑陋的伤疤覆盖了她整个右“侧”脸。由于后文 55 空原句紧接 of her face，54 与 55 的连空组合通常构成 right side 或是 right half。",
+          "answer": "side/half"
+        },
+        "55": {
+          "concept": "名词部位修饰",
+          "note": "与 54 空相互呼应，共同修饰右脸的范围。可构成 the entire right side/half of her face，表示伤疤占据了她“半”张脸或整整一“侧”面。",
+          "answer": "half/side"
+        },
+        "56": {
+          "concept": "不定代词语意辨析",
+          "note": "作为 wanted 后接的动词不定式宾语或主语从句。由于感到彻底的羞耻（ashamed），小男孩希望“没有人（nobody / no one）”去提起这个伤疤，或者想要“避免（avoiding）”谈论它（若此处原句为 wanted nobody to talk 则填代词，wanted to avoid 则不符原句结构，故填不定代词最严谨）。",
+          "answer": "nobody/no-one"
+        },
+        "57": {
+          "concept": "不定代词充当主语",
+          "note": "谓语动词为单数形式 was impressed。在运动会上，“每个人（Everyone / Everybody）”都被男孩母亲的善良与内在美所打动。位于句首需大写。",
+          "answer": "Everyone/Everybody"
+        },
+        "58": {
+          "concept": "一般过去时的感官动词",
+          "note": "前文提到小男孩走到了可以听见声音的距离内（within earshot）。本句与前面的 got 属于并列的过去动作，构成感官动词搭配 heard/overheard them speaking，表示“听到”或“无意中听到”了他们的对话。",
+          "answer": "heard/overheard"
+        },
+        "59": {
+          "concept": "名词词义辨析",
+          "note": "前面有不定冠词 an 引导，后接元音开头的单数可数名词。指当儿子还是个“婴儿”或“幼儿”的时候，房间着火了，故填 infant / infant-child。",
+          "answer": "infant"
+        },
+        "60": {
+          "concept": "形容词固定句型搭配",
+          "note": "系动词 was 之后，后接不定式符号 to go in。因为火势太大，当时没有其他人“能够”或“敢于”冲进房间，构成 be able to do something 或者是 be willing/daring to 结构。",
+          "answer": "able/willing/daring"
+        },
+        "61": {
+          "concept": "名词固定习惯搭配",
+          "note": "与前置的介词短语 out of 完美组合，构成在各类英语试卷中极其高频出现的经典特定习语 out of control，意为火势完全“失去控制”。",
+          "answer": "control"
+        },
+        "62": {
+          "concept": "反身代词视角一致",
+          "note": "在引语中，说话的主体是母亲（主语为 I）。根据主语和宾语为同一人的语法规则，此处必须填入单数第三人称女性反身代词 herself（原句引用母亲口吻：I placed myself/herself，此处的 note 对应原文引用句，若原句是第三人称叙述则用 herself，若是母亲自述 I placed myself over him，结合上下文由于是直接引语，填入 myself 最符合母亲自述视角）。",
+          "answer": "myself"
+        },
+        "63": {
+          "concept": "名词固定习惯搭配",
+          "note": "与前面的动词 lost 完美组合。属于描写昏迷状态的专属高频习惯搭配 lost consciousness，意思是她被砸晕并“失去了知觉/意识”。",
+          "answer": "consciousness"
+        },
+        "64": {
+          "concept": "现在完成时动词搭配",
+          "note": "前面有助动词 have never，后接动名词宾语 doing。指直到今天，母亲也从未“后悔（regretted）”过自己当年的舍身举动，需用过去分词形式。",
+          "answer": "regretted"
+        },
+        "65": {
+          "concept": "名词语意与场景呼应",
+          "note": "由定冠词 the 修饰，后接定语从句。听完真相后，小男孩被母亲当年为了救他而做出的伟大“牺牲”或“举动”彻底震撼与感动，故填名词 sacrifice / deeds / act。",
+          "answer": "sacrifice/deeds/act"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Everyone was surprised to hear the news.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ upon __________"
+        },
+        "67": {
+          "stem_plain": "I had brought out the cake. The guests arrived.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No sooner __________"
+        },
+        "68": {
+          "stem_plain": "Kelly was regularly absent. Her classmates noticed it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Kelly's regular __________"
+        },
+        "69": {
+          "stem_plain": "\"Who's your dance partner for the party?\" Jo asked Amelia.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Jo asked Amelia who __________"
+        },
+        "70": {
+          "stem_plain": "The scouts were enthusiastic and disciplined. Their teacher was impressed.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The scouts' __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "句型转换 — Cue: upon",
+          "zh": "听到这个消息，大家都很惊讶。",
+          "note": "用 <code>upon + V-ing</code> 表示“一……就……”，代替 when 引导的时间从句。",
+          "answer": "Everyone was surprised upon hearing the news."
+        },
+        "67": {
+          "concept": "时间连词 — No sooner … than",
+          "zh": "我刚把蛋糕端出来，客人们就到了。",
+          "note": "<code>No sooner</code> 置于句首需部分倒装：<code>No sooner had S V … than …</code>。",
+          "answer": "No sooner had I brought out the cake than the guests arrived."
+        },
+        "68": {
+          "concept": "被动语态 — Passive + Kelly's regular",
+          "zh": "同学们注意到了凯莉经常缺席。",
+          "note": "把两个简单句合并为被动语态：<code>Kelly's regular absence was noticed by …</code>。",
+          "answer": "Kelly's regular absence was noticed by her classmates."
+        },
+        "69": {
+          "concept": "间接引语 — Indirect question",
+          "zh": "乔问阿米莉亚聚会上的舞伴是谁。",
+          "note": "间接疑问句用陈述语序：<code>who her dance partner … was</code>，不用助动词前置。",
+          "answer": "Jo asked Amelia who her dance partner for the party was."
+        },
+        "70": {
+          "concept": "句型转换 — Possessive + parallel nouns",
+          "zh": "童子军们的热情与纪律给老师留下了深刻印象。",
+          "note": "用名词短语作主语：<code>The scouts' enthusiasm and discipline impressed …</code>，与形容词 impressed 搭配自然。",
+          "answer": "The scouts' enthusiasm and discipline impressed their teacher."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "From paragraph 1, write down three ‘finishing touches’ (line 1) that the young couple were putting to their preparations for the new gardening season.",
+          "marks": 3,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q71a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q71b]"
+            },
+            {
+              "stem_plain": "(c)",
+              "question": "[Q71c]"
+            }
+          ]
+        },
+        "72": {
+          "stem_plain": "State two ways in which the elderly man’s plot was ‘the most arresting sight in the community garden …’ (lines 5–9).",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q72a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q72b]"
+            }
+          ]
+        },
+        "73": {
+          "stem_plain": "Based on information from lines 10 to 28, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "The young couple did not get along well with all their neighbours.",
+                "The rose bushes began to show signs of neglect in autumn."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Answer **all** parts.",
+          "marks": 4,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) How did the young couple interact with their elderly neighbour when they met him at his usual spot in the garden?",
+              "question": "[Q74a]"
+            },
+            {
+              "stem_plain": "(b) What did the elderly neighbour do when the young couple greeted him?",
+              "question": "[Q74b]"
+            },
+            {
+              "stem_plain": "(c) What did the elderly neighbour do next that worried the young couple?",
+              "question": "[Q74c]"
+            },
+            {
+              "stem_plain": "(d) How did the young couple react to their neighbour’s behaviour?",
+              "question": "[Q74d]"
+            }
+          ]
+        },
+        "75": {
+          "stem_plain": "‘The neighbour had always been a peculiar old man’ (lines 12–13). What does this tell you about previous encounters the young couple had with this neighbour?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "From lines 20–23, what event made the young couple forget that they had ever considered befriending the elderly man?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Describe the change in the elderly man’s appearance as his visits to the community garden started becoming ‘more and more infrequent’ (line 27).",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word from the passage",
+              "rows": [
+                "(a) **their** (line 27)",
+                "(b) **them** (line 34)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word refers to",
+              "rows": [
+                "[Q78a]",
+                "[Q78b]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Write **1**, **2** and **3** in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "The rose bushes flowered, fully grown.",
+            "The rose bushes were pruned and the soil around them was weeded.",
+            "The rose bushes thickened and weeds grew around them."
+          ]
+        },
+        "80": {
+          "stem_plain": "Which one of the following words best describes how the couple felt towards the elderly neighbour in the last paragraph? Put a tick (✓) in the box beside your answer. **DO NOT TICK MORE THAN ONE BOX.**",
+          "marks": 1,
+          "interaction": "checkbox_comp",
+          "options": [
+            "aggrieved",
+            "unconcerned",
+            "humiliated",
+            "regretful"
+          ],
+          "max_selections": 1
+        },
+        "81": {
+          "stem_plain": "Why did they feel that way? Refer to information from the last paragraph of the text.",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — *The Allotment* (excerpt)",
+        "lines": {
+          "1": "Spring came and the community garden was full of gardeners putting the **finishing touches** to",
+          "2": "their preparations for the new gardening season. The young couple placed coverings over the",
+          "3": "young carrots and lettuces very carefully. They tied wooden sticks for the broad beans and",
+          "4": "moved the cucumber, tomato and pepper plants from pots to glass containers.",
+          "5": "Their neighbour, a portly old man, also busied himself in the plot next to theirs, pruning his",
+          "6": "rose bushes attentively and weeding diligently. The bushes were laid out interestingly in three",
+          "7": "precise rows. The roses had petals in breathtaking shades of apricot, fiery pink and orange and",
+          "8": "although the flowers had yet to fully come to bloom, the elderly man’s plot provided the most",
+          "9": "arresting sight in the community garden.",
+          "10": "One morning, the young couple headed out very early, only to find the old man standing very",
+          "11": "still at his usual spot. He was staring at his rose bushes. Just as they did previous times, the",
+          "12": "young couple greeted him. The elderly man turned around. He raised a hand to his chin slowly",
+          "13": "as if lost in thought and turned back to his rose bushes. It would have been alright if the",
+          "14": "encounter ended there. Their neighbour had always been a peculiar old man. However, as the",
+          "15": "young couple exchanged glances, they noticed that their neighbour had begun to sob, his entire",
+          "16": "body convulsing in great wracks of distress. This alarmed them. The elderly man’s reaction",
+          "17": "was deeply unsettling but the young couple did not want to think too much about it. By the end",
+          "18": "of Spring, the couple had long forgotten about the old man and had gone back to having",
+          "19": "regular gatherings with their other neighbours.",
+          "20": "Summer was their best season. The young gardeners harvested their beans and planted",
+          "21": "beetroot. A new gardener joined the community garden and the customary practice of",
+          "22": "presenting him with gifts of fruit and vegetables kept the young couple really busy. Soon, they",
+          "23": "forgot that they had ever considered forming a friendship with the elderly man.",
+          "24": "That autumn, they planted raspberries, leeks and garlic. On the plot next door, the roses started",
+          "25": "to blossom. The young couple thought of how although the rose bushes were steadily",
+          "26": "thickening, weeds were beginning to grow around them. They did not notice that the elderly",
+          "27": "man’s visits to the community garden were becoming more and more infrequent. By now **their**",
+          "28": "indifference to him was total. When he did show up, he was thin and looked almost like he had",
+          "29": "begun to curl up at the edges, like a leaf.",
+          "30": "Winter came and the couple planted lettuce. After that, they occupied themselves with their",
+          "31": "raspberries and another crop of broad beans. One day, someone said that the old man had",
+          "32": "moved away for good. The young couple were taken aback by the news and they were drawn",
+          "33": "once more to his roses. The rose bushes were flowering in violent swirls of colour. They were",
+          "34": "fully grown and truly beautiful but now there was something different about **them**. The couple",
+          "35": "thought about the elderly old man and for the first time, they found themselves thinking of the",
+          "36": "loss of a friend."
+        },
+        "paragraphs": {
+          "1": "春天来了，社区花园里满是园丁，大家正为新一季园艺做最后的准备。年轻夫妇小心翼翼地为幼小的胡萝卜和生菜盖上保护罩，为蚕豆绑上木棍，还把黄瓜、番茄和辣椒从花盆移栽到玻璃容器里。",
+          "5": "他们的邻居——一位体态丰腴的老人——也在旁边地块忙碌，专注修剪玫瑰、勤快地除草。玫瑰丛整齐排成三行，布局很有意思。花瓣有着令人屏息的杏色、火红粉红和橙色，虽然花还未完全绽放，老人的地块已是社区花园中最夺人眼球的一处。",
+          "10": "一天清晨，年轻夫妇很早就出门，却发现老人仍站在老地方，盯着他的玫瑰丛。像以往一样，他们向他打招呼。老人转过身，慢慢抬手托住下巴，若有所思，又转回去看玫瑰。若相遇到此为止，倒也罢了——他们的邻居向来是个古怪的老人。然而夫妇交换眼神时，却注意到邻居已开始抽泣，整个人因极度痛苦而剧烈颤抖。这让他们惊慌。老人的反应令人不安，但年轻夫妇不愿多想。到了春末，他们早已把老人忘在脑后，又和其他邻居照常聚会往来。",
+          "20": "夏天是他们最好的季节。年轻园丁们收获豆类，又种下甜菜。一位新园丁加入社区花园，按惯例用蔬果送礼招待新人的做法让这对年轻夫妇十分忙碌。很快，他们便忘了自己曾想过要与那位老人交朋友。",
+          "24": "那年秋天，他们种了树莓、韭葱和大蒜。隔壁地块上的玫瑰开始绽放。年轻夫妇想到，虽然玫瑰丛越来越茂密，周围却开始长杂草。他们没有注意到老人来社区花园的次数越来越少。此时他们对老人已完全漠不关心。偶尔出现时，他瘦了许多，整个人几乎像叶子一样往边缘蜷缩。",
+          "30": "冬天来临，夫妇种了生菜，随后忙着照料树莓并再种一季蚕豆。有一天，有人说老人已永久搬走了。夫妇对这一消息感到震惊，目光再次被那些玫瑰吸引。玫瑰丛盛开着浓烈旋转的色彩，已完全长成，十分美丽——但此刻它们有了某种不同的意味。夫妇想起那位老人，第一次开始意识到自己失去了一位朋友。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "三要点列举题",
+          "note": "<ol><li><strong>题型：</strong>三要点列举题——从<strong>第一段</strong>写出三项 <em>finishing touches</em>（3 分；(a)(b)(c) 各 1 分）。</li><li><strong>范围：</strong>第一段为行 <strong>1–4</strong>（夫妇为新一季园艺做最后准备）。</li><li><strong>(a) 行 2–3：</strong><em>placed coverings over the young carrots and lettuces very carefully</em> → 为幼小的胡萝卜和生菜盖上保护罩（非常小心）。</li><li><strong>(b) 行 3：</strong><em>tied wooden sticks for the broad beans</em> → 为蚕豆绑上木棍。</li><li><strong>(c) 行 4：</strong><em>moved the cucumber, tomato and pepper plants from pots to glass containers</em> → 把黄瓜、番茄和辣椒从花盆移到玻璃容器里。</li><li><strong>失分：</strong>写老人修剪玫瑰（第二段）；只写一项或抄无关细节。</li></ol>",
+          "answer": {
+            "71a": "They placed coverings over the young carrots and lettuces (very carefully).",
+            "71b": "They tied wooden sticks for the broad beans.",
+            "71c": "They moved the cucumber, tomato and pepper plants from pots to glass containers."
+          }
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——老人地块为何是花园中<strong>最抢眼</strong>的景致（2 分；(a)(b) 各一行）。</li><li><strong>范围：</strong>行 <strong>5–9</strong>。</li><li><strong>(a) 行 6–7：</strong><em>laid out interestingly in three precise rows</em> → 玫瑰丛整齐排成三行。</li><li><strong>(b) 行 7–8：</strong><em>petals in breathtaking shades of apricot, fiery pink and orange</em> → 花瓣有杏色、火红粉红和橙色等令人屏息的色泽（或：花未全开但地块已最夺目）。</li><li><strong>失分：</strong>只写修剪/除草（过程而非“最抢眼”的视觉特征）；写夫妇地块。</li></ol>",
+          "answer": {
+            "72a": "The rose bushes were laid out interestingly in three precise rows.",
+            "72b": "The roses had petals in breathtaking shades of apricot, fiery pink and orange."
+          }
+        },
+        "73": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——依据行 <strong>10–28</strong> 每行先 T/F 再<strong>一句</strong>理由（2 分）。</li><li><strong>(1) False：</strong>行 18–19 春末他们<strong>与其他邻居照常聚会</strong> — 并非与所有邻居都不和。</li><li><strong>(2) True：</strong>行 25–26 玫瑰变密但<strong>杂草滋生</strong> — 疏于打理、显露荒废迹象。</li><li><strong>失分：</strong>T/F 与理由矛盾；理由超出 10–28 范围。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "False",
+            "73b": "By the end of spring they went back to having regular gatherings with their other neighbours",
+            "73c": "True",
+            "73d": "The rose bushes were thickening but weeds were beginning to grow around them"
+          }
+        },
+        "74": {
+          "concept": "分项简答题",
+          "note": "<ol><li><strong>题型：</strong>分项简答题——清晨相遇四问（4 分；(a)–(d) 须完整作答）。</li><li><strong>(a) 行 11–12：</strong>像以往一样 <em>greeted him</em> → <span class=\"hl-good\">They greeted him just as they had on previous occasions.</span></li><li><strong>(b) 行 12–13：</strong><em>turned around … raised a hand to his chin … turned back to his rose bushes</em>。</li><li><strong>(c) 行 15–16：</strong><em>began to sob … body convulsing in great wracks of distress</em> — 令夫妇担忧。</li><li><strong>(d) 行 16–17：</strong><em>alarmed … deeply unsettling … did not want to think too much about it</em> — 惊慌但不愿多想。</li><li><strong>失分：</strong>漏 (d)；把 (c)(d) 混成一句时须同时点到抽泣与夫妇反应。</li></ol>",
+          "answer": {
+            "74a": "He greeted him just as he had on previous occasions.",
+            "74b": "He turned around, raised a hand to his chin slowly as if lost in thought, then turned back to his rose bushes.",
+            "74c": "He began to sob, his whole body convulsing in great distress.",
+            "74d": "They were alarmed and deeply unsettled but did not want to think too much about it."
+          }
+        },
+        "75": {
+          "concept": "含义推断题",
+          "note": "<ol><li><strong>题型：</strong>含义推断题——<em>had always been a peculiar old man</em> 说明此前相遇如何（1 分）。</li><li><strong>关键词：</strong><em>always</em> = 以往每次；<em>peculiar</em> = 古怪、反常。</li><li><strong>推断：</strong>此前相遇时他已显得古怪，夫妇<strong>习以为常</strong>，故本次若止于托腮沉思本可接受，直到他哭泣才格外震惊。</li><li><strong>收束：</strong>早先已觉得他奇怪/古怪，对反常举止并不意外（直至抽泣）。</li><li><strong>失分：</strong>只复述“古怪”未点“以往相遇”；写从未见过他。</li></ol>",
+          "answer": [
+            "On earlier occasions he had already seemed strange or eccentric, so they were used to his unusual behaviour and were not surprised until he cried."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>要点直答——何事使他们忘了曾想过与老人交友（1 分；完整句）。</li><li><strong>范围：</strong>行 <strong>20–23</strong>（夏天）。</li><li><strong>证据：</strong>行 21–22 <em>A new gardener joined … presenting him with gifts … kept the young couple really busy</em>；行 23 <em>forgot … forming a friendship</em>。</li><li><strong>收束：</strong>新园丁加入，按惯例用蔬果送礼招待新人，夫妇十分忙碌，因而淡忘交友之念。</li><li><strong>失分：</strong>只写“收获豆类”未写新园丁；写秋天种树莓。</li></ol>",
+          "answer": [
+            "A new gardener joined the community garden, and the practice of presenting him with gifts of fruit and vegetables kept the young couple very busy."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "外貌变化题",
+          "note": "<ol><li><strong>题型：</strong>外貌变化题——老人来访渐少时<strong>外表</strong>如何变化（2 分；须含对比）。</li><li><strong>对比：</strong>行 5 初登场 <em>portly</em>（丰腴）→ 行 28–29 来访稀少时 <em>thin</em>（消瘦）。</li><li><strong>细节（行 28–29）：</strong><em>looked almost like he had begun to curl up at the edges, like a leaf</em> — 像叶子往边缘蜷缩。</li><li><strong>收束：</strong>由胖变瘦，整个人萎缩蜷曲如叶。</li><li><strong>失分：</strong>只写“变瘦”未写蜷缩；写玫瑰变化而非老人外貌。</li></ol>",
+          "answer": [
+            "He changed from portly to thin. He looked as if he were curling up at the edges, like a leaf."
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左列词在文中的<strong>具体所指</strong>（2 分；右列两格填空）。</li><li><strong>(a) their（行 27）：</strong>回指 <em>the young couple</em> → <span class=\"hl-good\">the young couple's (indifference / attitude)</span>（他们对老人的漠不关心）。</li><li><strong>(b) them（行 34）：</strong>紧接 <em>rose bushes were flowering … fully grown and truly beautiful</em> → <span class=\"hl-good\">the rose bushes</span>（玫瑰丛本身有了不同意味）。</li><li><strong>失分：</strong>只抄代词；<em>them</em> 误指老人或夫妇。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "The young couple's (indifference / attitude)",
+            "78b": "The rose bushes"
+          }
+        },
+        "79": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>题型：</strong>事件顺序排列——三句按故事先后标 <strong>1、2、3</strong>（1 分；自上而下填序）。</li><li><strong>最早（1）：</strong>行 5–6 春初 <em>pruning … weeding</em> → 修剪玫瑰、除草。</li><li><strong>中间（2）：</strong>行 25–26 秋 <em>thickening … weeds were beginning to grow</em> → 变密、长杂草。</li><li><strong>最后（3）：</strong>行 33–34 冬 <em>flowering … fully grown and truly beautiful</em> → 盛开、完全长成。</li><li><strong>收束：</strong>自上而下填 <span class=\"hl-good\">3, 1, 2</span>（与卷面三行顺序对应）。</li><li><strong>失分：</strong>按题干句序而非时间序；与修剪/开花情节对调。</li></ol>",
+          "answer": [
+            "3, 1, 2"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>题型：</strong>圈选一词——末段夫妇对老人是何感受（1 分；只选一项）。</li><li><strong>范围：</strong>最后一段行 <strong>30–36</strong>。</li><li><span class=\"hl-good\">regretful</span>：震惊于老人永久搬走，玫瑰虽美却“不同”，第一次想到<strong>失去朋友</strong>。</li><li><span class=\"hl-bad\">aggrieved</span> 含受委屈义，文中无此意；<span class=\"hl-bad\">unconcerned</span> 与末段震惊、悔意相反；<span class=\"hl-bad\">humiliated</span> 无羞辱情节。</li><li><strong>失分：</strong>多选；选与末段“loss of a friend”不符的词。</li></ol>",
+          "answer": [
+            "regretful"
+          ],
+          "type": "comprehension"
+        },
+        "81": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——承接 Q80，为何感到 <em>regretful</em>（1 分；须回扣<strong>末段</strong>）。</li><li><strong>证据：</strong>行 31–32 老人 <em>moved away for good</em>，夫妇震惊；行 33–34 玫瑰盛开却 <em>something different</em>；行 35–36 <em>thinking of the loss of a friend</em>。</li><li><strong>收束：</strong>醒悟错失交友良机 / 把友谊视为理所当然，直到为时已晚。</li><li><strong>失分：</strong>只重复 Q80 词未解释；理由来自前文夏天忙碌等，未用末段。</li></ol>",
+          "answer": [
+            "They realised they had lost a chance to befriend the old man / only thought of him as a friend when it was too late — he had moved away for good and they felt the loss of a friend."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

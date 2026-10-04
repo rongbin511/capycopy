@@ -1,0 +1,1567 @@
+{
+  "paperid": "p6_english_2023_sa2_mgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Hafiz is considering __________ in a landscape photography contest to express his creativity and love for nature.",
+          "options": {
+            "1": "participate",
+            "2": "participates",
+            "3": "participation",
+            "4": "participating"
+          }
+        },
+        "2": {
+          "stem_plain": "Mrs Lim let Yan Liang __________ his mind for as long as he needed, patiently listening without interrupting.",
+          "options": {
+            "1": "speak",
+            "2": "spoke",
+            "3": "speaks",
+            "4": "spoken"
+          }
+        },
+        "3": {
+          "stem_plain": "\"If only you had come to the concert with me, you __________ the show!\" my sister said delightfully.",
+          "options": {
+            "1": "will enjoy",
+            "2": "would enjoy",
+            "3": "would be enjoying",
+            "4": "would have enjoyed"
+          }
+        },
+        "4": {
+          "stem_plain": "The residents objected strongly __________ the construction of a skatepark in their serene neighbourhood.",
+          "options": {
+            "1": "to",
+            "2": "on",
+            "3": "for",
+            "4": "over"
+          }
+        },
+        "5": {
+          "stem_plain": "Mr Mohan is __________ the belief that artificial intelligence changes the way we work, so he encourages his children to keep up with the technological advancements.",
+          "options": {
+            "1": "in",
+            "2": "of",
+            "3": "with",
+            "4": "under"
+          }
+        },
+        "6": {
+          "stem_plain": "\"Dad is going to China for a business trip. He's never been to that country before, __________?\" Chenyu asked his mother inquisitively.",
+          "options": {
+            "1": "is he",
+            "2": "has he",
+            "3": "isn't he",
+            "4": "hasn't he"
+          }
+        },
+        "7": {
+          "stem_plain": "__________ the obstacles they faced, the team remained determined to achieve their goal to become the national champions.",
+          "options": {
+            "1": "Owing to",
+            "2": "In spite of",
+            "3": "Except for",
+            "4": "Resulting from"
+          }
+        },
+        "8": {
+          "stem_plain": "The weary hiker __________ through the dense jungle for hours before he collapsed in exhaustion.",
+          "options": {
+            "1": "treks",
+            "2": "has trekked",
+            "3": "has been trekking",
+            "4": "had been trekking"
+          }
+        },
+        "9": {
+          "stem_plain": "Grandfather was very disappointed that none of his sons showed __________ interest in taking over his traditional bakery.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "most",
+            "4": "much"
+          }
+        },
+        "10": {
+          "stem_plain": "A collection of vintage cars __________ showcased at the car show last week, attracting many curious onlookers.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "动名词 — considering + V-ing",
+          "zh": "哈菲兹正考虑参加风景摄影比赛，以表达他对自然的热爱与创意。",
+          "note": "considering 后接动名词 participating；应选（4）。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "使役 — let + 原形",
+          "zh": "林老师让杨亮尽情说出想法，耐心倾听不打断。",
+          "note": "let 后接动词原形 speak；应选（1）。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "虚拟语气 — If only + 过去完成",
+          "zh": "“要是你跟我一起来听音乐会就好了，你就能欣赏那场演出了！”姐姐高兴地说。",
+          "note": "与过去事实相反的虚拟语气，主句用 would have enjoyed；应选（4）。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "介词 — objected to",
+          "zh": "居民强烈反对在他们宁静的社区建造滑板公园。",
+          "note": "object to 为固定搭配；应选（1）。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "固定搭配 — of the belief",
+          "zh": "莫汉先生认为人工智能改变我们的工作方式，因此鼓励孩子跟上科技。",
+          "note": "of the belief 表“持有……看法”；应选（2）。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "反意疑问句 — never been",
+          "zh": "“爸爸要去中国出差，他以前从没去过那个国家，是吗？”晨宇好奇地问妈妈。",
+          "note": "never 含否定，附加问句用 has he?；应选（2）。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "让步 — In spite of",
+          "zh": "尽管遇到障碍，队伍仍决心成为全国冠军。",
+          "note": "in spite of 表让步；应选（2）。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "过去完成进行 — had been trekking",
+          "zh": "疲惫的徒步者在茂密丛林中跋涉数小时后才精疲力竭倒下。",
+          "note": "collapse 之前持续的动作用过去完成进行；应选（4）。",
+          "answer": "4"
+        },
+        "9": {
+          "concept": "不可数 — much interest",
+          "zh": "祖父很失望，没有一个儿子对接手传统面包店表现出多少兴趣。",
+          "note": "interest 不可数，用 much；应选（4）。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "主谓一致 — A collection … was",
+          "zh": "一批老爷车上周在车展上展出，吸引许多好奇观众。",
+          "note": "collection 作主语视为单数，过去时用 was；应选（3）。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Ever since the Chan family adopted a new puppy, the children had __________ it like best friends, playing with it every day.",
+          "options": {
+            "1": "taken in",
+            "2": "taken to",
+            "3": "taken up",
+            "4": "taken after"
+          }
+        },
+        "12": {
+          "stem_plain": "Despite his initial hesitation, Justin __________ to peer pressure and joined his friends in skipping school to watch a movie.",
+          "options": {
+            "1": "adapted",
+            "2": "resisted",
+            "3": "adjusted",
+            "4": "succumbed"
+          }
+        },
+        "13": {
+          "stem_plain": "With the deadline fast approaching, the team felt the stress of the __________ presentation and worked tirelessly to ensure its success.",
+          "options": {
+            "1": "impactful",
+            "2": "imminent",
+            "3": "incidental",
+            "4": "intermittent"
+          }
+        },
+        "14": {
+          "stem_plain": "Due to Roy's shabby clothes, the shopkeeper harboured __________ against him and accused him of shoplifting.",
+          "options": {
+            "1": "partiality",
+            "2": "prejudice",
+            "3": "peculiarity",
+            "4": "preference"
+          }
+        },
+        "15": {
+          "stem_plain": "Naomi explained the complex concept __________ in a few sentences, gaining nods of approval from her classmates.",
+          "options": {
+            "1": "bluntly",
+            "2": "concisely",
+            "3": "thoroughly",
+            "4": "deliberately"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "陈家收养小狗后，孩子们像好朋友一样喜欢上了它，每天陪它玩。",
+          "note": "应选（2）taken to：喜欢上。其余三项与“像好朋友般喜欢”不符。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "taken in",
+              "zh": "收留；受骗",
+              "eg": "During morning assembly, our principal used <strong>taken in</strong> in a sentence about teamwork and responsibility."
+            },
+            {
+              "opt": "2",
+              "word": "taken to",
+              "zh": "喜欢上",
+              "eg": "Ever since the Chan family adopted a new puppy, the children had <strong>taken to</strong> it like best friends, playing with it every day."
+            },
+            {
+              "opt": "3",
+              "word": "taken up",
+              "zh": "开始从事",
+              "eg": "In her composition, Mei Ling showed how the word <strong>taken up</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "4",
+              "word": "taken after",
+              "zh": "长得像",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>taken after</strong> when reading historical plaques."
+            }
+          ]
+        },
+        "12": {
+          "zh": "尽管起初犹豫，贾斯汀还是屈服于同伴压力，跟朋友翘课看电影。",
+          "note": "应选（4）succumbed：屈服、抵挡不住。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "adapted",
+              "zh": "适应",
+              "eg": "The reporter wrote that the rescue team had to act <strong>adapted</strong> before the storm grew worse."
+            },
+            {
+              "opt": "2",
+              "word": "resisted",
+              "zh": "抵抗",
+              "eg": "In her composition, Mei Ling showed how the word <strong>resisted</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "3",
+              "word": "adjusted",
+              "zh": "调整",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>adjusted</strong> when reading historical plaques."
+            },
+            {
+              "opt": "4",
+              "word": "succumbed",
+              "zh": "屈服",
+              "eg": "Despite his initial hesitation, Justin <strong>succumbed</strong> to peer pressure and joined his friends in skipping school to watch a movie."
+            }
+          ]
+        },
+        "13": {
+          "zh": "截止日期临近，团队感到汇报迫在眉睫的压力，拼命准备。",
+          "note": "应选（2）imminent：即将发生的。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "impactful",
+              "zh": "有影响力的",
+              "eg": "In her composition, Mei Ling showed how the word <strong>impactful</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "2",
+              "word": "imminent",
+              "zh": "迫在眉睫的",
+              "eg": "With the deadline fast approaching, the team felt the stress of the <strong>imminent</strong> presentation and worked tirelessly to ensure its success."
+            },
+            {
+              "opt": "3",
+              "word": "incidental",
+              "zh": "偶然的",
+              "eg": "After the experiment, the science teacher asked us to use <strong>incidental</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "4",
+              "word": "intermittent",
+              "zh": "间歇的",
+              "eg": "The coach reminded the players that <strong>intermittent</strong> is common in sports commentary and news reports."
+            }
+          ]
+        },
+        "14": {
+          "zh": "因罗伊衣着破旧，店主对他心怀偏见，指控他偷窃。",
+          "note": "应选（2）prejudice：偏见。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "partiality",
+              "zh": "偏爱",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>partiality</strong> when reading historical plaques."
+            },
+            {
+              "opt": "2",
+              "word": "prejudice",
+              "zh": "偏见",
+              "eg": "Due to Roy's shabby clothes, the shopkeeper harboured <strong>prejudice</strong> against him and accused him of shoplifting."
+            },
+            {
+              "opt": "3",
+              "word": "peculiarity",
+              "zh": "古怪",
+              "eg": "The coach reminded the players that <strong>peculiarity</strong> is common in sports commentary and news reports."
+            },
+            {
+              "opt": "4",
+              "word": "preference",
+              "zh": "偏好",
+              "eg": "During morning assembly, our principal used <strong>preference</strong> in a sentence about teamwork and responsibility."
+            }
+          ]
+        },
+        "15": {
+          "zh": "娜奥米用几句话简洁地解释了复杂概念，同学纷纷点头赞同。",
+          "note": "应选（2）concisely：简明扼要。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "bluntly",
+              "zh": "直率地",
+              "eg": "After the experiment, the science teacher asked us to use <strong>bluntly</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "2",
+              "word": "concisely",
+              "zh": "简洁地",
+              "eg": "Naomi explained the complex concept <strong>concisely</strong> in a few sentences, gaining nods of approval from her classmates."
+            },
+            {
+              "opt": "3",
+              "word": "thoroughly",
+              "zh": "彻底地",
+              "eg": "During morning assembly, our principal used <strong>thoroughly</strong> in a sentence about teamwork and responsibility."
+            },
+            {
+              "opt": "4",
+              "word": "deliberately",
+              "zh": "故意地",
+              "eg": "He <strong>deliberately</strong> left the back door open so the cat could come back in."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "enticing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "inspiring",
+            "2": "tempting",
+            "3": "delighting",
+            "4": "influencing"
+          }
+        },
+        "17": {
+          "stem_plain": "testament",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "evidence",
+            "2": "exhibition",
+            "3": "realisation",
+            "4": "recognition"
+          }
+        },
+        "18": {
+          "stem_plain": "signature",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rare",
+            "2": "exclusive",
+            "3": "distinctive",
+            "4": "extraordinary"
+          }
+        },
+        "19": {
+          "stem_plain": "ingenious",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "clever",
+            "2": "expert",
+            "3": "reliable",
+            "4": "efficient"
+          }
+        },
+        "20": {
+          "stem_plain": "skilfully",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "briskly",
+            "2": "adeptly",
+            "3": "naturally",
+            "4": "persistently"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Jennie stepped into the bustling hawker centre, the savoury aromas instantly tickling her senses. She was amazed by the vibrant energy that filled the place. She walked past rows of food stalls, each [Q16 (enticing)] her with its mouthwatering dishes.",
+          "Jennie decided to join a stall with the longest queue for she knew that when it comes to hawker cuisine, the queue is the best [Q17 (testament)] to the quality of food at the stall. Savvy diners like her knew that if they wanted the [Q18 (signature)] dish that the stalls offered, they had to endure the wait.",
+          "While queuing, she noticed a group of seniors chatting and sipping hot drinks from their saucers — an old and [Q19 (ingenious)] way to cool down their piping hot beverages.",
+          "Finally, it was her turn. She ordered a plate of fried char kway teow and watched the stall owner work his magic. He [Q20 (skilfully)] tossed the flat rice noodles and other ingredients into the sizzling wok, infusing them with sauces and seasonings. Jennie could not wait to devour the aromatic and flavourful dish."
+        ],
+        "zh": [
+          "珍妮走进热闹的小贩中心，诱人的香气立刻撩动她的感官。她对这里蓬勃的活力感到惊叹，走过一排排食摊，每个摊位都用令人垂涎的菜肴吸引着她。",
+          "珍妮决定加入排队最长的摊位，因为她知道在小贩美食中，队伍长短是食物品质的最佳证明。像她那般懂行的食客明白，若想吃到摊位的招牌菜，就得耐着性子等。",
+          "排队时，她注意到一群长辈边聊边用茶碟小口喝着热饮——这是一种古老而巧妙、用来给滚烫饮料降温的办法。",
+          "终于轮到她了。她点了一盘炒粿条，看摊主施展手艺，娴熟地把扁米粉和其他配料抛进滋滋作响的炒锅里，淋上酱汁和调料。珍妮迫不及待想品尝这道香气扑鼻的美味。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — enticing（诱人的）",
+          "zh": "每个摊位都用令人垂涎的菜肴诱惑着她。",
+          "note": "应选（2）tempting：诱人的。inspiring/delighting/influencing 不符“引诱食欲”。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "inspiring",
+              "zh": "鼓舞人心的",
+              "eg": "an <strong>inspiring</strong> leader"
+            },
+            {
+              "opt": "2",
+              "word": "tempting",
+              "zh": "诱人的",
+              "eg": "<strong>tempting</strong> food"
+            },
+            {
+              "opt": "3",
+              "word": "delighting",
+              "zh": "令人高兴的",
+              "eg": "a <strong>delighting</strong> surprise"
+            },
+            {
+              "opt": "4",
+              "word": "influencing",
+              "zh": "影响的",
+              "eg": "<strong>influencing</strong> factors"
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — testament（证明）",
+          "zh": "排队长短是食物品质的最佳证明。",
+          "note": "应选（1）evidence：证据、证明。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "evidence",
+              "zh": "证据",
+              "eg": "clear <strong>evidence</strong>"
+            },
+            {
+              "opt": "2",
+              "word": "exhibition",
+              "zh": "展览",
+              "eg": "an art <strong>exhibition</strong>"
+            },
+            {
+              "opt": "3",
+              "word": "realisation",
+              "zh": "认识",
+              "eg": "a sudden <strong>realisation</strong>"
+            },
+            {
+              "opt": "4",
+              "word": "recognition",
+              "zh": "认可",
+              "eg": "win <strong>recognition</strong>"
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — signature（招牌的）",
+          "zh": "摊位提供的招牌菜。",
+          "note": "应选（3）distinctive：独特、有特色的。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rare",
+              "zh": "稀有的",
+              "eg": "a <strong>rare</strong> bird"
+            },
+            {
+              "opt": "2",
+              "word": "exclusive",
+              "zh": "独家的",
+              "eg": "<strong>exclusive</strong> club"
+            },
+            {
+              "opt": "3",
+              "word": "distinctive",
+              "zh": "独特的",
+              "eg": "a <strong>distinctive</strong> style"
+            },
+            {
+              "opt": "4",
+              "word": "extraordinary",
+              "zh": "非凡的",
+              "eg": "an <strong>extraordinary</strong> feat"
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — ingenious（巧妙的）",
+          "zh": "一种古老而巧妙的降温办法。",
+          "note": "应选（1）clever：巧妙、聪明。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "clever",
+              "zh": "聪明的",
+              "eg": "a <strong>clever</strong> trick"
+            },
+            {
+              "opt": "2",
+              "word": "expert",
+              "zh": "熟练的",
+              "eg": "an <strong>expert</strong> cook"
+            },
+            {
+              "opt": "3",
+              "word": "reliable",
+              "zh": "可靠的",
+              "eg": "<strong>reliable</strong> service"
+            },
+            {
+              "opt": "4",
+              "word": "efficient",
+              "zh": "高效的",
+              "eg": "<strong>efficient</strong> method"
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — skilfully（娴熟地）",
+          "zh": "他娴熟地把扁米粉等抛进炒锅。",
+          "note": "应选（2）adeptly：熟练地。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "briskly",
+              "zh": "轻快地",
+              "eg": "walk <strong>briskly</strong>"
+            },
+            {
+              "opt": "2",
+              "word": "adeptly",
+              "zh": "熟练地",
+              "eg": "He <strong>adeptly</strong> repaired it."
+            },
+            {
+              "opt": "3",
+              "word": "naturally",
+              "zh": "自然地",
+              "eg": "It came <strong>naturally</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "persistently",
+              "zh": "坚持地",
+              "eg": "<strong>persistently</strong> asked"
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Peranakans, also known as the **'Straits-born Chinese'**, were _________",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "the early Chinese traders",
+            "2": "the children of locals in the Straits Settlements",
+            "3": "the children of Chinese traders and local women",
+            "4": "those who lived in the ports of Malacca, Penang and Singapore"
+          }
+        },
+        "22": {
+          "stem_plain": "In \"These Chinese traders settled and raised families in the bustling ports of Malacca, Penang and Singapore — which under British rule were known as the Straits Settlements.\", the dash (—) is used to _________",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "provide more explanation to the main idea",
+            "2": "indicate that the information is the main idea",
+            "3": "emphasise the earlier information in the sentence",
+            "4": "join the earlier and subsequent sentences together"
+          }
+        },
+        "23": {
+          "stem_plain": "Which of the following contributed to the unique taste of Peranakan cuisine?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "use of Malay herbs and spices",
+            "2": "strong and spicy flavours in the dishes",
+            "3": "culinary skills of the Peranakan women",
+            "4": "a mix of Chinese and Malay cooking methods"
+          }
+        },
+        "24": {
+          "stem_plain": "In the section **'Traditional Arts and Culture'**, which word best describes Peranakan needlework as an art form?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "dainty",
+            "2": "nimble",
+            "3": "intricate",
+            "4": "miniature"
+          }
+        },
+        "25": {
+          "stem_plain": "In the section **'Traditional Arts and Culture'**, the **'same craft'** refers to _________",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "embroidering footwear",
+            "2": "embellishing the Peranakan dresses",
+            "3": "mastering the skill of embroidery and beadwork",
+            "4": "using colourful beads to create detailed designs"
+          }
+        },
+        "26": {
+          "stem_plain": "According to the information provided in the section **'Trail Highlights'**, which of the following is not true?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Players of Congkak game need to use mental calculation.",
+            "2": "Children can have a chance to try on the Peranakan traditional costumes.",
+            "3": "Children can drop by at the museum café to eat the snacks that they have made.",
+            "4": "Nonyas in the past, before getting married, were required to acquire the skill of shoe beading."
+          }
+        },
+        "27": {
+          "stem_plain": "Ravi is visiting the Peranakan Museum on 3 December 2023. He will surely receive _________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "an activity book and a map",
+            "2": "stamps and a limited-edition plush toy",
+            "3": "a culture-themed balloon and a goody bag",
+            "4": "a culture-themed balloon and a limited-edition plush toy"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this article?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to promote the reopening of a museum",
+            "2": "to educate children about Peranakan crafts",
+            "3": "to introduce the history of the Straits-born Chinese",
+            "4": "to encourage children to explore the discovery trail"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "细节理解",
+          "note": "<p>Text states Peranakans were children of <span class=\"hl-good\">Chinese traders and local women</span> in the Straits Settlements.</p>",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "标点功能",
+          "note": "<p>The dash after <em>Singapore</em> adds <span class=\"hl-good\">explanation</span> (the Straits Settlements under British rule).</p>",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "细节综合",
+          "note": "<p>Unique taste comes from <span class=\"hl-good\">a mix of Chinese and Malay cooking methods</span>.</p>",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "词义选择",
+          "note": "<p>Needlework described as detailed, fine work → <span class=\"hl-good\">intricate</span>.</p>",
+          "answer": "3"
+        },
+        "25": {
+          "concept": "指代理解",
+          "note": "<p><em>same craft</em> links embroidery on footwear and dresses → <span class=\"hl-good\">using colourful beads to create detailed designs</span>.</p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "NOT-true 判断",
+          "note": "<p>Café lets children eat snacks <em>they have made</em> at activities — not drop by to eat self-made snacks without context; option (3) is <span class=\"hl-bad\">not true</span> as stated.</p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "细节匹配",
+          "note": "<p>On the stated date, visitors receive <span class=\"hl-good\">activity book and map</span> per trail info.</p>",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "写作目的",
+          "note": "<p>Webpage announces museum <span class=\"hl-good\">reopening</span> and related offers → main purpose to promote reopening.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "all",
+          "D": "for",
+          "G": "having",
+          "K": "just",
+          "N": "was",
+          "B": "any",
+          "E": "from",
+          "H": "in",
+          "L": "of",
+          "P": "with",
+          "C": "even",
+          "F": "have",
+          "J": "is",
+          "M": "until",
+          "Q": "without"
+        },
+        "cloze": [
+          "The vital role Sherpas have played in Nepal's mountaineering industry has made the term 'Sherpa' synonymous with expedition guides, even though not all Sherpa guides are ethnic Sherpas.",
+          "Sherpas are a Nepalese ethnic group renowned [Q29] their rich culture, superior climbing skills and extreme endurance for high altitudes. Sherpas, [Q30] lived in the high mountains of the Himalayas for generations, serve as guides and porters to mountaineers who climb Mount Everest.",
+          "Sherpas migrated [Q31] eastern Tibet to Nepal around 500 years ago. Before the twentieth century, Sherpas did not climb mountains. They eked their livelihood through high-altitude farming, cattle raising, wool spinning and weaving. It was not [Q32] the 1920s that Sherpas became involved in climbing. Mountaineers who planned climbing expeditions hired Sherpas as porters. From that point on, due to their willingness to work and the ability to climb the world's tallest peaks, mountaineering became part of the Sherpa culture.",
+          "The influx of mountaineers into the Sherpa homeland has dramatically transformed Sherpa culture and way [Q33] life. Each year, hundreds of mountaineers head up the mountain with Sherpa guides. Mostly young men, Sherpa guides are not [Q34] the muscles in the expedition — carrying up to 35 kilograms of clients' gear, setting up camps, cooking the meals, fixing the ropes and ladder — they are also the expert navigators. [Q35] their vast experience and support, most climbers will not [Q36] stand a chance of reaching the peak. Sherpa guides are an absolute necessity for [Q37] successful climbing expedition in Nepal.",
+          "What Sherpa guides do [Q38] commendable. They put in immense hard work and dedication at the risk of their own lives, to encourage and help climbers so they can summit the world's highest peak."
+        ],
+        "zh": [
+          "夏尔巴人在尼泊尔登山产业中扮演至关重要的角色，使“夏尔巴”一词几乎成为探险向导的代名词，尽管并非所有夏尔巴向导都具有夏尔巴族血统。",
+          "夏尔巴人是尼泊尔一个民族，以丰富文化、卓越攀登技巧和高海拔耐力著称。世代居住喜马拉雅高山的夏尔巴人，为攀登珠峰的登山者担任向导和背夫。",
+          "约五百年前，夏尔巴人从西藏东部迁到尼泊尔。二十世纪前他们并不登山，靠高海拔农耕、牧畜、纺毛和织布谋生。直到二十世纪二十年代他们才参与登山；计划探险的登山者雇用夏尔巴当背夫，此后登山成为夏尔巴文化的一部分。",
+          "登山者涌入夏尔巴家园，极大改变了夏尔巴文化与生活方式。每年数百名登山者与夏尔巴向导上山；年轻的夏尔巴向导不仅是队伍中的“肌肉”——背负多达三十五公斤装备、搭营、做饭、架绳与梯子——也是熟路的专业领路人。凭借丰富经验与支持，多数登山者若无他们几乎不可能登顶。对任何在尼泊尔成功的攀登探险而言，夏尔巴向导都绝对必要。",
+          "夏尔巴向导所做的事值得称赞。他们冒着生命危险付出巨大辛劳与奉献，鼓励并帮助登山者登顶世界最高峰。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — for",
+          "note": "renowned <em>for</em> their culture — 因……而闻名；故填'<strong>D — for</strong>'。",
+          "answer": "D — for"
+        },
+        "30": {
+          "concept": "分词 — having lived",
+          "note": "Sherpas, <em>having lived</em> … for generations — 现在分词完成式表背景；故填'<strong>G — having</strong>'。",
+          "answer": "G — having"
+        },
+        "31": {
+          "concept": "介词 — from",
+          "note": "migrated <em>from</em> Tibet <em>to</em> Nepal；故填'<strong>E — from</strong>'。",
+          "answer": "E — from"
+        },
+        "32": {
+          "concept": "固定搭配 — not until",
+          "note": "<em>It was not until</em> the 1920s that …；故填'<strong>M — until</strong>'。",
+          "answer": "M — until"
+        },
+        "33": {
+          "concept": "介词 — of",
+          "note": "way <em>of</em> life — 生活方式；故填'<strong>L — of</strong>'。",
+          "answer": "L — of"
+        },
+        "34": {
+          "concept": "副词 — just",
+          "note": "not <em>just</em> the muscles — 不仅……；故填'<strong>K — just</strong>'。",
+          "answer": "K — just"
+        },
+        "35": {
+          "concept": "介词 — without",
+          "note": "<em>Without</em> their experience, climbers will not …；故填'<strong>Q — without</strong>'。",
+          "answer": "Q — without"
+        },
+        "36": {
+          "concept": "副词 — even",
+          "note": "will not <em>even</em> stand a chance — 甚至不；故填'<strong>C — even</strong>'。",
+          "answer": "C — even"
+        },
+        "37": {
+          "concept": "限定词 — any",
+          "note": "necessity for <em>any</em> successful expedition — 故填'<strong>B — any</strong>'。",
+          "answer": "B — any"
+        },
+        "38": {
+          "concept": "主谓一致 — is",
+          "note": "What … do <em>is</em> commendable — 主语从句动词用 is；故填'<strong>J — is</strong>'。",
+          "answer": "J — is"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mr Ang's desire to help the less fortunate stems from his childhood. \"How do we do something that would be [Q39(benifechial)] to the society? This was what I'd always wanted to do when I was young,\" he said. When Mr Ang started working at the Soup Restaurant Group, he thought about [Q40(when)] to make philanthropic efforts one of its [Q41(pryoritis)] .",
+          "A memorable visit to a [Q42(volenteri)] welfare organisation convinced Mr Ang that his company could leverage its strengths to provide [Q43(nutrecious)] subsidised meals. Mr Ang knew the project had to be sustainable and not only about giving away free food. The [Q44(iniciativ)] , was not only about providing meals but also jobs. As such, Mr Ang explored the [Q45(possible)] of tapping on the inmates in prison. \"They're the people who are stigmatised when they're in the community. Employing them is a good chance for them to learn a skill while serving their sentence,\" said Mr Ang.",
+          "Within a few months, Samsui Kitchen @ Changi was ready for operation. Thirty inmates were trained in food [Q46(haigyene)] and preparation. They were [Q47(equip)] with skills and [Q48(knowing)] which would also prepare them for the workforce [Q49(by)] their release.",
+          "When Mr Ang first started this Samsui Kitchen project, he did not expect it to grow to the size it is today, nor that it would change him as a person."
+        ],
+        "zh": [
+          "洪先生帮助弱势群体的愿望源于童年。“我们怎样才能对社会有益？这是我年轻时一直想做的事。”他说。在Soup Restaurant Group工作后，他考虑如何把慈善作为公司的优先事项之一。",
+          "一次参观志愿福利机构令他确信，公司可发挥优势提供营养补贴餐。洪先生明白项目须可持续，不能只是免费送饭。这项倡议不仅供餐，也创造就业；他于是探索利用在囚人士的可能。“他们在社会上常被歧视。雇用他们可在服刑期间学一门技能。”洪先生说。",
+          "数月内，樟宜山瑞厨房准备开业。三十名在囚者接受食品卫生与制备培训；他们获得技能与知识，也为出狱后进入劳动力市场做准备。",
+          "洪先生起初没想到山瑞厨房会发展到今天的规模，也没想到它会改变他这个人。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "拼写",
+          "note": "<p><em>benifechial</em> → <span class=\"hl-good\">beneficial</span> (good for society).</p>",
+          "answer": "beneficial"
+        },
+        "40": {
+          "concept": "词类/用词",
+          "note": "<p>Question needs <span class=\"hl-good\">how</span> (in what way), not <em>when</em>.</p>",
+          "answer": "how"
+        },
+        "41": {
+          "concept": "拼写",
+          "note": "<p><em>pryoritis</em> → <span class=\"hl-good\">priorities</span>.</p>",
+          "answer": "priorities"
+        },
+        "42": {
+          "concept": "拼写",
+          "note": "<p><em>volenteri</em> → <span class=\"hl-good\">voluntary</span> (welfare organisation).</p>",
+          "answer": "voluntary"
+        },
+        "43": {
+          "concept": "拼写",
+          "note": "<p><em>nutrecious</em> → <span class=\"hl-good\">nutritious</span> meals.</p>",
+          "answer": "nutritious"
+        },
+        "44": {
+          "concept": "拼写",
+          "note": "<p><em>iniciativ</em> → <span class=\"hl-good\">initiative</span>.</p>",
+          "answer": "initiative"
+        },
+        "45": {
+          "concept": "词类",
+          "note": "<p>Explore the <span class=\"hl-good\">possibility</span> (noun), not <em>possible</em>.</p>",
+          "answer": "possibility"
+        },
+        "46": {
+          "concept": "拼写",
+          "note": "<p><em>haigyene</em> → <span class=\"hl-good\">hygiene</span> training.</p>",
+          "answer": "hygiene"
+        },
+        "47": {
+          "concept": "词形",
+          "note": "<p>They were <span class=\"hl-good\">equipped</span> (past participle), not <em>equip</em>.</p>",
+          "answer": "equipped"
+        },
+        "48": {
+          "concept": "词类",
+          "note": "<p><span class=\"hl-good\">knowledge</span> (noun), not <em>knowing</em>.</p>",
+          "answer": "knowledge"
+        },
+        "49": {
+          "concept": "介词",
+          "note": "<p><em>by their release</em> → <span class=\"hl-good\">upon/after</span> release.</p>",
+          "answer": "upon"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The Clean Tables Campaign was launched by the National Environment Agency (NEA) in February 2021. It is envisioned that the campaign will [Q51] together individuals and the community to do their part in keeping our environment clean [Q52] a national culture to keep Singapore clean.",
+          "This was yet another concerted [Q53] to remind diners at hawker centres and other public dining places to keep tables clean by returning their trays of used crockery to a tray return point, and by [Q54] used tissues, wet wipes and leftovers into the proper receptacles provided.",
+          "We have had many campaigns since the 1960s to keep our country, our water supplies and even our hands clean. [Q55] have they been effective?",
+          "Singapore is a cleaned city, not a clean city. We are [Q56] on cleaners to keep our city [Q57] and span. The same is true of our public dining tables. They are cleaned by workers, many of [Q58] are seniors.",
+          "Why do we, in Singapore, have such an entitled [Q59]? Why do we need someone to clean up [Q60] us?",
+          "NEA's survey found that close to half of the respondents felt clearing their own tables after eating will [Q61] cleaners of their jobs. This is not true. Cleaners will not lose their jobs just [Q62] diners have become more responsible and gracious. They are still needed to [Q63] the general cleanliness of dining places, including sorting the used crockery at the designated tray return points.",
+          "In [Q64], keeping tables clean after our meals will make their work easier by [Q65] their workload in having to make frequent rounds to the tables. This will allow the cleaners to have more time to wipe down and properly disinfect the tables, providing a more sanitary environment."
+        ],
+        "zh": [
+          "国家环境局于2021年2月推出“清洁餐桌”运动，希望凝聚个人与社区，共同保持环境清洁，并养成保持新加坡清洁的国民习惯。",
+          "这又是提醒食客在小贩中心等公共场所用餐后清理餐桌的行动：把用过的餐具托盘送回归还点，并把用过的纸巾、湿巾和剩菜扔进指定容器。",
+          "自196十年代以来我们有许多保持国家、水源乃至双手清洁的运动。它们有效吗？",
+          "新加坡是“被清理”的城市，而非“自洁”的城市。我们依赖清洁工人保持城市整洁无尘；公共餐桌亦然，许多清理者已是年长者。",
+          "为何在新加坡我们会有如此“理所当然”的心态？为何总要别人跟在我们后面收拾？",
+          "环境局的调查发现，近半数受访者认为用餐后自己清理餐桌会剥夺清洁工饭碗。事实并非如此：食客更有责任心、更礼让，并不会让清洁工失业。他们仍须维持用餐区整体清洁，包括在指定托盘归还点分拣餐具。",
+          "事实上，用餐后清理餐桌可减轻他们的负担，减少他们频繁往返各桌的次数，让清洁工有更多时间擦拭并彻底消毒餐桌，营造更卫生的环境。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "动词与副词固定搭配",
+          "note": "前面有情态动词 will，后接动词原形。与后面的副词 together 组合，构成极高频常考的地道短语 bring together，表示该运动旨在将个人和社区“聚集”或“凝聚”在一起。",
+          "answer": "bring"
+        },
+        "52": {
+          "concept": "介词后的动名词形式",
+          "note": "此空格位于完整的分句之后，用以引出伴随的结果或目的。填入动名词 creating 或 building 表达“以此创造/建立”一种保持新加坡干净的全国性文化。填入介词 as 或者是 to 引导同样符合逻辑。",
+          "answer": "creating/building/as/to"
+        },
+        "53": {
+          "concept": "名词固定习惯搭配",
+          "note": "前面有形容词 concerted（共同的/齐心协力的）修饰。完美契合各类倡议书和时事说明文中的核心专属搭配 concerted effort，意为这是又一次旨在提醒食客的“齐心协力的付出/共同努力”。",
+          "answer": "effort"
+        },
+        "54": {
+          "concept": "介词后的动名词并列",
+          "note": "与前面的 returning 并列，跟在介词 by 后面。指通过将用过的纸巾、湿纸巾和残羹剩饭“扔进（throwing / disposing / putting）”或“丢入”正确的垃圾桶，故用动名词形式。",
+          "answer": "throwing/disposing/putting"
+        },
+        "55": {
+          "concept": "疑问句引导词",
+          "note": "引导特殊疑问句。前文提到自1960年代以来举办过无数次清洁运动，此处发出灵魂拷问：然而这些运动的效果“究竟如何（How）”或它们“是否（But / Have）”真正见效。位于句首需大写。",
+          "answer": "How/But/Have"
+        },
+        "56": {
+          "concept": "形容词与介词固定搭配",
+          "note": "后接介词 on，用作系动词 are 之后的表语。构成高频常考的经典短语 dependent on 或者是 reliant on，指代新加坡严重“依赖”清洁工来维持城市整洁的现状（填入动词现在分词 relying 亦完全符合句型结构）。",
+          "answer": "dependent/reliant/relying"
+        },
+        "57": {
+          "concept": "经典习语固定搭配",
+          "note": "与后文的并列连词 and 极其形容词 span 完美组合。构成英语中用于形容环境一尘不染、干净整洁的极高频标志性专属四字习语 spick and span，意为让城市“干干净净”。",
+          "answer": "spick"
+        },
+        "58": {
+          "concept": "非限制性定语从句关系代词",
+          "note": "引导非限制性定语从句，介词短语 many of 之后缺少作宾语的代词。先行词为表示人类的复数名词 workers（清洁工），故固定使用关系代词 whom。",
+          "answer": "whom"
+        },
+        "59": {
+          "concept": "名词语意与修饰搭配",
+          "note": "前面有形容词 entitled（有特权感的/自以为是的）修饰。作者在此处发出批判：为什么我们在新加坡会衍生出这样一种理所当然的“心态”、“态度”或“想法”（mindset / attitude / thinking）。",
+          "answer": "mindset/attitude/thinking"
+        },
+        "60": {
+          "concept": "介词固定习惯搭配",
+          "note": "与前置的动词短语 clean up 完美组合。构成高频生活规范短语 clean up after us，意思是为什么我们凡事都需要别人在“我们后面收拾/跟在屁股后面帮我们打扫”。",
+          "answer": "after"
+        },
+        "61": {
+          "concept": "动词与介词特定搭配",
+          "note": "前面有情态动词 will，后接动词原形。与后文的 cleaners 以及介词短语 of their jobs 完美组合，构成极高频常考的经典专属搭配 deprive someone of something，意为“剥夺”清洁工的工作。",
+          "answer": "deprive"
+        },
+        "62": {
+          "concept": "从属原因连词",
+          "note": "引导原因状语从句。用来连接前后两句，指清洁工绝不会仅仅“因为（because / as / since）”食客变得更具责任感和优雅就失去工作，以此驳斥前文调查中的错误顾虑。",
+          "answer": "because/as/since"
+        },
+        "63": {
+          "concept": "动词不定式与宾语搭配",
+          "note": "不定式符号 to 后接动词原形。指清洁工仍然被需要用来“维持（maintain）”、“确保（ensure）”或“监督（oversee）”就餐场所的整体清洁度。",
+          "answer": "maintain/ensure/oversee"
+        },
+        "64": {
+          "concept": "篇章转折递进固定搭配",
+          "note": "与前置的介词 In 完美组合，后面有逗号隔开。填入名词 fact 构成 In fact（事实上/实际上），用作段落开头的逻辑承接，引出自己收拾餐盘不仅不抢饭碗、反而能减负的真相。填入 short / addition 构成 In short（总而言之）或 In addition（此外）亦完全通顺。位于句首需大写。",
+          "answer": "fact/short/addition"
+        },
+        "65": {
+          "concept": "现在分词引导伴随状语",
+          "note": "介词 by 后面需要接动名词。与后面的名词短语 their workload（他们的工作量）搭配，指自行清理能够起到“减少（reducing）”、“减轻（lightening / easing）”或“降低”清洁工工作负担的积极作用。",
+          "answer": "reducing/lightening/easing"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Fred asked Mother how she turned on the dishwasher.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "\" __________ ?\" Fred asked Mother"
+        },
+        "67": {
+          "stem_plain": "Lixun missed out on several interesting activities in school. Lixun was frequently absent.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ caused him __________"
+        },
+        "68": {
+          "stem_plain": "The sales assistant persuaded Mother to buy the steam oven. Mother eventually agreed to buy it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "The sales assistant was so __________"
+        },
+        "69": {
+          "stem_plain": "I did not know she liked the notebook. I would have given it to her.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Had I __________"
+        },
+        "70": {
+          "stem_plain": "I eagerly tore open the packaging to unveil the surprise inside when I received the parcel.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Upon the __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "间接引语 — 疑问句",
+          "zh": "“你怎么打开洗碗机？”弗雷德问妈妈。",
+          "note": "陈述句改直接引语问句；可写 turn on 或 turn the dishwasher on。",
+          "answer": "\"How do you turn on the dishwasher?\" Fred asked Mother. / \"How do you turn the dishwasher on?\" Fred asked Mother."
+        },
+        "67": {
+          "concept": "因果合并 — caused",
+          "zh": "立勋经常旷课，使他错过了学校里几项有趣的活动。",
+          "note": "用 caused 合并；第二空为不定式短语 to miss out …。",
+          "answer": "Lixun's frequent absenteeism caused him to miss out on several interesting activities in school. / The fact that Lixun was frequently absent caused him to miss out on several interesting activities in school."
+        },
+        "68": {
+          "concept": "结果 — so … that",
+          "zh": "销售员很有说服力，母亲最终同意买下蒸汽烤箱。",
+          "note": "so + adj + (that) 从句。",
+          "answer": "The sales assistant was so persuasive (that) Mother eventually agreed to buy the steam oven."
+        },
+        "69": {
+          "concept": "虚拟语气 — Had I known",
+          "zh": "要是我早知道她喜欢那本笔记本，我就会给她了。",
+          "note": "与过去事实相反的虚拟语气；Had I known 倒装。",
+          "answer": "Had I known (that) she liked the notebook, I would have given it to her."
+        },
+        "70": {
+          "concept": "改写 — Upon the receipt",
+          "zh": "收到包裹后，我急切地撕开包装，揭开里面的惊喜。",
+          "note": "Upon + 名词短语，后接主句。",
+          "answer": "Upon the receipt of the parcel, I eagerly tore open the packaging to unveil the surprise inside."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "\"I was reluctant to do so and would have protested...\" (lines 2–3) Why did Junyi eventually agree to live with Aunty Loh?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "\"Aunty Loh welcomed my father and me at the door.\" (line 6) (a) Circle one word that best describes Aunty Loh's attitude towards Junyi when he went to live with her. **DO NOT CIRCLE MORE THAN ONE WORD.**",
+          "marks": 2,
+          "interaction": "radio_comp",
+          "options": [
+            "hospitable",
+            "responsive",
+            "charitable",
+            "helpful"
+          ]
+        },
+        "73": {
+          "stem_plain": "What do you think Junyi meant when he described each step Aunty Loh took was **'as if she was ascending a hill'** (line 8)?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "74": {
+          "stem_plain": "Explain clearly why Junyi jerked and hid his hand behind his back (line 11).",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "From lines 13–23, how can you tell that Pei Fen's pregnancy **'seemed to mellow her out'**?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Explain clearly why Aunty Loh **'waved her metal spoon like a wand in the air'** (lines 27–28).",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **explicitly said so** (line 16)",
+                "(b) **nothing changed** (line 32)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer to",
+              "rows": [
+                "[Q77a]",
+                "[Q77b]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Based on lines 24–34, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Aunty Loh was distracted by the faulty stove when Junyi was leaving for school.",
+                "(b) Junyi grew attached to Aunty Loh over time."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q78b]",
+                "[Q78d]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "From lines 35–45, pick out two separate phrases to show Junyi's feelings and explain why he felt that way.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "Phrase that shows Junyi felt uneasy",
+                "Phrase that shows Junyi was shocked"
+              ]
+            },
+            "col_2": {
+              "header": "Three-word phrase",
+              "rows": [
+                "[Q79a]",
+                "[Q79c]"
+              ]
+            },
+            "col_3": {
+              "header": "Reason for Junyi's feelings",
+              "rows": [
+                "[Q79b]",
+                "[Q79d]"
+              ]
+            }
+          }
+        },
+        "80": {
+          "stem_plain": "Explain clearly why Junyi inched closer to look at the ball of hair **'with bated breath'** (line 48).",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "The year my mother was diagnosed with cancer, my father sent me to live with my neighbour Aunty",
+          "2": "Loh. He said he could not drive his taxi, ferry my mother to the hospital and take care of me. I was reluctant",
+          "3": "to do so and would have protested, if not for the fact that I had noticed that the bald patch on the back of",
+          "4": "my mother's head, at first a circle no bigger than a 50-cent coin, was now an uneven patch the size of my",
+          "5": "fist.",
+          "6": "Aunty Loh welcomed my father and me at the door. Aunty Loh had short grey curls and wide-set",
+          "7": "eyes that blinked rapidly behind her large glasses. Even though she was short and thin, she walked with a",
+          "8": "heavy foot due to arthritis, each step taken as if she was ascending a hill. Photographs of the Loh's",
+          "9": "daughter lined a shelf and, next to it, was an elaborate-looking sewing machine clad in black and brass",
+          "10": "plating. I spun the wheel and watched the needle bounce up and down like a finger tapping to music. \"Junyi!",
+          "11": "Don't touch Aunty Loh's things,\" my father's voice boomed. I jerked and hid my hand behind my back.",
+          "12": "\"Never mind,\" she said, turning to me. \"Don't worry, Ah Boy. Do what you like. Treat this place as your home.\"",
+          "13": "Every day after school, I would do my homework in the living room while Aunty Loh worked on the",
+          "14": "sewing machine, next to a bulging red plastic bag overflowing with her customers' garments. Aunty Loh",
+          "15": "chatted a lot when she sewed. I learnt she missed her daughter, Pei Fen, and wished she would visit more",
+          "16": "often. Pei Fen had married recently and moved out. While Aunty Loh never **explicitly said so**, I could tell",
+          "17": "they did not have a good relationship. Twice a month, Pei Fen would come over for dinner and stay no",
+          "18": "longer than an hour. She spoke to her mother in a dismissive manner, often deriding her for being long-",
+          "19": "winded and bothersome.",
+          "20": "A few months later, Aunty Loh announced, \"Baby!\" after putting down the phone with Pei Fen. Pei Fen",
+          "21": "then began coming over weekly. Pregnancy seemed to mellow her out. There was laughter during dinner",
+          "22": "and Pei Fen would listen intently as Aunty Loh shared her pregnancy experiences and stories. Pei Fen",
+          "23": "would leave each time with a thermos filled with herbal soup.",
+          "24": "\"Ah Boy, come help me. It's spoilt again.\" Aunty Loh had set a pot of soup on the stove and turned the",
+          "25": "stove knob repeatedly - click-click-click - but there was no fire. I trooped across the kitchen and, with a quick",
+          "26": "twist of the knob, the bright blue flame shot out. The old stove had been faulty recently. Somehow, though,",
+          "27": "I was always able to turn it on. \"Magic fingers,\" I declared to Aunty Loh, who waved her metal spoon like",
+          "28": "a wand in the air and laughed. However, the magic did not work later that week.",
+          "29": "That morning, Aunty Loh was preparing soup in the kitchen. \"Ah Boy,\" Aunty Loh called out, \"Can help",
+          "30": "me? It's spoilt again.\" I was running late for school but I slipped my shoes off and ran to the kitchen. Aunty",
+          "31": "Loh was rapping the side of the gas stove, trying to get it to work. I moved and turned the knob. Click-click-",
+          "32": "click. No fire. Click-click-click. I tried again, but **nothing changed**. \"I think it's really spoilt this time. I have",
+          "33": "to go to school already.\" Waving to Aunty Loh even though she was not looking, I said, \"I will try again when",
+          "34": "I get home, okay?\"",
+          "35": "When I returned from school that afternoon, a small crowd had gathered outside Aunty Loh's house. I",
+          "36": "was surprised to see my father in the crowd. A burnt smell filled the air. I noticed that Aunty Loh's doorway",
+          "37": "had been cordoned off by yellow tape. \"Where's Aunty Loh? Is she okay?\" I asked my father as a strange",
+          "38": "tingle crawled up my neck.",
+          "39": "\"A fire broke out!\" my father said, pointing to the charred walls.",
+          "40": "\"A fire? How?\"",
+          "41": "\"I'm not sure, but I heard from the neighbour that her stove exploded.\"",
+          "42": "\"Exploded?\" I echoed. \"Is she okay?\" I asked again. \"They said that when the firemen rescued her, her",
+          "43": "clothes were all black.\" I nodded numbly. All I could think of was how Aunty Loh's skin must have blistered",
+          "44": "under the heat of the fire. I never saw Aunty Loh again. Her house needed extensive repair, so she moved",
+          "45": "to Pei Fen's house.",
+          "46": "My mother, by then, had won the battle with cancer and was in remission. As she sat at the edge of my",
+          "47": "bed, sewing a button on my trousers, I caught sight of a ball of hair that had landed on her collarbone, similar",
+          "48": "to the one she first shed while undergoing treatment - and my heart faltered. With bated breath, I inched",
+          "49": "closer to take a second look, only to realise it was simply a clump of black thread."
+        },
+        "paragraphs": {
+          "1": "母亲被诊断出癌症那年，父亲把我送到邻居罗阿姨家。他说自己无法一边开出租车、送母亲去医院，一边照顾我。我本不情愿，本要反对，却注意到母亲脑后秃块已从五十仙硬币大小扩大到拳头般不规则的一块。",
+          "6": "罗阿姨在门口迎接父亲和我。她留着短灰卷发，宽距的眼睛在大眼镜后快速眨动。她身材瘦小，却因关节炎脚步沉重，每一步都像在爬山。陆家女儿的照片摆满架子，旁边是一台黑黄相间的精致缝纫机。我转动轮子，看针头像随音乐敲击的手指上下跳动。“俊义！别碰罗阿姨的东西。”父亲的声音如雷。我猛地一颤，把手藏到背后。“没关系，”她转向我说，“别担心，阿弟。喜欢做什么就做什么，把这里当自己家。”",
+          "13": "每天放学后，我在客厅做作业，罗阿姨在缝纫机旁工作，旁边鼓胀的红塑料袋里塞满顾客衣物。她缝纫时话很多。我得知她想念女儿培芬，希望她多来。培芬刚结婚搬出；罗阿姨虽从未明说，我看得出母女关系不好。培芬每月来吃饭两次，从不多留一小时，对母亲说话轻慢，常嫌她啰嗦烦人。",
+          "20": "几个月后，罗阿姨接完培芬电话宣布“有宝宝了！”培芬此后每周都来。怀孕似乎让她温和许多；晚餐时有笑声，培芬会专心听罗阿姨讲怀孕经历与故事，每次离开都带着一壶草药汤。",
+          "24": "“阿弟，来帮我，又坏了。”罗阿姨把汤锅放在炉上，反复拧旋钮——咔哒咔哒——却没有火。我穿过厨房，轻轻一拧，蓝色火苗蹿出。旧炉最近常出问题，我却总能点燃。“魔术手指。”我向罗阿姨宣布；她像挥魔杖般在空中挥动金属汤匙大笑。然而那周晚些时候“魔术”失灵了。",
+          "35": "那天早上罗阿姨又在厨房煮汤，喊我帮忙，我上学要迟到了，仍脱鞋跑去厨房。她敲着煤气炉侧面想修好。我拧旋钮，咔哒咔哒，没火，再试，依旧没变。“我想这次真坏了，我得上学了。”我朝罗阿姨挥手，她并没在看，说：“我回来再试，好吗？”下午放学，罗阿姨家外聚了一小群人，父亲竟也在其中。空气有焦味，门口拉着黄色胶带。“罗阿姨在哪？她还好吗？”我问父亲，颈后一阵异样刺痛。",
+          "46": "那时母亲已战胜癌症处于缓解期。她坐在我床边给我裤子钉纽扣，我看见她锁骨上落着一团头发，像治疗时第一次掉发那样，我心一沉。我屏息凑近再看，才发现那只是一团黑线。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因简答，须完整句。</li><li><strong>范围：</strong>行 <strong>3–4</strong>。</li><li><strong>证据：</strong>母亲脑后秃块从五十仙硬币扩大到拳头大小 → 病情恶化，故不再坚持反对。</li><li><strong>答：</strong>他看出母亲状况恶化（秃块变大），因此同意去罗阿姨家。</li></ol>",
+          "answer": [
+            "Junyi knew his mother's condition was getting worse / deteriorating (the bald patch on the back of his mother's head had grown from a 50-cent coin to the size of his fist)."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>(a) 行 6–12：</strong>罗阿姨热情欢迎、让他把此处当家 → <strong>hospitable</strong>。</li><li><strong>(b)</strong> 如 <em>Treat this place as your home</em>、允许他碰缝纫机（对比父亲呵斥）。</li></ol>",
+          "answer": [
+            "hospitable",
+            "Aunty Loh told Junyi to treat her place as his home. / Aunty Loh allowed him to touch her things."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "短语/句子释义",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>8</strong>。</li><li><strong>证据：</strong>关节炎、脚步沉重 → 每步像爬山，费力、吃力。</li></ol>",
+          "answer": [
+            "Junyi meant that Aunty Loh took a lot of effort / strength / energy to walk — it was as if she was climbing a hill. / Aunty Loh had difficulty in walking / moving about."
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>10–11</strong>。</li><li><strong>证据：</strong>父亲大声呵斥 → 俊义受惊，把手藏到背后以免再被骂。</li></ol>",
+          "answer": [
+            "Junyi got a shock at his father's booming voice and hid his hand behind his back so his father would not scold him / get into further trouble with his father."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>13–23</strong>。</li><li><strong>对比：</strong>怀孕前培芬轻慢母亲；怀孕后专心听怀孕经历与故事、带汤离开。</li></ol>",
+          "answer": [
+            "Pei Fen listened intently to (and valued) what Aunty Loh shared about her pregnancy experiences and stories after she got pregnant, unlike before when she often derided Aunty Loh for being long-winded and bothersome."
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>27–28</strong>。</li><li><strong>证据：</strong>她认同“魔术手指”，挥汤匙像魔杖，陪俊义玩。</li></ol>",
+          "answer": [
+            "Aunty Loh waved her metal spoon like a wand to show that she agreed with Junyi that he had magic fingers and was playing along with him."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a) 行 16–17：</strong><em>explicitly said so</em> → 母女关系不好（从未明说但可看出）。</li><li><strong>(b) 行 32：</strong><em>nothing changed</em> → 炉子仍点不着/仍坏了。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "Pei Fen and Aunty Loh did not have a good relationship",
+            "77b": "the (gas) stove did not work / the stove was (still) not working"
+          }
+        },
+        "78": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>(a) False：</strong>行 <strong>33</strong> 她并未看向他挥手，并非只顾炉子。</li><li><strong>(b) True：</strong>上学迟到仍愿帮她开炉 → 逐渐亲近。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "False",
+            "78b": "Aunty Loh was not looking at Junyi when he waved at her",
+            "78c": "True",
+            "78d": "He was willing to help her when she could not turn on the stove even though he was running late for school"
+          }
+        },
+        "79": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>35–45</strong>。</li><li><strong>(a) uneasy：</strong>三词短语如 <em>a strange tingle</em>；焦味、黄胶带 → 不祥预感。</li><li><strong>(b) shocked：</strong><em>I nodded numbly</em>；得知炉爆、衣服发黑。</li></ol>",
+          "answer": {
+            "79a": "a strange tingle",
+            "79b": "He had a bad feeling that something unpleasant had happened to Aunty Loh (burnt smell / yellow tape at the doorway).",
+            "79c": "I nodded numbly",
+            "79d": "He did not expect the stove to explode while he was at school / learnt from his father that Aunty Loh's clothes were black when rescued."
+          },
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>行 <strong>47–49</strong>。</li><li><strong>证据：</strong>头发团像母亲治疗时掉发 → 担心癌症复发；屏息凑近看清是黑线。</li></ol>",
+          "answer": [
+            "Junyi was anxious to check what that black ball was. If it was a ball of hair, that might mean his mother's hair was dropping and she was sick again. / Junyi was nervous because he thought the ball of hair was like the one his mother first shed when undergoing treatment and that she still had cancer."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

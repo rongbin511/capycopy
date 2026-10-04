@@ -1,0 +1,869 @@
+{
+  "paperid": "p4_english_2025_sa2_chijstnicholas",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Hui Hui hid ________ the tree while playing hide-and-seek.",
+          "options": {
+            "1": "from",
+            "2": "among",
+            "3": "behind",
+            "4": "between"
+          }
+        },
+        "2": {
+          "stem_plain": "John ________ absent from school yesterday as he had a fever.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "3": {
+          "stem_plain": "Mr Bala and his family ________ deeply saddened when they heard the terrible news.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "\"Listen carefully to what I ________ now. If you see a bear in the forest, do not go near,\" the camp instructor reminded us.",
+          "options": {
+            "1": "am saying",
+            "2": "have said",
+            "3": "says",
+            "4": "said"
+          }
+        },
+        "5": {
+          "stem_plain": "This morning, we ________ at the airport for a long time before boarding the plane.",
+          "options": {
+            "1": "wait",
+            "2": "waited",
+            "3": "have waited",
+            "4": "was waiting"
+          }
+        },
+        "6": {
+          "stem_plain": "While Marianne ________ on stage, the audience clapped and sang along.",
+          "options": {
+            "1": "performs",
+            "2": "is performing",
+            "3": "has performed",
+            "4": "was performing"
+          }
+        },
+        "7": {
+          "stem_plain": "\"Come over here and help me carry ________ heavy bags of flour,\" the chef instructed.",
+          "options": {
+            "1": "this",
+            "2": "that",
+            "3": "these",
+            "4": "those"
+          }
+        },
+        "8": {
+          "stem_plain": "We should clear the leftover food when we are done eating ________ it will attract unwanted pests.",
+          "options": {
+            "1": "if",
+            "2": "or",
+            "3": "as",
+            "4": "but"
+          }
+        },
+        "9": {
+          "stem_plain": "Lily has ________ toys so her mother told her to give some away.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "10": {
+          "stem_plain": "Father had cooked too ________ rice so our family did not have enough to eat.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "玩捉迷藏（hide-and-seek）时，通常是躲在树的“后面”，故选 behind。",
+          "concept": "介词辨析 — Prepositions — place",
+          "zh": "慧慧玩捉迷藏时躲在树后面。",
+          "answer": "3"
+        },
+        "2": {
+          "note": "句中有明确的过去时间状语 “yesterday”（昨天），主语 “John” 是第三人称单数，因此系动词用 “was”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Singular)",
+          "zh": "约翰昨天因为发烧没去上学。",
+          "answer": "3"
+        },
+        "3": {
+          "note": "“when” 引导的时间状语从句使用的是过去时（heard），主句也应使用过去时；主语是 “Mr Bala and his family”（复数），因此用 “were”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement & Tense — Past Tense (Plural)",
+          "zh": "巴拉先生和他的家人听到这个糟糕的消息时深感悲痛。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "句中有提示语 “Listen carefully”（仔细听）和时间副词 “now”（现在），表明说话人正在进行的动作，需用现在进行时。",
+          "concept": "动词时态 — Verb Tenses — Present Continuous Tense",
+          "zh": "“仔细听我现在说的话。如果你们在森林里看到熊，不要靠近，”营地指导员提醒我们道。",
+          "answer": "1"
+        },
+        "5": {
+          "note": "时间状语 “This morning”（今天早上）配合后文的 “before boarding the plane”（登机前），表明“等待”这一动作发生在过去并已结束，需用一般过去时。",
+          "concept": "动词时态 — Verb Tenses — Simple Past Tense",
+          "zh": "今天早上，我们在机场等了很久才登机。",
+          "answer": "2"
+        },
+        "6": {
+          "note": "“While” 引导的时间状语从句表示一个持续性的背景动作，与主句中观众的过去动作（clapped and sang）相对比，从句需用过去进行时。",
+          "concept": "动词时态 — Verb Tenses — Past Continuous Tense",
+          "zh": "当玛丽安在舞台上表演时，观众们拍手并跟着一起唱。",
+          "answer": "4"
+        },
+        "7": {
+          "note": "说话者使用了 “Come over here”（到这里来），表明物品距离较近；且修饰的 “heavy bags”（重袋子）为复数名词，因此选用近指复数指示代词 “these”。",
+          "concept": "指示代词 — Demonstrative Pronouns — these",
+          "zh": "“到这里来，帮我搬这些沉重的面粉袋，”厨师吩咐道。",
+          "answer": "3"
+        },
+        "8": {
+          "note": "此处使用连词 “or” 表示“否则”（否则就会招来讨厌的害虫），用以引出不采取前述行动的负面后果。",
+          "concept": "连词辨析 — Conjunctions — or (otherwise)",
+          "zh": "我们吃完饭后应该把剩菜剩饭清理干净，否则会招来讨厌的害虫。",
+          "answer": "2"
+        },
+        "9": {
+          "note": "“toys” 是可数名词复数，不能用 little 或 much 修饰；结合后文“妈妈让她把一些送人”，说明玩具“很多”，故选 many。",
+          "concept": "数量词修饰 — Quantifiers — countable nouns",
+          "zh": "莉莉有很多玩具，所以她妈妈让她送一些出去。",
+          "answer": "4"
+        },
+        "10": {
+          "note": "“rice” 是不可数名词，不能用 few 或 many 修饰；结合后文 “did not have enough to eat”（不够吃），可知父亲做的饭“太少”，故选 little。",
+          "concept": "数量词修饰 — Quantifiers — uncountable nouns",
+          "zh": "父亲晚饭时做的米饭太少了，所以我们一家人都不够吃。",
+          "answer": "2"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "The squirrel found ____________ tree trunk and used it to store its acorns.",
+          "options": {
+            "1": "a blank",
+            "2": "an empty",
+            "3": "a hollow",
+            "4": "a vacant"
+          }
+        },
+        "12": {
+          "stem_plain": "The campers took a week's worth of food ____________ on their camping trip.",
+          "options": {
+            "1": "equipment",
+            "2": "supplies",
+            "3": "utensils",
+            "4": "gear"
+          }
+        },
+        "13": {
+          "stem_plain": "They desperately ____________ water out of the canoe but more water kept rushing into it.",
+          "options": {
+            "1": "poured",
+            "2": "paddled",
+            "3": "scooped",
+            "4": "squeezed"
+          }
+        },
+        "14": {
+          "stem_plain": "Wei Ming got hooked reading a story about a detective trying to figure out an ____________ mystery.",
+          "options": {
+            "1": "unclear",
+            "2": "unsolved",
+            "3": "unopened",
+            "4": "unfinished"
+          }
+        },
+        "15": {
+          "stem_plain": "Mr Wong loves his daughter and often praises her. She is clearly ____________.",
+          "options": {
+            "1": "all ears",
+            "2": "a sweet tooth",
+            "3": "an arm and a leg",
+            "4": "the apple of his eye"
+          }
+        },
+        "16": {
+          "stem_plain": "Mrs Abdullah loves her baby very much and cuddles her ____________ at bedtime every day.",
+          "options": {
+            "1": "emotionally",
+            "2": "considerately",
+            "3": "affectionately",
+            "4": "appreciatively"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "松鼠发现了一个中空的树干，并用它来储存橡果。",
+          "note": "“a hollow”意为“中空的”，常用来修饰树干（tree trunk），指内部有洞可以存放东西。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "a blank",
+              "zh": "空白的",
+              "eg": "Please write your name and index number in the blank space provided."
+            },
+            {
+              "opt": "2",
+              "word": "an empty",
+              "zh": "空的（内部没有东西）",
+              "eg": "He drank the warm milk and left the empty glass on the dining table."
+            },
+            {
+              "opt": "3",
+              "word": "a hollow",
+              "zh": "中空的、凹陷的",
+              "eg": "The wild owls made their nest inside a hollow log in the forest."
+            },
+            {
+              "opt": "4",
+              "word": "a vacant",
+              "zh": "空缺的、无人占用的",
+              "eg": "The family looked around the theater and found a few vacant seats in the back row."
+            }
+          ]
+        },
+        "12": {
+          "zh": "野营者们在他们的野营旅行中带了够吃一周的食物补给。",
+          "note": "“supplies”在这里与“food”搭配，指“食物补给、生活必需品”。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "equipment",
+              "zh": "设备、器材",
+              "eg": "The laboratory is filled with advanced scientific equipment for experiments."
+            },
+            {
+              "opt": "2",
+              "word": "supplies",
+              "zh": "生活补给、物资",
+              "eg": "The rescue workers distributed medical supplies to the flood victims."
+            },
+            {
+              "opt": "3",
+              "word": "utensils",
+              "zh": "器皿、用具（尤指厨房用具）",
+              "eg": "She washed the cooking utensils carefully after baking the chocolate cake."
+            },
+            {
+              "opt": "4",
+              "word": "gear",
+              "zh": "装备、衣服/用具组合",
+              "eg": "The professional climbers wore heavy protective gear to brave the snowstorm."
+            }
+          ]
+        },
+        "13": {
+          "zh": "他们拼命地把水从独木舟里舀出来，但更多的水不断涌进来。",
+          "note": "“scooped”意思是“（用手或工具）舀、掏”，符合把进水的船只向外排水的动作语境。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "poured",
+              "zh": "倾倒、倒出",
+              "eg": "She poured a fresh cup of hot tea for her grandfather."
+            },
+            {
+              "opt": "2",
+              "word": "paddled",
+              "zh": "划桨",
+              "eg": "They paddled their small canoe down the calm river during the holiday."
+            },
+            {
+              "opt": "3",
+              "word": "scooped",
+              "zh": "舀、掏",
+              "eg": "The boy scooped some dry sand into his colorful plastic bucket."
+            },
+            {
+              "opt": "4",
+              "word": "squeezed",
+              "zh": "挤、榨",
+              "eg": "He squeezed the wet sponge to get rid of the excess water."
+            }
+          ]
+        },
+        "14": {
+          "zh": "伟明读一个关于侦探试图解开未解之谜的故事入了迷。",
+          "note": "“unsolved”意思是“未解决的、未破案的”，常与“mystery（谜团）”搭配，符合侦探小说的经典设定。",
+          "concept": "Vocabulary MCQ",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unclear",
+              "zh": "不清晰的",
+              "eg": "The instructions on the board were unclear, leaving the students confused."
+            },
+            {
+              "opt": "2",
+              "word": "unsolved",
+              "zh": "未解决的、未破的",
+              "eg": "The police are still investigating the unsolved robbery from last year."
+            },
+            {
+              "opt": "3",
+              "word": "unopened",
+              "zh": "未打开的",
+              "eg": "A pile of unopened letters lay on the desk near the main door."
+            },
+            {
+              "opt": "4",
+              "word": "unfinished",
+              "zh": "未完成的",
+              "eg": "He left his painting unfinished because he had to rush out for an emergency."
+            }
+          ]
+        },
+        "15": {
+          "zh": "黄先生疼爱他的女儿，并且经常夸奖她。她显然是他的掌上明珠。",
+          "note": "“the apple of his eye”是固定习语，意思是“掌上明珠、心肝宝贝”，形容非常珍视和疼爱的人。",
+          "concept": "Idioms MCQ",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "all ears",
+              "zh": "洗耳恭听",
+              "eg": "Tell me what happened during the trip, I am all ears."
+            },
+            {
+              "opt": "2",
+              "word": "a sweet tooth",
+              "zh": "爱吃甜食",
+              "eg": "She has a sweet tooth and always orders dessert after dinner."
+            },
+            {
+              "opt": "3",
+              "word": "an arm and a leg",
+              "zh": "极其昂贵",
+              "eg": "The brand new smartphone cost me an arm and a leg."
+            },
+            {
+              "opt": "4",
+              "word": "the apple of his eye",
+              "zh": "掌上明珠",
+              "eg": "The little girl is the apple of her grandfather's eye."
+            }
+          ]
+        },
+        "16": {
+          "zh": "阿卜杜拉夫人非常爱她的宝宝，每天睡觉时都会深情地拥抱她。",
+          "note": "“affectionately”意思是“深情地、充满关爱地”，修饰搂抱（cuddles）的动作，完美体现出母亲对宝宝的爱。",
+          "concept": "Vocabulary MCQ",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "emotionally",
+              "zh": "情绪化地、激动地",
+              "eg": "The actress spoke emotionally about her difficult journey to success."
+            },
+            {
+              "opt": "2",
+              "word": "considerately",
+              "zh": "体贴地、周到地",
+              "eg": "He closed the door considerately so as not to wake the sleeping infant."
+            },
+            {
+              "opt": "3",
+              "word": "affectionately",
+              "zh": "深情地、关爱地",
+              "eg": "The dog wagged its tail and licked its owner's hand affectionately."
+            },
+            {
+              "opt": "4",
+              "word": "appreciatively",
+              "zh": "欣赏地、感激地",
+              "eg": "The audience applauded appreciatively after the beautiful musical performance."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "代词（宾格）",
+          "note": "动词 showed 的宾语，指代前文的“我们（we）”，故选 us。",
+          "answer": "E"
+        },
+        "18": {
+          "concept": "代词（主格）",
+          "note": "作句子主语，指代前文单数男性的导游 'The guide'（由后文的 told us 可推断其为主语），故选 he。",
+          "answer": "A"
+        },
+        "19": {
+          "concept": "形容词性物主代词",
+          "note": "与 own 搭配修饰名词 portraits，指代“我们自己的”，故选 our。",
+          "answer": "C"
+        },
+        "20": {
+          "concept": "代词（宾格）",
+          "note": "使役动词 helped 的宾语，结合后文“I found...”以及“I hope...”，说明是帮助“我”更好地欣赏艺术，故选 me。",
+          "answer": "B"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "he",
+          "B": "me",
+          "C": "our",
+          "D": "them",
+          "E": "us",
+          "F": "we"
+        },
+        "cloze": [
+          "Yesterday, we went on a learning journey to the National Gallery Singapore. The guide showed [Q17] paintings and sculptures by local artists. [Q18] told us stories about the paintings and explained how the artists created the sculptures. We did an activity where we drew [Q19] own portraits. I found the trip fun and meaningful as it helped [Q20] appreciate art more. I hope to visit the place again."
+        ],
+        "zh": [
+          "昨天，我们去新加坡国家美术馆进行了一次学习之旅。导游向我们展示了当地艺术家的画作和雕塑。他给我们讲了关于这些画作的故事，并解释了艺术家们是如何创作这些雕塑的。我们做了一个活动，在活动中我们画了我们自己的肖像画。我觉得这次旅行既有趣又有意义，因为它帮助我更好地欣赏艺术。我希望以后能再次参观这个地方。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "27": {
+          "stem_plain": "The netball player did not take part in the match. Her ankle was injured.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... whose ..."
+        },
+        "28": {
+          "stem_plain": "Mr Lee will not play golf for a month. He will also not run for a month.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... neither ... nor ..."
+        }
+      },
+      "answers": {
+        "27": {
+          "concept": "定语从句 — Relative Clause (Possession 'whose')",
+          "zh": "那位脚踝受伤的净网球运动员没有参加比赛。",
+          "note": "whose 是表示所属关系的关系代词。用其替换第二句中的形容词性物主代词 Her，并将整个定语从句紧跟在它所修饰的先行词 The netball player 后面。",
+          "answer": "The netball player whose ankle was injured did not take part in the match."
+        },
+        "28": {
+          "concept": "否定连词 — Correlative Conjunction ('neither ... nor ...')",
+          "zh": "李先生在一个月内既不会打高尔夫球，也不会跑步。",
+          "note": "neither ... nor ... 意为“既不……也不……”，本身自带否定含义。因此在合并句子时，原句中的否定词 not 必须去掉，同时省略两句中重复的时间状语 for a month。",
+          "answer": "Mr Lee will neither play golf nor run for a month."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "questions": {
+        "41": {
+          "stem_plain": "Alek was getting away from the _______________ that was affecting his country. [1m]",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "(1) war",
+            "(2) famine",
+            "(3) drought"
+          ]
+        },
+        "42": {
+          "stem_plain": "These are some statements describing the events of the story. Put them in the right order according to the story. Write 1, 2 and 3 on the lines. [1m]",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "The old woman told Alek that she could not take him with her.",
+            "Alek got separated from his family.",
+            "Alek asked for an explanation."
+          ]
+        },
+        "43": {
+          "stem_plain": "Why was it dangerous for the old woman to take Alek along with her? [1m]\n[Write your answer using a complete sentence / complete sentences.]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "44": {
+          "stem_plain": "Which five-word phrase from lines 4 - 10 shows that the old woman felt sorry for Alek? [1m]",
+          "marks": 1,
+          "interaction": "open_ended"
+        },
+        "45": {
+          "stem_plain": "Refer to paragraph 5.\n(a) [1m]\n(b) [1m]",
+          "marks": 2,
+          "interaction": "grouped",
+          "items": {
+            "45(a)": {
+              "stem_plain": "How did Alek feel when he was scanning the faces of the people from the Dinka tribe? Give one word to describe how Alek felt. ",
+              "interaction": "open_ended"
+            },
+            "45(b)": {
+              "stem_plain": "What was Alek expecting? ",
+              "interaction": "open_ended"
+            }
+          }
+        },
+        "46": {
+          "stem_plain": "State whether each sentence below is True or False. Give a reason for your answer. [2m]\n[Write your reasons using complete sentences.]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "sentence",
+              "true_false",
+              "reason"
+            ],
+            "sentence": {
+              "header": "Sentence",
+              "rows": [
+                "(a) Alek saw his family among the people of the Dinka tribe.",
+                "(b) When the old woman first told the group to take Alek along with them, they welcomed the idea."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q46a]",
+                "[Q46b]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q46c]",
+                "[Q46d]"
+              ]
+            }
+          }
+        },
+        "47": {
+          "stem_plain": "Which of the following words best describe the woman carrying a baby and the leader of the group in lines 15 - 23? Put a tick (✓) in one box for each character to show your answer. [2m]",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "character",
+              "options"
+            ],
+            "character": {
+              "header": "Character",
+              "rows": [
+                "The woman carrying a baby [1m]",
+                "The leader of the group [1m]"
+              ]
+            },
+            "options": {
+              "header": "Best Description Options",
+              "rows": [
+                "grateful / thoughtful / empathetic",
+                "stern / decisive / clueless"
+              ]
+            }
+          }
+        }
+      },
+      "answers": {
+        "41": {
+          "concept": "Text Extraction / Context Analysis",
+          "note": "对应原文第10行：老妇人对他说 'Wherever you go, just walk away from the fighting.' 这里的 'fighting' 指代的就是前文提到的战争 (war)。故选 (1)。",
+          "answer": "1"
+        },
+        "42": {
+          "concept": "Sequencing Events",
+          "note": "对应故事的时间顺序：首先他在前文已经和家人失散了 (1)；接着第4-5行老妇人告诉阿莱克不能带他一起走 (2)；随后在第6行阿莱克温顺地提问为什么不行，即索要解释 (3)。因此排序为 2, 1, 3。",
+          "answer": "2\n1\n3"
+        },
+        "43": {
+          "concept": "Text Extraction / Evidence Integration",
+          "note": "对应原文第7-8行：'The soldiers will leave an old woman like me alone. But, they'll take you away to fight along with them.' 士兵会抓走他去一起打仗。要求用完整句子回答。",
+          "answer": "The soldiers would take Alek away to fight along with them."
+        },
+        "44": {
+          "concept": "Vocabulary / Phrase Isolation",
+          "note": "对应原文第8-9行：'The old woman shook her head in sympathy...' 这里的 'shook her head in sympathy' 正好是由5个单词组成的短语，表达了同情与可怜之情。",
+          "answer": "shook her head in sympathy"
+        },
+        "45": {
+          "concept": "Text Extraction / Character Emotion & Expectation",
+          "note": "对应第五自然段（第11-14行）。(a) 描写他看面孔时‘屏住呼吸’，没找到时‘失望长叹’。说明在看那些面孔时内心是‘hopeful’(充满希望)的。(b) 他期待着在人群中发现自己的家人（'Could his family be among them?'）。",
+          "answer": {
+            "Q45a": "hopeful",
+            "Q45b": "was expecting to see his family among the people from the Dinka tribe."
+          }
+        },
+        "46": {
+          "concept": "True or False / Evidence Integration",
+          "note": "(a) 对应原文第13行 'only the faces of strangers greeted him'，他只看到了陌生人的脸，并没有看到家人，所以是False。\n(b) 对应原文第17-18行 老妇人询问是否能带他走后，大家‘一片沉默’并且‘交换了不安的眼神’，说明他们最初并没有欣然接受这个提议，所以是False。",
+          "answer": {
+            "46a": "False",
+            "46b": "False",
+            "46c": "Only the faces of strangers greeted Alek when he scanned the faces of the people.",
+            "46d": "The people exchanged uneasy glances and fell into silence when the old woman asked them to take Alek with them."
+          }
+        },
+        "47": {
+          "concept": "Character Trait / Inference",
+          "note": "抱婴儿的妇女说‘我真为这个男孩感到难过。没有家人，他一定很害怕’，展现了极强的同理心，选 empathetic；首领听到后直接点头说‘我们会带上他’，表现得非常果断，选 decisive。",
+          "answer": {
+            "47a": "empathetic",
+            "47b": "decisive"
+          }
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "\"Boom!\" Another explosion. Alek hoped his family were safe. He wondered when he",
+          "2": "would see them again. Last year, Alek did not have enough to eat during the famine. But this",
+          "3": "war was worse.",
+          "4": "A raspy old voice broke his thoughts. \"The drought is coming. I've to find a place with",
+          "5": "water. You cannot come with me.\"",
+          "6": "Alek asked meekly, \"Why not?\"",
+          "7": "\"It would be dangerous for you to travel with me. The soldiers will leave an old woman",
+          "8": "like me alone. But, they'll take you away to fight along with them.\" The old woman shook her",
+          "9": "head in sympathy and continued, \"I pity you but I can't help you anymore. Wherever you go,",
+          "10": "just walk away from the fighting.\"",
+          "11": "Disheartened, Alek sat down on a rock quietly until he saw people approaching. They",
+          "12": "were from the Dinka tribe, too! Alek held his breath as he scanned the faces. Could his",
+          "13": "family be among them? However, only the faces of strangers greeted him. He heaved a sigh",
+          "14": "of disappointment. Where were they?",
+          "15": "The old woman asked their leader, \"Where are you going?\"",
+          "16": "He replied with a smile, \"We're going to the other side of the River Nile. Thank you for",
+          "17": "welcoming us.\" The old woman put her hand on Alek's shoulder. \"He's alone, separated from",
+          "18": "his family. Will you take him with you?\" Silence. Alek saw the people exchange uneasy",
+          "19": "glances. Sensing he would be left behind again, Alek hung his head.",
+          "20": "\"I feel so sorry for the boy. He must be so scared without his family,\" a woman carrying",
+          "21": "a baby commented, casting a glance at Alek. The leader nodded and said, \"We'll take him with",
+          "22": "us.\" Alek's eyes brimmed with tears, grateful for all the kindness shown to him thus far."
+        },
+        "paragraphs": {
+          "1": "“轰！”又是一声爆炸。阿莱克希望他的家人能安全。他不知道什么时候能再见到他们。去年，在饥荒期间，阿莱克没有足够的食物。但是这场战争更糟糕。",
+          "4": "一个沙哑的老人的声音打断了他的思绪。“干旱要来了。我必须找一个有水的地方。你不能跟我一起去。”",
+          "6": "阿莱克温顺地问：“为什么不行呢？”",
+          "7": "“你和我一起走会很危险。士兵们不会为难我这样一个老太婆。但是，他们会把你带走，让你和他们一起战斗。”老妇人同情地摇了摇头，继续说道：“我为你感到难过，但我不能再帮你了。不管你走到哪里，只要远离战斗就好。”",
+          "11": "沮丧的阿莱克静静地坐在一块石头上，直到他看到有人走过来。他们也是丁卡部落的！阿莱克屏住呼吸，扫视着那些面孔。他的家人会在他们中间吗？然而，迎来的却只有陌生人的面孔。他失望地长叹了一口气。他们去哪儿了？",
+          "15": "老妇人问他们的首领：“你们要去哪里？”",
+          "16": "他微笑着回答说：“我们要去尼罗河的另一边。谢谢你欢迎我们。”老妇人把手放在阿莱克的肩膀上。“他一个人，和家人失散了。你们能带他一起走吗？”一片沉默。阿莱克看到人们交换了不安的眼神。意识到自己可能会再次被留下，阿莱克低下了头。",
+          "20": "“我真为这个男孩感到难过。没有家人，他一定很害怕，”一个抱着婴儿的妇女评论道，并看了阿莱克一眼。首领点了点头，说：“我们带他一起走吧。”阿莱克眼里含满了泪水，感激至今为止向他展示的所有善意。"
+        },
+        "image": "109-passage.jpeg"
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

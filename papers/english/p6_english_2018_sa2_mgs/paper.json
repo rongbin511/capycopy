@@ -1,0 +1,1155 @@
+{
+  "paperid": "p6_english_2018_sa2_mgs",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"Look! The blades of the fan _________ broken!\" Jacob exclaimed to Mei Ling.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "Mother was very disappointed _________ Muthu for cheating during the examination.",
+          "options": {
+            "1": "with",
+            "2": "over",
+            "3": "about",
+            "4": "towards"
+          }
+        },
+        "3": {
+          "stem_plain": "You will eventually achieve your goal if you _________ your mind to it.",
+          "options": {
+            "1": "would set",
+            "2": "had set",
+            "3": "will set",
+            "4": "set"
+          }
+        },
+        "4": {
+          "stem_plain": "Gopal took his dog for a walk last evening, _________?",
+          "options": {
+            "1": "won't he",
+            "2": "didn't he",
+            "3": "hasn't he",
+            "4": "doesn't he"
+          }
+        },
+        "5": {
+          "stem_plain": "Jonah resisted _________ for help as he was determined to complete the project by himself.",
+          "options": {
+            "1": "ask",
+            "2": "asked",
+            "3": "asking",
+            "4": "to ask"
+          }
+        },
+        "6": {
+          "stem_plain": "Kumar is an introvert. _________ is known about his upbringing and background.",
+          "options": {
+            "1": "Few",
+            "2": "Little",
+            "3": "Much",
+            "4": "Some"
+          }
+        },
+        "7": {
+          "stem_plain": "To my horror, I realised at the airport that I _________ to bring my passport!",
+          "options": {
+            "1": "forget",
+            "2": "had forgotten",
+            "3": "have forgotten",
+            "4": "would have forgotten"
+          }
+        },
+        "8": {
+          "stem_plain": "Wen Yi made her brother _________ the toys before they went to the playground.",
+          "options": {
+            "1": "pack",
+            "2": "packs",
+            "3": "packed",
+            "4": "packing"
+          }
+        },
+        "9": {
+          "stem_plain": "\"_________ I attend Mr Ishak's drum class today?\" the child asked his mother eagerly.",
+          "options": {
+            "1": "Can",
+            "2": "Will",
+            "3": "Must",
+            "4": "Need"
+          }
+        },
+        "10": {
+          "stem_plain": "We were trapped in the lift for almost an hour _________ help finally arrived.",
+          "options": {
+            "1": "as",
+            "2": "before",
+            "3": "unless",
+            "4": "although"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "句子的核心主语是复数名词 “The blades”（叶片），因此谓语动词需用复数形式。由句首语气词 “Look!” 可知事情正在眼前发生，应用一般现在时复数形式 “are”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — Plural Subjects",
+          "zh": "雅各布向美玲惊呼道：“看！电风扇的叶片断了！”",
+          "answer": "2"
+        },
+        "2": {
+          "note": "形容词 “disappointed” 当表示对“某人”感到失望时，习惯上与介词 “with” 或 “in” 连用，构成固定搭配 “be disappointed with somebody”。",
+          "concept": "介词搭配 — Prepositions — Disappointed with",
+          "zh": "母亲对穆图在考试中作弊的行为感到非常失望。",
+          "answer": "1"
+        },
+        "3": {
+          "note": "这是一个真实条件句（第一条件句），主句使用了一般将来时 “will eventually achieve”，由 if 引导的条件状语从句应使用一般现在时 “set” 来表达假设或将来的动作。",
+          "concept": "条件状语从句 — Conditionals — First Conditional",
+          "zh": "如果你下定决心，最终一定会实现你的目标。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "陈述句使用的是一般过去时肯定形式 “took”，且主语为男性单数。对应的反意疑问句部分需要使用相应的过去时否定助动词，即 “didn't he”。",
+          "concept": "反意疑问句 — Question Tags — Simple Past Action Verbs",
+          "zh": "高帕尔昨晚带他的狗去散步了，对吧？",
+          "answer": "2"
+        },
+        "5": {
+          "note": "动词 “resist”（抵抗/抗拒）后面习惯接动名词形式（-ing）作为它的宾语，构成固定搭配 “resist doing something”。",
+          "concept": "非谓语动词 — Gerunds — Verbs followed by Gerunds",
+          "zh": "乔纳森克制住自己不去寻求帮助，因为他下定决心要独自完成这项工作。",
+          "answer": "3"
+        },
+        "6": {
+          "note": "关于他的成长和背景是“已知的事”，这属于不可数、代指抽象概念的内容。由前文 “Kumar is an introvert”（库马尔内向）可知，别人对他了解极少，因此使用表示否定意义的不可数代词 “Little”。",
+          "concept": "不定代词辨析 — Pronouns — Little vs Few",
+          "zh": "库马尔是一个性格内向的人。人们对他的成长经历和背景知之甚少。",
+          "answer": "2"
+        },
+        "7": {
+          "note": "主句动词 “realised” 是一般过去时。而“忘记带护照”这一事实发生在意识到（realised）之前，即属于“过去的过去”，必须使用过去完成时（had + 过去分词）。",
+          "concept": "动词时态 — Verb Tenses — Past Perfect",
+          "zh": "令我惊恐的是，我在机场时才意识到自己忘了带护照！",
+          "answer": "2"
+        },
+        "8": {
+          "note": "使役动词 “make” 后面接复合宾语时，若表示主动关系（让某人做某事），宾语补足语必须使用不带 to 的动词不定式（即动词原形 “pack”）。",
+          "concept": "使役动词 — Causative Verbs — Bare Infinitive",
+          "zh": "文怡在他们去游乐场之前，让她的弟弟把玩具收拾好。",
+          "answer": "1"
+        },
+        "9": {
+          "note": "儿童在向母亲寻求许可或询问今天能否去上鼓乐课。情态动词 “Can” 常用于口语或日常对话中，表示请求许可，符合热切渴望的儿童语气。",
+          "concept": "情态动词 — Modal Verbs — Requesting Permission",
+          "zh": "孩子热切地问母亲：“今天我可以去上伊沙克老师的鼓乐课吗？”",
+          "answer": "1"
+        },
+        "10": {
+          "note": "连词 “before” 意为“在……之前”。根据前后句的递进逻辑，我们在电梯里被困了将近一个小时，直到救援人员最终到达（即在救援人员到达之前被困了一小时）。",
+          "concept": "时间状语从句 — Conjunctions — before",
+          "zh": "我们在电梯里被困了将近一个小时，救援人员才最终赶到。",
+          "answer": "2"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Be ________ at tourist sites as there are many pickpockets in these areas.",
+          "options": {
+            "1": "wise",
+            "2": "aware",
+            "3": "diligent",
+            "4": "vigilant"
+          }
+        },
+        "12": {
+          "stem_plain": "Rosnah's teacher gave her a/an ________ testimonial as she had been a good role model to her classmates.",
+          "options": {
+            "1": "shining",
+            "2": "glowing",
+            "3": "touching",
+            "4": "appealing"
+          }
+        },
+        "13": {
+          "stem_plain": "We must be careful of fake news. Some news programmes attempt to ________ the truth in order to increase viewership.",
+          "options": {
+            "1": "guard",
+            "2": "distort",
+            "3": "violate",
+            "4": "misalign"
+          }
+        },
+        "14": {
+          "stem_plain": "In a short period of time, the twin sisters have ________ their new piano teacher as she is patient and fun-loving.",
+          "options": {
+            "1": "taken to",
+            "2": "taken on",
+            "3": "taken over",
+            "4": "taken after"
+          }
+        },
+        "15": {
+          "stem_plain": "The speaker spoke with such ________ against drug abuse that she inspired many youths to support the anti-drug campaign.",
+          "options": {
+            "1": "precision",
+            "2": "conviction",
+            "3": "contention",
+            "4": "persuasion"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "在旅游景点要保持警惕，因为这些地区有很多扒手。",
+          "note": "‘vigilant’ 意为‘警惕的，警觉的’。后文提到 “there are many pickpockets”（有很多扒手），因此需要游客在心理和行动上高度戒备、保持警惕。",
+          "concept": "形容词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "wise",
+              "zh": "明智的，聪明的（形容词，指人富有智慧、具备基于丰富经验和良好判断力做出正确抉择、给出合理建议的能力）",
+              "eg": "It would be wise to save a portion of your monthly salary for unexpected emergencies."
+            },
+            {
+              "opt": "2",
+              "word": "aware",
+              "zh": "意识到的，知道的（形容词，指大脑察觉到、了解某件事实、当前所处的环境、潜在的问题或他人的内心感受，通常与 of 连用）",
+              "eg": "Drivers must be fully aware of the speed limits when passing through school zones."
+            },
+            {
+              "opt": "3",
+              "word": "diligent",
+              "zh": "勤奋的，用功的（形容词，指人在工作或学习中表现得极其认真、坚持不懈、脚踏实地，付出极大的努力和汗水）",
+              "eg": "Through diligent practice and research, the young scientist finally solved the complex formula."
+            },
+            {
+              "opt": "4",
+              "word": "vigilant",
+              "zh": "警惕的，警觉的（形容词，指为了防范潜在的危险、偷盗、袭击或错误，而时刻保持高度清醒、密切注意周围风吹草动的戒备状态）",
+              "eg": "Security guards must remain vigilant to prevent unauthorized individuals from entering the laboratory."
+            }
+          ]
+        },
+        "12": {
+          "zh": "老师给罗斯娜写了一份高度赞扬的推荐信，因为她一直是同学们的好榜样。",
+          "note": "‘glowing’ 在此意为‘高度赞扬的，热烈赞美的’。‘glowing testimonial/report’ 是标准固定搭配，指对某人的表现给予极高的正面评价，完美呼应了后文的 “good role model”（好榜样）。",
+          "concept": "形容词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "shining",
+              "zh": "闪耀的，杰出的（形容词，指物理上物体表面反射出明亮的光芒，或在抽象意义上形容某人的表现、成就极其优秀夺目）",
+              "eg": "Her exceptional leadership skills make her a shining example for other young entrepreneurs."
+            },
+            {
+              "opt": "2",
+              "word": "glowing",
+              "zh": "高度赞扬的，发光的（形容词，指由于极度满意或自豪而对某人或某物给予连篇累牍的热烈赞美、毫无保留的极高正面评价）",
+              "eg": "The premium restaurant received glowing reviews from food critics across the country."
+            },
+            {
+              "opt": "3",
+              "word": "touching",
+              "zh": "动人的，感人的（形容词，指某个故事、电影情节、离别画面或真诚的举动深深打动了人们的心灵，让人产生同情或感动得落泪）",
+              "eg": "The biological siblings shared a touching reunion after being separated for over twenty years."
+            },
+            {
+              "opt": "4",
+              "word": "appealing",
+              "zh": "有吸引力的，引起兴趣的（形容词，指某件商品的外观、某项提议的内容、某种生活方式非常诱人、好看，能让人产生购买或参与的欲望）",
+              "eg": "The flexible working hours make the new corporate job highly appealing to young parents."
+            }
+          ]
+        },
+        "13": {
+          "zh": "我们必须对假新闻保持警惕。一些新闻节目企图歪曲事实，以提高收视率。",
+          "note": "‘distort’ 意为‘歪曲，扭曲（事实、真理等）’。前文提及 “fake news”（假新闻），正是通过故意歪曲、篡改事实真相（distort the truth）来达到某种博人眼球的目的。",
+          "concept": "动词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "guard",
+              "zh": "保卫，看守（动词，指派人驻守、严密注视以保护某人不受伤害、某些重要物资不被盗窃、或防止犯人伺机逃跑）",
+              "eg": "Soldiers were deployed overnight to guard the entrance of the government palace."
+            },
+            {
+              "opt": "2",
+              "word": "distort",
+              "zh": "歪曲，扭曲（动词，指故意改变声音、图像的原本形状使其失真，或者在言语上篡改、歪曲事实真相、曲解他人原本的真实意思）",
+              "eg": "The corrupt journalist tried to distort the facts to make the local scandal seem less severe."
+            },
+            {
+              "opt": "3",
+              "word": "violate",
+              "zh": "违反，侵犯（动词，指公然违反法律、交通规则、国际条约，或者指强行侵犯他人的隐私权、人身自由、亵渎神圣的场所）",
+              "eg": "Companies that deliberately violate environmental regulations will face extremely heavy financial penalties."
+            },
+            {
+              "opt": "4",
+              "word": "misalign",
+              "zh": "使位置不齐，使不一致（动词，指在物理组装中使零部件、机械轴线没有对齐，或在抽象意义上指计划、目标之间互不匹配、产生脱节）",
+              "eg": "If you misalign the printer rollers, the text will come out crooked on the paper."
+            }
+          ]
+        },
+        "14": {
+          "zh": "在很短的时间内，这对双胞胎姐妹就喜欢上了她们的新钢琴老师，因为她既有耐心又风趣幽默。",
+          "note": "‘taken to’ 是短语动词，‘take to someone/something’ 意为‘开始喜欢上、对…产生好感’。后文提到的老师“有耐心且风趣（patient and fun-loving）”是姐妹俩迅速喜欢上她的原因。",
+          "concept": "短语动词辨析",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "taken to",
+              "zh": "喜欢上，开始从事（动词短语，指在接触后很快对某人产生由衷的好感，或者指开始养成某种新的习惯、对某项新活动产生浓厚兴趣）",
+              "eg": "The young boy has taken to drawing and spends hours sketching in his notebook every evening."
+            },
+            {
+              "opt": "2",
+              "word": "taken on",
+              "zh": "承担，雇用（动词短语，指接受并承担繁重的任务、巨大的责任，或者指公司决定雇用新员工，亦可指在比赛中决定与强大的对手交锋）",
+              "eg": "She has taken on too much extra work recently and is starting to feel completely exhausted."
+            },
+            {
+              "opt": "3",
+              "word": "taken over",
+              "zh": "接管，接手（动词短语，指接替他人的工作、职位，或者指大企业强行收购、接管另一家小公司的日常经营和财务控制权）",
+              "eg": "The assistant manager will be taken over the director's duties while she is away on maternity leave."
+            },
+            {
+              "opt": "4",
+              "word": "taken after",
+              "zh": "（外貌或性格）像（动词短语，专门用来形容家庭成员或晚辈在长相、神态、脾气或行为举止上非常相像、遗传了长辈的特征）",
+              "eg": "With her musical talent and hot temper, Lily has definitely taken after her grandmother."
+            }
+          ]
+        },
+        "15": {
+          "zh": "这位演讲者言辞中带着如此坚定的信念来反对吸毒，以至于她激励了许多年轻人支持禁毒运动。",
+          "note": "‘conviction’ 意为‘坚定的信念，说服力’。‘spoke with conviction’ 是常用表达，形容演讲者对自己的观点深信不疑、因而言辞极具感染力和威信，正因如此才能“激励（inspired）”年轻人。",
+          "concept": "名词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "precision",
+              "zh": "精确，准确（名词，指测量、计算、手工工艺、语言表达或者机械运作达到了极其细致、严丝合缝、毫无一丝一毫偏差的高水平）",
+              "eg": "The medical laser cuts with extreme precision, minimizing any damage to the surrounding healthy tissue."
+            },
+            {
+              "opt": "2",
+              "word": "conviction",
+              "zh": "坚定的信念，定罪（名词，指一个人内心深处对某种道德、宗教或真理持有的不可动摇、深信不疑的信念，或法庭对罪犯的正式宣判）",
+              "eg": "He spoke with such deep conviction that everyone in the conference hall believed his words."
+            },
+            {
+              "opt": "3",
+              "word": "contention",
+              "zh": "争论，论点（名词，指持不同意见的双方之间产生的激烈争吵、不和，或者指某人在辩论中正式提出来的、试图说服大家的某种核心论点）",
+              "eg": "It is the lawyer's contention that the suspect was not even in the city when the jewelry store crime occurred."
+            },
+            {
+              "opt": "4",
+              "word": "persuasion",
+              "zh": "说服，劝说（名词，指通过晓之以理、动之以情、展示事实证据来成功改变他人原有的看法、决定，从而听从自己建议的行为或能力）",
+              "eg": "It took a lot of gentle persuasion to convince the elderly lady to visit the hospital for a checkup."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "for a moment",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "briefly",
+            "2": "hastily",
+            "3": "rapidly",
+            "4": "instantly"
+          }
+        },
+        "17": {
+          "stem_plain": "willed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "forced",
+            "2": "exerted",
+            "3": "coerced",
+            "4": "demanded"
+          }
+        },
+        "18": {
+          "stem_plain": "ward off",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rebut",
+            "2": "distract",
+            "3": "prevent",
+            "4": "interrupt"
+          }
+        },
+        "19": {
+          "stem_plain": "adjusted",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "adapted",
+            "2": "changed",
+            "3": "arranged",
+            "4": "converted"
+          }
+        },
+        "20": {
+          "stem_plain": "skated",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "glided",
+            "2": "drifted",
+            "3": "floated",
+            "4": "skimmed"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “for a moment”意为片刻、一小会儿，与“briefly（短暂地）”意思最接近。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "briefly",
+              "zh": "短暂地，简短地",
+              "eg": "He closed his books and rested his eyes briefly."
+            },
+            {
+              "opt": "2",
+              "word": "hastily",
+              "zh": "仓促地，草率地",
+              "eg": "She hastily packed her bags and rushed to the station."
+            },
+            {
+              "opt": "3",
+              "word": "rapidly",
+              "zh": "迅速地，飞快地",
+              "eg": "The river water level rose rapidly after the heavy storm."
+            },
+            {
+              "opt": "4",
+              "word": "instantly",
+              "zh": "立即，马上",
+              "eg": "The computer system responded instantly to the command."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “willed myself”指通过意志力下定决心、迫使自己去做某事，与“forced（强迫，迫使）”语境最为贴合。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "forced",
+              "zh": "强迫，迫使",
+              "eg": "He forced himself to stay awake and finish the report."
+            },
+            {
+              "opt": "2",
+              "word": "exerted",
+              "zh": "施加（影响），竭力",
+              "eg": "She exerted all her strength to push the heavy door open."
+            },
+            {
+              "opt": "3",
+              "word": "coerced",
+              "zh": "胁迫，强迫（通常指用威胁手段）",
+              "eg": "The witness was coerced into signing the false statement."
+            },
+            {
+              "opt": "4",
+              "word": "demanded",
+              "zh": "要求，索取",
+              "eg": "The customer loudly demanded a full refund for the broken toy."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — 短语“ward off”指预先阻止、防止不好的事情发生，此处指阻止消极想法进入脑海，与“prevent（防止，阻止）”意思最接近。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rebut",
+              "zh": "反驳，驳斥",
+              "eg": "The lawyer gave clear evidence to rebut the charges."
+            },
+            {
+              "opt": "2",
+              "word": "distract",
+              "zh": "转移，分散（注意力）",
+              "eg": "Don't let the noise outside distract you from your study."
+            },
+            {
+              "opt": "3",
+              "word": "prevent",
+              "zh": "防止，阻止",
+              "eg": "Regular exercise can help prevent many health problems."
+            },
+            {
+              "opt": "4",
+              "word": "interrupt",
+              "zh": "打断，中断",
+              "eg": "Please do not interrupt the speaker while he is talking."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “adjusted”指微调、调整（椅子等的位置），使其更合适，这里与“changed（改变，改动位置）”最为对应。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "adapted",
+              "zh": "使适应，改编",
+              "eg": "The new students quickly adapted to the school environment."
+            },
+            {
+              "opt": "2",
+              "word": "changed",
+              "zh": "改变，更改",
+              "eg": "He changed the layout of the furniture to get more space."
+            },
+            {
+              "opt": "3",
+              "word": "arranged",
+              "zh": "安排，排列",
+              "eg": "The flowers were neatly arranged in a beautiful glass vase."
+            },
+            {
+              "opt": "4",
+              "word": "converted",
+              "zh": "转变，转换（形式或用途）",
+              "eg": "They converted the spare bedroom into a quiet study home office."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “skated across the keys”生动地描绘了手指在琴键上快速、流畅、优美地滑过，与“glided（滑行，平滑地移动）”意思完全一致。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "glided",
+              "zh": "滑行，平滑地移动",
+              "eg": "The ice skaters glided smoothly across the frozen lake surface."
+            },
+            {
+              "opt": "2",
+              "word": "drifted",
+              "zh": "漂流，无目的地移动",
+              "eg": "The empty wooden boat drifted slowly down the calm river."
+            },
+            {
+              "opt": "3",
+              "word": "floated",
+              "zh": "漂浮，浮动",
+              "eg": "Colorful balloons floated gracefully up into the clear sky."
+            },
+            {
+              "opt": "4",
+              "word": "skimmed",
+              "zh": "掠过，擦过（表面）",
+              "eg": "The swallow skimmed the surface of the pond to catch insects."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Running a hand over my white dress, I took a step out from behind the curtains. Standing in the bright lights of the stage, I shut my eyes [Q16(for a moment)], and then opened them. I [Q17(willed)] myself to move across the stage and to [Q18(ward off)] any negative thoughts from entering my mind. I concentrated on taking graceful steps over to the big, black musical instrument.",
+          "Finally, I reached the grand piano. My hand gently touched its frame as I sat down on the stool, my beautiful white dress spreading out on it. I took a deep breath as I [Q19(adjusted)] the position of the stool. My fingers then swiftly [Q20(skated)] across the keys. They made no sound, only the sound of my fingernails tapping on the glossy keys.",
+          "I inhaled and exhaled, feeling the eyes of the audience on me."
+        ],
+        "zh": [
+          "我的手拂过白色的连衣裙，从幕布后面走出来。站在舞台明亮的灯光下，我闭上眼睛片刻，然后睁开。我迫使自己穿过舞台，阻止任何消极的想法进入脑海。我集中注意力，优雅地迈步走向那个巨大的黑色乐器。",
+          "终于，我走到了大钢琴旁。当我坐在琴凳上时，我的手轻轻抚摸着它的琴架，我美丽的白色连衣裙在琴凳上铺展开来。当我调整琴凳的位置时，我深吸了一口气。接着，我的手指在琴键上飞快地滑过。它们没有发出任何（钢琴的）声音，只有我的指甲敲击在光滑琴键上的嗒嗒声。",
+          "我吸气，吐气，感受着观众们注视着我的目光。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "动词时态与主谓一致（一般现在时被动语态）",
+          "note": "‘is determined by’ 构成一般现在时的被动语态。主语核心词是单数形式的 one's personality（一个人的个性），结合全篇客观陈述的事实，系动词选 is。",
+          "answer": "F"
+        },
+        "30": {
+          "concept": "代词（形容词性物主代词）",
+          "note": "‘its roots’，形容词性物主代词指代前面提到的无生命单数概念 ‘Such a belief’（这样一种观念），意为‘它的根源在于……’。",
+          "answer": "G"
+        },
+        "31": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘in terms of’ 是固定介词短语，意为‘在……方面’、‘就……而言’。",
+          "answer": "K"
+        },
+        "32": {
+          "concept": "介词用法（表示举例或伴随）",
+          "note": "‘hence the idiom...’ 或者是关联。查看选项，符合句意顺承推导的词是 (E) hence，意为‘因此有了“有其父必有其子”这句成语’。",
+          "answer": "E"
+        },
+        "33": {
+          "concept": "连词用法（转折关系）",
+          "note": "‘However, in recent years...’ 位于句首并有逗号隔开，作副词表示与前文“基因决定论”的轻微转折，故选 yet（然而）。",
+          "answer": "Q"
+        },
+        "34": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘interact with’ 是固定短语，意为‘与……互动/交往’，此处 with 位于定语从句末尾。",
+          "answer": "P"
+        },
+        "35": {
+          "concept": "关系从句（定语从句关系代词）",
+          "note": "‘the people whom he spends most of his time with...’ 引导限制性定语从句，指代先行词 people（人们），在从句中作介词 with 的宾语，故选 whom。",
+          "answer": "N"
+        },
+        "36": {
+          "concept": "动词时态与主谓一致（现在完成时存在句）",
+          "note": "‘There have been examples...’ 构成 There be 句型的现在完成时结构，主语是复数名词 examples（例子），故助动词选 have。",
+          "answer": "D"
+        },
+        "37": {
+          "concept": "限定词/数量词（修饰不可数名词）",
+          "note": "‘after much effort’，份量修饰词 much 修饰不可数名词 effort（努力），意为‘在付出诸多努力之后’。",
+          "answer": "J"
+        },
+        "38": {
+          "concept": "介词搭配（固定搭配）",
+          "note": "‘at birth’ 是固定短语，意为‘出生时’、‘天生’。",
+          "answer": "B"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "are",
+          "B": "at",
+          "C": "has",
+          "D": "have",
+          "E": "hence",
+          "F": "is",
+          "G": "its",
+          "H": "many",
+          "J": "much",
+          "K": "of",
+          "L": "their",
+          "M": "which",
+          "N": "whom",
+          "P": "with",
+          "Q": "yet"
+        },
+        "cloze": [
+          "It has always been a widely held notion that a person's character is set the moment he is born. Some believe that one's personality [Q29] determined by his own genes though small changes can still be made to his character. Such a belief has [Q30] roots in scientific reasoning. Children are usually similar to their parents in terms [Q31] temperament and behaviour, [Q32] the idiom \"a chip off the old block\".",
+          "[Q33], in recent years, research has shown that it is mainly the environment that shapes one's character and mindset. For most people, their environment comprises the people they interact [Q34]. For a child, the people [Q35] he spends most of his time with are his family and friends. The presence of good role models is thus important in shaping one's character as children will often copy or imitate the body language and behaviour of the people around them. There [Q36] been examples of people learning the wrong things in their younger days, but totally transformed after [Q37] effort.",
+          "Often, when people go through rough periods of their lives, they have to change how they view their situations, and adopt a different mindset to solve their problems. Therefore, one's character may not necessarily be set [Q38] birth. It can be taught and changed into something totally different through the shaping of one's environment."
+        ],
+        "zh": [
+          "人们普遍认为，一个人的性格在出生那一刻就已注定。有些人认为，一个人的个性是由他自己的基因决定的，尽管他的性格仍然可以发生微小的改变。这种观念在科学推理中是有其根源的。孩子们在性格和行为方面通常与父母相似，因此有了“有其父必有其子（像一块老木头上掉下来的碎屑）”这句成语。",
+          "然而，近年来的研究表明，主要是环境塑造了一个人的性格和思维方式。对大多数人来说，他们的环境包括他们与之互动的人。对于一个孩子来说，他花费大部分时间陪伴的人就是他的家人和朋友。因此，优秀的榜样在塑造一个人的性格中至关重要，因为孩子们往往会模仿周围人的肢体语言和行为。已经有很多这样的例子：有些人在年轻时学了坏习惯，但在付出诸多努力后彻底脱胎换骨。",
+          "通常，当人们经历人生的艰难时期时，他们必须改变看待自身处境的方式，并采取不同的思维方式来解决问题。因此，一个人的性格不一定在出生时就固定了。通过环境的塑造，它是可以被引导并改变成完全不同的样子的。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 celebrations（名词复数，意为庆祝活动）。",
+          "answer": "celebrations"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 separated（动词的过去分词作表语，意为被隔开）。",
+          "answer": "separated"
+        },
+        "41": {
+          "concept": "现在分词 - Present Participles",
+          "note": "非谓语动词：此处表示主动进行的过去动作“正在服刑的囚犯”，应用现在分词形式 serving 作后置定语，而非过去式 served。",
+          "answer": "serving"
+        },
+        "42": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：介词短语 drug-related 后面需接名词形式 offence（罪行），而非动词 offend。",
+          "answer": "offence"
+        },
+        "43": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：表示“有生以来第一次”，固定习语为 for the first time，而非 in the first time。",
+          "answer": "for"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 special（形容词，意为特别的）。",
+          "answer": "special"
+        },
+        "45": {
+          "concept": "单词拼写与介词搭配 - Spelling and Prepositions",
+          "note": "拼写与介词搭配错误：正确拼写为 reconcile，且固定搭配为与……和解、重建关系 reconcile with，原卷中拼写与标点混杂，需修正为 reconcile 动词原形。",
+          "answer": "reconcile"
+        },
+        "46": {
+          "concept": "副词 - Adverbs",
+          "note": "词性错误：修饰动词 run programmes，意为“定期举办”，应用副词形式 regularly，而非形容词 regular。",
+          "answer": "regularly"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 communicate（动词，意为沟通）。",
+          "answer": "communicate"
+        },
+        "48": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：在系动词 is 后面作表语，表示“有必要的”，应用形容词形式 necessary，而非名词 necessity。",
+          "answer": "necessary"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 receive（动词，意为接收、得到）。",
+          "answer": "receive"
+        },
+        "50": {
+          "concept": "动名词 - Gerunds",
+          "note": "动名词作介词宾语：在介词 of 后面，表示“重新犯罪的可能性”，应用动名词形式 committing，而非动词原形 commit。",
+          "answer": "committing"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Twenty-four inmates at Tanah Merah Prison were allowed an open visit where they could hug and hold their loved ones, especially their children. This was part of their Children's Day [Q39(celabraetions)] in 2017. Inmates are usually [Q40(seperaeted)] from visitors by a glass panel. One 40-year-old inmate, [Q41(served)] a seven-year sentence for a drug-related [Q42(offend)], was able to touch his three-year-old son [Q43(in)] the first time. This [Q44(spheckal)] day was the culmination of a family care programme to help inmates and their families build much stronger bonds. The aim was to enable the inmates to reconnect and [Q45(rekonsile with:)] their families.",
+          "Mendaki and the Singapore Children's Society also run programmes [Q46(regular)] to help inmates build stronger ties with their families. They are taught how to [Q47(comunikate)], relate and express their love for their loved ones. Such instruction is [Q48(neccessity)] as ties are often strained between inmates and their families. Inmates' children also [Q49(resieve)] help from social workers to cope with the family situation.",
+          "When inmates connect with their families, there is a lower chance of them [Q50(commit)] crimes again. After all, humans thrive when they know they are loved."
+        ],
+        "zh": [
+          "丹那美拉监狱的24名囚犯被允许进行一次开放式探监，期间他们可以拥抱并搂抱自己的至亲，尤其是他们的孩子们。这是他们2017年儿童节庆祝活动的一部分。平时，囚犯通常由一块玻璃板与访客隔开。一名因毒品相关罪行而正在服刑七年的40岁囚犯，有生以来第一次能够触摸到他三岁的儿子。这个特别的日子是一项家庭关怀计划的成果，该计划旨在帮助囚犯及其家人建立更紧密的纽带。其目的在于让囚犯能够与家人重新取得联系并重修旧好。",
+          "回教社会发展理事会（Mendaki）和新加坡儿童会也定期举办各项计划，以帮助囚犯与家人建立更牢固的纽带。他们被教授如何进行沟通、维系关系以及向挚爱表达内心的爱意。这样的指导是非常有必要的，因为囚犯与家人之间的关系往往比较紧张。囚犯的子女也会得到社工的帮助，以应对家庭状况。",
+          "当囚犯与家人建立起深厚的联系时，他们再次犯罪的几率就会降低。毕竟，当人类知道自己被爱着的时候，才能更好地生活与成长。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "固定搭配 / 动词短语",
+          "answer": "wake",
+          "note": "与后文的‘up’搭配组成动词短语‘wake up’，意为‘醒来’，对应前文的‘put to sleep（麻醉入睡）’。"
+        },
+        "52": {
+          "concept": "时间连词",
+          "answer": "before",
+          "note": "引导时间状语从句，表示在麻醉剂被发明‘之前’，由于极度疼痛，大多数做手术的人可能会丧命。"
+        },
+        "53": {
+          "concept": "动词 (过去时)",
+          "answer": "caused / triggered / induced",
+          "note": "叙述过去发生的客观事实使用过去时。极度的疼痛经常‘引起/导致’心脏病发作。"
+        },
+        "54": {
+          "concept": "固定搭配 / 名词",
+          "answer": "tooth",
+          "note": "‘tooth decay’为固定搭配，意为‘蛀牙/龋齿’。"
+        },
+        "55": {
+          "concept": "情态动词搭配 / 动词原形",
+          "answer": "bear / stand / endure / tolerate",
+          "note": "位于情态动词‘could no longer’后，填入动词原形，表示‘无法再忍受’疼痛。"
+        },
+        "56": {
+          "concept": "动词不定式 / 动词原形",
+          "answer": "extract / remove / pull",
+          "note": "位于‘had to’结构后，使用动词原形表示牙医不得不‘拔掉/移除’这颗牙齿。"
+        },
+        "57": {
+          "concept": "固定搭配 / 副词",
+          "answer": "often",
+          "note": "‘more often than not’为固定短语结构，意为‘往往、多半、通常’。"
+        },
+        "58": {
+          "concept": "情态动词搭配 / 动词原形",
+          "answer": "lose",
+          "note": "位于情态动词‘would’后，接动词原形‘lose’与‘senses’构成固定短语‘lose their senses’，意为‘失去知觉/失去理智’。"
+        },
+        "59": {
+          "concept": "形容词 (过去分词作定语)",
+          "answer": "broken / fractured",
+          "note": "修饰后面的名词‘bone’，与后面的‘bad gash（严重裂口）’并列，意为‘断骨/骨折’。"
+        },
+        "60": {
+          "concept": "上下文语境名词",
+          "answer": "pain",
+          "note": "结合前文‘did not seem to feel any...’，指因为吸入了乙醚，他们似乎感觉不到任何‘疼痛’。"
+        },
+        "61": {
+          "concept": "宾语从句引导词 / 连词",
+          "answer": "if / whether",
+          "note": "引导动词‘wondered’后的宾语从句，意为‘他纳闷/想知道乙醚是否能够消除病人的痛苦’。"
+        },
+        "62": {
+          "concept": "动词 (过去时)",
+          "answer": "relented / agreed / consented",
+          "note": "全篇为过去时叙事，表示直到朗医生向其解释吸入乙醚的好处和建议后，这位男士才‘动摇/妥协/同意（relented）’接受手术。"
+        },
+        "63": {
+          "concept": "系动词 (过去时复数)",
+          "answer": "were",
+          "note": "主语为‘Both the patient and the doctor（病人和医生两人）’，属于复数概念，因此过去时系动词使用‘were’。"
+        },
+        "64": {
+          "concept": "时间介词",
+          "answer": "in",
+          "note": "在具体的年份（1849年）前面，习惯使用介词‘in’。"
+        },
+        "65": {
+          "concept": "介词",
+          "answer": "without",
+          "note": "结合后文‘it’以及语境，指在朗医生的发现与发表文章之间的这段时间，成千上万的病人只能在‘没有（without）’吸入乙醚的情况下忍受重大手术。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Anyone who needs an operation will know that you have to be put to sleep before the operation begins. When you [Q51] up, it is over. The substance that lets you sleep through the doctor's cutting, probing, and sewing is known as anesthetic.",
+          "[Q52] anesthetic was discovered, most people who needed an operation for an ailment could die. This was because the pain from cutting the person open while he or she was awake often [Q53] a heart attack. For example, people in the past would walk around with a mouth full of [Q54] decay and they only went to a dentist if they could no longer [Q55] the pain. The dentist then had to [Q56] the tooth without any pain reliever and the person would be in agony. Sometimes, doctors tried to dull their patients' pain by pouring alcohol down their throats so that the drunken patient would fall asleep. But more [Q57] than not, the alcohol did not help much.",
+          "A substance called ether was the first anesthetic. It was observed that when people sniffed ether, they would [Q58] their senses and stumble around. If they had sustained any type of serious injury, like a [Q59] bone or a bad gash, they did not seem to feel any [Q60] because they had sniffed ether. When a doctor, Dr Crawford Long, saw this, he wondered [Q61] ether could end the pain of his patients. Dr Long told a patient, who had a tumour at the back of his neck, that he needed to have an operation to remove it. Upon hearing this, the man refused. He only [Q62] when Dr Long suggested using ether and explained the benefits of using it. The man sat on a chair and breathed a towel soaked in ether. Dr Long cut away the tumour while the man slept. Both the patient and the doctor [Q63] thrilled that it worked.",
+          "Although Dr Long used ether on his first patient in 1842, he only published his discovery [Q64] 1849. In the meantime, thousands of patients had endured many major surgeries [Q65] it. During the years between Long's discovery and when he wrote his article, other doctors had discovered ether too. Thus, it is impossible to determine who should get the credit for one of the most important discoveries ever made."
+        ],
+        "zh": [
+          "任何需要动手术的人都会知道，在手术开始之前，你必须被施以麻醉入睡。当你醒来时，手术就已经结束了。这种能让你在医生的切开、探查和缝合过程中保持睡眠的物质被称为麻醉剂。",
+          "在麻醉剂被发明之前，大多数因疾病而需要动手术的人都可能会丧命。这是因为在人保持清醒时将其切开的剧烈疼痛常常会引发心脏病发作。例如，过去的人们会带着满嘴的蛀牙走来走去，只有在实在无法忍受疼痛时才会去看牙医。然后，牙医必须在没有任何止痛药的情况下拔掉牙齿，让人痛苦万分。有时，医生会试图通过往病人的喉咙里灌酒来减轻痛苦，以便喝醉的病人能睡着。但往往这种酒并不能起到太大的帮助。",
+          "一种名为乙醚的物质是第一种麻醉剂。人们观察到，当人们吸入乙醚时，他们会失去知觉并步履蹒跚。如果他们受了任何类型的重伤，比如断骨或严重的严重裂口，他们似乎也不会感到任何疼痛，因为他们吸入了乙醚。当一位名叫克劳福德·朗的医生看到这一幕时，他纳闷乙醚是否可以结束他病人的痛苦。朗医生告诉一位脖子后面长了肿瘤的病人，他需要接受手术将其切除。听到这话，男子拒绝了。直到朗医生建议使用乙醚并解释了使用它的好处时，他才动摇同意了。该男子坐在一张椅子上，呼吸着一块浸透了乙醚的毛巾。当该男子入睡后，朗医生切除了肿瘤。病人和医生都对它的成功感到非常激动。",
+          "尽管朗医生在1842年对他的第一位病人使用了乙醚，但他直到1849年才发表了他的发现。在此期间，成千上万的病人不得不在没有它的情况下忍受了许多重大手术。在朗医生的发现和他撰写论文之间的那些年里，其他医生也发现了乙醚。因此，无法确定谁应该为这项有史以来最重要发现之一获得荣誉。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

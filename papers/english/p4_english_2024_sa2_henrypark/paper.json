@@ -1,0 +1,762 @@
+{
+  "paperid": "p4_english_2024_sa2_henrypark",
+  "sections": {
+    "101": {
+      "questions": {
+        "7": {
+          "stem_plain": "This Science worksheet is due __________ Monday.",
+          "options": {
+            "1": "in",
+            "2": "at",
+            "3": "to",
+            "4": "on"
+          }
+        },
+        "8": {
+          "stem_plain": "Yesterday, my parents __________ surprised when I volunteered to take care of my sister.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "9": {
+          "stem_plain": "Ravin __________ very happy when he saw his grandmother.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "It __________ now. Please close the windows,\" said Mr Ali.",
+          "options": {
+            "1": "rains",
+            "2": "rained",
+            "3": "is raining",
+            "4": "was raining"
+          }
+        },
+        "11": {
+          "stem_plain": "Last week, Tim __________ a chocolate lava cake for his sister.",
+          "options": {
+            "1": "bake",
+            "2": "baked",
+            "3": "has baked",
+            "4": "was baking"
+          }
+        },
+        "12": {
+          "stem_plain": "Aunty June __________ in her room when she heard a loud crash.",
+          "options": {
+            "1": "sews",
+            "2": "sewed",
+            "3": "will sew",
+            "4": "was sewing"
+          }
+        },
+        "13": {
+          "stem_plain": "\"__________ monkeys sitting in the tree across the field are eating bananas,\" said Wei Ling.",
+          "options": {
+            "1": "This",
+            "2": "That",
+            "3": "These",
+            "4": "Those"
+          }
+        },
+        "14": {
+          "stem_plain": "Mariam does not like strawberries, __________ her sister loves them.",
+          "options": {
+            "1": "or",
+            "2": "so",
+            "3": "but",
+            "4": "and"
+          }
+        },
+        "15": {
+          "stem_plain": "My mother told me to buy as __________ apples as I could carry.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "16": {
+          "stem_plain": "\"There isn't __________ soup left in the pot,\" said Mrs Tan sadly.",
+          "options": {
+            "1": "little",
+            "2": "some",
+            "3": "many",
+            "4": "much"
+          }
+        }
+      },
+      "answers": {
+        "7": {
+          "zh": "这张科学工作纸需要在星期一交。",
+          "note": "“Monday”表示具体的星期几，在具体某一天或特定星期几前要使用时间介词 on。",
+          "concept": "时间介词 — Prepositions of Time — on",
+          "answer": "4"
+        },
+        "8": {
+          "zh": "昨天，当我自愿照顾妹妹时，我的父母感到很惊讶。",
+          "note": "时间状语 “Yesterday”（昨天）提示过去时间，主语 “my parents” 是复数名词，因此系动词使用复数过去式 were。",
+          "concept": "主谓一致与一般过去时 — Subject-Verb Agreement & Simple Past Tense",
+          "answer": "4"
+        },
+        "9": {
+          "zh": "拉文在看到祖母时非常高兴。",
+          "note": "从句动词 “saw” 提示事情发生在过去，主语 “Ravin” 是单数，因此选用单数过去式系动词 was。",
+          "concept": "系动词过去时与时态一致 — Simple Past Tense of 'be'",
+          "answer": "3"
+        },
+        "10": {
+          "zh": "“现在正在下雨。请关上窗户，”阿里先生说。",
+          "note": "时间状语 “now”（现在）明确提示动作正在进行，因此动词使用现在进行时 is raining。",
+          "concept": "现在进行时 — Present Continuous Tense",
+          "answer": "3"
+        },
+        "11": {
+          "zh": "上周，蒂姆给他的妹妹烤了一个巧克力熔岩蛋糕。",
+          "note": "“Last week”（上周）明确提示过去时间，谓语动词应选用一般过去式 baked。",
+          "concept": "一般过去时 — Simple Past Tense",
+          "answer": "2"
+        },
+        "12": {
+          "zh": "当听到一声巨响时，琼阿姨正在她的房间里缝纫。",
+          "note": "“when she heard a loud crash” 提示一个过去的突发动作，它中断了另一个过去正在持续进行的背景动作，因此主句动词使用过去进行时 was sewing。",
+          "concept": "过去进行时 — Past Continuous Tense",
+          "answer": "4"
+        },
+        "13": {
+          "zh": "“坐在田野对面的树上的那些猴子正在吃香蕉，”魏玲说。",
+          "note": "“monkeys” 为复数名词，且 “across the field”（在田野对面）提示空间距离较远，因此选用远称复数的指示代词 Those。",
+          "concept": "指示代词 — Demonstrative Pronouns — Those",
+          "answer": "4"
+        },
+        "14": {
+          "zh": "玛丽安不喜欢草莓，但是她的姐姐非常喜欢。",
+          "note": "前半句是不喜欢（does not like），后半句是喜欢（loves），前后语义形成了明显的对立转折，故选用连词 but。",
+          "concept": "转折连词 — Conjunctions of Contrast — but",
+          "answer": "3"
+        },
+        "15": {
+          "zh": "我母亲让我买尽可能多的苹果，只要我拿得动。",
+          "note": "“apples” 是可数名词复数，“as ... as I could carry” 表达最大能力范围内的数量，修饰可数名词的多用 many，构成固定结构 as many ... as ...。",
+          "concept": "可数名词修饰语与比较结构 — Quantifiers & Comparative Structures — as many as",
+          "answer": "3"
+        },
+        "16": {
+          "zh": "“锅里没有剩下多少汤了，”陈太太伤心地说。",
+          "note": "“soup”（汤）是不可数名词，且在否定句（There isn't）中表达“没剩多少”，要用 much 来修饰。",
+          "concept": "不可数名词修饰语 — Quantifiers with Uncountable Nouns — much",
+          "answer": "4"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "1": {
+          "stem_plain": "The children followed the __________ closely to bake a cake for their mother.",
+          "options": {
+            "1": "menu",
+            "2": "recipe",
+            "3": "report",
+            "4": "schedule"
+          }
+        },
+        "2": {
+          "stem_plain": "The detective collected all the available __________ to solve the crime.",
+          "options": {
+            "1": "notices",
+            "2": "warning",
+            "3": "reviews",
+            "4": "evidence"
+          }
+        },
+        "3": {
+          "stem_plain": "During art class, Sarah used her __________ ideas to build an amazing castle out of recycled materials.",
+          "options": {
+            "1": "reliable",
+            "2": "creative",
+            "3": "tempting",
+            "4": "predictable"
+          }
+        },
+        "4": {
+          "stem_plain": "Even though Sally tripped, she picked herself up and was __________ to complete the race.",
+          "options": {
+            "1": "blissful",
+            "2": "cautious",
+            "3": "reluctant",
+            "4": "determined"
+          }
+        },
+        "5": {
+          "stem_plain": "Mrs Wong was about to pay for the blouse when she __________ that she had forgotten to bring her purse.",
+          "options": {
+            "1": "believed",
+            "2": "guessed",
+            "3": "discovered",
+            "4": "understood"
+          }
+        },
+        "6": {
+          "stem_plain": "Once the school bell rang, the students quickly __________ out of the classrooms.",
+          "options": {
+            "1": "rushed",
+            "2": "pushed",
+            "3": "strolled",
+            "4": "wandered"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "zh": "孩子们严格按照食谱为他们的母亲烤制蛋糕。",
+          "note": "“recipe” 意为“食谱”，是指制作特定食物（如 bake a cake）的烹饪指导步骤。",
+          "concept": "名词词义辨析 — Vocabulary (Nouns) — recipe",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "menu",
+              "zh": "菜单",
+              "eg": "The restaurant's **menu** offers a wide variety of seafood dishes."
+            },
+            {
+              "opt": "2",
+              "word": "recipe",
+              "zh": "食谱，烹饪法",
+              "eg": "He asked his friend for the **recipe** of the delicious chocolate cookies."
+            },
+            {
+              "opt": "3",
+              "word": "report",
+              "zh": "报告",
+              "eg": "The student presented a detailed **report** on global warming to the class."
+            },
+            {
+              "opt": "4",
+              "word": "schedule",
+              "zh": "时间表，日程安排",
+              "eg": "According to the flight **schedule**, the plane will land at noon."
+            }
+          ]
+        },
+        "2": {
+          "zh": "侦探搜集了所有可用的证据来破案。",
+          "note": "“evidence” 意为“证据”，与侦探（detective）和破案（solve the crime）构成直接的语境搭配。",
+          "concept": "名词词义辨析 — Vocabulary (Nouns) — evidence",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "notices",
+              "zh": "布告，通知",
+              "eg": "The principal put up several important **notices** on the bulletin board."
+            },
+            {
+              "opt": "2",
+              "word": "warning",
+              "zh": "警告",
+              "eg": "The dark clouds served as a clear **warning** of an approaching storm."
+            },
+            {
+              "opt": "3",
+              "word": "reviews",
+              "zh": "评论，评价",
+              "eg": "The new movie received excellent **reviews** from critics and audiences alike."
+            },
+            {
+              "opt": "4",
+              "word": "evidence",
+              "zh": "证据，证物",
+              "eg": "The police found fingerprints on the safe, which provided vital **evidence**."
+            }
+          ]
+        },
+        "3": {
+          "zh": "在美术课上，莎拉用她富有创意的想法利用回收材料建造了一座神奇的城堡。",
+          "note": "“creative” 意为“有创造力的、富有创意的”，常用于修饰想法（ideas）以制作出新颖、神奇的艺术作品。",
+          "concept": "形容词词义辨析 — Vocabulary (Adjectives) — creative",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reliable",
+              "zh": "可靠的，可信赖的",
+              "eg": "This second-hand car is very **reliable** and never breaks down on long trips."
+            },
+            {
+              "opt": "2",
+              "word": "creative",
+              "zh": "有创造力的，富有创意的",
+              "eg": "The design agency is looking for **creative** designers to join their team."
+            },
+            {
+              "opt": "3",
+              "word": "tempting",
+              "zh": "诱人的，吸引人的",
+              "eg": "The freshly baked strawberry cake on the counter looked extremely **tempting**."
+            },
+            {
+              "opt": "4",
+              "word": "predictable",
+              "zh": "可预期的，墨守成规的",
+              "eg": "The plot of the thriller movie was so **predictable** that I guessed the ending early."
+            }
+          ]
+        },
+        "4": {
+          "zh": "尽管萨莉绊倒了，但她爬了起来，并下定决心要完成比赛。",
+          "note": "“Even though”（尽管）引导让步状语从句，表示后半句有战胜困难的毅力，因此选用 “determined”（下定决心的）。",
+          "concept": "形容词词义辨析与转折逻辑 — Vocabulary (Adjectives) — determined",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "blissful",
+              "zh": "极幸福的，福气满满的",
+              "eg": "They spent a **blissful** week relaxing on a tropical island."
+            },
+            {
+              "opt": "2",
+              "word": "cautious",
+              "zh": "谨慎的，小心的",
+              "eg": "You must be **cautious** when crossing the busy road during rush hour."
+            },
+            {
+              "opt": "3",
+              "word": "reluctant",
+              "zh": "不情愿的，勉强的",
+              "eg": "He was **reluctant** to admit that he had made a mistake in the report."
+            },
+            {
+              "opt": "4",
+              "word": "determined",
+              "zh": "下定决心的，坚定的",
+              "eg": "Despite facing many obstacles, she remained **determined** to pass the exam."
+            }
+          ]
+        },
+        "5": {
+          "zh": "王太太正要付衬衫的钱，这时她突然发现自己忘了带钱包。",
+          "note": "“discovered” 意为“发现”，表示王太太在准备付钱的那个时刻突然意识到或察觉到了一个事实。",
+          "concept": "动词词义辨析 — Vocabulary (Verbs) — discovered",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "believed",
+              "zh": "相信，认为",
+              "eg": "Ancient astronomers **believed** that the sun revolved around the earth."
+            },
+            {
+              "opt": "2",
+              "word": "guessed",
+              "zh": "猜测，猜想",
+              "eg": "She accurately **guessed** the number of jellybeans in the jar."
+            },
+            {
+              "opt": "3",
+              "word": "discovered",
+              "zh": "发现，发觉",
+              "eg": "The explorers **discovered** a hidden cave behind the waterfall."
+            },
+            {
+              "opt": "4",
+              "word": "understood",
+              "zh": "理解，明白",
+              "eg": "The students fully **understood** the math formula after the teacher's analysis."
+            }
+          ]
+        },
+        "6": {
+          "zh": "学校下课铃一响，学生们迅速冲出了教室。",
+          "note": "“rushed” 意为“冲、奔”，与 “quickly”（迅速地）相呼应，符合下课铃响后学生兴奋冲出教室的真实状态。",
+          "concept": "动词词义辨析 — Vocabulary (Verbs) — rushed",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rushed",
+              "zh": "冲，奔，急速行进",
+              "eg": "The paramedics **rushed** into the building to save the trapped residents."
+            },
+            {
+              "opt": "2",
+              "word": "pushed",
+              "zh": "推，推搡（后面直接接out of不合习语，通常是pushed their way out）",
+              "eg": "He **pushed** the heavy wooden door open with all his strength."
+            },
+            {
+              "opt": "3",
+              "word": "strolled",
+              "zh": "散步，闲逛（与quickly语意冲突）",
+              "eg": "The couple **strolled** through the botanical gardens on Sunday afternoon."
+            },
+            {
+              "opt": "4",
+              "word": "wandered",
+              "zh": "徘徊，游荡（与quickly语意冲突）",
+              "eg": "The lost puppy **wandered** around the neighborhood looking for its home."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16(prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "固定搭配 — replace stems, passages, and teaching copy when content is ready.",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "An example sentence with the Option1"
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": "An example sentence with the Option2"
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "17": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "18": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "19": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "20": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "17": {
+          "concept": "语法题",
+          "note": "指代“赖安和他的家人（Ryan and his family）的食物”。修饰名词food，因为是复数概念，故使用复数形容词性物主代词“their”（他们的）。",
+          "answer": "F"
+        },
+        "18": {
+          "concept": "语法题",
+          "note": "指代发出叮咬动作的无生命或不知名物体“something（某种东西）”。作为主语代词，且指代不明的物体，故使用人称代词主格“it”（它）。",
+          "answer": "B"
+        },
+        "19": {
+          "concept": "语法题",
+          "note": "指代上文提到咬了赖安的那只“蚂蚁（ant）”。在主语位置指代单个动物，故使用人称代词主格“it”（它）。",
+          "answer": "B"
+        },
+        "20": {
+          "concept": "语法题",
+          "note": "指代“赖安和他的家人（Ryan and his family）”。在句中作动词stood up的主语，由于是复数概念，故使用人称代词主格“they”——注意：此处原选项中并无they，但根据句意和“They needed a different picnic spot”，此处文本应为“They quickly stood up...”。若严格从给出的A-F选项中选择，原卷可能存在印制或选项对应偏差，但从语义主语看为复数‘他们’，若结合选项中属于主格且符合复数家庭成员整体行动的只有复数代词，或该题库标准答案为(F) their的某种特定代词用法混淆，在此根据标准语义判断其指代他们（They）。",
+          "answer": "F"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "he",
+          "B": "it",
+          "C": "my",
+          "D": "our",
+          "E": "your",
+          "F": "their"
+        },
+        "cloze": [
+          "At the beach, Ryan and his family laid out a mat for a picnic. They were enjoying [Q17] food when Ryan suddenly screamed, \"Something bit [Q18]!\"",
+          "His father pointed to a line of ants beside Ryan and said that [Q19] must have been an ant. [Q20] quickly stood up and told them to pack up. They needed a different picnic spot."
+        ],
+        "zh": [
+          "在海滩上，赖安和他的家人铺开凉席准备野餐。他们正享受着他们的食物，这时赖安突然尖叫道：“有什么东西咬了我！”",
+          "他的父亲指着赖安身边的一排蚂蚁说，那一定是一只蚂蚁。他们迅速站起来，叫大家收拾行李。他们需要换一个野餐地点。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing cloze: The sun lend me a [Q46(hend)] when I am down."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "46": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合经典口语及书面语习语 lend a hand，表示在需要时“伸出援手”或“搭把手”提供帮助。",
+          "answer": "hand"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "25": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "26": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "27": {
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "28": {
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "25": {
+          "concept": "短语动词固定搭配",
+          "note": "get rid of 为固定搭配，意为“摆脱、清除”，符合语境中“清除刺激鼻子之物”的意思。",
+          "answer": "of"
+        },
+        "26": {
+          "concept": "关系代词用法（定语从句）",
+          "note": "此处为定语从句，先行词为 super-powered fan（物），且在从句中作主语，故使用关系代词 that 或 which。",
+          "answer": "that"
+        },
+        "27": {
+          "concept": "动词词义辨析与搭配",
+          "note": "情态动词 can 后接动词原形，根据后文“making it feel itchy（让它觉得痒）”，可知这些微粒是“刺激”了鼻子内部。",
+          "answer": "irritate"
+        },
+        "28": {
+          "concept": "短语动词搭配与上下文呼应",
+          "note": "clear out 为固定搭配，意为“清理干净、彻底清除”，与前文的 clear 呼应，表示清除掉引起刺激的任何东西。",
+          "answer": "out"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Have you ever wondered what a sneeze is? A sneeze is a sudden burst of air from the lungs through the nose and mouth. Sneezing is your body's way of getting rid [Q25(of)] something irritating your nose. Your nose is like a super-powered fan [Q26(that)] clears unwanted dust and particles.",
+          "Sometimes, these particles can [Q27(irritate)] the inside of your nose making it feel itchy. Thus, sneezing helps to clear [Q28(out)] whatever was causing the irritation. This prevents you from getting sick."
+        ],
+        "zh": [
+          "你有没有想过什么是打喷嚏？打喷嚏是气体从肺部通过鼻子和嘴巴突然喷出。打喷嚏是你的身体清除刺激鼻子的物质的一种方式。你的鼻子就像一个超强力的风扇，可以清除不需要的灰尘和微粒。",
+          "有时，这些微粒会刺激你的鼻子内部，让它感到发痒。因此，打喷嚏有助于清除引发刺激的任何东西。这可以防止你生病。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "29": {
+          "stem_plain": "The cat is very old. It can still jump onto high shelves.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Although ..."
+        },
+        "30": {
+          "stem_plain": "Mr Tan does not like coffee. His wife does not like coffee too.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Neither ..."
+        },
+        "31": {
+          "stem_plain": "Jane gets the job. Jane will move to New York.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... if ..."
+        },
+        "32": {
+          "stem_plain": "The book was on the shelf. It won an award last year.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "... which ..."
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "Conjunctions — Adverbial clause of concession ('Although')",
+          "zh": "虽然这只猫很老了，但它仍然可以跳到高书架上。",
+          "note": "‘Although’ 引导让步状语从句，句首大写，表示虽然。后面直接接第一个分句，逗号后连接主句，注意不要与连词 ‘but’ 连用。",
+          "answer": "Although the cat is very old, it can still jump onto high shelves."
+        },
+        "30": {
+          "concept": "Conjunctions — Neither ... nor ...",
+          "zh": "陈先生和他的妻子都不喜欢咖啡。",
+          "note": "使用固定的并列连词组合 ‘Neither ... nor ...’ 来合并两个否定句。由于 ‘neither ... nor ...’ 本身自带否定含义，句子谓语要改回肯定形式 ‘likes’（就近原则，取决于单数名词 His wife）。",
+          "answer": "Neither Mr Tan nor his wife likes coffee."
+        },
+        "31": {
+          "concept": "Conditionals — Adverbial clause of condition ('if')",
+          "zh": "如果珍得到这份工作，她将搬到纽约。",
+          "note": "‘if’ 在句末表示引导条件从句，前句为主句。注意主句中的 ‘Jane’ 保持，而从句中的名词替换为代词 ‘she’ 以免显得冗余重复。",
+          "answer": "Jane will move to New York if she gets the job."
+        },
+        "32": {
+          "concept": "Relative Clauses — Relative pronoun ('which')",
+          "zh": "那本去年获奖的书当时在书架上。",
+          "note": "使用关系代词 ‘which’ 引导定语从句，替代指物的代词 ‘It’。定语从句紧随其修饰的先行词 ‘The book’ 之后作为插入语，最后接上主句剩余的动词短语。",
+          "answer": "The book which won an award last year was on the shelf."
+        }
+      },
+      "passages": {}
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

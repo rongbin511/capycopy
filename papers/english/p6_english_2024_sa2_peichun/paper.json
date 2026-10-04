@@ -1,0 +1,1611 @@
+{
+  "paperid": "p6_english_2024_sa2_peichun",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "She's been quite busy with her new job, ________ ?",
+          "options": {
+            "1": "is she",
+            "2": "has she",
+            "3": "isn't she",
+            "4": "hasn't she"
+          }
+        },
+        "2": {
+          "stem_plain": "The popular singer, ________ the crowd is waiting for, is nowhere to be found.",
+          "options": {
+            "1": "who",
+            "2": "whom",
+            "3": "which",
+            "4": "whose"
+          }
+        },
+        "3": {
+          "stem_plain": "\"Please let me know ________ your teacher express concerns about your behaviour in class,\" said my mother.",
+          "options": {
+            "1": "can",
+            "2": "shall",
+            "3": "could",
+            "4": "should"
+          }
+        },
+        "4": {
+          "stem_plain": "Neither my parents nor my brother ________ to attend the prize presentation ceremony tomorrow.",
+          "options": {
+            "1": "wish",
+            "2": "wishes",
+            "3": "wished",
+            "4": "is wishing"
+          }
+        },
+        "5": {
+          "stem_plain": "Even though the bus was late, I reached home ________ time to watch my favourite drama.",
+          "options": {
+            "1": "at",
+            "2": "in",
+            "3": "on",
+            "4": "over"
+          }
+        },
+        "6": {
+          "stem_plain": "With so ________ homework assigned over the weekend, Jun Hui barely had time to spend with his family.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "7": {
+          "stem_plain": "Yesterday, Mrs Zheng observed someone ________ the building with a mysterious package.",
+          "options": {
+            "1": "left",
+            "2": "leave",
+            "3": "leaves",
+            "4": "was leaving"
+          }
+        },
+        "8": {
+          "stem_plain": "________ the noise in the crowded market, Rashid spotted a familiar face.",
+          "options": {
+            "1": "Amid",
+            "2": "Prior to",
+            "3": "Owing to",
+            "4": "Other than"
+          }
+        },
+        "9": {
+          "stem_plain": "With no help from the government in the past, the poor often ________ hungry and had little to eat.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "Having finished her homework and ________ her dinner, she sat down to enjoy her favourite video game.",
+          "options": {
+            "1": "take",
+            "2": "took",
+            "3": "takes",
+            "4": "taken"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "反意疑问句 — Question tag (present perfect)",
+          "zh": "她最近因为新工作一直很忙，是吧？",
+          "note": "<em>'s been</em> = <em>has been</em>（现在完成进行时态的省略），陈述句为肯定，反意疑问句用否定 <em>hasn't</em>。",
+          "answer": "4"
+        },
+        "2": {
+          "concept": "关系词 — Relative pronoun (object position)",
+          "zh": "人群正在等候的那位人气歌手，到处都找不到。",
+          "note": "<em>whom</em> 引导限定性关系从句修饰 singer；空格作介词 <em>for</em> 的宾语，需要宾格关系代词 <em>whom</em>。",
+          "answer": "2"
+        },
+        "3": {
+          "concept": "从属连词 — Subordinator (in case / if)",
+          "zh": "妈妈说：'假如老师对你在课堂上的表现有意见，请告诉我。'",
+          "note": "<code>Should + S + V (原形)</code> 是 <em>If S should V</em> 的倒装写法，用来表示\"万一 / 假如\"的条件。",
+          "answer": "4"
+        },
+        "4": {
+          "concept": "主谓一致 — Subject–verb agreement (Neither … nor …)",
+          "zh": "明天的颁奖典礼，我父母和我哥哥都不想出席。",
+          "note": "<em>Neither A nor B</em> 用就近原则：动词与最近的主语 <em>my brother</em>（单数）一致，所以用 <em>wishes</em>。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "介词 — Preposition + time (in time)",
+          "zh": "尽管公车迟到，我还是赶在我最爱看的电视剧开始前回到了家。",
+          "note": "<em>in time (for / to V)</em> = 来得及；及时。区别于 <em>on time</em>（准时）。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "量词 — quantifier with uncountable noun",
+          "zh": "因为周末布置的作业太多了，俊辉几乎没有时间陪家人。",
+          "note": "<em>homework</em> 是不可数名词，要用 <em>much</em>；<em>so much + N</em> 强调\"那么多\"。",
+          "answer": "3"
+        },
+        "7": {
+          "concept": "不定式 — Perception verb + object + bare infinitive",
+          "zh": "昨天郑太太看到一个人带着一个神秘包裹离开了那栋楼。",
+          "note": "感官动词 <em>observe / see / hear / watch + O + 动词原形</em> 表示完整看到/听到一个动作。<em>leave</em> 不能加 <em>-s</em>。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "介词 — Preposition (in the middle of)",
+          "zh": "在拥挤吵闹的市场里，Rashid 一眼瞥见了一张熟悉的面孔。",
+          "note": "<em>Amid + N</em> = 在…之中，强调被某种环境包围；<em>Prior to / Owing to / Other than</em> 含义不符。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "时态 — Subject–verb agreement + past tense",
+          "zh": "过去政府没有提供帮助，穷人常常忍饥挨饿，几乎没东西吃。",
+          "note": "<em>the + 形容词</em>（如 <em>the poor / the rich</em>）= 一类人，作复数处理；<em>in the past</em> 提示过去时，所以用 <em>were</em>。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "分词 — Parallel perfect participle (Having + V3)",
+          "zh": "她做完作业、吃完晚饭后，就坐下来玩自己最爱的电子游戏。",
+          "note": "完成式分词短语 <em>Having + V3</em> 后接的并列动词同样要用过去分词 <em>taken</em>，与 <em>finished</em> 平行。",
+          "answer": "4"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "While there were two ________ , the rest of the passengers on the bus did not suffer from any deadly injuries and escaped unscathed.",
+          "options": {
+            "1": "fatalities",
+            "2": "survivors",
+            "3": "suspects",
+            "4": "delinquents"
+          }
+        },
+        "12": {
+          "stem_plain": "Omar bawled, \"Stop your ________ chatter and give my ears a rest!\"",
+          "options": {
+            "1": "insistent",
+            "2": "incessant",
+            "3": "infectious",
+            "4": "intentional"
+          }
+        },
+        "13": {
+          "stem_plain": "Those eye-catching window displays are put up to ________ shoppers into our store.",
+          "options": {
+            "1": "entice",
+            "2": "engage",
+            "3": "enhance",
+            "4": "entertain"
+          }
+        },
+        "14": {
+          "stem_plain": "I would think very ________ before embarking on this journey to the North Pole.",
+          "options": {
+            "1": "carefully",
+            "2": "morosely",
+            "3": "animatedly",
+            "4": "nonchalantly"
+          }
+        },
+        "15": {
+          "stem_plain": "Abbas hopes to ________ his relatives when he visits Singapore this month.",
+          "options": {
+            "1": "call on",
+            "2": "call for",
+            "3": "call out",
+            "4": "call after"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "尽管有两人遇难，公车上其余的乘客都没受重伤，毫发无损地逃了出来。",
+          "note": "应选（1）'fatalities'：题干语境最宜表达'（事故、灾难造成的）死亡；遇难者'。'survivors'义为'幸存者；生还者'：与题干语境或搭配要求不一致。'suspects'义为'嫌疑人；嫌疑犯'：与题干语境或搭配要求不一致。'delinquents'义为'（少年）违法犯罪者；不良少年'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — fatalities（（事故、灾难造成的）死亡；遇难者）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "fatalities",
+              "zh": "（事故、灾难造成的）死亡；遇难者",
+              "eg": "The earthquake caused <strong>fatalities</strong> in three villages, with rescuers digging through rubble for survivors."
+            },
+            {
+              "opt": "2",
+              "word": "survivors",
+              "zh": "幸存者；生还者",
+              "eg": "The <strong>survivors</strong> of the shipwreck clung to a wooden plank for hours before help arrived."
+            },
+            {
+              "opt": "3",
+              "word": "suspects",
+              "zh": "嫌疑人；嫌疑犯",
+              "eg": "The police questioned three <strong>suspects</strong> in connection with the burglary."
+            },
+            {
+              "opt": "4",
+              "word": "delinquents",
+              "zh": "（少年）违法犯罪者；不良少年",
+              "eg": "The community programme was set up to help young <strong>delinquents</strong> turn their lives around."
+            }
+          ]
+        },
+        "12": {
+          "zh": "Omar 大吼道：'别再没完没了地说了，让我的耳朵歇一会儿吧！'",
+          "note": "应选（2）'incessant'：题干语境最宜表达'持续不停的；无休止的'。'insistent'义为'执意要求的；坚持的'：与题干语境或搭配要求不一致。'infectious'义为'（情绪、笑容）有感染力的；传染性的'：与题干语境或搭配要求不一致。'intentional'义为'故意的；有意的'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — incessant（持续不停的；无休止的）",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "insistent",
+              "zh": "执意要求的；坚持的",
+              "eg": "She was <strong>insistent</strong> that everyone leave their shoes outside the house."
+            },
+            {
+              "opt": "2",
+              "word": "incessant",
+              "zh": "持续不停的；无休止的",
+              "eg": "The <strong>incessant</strong> ticking of the clock kept him awake all night."
+            },
+            {
+              "opt": "3",
+              "word": "infectious",
+              "zh": "（情绪、笑容）有感染力的；传染性的",
+              "eg": "Her <strong>infectious</strong> laughter soon had the whole class giggling."
+            },
+            {
+              "opt": "4",
+              "word": "intentional",
+              "zh": "故意的；有意的",
+              "eg": "Bumping into him in the corridor was completely accidental, not <strong>intentional</strong>."
+            }
+          ]
+        },
+        "13": {
+          "zh": "这些抢眼的橱窗陈列是用来吸引顾客走进店里的。",
+          "note": "应选（1）'entice'：题干语境最宜表达'诱使；吸引'。'engage'义为'吸引（注意力）；让人参与'：与题干语境或搭配要求不一致。'enhance'义为'提升；增强'：与题干语境或搭配要求不一致。'entertain'义为'娱乐；招待'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — entice（诱使；吸引）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "entice",
+              "zh": "诱使；吸引",
+              "eg": "The bakery used freshly baked aromas to <strong>entice</strong> passers-by into the shop."
+            },
+            {
+              "opt": "2",
+              "word": "engage",
+              "zh": "吸引（注意力）；让人参与",
+              "eg": "The teacher used a short video to <strong>engage</strong> the class at the start of the lesson."
+            },
+            {
+              "opt": "3",
+              "word": "enhance",
+              "zh": "提升；增强",
+              "eg": "A pinch of salt can <strong>enhance</strong> the natural sweetness of fruit."
+            },
+            {
+              "opt": "4",
+              "word": "entertain",
+              "zh": "娱乐；招待",
+              "eg": "The clown was hired to <strong>entertain</strong> the children at the birthday party."
+            }
+          ]
+        },
+        "14": {
+          "zh": "在踏上前往北极的旅程之前，我会非常慎重地考虑。",
+          "note": "应选（1）'carefully'：题干语境最宜表达'仔细地；小心地'。'morosely'义为'闷闷不乐地；郁郁地'：与题干语境或搭配要求不一致。'animatedly'义为'兴致勃勃地；激动地（说话/比划）'：与题干语境或搭配要求不一致。'nonchalantly'义为'若无其事地；毫不在意地'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — carefully（仔细地；小心地）",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "carefully",
+              "zh": "仔细地；小心地",
+              "eg": "She <strong>carefully</strong> reviewed every line of the contract before signing it."
+            },
+            {
+              "opt": "2",
+              "word": "morosely",
+              "zh": "闷闷不乐地；郁郁地",
+              "eg": "He stared <strong>morosely</strong> out of the window after losing the match."
+            },
+            {
+              "opt": "3",
+              "word": "animatedly",
+              "zh": "兴致勃勃地；激动地（说话/比划）",
+              "eg": "The friends chatted <strong>animatedly</strong> about their plans for the holiday."
+            },
+            {
+              "opt": "4",
+              "word": "nonchalantly",
+              "zh": "若无其事地；毫不在意地",
+              "eg": "He <strong>nonchalantly</strong> shrugged off the criticism and walked away."
+            }
+          ]
+        },
+        "15": {
+          "zh": "Abbas 希望这个月来新加坡时能去拜访亲戚。",
+          "note": "应选（1）'call on'：题干语境最宜表达'拜访；前去看望（某人）'。'call for'义为'需要；要求；去接（某人/某物）'：与题干语境或搭配要求不一致。'call out'义为'高声喊；叫出（某人）'：与题干语境或搭配要求不一致。'call after'义为'以…命名；在身后呼喊'：与题干语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — call on（拜访；前去看望（某人））",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "call on",
+              "zh": "拜访；前去看望（某人）",
+              "eg": "Whenever I'm in Penang, I make sure to <strong>call on</strong> my grandmother for a chat."
+            },
+            {
+              "opt": "2",
+              "word": "call for",
+              "zh": "需要；要求；去接（某人/某物）",
+              "eg": "This delicate situation will <strong>call for</strong> a great deal of patience."
+            },
+            {
+              "opt": "3",
+              "word": "call out",
+              "zh": "高声喊；叫出（某人）",
+              "eg": "The teacher <strong>called out</strong> Aiden's name to remind him to stop talking."
+            },
+            {
+              "opt": "4",
+              "word": "call after",
+              "zh": "以…命名；在身后呼喊",
+              "eg": "The baby was <strong>called after</strong> her late grandmother, Margaret."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "impact",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "sway",
+            "2": "weight",
+            "3": "influence",
+            "4": "importance"
+          }
+        },
+        "17": {
+          "stem_plain": "famous",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "notorious",
+            "2": "renowned",
+            "3": "recognised",
+            "4": "noteworthy"
+          }
+        },
+        "18": {
+          "stem_plain": "dedicated",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "true",
+            "2": "loyal",
+            "3": "devoted",
+            "4": "purposeful"
+          }
+        },
+        "19": {
+          "stem_plain": "in the end",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rapidly",
+            "2": "definitely",
+            "3": "gradually",
+            "4": "eventually"
+          }
+        },
+        "20": {
+          "stem_plain": "only",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "sole",
+            "2": "specific",
+            "3": "particular",
+            "4": "remaining"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Marie Curie is considered to be one of the most influential scientists of all time. She had a lasting [Q16 (impact)] on the way we understand the world around us. She was [Q17 (famous)] for her discovery of radioactivity that changed the way scientists experimented with the atom. She was so [Q18 (dedicated)] to her work that she refused to take time off, even when she was seriously ill. This led to her contracting radiation poisoning, which killed her [Q19 (in the end)].",
+          "She was the first woman to win a Nobel prize and the [Q20 (only)] person to win Nobel prizes in two different sciences: physics and chemistry. In fact, the founding of her research centres in both Paris and Warsaw also helped make sure that women could continue to study science and contribute to the community."
+        ],
+        "zh": [
+          "Marie Curie 被认为是有史以来最有影响力的科学家之一。她对人们理解周围世界的方式产生了深远影响。她因发现放射性而著名，这改变了科学家对原子的实验方式。她对工作如此投入，即使重病也拒绝休息，最终因此患上辐射中毒而丧生。",
+          "她是首位获得诺贝尔奖的女性，也是唯一在物理学和化学两个不同科学领域都获诺贝尔奖的人。事实上，她在 Paris 和 Warsaw 设立的研究中心也帮助确保女性能继续学习科学并为社区作贡献。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — impact（影响）",
+          "zh": "她对人们理解周围世界的方式产生了深远影响。",
+          "note": "应选（3）'influence'：短文划线的 <em>impact</em> 在此语境下与此义最接近。'sway'：与英语解析中的辨析不一致。'weight'：与英语解析中的辨析不一致。'importance'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sway",
+              "zh": "摇摆，摇晃；左右，支配（指物体前后或左右摆动，或指通过权力、言语来动摇、左右他人的意见或决定）",
+              "eg": "The strong winds caused the tall trees to sway wildly, while the smooth-talking salesman tried to sway the customer's decision."
+            },
+            {
+              "opt": "2",
+              "word": "weight",
+              "zh": "重量，分量；重要性，影响力（指人或物体的物理重量，也可引申指某种观点、决定在心理或大局上所具有的分量与重要性）",
+              "eg": "The heavy box added extra weight to the delivery truck, but the judge's final opinion carried a lot of weight in the courtroom."
+            },
+            {
+              "opt": "3",
+              "word": "influence",
+              "zh": "影响，感化（指某人或某物对他人、局势的发展、行为或思想所产生的一种潜移默化的、深刻的改变或控制力）",
+              "eg": "Peer pressure can have a strong influence on a teenager's habits, leading them to adopt either good or bad behaviors."
+            },
+            {
+              "opt": "4",
+              "word": "importance",
+              "zh": "重要性，重大（指某人或某物因具有极高的价值、作用、社会地位或深远后果，而必须受到人们高度重视的特征）",
+              "eg": "The principal emphasized the importance of attending the safety briefing before students were allowed to go on the field trip."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — famous（著名的；有声望的）",
+          "zh": "她因发现放射性而著名，这改变了科学家对原子的实验方式。",
+          "note": "应选（2）'renowned'：短文划线的 <em>famous</em> 在此语境下与此义最接近。'notorious'：与英语解析中的辨析不一致。'recognised'：与英语解析中的辨析不一致。'noteworthy'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "notorious",
+              "zh": "声名狼藉的，臭名昭著的（指因为不好的行为、罪行或劣迹而广为人知）",
+              "eg": "The notorious pirate was known across the seas for attacking merchant ships and escaping from prisons."
+            },
+            {
+              "opt": "2",
+              "word": "renowned",
+              "zh": "著名的，有声望的（指因为某种优秀的技能、特长或杰出成就而受到大家的赞赏和赞誉）",
+              "eg": "The Old Airport Road hawker centre is renowned for its delicious char kway teow, drawing crowds daily."
+            },
+            {
+              "opt": "3",
+              "word": "recognised",
+              "zh": "被认可的，公认的（指某种身份、成就或价值获得了官方、公众或专业领域的正式承认）",
+              "eg": "Mr Tan is a recognised expert in cybersecurity, and he regularly speaks at international tech conferences."
+            },
+            {
+              "opt": "4",
+              "word": "noteworthy",
+              "zh": "值得注意的，显著的（指某事物非常有趣、重要或不寻常，以至于值得人们去关注或赞赏）",
+              "eg": "There was a noteworthy improvement in the student's results after she adopted a better study timetable."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — dedicated（挚爱的；专注的）",
+          "zh": "她对工作如此投入，即使重病也拒绝休息。",
+          "note": "应选（3）'devoted'：短文划线的 <em>dedicated</em> 在此语境下与此义最接近。'true'：与英语解析中的辨析不一致。'loyal'：义为'忠诚的；忠心的'，与短文语境或搭配要求不一致。'purposeful'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "true",
+              "zh": "真的",
+              "eg": "The pupils found the word <strong>true</strong> useful in their composition."
+            },
+            {
+              "opt": "2",
+              "word": "loyal",
+              "zh": "忠诚的；忠心的",
+              "eg": "Our dog has been a <strong>loyal</strong> companion for over ten years."
+            },
+            {
+              "opt": "3",
+              "word": "devoted",
+              "zh": "挚爱的；专注的",
+              "eg": "She is a <strong>devoted</strong> teacher who stays back to help weaker pupils."
+            },
+            {
+              "opt": "4",
+              "word": "purposeful",
+              "zh": "有目的的",
+              "eg": "Her essay used <strong>purposeful</strong> in a clear, natural sentence."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — in the end（最终；终于）",
+          "zh": "这最终使她患上辐射中毒而丧生。",
+          "note": "应选（4）'eventually'：短文划线的 <em>in the end</em> 在此语境下与此义最接近。'rapidly'：义为'迅速地；快速地'，与短文语境或搭配要求不一致。'definitely'：与英语解析中的辨析不一致。'gradually'：义为'逐渐地'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rapidly",
+              "zh": "迅速地；快速地",
+              "eg": "The little boy was learning English <strong>rapidly</strong> after just three months in Singapore."
+            },
+            {
+              "opt": "2",
+              "word": "definitely",
+              "zh": "定地",
+              "eg": "She answered <strong>definitely</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "gradually",
+              "zh": "渐进地",
+              "eg": "She answered <strong>gradually</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "eventually",
+              "zh": "最终；终于",
+              "eg": "She was nervous at first but <strong>eventually</strong> enjoyed the camp."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — only（唯一）",
+          "zh": "她也是唯一在物理学和化学两个不同科学领域都获诺贝尔奖的人。",
+          "note": "应选（1）'sole'：短文划线的 <em>only</em> 在此语境下与此义最接近。'specific'：与英语解析中的辨析不一致。'particular'：与英语解析中的辨析不一致。'remaining'：与英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sole",
+              "zh": "唯一",
+              "eg": "In class we discussed how <strong>sole</strong> fits everyday English."
+            },
+            {
+              "opt": "2",
+              "word": "specific",
+              "zh": "具体的",
+              "eg": "The speaker chose <strong>specific</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "particular",
+              "zh": "特别的",
+              "eg": "In class we discussed how <strong>particular</strong> fits everyday English."
+            },
+            {
+              "opt": "4",
+              "word": "remaining",
+              "zh": "保持",
+              "eg": "The team kept <strong>remaining</strong> until the task was done."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the section 'Robots, Past and Present', which of the following is true about robots?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Robots of the past moved slowly because of their sensors.",
+            "2": "Today's robots are rapidly being replaced by artificial intelligence.",
+            "3": "Advanced sensors help robots perform functions in different environments.",
+            "4": "Mobility and adaptability are necessary for robots to perform repetitive tasks."
+          }
+        },
+        "22": {
+          "stem_plain": "Under the section 'What You Can Expect', an exclamation mark is used in the first sentence to ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "inform readers about the dishes",
+            "2": "draw attention to the movie's plot",
+            "3": "excite readers about immersive dining",
+            "4": "encourage diners to interact with the robots"
+          }
+        },
+        "23": {
+          "stem_plain": "Under the section 'What You Can Expect', which of the following does not tell us what the futuristic dining experience is like?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "\"take photos of your experience\"",
+            "2": "\"embark on a culinary experience\"",
+            "3": "\"indulge in delicious novel dishes\"",
+            "4": "\"be absorbed into the movie's plot\""
+          }
+        },
+        "24": {
+          "stem_plain": "Mr Tan wishes to have a meal at Immersive Dining. Which of the following will allow him to enjoy the biggest savings?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "He and his six friends go at 2 p.m. on a Sunday.",
+            "2": "He and his five friends go at 3 p.m. on a Monday.",
+            "3": "He makes a reservation for five on Friday, 29 November 2024.",
+            "4": "He makes a reservation for three on Sunday, 1 December 2024."
+          }
+        },
+        "25": {
+          "stem_plain": "The website quotes Charlene as saying she found her experience at Immersive Dining very entertaining. What did she enjoy the most?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "watching the movie Robochefs",
+            "2": "watching the robot waiters at work",
+            "3": "tasting dishes that were unfamiliar",
+            "4": "feeling like a character from the movie"
+          }
+        },
+        "26": {
+          "stem_plain": "Under the section 'Customer Reviews', what did Charlene and Thomas have in common?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "They thought the robot waiters were funny.",
+            "2": "They felt the unusual dishes tasted delicious.",
+            "3": "They thought they were characters in a movie.",
+            "4": "They felt the dining experience was memorable."
+          }
+        },
+        "27": {
+          "stem_plain": "In order to ensure that his dining experience is enjoyable, Amos should ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "put his backpack in the lockers provided",
+            "2": "look at the menu on the table before ordering",
+            "3": "make a reservation at least ten minutes in advance",
+            "4": "press the buzzer on the table to summon a robot waiter"
+          }
+        },
+        "28": {
+          "stem_plain": "The main purpose of this website is to ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "attract people to watch a movie",
+            "2": "showcase good customer reviews",
+            "3": "promote a futuristic dining experience",
+            "4": "educate people on the development of robots"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "题型 — Detail — locate the true statement（题型考点）",
+          "breakdown": {
+            "zh": "先进的传感器帮助机器人在不同的环境中执行各种功能。",
+            "note": "<em>help + O + V (原形)</em>，与文中 \"<em>allowing them to interact with the environment in real time</em>\" 信息一致。"
+          },
+          "note": "Paragraph 2 says: <em>Today's robots are equipped with <strong>advanced sensors</strong> and other additional capabilities, allowing them to interact with the environment in real time.</em> So advanced sensors help robots function in various environments → (3) is true. (1) wrongly says past robots had sensors that slowed them; the text says past robots were stationary. (2) text says AI helps robots, not replaces them. (4) past robots were repetitive precisely because they LACKED mobility/adaptability.",
+          "answer": "3"
+        },
+        "22": {
+          "concept": "题型 — Function of punctuation（题型考点）",
+          "breakdown": {
+            "zh": "感叹号被用来让读者对沉浸式用餐感到兴奋。",
+            "note": "感叹号一般用来加强语气、传达兴奋，本句的功能是激发读者对体验的兴趣。"
+          },
+          "note": "First sentence under <em>What You Can Expect</em>: <em>Visit our new outlet and embark on a culinary adventure!</em> The exclamation mark expresses enthusiasm to make readers feel excited about the experience → (3). (1) the dishes are mentioned in the next sentence, not this one; (2) the movie's plot is not being highlighted by this exclamation; (4) the call to interact with robots comes later.",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "题型 — EXCEPT — find the option that does NOT describe the experience（题型考点）",
+          "breakdown": {
+            "zh": "'拍下你的体验'描述的是顾客做的动作，并没有说明体验本身是怎样的。",
+            "note": "题目要求选'不属于描述体验'的选项；其余三项都在介绍体验的内容。"
+          },
+          "note": "The other three quotes describe the futuristic dining itself: (2) embarking on a culinary experience, (3) novel dishes, (4) being absorbed into the plot. (1) <em>take photos</em> is what diners are invited to DO during the experience, not a description of what the experience is like — so it does not describe the experience itself.",
+          "answer": "1"
+        },
+        "24": {
+          "concept": "题型 — Apply the discount rules to find the biggest savings（题型考点）",
+          "breakdown": {
+            "zh": "他和五位朋友周一下午 3 点前往，可获得最大优惠。",
+            "note": "6 人 = 大团（15% off） + 工作日 14:00–17:00（再 15% off），合计 30%，是最大折扣。"
+          },
+          "note": "Discounts: groups of 3–5 = 10%; groups of 6+ = 15%; weekday 2–5 p.m. = additional 15%; reservation before 1 Dec 2024 = free appetiser (no money saved). (2) 6 people on Monday 3 p.m. = 15% (large group) + 15% (weekday off-peak) = <span class=\"hl-good\">30%</span>. (1) Sunday is not a weekday → only 15% large-group. (3) Friday with 5 people = 10% + free appetiser. (4) Sunday with 3 people = 10% + free appetiser. So (2) gives the biggest savings.",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "题型 — Identify the favourite — keyword <em>most / favourite</em>（题型考点）",
+          "breakdown": {
+            "zh": "Charlene 最享受看机器人服务员工作的过程。",
+            "note": "原文用 <em>definitely my favourite</em> 直接点明她最喜欢的部分。"
+          },
+          "note": "Charlene says: <em>watching the robot waiters take orders and serve food was <strong>definitely my favourite</strong>!</em> The word <em>favourite</em> directly signals the most enjoyed thing. The other items (movie, unusual dishes, feeling like a character) were also enjoyed, but were not labelled her favourite.",
+          "answer": "2"
+        },
+        "26": {
+          "concept": "题型 — Compare both reviews — find the COMMON feeling（题型考点）",
+          "breakdown": {
+            "zh": "Charlene 和 Thomas 都觉得这次用餐体验令人难忘。",
+            "note": "Charlene 说 \"<em>I will always remember</em>\"，Thomas 说 \"<em>unforgettable</em>\"，两人共通点是'难忘'。"
+          },
+          "note": "Charlene: <em>I will <strong>always remember</strong> that meal!</em> Thomas: <em>It was an <strong>unforgettable</strong> family outing!</em> Both describe the experience as memorable → (4). (1) neither calls the robots funny; (2) only Thomas explicitly praises the dishes' taste; (3) only Charlene felt like a character in the movie.",
+          "answer": "4"
+        },
+        "27": {
+          "concept": "题型 — Apply the dining rules to a specific case（题型考点）",
+          "breakdown": {
+            "zh": "Amos 应当把背包放进餐厅提供的储物柜里。",
+            "note": "对应规则：\"<em>Keep the floor free from clutter by storing your belongings in the lockers</em>\"。"
+          },
+          "note": "The notice says: <em>Keep the floor free from clutter by storing your belongings in the lockers</em>. A backpack on the floor would clutter the area, so Amos should put it in a locker. (2) ordering via QR is required, but the rule says \"to look at the menu and place your order\", not \"before ordering\"; (3) the arrival rule is 5–10 minutes early, not making a reservation 10 min in advance; (4) buzzers are for malfunctions, not for summoning waiters.",
+          "answer": "1"
+        },
+        "28": {
+          "concept": "目的 — Author's overall purpose（目的考点）",
+          "breakdown": {
+            "zh": "这个网站的主要目的是宣传这种未来感十足的用餐体验。",
+            "note": "网站从背景介绍、亮点、优惠到顾客评价、用餐须知，最终目的都是'吸引顾客来用餐'。"
+          },
+          "note": "The whole page (background on robots, what to expect, deals, customer praise, dining rules) is built around getting readers to visit Immersive Dining. The unifying purpose is <span class=\"hl-good\">to promote the futuristic dining experience</span>. (1) the movie is just a backdrop, not the goal; (2) reviews are one section, not the overall aim; (4) the educational paragraph on robots is only one part.",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "across",
+          "D": "by",
+          "G": "is",
+          "K": "or",
+          "N": "with",
+          "B": "are",
+          "E": "have",
+          "H": "of",
+          "L": "that",
+          "P": "while",
+          "C": "as",
+          "F": "in",
+          "J": "off",
+          "M": "to",
+          "Q": "when"
+        },
+        "cloze": [
+          "Singapore's Chinese dialects consist mostly of Teochew, Hokkien, Cantonese, Hakka and Hainanese. Nowadays, dialect [Q29] more commonly used in short phrases amongst the youths. This is actually spoken more often among the older generation. Typically, we hear them use dialect when they gather [Q30] their friends. One has to only pass [Q31] coffee shops or the void decks to hear them using it.",
+          "English is the most spoken language in Singapore. A few years ago, a survey was administered and it showed [Q32] 36.9 per cent of Singaporean Chinese used English more often at home compared to other languages or dialects. It seems that the culture of using dialect is getting lost among youths.",
+          "Luckily, there is still a high number [Q33] youths who know their dialect. However, there are still plenty who do not. Some even show no interest [Q34] learning it. On the other hand, there [Q35] many youths who are passionate about making sure the dialect is here [Q36] stay.",
+          "Some even [Q37] social media pages that hope to inspire others. This may be seen [Q38] a sentimental effort by some. This is important as it ensures that Singapore's Chinese dialects remain relevant."
+        ],
+        "zh": [
+          "新加坡的华人方言主要包括潮州话、福建话（闽南话）、广东话、客家话和海南话。如今，方言更常在年轻人使用的简短短语中出现。其实这更多是在年长一辈中被使用。通常，我们听到他们在和朋友聚在一起时使用方言。只要路过咖啡店或组屋楼下，就能听到他们在用方言交谈。",
+          "英语是新加坡使用最广泛的语言。几年前的一项调查显示，36.9%的新加坡华人更常在家里使用英语，而不是其他语言或方言。看来，使用方言的文化在年轻人中正逐渐流失。",
+          "幸运的是，仍有不少年轻人懂得自己的方言。然而，仍有很多人不懂。有些人甚至对学习方言毫无兴趣。另一方面，也有许多年轻人充满热情，希望确保方言能长久传承下去。",
+          "有些人甚至开设了希望激励他人的社交媒体页面。在有些人看来，这可能被视作一种感性的努力。这很重要，因为它能确保新加坡的华人方言继续具有现实意义。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Nowadays, dialect is more commonly used in short = 主谓一致 → is。",
+          "answer": "G — is"
+        },
+        "30": {
+          "concept": "介词 — with",
+          "note": "use dialect when they gather with their friends. = 看前后搭配，选 with。",
+          "answer": "N — with"
+        },
+        "31": {
+          "concept": "介词 — by",
+          "note": "One has to only pass by coffee shops or the void = 看前后搭配，选 by。",
+          "answer": "D — by"
+        },
+        "32": {
+          "concept": "关系/连接词 — that",
+          "note": "was administered and it showed that 36.9 per cent of Singaporean = 指示词 that 回指上文。",
+          "answer": "L — that"
+        },
+        "33": {
+          "concept": "介词 — of",
+          "note": "is still a high number of youths who know their dialect. = 看前后搭配，选 of。",
+          "answer": "H — of"
+        },
+        "34": {
+          "concept": "介词 — in",
+          "note": "Some even show no interest in learning it. = 看前后搭配，选 in。",
+          "answer": "F — in"
+        },
+        "35": {
+          "concept": "存在句 — there be",
+          "note": "On the other hand, there are many youths who are passionate = 结合句意选 are。",
+          "answer": "B — are"
+        },
+        "36": {
+          "concept": "介词 — to",
+          "note": "看前后搭配，选 to。",
+          "answer": "M — to"
+        },
+        "37": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Some even have social media pages that hope = 主谓一致 → have。",
+          "answer": "E — have"
+        },
+        "38": {
+          "concept": "动词 + as (be seen as)",
+          "note": "This may be seen as a sentimental effort by some. = 结合句意选 as。",
+          "answer": "C — as"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Kiran was so shy when he started secondary school. Even when other classmates spoke to him, he could only [Q39(muhmble)] in return. In the afternoons after school, he did not have a single friend who [Q40(will)] invite him over to their house. Dispirited, Kiran started to walk around the [Q41(nayborhud)] park to take his mind off his [Q42(lonely)] .",
+          "At first, he would just do a slow jog around the park. Soon, he was sprinting several blocks [Q43(far)] from the park each day. Beads of [Q44(perseperation)] would drip down his brow and [Q45(drenching)] his shirt. To his parents' surprise, he seemed to [Q46(enjoying)] running every day.",
+          "Kiran's muscular frame, developed from running [Q47(diligent)] on the streets, did not go [Q48(unnotised)] by his classmates who were on the track and field team at school. Soon, Kiran was invited to sit with the [Q49(athleats)] at the canteen. He found it [Q50(unbeliveable)] . Who knew that 'running' from his problems would actually lead to a solution?"
+        ],
+        "zh": [
+          "基兰上中学时非常害羞。即使其他同学主动和他说话，他也只能含糊地应几句。放学后，他没有一个会邀请他去家里做客的朋友。心灰意冷之下，基兰开始在附近的公园里散步，好让自己不再想着孤单。",
+          "起初，他只是在公园里慢慢慢跑。不久，他每天都会冲出公园，一口气跑到好几个街区之外。汗珠顺着额头滴落，湿透了他的衬衫。让父母意外的是，他似乎每天都乐此不疲地跑步。",
+          "基兰在街头刻苦长跑练就的健壮体格，很快就被校田径队的同学注意到了。不久，基兰被邀请和运动员们在食堂同桌吃饭。他觉得难以置信。谁能想到，从烦恼中'逃跑'竟真的会带来解决办法？"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">muhmble</span> is misspelt. The correct spelling is <span class=\"hl-good\">mumble</span> — to speak unclearly or quietly.",
+          "answer": "Mumble"
+        },
+        "40": {
+          "concept": "Past-tense narrative",
+          "note": "The whole story is told in the past tense (<em>Kiran was so shy</em> … <em>he could only mumble</em>). The relative clause must also be past, so <span class=\"hl-bad\">will</span> → <span class=\"hl-good\">would</span> (past form of <em>will</em> for habitual / hypothetical).",
+          "answer": "Would"
+        },
+        "41": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">nayborhud</span> is misspelt. The correct spelling is <span class=\"hl-good\">neighbourhood</span> — the area around a person's home.",
+          "answer": "Neighbourhood"
+        },
+        "42": {
+          "concept": "Word form (adjective → noun)",
+          "note": "<span class=\"hl-bad\">lonely</span> is an adjective. After the preposition <em>off</em>, we need a noun — the state of being alone. <span class=\"hl-good\">loneliness</span> = the noun form.",
+          "answer": "Loneliness"
+        },
+        "43": {
+          "concept": "Comparative adverb",
+          "note": "<span class=\"hl-bad\">far</span> is the base form. To show that he was sprinting <em>more</em> blocks each day (compared with before), use the comparative adverb <span class=\"hl-good\">further</span> (greater distance).",
+          "answer": "Further"
+        },
+        "44": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">perseperation</span> is misspelt. The correct spelling is <span class=\"hl-good\">perspiration</span> — sweat.",
+          "answer": "Perspiration"
+        },
+        "45": {
+          "concept": "Parallel verb form",
+          "note": "<em>would drip … and ____ his shirt</em> — both verbs share the modal <em>would</em>, so the second verb must also be a bare infinitive in parallel: <span class=\"hl-bad\">drenching</span> → <span class=\"hl-good\">drench</span>.",
+          "answer": "Drench"
+        },
+        "46": {
+          "concept": "Verb form after <em>seemed to</em>",
+          "note": "After <em>seemed to</em>, use the bare infinitive: <em>seemed to <span class=\"hl-good\">enjoy</span></em>. <span class=\"hl-bad\">enjoying</span> is a participle and does not fit the <em>to + V (bare)</em> pattern.",
+          "answer": "Enjoy"
+        },
+        "47": {
+          "concept": "Adverb modifying a verb",
+          "note": "<span class=\"hl-bad\">diligent</span> is an adjective. It must modify the verb <em>running</em>, so we need an adverb: <span class=\"hl-good\">diligently</span> = with hard, careful effort.",
+          "answer": "Diligently"
+        },
+        "48": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">unnotised</span> is misspelt. The correct spelling is <span class=\"hl-good\">unnoticed</span> — not seen / observed.",
+          "answer": "Unnoticed"
+        },
+        "49": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">athleats</span> is misspelt. The correct spelling is <span class=\"hl-good\">athletes</span> — sportspeople.",
+          "answer": "Athletes"
+        },
+        "50": {
+          "concept": "Spelling",
+          "note": "<span class=\"hl-bad\">unbeliveable</span> is misspelt (missing an <em>e</em> before <em>-able</em>). The correct spelling is <span class=\"hl-good\">unbelievable</span> — too amazing to be believed.",
+          "answer": "Unbelievable"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Mount Fuji is the tallest mountain in Japan. Attracting tourists from all [Q51] the world, it is Japan's most famous place of [Q52]. A visit to Japan would be incomplete [Q53] at least a glimpse of this grand peak.",
+          "One can get a clear [Q54] of the mountain from a Japanese town. It has many scenic spots to see the mountain and these spots never fail to [Q55] over tourists. The town is also easily [Q56] by train from Tokyo. As [Q57], many tourists have been flocking to the town.",
+          "One [Q58] viewpoint in the town has become so popular that it is causing problems for the locals. [Q59] seeking the perfect photograph, many foreign tourists have been caught littering and [Q60] traffic rules. The security guards working at that viewpoint have [Q61] these tourists about their behaviour. However, their repeated warnings fell on [Q62] ears.",
+          "In a bid to fend [Q63] such badly-behaved tourists, the authorities began building a black barrier to [Q64] the view of the mountain as a last [Q65].",
+          "\"It is a pity that we have to do this because of some tourists who cannot respect rules,\" a town official said."
+        ],
+        "zh": [
+          "富士山是日本最高峰，吸引世界各地游客，是日本最著名的名胜；访日若不见这座巍峨山峰，行程便不算完整。",
+          "从一座日本小镇可清楚眺望富士山；镇上有多处观景胜地，总能征服游客。小镇从东京乘火车也易达，因此游客络绎不绝。",
+          "镇上某一特定观景点过于热门，给当地居民带来困扰：为拍完美照片，不少外国游客乱扔垃圾、违反交通规则；保安多次警告却如石沉大海。",
+          "为抵挡这类不文明游客，当局开始建造黑色屏障，作为挡住山景的最后无奈之举。",
+          "一位镇官员表示，因少数游客无法遵守规定而不得不这样做，实在令人遗憾。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "固定习惯搭配",
+          "note": "与前置的 from all 完美组合，构成在各类英语试卷中极其高频出现的经典地道搭配 from all over the world，意为吸引着来自“全世界”的游客。填入 around 或 across 亦完全通顺。",
+          "answer": "over/around/across"
+        },
+        "52": {
+          "concept": "名词固定习惯搭配",
+          "note": "完美契合高频常考的核心复合名词搭配 place of interest，意思是富士山是日本最著名的“旅游胜地”或“名胜景点”。",
+          "answer": "interest"
+        },
+        "53": {
+          "concept": "介词引导假设否定状语",
+          "note": "修饰名词短语 at least a glimpse。前文提到旅程会变得不完整，说明此处是在逻辑上假设“如果没有”一睹这座宏伟山峰的风采，填入介词 without 引导条件状态。",
+          "answer": "without"
+        },
+        "54": {
+          "concept": "名词语意修饰搭配",
+          "note": "修饰名词宾语。指人们可以从日本的小镇上清晰地“看到”或“观赏到”富士山的壮丽美景，构成 get a clear view/glimpse/sight/picture of the mountain 结构。",
+          "answer": "view/glimpse/sight/picture"
+        },
+        "55": {
+          "concept": "短语动词与习语搭配",
+          "note": "不定式符号 to 后接动词原形。与后面的 over 组合构成固定短语 win over，或者与 over 相对换填入经典表达 bowl over，意为这些风景如画的景点总能让游客们为之“倾倒”或“彻底折服”。",
+          "answer": "win/bowl"
+        },
+        "56": {
+          "concept": "系动词后的形容词表语",
+          "note": "修饰并描述小镇的交通状况。前面有副词 easily 引导，后面接介词 by，指这个小镇可以乘坐火车从东京“轻松到达”，构成高频搭配 easily accessible 或 easily reached（作为过去分词充当表语）。",
+          "answer": "accessible/reached"
+        },
+        "57": {
+          "concept": "篇章承接固定短语",
+          "note": "与前置词 As 完美组合，构成高频常考的逻辑承接固定短语 As such，意思是“因此”或“基于这一原因”，用以引出后文大批游客涌入的结果。位于句首需大写。",
+          "answer": "such"
+        },
+        "58": {
+          "concept": "形容词语意修饰",
+          "note": "用来修饰单数名词 viewpoint（观景点）。指某个“特定的”、“特定的”或“热门的”观景点因为人气过旺而给当地居民带来了困扰（particular / specific / popular）。",
+          "answer": "particular/specific/popular"
+        },
+        "59": {
+          "concept": "连词/介词引导伴随状语",
+          "note": "后接现在分词短语 seeking the perfect photograph。填入时间连词 While 或 When 构成状语从句的省略形式，表示“当……时”；填入介词 In 构成 In seeking 表达“在追求……的过程中”同样符合语法逻辑。位于句首需大写。",
+          "answer": "While/When/In"
+        },
+        "60": {
+          "concept": "被动语态伴随动名词并列",
+          "note": "与前面的现在分词 littering（乱扔垃圾）通过并列连词 and 保持平行的语法结构。属于 have been caught doing something 的被动延伸，指外国游客因“违反”交通规则而被当场抓到，故填入现在分词 disobeying / breaking / flouting / violating。",
+          "answer": "disobeying/breaking/flouting/violating"
+        },
+        "61": {
+          "concept": "现在完成时动词形式",
+          "note": "前面有助动词 have，后面接过去分词。指在该观景点执勤的保安人员已经就其不文明行为向这些游客发出了“警告”、“提醒”或“告知”（warned / reminded / informed）。",
+          "answer": "warned/reminded/informed"
+        },
+        "62": {
+          "concept": "经典习语固定搭配",
+          "note": "修饰名词 ears。完美契合英语中用于形容好言相劝却被完全无视的极高频标志性专属习语 fell on deaf ears，意思是他们的反复警告都成了“耳边风”。",
+          "answer": "deaf"
+        },
+        "63": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词 fend 完美组合，构成在各类考卷中屡次出现的地道特定短语动词 fend off，表示当地政府为了“避开”、“挡住”或“应付”这些举止粗鲁的游客而采取行动。",
+          "answer": "off"
+        },
+        "64": {
+          "concept": "动词不定式（目的）",
+          "note": "不定式符号 to 后接动词原形。结合后文“建造黑色屏障”的语境，说明其目的是为了彻底“遮挡”、“阻碍”或“限制”欣赏山景的视线（block / obstruct / restrict / hide）。",
+          "answer": "block/obstruct/restrict/hide"
+        },
+        "65": {
+          "concept": "习语固定习惯搭配",
+          "note": "完美契合高频常考的经典末路决断习语 as a last resort，意为作为“最后的无奈之举”或“最终解决手段”，凸显了当地官员的被迫与痛心。",
+          "answer": "resort"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "James is going to the library. His brothers are going to the library too.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "James __________ as well as __________ ."
+        },
+        "67": {
+          "stem_plain": "Marilyn told Sarah, \"Jo saw you at the cinema last weekend.\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Marilyn told Sarah that __________ ."
+        },
+        "68": {
+          "stem_plain": "Henry was negligent. The birthday cake was delivered to the wrong address.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ owing to __________ ."
+        },
+        "69": {
+          "stem_plain": "I realised my wallet was missing when I reached home.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Not until __________ ."
+        },
+        "70": {
+          "stem_plain": "Remy admitted that he had stolen the money. He shocked everyone in class.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "With his __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "合并句 — Combine two sentences with as well as",
+          "zh": "James 和他的兄弟们都要去图书馆。",
+          "note": "<code>S1 + as well as + S2 + V</code>：动词与第一个主语 <em>S1</em>（James，单数）保持一致，所以用 <em>is going</em>，不能写成 <em>are going</em>。<em>as well as</em> 前后用逗号隔开，用作插入语。",
+          "answer": "James, as well as his brothers, is going to the library."
+        },
+        "67": {
+          "concept": "间接引语 — Direct → reported speech",
+          "zh": "Marilyn 告诉 Sarah，Jo 上一个周末在电影院看到了她。",
+          "note": "直接引语改间接引语：<br>1. 去掉引号；2. 时态后退：<em>saw → had seen</em>（一般过去时 → 过去完成时）；3. 代词转换：<em>you → her</em>（指代 Sarah）；4. 时间状语：<em>last weekend → the previous weekend</em> 或 <em>the weekend before</em>。",
+          "answer": "Marilyn told Sarah that Jo had seen her at the cinema the previous weekend."
+        },
+        "68": {
+          "concept": "介词短语 — Cause clause → prepositional phrase (owing to)",
+          "zh": "由于 Henry 的疏忽，生日蛋糕被送错了地址。",
+          "note": "<code>owing to + 名词/名词短语</code> = 因为；用来连接\"原因\"：<br>1. 形容词 <em>negligent</em> 改写成名词 <em>negligence</em>，前面加所有格 <em>Henry's</em>；<br>2. 因果信息整合到主句之后即可，不需要再写 <em>because</em>。",
+          "answer": "The birthday cake was delivered to the wrong address owing to Henry's negligence."
+        },
+        "69": {
+          "concept": "时间连词 — Inversion after Not until",
+          "zh": "直到回到家，我才发现我的钱包不见了。",
+          "note": "<code>Not until + 时间状语从句, 助动词 + 主语 + 动词原形</code>：<br>1. <em>Not until</em> 放在句首引出否定状语，主句必须倒装；<br>2. 一般过去时 → 用 <em>did</em> 倒装：<em>I realised → did I realise</em>；<br>3. 表示\"直到…才…\"。",
+          "answer": "Not until I reached home did I realise my wallet was missing."
+        },
+        "70": {
+          "concept": "介词短语 — Verb clause → prepositional phrase (With his + N)",
+          "zh": "Remy 承认偷了钱，这让全班同学都震惊不已。",
+          "note": "<code>V (admit) → make / give 名词短语 (an admission)</code>：<br>1. 用 <em>With his + N</em> 引出原因/伴随情景；<br>2. 介词 <em>to</em> 后跟动名词 <em>having stolen</em>（强调动作发生在更早之前）；<br>3. 主句保留为结果：<em>Remy shocked everyone …</em>。",
+          "answer": "With his admission to having stolen the money, Remy shocked everyone in class."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Write **1**, **2** and **3** in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Clara patted Sparky's head.",
+            "Clara heard rumours about an old, abandoned house.",
+            "Clara and Sparky ventured deep into the forest."
+          ]
+        },
+        "72": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **new exploration** (line 3)",
+                "(b) **They** (line 13)",
+                "(c) **It** (line 26)"
+              ]
+            },
+            "refers_to": {
+              "header": "Refers to",
+              "rows": [
+                "[Q72a]",
+                "[Q72b]",
+                "[Q72c]"
+              ]
+            }
+          }
+        },
+        "73": {
+          "stem_plain": "How did Clara know that she and Sparky had gone deep into the forest?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q73a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Based on information from paragraphs 1 to 3, fill in the following table.",
+          "marks": 4,
+          "interaction": "textarea",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "To show Clara's **excitement** before setting off on an adventure",
+                "To show Clara's **curiosity** after entering the forest"
+              ]
+            },
+            "col_2": {
+              "header": "Three-word phrase",
+              "rows": [
+                "[Q74a]",
+                "[Q74c]"
+              ]
+            },
+            "col_3": {
+              "header": "Reason for Clara's feeling",
+              "rows": [
+                "[Q74b]",
+                "[Q74d]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Which word in paragraph 4 suggests that Clara was not worried at all?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "76": {
+          "stem_plain": "Why was the atmosphere of the house considered \"eerie\" (line 20)?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Explain fully how you can tell that Sparky was not as excited as Clara to explore the house.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "Based on paragraphs 6 to 8, state whether each statement in the table below is **true** or **false**, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The journal was important in Clara's search for the hidden treasure.",
+                "(b) Clara had no intention to find the hidden treasure."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q78b]",
+                "[Q78d]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Explain clearly why Clara sighed when she realised her flashlight was not in her backpack (line 38).",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "Based on what you have read in the last two paragraphs, circle one word that best describes Clara's personality.",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "curious",
+            "frustrated",
+            "persistent",
+            "persuasive"
+          ]
+        }
+      },
+      "passages": {
+        "title": "Passage — *Treasure Hunt in the Jungle*",
+        "lines": {
+          "1": "\"Come on, Sparky,\" Clara said, patting her dog's head. \"Let's see if we can find",
+          "2": "that old house everyone has been talking about today.\" That morning, Clara set off on a",
+          "3": "**new exploration** with her trusty dog, Sparky. She had heard rumours about an old,",
+          "4": "abandoned house deep in the forest and decided that that day was the perfect day to",
+          "5": "find it. Raring to go, she had a feeling that today would bring something thrilling.",
+          "6": "With her backpack filled with snacks and a flashlight, Clara led the way into the",
+          "7": "forest. Sparky trotted happily beside her, sniffing the ground and wagging his tail. The",
+          "8": "deeper they went, the darker and denser the forest became. She also felt the air grow",
+          "9": "cooler and the sounds of the town fading away.",
+          "10": "After walking for about an hour, Clara could make out the shape of a building.",
+          "11": "She thought she had found the old house so she quickened her pace. In no time, she",
+          "12": "and Sparky stood before the old house as it towered over them. The garden was",
+          "13": "overgrown with long grass and the paint on the walls was peeling. **They** made the place",
+          "14": "look like it had been uninhabited for years. The door was also slightly ajar, as if inviting",
+          "15": "Clara and Sparky in.",
+          "16": "\"Wow, this place is amazing. I wonder what's inside,\" Clara whispered to Sparky.",
+          "17": "She pushed the door open carefully, and it creaked loudly. Unfazed, Clara took out her",
+          "18": "flashlight and shone it around the dim interior. The house was filled with old furniture",
+          "19": "covered in white sheets, and cobwebs hung from the ceiling. Sparky started to whine",
+          "20": "loudly. Despite the eerie atmosphere, Clara felt nothing but the thrill of excitement.",
+          "21": "After coaxing Sparky to follow her by promising him a treat, they started to",
+          "22": "explore the house. Clara noticed a long hallway with several doors. One specific door",
+          "23": "captured her attention. Clara approached it cautiously. When she peeked inside, she",
+          "24": "saw a large, ornate desk. Clara swiftly entered the room and began to look around.",
+          "25": "On the desk, Clara found an old journal. Its cover was worn, and the pages were",
+          "26": "yellowed with age. Clara opened the journal and began to read. **It** belonged to someone",
+          "27": "named Elias, who lived in the house some years ago. Elias had written about his",
+          "28": "adventures and discoveries in the forest. One entry mentioned a hidden treasure buried",
+          "29": "somewhere nearby.",
+          "30": "As Clara read on, her excitement grew and she exclaimed, \"Sparky, did you",
+          "31": "know? There's a hidden treasure! We have to find it before it gets dark soon!\" With the",
+          "32": "journal in hand, Clara and Sparky left the old house and began their search. The journal",
+          "33": "contained clues about the treasure's location. Solving the mystery became Clara's top",
+          "34": "priority that day. They spent the rest of the day following the clues, exploring parts of the",
+          "35": "forest they had never seen before.",
+          "36": "Not long after, Clara and Sparky reached a clearing. In the middle of that was a",
+          "37": "large oak tree. According to the journal, the said treasure was buried at the base of that",
+          "38": "tree. As the sun began to set, Clara sighed when she realised her flashlight was not in",
+          "39": "her backpack anymore. Wasting no time, Clara quickly grabbed a small shovel from her",
+          "40": "backpack and started digging. After a while, she hit something hard."
+        },
+        "paragraphs": {
+          "1": "“来吧，Sparky，”Clara 拍着狗的头说。“咱们看看能不能找到今天大家都在说的那座老房子。”那天早上，Clara 和可靠的狗 Sparky 出发探险。她听说森林深处有座废弃老宅，觉得那天正是去寻找的完美日子。她跃跃欲试，感到今天将会有激动人心的经历。",
+          "6": "她背着装满零食和手电的背包带路走进森林。Sparky 高兴地小跑在旁，低头嗅地、摇尾巴。越走越深，树林越暗越密。她还感到空气变凉，镇上的声音渐渐远去。",
+          "10": "走了一小时左右，Clara 看见一座建筑的轮廓。她以为找到了那座老房子，便加快脚步。很快她和 Sparky 站在老屋前，房子高耸在面前。花园里杂草疯长，墙上油漆剥落，让这地方像多年无人居住。门微微开着，仿佛在邀请 Clara 和 Sparky 进去。",
+          "16": "“哇，这地方太棒了。我想知道里面有什么，”Clara 低声对 Sparky 说。她小心推开门，门大声嘎吱作响。Clara 不慌不忙，掏出手电照向昏暗的室内。屋里满是盖着白布的旧家具，天花板上挂着蜘蛛网。Sparky 开始大声呜咽。尽管气氛诡异，Clara 却只感到兴奋的刺激。",
+          "21": "她答应给 Sparky 零食，哄它跟着自己，开始在屋里探索。Clara 注意到一条长走廊和几扇门。有扇门特别吸引她。她谨慎走近，往里张望，看见一张华丽的大书桌，随即进屋四处查看。",
+          "25": "桌上有一本旧日记。封面磨损，纸页因年代久远发黄。Clara 打开日记阅读。日记属于多年前住在这里的 Elias；他写了在森林中的冒险与发现，其中一条提到附近有埋藏的宝藏。",
+          "30": "Clara 越读越兴奋，喊道：“Sparky，你知道吗？有隐藏的宝藏！得趁天还没黑赶快找！”她拿着日记和 Sparky 离开老屋开始搜寻。日记里有宝藏位置的线索，解开谜团成了她当天最重要的事。他们花了一天余下的时间按线索探索从未到过的森林。",
+          "36": "没过多久，Clara 和 Sparky 来到一片空地，中央有一棵大橡树。根据日记，宝藏就埋在那棵树底下。太阳开始落山，Clara 发现手电不在背包里，叹了口气。她立刻从背包里抓起小铲子开始挖，挖了一会儿，碰到坚硬的东西。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li>题型：按故事发生先后，在三个事件旁填 <strong>1、2、3</strong>。</li><li>范围：第 1–2 段，行 1–9。</li><li>行 2–3：<em>She had heard rumours about an old, abandoned house</em>（先听到传闻）→ 填 <strong>1</strong>。</li><li>行 1：<em>patting her dog's head</em>（出发前的动作）→ 填 <strong>2</strong>。</li><li>行 6–9：深入森林 → 填 <strong>3</strong>。</li><li>自上而下三格答案：<strong>2, 1, 3</strong>。</li></ol>",
+          "answer": [
+            "2, 1, 3"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a)</strong> 行 3：<em>new exploration</em> 指前文行 2 所说的寻找<strong>大家都在议论的那座老房子</strong>。</li><li><strong>(b)</strong> 行 13：<em>They</em> 指行 12–13 刚写的<strong>花园里疯长的草</strong>和<strong>剥落的墙漆</strong>，二者让房子显得荒废多年。</li><li><strong>(c)</strong> 行 26：<em>It</em> 回指<strong>桌上的旧日记</strong>（<em>the old journal</em>）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "72a": "Finding the old (abandoned) house everyone had been talking about",
+            "72b": "The overgrown long grass in the garden and the peeling paint on the walls",
+            "72c": "The old journal"
+          }
+        },
+        "73": {
+          "concept": "要点直答",
+          "note": "<ol><li>题型：双要点——说明如何知道已深入森林。</li><li>范围：第 2 段，行 8–9。</li><li><strong>(a)</strong> 行 9：<em>the air grow cooler</em>——空气变凉。</li><li><strong>(b)</strong> 行 9：<em>the sounds of the town fading away</em>——镇上声音远去。</li><li>两点合起来说明已远离城镇、进入密林深处。</li></ol>",
+          "answer": {
+            "73a": "Clara felt the air grow cooler.",
+            "73b": "The sounds of the town faded away."
+          }
+        },
+        "74": {
+          "concept": "表格信息填空",
+          "note": "<ol><li>题型：表格填空——三词短语 + 原因，范围第 1–3 段。</li><li><strong>(a)</strong> 行 5：<em>Raring to go</em>（跃跃欲试，表出发前的兴奋）。</li><li><strong>(b)</strong> 行 2–4：她想找到<strong>大家都在议论的那座老房子</strong>。</li><li><strong>(c)</strong> 行 11：<em>quickened her pace</em>（加快脚步，表好奇）。</li><li><strong>(d)</strong> 行 11：她以为找到了老房子，所以加快脚步。</li></ol>",
+          "answer": {
+            "74a": "Raring to go",
+            "74b": "She wanted to find the old house everyone was talking about.",
+            "74c": "Quickened her pace",
+            "74d": "She thought she had found the old house."
+          },
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li>题型：从第四段找一个表示'一点也不担心'的词。</li><li>范围：第四段，行 17。</li><li>证据：<em>Unfazed, Clara took out her flashlight …</em> — <span class=\"hl-good\">Unfazed</span> 意为镇定、不为所动；门嘎吱作响，Clara 却不受影响。</li></ol>",
+          "answer": [
+            "Unfazed"
+          ],
+          "type": "comprehension"
+        },
+        "76": {
+          "concept": "原因分析题",
+          "note": "<ol><li>题型：原因分析——为何气氛 <em>eerie</em>（诡异）。</li><li>范围：第四段，行 18–20。</li><li>要点一（行 18–19）：家具盖着白布，像久无人居。</li><li>要点二（行 19）：<em>cobwebs hung from the ceiling</em>——天花板上挂着蜘蛛网。</li></ol>",
+          "answer": [
+            "The house was filled with old furniture covered in white sheets, and cobwebs hung from the ceiling."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "解释说明题",
+          "note": "<ol><li>题型：对比说明——Sparky 不如 Clara 兴奋。</li><li>证据一（行 19、21）：<em>whine loudly</em>；还须用零食哄它跟上（<em>promising him a treat</em>）。</li><li>证据二（行 20）：<em>Clara felt nothing but the thrill of excitement</em>。</li><li>范文用 <em>while / whereas</em> 对照最清楚。</li></ol>",
+          "answer": [
+            "While Clara felt nothing but the thrill of excitement (line 20), Sparky started to whine loudly (line 19) and even had to be coaxed to follow her by being promised a treat (line 21)."
+          ],
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li>题型：判断正误表 + 一句依据；范围第 6–8 段。</li><li><strong>(a) True：</strong>行 33 日记含宝藏位置线索，她整天按线索搜寻。</li><li><strong>(b) False：</strong>行 33–34 解谜是当务之急；行 39–40 立刻拿铲子在橡树下挖掘，说明她<strong>有意</strong>寻宝。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "True",
+            "78b": "The journal contained clues about the treasure's location, so Clara needed it to find the hidden treasure",
+            "78c": "False",
+            "78d": "Clara wasted no time and grabbed a small shovel from her backpack to dig for the hidden treasure"
+          }
+        },
+        "79": {
+          "concept": "原因分析题",
+          "note": "<ol><li>题型：原因分析——为何叹气。</li><li>范围：第 8 段，行 38–40。</li><li>行 38：<em>the sun began to set</em>——天快黑了，需要照明。</li><li>行 6 她曾带手电；行 38 发现不在包里，无法在橡树下清楚挖掘 → 失望、着急，故叹气。</li></ol>",
+          "answer": [
+            "Clara needed the flashlight to light up the area because the sun was beginning to set (line 38). Without it, she would not be able to see clearly to dig at the base of the oak tree, and her search for the treasure would be much harder."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li>题型：圈选一个词形容性格；范围最后两段（行 36–40）。</li><li>行 38–40：手电丢了仍立刻拿铲挖掘，直到 <em>hit something hard</em>——不放弃。</li><li><span class=\"hl-good\">persistent</span>（坚持不懈）最贴切。</li><li><em>curious</em> 多指早前探屋；<em>frustrated / persuasive</em> 文中无依据。</li></ol>",
+          "answer": [
+            "persistent"
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "paperid": "p4_english_2026_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Dummy 1 grammer mcq, any option is ok _____.",
+          "options": {
+            "1": "option1",
+            "2": "option2",
+            "3": "option3",
+            "4": "option4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Dummy 1 vocabulary item: She felt ________ after the long hike.",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "对stem_plain的中文翻译",
+          "note": "对正确option 的解释",
+          "concept": "题型概念-Concept",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "选项1",
+              "eg": "The recruits were told to **Option 1** at the parade square before the inspection."
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "选项2",
+              "eg": "Sales of the toy **Option 2** sharply after reports of a safety defect."
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "选项3",
+              "eg": "Several branches **Option 3** onto the road during last night's thunderstorm."
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "选项4",
+              "eg": "The plans for the rebuilding of the orphanage **Option 4** as there was no donor for the project."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "sample",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "This is a [Q16 (prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Option 1",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "2",
+              "word": "Option 2",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "3",
+              "word": "Option 3",
+              "zh": "",
+              "eg": ""
+            },
+            {
+              "opt": "4",
+              "word": "Option 4",
+              "zh": "",
+              "eg": ""
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "after",
+          "B": "before",
+          "C": "during",
+          "D": "since"
+        },
+        "cloze": [
+          "Prototype grammar cloze: We arrived [Q29] the show had already started."
+        ],
+        "zh": [
+          "示例语法填空段落。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype editing: The [Q39(childrens)] played in the park."
+        ],
+        "zh": [
+          "示例改错题段落。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun rose [Q51] the horizon."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "Prototype",
+          "note": "Prototype blank.",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Quacky was a half-grown duckling when it first wandered into the Kims' countryside",
+          "2": "house two years ago. As Mr and Mrs Kim's two teenaged daughters were frightened of the",
+          "3": "duck, Mr Kim tried chasing it away several times. However, the duck was very persistent.",
+          "4": "It would always return, quacking softly outside if the door was closed or strolling contentedly",
+          "5": "all over the house if someone had forgotten to shut the door.",
+          "6": "After a few months of having their home invaded by the duck, Mrs Kim told her",
+          "7": "children that she would call a nearby animal shelter to take the duck away. However,",
+          "8": "despite her resolve to get their unwelcome visitor removed, she kept putting it off till a later",
+          "9": "date as she was very busy during that period.",
+          "10": "One morning, Mrs Kim was alone at home when she tripped over the edge of the",
+          "11": "living room rug. There was a sharp pain in her right ankle, and soon it had swollen to almost",
+          "12": "double its original size. That was when Mrs Kim knew she had to seek medical help quickly.",
+          "13": "But how? She had accidentally left her handphone in the family car the night before, and",
+          "14": "by the time she remembered it earlier that morning, her husband had already driven off to",
+          "15": "work. There was no other telephone in the house as everyone in the household relied on",
+          "16": "their own personal handphone. There was no way that Mrs Kim could call anyone for help.",
+          "17": "Fearing that she had broken her ankle, Mrs Kim was beginning to panic when she",
+          "18": "heard a familiar \"quack, quack\" coming from outside the house. Listening carefully, she",
+          "19": "could hear the quacking becoming louder as the duck came closer. \"Quack, quack,\"",
+          "20": "repeated the duck at frequent intervals as it approached the house. The repetitive sound",
+          "21": "struck Mrs Kim as comical in her dreadful situation and that strangely calmed her down.",
+          "22": "It so happened that the front door had not been shut properly that day, and soon a",
+          "23": "beak could be seen sticking out from behind the door. \"Quack,\" went the duck happily as it",
+          "24": "entered the living room.",
+          "25": "“Oh, hello, little duck,\" Mrs Kim said weakly. But the moment the duck saw Mrs Kim",
+          "26": "lying on the floor, it quacked rapidly and hopped around flapping its wings before flying out",
+          "27": "of the door. Mrs Kim's heart sank at the duck's abandonment of her. Now she did not even",
+          "28": "have an animal to talk to as a distraction from the pain in her ankle.",
+          "29": "To Mrs Kim's immense surprise and relief, the duck returned several minutes later,",
+          "30": "followed by her neighbour, Mr Amir, who had an annoyed expression on his face. Mrs Kim",
+          "31": "later found out that the duck had gone to Mr Amir's house and quacked loudly and",
+          "32": "incessantly until Mr Amir came out of his house. The duck had somehow led him back to",
+          "33": "Mrs Kim. Mr Amir had intended to complain to Mrs Kim about the noisy duck, but when he",
+          "34": "saw what had happened to her, he quickly called for an ambulance.",
+          "35": "At the hospital, Mrs Kim had an X-ray which revealed that she only had an ankle",
+          "36": "sprain. Thanks to the prompt treatment she received, she recovered well in a couple of",
+          "37": "weeks. From then on, no one in the family ever spoke about getting rid of the duck again",
+          "38": "and the children even let it follow them about the house.",
+          "39": "Mrs Kim found an old basket and filled it with straw for the duck to sleep in. She also",
+          "40": "gave it a name that was highly meaningful to her: Quacky!"
+        },
+        "paragraphs": {
+          "1": "两年前，当“嘎嘎”第一次流浪到金家的乡村小屋时，它还是一只刚长了一半大的小鸭子。由于金先生和金太太的两个十几岁的女儿都很怕这只鸭子，金先生曾多次试图把它赶走。然而，这只鸭子非常执着。如果门关着，它总会回来在外面轻声嘎嘎叫；如果有人忘了关门，它就会在屋里满足地到处溜达。",
+          "6": "在家里被这只鸭子“入侵”了几个月后，金太太告诉孩子们，她会打电话给附近的动物收容所把鸭子带走。然而，尽管她下定决心要赶走这位不受欢迎的访客，但由于那段时间她非常忙，便一直把这件事往后推。",
+          "10": "一天早上，金太太独自一人在家，不小心被客厅地毯的边缘绊倒了。她的右脚踝感到一阵剧痛，很快就肿得几乎是原来的两倍大。就在那时，金太太意识到她必须尽快寻求医疗帮助。但该怎么做呢？她前一天晚上不小心把手机忘在自家的车里了，等到那天早上她想起来时，丈夫已经开车去上班了。屋里没有其他电话，因为家里的每个人都依赖自己的私人手机。金太太根本没办法打电话向任何人求助。",
+          "17": "由于担心自己的脚踝骨折了，金太太开始恐慌起来。就在这时，她听到屋外面传来熟悉 的“嘎嘎，嘎嘎”声。仔细听去，随着鸭子走近，嘎嘎声越来越大。“嘎嘎，嘎嘎，”鸭子在靠近屋子时不断地重复叫着。在如此糟糕的处境下，这种重复的声音让金太太觉得很滑稽，也奇迹般地让她平静了下来。",
+          "22": "那天正好前门没有关好，很快就能看到一个鸭嘴从门后探了出来。“嘎嘎，”鸭子高兴地叫着走进了客厅。",
+          "25": "“噢，你好，小鸭子，”金太太虚弱地说道。但当鸭子看到躺在地上的金太太时，它急促地嘎嘎叫了几声，拍打着翅膀在周围蹦跳，然后飞快地跑出了门。鸭子的离去让金太太的心沉了下去。现在，她连一只可以说话的动物都没有了，无法转移脚踝带来的疼痛。",
+          "29": "让金太太感到极其惊讶和欣慰的是，几分钟后鸭子又回来了，后面还跟着她的邻居阿米尔先生，他脸上带着恼怒的神情。金太太后来才知道，这只鸭子去了阿米尔先生家，在外面不停地大声嘎嘎叫，直到阿米尔先生从屋里走出来。这只鸭子不知怎的把他引回了金太太家。阿米尔先生原本是想来向金太太抱怨这只吵闹的鸭子的，但当他看到金太太的遭遇时，他赶紧拨打了救护车电话。",
+          "35": "在医院里，金太太做了X光检查，结果显示她只是脚踝扭伤。多亏了及时的治疗，她在几周内恢复得很好。从那以后，家里再也没有人提起要把鸭子送走的事了，孩子们甚至让它在屋里跟着他们到处走。",
+          "39": "金太太找来一个旧篮子，里面铺满稻草让鸭子睡在里面。她还给它取了一个对她来说非常有意义的名字：“嘎嘎”！"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Sulin.",
+          "**Write an email to Devi to encourage her to join your team.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the date and venue of the competition",
+          "two reasons you want her to be in your team",
+          "what the winning team can look forward to",
+          "the last day to register for the competition"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

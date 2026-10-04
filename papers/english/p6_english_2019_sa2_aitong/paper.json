@@ -1,0 +1,1152 @@
+{
+  "paperid": "p6_english_2019_sa2_aitong",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Mrs Rina takes her children for a swim every Sunday ________ the weather.",
+          "options": {
+            "1": "in spite of",
+            "2": "because of",
+            "3": "regardless of",
+            "4": "as a result of"
+          }
+        },
+        "2": {
+          "stem_plain": "\"Sue hardly buys food from the canteen during recess, ________?\" asked Miss Lim.",
+          "options": {
+            "1": "has she",
+            "2": "does she",
+            "3": "hasn't she",
+            "4": "doesn't she"
+          }
+        },
+        "3": {
+          "stem_plain": "The student ________ the principal presented the \"Role Model\" award to is our class monitor.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whoever"
+          }
+        },
+        "4": {
+          "stem_plain": "\"________ you have offered the suggestion earlier? It would have helped the team solve the problem,\" Sam groused.",
+          "options": {
+            "1": "Can't",
+            "2": "Won't",
+            "3": "Couldn't",
+            "4": "Wouldn't"
+          }
+        },
+        "5": {
+          "stem_plain": "As Kenny's parents wanted him to be more independent, they offered ________ advice in the decisions he made.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "many",
+            "4": "much"
+          }
+        },
+        "6": {
+          "stem_plain": "The police are appealing ________ the residents to furnish them with more information about the recent thefts in the neighbourhood.",
+          "options": {
+            "1": "to",
+            "2": "for",
+            "3": "with",
+            "4": "from"
+          }
+        },
+        "7": {
+          "stem_plain": "Findings from the research conducted on the new bacteria ________ in a segment of the news tomorrow.",
+          "options": {
+            "1": "are reported",
+            "2": "will be reported",
+            "3": "is being reported",
+            "4": "are being reported"
+          }
+        },
+        "8": {
+          "stem_plain": "Brenda noticed her classmate ________ and went over to console her.",
+          "options": {
+            "1": "cry",
+            "2": "cries",
+            "3": "cried",
+            "4": "crying"
+          }
+        },
+        "9": {
+          "stem_plain": "The progress for these projects ________ taking longer than expected so the supervisor has stepped in to help.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "10": {
+          "stem_plain": "If the twins ________ about the consequences earlier, this incident would not have happened.",
+          "options": {
+            "1": "think",
+            "2": "thought",
+            "3": "had thought",
+            "4": "have thought"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "‘regardless of’ 意为“不管、不顾”。句意为“无论天气如何，里娜太太每个星期天都会带孩子们去游泳”，符合日常语境。",
+          "concept": "介词短语 — Prepositional Phrase",
+          "answer": "3",
+          "zh": "无论天气如何，里娜太太每个星期天都会带孩子们去游泳。"
+        },
+        "2": {
+          "note": "句中含有半否定词 ‘hardly’（几乎不），因此反意疑问部分要用肯定形式。陈述动词为 ‘buys’，对应的肯定助动词应为 ‘does’。",
+          "concept": "反意疑问句 — Question Tag",
+          "answer": "2",
+          "zh": "“苏在课间休息时几乎不从食堂买食物，不是吗？”林小姐问。"
+        },
+        "3": {
+          "note": "关系代词 ‘whom’ 在定语从句中指代人（The student），且在从句中作为介词 ‘to’ 的宾语（presented the award to whom）。",
+          "concept": "关系代词 — Relative Pronoun",
+          "answer": "3",
+          "zh": "校长向其颁发“模范”奖的那位学生是我们的班长。"
+        },
+        "4": {
+          "note": "根据后半句 ‘It would have helped...’（本可以帮助……）可知这是对过去发生事情的虚拟和感叹。‘Couldn't’ 在此用于否定疑问句，表示“难道过去不能……吗”，完全符合语境。",
+          "concept": "情态动词 — Modal Verbs",
+          "answer": "3",
+          "zh": "“你难道不能早点提出这个建议吗？它本可以帮助团队解决问题的，”萨姆抱怨道。"
+        },
+        "5": {
+          "note": "‘advice’（建议）是不可数名词，排除 few 和 many。根据前文 “父母希望他更独立” 提示，他们在他做决定时应该会给予 “很少的” 建议，因此选含有否定意义的 ‘little’。",
+          "concept": "不定量词 — Quantifiers",
+          "answer": "2",
+          "zh": "由于肯尼的父母希望他更独立，他们在他做的决定中几乎不提供建议。"
+        },
+        "6": {
+          "note": "‘appeal to someone’ 是固定搭配，意为“呼吁某人、向某人请求”。这里指警察呼吁居民提供关于近期偷窃案的更多信息。",
+          "concept": "动词短语搭配 — Prepositional Phrase",
+          "answer": "1",
+          "zh": "警方正呼吁居民向他们提供更多关于近期社区盗窃案的信息。"
+        },
+        "7": {
+          "note": "主语为复数名词 ‘Findings’，且带有时间状语 ‘tomorrow’（明天），提示动作在将来发生，同时 Findings 与 report 是被动关系，故采用一般将来时的被动语态 ‘will be reported’。",
+          "concept": "被动语态 — Passive Voice",
+          "answer": "2",
+          "zh": "关于新细菌的研究结果将在明天的某段新闻中播报。"
+        },
+        "8": {
+          "note": "‘noticed’ 是感官动词，后接宾语加动词形式。‘notice someone doing something’ 强调看到某人正在做某事，此时用现在分词 ‘crying’ 最具画面感，符合后面“走过去安慰她”的动作语境。",
+          "concept": "感官动词 — Verbs of Perception",
+          "answer": "4",
+          "zh": "布伦达注意到她的同学正在哭泣，便走过去安慰她。"
+        },
+        "9": {
+          "note": "句子的核心主语是单数名词 ‘progress’（进展），后面 ‘for these projects’ 是定语。根据后半句的现在完成时 ‘has stepped in’ 可知，整个故事时间轴立足于现在，故选用一般现在时单数形式 ‘is’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "1",
+          "zh": "这些项目的进展花费了比预期更长的时间，因此主管已经介入提供帮助。"
+        },
+        "10": {
+          "note": "主句 ‘would not have happened’ 表明这是对过去已经发生事实的虚拟。根据虚拟语气的规则，if 引导的条件状语从句需使用过去完成时，即 ‘had thought’。",
+          "concept": "虚拟语气 — Subjunctive Mood",
+          "answer": "3",
+          "zh": "如果这对双胞胎早点考虑到后果，这件事就不会发生了。"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "As they neared the finishing line, the marathon runners ________ every muscle by mustering their last bit of strength to emerge the winner.",
+          "options": {
+            "1": "exerted",
+            "2": "strained",
+            "3": "loosened",
+            "4": "exercised"
+          }
+        },
+        "12": {
+          "stem_plain": "Realising that he was in grave danger, Zach shouted ________ for help, hoping to attract the attention of passers-by.",
+          "options": {
+            "1": "pitifully",
+            "2": "fiercely",
+            "3": "eagerly",
+            "4": "desperately"
+          }
+        },
+        "13": {
+          "stem_plain": "When you exercise, your heart ________ increases so that more blood is pumped to the muscles.",
+          "options": {
+            "1": "rate",
+            "2": "pace",
+            "3": "state",
+            "4": "speed"
+          }
+        },
+        "14": {
+          "stem_plain": "There is a ________ possibility that Amanda will attend the party since her leg is still swollen.",
+          "options": {
+            "1": "real",
+            "2": "weak",
+            "3": "slight",
+            "4": "distinct"
+          }
+        },
+        "15": {
+          "stem_plain": "\"I'm sure you will win the scholarship. Everyone's ________ you,\" Abbey told her sister.",
+          "options": {
+            "1": "rooting in",
+            "2": "rooting for",
+            "3": "rooting with",
+            "4": "rooting around"
+          },
+          "image": "q15.jpeg"
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "当他们接近终点线时，马拉松选手们竭尽全力每一块肌肉，鼓起最后一丝力气力求脱颖而出成为赢家。",
+          "note": "‘strain every muscle’是一个固定短语，意为‘竭尽全力、用尽每一份力量’。句中马拉松运动员在冲刺时为了赢而拼尽全力，符合语境。",
+          "concept": "Vocabulary-Verb",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "exerted",
+              "zh": "施加，尽力（动词，指运用力量、权威或影响力等以产生某种结果）",
+              "eg": "He exerted all his influence to get his son a job at the prestigious firm."
+            },
+            {
+              "opt": "2",
+              "word": "strained",
+              "zh": "竭尽全力，使劲（动词，指最大限度地使用身体或精神力量，常用搭配 strain every muscle）",
+              "eg": "She strained every muscle to lift the heavy box onto the high shelf."
+            },
+            {
+              "opt": "3",
+              "word": "loosened",
+              "zh": "放松，解开（动词，指使某物变松、不那么紧绷或减少对某物的控制）",
+              "eg": "The athlete loosened his tie and unbuttoned his collar after the long press conference."
+            },
+            {
+              "opt": "4",
+              "word": "exercised",
+              "zh": "锻炼，行使（动词，指通过进行体育活动来锻炼身体，或者行使权力、权利等）",
+              "eg": "Citizens exercised their right to vote in the national election yesterday."
+            }
+          ]
+        },
+        "12": {
+          "zh": "意识到自己处于巨大的危险之中，扎克不顾一切地大声呼救，希望能吸引路人的注意。",
+          "note": "‘desperately’意为‘不顾一切地、拼命地’。句中提到主角处于‘grave danger’（巨大的危险），因此他的呼救一定是非常不顾一切且拼命的。",
+          "concept": "Vocabulary-Adverb",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "pitifully",
+              "zh": "可怜地，极其微小地（副词，指引起同情或怜悯，亦可指数量少得令人失望）",
+              "eg": "The injured kitten meowed pitifully in the rain until someone rescued it."
+            },
+            {
+              "opt": "2",
+              "word": "fiercely",
+              "zh": "凶猛地，猛烈地（副词，指以一种具有攻击性、狂暴或极度强烈的方式）",
+              "eg": "The cold wind blew fiercely across the empty valley during the winter storm."
+            },
+            {
+              "opt": "3",
+              "word": "eagerly",
+              "zh": "渴望地，热切地（副词，指表现出极大的兴趣或急切想做某事的心情）",
+              "eg": "The children eagerly tore open their presents on Christmas morning."
+            },
+            {
+              "opt": "4",
+              "word": "desperately",
+              "zh": "拼命地，不顾一切地（副词，指在极度危险或绝望的情况下疯狂做出尝试）",
+              "eg": "The trapped passengers desperately tried to break the window to escape the smoke."
+            }
+          ]
+        },
+        "13": {
+          "zh": "当你运动时，你的心率会增加，以便将更多的血液输送到肌肉。",
+          "note": "‘heart rate’是固定搭配，意为‘心率’。运动时心跳加快，心率上升以输送更多血液，完全符合科学常识与语境。",
+          "concept": "Vocabulary-Noun",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rate",
+              "zh": "率，速率（名词，指某事发生或重复的速度，或两种测量值之间的比例关系）",
+              "eg": "Doctors monitor the patient's heart rate to ensure it remains within a safe range."
+            },
+            {
+              "opt": "2",
+              "word": "pace",
+              "zh": "步调，节奏（名词，指行走、跑步或某活动移动发展的恒定速度）",
+              "eg": "The tour guide walked at a brisk pace so we could see all the exhibits."
+            },
+            {
+              "opt": "3",
+              "word": "state",
+              "zh": "状态，状况（名词，指人或物在特定时间所处的特定情形或身心状况）",
+              "eg": "The old house was in a terrible state of neglect with broken windows and a leaking roof."
+            },
+            {
+              "opt": "4",
+              "word": "speed",
+              "zh": "速度（名词，指某物移动或运转的快慢程度）",
+              "eg": "The driver was fined for exceeding the speed limit on the narrow highway."
+            }
+          ]
+        },
+        "14": {
+          "zh": "阿曼达有很小的可能会参加聚会，因为她的腿仍然肿着。",
+          "note": "‘slight’表示‘微小的’。后半句提到‘since her leg is still swollen’（因为她的腿仍然肿着），说明她去参加聚会的可能性很低、很微小，因此用 slight possibility 最贴切。",
+          "concept": "Vocabulary-Adjective",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "real",
+              "zh": "真实的，真正的（形容词，指实际上存在而不是虚构或想象的）",
+              "eg": "There is a real danger of flooding if the heavy rain continues through the night."
+            },
+            {
+              "opt": "2",
+              "word": "weak",
+              "zh": "虚弱的，微弱的（形容词，指缺乏身体力量、权力、影响力，或信号不清晰）",
+              "eg": "The old man was too weak to stand up without the help of his walking cane."
+            },
+            {
+              "opt": "3",
+              "word": "slight",
+              "zh": "微小的，轻微的（形容词，指数量、程度、可能性或重要性非常小、不明显的）",
+              "eg": "I have a slight headache, so I think I will lie down and rest for an hour."
+            },
+            {
+              "opt": "4",
+              "word": "distinct",
+              "zh": "明显的，清晰的（形容词，指清晰可见、明显存在或截然不同的）",
+              "eg": "There is a distinct smell of smoke coming from the basement, so please check it."
+            }
+          ]
+        },
+        "15": {
+          "zh": "“我相信你一定会赢得奖学金。大家都在支持你，”阿比对她的妹妹说。",
+          "note": "‘rooting for’是一个固定动词短语，意为‘为……加油、支持某人’。姐姐鼓励妹妹一定会拿奖学金，因为大家都在支持她，符合语境。",
+          "concept": "Vocabulary-Phrasal Verb",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rooting in",
+              "zh": "扎根于（动词短语，通常用于被动语态 be rooted in，指深深起源于某事或某处）",
+              "eg": "His strong belief in honesty is deeply rooted in his childhood upbringing."
+            },
+            {
+              "opt": "2",
+              "word": "rooting for",
+              "zh": "为……加油，支持（动词短语，指表达对某人、团队或计划的强烈支持并祝愿其成功）",
+              "eg": "The whole school was rooting for the football team during the finals."
+            },
+            {
+              "opt": "3",
+              "word": "rooting with",
+              "zh": "（非固定搭配，无特定学术或日常使用含义）",
+              "eg": "The students were cooperating with each other during the cleanup."
+            },
+            {
+              "opt": "4",
+              "word": "rooting around",
+              "zh": "翻寻，搜寻（动词短语，指在一个地方乱翻或翻动抽屉、包包等以寻找某物）",
+              "eg": "She was rooting around in her large handbag looking for her car keys."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "drastically transformed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "happily",
+            "2": "intensely",
+            "3": "completely",
+            "4": "unexpectedly"
+          }
+        },
+        "17": {
+          "stem_plain": "very withdrawn",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "indifferent",
+            "2": "reserved",
+            "3": "modest",
+            "4": "aloof"
+          }
+        },
+        "18": {
+          "stem_plain": "took a turn for the better",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "evolved",
+            "2": "changed",
+            "3": "improved",
+            "4": "flourished"
+          }
+        },
+        "19": {
+          "stem_plain": "challenge myself",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "confront",
+            "2": "rival",
+            "3": "defy",
+            "4": "test"
+          }
+        },
+        "20": {
+          "stem_plain": "stumbling block",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "hurdle",
+            "2": "limitation",
+            "3": "blockage",
+            "4": "hindrance"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “drastically transformed”形容生活发生了彻底的、翻天覆地的改变，与“completely（完全地、彻底地）”意思最接近。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "happily",
+              "zh": "快乐地，幸福地",
+              "eg": "They lived happily in the quiet countryside town."
+            },
+            {
+              "opt": "2",
+              "word": "intensely",
+              "zh": "强烈地，极度地",
+              "eg": "The sun shone intensely on the dry desert sand."
+            },
+            {
+              "opt": "3",
+              "word": "completely",
+              "zh": "完全地，彻底地",
+              "eg": "The look of the building was completely changed after the cleanup."
+            },
+            {
+              "opt": "4",
+              "word": "unexpectedly",
+              "zh": "出乎意料地，突然地",
+              "eg": "An old school friend unexpectedly turned up at my home."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “very withdrawn”形容性格孤僻、沉默寡言且不愿与他人交往，与“reserved（内敛的、沉默寡言的）”在描写性格特征时最为契合。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "indifferent",
+              "zh": "冷漠的，不在乎的",
+              "eg": "He remained indifferent to the complaints of his teammates."
+            },
+            {
+              "opt": "2",
+              "word": "reserved",
+              "zh": "内敛的，沉默寡言的，有保留的",
+              "eg": "The new student was quite reserved and spoke very little."
+            },
+            {
+              "opt": "3",
+              "word": "modest",
+              "zh": "谦虚的，适度的",
+              "eg": "She was very modest about her great success in the competition."
+            },
+            {
+              "opt": "4",
+              "word": "aloof",
+              "zh": "高冷的，疏远的",
+              "eg": "His arrogant behavior made him seem aloof from the group."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — 固定习语“took a turn for the better”意为情况好转、向好的方向发展，因此与“improved（改善、好转）”同义。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "evolved",
+              "zh": "进化，逐步发展",
+              "eg": "The simple computer tool evolved into a highly popular app."
+            },
+            {
+              "opt": "2",
+              "word": "changed",
+              "zh": "改变",
+              "eg": "The weather changed suddenly from sunshine to cloudy rain."
+            },
+            {
+              "opt": "3",
+              "word": "improved",
+              "zh": "改善，好转，进步",
+              "eg": "Her English writing skills have improved a lot this term."
+            },
+            {
+              "opt": "4",
+              "word": "flourished",
+              "zh": "繁荣，兴旺",
+              "eg": "The business flourished under the leadership of the new director."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “challenge myself”指挑战自我，测试并挖掘自己的潜力极限，在此处选用“test（测试、考验）”作为近义替换最契合语境。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "confront",
+              "zh": "直面，对抗（尤指勇敢面对困难/敌人）",
+              "eg": "You need to confront your fears instead of running away."
+            },
+            {
+              "opt": "2",
+              "word": "rival",
+              "zh": "与……竞争，比得上",
+              "eg": "No other local bakery can rival their delicious fresh pies."
+            },
+            {
+              "opt": "3",
+              "word": "defy",
+              "zh": "违抗，反抗",
+              "eg": "The brave soldiers decided to defy the strict rules of the enemy."
+            },
+            {
+              "opt": "4",
+              "word": "test",
+              "zh": "测试，考验，检验",
+              "eg": "The long, difficult journey will test your physical strength limit."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — 固定短语“stumbling block”比喻成前进道路上的绊脚石、阻碍或难关，与名词“hurdle（障碍，栏架，难关）”意思完全相符。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hurdle",
+              "zh": "障碍，难关，栏架",
+              "eg": "Passing the interview was the final hurdle to getting the job."
+            },
+            {
+              "opt": "2",
+              "word": "limitation",
+              "zh": "限制，局限性",
+              "eg": "Every athlete must understand the physical limitation of their body."
+            },
+            {
+              "opt": "3",
+              "word": "blockage",
+              "zh": "堵塞，阻碍物（通常指物理管道等堵塞）",
+              "eg": "The workers removed a heavy blockage from the drain pipes."
+            },
+            {
+              "opt": "4",
+              "word": "hindrance",
+              "zh": "起阻碍作用的人或物",
+              "eg": "The thick fog was a major hindrance to the rescue aircraft."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Keller Chai had a childhood heart condition. Her life was [Q16(drastically transformed)] when she picked up archery. “I was weak and sickly when I was younger and because of my condition, I also became [Q17(very withdrawn)], refusing to interact with others,” Miss Chai shared. When she was studying at Ngee Ann Polytechnic, things [Q18(took a turn for the better)] and she decided to try something new. “I wanted to [Q19(challenge myself)] so I decided to take up a sport for the first time,” Miss Chai explained. Using her savings, Miss Chai bought her first bow for $2,100. But getting past the first [Q20(stumbling block)] was a struggle, even when it came to holding the 2 kg bow. She also took longer than her peers to learn the basics."
+        ],
+        "zh": [
+          "蔡凯勒（Keller Chai）小时候患有心脏病。当她接触到射箭运动后，她的生活发生了彻底的改变。“我小时候体弱多病，也因为身体状况，我的性格变得非常内向，拒绝与他人交往，”蔡小姐分享道。当她在义安理工学院（Ngee Ann Polytechnic）上学时，情况开始好转，她决定尝试一些新的事物。“我想挑战自我，所以我决定生平第一次参加一项体育运动，”蔡小姐解释说。她用自己的积蓄花2100美元购买了她的第一把弓。但是，跨越第一个难关却非常艰难，甚至连举起2公斤重的弓都费尽全力。她学习基础知识花费的时间也比同龄人更长。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘was’ 构成一般过去时，主语是过去的年份 1819，表示‘1819年是新加坡当时的一个关键转折点’。",
+          "answer": "L"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘already had over a hundred years of history’，由于图片中 over 被印刷或污渍遮挡，此处使用介词 over 表示‘超过’或由句意结合选项选用 over，若选项中只有 (N) which/ (Q) would 等，此处应根据语境选择最符合的程度修饰。重新核对：Raffles arrived in 1819, Singapore already had over/nearly... 查看选项：(D) for, (E) from, (M) were, (N) which. 此处原句可能为定语从句或其他结构，若为 'which had a hundred years...' 或者是 'would'。由于后文提到的是200周年，1819年是100周年，故为过去推测或标志，最符合的选项是 (Q) would，‘新加坡那时即将拥有百年的历史’。",
+          "answer": "Q"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘from’ 与后面的地点搭配，表示移民‘来自东南亚、中国、印度及其他地区’。",
+          "answer": "E"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘were’ 构成一般过去时，主语是复数代词 Among the first（在第一批人当中包括……），故系动词用 were。",
+          "answer": "M"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘which’ 引导非限制性定语从句，在从句中作主语，修饰前面的整个概念或 survival tool，‘它将新加坡与世界其他地方联系在了一起’。",
+          "answer": "N"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘but’ 引导转折句，‘新加坡赢得了独立，但是这段旅程并不是一帆风顺的’。",
+          "answer": "A"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘attracted by’ 过去分词短语作后置定语，表示‘被过上更好生活的可能性所吸引的人们’。",
+          "answer": "C"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘and’ 表并列顺承，‘（虽然不是所有人都找到了财富，但他们）并白手起家实现了发家致富’，或前后句意的顺承连接词。",
+          "answer": "B"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘for their families’ 介词短语，表示‘为他们的家庭（创造了更好的生活）’。",
+          "answer": "D"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘should’ 情态动词，表示‘应该’，‘整个国家应该共同思考如何一起向前迈进’。",
+          "answer": "J"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "B": "and",
+          "C": "by",
+          "D": "for",
+          "E": "from",
+          "F": "is",
+          "G": "or",
+          "H": "ever",
+          "J": "should",
+          "K": "so",
+          "L": "was",
+          "M": "were",
+          "N": "which",
+          "P": "with",
+          "Q": "would"
+        },
+        "cloze": [
+          "Singapore celebrates its bicentennial this year. As Singapore looks back on its history, all will know that 1819 [Q29] a crucial turning point for Singapore then. When Stamford Raffles arrived in 1819, Singapore already had [Q30] a hundred years of history.",
+          "Raffles made Singapore a free port. The new colony prospered, and the population grew rapidly. Immigrants came [Q31] South-east Asia, China, India and beyond. Among the first [Q32] Munshi Abdullah, Tan Tock Seng and Naraina Pillai. Trade was the survival tool [Q33] linked Singapore to the rest of the world.",
+          "In 1965, Singapore gained independence [Q34] the journey was not a smooth one. People came, attracted [Q35] the possibility of a better life. While not all found that pot of gold [Q36] made it from rags to riches, many did build better lives [Q37] their families.",
+          "Together, the country [Q38] think about how to move forward together. It is every generation's duty to continue with the legacy."
+        ],
+        "zh": [
+          "新加坡今年庆祝开埠200周年。当新加坡回顾其历史时，所有人都会知道1819年是新加坡当时的一个关键转折点。当斯坦福·莱佛士于1819年到达时，新加坡就已经（即将）拥有了一百年的历史。",
+          "莱佛士将新加坡建成了自由港。这个新殖民地繁荣起来，人口迅速增长。移民来自东南亚、中国、印度及其他地区。第一批移民中包括阿卜杜拉、陈督生和纳拉亚纳·皮莱。贸易是生存的工具，它将新加坡与世界其他地方联系在了一起。",
+          "1965年，新加坡赢得了独立，但这段旅程并不是一帆风顺的。人们被过上更好生活的可能性所吸引而来。虽然不是所有人都能找到属于自己的财富并白手起家实现发家致富，但许多人确实为他们的家庭创造了更好的生活。",
+          "整个国家应该共同思考如何一起向前迈进。延续这份遗产是每一代人的责任。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 occurrences（名词，意为发生、发生的事）。",
+          "answer": "occurrences"
+        },
+        "40": {
+          "concept": "动词时态与词性 - Verb Tenses and Form",
+          "note": "词性错误：ripe 是形容词，此处作谓语动词，应改为动词原形 ripen（成熟）。",
+          "answer": "ripen"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 perseverance（名词，意为坚持不懈、毅力）。",
+          "answer": "perseverance"
+        },
+        "42": {
+          "concept": "主谓一致 - Subject-Verb Agreement",
+          "note": "主谓一致：主语 Their perseverance 是不可数名词（单数概念），谓语动词应用 is，而非 are。",
+          "answer": "is"
+        },
+        "43": {
+          "concept": "平行结构 - Parallel Structure",
+          "note": "平行结构：and 连接前后并列的动作，前面是 guard the durian trees（动词原形），后面也应保持一致，将 camping 改为动词原形 camp。",
+          "answer": "camp"
+        },
+        "44": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：定冠词 The 后面修饰核心词应用名词形式 popularity（受欢迎程度），而非形容词 popular。",
+          "answer": "popularity"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 complain（动词，意为抱怨、投诉），主语为复数 Ubin residents，用动词原形。",
+          "answer": "complain"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 appetite（名词，意为食欲、胃口）。",
+          "answer": "appetite"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 recommends（动词，意为推荐、建议）。",
+          "answer": "recommends"
+        },
+        "48": {
+          "concept": "副词 - Adverbs",
+          "note": "词性错误：修饰“举办节日”这一动作，应用副词形式 annually（每年地），而非形容词 annual。",
+          "answer": "annually"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 commitment（名词，意为承诺、奉献）。",
+          "answer": "commitment"
+        },
+        "50": {
+          "concept": "被动语态 - Passive Voice",
+          "note": "语态错误：表示“被分享”，应使用 be 动词搭配过去分词，将 share 改为 shared。",
+          "answer": "shared"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Durian war has broken out on Pulau Ubin. Clashes are regular [Q39(ocurances)] between its residents and visitors who go over to stake their claim on the durians whenever [Q40(they ripe)] twice a year on the island. Their [Q41(peseverence)] to get their hands on the durians [Q42(are)] evident as they guard the durian trees and [Q43(camping)] overnight in the forests. [Q44(The popular)] of the durians on the island is due to the fact that they are organic. Ubin residents [Q45(complane)] that the durians are later sold commercially in Singapore, with few left to whet their [Q46(apettite)].",
+          "To resolve this conflict, NParks [Q47(reccomends)] that a durian festival be held [Q48(annual)] on the island after reaching a consensus with the islanders. This festival is in line with NParks' [Q49(comittment)] to retain Pulau Ubin in its natural and rustic state. Durians found in public areas are to be [Q50(share)]. According to state laws, no one, whether visitors or islanders, is allowed to pick up durians found on public land."
+        ],
+        "zh": [
+          "乌敏岛上爆发了“榴莲大战”。每当岛上的榴莲一年成熟[Q40(熟)]两次时，岛上居民与前往争夺榴莲所有权的游客之间就会定期[Q39(发生)]冲突。他们为了得到榴莲而表现出的[Q41(毅力)]显而易见，因为他们会看守榴莲树，并在森林里通宵[Q43(露营)]。该岛榴莲[Q44(大受欢迎)]的原因在于它们是天然有机的。乌敏岛居民[Q45(抱怨)]说，这些榴莲随后在新加坡被用于商业销售，几乎没有留下什么来吊他们的[Q46(胃口)]。",
+          "为了解决这一冲突，国家公园局（NParks）[Q47(建议)]在与岛民达成共识后，在岛上[Q48(每年)]举办一次榴莲节。该节日符合国家公园局保留乌敏岛自然和质朴状态的[Q49(承诺)]。在公共区域发现的榴莲应当被[Q50(分享)]。根据国家法律，任何人，无论是游客还是岛民，都不允许捡拾公共土地上的榴莲。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "过去分词 (被动语态/定语)",
+          "answer": "opened / launched / established / founded",
+          "note": "结合年份‘in 1994’和前文‘world's first night zoo’，此处填入过去分词表示夜间野生动物园在1994年‘开业（opened）’。"
+        },
+        "52": {
+          "concept": "形容词",
+          "answer": "different / distinct",
+          "note": "与后文的介词‘from’连用，‘different from’为固定词组，意为‘与传统的动物园完全不同（different）’。"
+        },
+        "53": {
+          "concept": "固定搭配 / 名词",
+          "answer": "nature",
+          "note": "与前文搭配组成‘nocturnal by nature’，为习惯语境表达，意为‘天生/本质上是夜行性的（nature）’。"
+        },
+        "54": {
+          "concept": "名词 / 上下文语境",
+          "answer": "feat / however / though / since / as",
+          "note": "‘proved a challenging feat’意为‘被证明是一项极具挑战性的壮举/伟业（feat）’。"
+        },
+        "55": {
+          "concept": "动词原形 / 固定搭配",
+          "answer": "learn / copy / reference / adapt",
+          "note": "位于动词不定式符号‘to’后接动词原形，与‘from’搭配，意为管理团队无从‘学习/借鉴（learn）’。"
+        },
+        "56": {
+          "concept": "动名词 / 固定搭配",
+          "answer": "disturbing / disrupting / affecting / changing",
+          "note": "位于介词‘without’后面，必须使用动词的现在分词形式，表示‘在不打扰（disturbing）它们夜间正常作息的情况下’让游客观察动物。"
+        },
+        "57": {
+          "concept": "上下文语境名词",
+          "answer": "expert / specialist / designer / professional",
+          "note": "不定冠词为‘an’，修饰后文其专业领域‘户外声光剧场’，填入以元音音素开头的名词，表示他是一个该领域的‘专家（expert）’。"
+        },
+        "58": {
+          "concept": "过去分词 (被动语态)",
+          "answer": "split / divided / broken / classified",
+          "note": "与系动词‘is’及介词‘into’搭配，构成被动语态，意为‘被划分/分割（split）为七个地理区域’。"
+        },
+        "59": {
+          "concept": "固定搭配 / 关联词 (句首大写)",
+          "answer": "Apart",
+          "note": "位于句首且首字母大写，与后文的‘from’连用，‘Apart from’为固定搭配，意为‘除了（看动物展区）之外’。"
+        },
+        "60": {
+          "concept": "固定搭配 / 名词",
+          "answer": "chance / opportunity / stage / platform",
+          "note": "与动词‘get a’连用，表示这些动物‘获得机会（chance）’去展示它们独特的特征和技能。"
+        },
+        "61": {
+          "concept": "固定搭配 / 介词",
+          "answer": "instead / regardless",
+          "note": "与后文的‘of cages’搭配，‘instead of’为固定短语，意为‘代替、而不是（instead）笼子’。"
+        },
+        "62": {
+          "concept": "固定搭配 / 介词",
+          "answer": "on",
+          "note": "‘rely on’为固定短语搭配，意为‘依赖、依靠（on）’天然屏障来圈养动物。"
+        },
+        "63": {
+          "concept": "动名词 / 语境动词",
+          "answer": "escaping / leaving / exiting / breaching",
+          "note": "位于固定搭配‘prevent them from’后面，必须填入现在分词形式，表示‘阻止它们逃离（escaping）围栏’。"
+        },
+        "64": {
+          "concept": "形容词",
+          "answer": "difficult / hard / impossible",
+          "note": "构成‘make it + 形容词 + to do’的复合结构，指夜间的环境‘使人很难/不容易（difficult）’将天然屏障与繁茂的植被区分开来。"
+        },
+        "65": {
+          "concept": "固定搭配 / 现在分词",
+          "answer": "being / traveling / exploring",
+          "note": "与前文搭配，‘the feel of being in a real safari’意为创造出一种‘身处（being）真正丛林历险之中的身临其境之感’。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "As dusk falls, the shutters open at the Night Safari, welcoming you into a world of nocturnal creatures. [Q51] in 1994, the Night Safari, the world's first night zoo, is entirely [Q52] from the typical zoo. It was set up as zoos had struggled to exhibit tropical mammals that were nocturnal by [Q53].",
+          "Pioneering the Night Safari proved a challenging [Q54] as there was no existing model for the management team to [Q55] from. Providing sufficient lighting for visitors to observe the animals without [Q56] their nocturnal routine was also demanding. Simon Corder, who is an [Q57] in outdoor sound and light theatre, used his skills to design the lighting to simulate the effects of moonlight.",
+          "The Night Safari, which is [Q58] into seven geographical zones, can be explored by tram or on foot. [Q59] from animal exhibits, visitors can also experience the interactive Creatures of the Night show. The stars of the show are the binturong, otter and spotted hyena. These animals get a [Q60] to display their unique characteristics and skills.",
+          "The Night Safari adopts an 'open concept' to recreate a natural environment. [Q61] of cages, the Night Safari relies [Q62] natural barriers to contain its animals. Cattle grids, a special type of obstacle, line the park to prevent them from [Q63] their enclosures. Nettings, plants, concealed wires and water moats are also utilised as natural barriers. Night conditions also make it [Q64] to distinguish natural barriers from lush vegetation, creating the feel of [Q65] in a real safari. The reproduction of a safari atmosphere goes hand in hand with making non-native animals feel at home."
+        ],
+        "zh": [
+          "当夜幕降临，夜间野生动物园的闸门缓缓打开，迎接着您进入一个夜行性生物的世界。夜间野生动物园开业于1994年，作为世界上第一家夜间动物园，它与传统的普通动物园完全不同。它的建立是因为在此之前，各大动物园一直难以展出那些天生在夜间才活跃的热带哺乳动物。",
+          "开拓夜间野生动物园被证明是一项充满挑战的壮举，因为当时没有任何现成的模式可供管理团队去参考借鉴。在不打扰它们夜间正常作息的情况下，为游客提供充足的光线来观察动物也是一项苛刻的要求。作为一名户外声光剧场的专家，西蒙·考德利用自己的专业技能设计了照明系统，用以模拟月光的效果。",
+          "夜间野生动物园被划分为七个地理区域，可以通过搭乘游览车或步行进行探索。除了动物展区之外，游客还可以体验具有互动性质的“夜晚的精灵”野生动物表演。表演的明星是熊狸、水獭和斑鬣狗。这些动物获得了一个机会去展示它们独特的特征和技能。",
+          "夜间野生动物园采用“开放式概念”来重塑一个自然的生态环境。夜间野生动物园依靠天然屏障来圈养动物，而不是使用铁笼。牛栅栏（一种特殊类型的障碍物）沿公园排列，以阻止它们逃离围栏。尼龙网、植物、隐蔽的电线和护城水壕也被用作天然屏障。夜间的环境也让人很难将这些天然屏障与繁茂的植被区分开来，从而创造出一种身处真正丛林历险之中的身临其境之感。野生动物园氛围的成功重塑，与让这些外来引进的动物产生宾至如归的家园感是相辅相成的。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

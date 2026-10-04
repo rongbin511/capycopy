@@ -1,0 +1,1609 @@
+{
+  "paperid": "p6_english_2023_sa2_rosyth",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "My little brother made me __________ by cracking a joke when he saw that I was sad.",
+          "options": {
+            "1": "laugh",
+            "2": "laughs",
+            "3": "laughed",
+            "4": "laughing"
+          }
+        },
+        "2": {
+          "stem_plain": "My sister and __________ are going to Japan next week.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "mine",
+            "4": "myself"
+          }
+        },
+        "3": {
+          "stem_plain": "Practising good hygiene habits __________ crucial in preventing the spread of diseases.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "Breathing in vehicular fumes has an adverse effect __________ our health.",
+          "options": {
+            "1": "in",
+            "2": "to",
+            "3": "on",
+            "4": "over"
+          }
+        },
+        "5": {
+          "stem_plain": "\"Grandfather's never travelled out of Singapore before, __________?\" Jimmy asked.",
+          "options": {
+            "1": "did he",
+            "2": "has he",
+            "3": "didn't he",
+            "4": "hasn't he"
+          }
+        },
+        "6": {
+          "stem_plain": "It is past lunch hour. I __________ be hungry but I am not.",
+          "options": {
+            "1": "could",
+            "2": "might",
+            "3": "would",
+            "4": "should"
+          }
+        },
+        "7": {
+          "stem_plain": "__________ the successful publicity, the school band performed to sell-out crowds for the entire week.",
+          "options": {
+            "1": "Due to",
+            "2": "In spite of",
+            "3": "Apart from",
+            "4": "Regardless of"
+          }
+        },
+        "8": {
+          "stem_plain": "Although he was the leader of the team, he had __________ say in choosing the materials to be used for the project.",
+          "options": {
+            "1": "few",
+            "2": "little",
+            "3": "much",
+            "4": "many"
+          }
+        },
+        "9": {
+          "stem_plain": "Jane is looking forward to __________ the year-end Graduation Concert with her friends.",
+          "options": {
+            "1": "attend",
+            "2": "attends",
+            "3": "attended",
+            "4": "attending"
+          }
+        },
+        "10": {
+          "stem_plain": "The producer __________ I admire has filmed many documentaries on nature.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "使役动词 — make + 宾语 + 动词原形",
+          "zh": "弟弟见我难过，讲了个笑话逗我笑。",
+          "note": "使役动词 make 后接宾语 + 动词原形 laugh；应选（1）。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "主格代词 — 并列主语",
+          "zh": "姐姐和我下周要去日本。",
+          "note": "并列主语用主格 I；应选（1）。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "主谓一致 — 动名词短语作主语",
+          "zh": "养成良好的卫生习惯对防止疾病传播至关重要。",
+          "note": "动名词短语作主语，谓语用单数 is；应选（1）。",
+          "answer": "1"
+        },
+        "4": {
+          "concept": "介词搭配 — effect on",
+          "zh": "吸入汽车尾气对我们的健康有不良影响。",
+          "note": "effect 与 on 固定搭配；应选（3）。",
+          "answer": "3"
+        },
+        "5": {
+          "concept": "附加问句 — 现在完成时",
+          "zh": "“爷爷以前从没出过新加坡，是吗？”吉米问。",
+          "note": "never + 现在完成时，附加问用 has he；应选（2）。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "情态动词 — should 表理应",
+          "zh": "午饭时间过了，我本该饿却不饿。",
+          "note": "按常理“应该”饿 → should；应选（4）。",
+          "answer": "4"
+        },
+        "7": {
+          "concept": "介词短语 — Due to 表原因",
+          "zh": "由于宣传成功，学校乐队整周演出场场爆满。",
+          "note": "成功宣传是原因 → Due to；应选（1）。",
+          "answer": "1"
+        },
+        "8": {
+          "concept": "不可数 — little say",
+          "zh": "虽是队长，他在选材上几乎说不上话。",
+          "note": "say 作“发言权”不可数 → little；应选（2）。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "介词 — look forward to + -ing",
+          "zh": "简期待和朋友一起参加年终毕业典礼。",
+          "note": "look forward to 后接动名词 attending；应选（4）。",
+          "answer": "4"
+        },
+        "10": {
+          "concept": "关系代词 — who 作主语",
+          "zh": "我钦佩的那位制片人拍了许多自然纪录片。",
+          "note": "定语从句中 who 指人且作主语；应选（1）。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "\"This vase should not cost you so much! I think you have been __________,\" John told Siti.",
+          "options": {
+            "1": "ripped at",
+            "2": "ripped up",
+            "3": "ripped off",
+            "4": "ripped into"
+          }
+        },
+        "12": {
+          "stem_plain": "My father's eyesight __________ as he got older, resulting in poorer vision.",
+          "options": {
+            "1": "declined",
+            "2": "decreased",
+            "3": "diminished",
+            "4": "deteriorated"
+          }
+        },
+        "13": {
+          "stem_plain": "Commuters in the bus interchange walk __________ every morning to catch the bus to work.",
+          "options": {
+            "1": "briskly",
+            "2": "promptly",
+            "3": "laboriously",
+            "4": "enthusiastically"
+          }
+        },
+        "14": {
+          "stem_plain": "Mrs. Lim often teaches us to show respect for different races and appreciate the __________ of cultures in Singapore.",
+          "options": {
+            "1": "mixture",
+            "2": "diversity",
+            "3": "affluence",
+            "4": "multiplicity"
+          }
+        },
+        "15": {
+          "stem_plain": "Wei Ming's __________ handwriting made it difficult for me to read his composition.",
+          "options": {
+            "1": "illogical",
+            "2": "illegible",
+            "3": "ineligible",
+            "4": "incoherent"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "“这个花瓶不应该让你花这么多钱！我觉得你被宰了（敲竹杠），”约翰告诉茜蒂。",
+          "note": "‘ripped off’ 是高频短语动词，意为‘被敲竹杠，被宰’。前半句提到 “should not cost you so much”（不应该花这么多钱），说明购买商品时被商家狠狠索要了极不合理的高价，这在英文口语中属于典型的被敲竹杠（be ripped off）。",
+          "concept": "短语动词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "ripped at",
+              "zh": "撕扯，扯动（动词短语，在标准英语中极少作为一个核心固定词组使用，多在具体语境中物理上形容用力撕咬、拉扯衣服的边角或植物表面）",
+              "eg": "The fierce guard dog ripped at the thick sleeve of the intruder's jacket."
+            },
+            {
+              "opt": "2",
+              "word": "ripped up",
+              "zh": "撕碎，把…撕成碎片（动词短语，指物理上极其愤怒地、或者为了销毁某些绝密凭证，将整张废纸、合同文本、照片或信件狠狠撕成碎片）",
+              "eg": "She furiously ripped up the old letters from her ex-partner and tossed them into the bin."
+            },
+            {
+              "opt": "3",
+              "word": "ripped into",
+              "zh": "猛烈抨击，严厉斥责（动词短语，在口语比喻中指某人因为极其愤怒，而在语言上对他人进行极其猛烈、毫不留情的尖锐批评、抨击或辱骂）",
+              "eg": "The angry supervisor ripped into the construction workers for neglecting the safety regulations."
+            },
+            {
+              "opt": "4",
+              "word": "ripped off",
+              "zh": "敲竹杠，宰客（动词短语，特指在商业买卖中，不老实的商家故意向顾客索要高出正常市价数倍的昂贵费用，或指偷窃、抄袭他人的原创想法）",
+              "eg": "Tourists are often warned not to be ripped off by unlicensed taxi drivers near the airport."
+            }
+          ]
+        },
+        "12": {
+          "zh": "随着年龄增长，我父亲的视力恶化了，导致视能下降。",
+          "note": "‘deteriorated’ 意为‘（健康状况、视力、天气等）恶化，变糟’。句中提及 “got older, resulting in poorer vision”（年龄变大导致视力变差），表示身体器官的功能在生理机能上下降、质量变得越来越糟糕，最贴切的描述就是恶化（deteriorated）。",
+          "concept": "动词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "declined",
+              "zh": "下降，谢绝（动词，指数据、公司的总营业额、或者国家人口出生率出现逐渐向下的减少趋势，或者指委婉、有礼貌地拒绝他人的邀请）",
+              "eg": "The premium smartphone brand's market share declined steadily during the last quarter."
+            },
+            {
+              "opt": "2",
+              "word": "decreased",
+              "zh": "减少，降低（动词，主要指通过宏观调控、价格打折或控制开支，使某种具体的物理数量、百分比比率、温度数值在数字上变得更小或更低）",
+              "eg": "The tech company successfully decreased production costs by adopting automated robot lines."
+            },
+            {
+              "opt": "3",
+              "word": "diminished",
+              "zh": "减弱，贬低（动词，指某种抽象的影响力、个人名誉、社会威信、内心的恐惧感或痛苦程度随着时间的流逝而逐渐削弱、减少或降低）",
+              "eg": "The powerful influence of the traditional print media has greatly diminished in the digital internet age."
+            },
+            {
+              "opt": "4",
+              "word": "deteriorated",
+              "zh": "恶化，变糟（动词，特指某人的身体健康状况、视力听力、建筑物的物理结构安全、或者两国的外交关系在短时间内变得越来越糟糕和恶劣）",
+              "eg": "The weather conditions deteriorated rapidly, forcing the mountain climbers to abort their historic journey."
+            }
+          ]
+        },
+        "13": {
+          "zh": "每天早晨，巴士转换站里的通勤者们都步伐轻快地走着，以赶上上班的巴士。",
+          "note": "‘briskly’ 意为‘轻快地，步伐敏捷地’。后文提到 “every morning to catch the bus to work”（每天早晨要赶巴士上班），在早高峰赶着通勤的紧迫时间点下，上班族行走的典型步伐神态就是快步疾行、轻快敏捷（walk briskly）。",
+          "concept": "副词辨析与神态关联 — Vocabulary — Adverbs",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "briskly",
+              "zh": "轻快地，步伐敏捷地（副词，形容人为了赶时间、或者为了起到体育锻炼的效果，而以一种充满活力、速度较快、毫不拖沓的步伐快步行走）",
+              "eg": "She walked briskly through the cold wind to reach the office before the morning meeting started."
+            },
+            {
+              "opt": "2",
+              "word": "promptly",
+              "zh": "准时地，迅速地（副词，特指在原定的时间点一秒不差地准时发生，或指在收到某项命令、客户投诉后，毫不拖延地立刻、马上做出反馈和处理）",
+              "eg": "The emergency repair team arrived promptly at the site to fix the broken underground water pipe."
+            },
+            {
+              "opt": "3",
+              "word": "laboriously",
+              "zh": "艰苦地，费力地（副词，形容因为进行了极其繁重的体力搬运劳动、或者面临毫无头绪的高难度科研项目，而不得不付出巨大汗水、极其吃力艰难地行进或工作）",
+              "eg": "The historical researchers laboriously cross-checked hundreds of ancient files to discover the secret."
+            },
+            {
+              "opt": "4",
+              "word": "enthusiastically",
+              "zh": "热情地，热心地（副词，形容人内心深处充满了极大的兴趣、热忱和喜悦，极其积极主动、高高兴兴地去参与某种社交派对或社区志愿活动）",
+              "eg": "The primary school children enthusiastically cheered when their classroom football team scored the winning goal."
+            }
+          ]
+        },
+        "14": {
+          "zh": "林太太经常教育我们要尊重不同的种族，并欣赏新加坡文化的多元性（多样性）。",
+          "note": "‘diversity’ 意为‘多元性，多样性’。前文提及 “respect for different races”（尊重不同的种族），新加坡作为一个多种族、多文化和谐共处的典型国家，其最突出的核心特征和核心社会价值就是文化的多元性（cultural diversity）。",
+          "concept": "名词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "mixture",
+              "zh": "混合物，混合（名词，指将不同的化学液体、调味香料、或者不同的音乐风格具体混合、搅拌、糅合在一起而形成的一种结合实体）",
+              "eg": "The chef signature dessert sauce is a delicious mixture of fresh wild honey and organic lemon juice."
+            },
+            {
+              "opt": "2",
+              "word": "diversity",
+              "zh": "多元性，多样性（名词，特指在一个特定的生态系统、公司职场或多民族国家中，存在着许多截然不同的人种、文化背景、观点或物种的丰富状态）",
+              "eg": "The wildlife park is globally renowned for the stunning biological diversity of its rainforest plants."
+            },
+            {
+              "opt": "3",
+              "word": "affluence",
+              "zh": "富裕，富足（名词，指某个特定的社会阶层、家庭或国家，由于经济发达而拥有大量的社会财富、名贵房产和极其奢侈舒适的优质生活条件）",
+              "eg": "The sudden economic boom brought a new wave of relative affluence to the local community merchants."
+            },
+            {
+              "opt": "4",
+              "word": "multiplicity",
+              "zh": "多样，多重性（名词，侧重于在纯粹的数量上呈现出极大、极丰富的丰富状态，多用于描述包含多重、许多不同种类的复杂学术议题或方案）",
+              "eg": "The legal advisor faced a multiplicity of complex technical regulations when analyzing the corporate contract."
+            }
+          ]
+        },
+        "15": {
+          "zh": "伟明的字迹难以辨认，这让我很难阅读他的作文。",
+          "note": "‘illegible’ 意为‘（字迹、印刷等）字迹模糊的，难以辨认的’。后半句中 “made it difficult for me to read his composition”（让我很难阅读他的作文）点明了原因正是因为其手写体（handwriting）极度潦草难懂，这在英文中专门用形容词 illegible 来表示。",
+          "concept": "形容词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "illogical",
+              "zh": "不合逻辑的，荒谬的（形容词，指某种学术推理过程、商业决策或者怪诞的想法完全不合常理、缺乏清晰的逻辑和事实依据，显得破绽百出）",
+              "eg": "His sudden decision to close down the profitable corporate office seemed completely illogical to the staff."
+            },
+            {
+              "opt": "2",
+              "word": "illegible",
+              "zh": "字迹模糊的，难以辨认的（形容词，专门用来形容因为手写极其潦草、钢笔墨水被弄糊、或者因为古老文件严重风化，导致纸面上的文字极难看清读懂）",
+              "eg": "The ancient signature on the historic contract document was completely illegible after decades of storage."
+            },
+            {
+              "opt": "3",
+              "word": "ineligible",
+              "zh": "无资格的，不合格的（形容词，指由于年龄太小、国籍不符、或者缺乏必要的专业学历背景，从而依法或依规没有资格参加某项比赛、申请贷款或竞选职位）",
+              "eg": "Applicants under the age of eighteen are automatically ineligible to apply for this senior business visa."
+            },
+            {
+              "opt": "4",
+              "word": "incoherent",
+              "zh": "语无伦次的，不连贯的（形容词，指某人由于严重的醉酒、突发高烧、极度惊恐或者大脑意识模糊，导致说话颠三倒四，思想无法保持连贯易懂）",
+              "eg": "The exhausted suspect was so deeply terrified that his initial explanation to the detectives was totally incoherent."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "moment of glory",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "progress",
+            "2": "milestone",
+            "3": "achievement",
+            "4": "breakthrough"
+          }
+        },
+        "17": {
+          "stem_plain": "concluding",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "culminating",
+            "2": "eventual",
+            "3": "latest",
+            "4": "final"
+          }
+        },
+        "18": {
+          "stem_plain": "drawing attention away",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "veering",
+            "2": "straying",
+            "3": "diverting",
+            "4": "digressing"
+          }
+        },
+        "19": {
+          "stem_plain": "fleeting",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "instantaneous",
+            "2": "momentary",
+            "3": "sudden",
+            "4": "fading"
+          }
+        },
+        "20": {
+          "stem_plain": "unconventional",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "unusual",
+            "2": "eccentric",
+            "3": "abnormal",
+            "4": "unfamiliar"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The Tokyo Olympics featured an unexpected guest on television. The footage did not highlight an athlete's [Q16 (moment of glory)] during the medal ceremony or heartwarming teamwork. Instead, it focused on a six-legged runner.",
+          "The new star of the games was actually a cockroach! Viewers from across the globe got an unusual shock during the [Q17 (concluding)] minutes of a women's field hockey match between Argentina and Spain. A cameraman decided to amuse himself by [Q18 (drawing attention away)] from the live sports coverage to close-up images of the cockroach scurrying across a ledge at the event venue. Although the cockroach was given a [Q19 (fleeting)] appearance on live television, lasting a few seconds, it did not derail the Argentinian team's spirit as they went on to win 3-0. The cameraman's [Q20 (unconventional)] choice of camerawork left many sports fans baffled. The video was shared on Twitter, garnering more than 8.4 million views."
+        ],
+        "zh": [
+          "东京奥运电视转播中出现了一位意外“嘉宾”。画面并未突出运动员在颁奖礼上的荣耀时刻或暖心团队合作，而聚焦在一名六条腿的“选手”身上。",
+          "赛事新明星其实是一只蟑螂！全球观众在阿根廷对西班牙女子曲棍球比赛最后几分钟目睹奇景。摄像师把直播镜头从赛场引开，改拍场馆边沿上乱窜的蟑螂特写。蟑螂虽只在电视上露面几秒，并未影响阿根廷队以 3–0 获胜。这位摄像师非同寻常的拍摄手法令许多体育迷困惑；视频在推特上被分享，播放量超过八百四十万。"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — moment of glory（荣耀时刻）",
+          "zh": "画面并未突出运动员在颁奖礼上的荣耀成就或暖心团队合作，而是……",
+          "note": "应选（3）achievement。progress 偏过程；milestone 指节点；breakthrough 偏科研突破。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "progress",
+              "zh": "进步",
+              "eg": "We measured the project's <strong>progress</strong> weekly."
+            },
+            {
+              "opt": "2",
+              "word": "milestone",
+              "zh": "里程碑",
+              "eg": "Graduation was a major <strong>milestone</strong>."
+            },
+            {
+              "opt": "3",
+              "word": "achievement",
+              "zh": "成就",
+              "eg": "Winning gold was her greatest <strong>achievement</strong>."
+            },
+            {
+              "opt": "4",
+              "word": "breakthrough",
+              "zh": "突破",
+              "eg": "The team made a scientific <strong>breakthrough</strong>."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — concluding（最后的）",
+          "zh": "全球观众在女子曲棍球比赛最后几分钟看到了不寻常的一幕。",
+          "note": "应选（4）final（最后几分钟）。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "culminating",
+              "zh": "达到顶点的",
+              "eg": "The <strong>culminating</strong> scene moved the audience."
+            },
+            {
+              "opt": "2",
+              "word": "eventual",
+              "zh": "最终的",
+              "eg": "The <strong>eventual</strong> winner was announced."
+            },
+            {
+              "opt": "3",
+              "word": "latest",
+              "zh": "最新的",
+              "eg": "Read the <strong>latest</strong> news online."
+            },
+            {
+              "opt": "4",
+              "word": "final",
+              "zh": "最后的",
+              "eg": "The <strong>final</strong> whistle ended the game."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — drawing attention away（转移注意力）",
+          "zh": "摄像师把直播体育镜头的注意力引开，改拍蟑螂特写。",
+          "note": "应选（3）diverting（转移注意力）。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "veering",
+              "zh": "转向",
+              "eg": "The car <strong>veered</strong> off the road."
+            },
+            {
+              "opt": "2",
+              "word": "straying",
+              "zh": "偏离",
+              "eg": "His mind <strong>strayed</strong> during the lecture."
+            },
+            {
+              "opt": "3",
+              "word": "diverting",
+              "zh": "转移",
+              "eg": "Signs <strong>diverted</strong> traffic around the accident."
+            },
+            {
+              "opt": "4",
+              "word": "digressing",
+              "zh": "离题",
+              "eg": "The speaker <strong>digressed</strong> from the topic."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — fleeting（短暂的）",
+          "zh": "蟑螂在电视上只出现了短短几秒。",
+          "note": "应选（2）momentary（片刻的）。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "instantaneous",
+              "zh": "瞬间的",
+              "eg": "The reaction was <strong>instantaneous</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "momentary",
+              "zh": "片刻的",
+              "eg": "There was a <strong>momentary</strong> pause."
+            },
+            {
+              "opt": "3",
+              "word": "sudden",
+              "zh": "突然的",
+              "eg": "A <strong>sudden</strong> storm arrived."
+            },
+            {
+              "opt": "4",
+              "word": "fading",
+              "zh": "逐渐消失的",
+              "eg": "We heard <strong>fading</strong> footsteps."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — unconventional（非传统的）",
+          "zh": "摄像师非同寻常的拍摄选择让许多体育迷困惑。",
+          "note": "应选（1）unusual（不寻常）。eccentric 偏古怪人格；abnormal 偏病态；unfamiliar 偏陌生。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unusual",
+              "zh": "不寻常的",
+              "eg": "It was an <strong>unusual</strong> request."
+            },
+            {
+              "opt": "2",
+              "word": "eccentric",
+              "zh": "古怪的",
+              "eg": "The inventor had <strong>eccentric</strong> habits."
+            },
+            {
+              "opt": "3",
+              "word": "abnormal",
+              "zh": "异常的",
+              "eg": "The test showed <strong>abnormal</strong> results."
+            },
+            {
+              "opt": "4",
+              "word": "unfamiliar",
+              "zh": "不熟悉的",
+              "eg": "The street looked <strong>unfamiliar</strong> at night."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Why is an exclamation mark used in the heading, \"Clay Sculptures For Beginners\"?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "To show that clay sculpting is fun",
+            "2": "To convey the excitement about clay sculpting",
+            "3": "To draw attention to what clay sculpting is all about",
+            "4": "To emphasise that clay sculpting is for beginners only"
+          }
+        },
+        "22": {
+          "stem_plain": "For children who are just starting to learn sculpting techniques at home, which type of clay is the most suitable for use?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "'Firing' clay",
+            "2": "Walter E. Disney Clay",
+            "3": "Oil-based modelling clay",
+            "4": "Polymer-based modelling clay"
+          }
+        },
+        "23": {
+          "stem_plain": "Which statement is true about setting up a workspace at home for clay sculpting? You should",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "place your tools away from the table",
+            "2": "adjust your table and chair to sit comfortably",
+            "3": "lay plastic sheets on your furniture surfaces to prevent staining",
+            "4": "set up your workspace near a window for natural breeze to enter"
+          }
+        },
+        "24": {
+          "stem_plain": "Andy would like to try making a clay sculpture. He must **first**",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "coil the clay to ensure its flexibility",
+            "2": "use different tools to shape the clay",
+            "3": "ensure that the clay is thoroughly wet",
+            "4": "sketch various designs of how he wants the final product to look like"
+          }
+        },
+        "25": {
+          "stem_plain": "According to the flyer, 10-year-old Su Lin",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "finds clay sculpting boring",
+            "2": "makes exclusive sculptures for others",
+            "3": "wants to conduct free classes in the future",
+            "4": "intends to become a professional sculptor in the future"
+          }
+        },
+        "26": {
+          "stem_plain": "Cindy wants to sign up for the Funway Clay Sculpting Workshop 2023. What must she do?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Submit a sketch of her final product before the workshop",
+            "2": "Call the hotline at 6222 4444 to register",
+            "3": "Sign up by 20 October 2023",
+            "4": "Bring along her own clay"
+          }
+        },
+        "27": {
+          "stem_plain": "According to the flyer, which of the following is **not** true about clay sculpting?",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Clay sculpting is a great way to bring out your creativity.",
+            "2": "Practice is essential to produce a good piece of art work.",
+            "3": "All sculptors improve their art work by learning from their mistakes.",
+            "4": "One needs to have experience in clay sculpting before trying it out."
+          }
+        },
+        "28": {
+          "stem_plain": "The **main** purpose of the poster is to",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "encourage readers to be interested in clay sculpting",
+            "2": "show readers how they can work comfortably at home",
+            "3": "promote Funway Clay sculpting workshop held on 25 October 2023",
+            "4": "provide general information about different types of clay used for clay sculpting"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "细节理解 — 感叹号用意",
+          "note": "<p>Heading uses <strong>!</strong> to show <span class=\"hl-good\">excitement about clay sculpting</span> (option 2). Not ‘beginners only’ (4) or generic ‘draw attention’ (3).</p>",
+          "answer": "2"
+        },
+        "22": {
+          "concept": "细节 — 初学者适用黏土",
+          "note": "<p>Flyer recommends <span class=\"hl-good\">‘Firing’ clay</span> for beginners at home (option 1).</p>",
+          "answer": "1"
+        },
+        "23": {
+          "concept": "细节 — 工作台设置",
+          "note": "<p>True tip: <span class=\"hl-good\">adjust table and chair</span> to sit comfortably (option 2).</p>",
+          "answer": "2"
+        },
+        "24": {
+          "concept": "步骤 — 必须先做",
+          "note": "<p>Andy must <span class=\"hl-good\">sketch designs</span> of the final product first (option 4).</p>",
+          "answer": "4"
+        },
+        "25": {
+          "concept": "细节 — Su Lin",
+          "note": "<p>Su Lin <span class=\"hl-good\">intends to become a professional sculptor</span> (option 4).</p>",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "细节 — 报名要求",
+          "note": "<p>Sign up <span class=\"hl-good\">by 20 October 2023</span> (option 3).</p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "NOT-true 判断",
+          "note": "<p><span class=\"hl-bad\">Option 4</span> claims you need experience before trying — flyer encourages beginners; so (4) is <strong>not true</strong>.</p>",
+          "answer": "4"
+        },
+        "28": {
+          "concept": "主旨 — 主要目的",
+          "note": "<p>Poster mainly <span class=\"hl-good\">encourages interest in clay sculpting</span> (option 1), though it also mentions the workshop.</p>",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "also",
+          "B": "among",
+          "C": "are",
+          "D": "because",
+          "E": "by",
+          "F": "has",
+          "G": "in",
+          "H": "instead",
+          "J": "its",
+          "K": "on",
+          "L": "since",
+          "M": "than",
+          "N": "then",
+          "P": "to",
+          "Q": "up"
+        },
+        "cloze": [
+          "Talk about making lemonade when life gives you lemons. Eagle-eyed shoppers at IKEA Singapore spotted misprinted cloth bags [Q29] sale at its online store, as well as its physical store at Alexandra Road.",
+          "IKEA Singapore had misspelt its website address, printing \"www.ikea.co.sg\" on its cloth bag. Rather [Q30] disposing of the misprinted bags, IKEA decided to own [Q31] to its mistake and proceeded with selling the cloth bags at its retail outlets.",
+          "The furniture retailer came clean about [Q32] error through an explanation on the tag in addition to the words \"These bags [Q33] limited edition and they will not be back!\". Similarly, at IKEA's online store, the misprinted bags [Q34] being sold, with the explanation given.",
+          "A photo posted [Q35] Facebook user Alicia Cho showed the bags on sale at the physical store. The bag had become popular [Q36] many young shoppers. This was largely due [Q37] the fact that the bag was sold at only $1.90.",
+          "IKEA explained that it did not scrap the products. [Q38], IKEA hoped that customers can give a perfectly new bag \"a second chance\" and consider it for its eco-friendly reusable function. This move is in line with IKEA's motto to care for the planet and use resources carefully."
+        ],
+        "zh": [
+          "正所谓“柠檬在手，就做柠檬水”。眼尖的新加坡宜家顾客发现印错网址的布袋在网上及亚历山大路门店打折出售。",
+          "宜家把网址印成 www.ikea.co.sg。宜家没有销毁印错的袋子，而是承认错误，并继续在门店出售。",
+          "零售商在吊牌上解释此次错误，并注明“这些袋子是限量版，不会再补货”。网上商店同样在出售印错袋并附说明。",
+          "脸书用户 Alicia Cho 发布的照片显示实体店在售。该袋在年轻购物者中很受欢迎，主要因仅售 1.90 元。",
+          "宜家解释并未报废产品；相反，希望顾客给崭新袋子“第二次机会”，当作环保可重复使用袋。此举符合宜家爱护地球、节约资源的理念。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "介词 — on sale",
+          "note": "固定搭配 <em>on sale</em>（在售）。故填'<strong>K — on</strong>'。",
+          "answer": "K — on"
+        },
+        "30": {
+          "concept": "比较结构 — rather than",
+          "note": "<em>Rather than</em> disposing = 而不是扔掉。故填'<strong>M — than</strong>'。",
+          "answer": "M — than"
+        },
+        "31": {
+          "concept": "短语动词 — own up to",
+          "note": "<em>own up to</em> its mistake = 承认错误。故填'<strong>Q — up</strong>'。",
+          "answer": "Q — up"
+        },
+        "32": {
+          "concept": "物主代词 — its",
+          "note": "指 IKEA 的 error → <em>its</em>。故填'<strong>J — its</strong>'。",
+          "answer": "J — its"
+        },
+        "33": {
+          "concept": "主谓 — are",
+          "note": "These bags <em>are</em> limited edition。故填'<strong>C — are</strong>'。",
+          "answer": "C — are"
+        },
+        "34": {
+          "concept": "副词 — also",
+          "note": "网上<strong>也</strong>在卖 → <em>are also</em> being sold。故填'<strong>A — also</strong>'。",
+          "answer": "A — also"
+        },
+        "35": {
+          "concept": "被动 — posted by",
+          "note": "照片由用户发布 → <em>posted by</em>。故填'<strong>E — by</strong>'。",
+          "answer": "E — by"
+        },
+        "36": {
+          "concept": "介词 — among",
+          "note": "在年轻购物者中流行 → <em>among</em>。故填'<strong>B — among</strong>'。",
+          "answer": "B — among"
+        },
+        "37": {
+          "concept": "搭配 — due to",
+          "note": "<em>due to the fact</em>。故填'<strong>P — to</strong>'。",
+          "answer": "P — to"
+        },
+        "38": {
+          "concept": "连接副词 — Instead",
+          "note": "没扔掉，<strong>而是</strong>希望顾客再给机会 → <em>Instead</em>。故填'<strong>H — instead</strong>'。",
+          "answer": "H — instead"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "My grandmother was famous in her little town for the baked goods which she sold. That was a small [Q39(bissness)] which her mother had left her. I loved visiting her shop as there was always something [Q40(intresting)] to look forward to.",
+          "During one visit, she was making one of my favourite [Q41(snack)] — chocolate cookies. I was [Q42(exilerated)] and kept sneaking into her kitchen, hoping to steal a bite [Q43(on)] the delicious cookies as soon as they were out of the oven.",
+          "Although Grandmother kept chasing me out of the kitchen, I successfully managed to sneak a cookie. Much to my [Q44(suprize)] , it was not a cookie at all but a coaster that [Q45(looks)] just like a cookie! Grandmother found it [Q46(bizzare)] for me to chew on a coaster and did not find it [Q47(humour)] .",
+          "Years later, Grandmother [Q48(passed)] over . I had all [Q49(and)] forgotten the coaster incident until I found, in one [Q50(paticuler)] box, the same coaster with a perfect little bite. Tears began to well up in my eyes."
+        ],
+        "zh": [
+          "祖母在小城以售卖烘焙食品闻名；那是母亲留下的小生意。我爱去她的店，总有有趣的东西值得期待。",
+          "有一次她在做我最爱的零食——巧克力曲奇。我兴奋极了，总溜进厨房，想趁曲奇出炉偷吃一口。",
+          "祖母虽把我赶出厨房，我还是成功偷到一块。令我惊讶的是，那根本不是曲奇，而是长得像曲奇的杯垫！祖母觉得我把杯垫当饼干嚼很奇怪，也不觉得好笑。",
+          "多年后祖母去世。我早已忘了杯垫的事，直到在一个特别的盒子里找到同一只杯垫，上面留着完美的小牙印。我热泪盈眶。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "拼写 — business",
+          "note": "<p><em>bissness</em> → <span class=\"hl-good\">business</span> (commercial activity).</p>",
+          "answer": "business"
+        },
+        "40": {
+          "concept": "拼写 — interesting",
+          "note": "<p><em>intresting</em> → <span class=\"hl-good\">interesting</span>.</p>",
+          "answer": "interesting"
+        },
+        "41": {
+          "concept": "名词复数 — snacks",
+          "note": "<p><em>one of my favourite snack</em> needs plural <span class=\"hl-good\">snacks</span>.</p>",
+          "answer": "snacks"
+        },
+        "42": {
+          "concept": "拼写 — exhilarated",
+          "note": "<p><em>exilerated</em> → <span class=\"hl-good\">exhilarated</span> (thrilled).</p>",
+          "answer": "exhilarated"
+        },
+        "43": {
+          "concept": "介词 — of",
+          "note": "<p><em>a bite on the cookies</em> → <span class=\"hl-good\">a bite of</span> the cookies.</p>",
+          "answer": "of"
+        },
+        "44": {
+          "concept": "拼写 — surprise",
+          "note": "<p><em>suprize</em> → <span class=\"hl-good\">surprise</span>.</p>",
+          "answer": "surprise"
+        },
+        "45": {
+          "concept": "时态 — looked",
+          "note": "<p>Past narrative → <span class=\"hl-good\">looked</span> just like a cookie.</p>",
+          "answer": "looked"
+        },
+        "46": {
+          "concept": "拼写 — bizarre",
+          "note": "<p><em>bizzare</em> → <span class=\"hl-good\">bizarre</span>.</p>",
+          "answer": "bizarre"
+        },
+        "47": {
+          "concept": "词性 — humorous",
+          "note": "<p><em>find it humour</em> → <span class=\"hl-good\">humorous</span> (adjective after <em>find it</em>).</p>",
+          "answer": "humorous"
+        },
+        "48": {
+          "concept": "短语 — passed away",
+          "note": "<p><em>passed over</em> → <span class=\"hl-good\">on</span> (passed <strong>on</strong> = died) per key; or <em>away</em> in other papers — key uses <strong>on</strong>.</p>",
+          "answer": "on"
+        },
+        "49": {
+          "concept": "连词 — but",
+          "note": "<p><em>I had all and forgotten</em> → <span class=\"hl-good\">but</span> forgotten (contrast).</p>",
+          "answer": "but"
+        },
+        "50": {
+          "concept": "拼写 — particular",
+          "note": "<p><em>paticuler</em> → <span class=\"hl-good\">particular</span>.</p>",
+          "answer": "particular"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Few performers have ever captured the public imagination like Harry Houdini. Houdini was one of the world's most popular entertainers in history.",
+          "Houdini grew up in an impoverished family. From an early age, he was forced to work to help make ends [Q51]. As a young boy, he wanted to join a circus because he was drawn to performing. To gain popularity as [Q52] entertainer, Houdini began to [Q53] daring feats of escaping from ropes, chains and handcuffs. Soon, he started to escape from various locked containers ranging from coffins [Q54] prison cells. This earned him an international reputation as his performances [Q55] typically watched by thousands of people.",
+          "In one of his performances, he was chained and placed in a [Q56] that was locked, roped and weighted. The box was submerged from a boat. Houdini then surfaced after freeing [Q57] underwater. In another performance, he was suspended in mid-air with his hands tied, about 23 metres [Q58] ground. After a few minutes, he escaped skillfully. His [Q59] gasped in awe when they watched his performance. Houdini's amazing escape abilities [Q60] not only on his great physical strength and agility but also on his extraordinary skill at manipulating locks.",
+          "After almost three decades of public performances, Houdini eventually found another new and powerful way to [Q61] out to people through movies. He made his first [Q62] in 1918. Although his movie did not feature live magic, Houdini became one of Hollywood's first action heroes and his movie delighted audiences [Q63] the world.",
+          "In 1926, he [Q64] seriously ill and he died. Many people turned up to pay [Q65] last respects to Houdini. The world knew it had lost one of the most original and beloved entertainers of all time."
+        ],
+        "zh": [
+          "很少有表演者能像哈里·胡迪尼那样抓住公众想象。胡迪尼是史上最受欢迎的表演者之一。",
+          "胡迪尼出身贫寒，自幼打工帮补家用。他少年时想加入马戏团，被表演吸引；为成名，他开始表演逃脱绳索、手铐等惊险节目，后又从棺材到牢房各类密闭空间逃脱，演出常吸引数千观众。",
+          "他曾被锁在加重的箱子里沉入水中，再在水下脱身；也曾被吊在约二十三米高空双手被缚，数分钟后巧妙逃脱。观众惊叹不已。他的逃脱本领既靠体能敏捷，也靠开锁绝技。",
+          "表演近三十年后，他通过电影接触更多人，1918 年拍出第一部影片。虽非现场魔术，他成为好莱坞早期动作明星之一，影片令全球观众欣喜。",
+          "1926 年他病重去世，许多人前来致哀。世界失去了一位最独特、最受喜爱的表演者。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "经典习语固定搭配",
+          "note": "与其前置的名词短语 make ends 完美结合，构成在各类英语试卷中极高频考查的经典生计描述专属习语 make ends meet，意为他在年幼时就被迫打工来维持家庭的“收支平衡/勉强度日”。",
+          "answer": "meet"
+        },
+        "52": {
+          "concept": "不定冠词修饰",
+          "note": "修饰以元音音素开头的单数可数名词 entertainer。指他为了作为一名“演员（an entertainer）”来赢得名气，开始挑战各种惊险的逃脱特技。",
+          "answer": "an"
+        },
+        "53": {
+          "concept": "动词与宾语特定搭配",
+          "note": "不定式符号 to 后接动词原形。与后面的名词短语 daring feats（惊险绝技）完美组合，构成专属核心动宾短语 perform feats 或者是 do feats，表达“表演/挑战特技”的语意。",
+          "answer": "perform/do"
+        },
+        "54": {
+          "concept": "空间与范围介词搭配",
+          "note": "与前置的动词现在分词 ranging 极其介词 from 完美组合，构成高频常考的范围划分句式 ranging from coffins to prison cells，意为逃脱的密闭容器“从”棺材“到”牢房，种类繁多。",
+          "answer": "to"
+        },
+        "55": {
+          "concept": "主谓一致与被动语态助动词",
+          "note": "主语为复数名词 performances，叙述过去的历史事实，此处需用一般过去时的被动语态（were typically watched），指他的表演当时“被”成千上万的人围观，故填复数助动词 were。",
+          "answer": "were"
+        },
+        "56": {
+          "concept": "名词语意与后文复现呼应",
+          "note": "由不定冠词 a 引导修饰。后文的句子开头直接提到了 The box was submerged（这个箱子被沉入水中），属于极其典型的“后文名词同义复现”线索提示，故此处必然对应填入单数名词 box / crate / container。",
+          "answer": "box/crate/container"
+        },
+        "57": {
+          "concept": "反身代词视角一致",
+          "note": "在主从句中，动作的发起者是单数第三人称男性 Harry Houdini（他）。根据动作发出者与承受者为同一主体的语法规则，作现在分词 freeing 的宾语，必须填入反身代词 himself，表示他在水下让自己“脱身”。",
+          "answer": "himself"
+        },
+        "58": {
+          "concept": "空间方位介词搭配",
+          "note": "用来连接数字高度 23 metres 和后面的名词 ground。指他被倒挂在半空中，距离地表、地面“上方”约23米，完美契合空间方位介词 above 或者是 off（构成 above ground 或 off the ground，此处无 the，故 above 最严谨地道）。",
+          "answer": "above"
+        },
+        "59": {
+          "concept": "名词语意与主谓一致",
+          "note": "作为后接复数谓语动词 gasped in awe 的主语。用来指代在现场观看他惊险表演的那些“观众”、“拥趸”或“目击者”，填入单数集合名词 audience 或者是复数名词 spectators / fans / witnesses（这里 audience 搭配单数形式在英语中亦常用作复数概念，与 gasped 搭配均通顺）。",
+          "answer": "audience/spectators/fans/witnesses"
+        },
+        "60": {
+          "concept": "一般过去时短语动词与介词搭配",
+          "note": "主语为复数名词 abilities。叙述过去的历史事实，与后面的介词短语 not only on... but also on... 完美组合，构成经典短语动词 depend on，指胡迪尼神乎其技的逃脱本领当年不仅“取决于/依赖于（depended）”他惊人的体能，还仰仗于他高超的开锁技巧，故用过去时形式。",
+          "answer": "depended/relied"
+        },
+        "61": {
+          "concept": "短语动词固定搭配",
+          "note": "不定式符号 to 后接动词原形。与后面的副词短语 out to people 完美组合，构成在各类人物传记和沟通议题中极高频考查的地道短语 reach out to 或者是电影场景下的 speak out to，表示他找到了一种通过电影去与人们建立联系、向大众“伸出触角/沟通交流”的新方式，填入 reach 最佳。",
+          "answer": "reach/speak"
+        },
+        "62": {
+          "concept": "名词语意与前文呼应",
+          "note": "由形容词性物主代词 his 和序数词 first 修饰。前文刚刚提到了电影（movies），此处顺理成章地指出他在1918年拍摄并推出了他的第一“部电影”或“作品”，故填单数名词 movie / film / appearance / production。",
+          "answer": "movie/film/appearance/production"
+        },
+        "63": {
+          "concept": "固定习惯搭配",
+          "note": "与后置的定冠词短语 the world 完美组合。构成极高频常考的经典地理范围修饰词组 around the world 或者是 over / across the world，意为他的动作片让“全世界”的观众都为之雀跃。",
+          "answer": "around/over/across"
+        },
+        "64": {
+          "concept": "一般过去时短语动词搭配",
+          "note": "主语为单数代词 he，叙述他于1926年去世的历史。与后面的形容词短语 seriously ill（重病）组合，完美契合生病专属的短语动词 fall ill，其过去时形式为 fell，表示他当年“突然身染重病”。",
+          "answer": "fell/became"
+        },
+        "65": {
+          "concept": "经典比喻习语搭配",
+          "note": "与其前置的动词 pay 以及后置的短语 last respects 完美组合。构成在各类人物生卒年传记中文体极其核心和高频的专属祭奠习语 pay their last respects to someone，意为成千上万的人出席并向胡迪尼致以他们“最后的敬意/诀别”，由于主语为 Many people，故代词填入复数第三人称 their。",
+          "answer": "their"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Megan and the twins do not know when Mrs Lam is picking them up.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Neither __________"
+        },
+        "67": {
+          "stem_plain": "Jack confessed to Mr Low, \"I am the one who broke the glasses.\"",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Jack confessed to Mr Low that __________"
+        },
+        "68": {
+          "stem_plain": "You must remove the electrical cables. Your toddler may be tempted to pull them.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ unless __________"
+        },
+        "69": {
+          "stem_plain": "I tried hard but I could not pry open the lid of the tin.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No matter __________"
+        },
+        "70": {
+          "stem_plain": "Sally stared at the letter. She could not believe it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Sally stared at the letter __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "neither … nor",
+          "zh": "梅根和双胞胎都不知道林太太何时来接他们。",
+          "note": "Megan and the twins → Neither Megan nor the twins；否定 know 不变。",
+          "answer": "Neither Megan nor the twins know when Mrs Lam is picking them up."
+        },
+        "67": {
+          "concept": "间接引语",
+          "zh": "杰克向罗先生承认是他打碎了那些玻璃杯。",
+          "note": "直接引语转 that 从句；人称、时态按规则后移。",
+          "answer": "Jack confessed to Mr Low that he was the one who had broken the glasses."
+        },
+        "68": {
+          "concept": "unless 条件句",
+          "zh": "除非你收走电线，否则幼儿可能会去拉它们。",
+          "note": "两空：主句 + unless 条件从句；remove 不用 must。",
+          "answer": "Your toddler may be tempted to pull the electrical cables unless you remove them."
+        },
+        "69": {
+          "concept": "No matter how",
+          "zh": "无论我多用力，都打不开罐子的盖子。",
+          "note": "I tried hard but … → No matter how hard I tried, …",
+          "answer": "No matter how hard I tried, I could not pry open the lid of the tin."
+        },
+        "70": {
+          "concept": "同位语 / 介词短语",
+          "zh": "萨莉难以置信地盯着那封信。",
+          "note": "She could not believe it → in disbelief。",
+          "answer": "Sally stared at the letter in disbelief."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Pick out a four-word phrase from the first paragraph that tells us that the narrator was in for an unforgettable experience.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Explain clearly why the narrator said that there was **'inevitable danger'** (line 11) as they entered the cave.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Which two of the following words best describe Bob's character in lines 7 to 15? Put a tick (✓) in the box beside each of your answers.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "cautious",
+            "curious",
+            "indifferent",
+            "comical",
+            "fearless",
+            "timid"
+          ],
+          "max_selections": 2
+        },
+        "74": {
+          "stem_plain": "From paragraph 3, the narrator compares Bob to **'an eager child'** (line 20). What actions led the narrator to think so?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "Action 1: [Q74a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "Action 2: [Q74b]"
+            }
+          ]
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **They** (line 7)",
+                "(b) **that** (line 18)",
+                "(c) **This knowledge** (line 31)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]",
+                "[Q75c]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "Bob slipped and lost his grasp of the pole. [Line 44]",
+            "Bob succeeded in putting a noose over the python's head. [Lines 38–41]",
+            "Bob was excited to explore the cave. [Lines 8–9]"
+          ]
+        },
+        "77": {
+          "stem_plain": "Based on the story, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The narrator visited the cave alone with Bob.",
+                "(b) The narrator and Bob could get into the cave easily.",
+                "(c) The python resisted being caught after the noose was put over its head."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q77a]",
+                "[Q77c]",
+                "[Q77e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q77b]",
+                "[Q77d]",
+                "[Q77f]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "Based on the information from lines 22 to 27, fill in the blanks in the following table.",
+          "marks": 2,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "How the narrator felt",
+              "rows": [
+                "[Q78a]",
+                "determined"
+              ]
+            },
+            "col_2": {
+              "header": "Why the narrator felt this way",
+              "rows": [
+                "The narrator studied the risks.",
+                "The narrator wanted to prioritise their safety."
+              ]
+            },
+            "col_3": {
+              "header": "What the narrator did as a result",
+              "rows": [
+                "The narrator warned Bob about the dangers of getting entangled with the python.",
+                "[Q78b]"
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Explain why the narrator thought that Bob would not be able to noose the python.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "80": {
+          "stem_plain": "(a) Circle one word that best describes how the narrator first felt when the bulk of the snake slid down the cave in lines 37 to 38. **DO NOT CIRCLE MORE THAN ONE WORD.**",
+          "marks": 1,
+          "interaction": "radio_comp",
+          "options": [
+            "astonished",
+            "dismayed",
+            "confused",
+            "frightened"
+          ],
+          "sub": [
+            {
+              "stem_plain": "(b)",
+              "question": "Why did the narrator feel this way?"
+            }
+          ]
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "After a challenging jungle trek in West Africa, we arrived at a small cave which was",
+          "2": "known for snake sightings. Our crew was led by a local ranger, Zari, and two snake",
+          "3": "handlers. My reptile-loving companion and avid wildlife photographer, Bob, had formed a",
+          "4": "unique bond with Zari, who had shared some interesting findings about pythons. They had",
+          "5": "promised us an adventure of a lifetime in seeking out a wild python in a cave. Without",
+          "6": "second thoughts, we hurriedly headed for the cave.",
+          "7": "\"Snake's inside. **They** spotted it this morning,\" said Zari, pointing to the snake",
+          "8": "handlers. Bob clapped his hands in delight, much to everyone's amusement. He was the",
+          "9": "first to volunteer to lead the way. Both of us got down on our stomachs and squeezed our",
+          "10": "way into the cave, trying to spot the python. Surrounded by darkness, my initial excitement",
+          "11": "turned to regret. With hardly any room to move, the inevitable danger of encountering a",
+          "12": "menacing python made my heart race. Bob directed his torch beam down the narrow",
+          "13": "passage to reveal a massive python, coiled up tight, just two metres ahead. I felt a surge",
+          "14": "of cowardice wash over me as ferocious hisses echoed. We crawled out quickly into the",
+          "15": "sunlight again and sat up.",
+          "16": "Moments later, Bob was squealing with joy as he experimented with his camera. I",
+          "17": "was about to suggest consulting the locals for help when Bob spotted one of the handlers",
+          "18": "making a noose out of thick rope. \"We need to get **that** around its neck, then pull and drag",
+          "19": "it out!\" suggested Bob as he impatiently pulled me up. I doubted it could work but kept it",
+          "20": "to myself. I fought to compose myself as I watched Bob behave like an eager child. As",
+          "21": "Bob skipped around playfully, I clenched my jaw, resisting the urge to yell.",
+          "22": "More doubts started to creep in as I assessed the risks. I warned Bob about the",
+          "23": "dangers of getting entangled with the python within the cramped cave. Determined to",
+          "24": "prioritise our safety, I insisted that Bob and I wear thick, layered clothing to shield ourselves",
+          "25": "from potentially getting bitten. Despite these precautions, a nagging sense of worry",
+          "26": "lingered. Concerned about our well-being, I emphasised the python's strength and",
+          "27": "unpredictable nature, stating, \"Do you really think you'll get a chance to noose it?\"",
+          "28": "Immediately, one of the snake handlers produced an extendable pole with a grabber",
+          "29": "tool at one end while the other tested the resistance of the knot.",
+          "30": "\"This will work. We've got to try, right?\" Bob asked. He patted my shoulder, adding,",
+          "31": "\"Don't worry, I understand how snakes react. **This knowledge** will come in handy for",
+          "32": "sure!\"",
+          "33": "I sighed in resignation as I knew Bob was not going to give up the prospect of",
+          "34": "photographing and getting close to the snake. Zari gave us some instructions on how to",
+          "35": "assist in capturing the snake. Suddenly, the air buzzed with anticipation.",
+          "36": "Bob and I crawled into the cave together, wedged shoulder to shoulder. While I",
+          "37": "shone the torch down the tunnel, Bob slowly inched the pole over the top coil of the python",
+          "38": "and then yanked with all his strength. To **our amazement**, the entire bulk of the snake slid",
+          "39": "down the cave towards us without resistance! My mind grappled with confusion as I had",
+          "40": "anticipated a fierce struggle as Bob shuffled backwards and pulled. I watched in awe as",
+          "41": "Bob skilfully manoeuvred the noose over its head in the tight confines of the cave. Soon,",
+          "42": "the snake hissed madly as it tried to free itself.",
+          "43": "\"Quick! Pull the rope!\" I roared as Bob appeared at the cave mouth. As he stepped",
+          "44": "back to drag the snake out, he slipped on a loose rock. The pole slipped from his grasp as",
+          "45": "he tumbled backwards. Within seconds, the python slithered back into the cave, leaving",
+          "46": "us speechless!"
+        },
+        "paragraphs": {
+          "1": "在西非经历了一段艰难的丛林跋涉后，我们来到一个小洞穴，那里以常能见到蛇而闻名。我们的队伍由当地护林员扎里和两名捕蛇人带领。我那位酷爱爬行动物、又是狂热野生动物摄影师的伙伴鲍勃，与扎里结下了特殊的交情；扎里曾分享一些关于蟒蛇的有趣发现。他们承诺带我们一生难得地到洞穴里寻找野生蟒蛇。我们毫不犹豫地向洞穴赶去。",
+          "7": "“洞里有蛇。他们今早发现了。”扎里指着捕蛇人说。鲍勃高兴地拍手，逗得大家发笑。他第一个自告奋勇带路。我们俩趴在地上挤进洞穴，想找到那条蟒蛇。四周一片漆黑，我最初的兴奋变成了后悔。几乎动弹不得，遭遇凶猛蟒蛇的必然危险让我心跳加速。鲍勃用手电照向狭窄通道，只见一条巨大的蟒蛇盘成一团，就在前方两米处。凶猛的嘶嘶声让我一阵胆怯。我们很快爬回阳光下坐了起来。",
+          "16": "片刻后，鲍勃一边摆弄相机一边高兴地尖叫。我正想建议向当地人求助，却看见鲍勃注意到一名捕蛇人用粗绳做套索。“得把那个套在它脖子上，再拖出来！”鲍勃不耐烦地拉我起来说。我怀疑这行不通，但没说出口。我看着鲍勃像个急不可待的孩子，一边努力镇定自己。鲍勃嬉皮笑脸地蹦来蹦去，我咬紧牙关忍住吼他的冲动。",
+          "22": "我评估风险时，更多疑虑涌上心头。我警告鲍勃在狭窄的洞穴里可能被蟒蛇缠住。我坚持我们俩穿上厚厚的多层衣服，以防被咬。尽管采取了这些预防措施，担忧仍挥之不去。我担心我们的安全，强调蟒蛇力气大、性情难测，说：“你真觉得能套住它吗？”",
+          "28": "立刻，一名捕蛇人拿出一根可伸缩杆，一端是抓取工具，另一人则测试绳结的牢固。鲍勃问：“这能行。我们得试试，对吧？”他拍拍我的肩，又说：“别担心，我懂蛇的反应。这些知识肯定派得上用场！”",
+          "33": "我无奈地叹气，知道鲍勃不会放弃近距离拍照、接近蟒蛇的机会。扎里教我们如何协助捕捉。突然间，空气里充满了期待。",
+          "36": "鲍勃和我一起再次爬进洞穴，肩并肩挤在一起。我用手电照向隧道，鲍勃慢慢把杆子移到蟒蛇最上面的线圈上，然后全力一拽。令我们惊讶的是，整条大蛇毫无抵抗地向我们滑来！我脑子一片混乱，本以为鲍勃后退拖拽时会有一场激烈搏斗。我惊叹地看着鲍勃在狭窄洞穴里熟练地把套索套到蛇头上。很快，蛇疯狂地嘶叫，试图挣脱。",
+          "43": "“快！拉绳子！”鲍勃出现在洞口时我大喊。他往后退想拖蛇出来，却踩到松动的石头滑倒。杆子脱手，他向后摔倒。几秒钟内，蟒蛇又滑回洞里，我们目瞪口呆！"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>范围：</strong>第一段（第 <strong>1–6</strong> 行）。</li><li><strong>关键词：</strong>four-word phrase；难忘经历。</li><li><strong>证据：</strong><em>an adventure of a lifetime</em>（第 <strong>5</strong> 行）。</li><li><strong>失分：</strong>超过四个词或抄错行。</li></ol>",
+          "answer": [
+            "adventure of a lifetime"
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>10–11</strong> 行 <em>inevitable danger</em>。</li><li><strong>理由：</strong>洞穴狭小、几乎无法移动，易与蟒蛇缠斗或被咬。</li><li><strong>书写：</strong>因果写清（空间 + 危险）。</li></ol>",
+          "answer": [
+            "The cave was small with hardly any room to move, so Bob and the narrator could have gotten entangled with the python or bitten by it."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>7–15</strong> 行 Bob 的表现。</li><li><strong>答案：</strong><em>curious</em>（主动进洞、兴奋）+ <em>fearless</em>（不怕、带头）。</li><li><strong>排除：</strong>cautious/timid 与勇敢相反；indifferent 他显然很投入。</li></ol>",
+          "answer": [
+            "curious",
+            "fearless"
+          ],
+          "type": "comprehension"
+        },
+        "74": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>16–21</strong> 行，<em>like an eager child</em>。</li><li><strong>Action 1：</strong>嬉皮笑脸地蹦跳（第 <strong>21</strong> 行）。</li><li><strong>Action 2：</strong>高兴地尖叫、摆弄相机（第 <strong>16</strong> 行）。</li></ol>",
+          "answer": {
+            "74a": "Bob skipped around playfully",
+            "74b": "Bob squealed with joy"
+          }
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>(a) They（第7行）：</strong>两名捕蛇人（扎里指着他们说话）。</li><li><strong>(b) that（第18行）：</strong>捕蛇人正在用粗绳做的套索。</li><li><strong>(c) This knowledge（第31行）：</strong>鲍勃自称懂蛇的反应方式。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "The two snake handlers",
+            "75b": "The noose that one of the snake handlers was making out of a thick rope",
+            "75c": "Bob's understanding of how snakes reacted"
+          }
+        },
+        "76": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li>时间顺序：先兴奋进洞（<strong>1</strong>）→ 套住蛇头（<strong>2</strong>）→ 滑倒掉杆（<strong>3</strong>）。</li><li><strong>答案：</strong>3, 2, 1 填在各行（与卷面一致）。</li></ol>",
+          "answer": [
+            "3, 2, 1"
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>(a) False：</strong>还有扎里与捕蛇人，非只有 Bob（第 <strong>1–3</strong> 行）。</li><li><strong>(b) False：</strong>趴着挤进洞，空间极小（第 <strong>9–11</strong> 行）。</li><li><strong>(c) True：</strong>被套后疯狂嘶叫挣扎（第 <strong>42</strong> 行）。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "False",
+            "77b": "The narrator and Bob were accompanied by Zari and two snake handlers.",
+            "77c": "False",
+            "77d": "The narrator and Bob had to squeeze into the cave and had hardly any room to move.",
+            "77e": "True",
+            "77f": "The python hissed madly as it tried to free itself."
+          }
+        },
+        "78": {
+          "concept": "表格信息填空",
+          "note": "<ol><li><strong>第一行：</strong>研究风险 → 感到 <em>doubtful</em> → 警告 Bob 勿被缠住（已给）。</li><li><strong>第二行：</strong>要保安全 → <em>determined</em>（已给）→ 坚持穿厚衣防咬。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "doubtful",
+            "78b": "Insisted that Bob and the narrator wore thick layered clothing to shield themselves from potentially getting bitten by the snake."
+          }
+        },
+        "79": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>范围：</strong>第 <strong>26–27</strong> 行。</li><li><strong>要点：</strong>蟒蛇 <em>strong</em> 且 <em>unpredictable</em>，鲍勃难有机会套住。</li></ol>",
+          "answer": [
+            "The python was strong and had an unpredictable nature."
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>(a)：</strong>蛇身滑下时几乎不抵抗 → 叙述者 <em>astonished</em>（第 <strong>38–39</strong> 行）。</li><li><strong>(b)：</strong>因未预料到如此轻易、与预想激烈搏斗相反。</li></ol>",
+          "answer": [
+            "astonished",
+            "He felt this way because the snake did not resist."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

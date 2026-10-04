@@ -1,0 +1,1408 @@
+{
+  "paperid": "p6_english_2020_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "John saw Tom ___________ some money from Samuel's wallet.",
+          "options": {
+            "1": "take",
+            "2": "took",
+            "3": "takes",
+            "4": "had taken"
+          }
+        },
+        "2": {
+          "stem_plain": "Your examination is tomorrow. You ___________ better turn in early tonight.",
+          "options": {
+            "1": "had",
+            "2": "have",
+            "3": "could",
+            "4": "should"
+          }
+        },
+        "3": {
+          "stem_plain": "I always look forward to meeting my friends ___________ school.",
+          "options": {
+            "1": "in",
+            "2": "on",
+            "3": "with",
+            "4": "under"
+          }
+        },
+        "4": {
+          "stem_plain": "The students ___________ know by now what they have to do during the temperature taking exercise.",
+          "options": {
+            "1": "can",
+            "2": "shall",
+            "3": "could",
+            "4": "should"
+          }
+        },
+        "5": {
+          "stem_plain": "The pride of lions ___________ lazing in the bush now.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "6": {
+          "stem_plain": "I have ___________ been to Universal Studios Singapore. I hope to go one day.",
+          "options": {
+            "1": "seldom",
+            "2": "always",
+            "3": "rarely",
+            "4": "never"
+          }
+        },
+        "7": {
+          "stem_plain": "My friend, ___________ was here earlier, was nominated to be a prefect.",
+          "options": {
+            "1": "who",
+            "2": "what",
+            "3": "which",
+            "4": "whose"
+          }
+        },
+        "8": {
+          "stem_plain": "The pupils love running along the corridors, ___________?",
+          "options": {
+            "1": "do they",
+            "2": "don't they",
+            "3": "were they",
+            "4": "weren't they"
+          }
+        },
+        "9": {
+          "stem_plain": "Isaac and ___________ have been chosen to be class captains.",
+          "options": {
+            "1": "I",
+            "2": "me",
+            "3": "her",
+            "4": "him"
+          }
+        },
+        "10": {
+          "stem_plain": "___________ of the criticism he received, he persevered and completed his masterpiece.",
+          "options": {
+            "1": "However",
+            "2": "Therefore",
+            "3": "Regardless",
+            "4": "Nevertheless"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "note": "感官动词 see 的常见用法为 see someone do something（看到某人做了某事，强调全过程或事实）或 see someone doing something（看到某人正在做某事）。这里使用动词原形 take 复合结构。",
+          "concept": "感官动词的宾语补足语 — Verbs of Perception — see someone do sth",
+          "zh": "约翰看到汤姆从萨姆尔的钱包里拿了一些钱。",
+          "answer": "1"
+        },
+        "2": {
+          "note": "had better 是一个固定短语，意为“最好……”，后接动词原形，常用于提出建议或劝告。",
+          "concept": "情态动词/固定搭配 — Modal Verbs — had better",
+          "zh": "你明天有考试。你今晚最好早点睡。",
+          "answer": "1"
+        },
+        "3": {
+          "note": "in school 是固定介词短语，意为“在学校”或“在校上学期间”，符合语境。",
+          "concept": "介词搭配 — Prepositions of Place — in school",
+          "zh": "我总是期待着在学校和朋友们见面。",
+          "answer": "1"
+        },
+        "4": {
+          "note": "should 在这里表示合乎情理的推测，意为“应该”、“按理说现在已经……了”。",
+          "concept": "情态动词表推测 — Modal Verbs — should for expectation",
+          "zh": "学生们现在应该已经知道在测体温练习期间他们需要做什么了。",
+          "answer": "4"
+        },
+        "5": {
+          "note": "a pride of lions 是表示“一群狮子”的量词/集体名词。当它作为一个整体概念作主语时，谓语动词用单数。结合句尾的 now，应使用现在进行时的单数形式 is。",
+          "concept": "主谓一致与集体名词 — Subject-Verb Agreement — Collective Nouns",
+          "zh": "那群狮子现在正懒洋洋地躺在灌木丛里。",
+          "answer": "1"
+        },
+        "6": {
+          "note": "后半句提到“希望有一天能去”，说明说话者以前从来没有去过，因此选用否定副词 never。",
+          "concept": "副词辨析与语境理解 — Adverbs of Frequency — never",
+          "zh": "我从未去过新加坡环球影城。我希望有一天能去。",
+          "answer": "4"
+        },
+        "7": {
+          "note": "本句为非限制性定语从句，先行词是 My friend（人），且在从句中作主语，因此使用关系代词 who。",
+          "concept": "定语从句 — Relative Clauses — relative pronoun 'who'",
+          "zh": "我的朋友（刚才在这儿的那位）被提名为了班长/风纪委员。",
+          "answer": "1"
+        },
+        "8": {
+          "note": "反义疑问句遵循“前肯后否”原则。前半句的主语是 The pupils（复数，代词用 they），谓语动词是肯定形式的常态动词 love，因此附加疑问部分使用助动词的否定形式 don't they。",
+          "concept": "反义疑问句 — Question Tags — affirmative sentence with regular verb",
+          "zh": "学生们喜欢沿着走廊奔跑，不是吗？",
+          "answer": "2"
+        },
+        "9": {
+          "note": "空缺处与 Isaac 共同组成句子的复合主语。由于在主语位置，必须使用人称代词的主格形式 I。",
+          "concept": "人称代词格的选择 — Pronoun Cases — subject pronoun 'I'",
+          "zh": "艾萨克和我被选为了班长。",
+          "answer": "1"
+        },
+        "10": {
+          "note": "regardless of 是固定介词短语，意为“不管”、“不顾”。其他选项均为副词，不能直接后接 of 短语。",
+          "concept": "连词与介词短语搭配 — Prepositional Phrases — regardless of",
+          "zh": "不管受到怎样的批评，他依然坚持不懈，完成了他的杰作。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "That dilapidated apartment is ___________ with cockroaches.",
+          "options": {
+            "1": "grown",
+            "2": "infected",
+            "3": "infested",
+            "4": "overgrown"
+          }
+        },
+        "12": {
+          "stem_plain": "Ayden has never been one to ___________ his words. He is sure to always speak the truth in love.",
+          "options": {
+            "1": "mince",
+            "2": "amend",
+            "3": "articulate",
+            "4": "reassess"
+          }
+        },
+        "13": {
+          "stem_plain": "The pharmacist at the hospital ___________ some medicine for me.",
+          "options": {
+            "1": "injected",
+            "2": "dispensed",
+            "3": "diagnosed",
+            "4": "prescribed"
+          }
+        },
+        "14": {
+          "stem_plain": "\"Stop making so much noise!\" the teacher hissed through ___________ teeth, clearly irate.",
+          "options": {
+            "1": "crushed",
+            "2": "clutched",
+            "3": "clenched",
+            "4": "crunched"
+          }
+        },
+        "15": {
+          "stem_plain": "Mr Lim threw his hands up in ___________ when the class could not understand him despite the repeated explanations.",
+          "options": {
+            "1": "adoration",
+            "2": "explosion",
+            "3": "admiration",
+            "4": "exasperation"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "那栋破旧的公寓里蟑螂泛滥。",
+          "note": "be infested with 为固定搭配，常用于形容害虫、盗贼等“大批滋生、横行或泛滥”。",
+          "concept": "词汇辨析与固定搭配 — Vocabulary — Collocation with 'with'",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "grown",
+              "zh": "（植物、生物等）长大的，成长的；（数量、体积等）增加的（过去分词作形容词，常指在自然状态下体积或数量变大）",
+              "eg": "The garden has **grown** beautifully over the summer months."
+            },
+            {
+              "opt": "2",
+              "word": "infected",
+              "zh": "（身体、伤口等）受感染的，受污染的（形容词，指人体、动物或特定伤口被细菌、病毒等病原体侵入）",
+              "eg": "The open wound became **infected** with bacteria because it was not cleaned."
+            },
+            {
+              "opt": "3",
+              "word": "infested",
+              "zh": "（害虫、盗贼等）大批滋生的，泛滥的，横行的（形容词，常与 with 搭配，指大量令人厌恶的动物、昆虫或人充满某处并造成破坏）",
+              "eg": "The old wooden warehouse was **infested** with termites."
+            },
+            {
+              "opt": "4",
+              "word": "overgrown",
+              "zh": "（植物）长满的，杂草丛生的；（生物）长得过大的（形容词，指草木因无人修剪而过度生长，或生长速度超过正常标准）",
+              "eg": "The abandoned path was completely **overgrown** with weeds and thorny bushes."
+            }
+          ]
+        },
+        "12": {
+          "zh": "艾登从不是一个说话吞吞吐吐/拐弯抹角的人。他一定会始终用爱心说诚实话。",
+          "note": "mince one's words 为固定习语，意为“（为了不冒犯人而）说话委婉、拐弯抹角、吞吞吐吐”。根据后半句“speak the truth”可知选 1。",
+          "concept": "习语与短语动词 — Idiomatic Expressions — mince one's words",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "mince",
+              "zh": "（把食物等）切碎，绞碎；（说话）委婉，吞吞吐吐，拐弯抹角（动词，在习语 mince one's words 中指为了顾及面子或礼貌而不直接把话说透）",
+              "eg": "The manager did not **mince** his words when criticizing the poor performance of the team."
+            },
+            {
+              "opt": "2",
+              "word": "amend",
+              "zh": "修改，修订，修正（动词，通常指对法律文件、合同条款、议案或文本内容进行正式的补充、删减或改动以使其更完善）",
+              "eg": "The committee voted to **amend** the club's constitution to allow more members."
+            },
+            {
+              "opt": "3",
+              "word": "articulate",
+              "zh": "清楚地表达，清晰地发音（动词，指能够用清晰、连贯的语言组织并表达出内心的思想、感情或观点）",
+              "eg": "She is highly intelligent and able to **articulate** her ideas very effectively."
+            },
+            {
+              "opt": "4",
+              "word": "reassess",
+              "zh": "重新评估，再次考虑，重新核定（动词，指在获得新信息或形势发生变化后，对某一事件、策略或资产价值进行再次分析与评判）",
+              "eg": "After the market crash, the investors decided to **reassess** their financial strategy."
+            }
+          ]
+        },
+        "13": {
+          "zh": "医院的药剂师为我配了药。",
+          "note": "主语是 pharmacist（药剂师），药剂师的职责是“配药、发药”，对应的动词是 dispense。医生负责“诊断 (diagnose)”和“开处方 (prescribe)”。",
+          "concept": "职业相关动作词汇辨析 — Vocabulary — Job Duties",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "injected",
+              "zh": "注射（药物、液体等），注入（动词，通常指医护人员使用针头和注射器将液体药物直接推入体内）",
+              "eg": "The nurse gently **injected** the vaccine into the patient's upper arm."
+            },
+            {
+              "opt": "2",
+              "word": "dispensed",
+              "zh": "配（药），发（药）；分发，提供（动词，特指药剂师根据医生处方调制并向患者发放符合剂量的药物）",
+              "eg": "The pharmacy technician **dispensed** the prescribed antibiotics to the long queue of patients."
+            },
+            {
+              "opt": "3",
+              "word": "diagnosed",
+              "zh": "诊断（疾病），判断（问题）（动词，指医生通过观察症状、检查身体或化验结果来确定某人患了何种疾病）",
+              "eg": "The specialist **diagnosed** the patient with a rare genetic disorder."
+            },
+            {
+              "opt": "4",
+              "word": "prescribed",
+              "zh": "开（药方），开（处方）（动词，特指医生在纸上或系统中写下患者需要服用的特定药物名称、剂量和服用方法）",
+              "eg": "The doctor **prescribed** a strong painkiller to help soothe her back pain."
+            }
+          ]
+        },
+        "14": {
+          "zh": "“别吵了！”老师咬紧牙关低声喝道，显然是被激怒了。",
+          "note": "through clenched teeth 为固定搭配，意为“咬紧牙关（说话等）”，通常形容人在极度愤怒或隐忍时说话的状态。",
+          "concept": "身体动作与神态搭配 — Vocabulary — Body Language / Collocations",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "crushed",
+              "zh": "压碎的，压坏的；（精神）崩溃的，被摧毁的（过去分词作形容词，指物体因受到强力挤压而变形或破碎）",
+              "eg": "The package arrived with the boxes completely **crushed** during transit."
+            },
+            {
+              "opt": "2",
+              "word": "clutched",
+              "zh": "紧抓的，抓牢的（过去分词作形容词，常形容因紧张、恐惧或保护某物而将其死死抱在怀里或握在手中的状态）",
+              "eg": "She **clutched** her handbag tightly as she walked through the crowded dark alley."
+            },
+            {
+              "opt": "3",
+              "word": "clenched",
+              "zh": "咬紧的（牙关），握紧的（拳头）（过去分词作形容词，特指因愤怒、疼痛、紧张或极度隐忍而使肌肉紧绷、闭合身体部位）",
+              "eg": "He listened to the insults with **clenched** fists but kept his temper under control."
+            },
+            {
+              "opt": "4",
+              "word": "crunched",
+              "zh": "嘎吱作响的；（数字、数据）被处理的（过去分词作形容词，指物体被踩踏或压迫时发出的清脆断裂声或其状态）",
+              "eg": "The dry autumn leaves **crunched** loudly under our heavy winter boots."
+            }
+          ]
+        },
+        "15": {
+          "zh": "尽管林老师反复解释，全班同学还是无法理解他，他气馁/无奈地举起了双手。",
+          "note": "throw one's hands up in exasperation 意为“因无可奈何、气恼而举起双手”，符合因多次解释无果而产生的焦虑无奈语境。",
+          "concept": "情感名词辨析与搭配 — Vocabulary — Expressions of Emotion",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "adoration",
+              "zh": "崇拜，热爱，爱慕（名词，指对神灵或崇拜的对象产生的一种极度深厚、虔诚且充满敬意的爱）",
+              "eg": "The young fans looked up at the pop star with pure **adoration** in their eyes."
+            },
+            {
+              "opt": "2",
+              "word": "explosion",
+              "zh": "爆炸，轰鸣；（数量、情感等）激增，爆发（名词，指物体因内部压力瞬间炸开，或某种现象在短时间内急剧增多）",
+              "eg": "The sudden loud **explosion** at the chemical plant shook the entire neighborhood."
+            },
+            {
+              "opt": "3",
+              "word": "admiration",
+              "zh": "钦佩，赞赏，羡慕（名词，指对某人的才华、成就、品格或美德产生由衷的赞叹与尊敬之情）",
+              "eg": "I have the greatest **admiration** for her dedication to the charity project."
+            },
+            {
+              "opt": "4",
+              "word": "exasperation",
+              "zh": "放任，气恼，无可奈何（名词，指因事情反复不顺、进展不佳或他人无法沟通而产生的一种极度不耐烦、焦虑且无计可施的情感状态）",
+              "eg": "After waiting for two hours in the wrong queue, he sighed in deep **exasperation**."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "Zheng Nian took in the ________ sight below him - hundreds of men in yellow helmets packed in the construction site like an upturned beehive let loose.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "rare",
+            "2": "peculiar",
+            "3": "average",
+            "4": "exceptional"
+          }
+        },
+        "17": {
+          "stem_plain": "When the ________ passed over him, Zheng Nian could not resist leaning forward again from where he squatted.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "dizziness",
+            "2": "numbness",
+            "3": "queasiness",
+            "4": "bloatedness"
+          }
+        },
+        "18": {
+          "stem_plain": "Zheng Nian could not resist leaning forward again from where he squatted, ________ the foreign world below him.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "checking in",
+            "2": "checking on",
+            "3": "checking out",
+            "4": "checking with"
+          }
+        },
+        "19": {
+          "stem_plain": "Zheng Nian wondered if the ground forty-storey below him was as ________ as lava.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "scorching",
+            "2": "freezing",
+            "3": "warm",
+            "4": "cool"
+          }
+        },
+        "20": {
+          "stem_plain": "At the thought of his body ________ accidentally down the point of no return, cold sweat broke his skin.",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "falling",
+            "2": "rolling",
+            "3": "sliding",
+            "4": "crawling"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "rare",
+              "zh": "罕见的/稀有的",
+              "eg": "It is rare to see snow in this tropical region."
+            },
+            {
+              "opt": "2",
+              "word": "peculiar",
+              "zh": "奇怪的/特有的",
+              "eg": "The food has a peculiar smell that I have never encountered before."
+            },
+            {
+              "opt": "3",
+              "word": "average",
+              "zh": "普通的/一般的",
+              "eg": "The movie was just average, neither very good nor very bad."
+            },
+            {
+              "opt": "4",
+              "word": "exceptional",
+              "zh": "杰出的/非凡的",
+              "eg": "Her exceptional performance earned her a standing ovation from the audience."
+            }
+          ]
+        },
+        "17": {
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dizziness",
+              "zh": "头晕",
+              "eg": "Standing up too quickly caused a sudden wave of dizziness."
+            },
+            {
+              "opt": "2",
+              "word": "numbness",
+              "zh": "麻木",
+              "eg": "The extreme cold caused a feeling of numbness in his fingers."
+            },
+            {
+              "opt": "3",
+              "word": "queasiness",
+              "zh": "恶心/反胃",
+              "eg": "The bumpy boat ride triggered a strong sensation of queasiness in her stomach."
+            },
+            {
+              "opt": "4",
+              "word": "bloatedness",
+              "zh": "腹胀",
+              "eg": "Eating too fast can lead to uncomfortable bloatedness after meals."
+            }
+          ]
+        },
+        "18": {
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "checking in",
+              "zh": "登记入住/报到",
+              "eg": "We need to go to the front desk for checking in before heading to our room."
+            },
+            {
+              "opt": "2",
+              "word": "checking on",
+              "zh": "检查/查看（情况）",
+              "eg": "The nurse kept checking on the patient throughout the night."
+            },
+            {
+              "opt": "3",
+              "word": "checking out",
+              "zh": "观察/打量/结账",
+              "eg": "He spent hours checking out the beautiful scenery from his balcony."
+            },
+            {
+              "opt": "4",
+              "word": "checking with",
+              "zh": "与……核实/商量",
+              "eg": "I must be checking with my manager before approving this request."
+            }
+          ]
+        },
+        "19": {
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "scorching",
+              "zh": "酷热的/灼热的",
+              "eg": "We decided to stay indoors to escape the scorching afternoon sun."
+            },
+            {
+              "opt": "2",
+              "word": "freezing",
+              "zh": "极冷的/冰冻的",
+              "eg": "The water in the lake was freezing, so nobody went for a swim."
+            },
+            {
+              "opt": "3",
+              "word": "warm",
+              "zh": "温暖的",
+              "eg": "A warm breeze blew across the beach as the sun began to set."
+            },
+            {
+              "opt": "4",
+              "word": "cool",
+              "zh": "凉爽的",
+              "eg": "Autumn brings cool autumn mornings that are perfect for a jog."
+            }
+          ]
+        },
+        "20": {
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "falling",
+              "zh": "坠落/跌落",
+              "eg": "Be careful to avoid falling down the steep and slippery stairs."
+            },
+            {
+              "opt": "2",
+              "word": "rolling",
+              "zh": "滚动/翻滚",
+              "eg": "The loose stone kept rolling down the hill until it hit a tree."
+            },
+            {
+              "opt": "3",
+              "word": "sliding",
+              "zh": "滑行/滑动",
+              "eg": "The children enjoyed sliding down the muddy slope after the rain."
+            },
+            {
+              "opt": "4",
+              "word": "crawling",
+              "zh": "爬行",
+              "eg": "The caterpillar was crawling slowly along the edge of the leaf."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "It was a forsakenly hot day. The morning sun shone mercilessly high up in the sky. The rays were burning his eyes as Zheng Nian took in the [Q16 (unremarkable)] sight below him – hundreds of men in yellow helmets packed in the construction site like an upturned beehive let loose. When the [Q17 (nausea)] passed over him, Zheng Nian could not resist leaning forward again from where he squatted, [Q18 (surveying the foreign world)] below him.",
+          "Assigned to pave cement on the roof, Zheng Nian wondered if the ground forty-storey below him was [Q19 (as hot as lava)]. Where he was, up there, the ground surprised his feet with the heaviness of heat burning through his safety boots. At the thought of his body [Q20 (plunging)] accidentally down the point of no return, cold sweat broke his skin. He retreated a little from the unfinished edge of the roof, the sun raining angrily down hard on his back."
+        ],
+        "zh": [
+          "那是极其炎热的一天。清晨的太阳在高空中无情地照耀着。阳光灼烧着正念的眼睛，他看着下方那平凡无奇的景象。成百上千戴着黄色安全帽的工人挤在建筑工地上，就像一个被放开的翻转蜂巢。当恶心感过去后，正念情不自禁地从他蹲着的地方再次向前倾，审视着下方那个陌生的世界。",
+          "正念被分配在屋顶铺水泥，他纳闷自己下方四十层楼高的地面是否像熔岩一样滚烫。在他所处的上方，地面的热气穿透了他的安全靴，沉重地灼烧着他的双脚。一想到自己的身体可能会意外坠落到万劫不复的深渊，他就吓出了一身冷汗。他从屋顶未完工的边缘往后退了一点，太阳愤怒地狠狠炙烤着他的后背。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze_letter"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "介词辨析与固定搭配 — Prepositions",
+          "note": "根据语境，此处表示这幅画是在1997年被“从”意大利北部的一家美术馆偷走的，动词短语 <code>be taken from</code> 表示“从……被带走/偷走”，故选用介词 <code>from</code>（对应字母 G）。",
+          "answer": "G"
+        },
+        "30": {
+          "concept": "介词固定搭配 — Prepositions",
+          "note": "此处表示园丁们发现这幅画被“隐藏在”美术馆的一面外墙里。动词短语 <code>be concealed in</code> 意为“隐藏在……之中”，故选用介词 <code>in</code>（对应字母 H）。",
+          "answer": "H"
+        },
+        "31": {
+          "concept": "主谓一致与系动词 — Subject-Verb Agreement",
+          "note": "本句的主语是由连词 why 引导的主语从句 <code>why the painting was left in the wall at the gallery</code>（为什么这幅画会被留在墙里）。主语从句作主语时，谓语动词需用单数形式，且此处描述客观事实应用一般现在时，故选用系动词 <code>is</code>（对应字母 J）。",
+          "answer": "J"
+        },
+        "32": {
+          "concept": "介词固定搭配 — Prepositions",
+          "note": "此处表示专家们在红外线和紫外线“照射下”对这幅画进行了研究。在某种光线下通常使用介词短语 <code>under ... light</code>，故选用介词 <code>under</code>（对应字母 N）。",
+          "answer": "N"
+        },
+        "33": {
+          "concept": "介词辨析 — Prepositions",
+          "note": "后文提到了 <code>the two sets of images</code>（两组图像），表示在“两者之间”的相似性，通常使用介词短语 <code>the similarity between ...</code>，故选用介词 <code>between</code>（对应字母 D）。",
+          "answer": "D"
+        },
+        "34": {
+          "concept": "连词辨析与逻辑关系 — Conjunctions",
+          "note": "前半句提到“作品的保存状况相对较好”，后半句提到“由于经历了一些磨难，它需要一些常规护理”，两句之间存在轻微的转折或让步对比关系，故选用连词 <code>but</code>（对应字母 E）。",
+          "answer": "E"
+        },
+        "35": {
+          "concept": "介词表动作执行者 — Prepositions",
+          "note": "本句为被动语态结构 <code>was painted ...</code>，空格后是动作的执行者“维也纳艺术家古斯塔夫·克里姆特”，在被动语态中常用介词 <code>by</code> 引导动作发出者，故选用 <code>by</code>（对应字母 F）。",
+          "answer": "F"
+        },
+        "36": {
+          "concept": "介词短语与动词搭配 — Prepositions",
+          "note": "此处表示窃贼制造了他们是“穿过/通过”天花板上的一扇小窗户破门而入的假象。动词短语 <code>break in through ...</code> 表示“穿过……强行进入”，故选用介词 <code>through</code>（对应字母 M）。",
+          "answer": "M"
+        },
+        "37": {
+          "concept": "连词引导原因状语从句 — Conjunctions",
+          "note": "前半句提到“事实并非如此”，后半句提到“窗户太窄，根本放不下这幅画”，后半句是前半句的原因，此处 <code>since</code> 可用作连词表示“因为、由于”，故选用 <code>since</code>（对应字母 L）。",
+          "answer": "L"
+        },
+        "38": {
+          "concept": "“介词+关系代词”引导定语从句 — Relative Pronouns",
+          "note": "空格前有介词 <code>within</code>，此处为“介词 + 关系代词”结构引导定语从句，修饰先行词 <code>a small recess</code>（一个凹槽），在定语从句中指代物时需用关系代词 <code>which</code> 紧跟在介词后，构成 <code>within which</code> 表示“在那个凹槽里面”，故选用 <code>which</code>（对应字母 Q）。",
+          "answer": "Q"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "and",
+          "B": "are",
+          "C": "at",
+          "D": "between",
+          "E": "but",
+          "F": "by",
+          "G": "from",
+          "H": "in",
+          "J": "is",
+          "K": "on",
+          "L": "since",
+          "M": "through",
+          "N": "under",
+          "P": "until",
+          "Q": "which"
+        },
+        "cloze": [
+          "A painting discovered by chance last month is a famous Klimt original that was stolen nearly 23 years ago, Italian authorities have confirmed.",
+          "The painting, entitled Portrait of a Lady, was taken [Q29] a gallery in northern Italy in 1997. It was thought to have disappeared for good until gardeners clearing away weeds found it concealed [Q30] an external wall at the same gallery. However, why the painting was left in the wall at the gallery [Q31] still a mystery.",
+          "To determine the authenticity of the painting, experts studied the painting [Q32] infrared and ultraviolet light and compared the images to those taken during tests in 1996. The similarity [Q33] the two sets of images allowed the experts to determine that it was definitely the original painting. They noted that the condition of the work was relatively good, [Q34] since it had gone through a few ordeals, it needed some routine care.",
+          "The Portrait of a Lady was painted [Q35] Viennese artist Gustave Klimt towards the end of his life. It was purchased and kept in the gallery until it was stolen during preparations for a special exhibition.",
+          "The frame of the painting was discarded on the roof of the building to make it appear that the thieves had broken in [Q36] a small window in the ceiling. That was not the case [Q37] the window was too narrow to fit the painting.",
+          "In December, gardeners clearing ivy from a wall stumbled on a metal panel. Behind it lay a small recess, within [Q38] was a black bag containing the missing painting.",
+          "The recovery of the missing painting has delighted the art world, and plans are underway for its exhibition."
+        ],
+        "zh": [
+          "意大利官方已证实，上个月偶然发现的一幅画作是著名克里姆特的原作，该画作于近23年前被盗。",
+          "这幅名为《一位女士的肖像》的画作于1997年[Q29]意大利北部的一家美术馆被盗。人们本以为它已经永久失踪了，直到清理杂草的园丁发现它被藏在同一家美术馆的一面外墙[Q30]。然而，为什么这幅画会被留在美术馆的墙里[Q31]仍然是一个谜。",
+          "为了确定这幅画的真伪，专家们在红外线和紫外线[Q32]对画作进行了研究，并将这些图像与1996年测试期间拍摄的图像进行了对比。这两组图像[Q33]的相似性使专家们能够断定这绝对是原作。他们注意到作品的保存状况相对较好，[Q34]由于经历了一些磨难，它需要一些常规护理。",
+          "《一位女士的肖像》是由维也纳艺术家古斯塔夫·克里姆特在其生命后期[Q35]创作的。它被购买并一直保存在该美术馆，直到在一次特别展览的筹备过程中被盗。",
+          "画框被丢弃在建筑物的屋顶上，以此制造出盗贼是[Q36]天花板上的一扇小窗户破门而入的假象。事实并非如此，[Q37]窗户太窄，根本放不下这幅画。",
+          "十二月，清理墙壁常春藤的园丁偶然发现了一个金属面板。在它后面有一个小凹槽，在[Q38]里面有一个装有失踪画作的黑包。",
+          "失踪画作的找回让艺术界欢欣鼓舞，目前正在筹备其展览计划。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 recognise（动词，意为辨认、识别）。",
+          "answer": "recognise"
+        },
+        "40": {
+          "concept": "形容词比较级 - Comparatives",
+          "note": "比较级错误：此处用于将平均值与前面的13厘米进行对比，表示“更接近”，应使用比较级 closer。",
+          "answer": "closer"
+        },
+        "41": {
+          "concept": "介词 - Prepositions",
+          "note": "介词错误：表示“生活在某大洲/国家”，应使用介词 in，而非 on。",
+          "answer": "in"
+        },
+        "42": {
+          "concept": "过去分词 - Past Participles",
+          "note": "非谓语动词：此处表示“被黑色纹路覆盖的翅膀”，应用过去分词短语 covered with 作后置定语。",
+          "answer": "covered"
+        },
+        "43": {
+          "concept": "代词 - Pronouns",
+          "note": "代词不一致：前面主语为复数 Females，对应的物主代词应用 their，而非单数 her。",
+          "answer": "their"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 poisonous（形容词，意为有毒的）。",
+          "answer": "poisonous"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 migration（名词，意为迁徙）。",
+          "answer": "migration"
+        },
+        "46": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 autumn（名词，意为秋天）。",
+          "answer": "autumn"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 delicate（形容词，意为脆弱的、精致的）。",
+          "answer": "delicate"
+        },
+        "48": {
+          "concept": "连词 - Conjunctions",
+          "note": "连词逻辑错误：根据句意，“它们继续飞行直到到达……”，应使用 until，而非 when。",
+          "answer": "until"
+        },
+        "49": {
+          "concept": "动词时态 - Verb Tenses",
+          "note": "时态错误：整篇短文基于一般现在时说明客观事实（如 return），因此 found 应改为原形 find 保持时态一致。",
+          "answer": "find"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 ancestors（名词，意为祖先）。",
+          "answer": "ancestors"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "There are many species of butterflies. Monarchs are large, beautifully-coloured butterflies [Q39(rackonnise)] that are easy to recognise by their striking orange, black, and white markings. The wingspan of a full-grown monarch can reach nearly 13 centimetres, although the average is [Q40(close)] to 10 centimetres.",
+          "Monarch butterflies live [Q41(on)] North, Central, and South America as well as Australia, some Pacific Islands, India, and Western Europe. Their markings include bright orange wings [Q42(cover)] with black veins and rimmed with a black border and white dots. Females have thicker veins in [Q43(her)] wings. A monarch's brilliant colouring tells predators not to eat them as they are [Q44(poizenus)].",
+          "The most amazing thing about monarch butterflies is the enormous [Q45(migreysion)] that North American monarchs undertake each year. Every [Q46(auterm)], as cold weather approaches, millions of these [Q47(deliket)] insects leave their home range and begin flying south. They continue [Q48(when)] they reach Southern California or central Mexico, more than 3,200 kilometres away!",
+          "These travellers return to the same forests each year, and some even [Q49(found)] the same tree that their [Q50(ansesstors)] landed on. Some estimates say up to a billion butterflies arrive in the mountains of Mexico each year."
+        ],
+        "zh": [
+          "蝴蝶有很多种。黑脉金斑蝶是大而色彩斑斓的蝴蝶，由于其醒目的橙色、黑色和白色标记而很容易被辨认出来。一只发育完全的黑脉金斑蝶的翼展可以达到近13厘米，尽管平均翼展更接近10厘米。",
+          "黑脉金斑蝶生活在北美洲、中美洲和南美洲，以及澳大利亚、一些太平洋岛屿、印度和西欧。它们的标记包括明亮的橙色翅膀，上面覆盖着黑色的静脉纹，边缘有黑色边框和白点。雌性的翅膀上有更粗的静脉纹。黑脉金斑蝶鲜艳的色彩告诉捕食者不要吃它们，因为它们是有毒的。",
+          "关于黑脉金斑蝶最令人惊叹的事情是北美黑脉金斑蝶每年进行的大规模迁徙。每年秋天，随着寒冷天气的临近，数以百万计的这些脆弱的昆虫离开它们的家园，开始向南飞行。它们一直飞行，直到到达3200多公里外的南加州或墨西哥中部！",
+          "这些旅行者每年都会回到相同的森林，有些甚至能找到它们祖先落脚过的那棵树。据估计，每年有多达10亿只蝴蝶到达墨西哥的山区。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "过去时动词 / 语境动词",
+          "answer": "occurred / happened / transpired",
+          "note": "主语为‘an accident’，叙述过去（1983年）发生的具体历史事件，使用一般过去时，意为‘一场事故发生了（occurred）’。"
+        },
+        "52": {
+          "concept": "固定搭配 / 名词",
+          "answer": "result / consequence",
+          "note": "与前文搭配组成短语‘As a result’，用作逻辑衔接，意为‘结果（result）、因此’。"
+        },
+        "53": {
+          "concept": "固定搭配 / 副词或介词",
+          "answer": "away / out",
+          "note": "与前面的被动语态‘was being towed’连用，‘towed away’为固定短语，表示石油钻井平台正在被‘拖走（away）’。"
+        },
+        "54": {
+          "concept": "过去时动词",
+          "answer": "caused / forced / made",
+          "note": "全篇为过去时叙事。动词后接宾语和不定式结构‘it to snap’，‘caused it to snap’意为‘导致（caused）了它（缆绳）断裂’。"
+        },
+        "55": {
+          "concept": "过去分词 (被动语态/定语)",
+          "answer": "began / opened / launched / established / commissioned / built",
+          "note": "根据标准答案优先选择‘began’。结合时间点，此处指自缆车系统‘运行/开通（began）’以来第一起涉及伤亡的灾难。"
+        },
+        "56": {
+          "concept": "上下文语境名词",
+          "answer": "operation / mission / effort / task",
+          "note": "修饰前面的形容词短语‘all-night rescue’，‘rescue operation’意为‘救援行动（operation）’。"
+        },
+        "57": {
+          "concept": "形容词 / 限定词",
+          "answer": "more / further / greater / massive",
+          "note": "修饰不可数名词‘damage’。由于人们担心钻井平台会进一步漂移，从而带来‘更多的（more）’破坏。"
+        },
+        "58": {
+          "concept": "动词原形 / 语境动词",
+          "answer": "stop / prevent / keep",
+          "note": "根据标准答案优先选择‘stop’。位于动词不定式符号‘to’后面接动词原形，与后文的‘...the rig from moving’连用，意为‘阻止（stop）钻井平台移动’。"
+        },
+        "59": {
+          "concept": "过去分词或形容词 (作表语)",
+          "answer": "stuck / trapped / stranded / caught",
+          "note": "根据标准答案优先选择‘stuck’。位于‘were still’之后作表语，意为去营救那些依然被‘卡住/困在（stuck）’四个缆车车厢里的人。"
+        },
+        "60": {
+          "concept": "上下文语境名词",
+          "answer": "sea / water / ocean / depths",
+          "note": "结合前文，此处指车厢随时可能坠入‘大海（sea）’中。"
+        },
+        "61": {
+          "concept": "副词 / 动词短语搭配",
+          "answer": "away / course / back / off",
+          "note": "根据标准答案优先选择‘away’。与前面的动词‘was blown’连用，结合风大及第一次尝试失败的语境，意为他被强风‘吹开了（away）’。"
+        },
+        "62": {
+          "concept": "上下文语境名词",
+          "answer": "passenger / survivor / victim / person",
+          "note": "被牢牢绑在他的背带上，指被他救出的第一个‘乘客（passenger）’。"
+        },
+        "63": {
+          "concept": "固定搭配 / 副词或介词",
+          "answer": "safety / up",
+          "note": "与前文的动词及代词‘pulled them both to’连用，‘pulled them to safety’为固定语境表达，意为‘将他们两人拉向安全地带（safety）’。"
+        },
+        "64": {
+          "concept": "固定搭配 / 介词 (句首大写)",
+          "answer": "despite / notwithstanding / in spite of",
+          "note": "根据标准答案，虽位于句首，实际做题需大写。后接名词短语‘the windy condition...’，与后半句构成让步转折，意为‘尽管（despite）’面对港口上空遭遇的狂风天气……"
+        },
+        "65": {
+          "concept": "固定搭配 / 名词",
+          "answer": "conditions / circumstances / elements / forces",
+          "note": "与前面的形容词短语连用，‘high wind conditions’为固定搭配，意为‘在黑暗与强风恶劣天气条件（conditions）下’，整个救援行动持续了三个半小时。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Do you know about the cable car incident that took place in Singapore?",
+          "On 29 January 1983, an accident [Q51] when the lifting device of an oil rig passed under the aerial ropeway and struck the cable that stretched over the waterway between the Jardine Steps Station and the Sentosa Station. As a [Q52], two cabins plunged 55 metres into the sea, killing seven people. The oil rig was being towed [Q53] from Keppel Wharf when it became entangled in the cable and [Q54] it to snap. It also left thirteen people trapped in four cabins between Mount Faber and Sentosa. The disaster was the first involving death or injury since the cable car system [Q55] in February 1974.",
+          "The Police Force, Civil Defence and the Singapore Armed Forces were involved in the all-night rescue [Q56]. The overall operation was directed by the then Colonel Lee Hsien Loong. There were fears that the oil rig could drift further and cause [Q57] damage. The problem was worsened by a combination of strong currents and the rising tide. To [Q58] the rig from moving, four tugs put lines aboard to keep the rig steady in the water.",
+          "To rescue the people who were still [Q59] in the four cabins, a search and rescue helicopter was deployed. Though an extremely risky measure, it was considered the fastest and safest way as the cabins could plunge into the [Q60] at any moment. The pilot and two men approached the first stranded cabin. Despite strong winds and danger, Lance Corporal Phua was winched down. He was blown [Q61] on the first attempt but on the second attempt, he reached the door of the cabin. He unlocked it, went inside and emerged with the first [Q62] strapped to his back by a harness. The winch operator then pulled them both to [Q63].",
+          "The other rescues were undertaken by the pilot of the second helicopter, Lieutenant Ledger. [Q64] the windy condition encountered above the harbour and the first rescue helicopter's main rotors, he managed to pilot the second rescue helicopter close above the cabins to allow Lance Corporal Selvarajoo to enter two cabins hanging only by their towline.",
+          "Overall, the entire rescue mission took three and a half hours in darkness and high wind [Q65]. The nation was proud of the many men who had selflessly risked their lives."
+        ],
+        "zh": [
+          "你知道发生在新加坡的缆车事件吗？",
+          "1983年1月29日，当一个石油钻井平台的起重装置从空中索道下方通过时，发生了一场事故，撞击了横跨在查丁阶车站与圣淘沙车站之间水域上空的缆绳。结果，两辆缆车车厢从55米高空坠入大海，导致七人丧生。这艘石油钻井平台正从吉宝码头被拖走时，缠绕在了缆绳上，并导致了缆绳断裂。它还导致十三人被困在花柏山与圣淘沙之间的四辆缆车车厢内。这场灾难是自该缆车系统于1974年2月运行以来，第一起涉及人员伤亡的事件。",
+          "警察部队、民防部队和新加坡武装部队都参与了场通宵达旦的救援行动。整个行动由时任李显龙上校指挥。人们担心石油钻井平台可能会进一步漂移并造成更严重的破坏。强烈的急流和涨潮使问题变得更加恶化。为了阻止钻井平台移动，四艘拖船系上缆绳，以保持钻井平台在水中的稳定。",
+          "为了营救依然被困在四辆车厢里的人，一架搜救直升机被部署前往。尽管这是一项极具风险的举措，但它被认为是最快、最安全的方式，因为车厢随时都有可能坠入大海中。飞行员和两名男子接近了第一辆滞留的车厢。尽管风大且危险重重，潘下士还是被绞车吊了下去。在第一次尝试时，他被强风吹开了，但在第二次尝试时，他成功到达了车厢门口。他打开车门，走进去，出来时背带上绑着第一位乘客。随后，绞车操作员将他们两人拉到了安全地带。",
+          "其余的救援工作由第二架直升机的飞行员莱杰中尉承担。尽管面临海港上空遭遇的狂风天气以及第一架搜救直升机主旋翼带来的气流干扰，他仍成功将第二架搜救直升机驾驶到紧贴车厢上空的位置，从而让塞尔瓦拉朱下士得以进入仅靠一根牵引绳悬挂的两辆车厢内。",
+          "总体而言，整个搜救任务在黑暗和强风恶劣天气条件下持续了三个半小时。整个国家都为这些无私奉献、冒着生命危险的勇士们感到骄傲。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining, so ________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "名词化 — happiness（Nominalisation）",
+          "note": "因果：Out of + 名词短语；须保留主语 <em>I</em>。"
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Pick out a five-word phrase from the second paragraph that tells us that the library was not crowded. [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "Why were Jonah's eyes \"wide as saucers\" (line 11)? [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on paragraphs 2 and 8, fill in the blanks below. [2m]",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) When Jonah went to the new school (Paragraph 2)",
+              "question": "he did not [Q73a]"
+            },
+            {
+              "stem_plain": "(b) When Jonah's father asked him about his friends from school (Paragraph 8)",
+              "question": "he did not [Q73b]"
+            }
+          ]
+        },
+        "74": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right. [3m]",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "events": [
+            "Sarah announced that she had found a huge honeydew.",
+            "Most of the children lost interest in what Sarah was saying.",
+            "Sarah was scolded by the teacher."
+          ],
+          "table": {
+            "column_order": [
+              "word",
+              "reference"
+            ],
+            "word": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "this (line 9)",
+                "The boy (line 15)",
+                "It (line 20)"
+              ]
+            },
+            "reference": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q74a]",
+                "[Q74b]",
+                "[Q74c]"
+              ]
+            }
+          }
+        },
+        "75": {
+          "stem_plain": "Based on lines 5-29, state whether each statement in the table below is true or false, then give one reason why you think so. [3m]",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "a) Mrs Lim ignored Jonah because she dislikes children.",
+                "b) Jonah felt comfortable when Henry wanted to sit with him.",
+                "c) Jonah kept in touch with his old friends from his previous school."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q75a]",
+                "[Q75c]",
+                "[Q75e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q75b]",
+                "[Q75d]",
+                "[Q75f]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "What did Henry mean when he said \"I know how you feel\"? (line 30) [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "Why do you think Henry rolled his eyes at Jonah in line 34? [1m]",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "78": {
+          "stem_plain": "Which two of the following words best describe how Jonah felt in lines 39-43?\nPut a tick ✔ in the box beside each of your answers. [2m]\nDO NOT TICK MORE THAN TWO BOXES.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "grateful",
+            "helpless",
+            "proud",
+            "lonely",
+            "satisfied",
+            "shocked"
+          ],
+          "max_selections": 2
+        },
+        "79": {
+          "stem_plain": "Fill in the following table by identifying the correct word(s) from the passage. [2m]",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "question",
+              "word_or_phrase"
+            ],
+            "question": {
+              "header": "Question",
+              "rows": [
+                "a) Which word from lines 36-40 tells us that Henry's advice was not easy?",
+                "b) Which three-word phrase from lines 41-43 tells us that Jonah tried to resist the thought of not helping the boy?"
+              ]
+            },
+            "word_or_phrase": {
+              "header": "Word (s) from the passage",
+              "rows": [
+                "[Q79a]",
+                "[Q79b]"
+              ]
+            }
+          }
+        },
+        "80": {
+          "stem_plain": "What was the victory and why was Jonah proud of himself (line 46)? Support your answer with information from the passage. [2m]",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "Jonah would never forget how he managed to overcome his shyness and make new friends all",
+          "2": "because of the timely advice he had heeded a month ago. He remembered that day clearly.",
+          "3": "The bell for recess resounded through the corridors at Glendale Primary School. However, instead",
+          "4": "of heading to the canteen like all the other children did, Jonah, a new student at the school, retreated to",
+          "5": "the library. He pushed open the swinging door and headed for the nearest bookshelf. Other than the",
+          "6": "incessant drone of the air-conditioner, the library was quiet and there was barely a soul in sight. Far in a",
+          "7": "corner, he spotted Mrs Lim, the librarian, who was too busy shelving some books to pay any attention to",
+          "8": "him. The windows to the library looked out to the canteen. Jonah could hear children laughing and chatting.",
+          "9": "He wished he was outside playing with some friends but he did not let this bother him.",
+          "10": "Suddenly, Jonah heard a rustling sound in the corner. He spun around and saw a pair of eyes",
+          "11": "peeking at him from behind the bookshelves. Jonah abruptly turned back, eyes wide as saucers. \"Oh",
+          "12": "dear!\" he whispered. He peeked over his shoulder again and saw a smaller boy on crutches walking",
+          "13": "towards him.",
+          "14": "\"Hi,\" the boy muttered awkwardly from behind Jonah. \"Can I sit with you?\" he asked.",
+          "15": "\"Um... yes,\" Jonah said, his face flushed red with embarrassment. The boy pulled out the chair",
+          "16": "next to him and sat down.",
+          "17": "\"I'm Henry. Why are you reading here when you could be playing with your friends instead?\"",
+          "18": "\"Uh...\" Jonah looked around the library, avoiding Henry's gaze. He did not want Henry to know",
+          "19": "the real reason he was in the library. What would Henry think of him if he knew Jonah did not have any",
+          "20": "friends? It would make Jonah feel more miserable. Sensing Jonah's hesitation, Henry replied, \"It's alright.",
+          "21": "Finish reading your book. I'll sit with you!\"",
+          "22": "As Jonah turned the page, he realised Henry was still sitting there, watching him steadily. He had",
+          "23": "the same look in his eye as Jonah's father during the quiet car rides home from school. Jonah was",
+          "24": "helplessly tight-lipped whenever his father asked whom he had played or eaten with at school. From his",
+          "25": "silence, Jonah's father knew he was lonely. It was not that Jonah did not have any friends. They all just",
+          "26": "happened to live really far away. Jonah would stay up late at night chatting on the computer with his old",
+          "27": "friends from his previous school. Somehow, it made him feel close to them despite the distance. After",
+          "28": "being transferred to a new school, Jonah realised how difficult it was to make new friends. Furthermore,",
+          "29": "everyone had different interests and their own circle of friends already.",
+          "30": "\"I know how you feel,\" Henry said, as if he could read Jonah's mind. \"I know what it's like to be",
+          "31": "lonely now that I'm here. Just look at my cast. With this broken leg, I'm stuck here the whole week and",
+          "32": "occupied,\" he continued, smiling.",
+          "33": "\"I'm not lonely,\" Jonah replied.",
+          "34": "\"Oh, come on,\" Henry said, rolling his eyes. \"I can see it in your face. You look miserable.\"",
+          "35": "Jonah was startled as he had not expected a total stranger to sense his loneliness. \"Just say hello",
+          "36": "to someone today,\" Henry encouraged. \"I promise they'll respond. Once you've made the first move, it just",
+          "37": "gets easier.\"",
+          "38": "Jonah sighed, not knowing what to do next. Henry obviously did not understand how challenging",
+          "39": "that was going to be. However, Jonah appreciated the advice and thanked him before making his way out",
+          "40": "of the library. In the hallway outside the library, a boy from Jonah's class was crouched on the floor, picking",
+          "41": "up pens, pencils, and highlighters that had dropped out of his pencil case. Fighting the urge to just walk",
+          "42": "away, Jonah leaned down and picked up a few pens. Then, he remembered what Henry had advised him.",
+          "43": "\"Hello, I'm Jonah. Let me help you,\" he offered. The boy looked up at him.",
+          "44": "\"Thank you! My name is Ruben.\"",
+          "45": "Victory at last, Jonah thought, feeling proud of himself."
+        },
+        "paragraphs": {
+          "1": "乔纳永远不会忘记，他是在一个月前听取了及时的建议后，才成功克服了自己的羞怯并结识了新朋友。他清晰地记得那一天。",
+          "3": "课间休息的铃声在格伦代尔小学的走廊里回荡。然而，作为学校的一名新学生，乔纳没有像其他所有孩子那样前往食堂，而是退到了图书馆。他推开弹簧门，朝最近的书架走去。除了空调发出的断断续续的嗡嗡声，图书馆里很安静，几乎看不到一个人影。在遥远的角落里，他看到了图书管理员林老师，她正忙着把书上架，根本没注意到他。图书馆的窗户正对着食堂。乔纳能听到孩子们的大笑声和聊天声。他真希望自己能在外面和一些朋友一起玩，但他没有让这种想法困扰自己。",
+          "10": "突然，乔纳听到角落里传来沙沙的声音。他猛地转过身，看到一双眼睛正从书架后面窥视着他。乔纳突地把头转了回来，眼睛睁得像茶碟一样大。“噢，天哪！”他低声说道。他又越过肩膀向后偷看，发现一个拄着拐杖的、个头更小的男孩正朝他走来。",
+          "14": "“嗨，”那个男孩在乔纳身后有些尴尬地嘀咕道。“我可以和你坐在一起吗？”他问道。",
+          "15": "“额……好啊，”乔纳说道，他的脸因尴尬而涨得通红。那个男孩拉开他身边的椅子坐了下来。",
+          "17": "  “我叫亨利。你明明可以和你的朋友们一起玩，为什么却在这里看书呢？”",
+          "18": "“额……”乔纳环顾着图书馆，避开了亨利的目光。他不想让亨利知道他呆在图书馆的真正原因。如果亨利知道乔纳一个朋友都没有，会怎么看他呢？这恢复乔纳感到更加痛苦。察觉到乔纳的犹豫，亨利回答道：“没关系。把你的书看完吧。我会陪你坐着的！”",
+          "22": "当乔纳翻动书页时，他意识到亨利还坐在那里，目不转睛地看着他。他的眼神，就跟乔纳的父亲在放学后安静的乘车回家路上时的眼神一模一样。每当父亲问起他在学校里和谁一起玩或者一起吃饭时，乔纳总是无可奈何地守口如瓶。从他的沉默中，乔纳的父亲知道他是孤独的。这并不是说乔纳没有朋友。他们只是刚好都住得非常远。乔纳会深夜在电脑上跟以前学校的老朋友聊天。不知何故，尽管隔着距离，这仍能让他觉得和他们很亲近。在转学到一所新学校后，乔纳才意识到结识新朋友有多么困难。此外，每个人都有不同的兴趣，并且都已经有了自己的朋友圈。",
+          "30": "“我知道你的感受，”亨利说道，仿佛能看透乔纳的心思。“我现在待在这里，很清楚孤独是什么滋味。看看我的石膏。因为这只摔断的腿，我整整一个星期都被困在这里，什么也做不了，”他笑着继续说道。",
+          "33": "“我不孤独，”乔纳回答。",
+          "34": "“噢，得了吧，”亨利翻了个白眼说道。“我能从你的脸上看出来。你看起来很痛苦。”",
+          "35": "乔纳吃了一惊，因为他没想到一个完全陌生的人竟然能察觉到他的孤独。“今天就去跟某个人打个招呼吧，”亨利鼓励道。“我保证他们会回应的。一旦你迈出了第一步，事情就会变得容易起来。”",
+          "38": "乔纳叹了口气，不知道接下来该做什么。亨利显然不明白这件事情将会有多大挑战性。然而，乔纳很感激这个建议，并在走出图书馆之前向他道了谢。在图书馆外面的走廊里，乔纳班上的一个男孩正蹲在地上，捡着从铅笔盒里掉落出来的钢笔、铅笔和荧光笔。乔纳克制住直接走开的冲动，弯下腰捡起了几支钢笔。接着，他想起了亨利对他的建议。",
+          "43": "“你好，我是乔纳。让我来帮你吧，”他主动提议道。那个男孩抬头看着他。",
+          "44": "“谢谢你！我叫鲁本。”",
+          "45": "终于成功了，乔纳心里想，为自己感到骄傲。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Vocabulary in context",
+          "note": "<ol><li><strong>题型：</strong>特定词组提取题（1分）。</li><li><strong>核心依据：</strong>根据官方答案页，精准提取出第6行中符合5个单词要求的短语（Barely a soul in sight）。</li></ol>",
+          "answer": "Barely a soul in sight",
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "Literal comprehension",
+          "note": "<ol><li><strong>题型：</strong>因果原因检索题（2分）。</li><li><strong>核心依据：</strong>根据官方答案页，答题核心在于因为他看到有一双眼睛从书架后面偷看他而受到了震惊（He was shocked as he had seen a pair of eyes peeking at him from behind the bookshelves）。</li></ol>",
+          "answer": "He was shocked as he had seen a pair of eyes peeking at him from behind the bookshelves.",
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "文本细节理解与信息概括",
+          "note": "<ol><li><strong>第一空：</strong>根据官方标答填写 <strong>have friends</strong>，对应在学校没有朋友。</li><li><strong>第二空：</strong>根据官方标答填写 <strong>reply</strong>，对应上文第24行他在父亲询问时保持沉默（tight-lipped）的状态。</li></ol>",
+          "answer": {
+            "73a": "have friends",
+            "73b": "reply"
+          }
+        },
+        "74": {
+          "concept": "Pronoun and reference understanding",
+          "note": "<ol><li><strong>第一行（1分）：</strong>官方指代答案为乔纳希望自己在外面和一些朋友一起玩的心愿（注：官方答案中的 her 应为 he 的印刷笔误）。</li><li><strong>第二行（1分）：</strong>官方明确指代人物为 Henry。</li><li><strong>第三行（1分）：</strong>官方指代答案为如果亨利知道了乔纳一个朋友都没有，亨利可能会对乔纳产生的想法或看法。</li></ol>",
+          "answer": {
+            "74a": "Jonah wishing her was outside playing with some friends.",
+            "74b": "Henry",
+            "74c": "Henry's thought of Jonah if he knew Jonah did not have friends."
+          },
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "判断正误表+依据说明",
+          "note": "<ol><li><strong>a行 False（1分）：</strong>官方给出理由指出她当时太忙于把书上架而无暇顾及乔纳。</li><li><strong>b行 False（1分）：</strong>官方给出理由说明他当时因尴尬而满脸通红，因此感到不自在。</li><li><strong>c行 True（1分）：</strong>官方给出理由证实他深夜会跟以前学校的老朋友在电脑上聊天保持联系。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "False",
+            "75b": "Mrs Lim was too busy shelving some books to pay attention to Jonah.",
+            "75c": "False",
+            "75d": "His face flushed red with embarrassment.",
+            "75e": "True",
+            "75f": "Jonah would stay up late at night chatting on the computer with his old friends from his previous school."
+          }
+        },
+        "76": {
+          "concept": "Inference and understanding characters",
+          "note": "<ol><li><strong>题型：</strong>含义理解题（2分）。</li><li><strong>核心依据：</strong>根据官方最新答案，亨利的意思是指他知道乔纳此时内心感到了孤独（Henry meant that he knew that Jonah felt lonely）。</li></ol>",
+          "answer": "Henry meant that he knew that Jonah felt lonely.",
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "Character action analysis",
+          "note": "<ol><li><strong>题型：</strong>人物动作心理分析题（1分）。</li><li><strong>核心依据：</strong>官方标答非常精炼，指出他翻白眼是因为他不相信乔纳所说的“自己不孤独”的话（He did not believe that Jonah was not lonely）。</li></ol>",
+          "answer": "He did not believe that Jonah was not lonely.",
+          "type": "comprehension"
+        },
+        "78": {
+          "concept": "Character emotion evaluation",
+          "note": "<ol><li><strong>题型：</strong>情感词汇选择题（2分）。</li><li><strong>选择依据：</strong>根据官方给出的最新判分改动，此处对应的两个正确情感词应为 <strong>grateful</strong>（心怀感激，对应他感谢并欣赏亨利的建议）与 <strong>helpless</strong>（无助/不知所措，对应他在走出图书馆、面对是否要迈出第一步时的复杂内心挣扎）。</li></ol>",
+          "answer": [
+            "grateful",
+            "helpless"
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "Vocabulary and contextual phrase retrieval",
+          "note": "<ol><li><strong>a行（1分）：</strong>同步官方标准答案词汇为 <strong>challenging</strong>。</li><li><strong>b行（1分）：</strong>同步官方标准答案三词短语为 <strong>fighting the urge</strong>。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "79a": "challenging",
+            "79b": "fighting the urge"
+          }
+        },
+        "80": {
+          "concept": "Thematic resolution and behavioral change analysis",
+          "note": "<ol><li><strong>题型：</strong>综合阐述题（2分）。</li><li><strong>核心依据：</strong>完全采用官方最新的标准答案进行更新。乔纳感到激动和骄傲，是因为他终于成功克服了对结交新朋友的恐惧，并且战胜了自己的羞怯心理（He was excited because he had managed to overcome his fear of making friends and overcoming his shyness）。</li></ol>",
+          "answer": "He was excited because he had managed to overcome his fear of making friends and overcoming his shyness.",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

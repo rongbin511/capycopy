@@ -1,0 +1,1155 @@
+{
+  "paperid": "p6_english_2019_sa2_acsj",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Joe, as well as his brothers, ________ attending the concert tomorrow evening.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "2": {
+          "stem_plain": "Tom is looking forward to ________ the letter of acceptance to the school.",
+          "options": {
+            "1": "receive",
+            "2": "receives",
+            "3": "received",
+            "4": "receiving"
+          }
+        },
+        "3": {
+          "stem_plain": "\"I'm going to be the one presenting the project, ________ I?\" asked Seng Kiat to his group member.",
+          "options": {
+            "1": "am",
+            "2": "will",
+            "3": "isn't",
+            "4": "aren't"
+          }
+        },
+        "4": {
+          "stem_plain": "Since the coffee was still very hot, Mr Ang took ________ sips at a time.",
+          "options": {
+            "1": "many",
+            "2": "much",
+            "3": "a few",
+            "4": "a little"
+          }
+        },
+        "5": {
+          "stem_plain": "The lady, ________ is my neighbour, has a cute dog.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "6": {
+          "stem_plain": "People are becoming more aware ________ the need to reduce, reuse and recycle.",
+          "options": {
+            "1": "of",
+            "2": "on",
+            "3": "with",
+            "4": "from"
+          }
+        },
+        "7": {
+          "stem_plain": "Although fifty cents ________ not a big sum of money, Sam returned it to the owner when he found it.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "8": {
+          "stem_plain": "________ from a stray dog, there was no one on the beach.",
+          "options": {
+            "1": "Apart",
+            "2": "Except",
+            "3": "Besides",
+            "4": "In addition"
+          }
+        },
+        "9": {
+          "stem_plain": "Neither the boys nor Mr Tan ________ where Nick is.",
+          "options": {
+            "1": "know",
+            "2": "knew",
+            "3": "knows",
+            "4": "had known"
+          }
+        },
+        "10": {
+          "stem_plain": "________ tired you are, you should brush your teeth before going to bed.",
+          "options": {
+            "1": "Since",
+            "2": "Whether",
+            "3": "Although",
+            "4": "However"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "当主语后跟有 ‘as well as’ 引导的短语时，句子的核心主语依然是前面的单数名词 ‘Joe’。结合时间状语 ‘tomorrow evening’（明天晚上）可知，应用一般现在时的单数形式表示将来计划，故选 ‘is’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "1",
+          "zh": "乔以及他的兄弟们明天晚上将去参加音乐会。"
+        },
+        "2": {
+          "note": "‘look forward to’ 是一个固定的动词短语搭配，其中的 ‘to’ 是介词，因此后面必须接动名词形式（doing something），故选 ‘receiving’。",
+          "concept": "非谓语动词 — Gerund",
+          "answer": "4",
+          "zh": "汤姆正期待着收到学校的录取通知书。"
+        },
+        "3": {
+          "note": "在反意疑问句中，当陈述部分的主语和谓语动词是肯定形式的 ‘I am’ 时，其反意疑问部分的固定否定形式为 ‘aren't I’。",
+          "concept": "反意疑问句 — Question Tag",
+          "answer": "4",
+          "zh": "“将由我来展示这个项目，不是吗？”成杰问他的组员。"
+        },
+        "4": {
+          "note": "空格后面的 ‘sips’（抿、小口喝）是复数可数名词，排除 much 和 a little。根据前半句 “因为咖啡还非常烫” 可知，他一次只能喝 “几小口”，故选用表示肯定数量的 ‘a few’。",
+          "concept": "不定量词 — Quantifiers",
+          "answer": "3",
+          "zh": "因为咖啡还很烫，洪先生一次只喝几小口。"
+        },
+        "5": {
+          "note": "关系代词 ‘who’ 在非限制性定语从句中指代人（The lady），并且在从句中担当主语。‘whom’ 作宾语，‘whose’ 作定语，‘which’ 指代物。",
+          "concept": "关系代词 — Relative Pronoun",
+          "answer": "1",
+          "zh": "那位女士是我的邻居，她养了一只可爱的狗。"
+        },
+        "6": {
+          "note": "‘be/become aware of’ 是一个固定的形容词短语搭配，意为“意识到、察觉到”。句意指人们越来越意识到减量、重复利用和回收的必要性。",
+          "concept": "介词搭配 — Prepositional Phrase",
+          "answer": "1",
+          "zh": "人们正越来越意识到减少、重复利用和回收的必要性。"
+        },
+        "7": {
+          "note": "表示金额、时间、距离或重量等度量单位的复数名词（fifty cents）作为一个整体看待时，谓语动词通常用单数形式。结合主句中的过去时动词 ‘returned’ 和 ‘found’，从句也应用过去时单数形式 ‘was’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "3",
+          "zh": "尽管五十美分不是一笔大数目，但萨姆找到它时还是把它还给了失主。"
+        },
+        "8": {
+          "note": "‘Apart from’ 是一个固定短语，意为“除了……之外（没有）”。句意指除了有一只流浪狗之外，海滩上一个人也没有。",
+          "concept": "介词短语 — Prepositional Phrase",
+          "answer": "1",
+          "zh": "除了有一只流浪狗，海滩上空无一人。"
+        },
+        "9": {
+          "note": "由 ‘neither... nor...’（既不……也不……）连接两个主语时，谓语动词的形式采用‘就近原则’，即与靠近它的主语 ‘Mr Tan’（单数第三人称）保持一致。结合从句中的 ‘where Nick is’（现在时），选用一般现在时单数形式 ‘knows’。",
+          "concept": "主谓一致 — Subject-Verb Agreement",
+          "answer": "3",
+          "zh": "男孩子们和陈先生都不知道尼克在哪里。"
+        },
+        "10": {
+          "note": "‘However’ 在这里作连词，引导让步状语从句，结构通常为 ‘However + 形容词/副词 + 主语 + 谓语’，意为“无论多么……”。此处指“无论你有多累”。",
+          "concept": "让步状语从句 — Conjunction",
+          "answer": "4",
+          "zh": "无论你有多累，睡觉前都应该刷牙。"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Peter and I were ________. We had to ask the teacher for help as we ran out of ideas for our project.",
+          "options": {
+            "1": "neck and neck",
+            "2": "a dime a dozen",
+            "3": "in the same boat",
+            "4": "singing a different tune"
+          }
+        },
+        "12": {
+          "stem_plain": "We are impressed by Sally's creativity. She has found ________ ways to reuse plastic bottles in school.",
+          "options": {
+            "1": "intricate",
+            "2": "infamous",
+            "3": "indefinite",
+            "4": "ingenious"
+          }
+        },
+        "13": {
+          "stem_plain": "As he did not clean his wound properly, an infection ________.",
+          "options": {
+            "1": "set in",
+            "2": "set up",
+            "3": "set off",
+            "4": "set out"
+          }
+        },
+        "14": {
+          "stem_plain": "As the person in-charge of the project, Tom ________ some of his work to his assistant so that the project could be completed on time.",
+          "options": {
+            "1": "quoted",
+            "2": "rostered",
+            "3": "invested",
+            "4": "delegated"
+          }
+        },
+        "15": {
+          "stem_plain": "The teacher was upset because the pupils were ________ during the Science lesson and did not want to listen to her instructions.",
+          "options": {
+            "1": "tolerant",
+            "2": "turbulent",
+            "3": "boisterous",
+            "4": "empathetic"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "我和皮特处境相同。由于我们的项目没主意了，我们不得不向老师求助。",
+          "note": "‘in the same boat’是一个习语，意思是面临同样糟糕或困难的境地。根据下文‘由于我们的项目没主意了，不得不求助’可知，两人处境相同，面临同样的难题。",
+          "concept": "Vocabulary-Idiom",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "neck and neck",
+              "zh": "不分上下 / 并驾齐驱",
+              "eg": "The two runners were **neck and neck** as they approached the finish line."
+            },
+            {
+              "opt": "2",
+              "word": "a dime a dozen",
+              "zh": "多得很 / 司空见惯",
+              "eg": "Action movies are **a dime a dozen** these days, so it is hard to find a truly unique one."
+            },
+            {
+              "opt": "3",
+              "word": "in the same boat",
+              "zh": "处境相同 / 同舟共济",
+              "eg": "We are all **in the same boat** during this economic crisis, so we must support each other."
+            },
+            {
+              "opt": "4",
+              "word": "singing a different tune",
+              "zh": "改变调子 / 改变说辞",
+              "eg": "He used to oppose the plan, but now he is **singing a different tune**."
+            }
+          ]
+        },
+        "12": {
+          "zh": "萨丽的创造力给我们留下了深刻的印象。她找到了精妙的方法来在学校里重复利用塑料瓶。",
+          "note": "‘ingenious’意为心灵手巧的、精妙的、有独创性的。前句提到‘Sally's creativity’（萨丽的创造力），后句用来形容重复利用塑料瓶的方法非常精妙独特，完全符合语境。",
+          "concept": "Vocabulary-Adjective",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intricate",
+              "zh": "错综复杂的 / 精细的",
+              "eg": "The watchmaker spent months assembling the **intricate** gears of the antique clock."
+            },
+            {
+              "opt": "2",
+              "word": "infamous",
+              "zh": "声名狼藉的 / 臭名昭著的",
+              "eg": "The area is **infamous** for its high crime rates and poorly lit streets."
+            },
+            {
+              "opt": "3",
+              "word": "indefinite",
+              "zh": "无限期的 / 不确定的",
+              "eg": "The workers went on an **indefinite** strike until their demands for better pay were met."
+            },
+            {
+              "opt": "4",
+              "word": "ingenious",
+              "zh": "精妙的 / 有独创性的",
+              "eg": "She came up with an **ingenious** solution to fix the leaking pipe without calling a plumber."
+            }
+          ]
+        },
+        "13": {
+          "zh": "由于他没有正确清洗伤口，发生了感染。",
+          "note": "‘set in’（常指恶劣天气、疾病、感染等）到来、开始、发作。这里用于描述由于伤口未正确清洗，伤口感染开始发生并蔓延，属于固定搭配。",
+          "concept": "Vocabulary-Phrasal Verb",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "set in",
+              "zh": "（不好的事）开始 / 到来",
+              "eg": "As winter **set in**, the temperatures dropped rapidly below freezing point."
+            },
+            {
+              "opt": "2",
+              "word": "set up",
+              "zh": "建立 / 设立 / 准备",
+              "eg": "The volunteers helped to **set up** the tents for the outdoor charity event."
+            },
+            {
+              "opt": "3",
+              "word": "set off",
+              "zh": "出发 / 引爆 / 触动（警报）",
+              "eg": "The smoke from the burnt toast **set off** the fire alarm in the kitchen."
+            },
+            {
+              "opt": "4",
+              "word": "set out",
+              "zh": "出发 / 开始 / 陈述",
+              "eg": "They **set out** on their journey early in the morning to avoid the heavy traffic."
+            }
+          ]
+        },
+        "14": {
+          "zh": "作为该项目的负责人，汤姆把他的部分工作分派给他的助手，以便项目能按时完成。",
+          "note": "‘delegated’意为委派、授权、把（工作或权力）下放给他人。句中指作为项目负责人（person in-charge），为了按时完工，把任务分派下放给助手（assistant）。",
+          "concept": "Vocabulary-Verb",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "quoted",
+              "zh": "引用 / 报价",
+              "eg": "The contractor **quoted** a price of five thousand dollars to renovate the kitchen."
+            },
+            {
+              "opt": "2",
+              "word": "rostered",
+              "zh": "把……列入执勤表",
+              "eg": "The nursing staff were **rostered** to work rotating night shifts for the upcoming week."
+            },
+            {
+              "opt": "3",
+              "word": "invested",
+              "zh": "投资 / 投入",
+              "eg": "She **invested** all her savings into starting her own online clothing business."
+            },
+            {
+              "opt": "4",
+              "word": "delegated",
+              "zh": "分派（工作） / 授权",
+              "eg": "A good manager should know how to **delegate** tasks to team members effectively."
+            }
+          ]
+        },
+        "15": {
+          "zh": "老师很不高兴，因为学生们在科学课上非常吵闹，不想听她的指令。",
+          "note": "‘boisterous’意为喧闹的、吵闹的、精力过剩的。句中用来形容学生在上课时不遵守纪律、乱哄哄以至于不肯听从老师指令（not want to listen to her instructions）的状态。",
+          "concept": "Vocabulary-Adjective",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "tolerant",
+              "zh": "宽容的 / 容忍的",
+              "eg": "The school aims to create a environment where students are **tolerant** of different cultures."
+            },
+            {
+              "opt": "2",
+              "word": "turbulent",
+              "zh": "动荡的 / 汹涌的",
+              "eg": "The plane experienced severe shaking as it flew through the **turbulent** air."
+            },
+            {
+              "opt": "3",
+              "word": "boisterous",
+              "zh": "喧闹的 / 乱哄哄的",
+              "eg": "The **boisterous** crowd of teenagers cheered loudly when the band came onto the stage."
+            },
+            {
+              "opt": "4",
+              "word": "empathetic",
+              "zh": "感同身受的 / 有同理心的",
+              "eg": "The counselor was highly **empathetic**, listening patiently to the grieving client's feelings."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "boring routine",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "regular",
+            "2": "normal",
+            "3": "general",
+            "4": "mundane"
+          }
+        },
+        "17": {
+          "stem_plain": "well-paid",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "lucrative",
+            "2": "productive",
+            "3": "successful",
+            "4": "meaningful"
+          }
+        },
+        "18": {
+          "stem_plain": "recollected",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "recalled",
+            "2": "restated",
+            "3": "retraced",
+            "4": "repressed"
+          }
+        },
+        "19": {
+          "stem_plain": "important",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "urgent",
+            "2": "crucial",
+            "3": "dominant",
+            "4": "compulsory"
+          }
+        },
+        "20": {
+          "stem_plain": "operate",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "handle",
+            "2": "remove",
+            "3": "oversee",
+            "4": "administer"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “boring routine”形容枯燥乏味、平凡单调的日常工作，与“mundane（单调乏味的、平凡的）”意思最接近。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "regular",
+              "zh": "定期的，规律的",
+              "eg": "He keeps a regular sleep schedule to stay healthy."
+            },
+            {
+              "opt": "2",
+              "word": "normal",
+              "zh": "正常的，平常的",
+              "eg": "It is perfectly normal to feel a bit nervous before an exam."
+            },
+            {
+              "opt": "3",
+              "word": "general",
+              "zh": "普遍的，总体的",
+              "eg": "The manager gave a general outline of the new project."
+            },
+            {
+              "opt": "4",
+              "word": "mundane",
+              "zh": "单调乏味的，平凡的，世俗的",
+              "eg": "She was tired of the mundane tasks of washing dishes and cleaning."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “well-paid job”指高薪、高回报的工作，与“lucrative（赚钱的、获利丰厚的）”同义。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "lucrative",
+              "zh": "赚钱的，获利丰厚的",
+              "eg": "He left his teaching position to start a lucrative business."
+            },
+            {
+              "opt": "2",
+              "word": "productive",
+              "zh": "多产的，富有成效的",
+              "eg": "The team had a very productive meeting and solved the issue."
+            },
+            {
+              "opt": "3",
+              "word": "successful",
+              "zh": "成功的",
+              "eg": "She is a successful lawyer who wins most of her cases."
+            },
+            {
+              "opt": "4",
+              "word": "meaningful",
+              "zh": "有意义的",
+              "eg": "Volunteering at the animal shelter was a meaningful experience."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — “recollected the stories”指回忆起、记起过去的故事，与“recalled（回忆起、记起）”意思完全相同。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "recalled",
+              "zh": "回忆起，记起",
+              "eg": "I suddenly recalled that I had left my keys in the car."
+            },
+            {
+              "opt": "2",
+              "word": "restated",
+              "zh": "重申，重新叙述",
+              "eg": "The teacher restated the classroom rules before the test."
+            },
+            {
+              "opt": "3",
+              "word": "retraced",
+              "zh": "折回，追溯（足迹等）",
+              "eg": "He retraced his steps through the forest to find his lost wallet."
+            },
+            {
+              "opt": "4",
+              "word": "repressed",
+              "zh": "压抑，克制（情感等）",
+              "eg": "She repressed her anger and answered the customer politely."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “important things”指重要的、关键的事物，与“crucial（至关重要的、关键的）”语义最为贴合。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "urgent",
+              "zh": "紧急的，迫切的",
+              "eg": "The hospital needs urgent blood donations for the injured passengers."
+            },
+            {
+              "opt": "2",
+              "word": "crucial",
+              "zh": "至关重要的，关键的",
+              "eg": "Vitamin C plays a crucial role in keeping your immune system strong."
+            },
+            {
+              "opt": "3",
+              "word": "dominant",
+              "zh": "占主导地位的，显性的",
+              "eg": "The company holds a dominant position in the smartphone market."
+            },
+            {
+              "opt": "4",
+              "word": "compulsory",
+              "zh": "强制的，义务的",
+              "eg": "Primary school education is compulsory for children in this country."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “operate a whole ship”指操控、操作、管理整艘船的运转，此处选用“handle（控制、处理、操纵）”作为近义替换最契合语境。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "handle",
+              "zh": "操纵，控制，处理，搬运",
+              "eg": "The new driver learned how to handle the heavy truck safely."
+            },
+            {
+              "opt": "2",
+              "word": "remove",
+              "zh": "移开，消除",
+              "eg": "Please remove your wet shoes before stepping onto the carpet."
+            },
+            {
+              "opt": "3",
+              "word": "oversee",
+              "zh": "监督，监视",
+              "eg": "The supervisor was hired to oversee the daily factory production."
+            },
+            {
+              "opt": "4",
+              "word": "administer",
+              "zh": "管理，执行，给予（药物）",
+              "eg": "The agency was set up to administer the new environmental laws."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Money is not the most important thing in life. Passion is what really matters the most. Without passion, one will find that work is nothing but a [Q16(boring routine)]. This was the point made by naval officer, Lieutenant Mary Lim.",
+          "At the age of 29, she left a [Q17(well-paid)] job as a banker to pursue her dreams as a naval officer on a missile gunboat. She [Q18(recollected)] the stories that her father had told her of his own experiences as a naval officer. She had learnt two [Q19(important)] things from her father.",
+          "The first is the sense of belonging to a family. In the Navy, everyone must work with one another to [Q20(operate)] a whole ship because no one can know everything. The second is the sense of loyalty to a country that has given so much. This officer hopes to one day command a ship of her own."
+        ],
+        "zh": [
+          "金钱并不是生命中最重要的事情。激情才是真正最核心的。没有激情，一个人会发现工作不过是枯燥乏味的日常惯例。这就是海军军官玛丽·林中尉（Lieutenant Mary Lim）所阐述的观点。",
+          "在29岁时，她辞去了银行家这份高薪工作，去追逐自己的梦想，在一艘导弹巡逻艇上担任海军军官。她回忆起父亲曾向她讲述的他自己作为一名海军军官的经历。她从父亲那里学到了两件重要的事情。",
+          "第一种是家庭的归属感。在海军中，每个人都必须相互协作来操控整艘船，因为没有人能无所不知。第二种是对给予了自己如此多回报的国家母体的忠诚感。这位军官希望有一天能亲自指挥一艘属于她自己的战舰。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "语法题",
+          "note": "‘one of the most popular places’，形容词最高级结构，表示‘最受欢迎的地方之一’。",
+          "answer": "G"
+        },
+        "30": {
+          "concept": "语法题",
+          "note": "‘With’ 引导伴随状语或原因短语，表示‘随着上个月兰花广场的启用’。",
+          "answer": "Q"
+        },
+        "31": {
+          "concept": "语法题",
+          "note": "‘as part of’ 是固定短语，表示‘作为……的一部分’。",
+          "answer": "B"
+        },
+        "32": {
+          "concept": "语法题",
+          "note": "‘are’ 构成一般现在时的被动语态，先行词为复数的 spaces，故用 are。",
+          "answer": "A"
+        },
+        "33": {
+          "concept": "语法题",
+          "note": "‘for the whole of this year’，固定用法，介词 of 与 whole 连用，表示‘今年一整年’。",
+          "answer": "H"
+        },
+        "34": {
+          "concept": "语法题",
+          "note": "‘who’ 引导非限制性定语从句，指代前面的 local population（当地居民），并在从句中作主语。",
+          "answer": "P"
+        },
+        "35": {
+          "concept": "语法题",
+          "note": "‘discounts on tickets’，固定搭配，表示‘门票的折扣’，通常用介词 on 引入打折的对象。",
+          "answer": "J"
+        },
+        "36": {
+          "concept": "语法题",
+          "note": "‘more than’ 是固定搭配，表示‘超过’、‘多于’。",
+          "answer": "K"
+        },
+        "37": {
+          "concept": "语法题",
+          "note": "‘pull in’ 是固定短语，表示‘吸引、拉拢（人群/观众）’。",
+          "answer": "M"
+        },
+        "38": {
+          "concept": "语法题",
+          "note": "‘has come up with’ 构成现在完成时，主语是 management（管理层，此处视为单一整体概念），故助动词用 has。",
+          "answer": "C"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "are",
+          "B": "as",
+          "C": "has",
+          "D": "have",
+          "E": "in",
+          "F": "is",
+          "G": "most",
+          "H": "of",
+          "J": "on",
+          "K": "than",
+          "L": "these",
+          "M": "up",
+          "N": "when",
+          "P": "who",
+          "Q": "with"
+        },
+        "cloze": [
+          "Bay Gardens, which opened in January, has welcomed more than 2 million visitors. It has become one of the [Q29] popular places of interest in the country today. [Q30] the launch of Orchid Plaza last month, visitors now have more attractions to go to, without having to pay a fee.",
+          "Orchid Plaza, which is located next to Bay train station, was launched [Q31] part of efforts to expand the Gardens' non-ticketed spaces. The plaza houses a floral exhibit and cafe, as well as spaces that [Q32] reserved for the setting up of a weekend market.",
+          "Senior citizens who are 60 years or older will enjoy free admission to two of the Gardens' main attractions, namely the Biodome and the Tropical dome, for the whole [Q33] this year. There will also be activities and programmes to attract the local population, [Q34] made up about half of the 2 million visitors to the Gardens last year.",
+          "In addition, they will enjoy discounts [Q35] tickets to the Magical Forest. This attraction features more [Q36] 3000 plants across four garden areas and a fantasy ride known as the Flight of the Butterfly. There are also plans to pull [Q37] the crowd at night. The Gardens' management [Q38] come up with a number of evening activities that will surely be of interest to many visitors. It is hoped that all these efforts will help make the Gardens available to everyone of all ages."
+        ],
+        "zh": [
+          "于一月份开业的海湾花园已迎来了超过200万名游客。它已成为当今该国最受欢迎的风景名胜之一。随着上个月兰花广场的启用，游客们现在有了更多可以游览的景点，而且无需支付任何费用。",
+          "紧邻海湾火车站的兰花广场是作为扩大花园免票空间努力的一部分而启用的。该广场设有一个花卉展览和咖啡厅，以及预留用于建立周末市场的空间。",
+          "年满60岁或以上的老年人将在今年一整年免费进入花园的两个主要景点，即生物穹顶和热带穹顶。还将举办各种活动和项目来吸引当地居民，他们约占去年花园200万游客的一半。",
+          "此外，他们还将享受魔法森林门票的折扣。这个景点在四个花园区域拥有3000多种植物，以及一个名为“蝴蝶飞行”的奇幻游乐设施。还有计划在夜间吸引人群。花园的管理层已经想出了许多夜间活动，这些活动肯定会引起许多游客的兴趣。希望所有这些努力将有助于让所有年龄段的人都能游览花园。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 delectable（形容词，意为美味的、可口的）。",
+          "answer": "delectable"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 peculiar（形容词，意为独特的、奇特的）。",
+          "answer": "peculiar"
+        },
+        "41": {
+          "concept": "连词 - Conjunctions",
+          "note": "连词逻辑错误：此处描述过去发生的单次具体事件，应用 when 引导时间状语从句，而非 since（自……以来）。",
+          "answer": "when"
+        },
+        "42": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 handkerchief（名词，意为手帕）。",
+          "answer": "handkerchief"
+        },
+        "43": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性错误：修饰名词 smell 应用形容词形式 pungent（刺鼻的），而非名词 pungency。",
+          "answer": "pungent"
+        },
+        "44": {
+          "concept": "形容词最高级 - Superlatives",
+          "note": "最高级错误：从“巨大的榴莲堆”（huge pile）中挑选，属于多者之中的选择，应用最高级 best，而非比较级 better。",
+          "answer": "best"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 recommendation（名词，意为推荐、建议）。",
+          "answer": "recommendation"
+        },
+        "46": {
+          "concept": "连词 - Conjunctions",
+          "note": "连词逻辑错误：根据上下文，“在我们走向汽车的时候”两个动作同时发生，此处应用 As 或 While。原句中虽然写了 While，但被划线标记，结合通常改写逻辑，此处若强调动作发生的时间点和过程，亦常用 As（作为伴随或时间状态连接词）；另一种可能是从 While 改为 As，以更自然地契合过去动作的伴随发生。",
+          "answer": "As"
+        },
+        "47": {
+          "concept": "动词不定式 - Infinitives",
+          "note": "动词固定搭配：be going to 后应接动词原形，因此 cracking 应改为原形 crack，构成 be going to crack。",
+          "answer": "crack"
+        },
+        "48": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 immediately（副词，意为立刻、马上）。",
+          "answer": "immediately"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 exhilaration（名词，意为兴奋、狂喜）。",
+          "answer": "exhilaration"
+        },
+        "50": {
+          "concept": "主谓一致 - Subject-Verb Agreement",
+          "note": "主谓一致：主语 the texture 是单数名词，对应的系动词应用 was，而非复数形式 were。",
+          "answer": "was"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Some people love durians and others find it disgusting. Apparently, it is quite [Q39(delektible)]. My very first experience with this Asian fruit was [Q40(pekulier)]. My father took me to a durian stall [Q41(since)] I was five years old. The first thing I noticed was the stench that filled the air. I quickly took my [Q42(hankercheef)] and covered my nose. I thought that there was rotten food in a drain but my father informed me that the [Q43(pungency)] smell came from the durians that were on display.",
+          "We approached the owner of the stall and asked him to pick the [Q44(better)] durian from the huge pile. He made his [Q45(rekemendation)] and we paid the owner. [Q46(While)] we walked towards our car, I wondered how my father was going to [Q47(cracking)] open the fruit. When we got home, I [Q48(imediatly)] took the durians to the kitchen. My father took a cleaver and open the spiky fruit. We stood there, in [Q49(exzileration)], looking at the yellowish, creamy flesh. Then I picked up a piece and examined it. I remembered that the flesh of the fruit felt slippery and the texture [Q50(were)] custardy and foamy. I hated how it felt but I enjoyed eating it."
+        ],
+        "zh": [
+          "有些人喜欢榴莲，而另一些人则觉得它令人作呕。显然，它其实相当[Q39(美味)]。我与这种亚洲水果的第一次接触非常[Q40(奇特)]。[Q41(当)]我五岁的时候，父亲带我去了一个榴莲摊。我注意到的第一件事就是空气中弥漫着恶臭。我迅速拿出我的[Q42(手帕)]捂住鼻子。我以为水沟里有腐烂的食物，但父亲告诉我，这种[Q43(刺鼻的)]气味来自展出出来的榴莲。",
+          "我们走向摊主，让他从那一座巨大的榴莲堆里挑出[Q44(最好的)]一个。他给出了他的[Q45(推荐)]，接着我们付了钱给老板。[Q46(当)]我们走向汽车时，我很好奇父亲要怎么[Q47(砸开)]这个水果。回到家后，我[Q48(立刻)]把榴莲拿进了厨房。父亲拿起一把菜刀，劈开了这个长满刺的水果。我们[Q49(兴奋地)]站在那里，看着那淡黄色、奶油般的果肉。然后我拿起一块仔细观察。我记得这水果的果肉摸起来滑溜溜的，质地[Q50(是)]像蛋奶冻一样且带有泡沫感。我讨厌它摸起来的感觉，但我却很喜欢吃它。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "数量限定词 / 半否定词",
+          "answer": "barely / hardly / scarcely",
+          "note": "结合前文‘crowded flat’，填入半否定副词修饰‘any space’，意为‘几乎没有任何空间’供我和弟弟奔跑玩耍。"
+        },
+        "52": {
+          "concept": "逻辑连接词 (转折让步)",
+          "answer": "However / Nevertheless / Nonetheless / Yet",
+          "note": "位于句首且首字母大写，后有逗号。连接前文的‘居住空间狭小’与后文‘依然拥有快乐童年’，表示转折关系。"
+        },
+        "53": {
+          "concept": "上下文语境名词",
+          "answer": "places / attractions / destinations",
+          "note": "修饰后文‘such as the Zoo and the Bird Park’等具体去处，故填入复数名词表示‘地方/景点’。"
+        },
+        "54": {
+          "concept": "形容词",
+          "answer": "cheap / affordable / inexpensive / simple",
+          "note": "与后文的‘父母仍需为此攒钱’形成对照，说明即使这些郊游活动已经‘很便宜/花费很少’，对当时家庭而言仍是一笔开销。"
+        },
+        "55": {
+          "concept": "代词",
+          "answer": "me / us",
+          "note": "与前文的‘my brother and’并列作宾语。注意：标准参考答案此处给出了大写的‘Me’，实际答题时需结合具体教辅批改规范，指代给弟弟和‘我’带来美好时光。"
+        },
+        "56": {
+          "concept": "形容词 / 固定搭配",
+          "answer": "able / allowed / free",
+          "note": "与后文的‘to go out and play’连用，‘be able to’表示我们很幸运‘能够’出去玩耍。"
+        },
+        "57": {
+          "concept": "固定搭配 / 形容词",
+          "answer": "worth",
+          "note": "与前文的系动词连用构成固定搭配‘be worth it’，意为‘是值得的’，表示当父母看到孩子脸上的笑容时，觉得一切牺牲都值得。"
+        },
+        "58": {
+          "concept": "反身代词",
+          "answer": "ourselves",
+          "note": "主语为‘my brother and I（我们）’，动词为‘entertained’，故使用反身代词‘ourselves’表示‘自我娱乐、自己找乐子’。"
+        },
+        "59": {
+          "concept": "固定搭配 / 连词",
+          "answer": "pretended / imagined",
+          "note": "与后文的‘we were superheros’连用，表示通过简单的游戏‘假装/想象’自己是超级英雄。"
+        },
+        "60": {
+          "concept": "动词短语搭配 (过去时)",
+          "answer": "led / got / brought",
+          "note": "与后文的‘us into trouble’连用，‘led us into trouble’为固定动词短语搭配，意为‘使我们陷入麻烦/惹麻烦’。"
+        },
+        "61": {
+          "concept": "动词 (过去分词作宾补/被动含义)",
+          "answer": "fixed / treated / solved / settled / cleared",
+          "note": "‘get those problems + 过去分词’作宾语补足语。去医生那里是为了让这些身体上的伤痛问题得到‘治疗/解决/修复（fixed）’。"
+        },
+        "62": {
+          "concept": "固定搭配 / 介词",
+          "answer": "into",
+          "note": "与前文动词连用构成固定短语‘tuck someone into bed’，意为‘给某人盖好被子安顿睡觉’。"
+        },
+        "63": {
+          "concept": "动词 (过去时)",
+          "answer": "help / assist / join",
+          "note": "结合后文‘in the kitchen’及帮忙洗菜洗碗的描述，表示‘我会去厨房帮她（奶奶）的忙’。全篇为过去时叙事，使用一般过去时原形。"
+        },
+        "64": {
+          "concept": "形容词",
+          "answer": "young / small / clumsy / immature",
+          "note": "与后面的‘to do anything else by myself’连用，构成‘too... to...’结构（太……以至于不能……），指奶奶觉得我当时‘太小’了。"
+        },
+        "65": {
+          "concept": "固定搭配 / 名词",
+          "answer": "supervision / guidance / eye / watch",
+          "note": "结合后文‘She stood beside me and made sure...’，可知是在奶奶的‘监督/指导/看护（supervision）’下安全地切肉切鱼。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "My fondest childhood memories were of growing up in the 1970s. We lived in a crowded flat which I shared with my grandparents, parents, uncles and younger brother. There was [Q51] any space for my brother and me to run or play. [Q52], my brother and I had a happy childhood.",
+          "Whenever they could, my parents took us to various [Q53] such as the Zoo and the Bird Park. Sometimes, we just went to the seaside for a swim or to the fast food restaurant for a special treat. Even though these outings were quite [Q54], my parents still had to save up for them. That did not stop them from wanting to give my brother and [Q55] a good time. We were fortunate to be [Q56] to go out and play. To my parents, the sacrifice was [Q57] it when they saw the smiles on our faces.",
+          "At home, my brother and I entertained [Q58] with simple games. We played with my grandmother's discarded pots and pans and [Q59] we were superheros, imitating the stunts we saw on television, with occasional disastrous results. We sustained bruises, sprains and fractures, which [Q60] us into trouble with our parents. They dragged us to the doctor to get those problems [Q61].",
+          "When my parents were at work, my grandmother prepared meals for us. She would cook for us and then tuck us [Q62] bed. Whenever I was tired of playing with my brother, I would [Q63] her in the kitchen. At first, I was only allowed to wash the vegetables and dishes because my grandmother felt that I was too [Q64] to do anything else by myself. By the time I was older, I could cut the meat and fish under her [Q65]. She stood beside me and made sure that I did not cut myself. This was the beginning of my love for cooking."
+        ],
+        "zh": [
+          "我最美好的童年回忆是关于在20世纪70年代长大的经历。我们住在一间拥挤的公寓里，我和祖父母、父母、叔叔们以及弟弟挤在一起。几乎没有任何空间供我和弟弟奔跑或玩耍。然而，弟弟和我的童年依然很幸福。",
+          "每当有机会，父母就会带我们去各种地方，比如动物园和飞禽公园。有时，我们只是去海边游泳，或者去快餐店吃一顿大餐。尽管这些郊游已经很便宜了，但我的父母仍然必须为此攒钱。但这并没有阻止他们想要给弟弟和我也带来一段美好时光。我们很幸运能够出去玩耍。对我的父母来说，当他们看到我们脸上的笑容时，所有的牺牲都是值得的。",
+          "在家里，我和弟弟用简单的游戏自我娱乐。我们拿着奶奶丢弃的锅碗瓢盆玩耍，假装我们是超级英雄，模仿我们在电视上看到的特技动作，偶尔也会带来灾难性的后果。我们身上常有擦伤、扭伤和骨折，这使我们惹上了麻烦，让父母十分生气。他们会把我们拉到医生那里，让这些伤痛得到解决。",
+          "当我的父母去工作时，我的奶奶会为我们准备饭菜。她会做好饭，然后安顿我们上床睡觉。每当我厌倦了和弟弟玩耍，我就会去厨房帮她的忙。起初，我只被允许洗蔬菜和盘子，因为奶奶觉得我太小了，没办法独立做其他任何事情。等我长大一些后，我就可以在她的监督下切肉和鱼了。她站在我身旁，确保我不会切到自己。这就是我热爱烹饪的开始。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

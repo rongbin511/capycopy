@@ -1,0 +1,1155 @@
+{
+  "paperid": "p6_english_2018_sa2_nanyang",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "_________ it is a rainy day, let's stay indoors and watch a good movie.",
+          "options": {
+            "1": "Since",
+            "2": "Unless",
+            "3": "Despite",
+            "4": "However"
+          }
+        },
+        "2": {
+          "stem_plain": "The confrontation Keith had with the school bully made him _________ intimidated.",
+          "options": {
+            "1": "felt",
+            "2": "feel",
+            "3": "feels",
+            "4": "feeling"
+          }
+        },
+        "3": {
+          "stem_plain": "Tom is one of the boys who _________ badminton in the school hall now.",
+          "options": {
+            "1": "play",
+            "2": "plays",
+            "3": "is playing",
+            "4": "are playing"
+          }
+        },
+        "4": {
+          "stem_plain": "Laura asked her sister, \"Wouldn't Xueli be surprised when she _________ that we have baked this cake for her?\"",
+          "options": {
+            "1": "learnt",
+            "2": "learns",
+            "3": "has learnt",
+            "4": "had learnt"
+          }
+        },
+        "5": {
+          "stem_plain": "My mother _________ fetches my brother home from school. She _________ lets him walk home on his own.",
+          "options": {
+            "1": "hardly ... never",
+            "2": "often ... seldom",
+            "3": "never ... seldom",
+            "4": "never ... occasionally"
+          }
+        },
+        "6": {
+          "stem_plain": "Jane hardly goes to the bowling centre with her family, _________?",
+          "options": {
+            "1": "will she",
+            "2": "does she",
+            "3": "won't she",
+            "4": "doesn't she"
+          }
+        },
+        "7": {
+          "stem_plain": "Either Paul or his classmates _________ part in the upcoming trail at Serenity Nature Reserve.",
+          "options": {
+            "1": "is taking",
+            "2": "are taking",
+            "3": "has taken",
+            "4": "have taken"
+          }
+        },
+        "8": {
+          "stem_plain": "In accordance _________ the school rules, anyone caught vandalising school properties will be given a demerit point.",
+          "options": {
+            "1": "of",
+            "2": "to",
+            "3": "for",
+            "4": "with"
+          }
+        },
+        "9": {
+          "stem_plain": "His jeans _________ on the bed since this morning.",
+          "options": {
+            "1": "is left",
+            "2": "are left",
+            "3": "has been left",
+            "4": "have been left"
+          }
+        },
+        "10": {
+          "stem_plain": "Those were the homeless men _________ were given free meals by the charitable organisation.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        }
+      },
+      "answers": {
+        "1": {
+          "note": "连词 “Since” 在这里意为“因为”或“既然”，用来引导原因状语从句，解释为什么要留在室内看电影。",
+          "concept": "原因状语从句 — Conjunctions — Since",
+          "zh": "既然今天是下雨天，我们还是呆在室内看一部好电影吧。",
+          "answer": "1"
+        },
+        "2": {
+          "note": "使役动词 “make” 后面接复合宾语时，若是主动语态（使/让某人做某事），宾语补足语应用不带 to 的动词不定式（即动词原形 “feel”）。",
+          "concept": "使役动词 — Causative Verbs — Bare Infinitive",
+          "zh": "基斯与学校恶霸的对峙让他感到受到了恐吓。",
+          "answer": "2"
+        },
+        "3": {
+          "note": "在 “one of the + 复数名词 + who/that” 引导的定语从句中，定语从句的先行词通常是前面的复数名词（the boys），因此从句谓语动词用复数。结合句末的 “now”，应使用现在进行时复数形式 “are playing”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — One of the boys who",
+          "zh": "汤姆是现在正在学校礼堂打羽毛球的男孩之一。",
+          "answer": "4"
+        },
+        "4": {
+          "note": "由 when 引导的时间状语从句中，当主句表达将来或预期的意图（Wouldn't Xueli be...）时，从句应用一般现在时 “learns” 来代替将来时。",
+          "concept": "时间状语从句的时态 — Adverbial Clauses of Time — Present for Future",
+          "zh": "劳拉问她的姐姐：“当雪莉得知我们为她烤了这个蛋糕时，她难道不会感到惊喜吗？”",
+          "answer": "2"
+        },
+        "5": {
+          "note": "前后两句在语意上存在此消彼长的反义呼应。结合选项，“never... occasionally”（从不……偶尔）逻辑最通顺，表示妈妈从不去接弟弟，而是偶尔让他自己走回家。",
+          "concept": "频度副词辨析 — Adverbs of Frequency — Contextual Logic",
+          "zh": "我妈妈从不接我弟弟放学。她偶尔会让他自己走路回家。",
+          "answer": "4"
+        },
+        "6": {
+          "note": "陈述句中含有半否定副词 “hardly”（几乎不），使整个陈述部分带有否定意义，因此反意疑问句部分要用肯定形式；主语是 Jane（单数），“goes” 对应的一般现在时助动词为 “does”。",
+          "concept": "反意疑问句 — Question Tags — Semi-negative Adverbs",
+          "zh": "简几乎不和家人一起去保龄球中心，对吧？",
+          "answer": "2"
+        },
+        "7": {
+          "note": "由 “either... or...” 连接并列主语时，谓语动词的单复数遵循“就近原则”，与靠近它的主语 “his classmates”（复数）保持一致；由 “upcoming”（即将到来的）可知，此处用现在进行时 “are taking” 表按计划将要发生的动作。",
+          "concept": "主谓一致 — Subject-Verb Agreement — Correlative Conjunctions",
+          "zh": "保罗或他的同学们将参加即将在宁静自然保护区举行的徒步活动。",
+          "answer": "2"
+        },
+        "8": {
+          "note": "“in accordance with” 是固定的介词短语搭配，意思是 “按照” 或 “依据（规则/法律）”。",
+          "concept": "介词搭配 — Prepositions — Fixed Phrases",
+          "zh": "根据学校规定，任何被抓到故意破坏学校公物的人都将被记一个小过。",
+          "answer": "4"
+        },
+        "9": {
+          "note": "“jeans”（牛仔裤）在英语中属于复数名词，作主语时谓语动词需用复数。由 “since this morning” 可知，该动作从今天早上开始并一直持续到现在，应用现在完成时的被动语态 “have been left”。",
+          "concept": "主谓一致与时态 — Subject-Verb Agreement — Plural Nouns",
+          "zh": "他的牛仔裤从今天早上起就被丢在床上。 ",
+          "answer": "4"
+        },
+        "10": {
+          "note": "定语从句的先行词是 “the homeless men”（指人），且在从句中作主语，因此引导词需要选用主格关系代词 “who”。",
+          "concept": "定语从句 — Relative Clauses — Who",
+          "zh": "那些就是由慈善机构提供免费餐食的无家可归的男子。",
+          "answer": "1"
+        }
+      },
+      "passages": {}
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "\"You must think ________ before you make the decision to sell the house,\" Mr Ho's mother-in-law told him.",
+          "options": {
+            "1": "intensely",
+            "2": "rationally",
+            "3": "consequently",
+            "4": "understandably"
+          }
+        },
+        "12": {
+          "stem_plain": "The detective was ________ in gathering detailed evidence against the suspect. He left no stone unturned.",
+          "options": {
+            "1": "delirious",
+            "2": "frivolous",
+            "3": "laborious",
+            "4": "meticulous"
+          }
+        },
+        "13": {
+          "stem_plain": "\"You should have ________ the angry customer instead of provoking him,\" the manager told his staff member.",
+          "options": {
+            "1": "cajoled",
+            "2": "berated",
+            "3": "pacified",
+            "4": "threatened"
+          }
+        },
+        "14": {
+          "stem_plain": "The ________ clanking of the engine finally prompted Mr Lim to send his car to the workshop.",
+          "options": {
+            "1": "indistinct",
+            "2": "incessant",
+            "3": "indiscreet",
+            "4": "indifferent"
+          }
+        },
+        "15": {
+          "stem_plain": "Our teacher is kind and will not ________ a student for a minor mistake he or she makes.",
+          "options": {
+            "1": "put off",
+            "2": "put away",
+            "3": "put down",
+            "4": "put up with"
+          }
+        }
+      },
+      "answers": {
+        "11": {
+          "zh": "“在做出卖房子的决定之前，你必须理智地思考，”何先生的岳母告诉他。",
+          "note": "‘rationally’ 意为‘理智地，理性地’。面对“卖掉房子（sell the house）”这样的重大决定，长辈通常会劝诫当事人要保持头脑清醒、理智地进行权衡，而不是冲动行事。",
+          "concept": "副词辨析与神态关联 — Vocabulary — Adverbs",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "intensely",
+              "zh": "强烈地，极度地（副词，形容某种情感、痛苦、光线或竞争非常剧烈、紧张，或指投入了极大的精力与注意力）",
+              "eg": "The team practiced intensely for the upcoming championship match."
+            },
+            {
+              "opt": "2",
+              "word": "rationally",
+              "zh": "理智地，理性地（副词，指基于清晰的逻辑、客观的事实和清醒的思考来行事或做出判断，而不受个人情绪、偏见或冲动的干扰）",
+              "eg": "Even when faced with extreme danger, we must try to think rationally."
+            },
+            {
+              "opt": "3",
+              "word": "consequently",
+              "zh": "因此，结果（副词，作为逻辑连接词，用来引出因为前文所提及的原因而必然导致的直接结果或推论）",
+              "eg": "He failed to study for the examination and consequently got a poor grade."
+            },
+            {
+              "opt": "4",
+              "word": "understandably",
+              "zh": "情有可原地，可以理解地（副词，指在特定的环境或遭遇下，某人的某种行为、情绪或反应是完全符合常理、容易被他人同情和理解的）",
+              "eg": "She was understandably upset when her wallet was stolen on the bus."
+            }
+          ]
+        },
+        "12": {
+          "zh": "侦探在搜集针对嫌疑人的详细证据时非常一丝不苟。他想方设法（不遗余力）。",
+          "note": "‘meticulous’ 意为‘一丝不苟的，极注意细节的’。后文的成语 “left no stone unturned”（想方设法，不遗余力）直接呼应了侦探在办案时极其细致、毫无疏漏的专业神态。",
+          "concept": "形容词辨析",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "delirious",
+              "zh": "神志不清的，欣喜若狂的（形容词，指因高烧、重病而导致大脑意识模糊、胡言乱语的状态，或形容因极度兴奋、狂喜而近乎失控的状态）",
+              "eg": "The patient was delirious with a high fever and could not recognize his family."
+            },
+            {
+              "opt": "2",
+              "word": "frivolous",
+              "zh": "轻浮的，无聊的（形容词，指人的举止不严肃、轻薄，或者形容某种行为、诉讼、花费毫无实际价值或重要性，纯属浪费时间）",
+              "eg": "Please do not waste your money on buying such frivolous items."
+            },
+            {
+              "opt": "3",
+              "word": "laborious",
+              "zh": "艰苦的，费力的（形容词，指某项工作、任务或过程极其繁重、耗时，需要付出大量的体力、汗水和艰苦努力才能勉强完成）",
+              "eg": "Building the stone wall by hand was a long and laborious task."
+            },
+            {
+              "opt": "4",
+              "word": "meticulous",
+              "zh": "一丝不苟的，极注意细节的（形容词，指做事情或计划时极其小心谨慎、极其看重每一个微小的细节，力求做到完美无瑕、毫无疏漏）",
+              "eg": "The accountant was meticulous in checking the company's financial reports."
+            }
+          ]
+        },
+        "13": {
+          "zh": "“你本来应该安抚那位愤怒的顾客，而不是去激怒他，”经理对他的员工说道。",
+          "note": "‘pacified’ 意为‘安抚，使平静’。句中的 “instead of provoking him”（而不是去激怒他）构成了反义对比，提示空格处应填入能够使顾客平息怒火的举动。",
+          "concept": "动词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "cajoled",
+              "zh": "哄骗，诱骗（动词，指通过说甜言蜜语、恭维奉承或温柔的欺骗手段，去说服、诱使某人做他原本不想做的事情）",
+              "eg": "She cajoled her father into lending her his brand-new luxury car for the weekend."
+            },
+            {
+              "opt": "2",
+              "word": "berated",
+              "zh": "严厉责备，痛斥（动词，指因为某人犯了严重错误或表现不佳，而长时间、极其严厉地对其进行劈头盖脸的批评、斥责或责骂）",
+              "eg": "The angry coach berated the players in the locker room after their terrible defeat."
+            },
+            {
+              "opt": "3",
+              "word": "pacified",
+              "zh": "安抚，使平静（动词，指通过温和的言语、妥协或提供补偿，去平息愤怒之人的情绪、让啼哭的婴儿或动荡的局势安静和稳定下来）",
+              "eg": "The manager successfully pacified the irate guest by offering a full refund."
+            },
+            {
+              "opt": "4",
+              "word": "threatened",
+              "zh": "威胁，恐吓（动词，指故意用语言、动作或神态暗示要伤害、惩罚某人或破坏某物，以此强迫对方屈服或表达某种危险的征兆）",
+              "eg": "The hijackers threatened to detonate the bomb if their demands were not met."
+            }
+          ]
+        },
+        "14": {
+          "zh": "发动机那不绝于耳（接连不断）的咔哒声终于促使林先生把他的车送去了维修厂。",
+          "note": "‘incessant’ 意为‘不停的，连续不断的’。通常用来形容令人讨厌的、持续不断的噪音（如 clanking of the engine），这种持续的噪音最终让车主无法忍受，从而决定送修。",
+          "concept": "形容词辨析",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "indistinct",
+              "zh": "模糊不清的（形容词，指声音微弱、图像模糊、记忆淡忘或轮廓不清晰，导致人们很难用耳朵听清、用眼睛看明或准确辨认）",
+              "eg": "We could hear some indistinct whispers coming from the dark room upstairs."
+            },
+            {
+              "opt": "2",
+              "word": "incessant",
+              "zh": "不停的，连续不断的（形容词，特指某些令人感到厌烦、痛苦或不适的噪音、降雨、抱怨或批评等，长时期内毫无间断地持续发生）",
+              "eg": "The baby's incessant crying kept the exhausted parents awake all night long."
+            },
+            {
+              "opt": "3",
+              "word": "indiscreet",
+              "zh": "轻率的，不慎重的（形容词，指言行不小心、不注意保守秘密或不顾忌场合，从而容易引起尴尬、冒犯他人或泄露隐私）",
+              "eg": "It was very indiscreet of him to discuss his coworker's private life in public."
+            },
+            {
+              "opt": "4",
+              "word": "indifferent",
+              "zh": "冷淡的，不在乎的（形容词，指对某人、某事或某种局势表现出毫无兴趣、完全不关心、缺乏热情，或指商品的质量普普通通）",
+              "eg": "He remained completely indifferent to the structural problems of the community."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我们的老师很和蔼，不会因为学生犯了一点小错误就贬低（羞辱）他或她。",
+          "note": "‘put down’ 是短语动词，在此处意为‘贬低，当众羞辱’。前半句提到 “Our teacher is kind”（我们的老师很和蔼），因此她不会因为小错就去语言上贬低或伤害学生的自尊心。",
+          "concept": "短语动词辨析",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "put off",
+              "zh": "推迟，延期；使反感（动词短语，指将原定要举行的事情或会议推迟到以后的某个时间办理，或指某种糟糕的外观令人失去胃口或反感）",
+              "eg": "They decided to put off the outdoor football match because of the heavy downpour."
+            },
+            {
+              "opt": "2",
+              "word": "put away",
+              "zh": "收好，储蓄（动词短语，指在某物使用完毕后，将其放回原本存放的抽屉、柜子等固定位置以保持整洁，或者指把钱存起来）",
+              "eg": "The students were told to put away their electronic devices before the test."
+            },
+            {
+              "opt": "3",
+              "word": "put down",
+              "zh": "贬低，放下；镇压（动词短语，指用刻薄、嘲讽的言语当众羞辱、批评或贬低某人，或指用强力平定暴乱，亦或在物理上放下手中的物品）",
+              "eg": "A good group leader should encourage members rather than put them down."
+            },
+            {
+              "opt": "4",
+              "word": "put up with",
+              "zh": "忍受，容忍（动词短语，指在面对糟糕的环境、他人的无礼言行、噪音或痛苦等难以接受的状况时，虽然不高兴但仍咬牙克制并忍耐下去）",
+              "eg": "I can no longer put up with my neighbor's extremely loud music at midnight."
+            }
+          ]
+        }
+      },
+      "passages": {}
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "searched around clumsily",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "foraged",
+            "2": "fumbled",
+            "3": "checked",
+            "4": "ransacked"
+          }
+        },
+        "17": {
+          "stem_plain": "scurried",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "dashed",
+            "2": "pranced",
+            "3": "teetered",
+            "4": "waddled"
+          }
+        },
+        "18": {
+          "stem_plain": "crossed paths with him",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "met",
+            "2": "faced",
+            "3": "found",
+            "4": "spotted"
+          }
+        },
+        "19": {
+          "stem_plain": "grin",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "leer",
+            "2": "beam",
+            "3": "scowl",
+            "4": "chuckle"
+          }
+        },
+        "20": {
+          "stem_plain": "bemused",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "shaken",
+            "2": "amused",
+            "3": "flustered",
+            "4": "confused"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "note": "词义辨析 — “searched around clumsily”指笨手笨脚地在包里瞎摸、翻找，与“fumbled（笨拙地翻找、摸索）”意思完全相符。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "foraged",
+              "zh": "搜寻（尤指食物或生活必需品）",
+              "eg": "The squirrels foraged for nuts in the autumn leaves."
+            },
+            {
+              "opt": "2",
+              "word": "fumbled",
+              "zh": "笨拙地翻找，摸索",
+              "eg": "He fumbled in his deep pockets for the front door key."
+            },
+            {
+              "opt": "3",
+              "word": "checked",
+              "zh": "检查",
+              "eg": "The pilot carefully checked all the controls before takeoff."
+            },
+            {
+              "opt": "4",
+              "word": "ransacked",
+              "zh": "洗劫，把……翻得乱七八糟",
+              "eg": "The thieves ransacked the house looking for valuable jewelry."
+            }
+          ]
+        },
+        "17": {
+          "note": "词义辨析 — “scurried”指急促地跑、小跑，与“dashed（猛冲、飞奔）”在快速移动的动作含义上最为接近。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "dashed",
+              "zh": "猛冲，飞奔",
+              "eg": "He dashed out of the office to catch the last bus."
+            },
+            {
+              "opt": "2",
+              "word": "pranced",
+              "zh": "神气活现地跳跃，昂首阔步",
+              "eg": "The children pranced around the room in their colorful costumes."
+            },
+            {
+              "opt": "3",
+              "word": "teetered",
+              "zh": "摇晃地走，步履蹒跚",
+              "eg": "She teetered down the stairs in her new high heels."
+            },
+            {
+              "opt": "4",
+              "word": "waddled",
+              "zh": "摇摇摆摆地走（像鸭子一样）",
+              "eg": "The fat penguin waddled across the thick ice toward the sea."
+            }
+          ]
+        },
+        "18": {
+          "note": "词义辨析 — 短语“crossed paths with him”指与某人不期而遇、相遇，即“met”。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "met",
+              "zh": "遇见，相遇",
+              "eg": "I accidentally met my middle school classmate at the airport."
+            },
+            {
+              "opt": "2",
+              "word": "faced",
+              "zh": "面对，面临",
+              "eg": "The young company faced many difficult financial problems last year."
+            },
+            {
+              "opt": "3",
+              "word": "found",
+              "zh": "找到，发现",
+              "eg": "She finally found her missing cat hiding behind the sofa."
+            },
+            {
+              "opt": "4",
+              "word": "spotted",
+              "zh": "看见，瞥见（发现显眼的人或物）",
+              "eg": "The guard spotted a stranger trying to climb over the wall."
+            }
+          ]
+        },
+        "19": {
+          "note": "词义辨析 — “grin”名词作笑容、露齿而笑，此处形容司机脸上洋溢着灿烂开心的笑容，对应的动词“beam”可以用作表示“眉开眼笑，开心地笑”。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "leer",
+              "zh": "斜恶地笑，带有恶意地看",
+              "eg": "He turned away to avoid the stranger's unpleasant leer."
+            },
+            {
+              "opt": "2",
+              "word": "beam",
+              "zh": "眉开眼笑，笑逐颜开",
+              "eg": "The proud mother began to beam as her son walked on stage."
+            },
+            {
+              "opt": "3",
+              "word": "scowl",
+              "zh": "怒视，皱眉不满",
+              "eg": "The teacher looked at the noisy students with a deep scowl."
+            },
+            {
+              "opt": "4",
+              "word": "chuckle",
+              "zh": "轻声笑，吃吃地笑",
+              "eg": "He let out a quiet chuckle while reading the funny comic book."
+            }
+          ]
+        },
+        "20": {
+          "note": "词义辨析 — “bemused”指感到困惑的、茫然的（因为不明白对方为什么认识自己），与“confused”同义。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "shaken",
+              "zh": "受到惊吓的，震惊的",
+              "eg": "The passengers were deeply shaken by the sudden minor accident."
+            },
+            {
+              "opt": "2",
+              "word": "amused",
+              "zh": "被逗乐的，觉得好笑的",
+              "eg": "We were highly amused by the clever tricks of the clown."
+            },
+            {
+              "opt": "3",
+              "word": "flustered",
+              "zh": "慌乱的，紧张心慌的",
+              "eg": "She became flustered when she forgot her lines during the interview."
+            },
+            {
+              "opt": "4",
+              "word": "confused",
+              "zh": "困惑的，糊涂的",
+              "eg": "The complex road signs left the new driver completely confused."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "One night, Father hailed a taxi home. When it was time to settle the fare, Father passed the driver a few dollars. The driver [Q16(searched around clumsily)] for the correct change from a small coin bag. Father noticed the driver's frustration and told him to wait for a while as he [Q17(scurried)] into the house. After a few moments, Father returned with a plastic coin dispenser that could sort coins into different denominations. He explained that he had once been a taxi driver too. The driver was most grateful and told Father that he would get a free ride if he [Q18(crossed paths with him)] the next time.",
+          "Twelve months later, my father was once again in a taxi on his way home. The driver looked knowingly at Father and a [Q19(grin)] spread across his face as he asked, \"Do you remember me?\" Father was [Q20(bemused)]. The driver reached down and jiggled his coin dispenser, then reached across to switch off the fare meter. Father smiled and was pleased that the driver had remembered him."
+        ],
+        "zh": [
+          "一天晚上，父亲打车回家。该结清车费时，父亲递给司机几美元。司机在一只小零钱包里笨手笨脚地翻找零钱。父亲注意到了司机的沮丧，让他等一会儿，自己则小跑进了屋。过了一会儿，父亲拿着一个可以把硬币按不同面值分类的塑料硬币分发器回来了。他解释说自己以前也当过出租车司机。司机十分感激，并告诉父亲，如果下次再遇到他，他可以免费乘车。",
+          "十二个月后，父亲再次坐出租车回家。司机意会地看着父亲，脸上绽放出一个灿烂的笑容，问道：“你还记得我吗？”父亲有些困惑不解。司机低下头，摇了摇他的硬币分发器，然后伸手关掉了计价器。父亲笑了，为司机还能记得自己而感到高兴。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "解释为什么选这个答案 — replace stems, passages, and teaching copy when content is ready.",
+          "concept": "主旨题型",
+          "answer": "1"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "29": {
+          "concept": "代词（形容词性物主代词）",
+          "note": "‘since its humble beginning’，物主代词 its 指代前面提到的“碧山-大巴窑社区（neighbourhood）”这一单数概念，意为‘自它简陋的起点以来’。",
+          "answer": "G"
+        },
+        "30": {
+          "concept": "介词惯用法（与by连用表示参照标准）",
+          "note": "‘by today's standards’ 是固定介词搭配，意为‘按照今天的标准来看’。",
+          "answer": "E"
+        },
+        "31": {
+          "concept": "介词搭配（from... into... 结构）",
+          "note": "‘transformed from something... into one of...’ 构成 ‘transform from... into...’ 的动介固定搭配，表示‘从……转变成……’。",
+          "answer": "K"
+        },
+        "32": {
+          "concept": "并列连词/副词（并列顺承）",
+          "note": "‘beautifully-designed and practical amenities’，连词 and 用来连接两个并列的形容词/分词修饰语（设计精美的和实用的）。",
+          "answer": "B"
+        },
+        "33": {
+          "concept": "介词搭配（动短语固定搭配）",
+          "note": "‘take sth. for granted’ 是固定短语，意为‘认为……是理所当然的’。",
+          "answer": "F"
+        },
+        "34": {
+          "concept": "动词时态与主谓一致（现在完成时）",
+          "note": "‘Ask any resident who has lived...’，结合后面的时间状语 ‘since the 1960s’（自20世纪60年代以来），句子应用现在完成时。先行词为单数形式的 any resident，故助动词用 has。",
+          "answer": "H"
+        },
+        "35": {
+          "concept": "动词时态与主谓一致（一般过去时复数）",
+          "note": "‘the HDB flats were basic...’，结合前文的时间状语 ‘In the early years’（在早期），句子叙述过去的事实。主语 flats 为复数，故系动词选 were。",
+          "answer": "Q"
+        },
+        "36": {
+          "concept": "介词用法（表示途径、经由或手段）",
+          "note": "‘through increased public engagement’，介词 through 在此表示“通过、经由……方式/手段（通过增加公众参与）”。",
+          "answer": "P"
+        },
+        "37": {
+          "concept": "介词用法（表示方向、目的或对象）",
+          "note": "‘Facilities targeted at/for...’，在所给选项中，通常目标在于或针对……使用介词 at，意为‘旨在提高便利性的设施’。",
+          "answer": "D"
+        },
+        "38": {
+          "concept": "介词搭配（固定短语）",
+          "note": "‘among the Town Council's many priorities’，介词 among 意为‘在……之中’，表示‘是镇理事会众多优先事项之一’。",
+          "answer": "A"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "among",
+          "B": "and",
+          "C": "are",
+          "D": "at",
+          "E": "by",
+          "F": "for",
+          "G": "had",
+          "H": "has",
+          "J": "its",
+          "K": "into",
+          "L": "on",
+          "M": "quite",
+          "N": "their",
+          "P": "through",
+          "Q": "were"
+        },
+        "cloze": [
+          "Bishan had its origins as a burial ground while Toa Payoh was a large swamp. The Bishan-Toa Payoh neighbourhood has come a long way since [Q29] humble beginning. In just a few decades, the whole area has been transformed from something deemed largely inhabitable [Q30] today's standards, [Q31] one of Singapore's most popular satellite housing estates. Various beautifully-designed [Q32] practical amenities, including playgrounds, fitness corners, multi-purpose courts, parks and many more, are scattered around the entire estate.",
+          "Many young residents take [Q33] granted the comfortable living conditions. Ask any resident who [Q34] lived in the estate since the 1960s and 1970s and he or she will tell you that the changes have been drastic. In the early years of our public housing scheme, the HDB flats [Q35] basic, no-frills, simple blocks of flats.",
+          "The future brings a lot of promise. [Q36] increased public engagement, the Bishan-Toa Payoh Town Council obtains feedback and suggestions from residents. Facilities targeted [Q37] increasing convenience and making life fruitful for the elderly residents are [Q38] the Town Council's many priorities. New facilities and improvement projects are also well under way."
+        ],
+        "zh": [
+          "碧山最初起源于一片坟场，而大巴窑曾是一片大沼泽。自它简陋的起点以来，碧山-大巴窑社区已经取得了长足的进步。在短短几十年的时间里，整个地区按照今天的标准来看，已经从被认为基本无法居住的地方，转变成了新加坡最受欢迎的卫星住宅区之一。各种设计精美且实用的便利设施，包括游乐场、健身角、多功能球场、公园等等，星罗棋布地分布在整个社区内。",
+          "许多年轻居民认为舒适的生活条件是理所当然的。去问问任何一位自20世纪60和70年代以来就一直住在这个社区的居民，他或她都会告诉你，这里的变化是翻天覆地的。在我国公共住房计划的早期，组屋还是简陋、无装饰、简单的块状公寓楼。",
+          "未来充满了希望。通过增加公众参与，碧山-大巴窑镇理事会从居民那里获取反馈和建议。旨在为老年居民提高便利性并让生活更加充实的设施，是镇理事会的众多优先事项之一。新的设施和改进项目也都在顺利进行中。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "39": {
+          "concept": "过去分词 - Past Participles",
+          "note": "非谓语动词/被动含义：此处表示“向她投来困惑的目光”，shoot 这一动作承受者是 stares，应用过去分词形式 shot，或者作为固定搭配投射（shoot a glance）在过去时叙述中用过去式 shot。",
+          "answer": "shot"
+        },
+        "40": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 familiar（形容词，意为熟悉的），be familiar with 意为对……熟悉。",
+          "answer": "familiar"
+        },
+        "41": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 petite（形容词，意为身材娇小的）。",
+          "answer": "petite"
+        },
+        "42": {
+          "concept": "情态动词后的动词形式 - Verbs after Modals",
+          "note": "情态动词后的动词原形：在情态动词 will 后面，应接动词原形 perform，原句 will be perform 语病，应去掉 be 还原为 will perform（将要在……表演）。",
+          "answer": "perform"
+        },
+        "43": {
+          "concept": "名词 - Nouns",
+          "note": "词性错误：此处作主语核心词，应用名词形式 invitation（邀请），而非其动词/口语缩写形式 invite。",
+          "answer": "invitation"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 prestigious（形容词，意为享有声望的、顶级的）。",
+          "answer": "prestigious"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 achievement（名词，意为成就、成绩）。",
+          "answer": "achievement"
+        },
+        "46": {
+          "concept": "副词 - Adverbs",
+          "note": "词性错误：修饰过去分词/形容词 lost，表示“起初不明白”，应用副词形式 initially，而非形容词 initial。",
+          "answer": "initially"
+        },
+        "47": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：“偶然发现、碰巧看到”的固定短语是 chance upon，而非 chance at。",
+          "answer": "upon"
+        },
+        "48": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 rendition（名词，意为表演、演唱）。",
+          "answer": "rendition"
+        },
+        "49": {
+          "concept": "连词与动词时态 - Conjunctions and Verb Tenses",
+          "note": "时态与连词错位：根据前后文过去发生的单次事实（turned down），此处用 because（因为），或从语境 seeing / thinking 来看，原句划线部分为 thinking that，常改为 because they thought，即将 thinking 改为过去时以契合过去事实。",
+          "answer": "because"
+        },
+        "50": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 lyrics（名词复数，意为歌词）。",
+          "answer": "lyrics"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "When nine-year-old Lauren Yeo bursts out singing Ave Maria in class, her classmates [Q39(shoot)] her puzzled stares. Weaned on a diet of pop songs, many of them are not [Q40(fermilleir)] with classical music. Lauren, on the other hand, finds it hard to understand how her friends are so crazy over pop singer 'Adele' and boy band 'One Direction'.",
+          "\"The songs are so noisy that they give me a headache,\" said [Q41(pertit)] Lauren, who is soothed by the mellow tunes of Sarah Brightman and Charlotte Church. Lauren will [Q42(be perform)] at New York's famed Carnegie Hall. The [Q43(invite)] was extended to her after she won first place at the [Q44(preztegous)] American Protege International Vocal competition. It is a remarkable [Q45(acheifment)] for Lauren who has taken classical singing lessons for only two years but its magnitude was [Q46(initial)] lost on her.",
+          "Her love for classical music started when she chanced [Q47(at)] a YouTube video of Jackie Evancho, an American classical singer. Inspired by Evancho's powerful [Q48(randision)] she badgered her parents send her for vocal lessons. Though Lauren's parents are classical music lovers themselves, they turned her down as they [Q49(thinking that)] she was too young. It was only when she took pains to memorise Latin or Italian [Q50(leerics)] that they took her seriously and sent her for classes once a week. Lauren dreams of becoming either an actress or singer."
+        ],
+        "zh": [
+          "当九岁的杨劳伦（Lauren Yeo）在课堂上突然放声高歌《圣母颂》时，她的同学们向她投来了困惑的目光。在流行歌曲的熏陶下长大的他们，很多人对古典音乐并不熟悉。另一方面，劳伦很难理解为什么她的朋友们会追捧流行歌手阿黛尔（Adele）和男孩组合“单方向”（One Direction）。",
+          "“这些歌太吵了，听得我头疼，”身材娇小的劳伦说道。她更喜欢在莎拉·布莱曼（Sarah Brightman）和夏洛特·教会（Charlotte Church）那柔和的旋律中寻求慰藉。劳伦将在纽约著名的卡内基音乐厅进行表演。在她获得享有盛誉的美国“得意生”国际声乐比赛第一名后，这份邀请便发给了她。对于仅上了两年古典声乐课的劳伦来说，这是一个了不起的成就，但起初她并没有意识到这一成就的重大意义。",
+          "她对古典音乐的热爱始于她偶然在 YouTube 上看到美国古典歌手杰基·伊万科（Jackie Evancho）的视频。在伊万科高亢演唱的启发下，她缠着父母送她去上声乐课。尽管劳伦的父母本身就是古典音乐爱好者，但因为觉得她年纪太小而拒绝了她。直到她费尽心思背下了拉丁语或意大利语的歌词，他们才开始认真对待她，并送她去上每周一次的课程。劳伦梦想成为一名演员或歌手。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "51": {
+          "concept": "固定搭配 / 量词名词",
+          "answer": "couple / handful / scattering / smattering",
+          "note": "‘a couple of’为固定量词短语，意为‘几个、少数’，与前文的‘only（只有）’呼应，说明最后一天顾客寥寥无几。"
+        },
+        "52": {
+          "concept": "连词 / 介词",
+          "answer": "before / when / as",
+          "note": "连接主句与后文的时间状态，表示在这一百米路段关闭改造‘之前’或‘当它关闭时’的情况。"
+        },
+        "53": {
+          "concept": "固定搭配 / 名词",
+          "answer": "business",
+          "note": "固定短语‘driven many of them out of business’，意为‘迫使他们中许多人歇业/倒闭’。"
+        },
+        "54": {
+          "concept": "形容词",
+          "answer": "much / great / loud / massive",
+          "note": "修饰名词‘fanfare’（大张旗鼓的宣传、张扬），结合语境表示当年是以‘极大的’声势风光开张。"
+        },
+        "55": {
+          "concept": "介词搭配",
+          "answer": "under",
+          "note": "与后文的‘the stars（星星）’搭配，‘under the stars’为固定街头或户外露天语境表达，意为‘在星空下’。"
+        },
+        "56": {
+          "concept": "固定搭配 / 名词",
+          "answer": "peak / height",
+          "note": "‘At the peak of...’或‘At the height of...’为固定搭配，意为‘在……的鼎盛时期/巅峰期’。"
+        },
+        "57": {
+          "concept": "名词",
+          "answer": "factors / reasons / causes",
+          "note": "冒号后面列举了两条导致衰落的‘原因/因素’（没有核心景点、露天座位受天气影响），故填复数名词。"
+        },
+        "58": {
+          "concept": "动词短语搭配",
+          "answer": "stayed / kept / turned",
+          "note": "结合下雨天的场景，露天座位意味着游客在雨天会‘远离/不肯来’（stay away / keep away）。"
+        },
+        "59": {
+          "concept": "情态动词 / 助动词",
+          "answer": "will / would",
+          "note": "后接动词原形‘have’，此处是对翻新改造后未来街道样貌的‘预测或描述’（将会拥有高天棚遮蔽设施）。"
+        },
+        "60": {
+          "concept": "动词 (被动语态)",
+          "answer": "organised / held / conducted / run / staged",
+          "note": "助动词‘will be’后接动词过去分词构成被动语态，表示各种节日活动将在现场被‘举办/组织’以吸引人流。"
+        },
+        "61": {
+          "concept": "副词 / 限定词",
+          "answer": "these / nowadays",
+          "note": "‘these days’为固定时间状语表达，意为‘现今、如今’，用以对比过去和现在的改变。"
+        },
+        "62": {
+          "concept": "固定搭配 / 名词",
+          "answer": "past / days",
+          "note": "‘in the past’（在过去）或‘in the old days’（在过去的日子里）均为常见时间语境固定搭配。"
+        },
+        "63": {
+          "concept": "副词",
+          "answer": "least",
+          "note": "固定频率或量词搭配‘at least once a month’，意为‘每月至少一次’。"
+        },
+        "64": {
+          "concept": "动词",
+          "answer": "retain / keep / maintain / preserve",
+          "note": "情态动词‘would’后接动词原形，结合后文‘its original flavour（原汁原味）’，可知是希望新地方能‘保留/维持’原有的风味特色。"
+        },
+        "65": {
+          "concept": "连词 / 介词",
+          "answer": "another / remaining / the / about",
+          "note": "前面提到总共容纳600人，其中400人在棚下，那么‘剩下的’200人（another 200 / the remaining 200）就在露天座位区。"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "After serving up roadside local fare in a tourist hot spot for the past 12 years, the once-bustling Chinatown Food Street went out with a whimper. There were only a [Q51] of customers on its last day of operations [Q52] the 100-metre stretch on Smith Street closed for a $4 million overhaul. It will re-open at the end of the year, but stallholders said decreasing footfall has driven many of them out of [Q53].",
+          "The nostalgic food street was launched with [Q54] fanfare in 2001, aimed at those who wanted to enjoy roadside hawker fare [Q55] the stars. At the [Q56] of its popularity, its wooden stools and tables were almost always fully occupied in the evenings and weekends. Stallholders said the decline was due to two main [Q57]: there were no key attractions nearby, and the outdoor seating meant that visitors [Q58] away on rainy days.",
+          "After the renovation, the street [Q59] have a high-ceiling shelter with a built-in cooling system to keep out the sun and rain. Also during Chinese festivals such as Chinese New Year, activities will be [Q60] on site to bring in the crowds.",
+          "\"Singaporeans [Q61] days prefer to go to malls and food courts,\" said Mr Leong, who is retired. \"Our younger generation doesn't know that this is how we used to eat in the [Q62].\" The 68-year-old said he visited the place at [Q63] once a month and would miss it. He hoped the renovated place would [Q64] its original flavour too.",
+          "The revamped food street will have 24 street stalls and 10 shophouse restaurants. It is expected to seat 600 people – 400 under the shelter and [Q65] 200 in an open-air seating area. Regular patrons are looking forward to the reopening of the Chinatown Food Street after its makeover."
+        ],
+        "zh": [
+          "在过去12年里，这条曾经繁华的牛车水美食街在旅游热点地区提供着本地路边美食，如今却悄然拉下了帷幕。在史密斯街这档100米长的路段因一项耗资400万美元的彻底翻修而关闭之前，其运营的最后一天只有少数几位顾客。它将于年底重新开放，但摊主们表示，人流量的减少已导致他们中的许多人破产歇业。",
+          "这条令人怀旧的美食街于2001年在巨大的瞩目和宣传中开张，旨在吸引那些想要在星空下享受路边小贩美食的人。在它最受欢迎的鼎盛时期，每到傍晚和周末，这里的木凳和木桌几乎总是座无虚席。摊主们表示，衰落主要归结于两个主要因素：附近没有核心景点，而且露天座位意味着游客在下雨天会远离这里。",
+          "翻新后，这条街道将拥有一个带有内置冷却系统的高天棚遮蔽设施，以阻挡烈日和雨水。此外，在农历新年等华人节日期间，现场还将举办各种活动以吸引人群。",
+          "“如今的新加坡人更喜欢去商场和冷气食阁，”已退休的梁先生说。“我们的年轻一代不知道这就是我们过去吃饭的方式。”这位68岁的老人说，他以前每月至少来一次这个地方，以后会很想念它。他希望翻新后的地方也能保留其原汁原味。",
+          "翻新后的美食街将拥有24个路边摊位 and 10家店屋餐厅。预计可容纳600人——400人在遮蔽棚下，另外200人在露天餐饮区。老顾客们都十分期待牛车水美食街改造后的重新开张。"
+        ]
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Prototype synthesis cue.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was raining. We stayed indoors. (so)"
+        }
+      },
+      "answers": {
+        "62": {
+          "concept": "虚拟语气 — Conditional → Prepositional phrase ('Without + N')",
+          "zh": "没有教练的鼓励，我们本会在半途放弃。",
+          "note": "条件改写： If the coach had not encouraged …Without the coach's encouragement；主句 would have given up halfway 不变。",
+          "answer": "Without the coach's encouragement, we would have given up halfway."
+        }
+      }
+    },
+    "109": {
+      "passages": {
+        "lines": [
+          "line1",
+          "line2"
+        ],
+        "paragraphs": {
+          "1": "第一段从第1行开始，第一段的翻译。",
+          "10": "第二段从第10行开始，第二段的翻译。"
+        }
+      },
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "open_ended"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Rama.",
+          "**Write an email to the teacher-in-charge of the morning assembly, Mr Lim, for permission to make an announcement.**",
+          "You are to refer to the picture and information on page 2 for your email."
+        ],
+        "info": [
+          "the purpose of Amazing Hearts 2024",
+          "two reasons why you want to make the announcement",
+          "two things that a student needs to do before donating a food item at the booth",
+          "why you are asking Mr Lim to practise with you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mr Lim,",
+          "I am writing to **request permission** to make an announcement at the morning assembly"
+        ],
+        "markdown": [
+          "这个关于“Amazing Hearts 2024”的申请邮件是一篇完美的官方满分范文（PSLE 实用文体 AL1 水准）。主要亮点如下：",
+          "### 1. 任务全面达标 (Complete Task Fulfillment)\n",
+          "### 2. 语气与词汇极其得体 (Polite Tone & Formal Vocabulary)\n*",
+          "### 3. 逻辑衔接极其严密 (Excellent Sentence Transitions)\n"
+        ]
+      }
+    }
+  }
+}

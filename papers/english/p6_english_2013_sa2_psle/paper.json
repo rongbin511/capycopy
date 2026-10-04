@@ -1,0 +1,689 @@
+{
+  "paperid": "p6_english_2013_sa2_psle",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "The boys continued with the game __________ being tired.",
+          "options": {
+            "1": "until",
+            "2": "despite",
+            "3": "although",
+            "4": "because"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "note": "“despite” 是介词，后面接名词或动名词短语（being tired）；而 “although” 是连词，后面必须接完整的句子。",
+          "concept": "让步介词与连词的区分 — Concession — despite vs although",
+          "zh": "尽管很累，男孩们还是继续着游戏。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "16": {
+          "stem_plain": "Shortly after their argument, the two friends decided to ________ and make peace with each other.",
+          "options": {
+            "1": "restore",
+            "2": "resolve",
+            "3": "reconcile",
+            "4": "reconnect"
+          }
+        },
+        "17": {
+          "stem_plain": "Scientists have been conducting ________ research into harnessing energy from the sun.",
+          "options": {
+            "1": "plentiful",
+            "2": "bountiful",
+            "3": "immense",
+            "4": "extensive"
+          }
+        },
+        "18": {
+          "stem_plain": "In the story, the detective ________ the mystery of the missing diamonds.",
+          "options": {
+            "1": "unveiled",
+            "2": "untangled",
+            "3": "unearthed",
+            "4": "unravelled"
+          }
+        },
+        "19": {
+          "stem_plain": "The children immediately ________ their friendly and humorous babysitter.",
+          "options": {
+            "1": "took to",
+            "2": "took in",
+            "3": "took up",
+            "4": "took after"
+          }
+        },
+        "20": {
+          "stem_plain": "I refuse to buy stationery from that shop as it charges ________ prices.",
+          "options": {
+            "1": "excessive",
+            "2": "exorbitant",
+            "3": "expensive",
+            "4": "exaggerated"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "16": {
+          "note": "“reconcile”意为“和解”，常用于人与人之间经过激烈争吵（argument）之后恢复友好关系，与后文的“make peace with each other”语意完美吻合。",
+          "zh": "在争吵后不久，这两个朋友决定和解并与对方言归于好。",
+          "concept": "词汇辨析 Vocabulary-Word Choice",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "restore",
+              "zh": "恢复，修复（指将某物归还、恢复到原本的良好状态或位置）",
+              "eg": "The government hopes to restore public confidence in the banking system."
+            },
+            {
+              "opt": "2",
+              "word": "resolve",
+              "zh": "解决（指找到解决争议、困难或问题的办法）",
+              "eg": "The two parties met to resolve their long-standing disagreement."
+            },
+            {
+              "opt": "3",
+              "word": "reconcile",
+              "zh": "和解，言归于好（指争吵、不和之后重归于好，恢复友好关系）",
+              "eg": "The brothers finally decided to reconcile after years of not speaking."
+            },
+            {
+              "opt": "4",
+              "word": "reconnect",
+              "zh": "重新联系（指与失去联系的人或物再次建立起联系）",
+              "eg": "Social media helped her reconnect with her childhood classmates."
+            }
+          ]
+        },
+        "17": {
+          "zh": "科学家们一直在对如何利用太阳能进行广泛深入的研究。",
+          "note": "“extensive research”是固定的惯用词汇搭配，用来形容涉及范围极广、投入巨大的科学研究或调查。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "plentiful",
+              "zh": "丰富的，充足的（主要形容食物、资源或机会数量多）",
+              "eg": "The island contains a plentiful supply of fresh drinking water."
+            },
+            {
+              "opt": "2",
+              "word": "bountiful",
+              "zh": "慷慨的，丰厚的（常指自然赐予、农作物大丰收或赏赐多）",
+              "eg": "The farmers celebrated a bountiful harvest of wheat this autumn."
+            },
+            {
+              "opt": "3",
+              "word": "immense",
+              "zh": "巨大的，广阔的（通常修饰空间、价值、财产或压力巨大）",
+              "eg": "The historic old museum contains an immense collection of priceless art."
+            },
+            {
+              "opt": "4",
+              "word": "extensive",
+              "zh": "广泛的，深入的（通常用来修饰研究、调查或知识，指涉及面广、数量大）",
+              "eg": "The police are currently carrying out an extensive search for the suspect."
+            }
+          ]
+        },
+        "18": {
+          "zh": "在故事中，侦探揭开了钻石失踪的谜团。",
+          "note": "“unravel a mystery”是十分经典的固定搭配，意为“揭开谜团”。侦探（detective）逐步破译复杂悬案的过程常用 unravel 来表达。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "unveiled",
+              "zh": "揭幕，公布（指去掉覆盖物以展现新事物，或首次向公众公开计划）",
+              "eg": "The tech company unveiled their newest smartphone at the press event."
+            },
+            {
+              "opt": "2",
+              "word": "untangled",
+              "zh": "解开，理清（指把缠绕在一起的绳线解开，或理清复杂的局面）",
+              "eg": "She patiently untangled the knotted fishing line near the pier."
+            },
+            {
+              "opt": "3",
+              "word": "unearthed",
+              "zh": "出土，挖掘（指从地底下挖出遗骸、古物，或搜寻出隐藏很久的证据）",
+              "eg": "The expert archaeologists unearthed ancient stone tools from the cave."
+            },
+            {
+              "opt": "4",
+              "word": "unravelled",
+              "zh": "揭开，阐明（特指通过调查把复杂的谜团、秘密或犯罪阴谋逐步解开）",
+              "eg": "Through careful investigation, the investigator unravelled the dark plot."
+            }
+          ]
+        },
+        "19": {
+          "zh": "孩子们立刻喜欢上了他们那位友善而幽默的保姆。",
+          "note": "短语动词“took to”在此处指“开始喜欢、对……产生好感”。后文提到保姆非常“friendly and humorous（友善幽默）”，所以孩子们立马就喜欢上了她。",
+          "concept": "短语动词 Phrasal Verbs",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "took to",
+              "zh": "开始喜欢（指很快对某人产生好感，或喜欢上某项活动）",
+              "eg": "The young kittens took to their new warm home immediately."
+            },
+            {
+              "opt": "2",
+              "word": "took in",
+              "zh": "收留；领会；欺骗（指收容难民，理解课文知识，或被骗子蒙蔽）",
+              "eg": "Do not be taken in by his smooth talk and fake promises."
+            },
+            {
+              "opt": "3",
+              "word": "took up",
+              "zh": "开始从事，占用（指开始学习某种新爱好、乐器，或者占据空间时间）",
+              "eg": "He decided to take up oil painting during his free weekends."
+            },
+            {
+              "opt": "4",
+              "word": "took after",
+              "zh": "长得像（指在长相、性格或言行举止上与家庭长辈相似）",
+              "eg": "The young girl takes after her mother in her love for classical music."
+            }
+          ]
+        },
+        "20": {
+          "zh": "我拒绝在那家商店买文具，因为它的收费价格高得离谱。",
+          "note": "“exorbitant prices”是极具针对性的词汇搭配，意为“高得离谱的价格”。虽然 expensive 也和贵有关，但英语中通常不直接说 expensive prices，而是用 high prices 或 exorbitant prices。",
+          "concept": "词汇搭配 Vocabulary-Collocation",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "excessive",
+              "zh": "过多的，过度的（指数量、速度等超过了合理限度）",
+              "eg": "The teacher complained about the excessive amount of homework."
+            },
+            {
+              "opt": "2",
+              "word": "exorbitant",
+              "zh": "（价格）高得离谱的，过高的（专门修饰价格、收费或租金等，指极其不合理地昂贵）",
+              "eg": "The hotels near the city center charge exorbitant rates during the summer."
+            },
+            {
+              "opt": "3",
+              "word": "expensive",
+              "zh": "昂贵的（形容物品本身价格高，通常不能直接修饰名词 prices 形成 expensive prices）",
+              "eg": "The luxury sports car is far too expensive for me to buy."
+            },
+            {
+              "opt": "4",
+              "word": "exaggerated",
+              "zh": "夸大的，夸张的（指言语、描述或举止言过其实，扩大了事实）",
+              "eg": "The newspaper reports gave an exaggerated account of the small fire."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {},
+      "passages": {
+        "cloze": [
+          "This is a [Q16 (prototype)] paragraph for vocabulary cloze."
+        ],
+        "zh": [
+          "这是词汇填空示例段落。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "According to the visual text, the main purpose is to ________.",
+          "marks": 1,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Option 1",
+            "2": "Option 2",
+            "3": "Option 3",
+            "4": "Option 4"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "21": {
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "concept": "Prototype",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "31": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "39": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "31": {
+          "concept": "介词搭配（动介固定搭配）",
+          "note": "‘adapt to...’ 是固定动词短语搭配，意为‘适应……’（此处表示适应它的生存环境）。",
+          "answer": "N"
+        },
+        "32": {
+          "concept": "动词时态与主谓一致（一般现在时单数）",
+          "note": "本句核心主语是单数形式的名词短语 ‘One of its most distinguishing features’（它最显著的特征之一），全篇是在客观陈述动物生理常识，故系动词选用 is。",
+          "answer": "F"
+        },
+        "33": {
+          "concept": "并列连词/副词（部分倒装关联搭配）",
+          "note": "‘Not only is it long, but... as well / also...’ 构成固定倒装句关联结构 ‘Not only... but also...’（通过否定词 Not 提前引起了部分倒装），意为‘它（尾巴）不仅长，而且……’。",
+          "answer": "J"
+        },
+        "34": {
+          "concept": "介词惯用法（By引导方式状语）",
+          "note": "‘By wrapping itself...’ 介词 by 接动名词短语，在句中作方式状语，意为‘通过用它那厚实的尾巴包裹住自己，雪豹以此来保持温暖’。",
+          "answer": "B"
+        },
+        "35": {
+          "concept": "连词用法（句子插入语递进关系）",
+          "note": "‘Moreover, the snow leopard’s tail helps it...’，副词 moreover 位于句首作整个分句的插入语，表示并列递进关系，意为‘此外/再者，雪豹的尾巴还有助于它在移动时更好地保持自身平衡’。",
+          "answer": "H"
+        },
+        "36": {
+          "concept": "动词时态与主谓一致（助动词构成一般现在时否定）",
+          "note": "‘walking on such rough terrain does not pose...’，本句的核心主语为动名词短语 walking...（走在如此崎岖的地形上），属于单数第三人称概念，后面的谓语动词为原形 pose，故其前需选用单数助动词 does 来构成否定式。",
+          "answer": "C"
+        },
+        "37": {
+          "concept": "代词（指示代词指代前文复数名词）",
+          "note": "‘These help it to grip...’，指示代词 these 用来特指和指代前文提到的复数概念 ‘its huge, furry paws’（它巨大且多毛的脚掌），作主语意为‘这些可以帮助它抓稳滑溜溜的岩石’。",
+          "answer": "M"
+        },
+        "38": {
+          "concept": "介词搭配（动短语固定搭配）",
+          "note": "‘blend in with...’ 是固定三词短语，意为‘与……融为一体’、‘与……相协调/隐蔽’。",
+          "answer": "Q"
+        },
+        "39": {
+          "concept": "介词/副词搭配（固定对比结构）",
+          "note": "‘run away instead of protecting...’ 构成固定介词短语 instead of，后面接动名词短语，意为‘而是会选择逃跑，而不是去保护它的进食地点’。",
+          "answer": "G"
+        },
+        "40": {
+          "concept": "限定词/数量词（修饰可数名词复数）",
+          "note": "‘Though there are few reports...’，数量修饰词 few 修饰后面的可数名词复数 reports，结合后文的 but（但它们在受到威胁时仍具有攻击性）可知，此处表示否定倾向的“几乎没有/极少有关于雪豹袭击人类的报道”。",
+          "answer": "D"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "are",
+          "B": "by",
+          "C": "does",
+          "D": "few",
+          "E": "however",
+          "F": "is",
+          "G": "many",
+          "H": "moreover",
+          "J": "not",
+          "K": "of",
+          "L": "on",
+          "M": "these",
+          "N": "to",
+          "P": "which",
+          "Q": "with"
+        },
+        "cloze": [
+          "The snow leopard lives in the cold mountainous areas of Central Asia. Its habitat spans countries such as China, Nepal and Pakistan. The physical features of the snow leopard enable it to adapt well [Q31] its environment. One of its most distinguishing features [Q32] probably its tail, which is approximately one metre long. [Q33] only is it long, but the tail is also furry and thick because of the large amounts of fats stored in it. [Q34] wrapping itself with its thick tail, the snow leopard keeps itself warm. [Q35], the snow leopard's tail helps it to better balance itself when moving in steep, rocky areas.",
+          "Another reason why walking on such rough terrain [Q36] not pose difficulties to a snow leopard is its huge, furry paws. [Q37] help it to grip on to slippery rocks.",
+          "As for the fur of a snow leopard, it is usually ash grey or yellow, which helps it to camouflage itself and blend in [Q38] its surroundings.",
+          "Snow leopards generally avoid humans. A snow leopard which is disturbed when it is feeding would typically choose to run away instead [Q39] protecting its feeding site. Though there are [Q40] reports of snow leopards attacking humans, they could still become aggressive when threatened. For example, if a female snow leopard feels that the safety of her cubs is threatened, she could attack."
+        ],
+        "zh": [
+          "雪豹生活在中亚寒冷的山区。它们的栖息地跨越中国、尼泊尔和巴基斯坦等国家。雪豹的身体特征使它能够很好地适应其生存环境。它最显著的特征之一可能就是它的尾巴，长约一米。它的尾巴不仅长，而且由于里面储存了大量的脂肪，所以毛茸茸且十分厚实。通过用它那厚实的尾巴包裹住自己，雪豹以此来保持温暖。此外，雪豹的尾巴还有助于它在陡峭、多岩石的区域移动时更好地保持自身平衡。",
+          "走在如此崎岖的地形上不会对雪豹造成困难的另一个原因，是它那巨大且多毛的脚掌。这些可以帮助它抓稳滑溜溜的岩石。",
+          "至于雪豹的毛发，通常是灰烬色（浅灰色）或黄色，这有助于它伪装自己并与周围环境融为一体。",
+          "雪豹通常避开人类。一只在进食时受到惊扰的雪豹，通常会选择逃跑，而不是去保护它的进食地点。虽然极少有关于雪豹袭击人类的报道，但它们在受到威胁时仍会变得具有攻击性。例如，如果一只母雪豹觉得她幼崽的安全受到了威胁，她就可能会发起攻击。"
+        ]
+      }
+    },
+    "106": {
+      "questions": {
+        "41": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "answers": {
+        "41": {
+          "concept": "动名词 - Gerunds",
+          "note": "动词固定搭配：短语 look forward to 中的 to 是介词，后面需接动名词作宾语，因此 works 应改为 working。",
+          "answer": "working"
+        },
+        "42": {
+          "concept": "现在分词/动名词 - Gerunds",
+          "note": "词性与搭配错误：在介词 After 后面充当宾语，应用动名词形式 hesitating（犹豫），而非其形容词原形 hesitant。",
+          "answer": "hesitating"
+        },
+        "43": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 creative（形容词，意为有创造力的）。",
+          "answer": "creative"
+        },
+        "44": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 Motivated（过去分词作状语，意为受到激励的、被推动的）。",
+          "answer": "Motivated"
+        },
+        "45": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 purpose（名词，意为目的、意图）。",
+          "answer": "purpose"
+        },
+        "46": {
+          "concept": "动词原形平行结构 - Parallel Structure",
+          "note": "平行结构：与并列连词 and secondly 后面的 allow（动词原形）保持一致，此处作不定式 to 后的并列成分，encouraging 必须使用动词原形 encourage。",
+          "answer": "encourage"
+        },
+        "47": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 company（名词，意为陪伴）。",
+          "answer": "company"
+        },
+        "48": {
+          "concept": "介词搭配 - Prepositions",
+          "note": "介词固定搭配：“立刻、马上”应使用固定短语 In no time，而非 In none time。",
+          "answer": "no"
+        },
+        "49": {
+          "concept": "单词拼写 - Spelling",
+          "note": "拼写错误：正确拼写为 reputation（名词，意为声誉、名声）。",
+          "answer": "reputation"
+        },
+        "50": {
+          "concept": "形容词 - Adjectives",
+          "note": "词性与平行结构：与连词 and 前面的形容词 patient 保持一致，修饰名词 teacher 应用其形容词形式 committed（有奉献精神的、尽职尽责的），而非名词 commitment。",
+          "answer": "committed"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Vera loved pottery. She often looked forward to [Q41(works)] the clay into objects of different shapes and sizes. Vera used to feel that she was not artistic enough. After [Q42(hesitant)] for some time, Vera finally decided to take up pottery as a hobby. On looking back, Vera was glad she did because she discovered that she was quite [Q43(creatiff)] after all. In fact, her friends found her so talented that they suggested Vera give pottery lessons.",
+          "[Q44(Moteevaited)] by the idea, Vera was soon giving pottery lessons for free to children and their parents. Her [Q45(purpers)] of giving such lessons was firstly, to [Q46(encouraging)] an interest in pottery, and secondly, to allow children to enjoy their parents' [Q47(kampanee)] as they made pottery together.",
+          "In [Q48(none)] time, the number of her students increased as Vera gained the [Q49(raputasion)] of being a patient and [Q50(commitment)] pottery teacher. Teaching pottery became Vera's passion."
+        ],
+        "zh": [
+          "薇拉热爱陶艺。她常常期待着将黏土捏成不同形状和大小的器物。薇拉以前总觉得自己不够有艺术细胞。在犹豫了一段时间后，薇拉终于决定把陶艺作为一种爱好。现在回想起来，薇拉很高兴自己做出了这个选择，因为她发现自己其实还是挺有创造力的。事实上，她的朋友们觉得她非常有天赋，甚至建议薇拉去开班授课。",
+          "受到这个想法的激励，薇拉很快就开始向孩子们和他们的家长免费提供陶艺课。她开设这些课程的目的，首先是为了激发大家对陶艺的兴趣，其次是为了让孩子们在和父母一起制作陶艺的过程中享受父母的陪伴。",
+          "没过多久，随着薇拉赢得了耐心且尽职尽责的陶艺老师的美誉，她的学生数量增加了。教授陶艺成了薇拉的热情所在。"
+        ]
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": 1,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Prototype comprehension cloze: The sun rose [Q51] the horizon."
+        ],
+        "zh": [
+          "示例完形填空段落。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "Prototype",
+          "note": "Prototype blank.",
+          "answer": "(TBD)"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "The prince disguised himself and was able to slip out of the palace.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ by __________ ."
+        },
+        "67": {
+          "stem_plain": "When my sister won the award, she wept with joy.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ on __________ ."
+        },
+        "68": {
+          "stem_plain": "\"You have to finish your homework before you can play,\" Uncle Johari said to me.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Uncle Johari said to me that __________ ."
+        },
+        "69": {
+          "stem_plain": "The footballers trained for the match. They did so enthusiastically.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "It was with __________ ."
+        },
+        "70": {
+          "stem_plain": "The book was popular. Therefore, it sold millions of copies.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ because of its __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "介词后接动名词 — 方式状语 'by doing'",
+          "note": "句式改写：介词 by 后面接动名词短语 disguising himself 充当方式状语，前面承接结果主句。",
+          "zh": "王子通过伪装自己得以溜出皇宫。",
+          "answer": "The prince was able to slip out of the palace by disguising himself."
+        },
+        "67": {
+          "concept": "时间状语短语 — 介词短语 'on doing' 结构",
+          "zh": "我姐姐一赢得这个奖项，就流下了激动的泪水。",
+          "note": "综合改写：介词 on (或 upon) 后面接动名词可以表示“一……就……”，替代原句由 when 引导的时间状语从句。",
+          "answer": "My sister wept with joy on winning the award."
+        },
+        "68": {
+          "concept": "间接引语 — 宾语从句的人称与时态转换",
+          "zh": "乔哈里叔叔对我说，我必须先完成作业才能去玩。",
+          "note": "间接引语：由 that 引导陈述句转换的宾语从句。人称 you 变为 I，your 变为 my；时态由 have 变为 had，can 变为 could。",
+          "answer": "Uncle Johari said to me that I had to finish my homework before I could play."
+        },
+        "69": {
+          "concept": "强调句型 — 结合介词短语 'with + N'",
+          "zh": "足球运动员们满怀热情地为比赛进行训练。",
+          "note": "强调句：利用 It was... that... 强调状语部分。需要将副词 enthusiastically 转换为名词 enthusiasm，构成 with enthusiasm 短语。",
+          "answer": "It was with enthusiasm that the footballers trained for the match."
+        },
+        "70": {
+          "concept": "词性转换与原因短语 — 形容词变名词 'popularity'",
+          "zh": "由于其受欢迎程度，这本书售出了数百万册。",
+          "note": "综合改写：主句使用后半句。同时，由于 because of its 后面需要接名词，必须将形容词 popular 转换为名词 popularity。",
+          "answer": "The book sold millions of copies because of its popularity."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "Why did the writer feel happy? (1 mark)",
+          "marks": 1,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "lines": {
+          "1": "This is a prototype open-ended passage.",
+          "2": "Replace with numbered booklet text when ready."
+        },
+        "paragraphs": {
+          "1": "这是开放式阅读示例段落。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "Prototype",
+          "note": "<p><em>Prototype paper — replace stems, passages, and teaching copy when content is ready.</em></p>",
+          "answer": "(TBD)",
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "swriting.jpeg",
+        "task": [
+          "Imagine you are Mary, the president of the club.",
+          "**Write an email to Mrs Choo to request her help.**",
+          "You are to refer to the information on page 4 for your email."
+        ],
+        "info": [
+          "which club you belong to",
+          "the purpose of the camp",
+          "when and where the camp will be held",
+          "what specific help you need from Mrs Choo",
+          "when Mrs Choo needs to reply to you"
+        ],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [
+          "Dear Mrs Choo",
+          "I am Mary Tan, the president of the Sunny Club. I am writing this email as I need some help from you and hope you will be able to assist us.",
+          "My club is organising a camp for members to cultivate a love for the outdoors. It will be held on 15 and 16 November at Lagoon Park. We need to purchase caps for our camp activities and hope you will be able to get them at a good price for us.",
+          "I would appreciate it if you could get back to me by 7 October. I look forward to your favourable reply.",
+          "Yours sincerely\nMary"
+        ],
+        "markdown": [
+          "这篇关于向 Mrs Choo 寻求营会协助的正式信函（Situational Writing）是一篇结构严谨、要点准确且完全符合官方给分标准的 PSLE 实用文体优秀范文。主要亮点与得分深度解析如下：",
+          "### 1. 任务完全达标与信息精准提取 (Complete Task Fulfillment)\n* **所有核心要点无缝覆盖**：\n  * **写信人身份与所属社团**：开篇第一句明确点出自己是 Mary Tan 以及 “the president of the Sunny Club”，完美满足身份与社团要求。\n  * **营会目的**：清晰阐述是为了让会员们“培养对大自然的热爱”（“cultivate a love for the outdoors”）。\n  * **营会时间和地点**：准确整合了时间（15 and 16 November）与地点（Lagoon Park）。\n  * **具体协助事项**：明确提出需要 Mrs Choo 帮忙以优惠的价格采购营会活动所需的帽子（“purchase caps... get them at a good price”）。\n  * **回复截止日期**：最后一段明确给出了具体期限（“get back to me by 7 October”）。",
+          "### 2. 格式与语体语调完全合规 (Appropriate Formal Register & Tone)\n* **完美契合正式书信语体**：作为学生领袖写给老师/长辈（Mrs Choo）的信件，文章摒弃了任何口语化的缩写（如使用 `I am` 而非 `I'm`）。\n* **礼貌且尊重的行政语气**：在请求帮助时，作者使用了 `\"hope you will be able to assist us\"` 和 `\"I would appreciate it if...\"`。这种委婉且极具修养的句式是 PSLE 实用文写作中拿满语体分（Tone & Register）的核心关键。",
+          "### 3. 词汇表达地道精准 (Precise & Targeted Vocabulary)\n* 文本中展现了非常扎实的语言应用功底：\n  * 动词短语 `\"cultivate a love for...\"`（培养对……的热爱）远比简单的 `\"like\"` 或 `\"enjoy\"` 更具书面质感。\n  * 结尾段使用的 `\"favourable reply\"`（令人满意的答复）是标准且高级的正式书信结语，能给阅卷老师留下极佳的专业印象。",
+          "### 4. 备考微调建议 (🚨 针对最新考纲的避坑指南)\n* **注意标点规范**：开头的 `Dear Mrs Choo` 和结尾的 `Yours sincerely` 后面如果能加上**逗号**（`,`），在书写细节上会更加尽善尽美。\n* **考纲变化提醒**：在最新的 PSLE 考纲要求下，诸如“具体协助事项”这一类要点，有时需要学生**根据上下文逻辑自主补充一个合理的细节或原因**（例如：说明为什么需要找 Mrs Choo 帮忙，是因为她认识批发商，还是她擅长手工艺）。本篇范文给出的“帮忙拿个好价格（get them at a good price）”就是一个非常符合新考纲思维的、符合生活常理的合理补充细节。"
+        ]
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "cwriting.jpeg",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

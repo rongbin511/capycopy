@@ -1,0 +1,1590 @@
+{
+  "paperid": "p6_english_2023_sa2_nanyang",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "\"If only I ________ more time to study for the exam,\" said Michelle. \"I would have done better.\"",
+          "options": {
+            "1": "had",
+            "2": "have",
+            "3": "will have",
+            "4": "would have"
+          }
+        },
+        "2": {
+          "stem_plain": "Some of the rubbish is recycled, but ________ of it goes to the landfill sites.",
+          "options": {
+            "1": "any",
+            "2": "many",
+            "3": "much",
+            "4": "a few"
+          }
+        },
+        "3": {
+          "stem_plain": "A few dollars ________ all he had left in his wallet.",
+          "options": {
+            "1": "is",
+            "2": "are",
+            "3": "was",
+            "4": "were"
+          }
+        },
+        "4": {
+          "stem_plain": "Neither Henry nor Arthur felt pleased with ________ for failing to meet the project's deadline.",
+          "options": {
+            "1": "himself",
+            "2": "yourself",
+            "3": "ourselves",
+            "4": "themselves"
+          }
+        },
+        "5": {
+          "stem_plain": "________ the project on time is important. We need to also make sure the quality is not compromised.",
+          "options": {
+            "1": "Deliver",
+            "2": "Delivering",
+            "3": "To deliver",
+            "4": "Having delivered"
+          }
+        },
+        "6": {
+          "stem_plain": "The students were confused ________ the teacher explained the concept using drawings and diagrams, helping them clarify their understanding.",
+          "options": {
+            "1": "until",
+            "2": "after",
+            "3": "since",
+            "4": "while"
+          }
+        },
+        "7": {
+          "stem_plain": "While I was walking in the park, I saw a group of teenagers ________ around a tree.",
+          "options": {
+            "1": "sat",
+            "2": "sitting",
+            "3": "was sitting",
+            "4": "were sitting"
+          }
+        },
+        "8": {
+          "stem_plain": "________ anyone attend the event or is it just for registered participants?",
+          "options": {
+            "1": "Will",
+            "2": "Can",
+            "3": "Must",
+            "4": "Could"
+          }
+        },
+        "9": {
+          "stem_plain": "The unsinkable ship, Titanic, sank in 1912 ________ its maiden voyage.",
+          "options": {
+            "1": "at",
+            "2": "in",
+            "3": "on",
+            "4": "while"
+          }
+        },
+        "10": {
+          "stem_plain": "As far as I know, Alex hates basketball and never plays it, ________?",
+          "options": {
+            "1": "will he",
+            "2": "has he",
+            "3": "does he",
+            "4": "didn't he"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "虚拟语气 — Third conditional (If only)",
+          "zh": "米歇尔说：'要是我当时有多一点时间复习考试就好了，我本会考得更好。'",
+          "note": "应选（1）had：If only 引出的与过去事实相反的愿望，从句用过去完成时 had had。have 为现在；will have 将来；would have 不能放在 if only 从句中作此用法。",
+          "answer": "1"
+        },
+        "2": {
+          "concept": "不可数名词 — much（大部分）",
+          "zh": "部分垃圾会回收，但大部分仍送往填埋场。",
+          "note": "应选（3）much：rubbish 不可数，表'大部分'用 much of it。many/a few 修饰可数复数；any 不能表达'大部分'之意。",
+          "answer": "3"
+        },
+        "3": {
+          "concept": "主谓一致 — Singular sum (was)",
+          "zh": "他钱包里只剩下几块钱了。",
+          "note": "应选（3）was：主语 a few dollars 作整体金额，谓语用单数 was。are/were 把'几元'当多个个体，不合此句'全部家当'之意。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "反身代词 — himself (neither … nor)",
+          "zh": "亨利和亚瑟都因未能按时完成项目而对自己感到不满。",
+          "note": "应选（1）himself：与 nor 后较近主语 Henry 呼应。themselves 用于复数主语；yourself/ourselves 人称不对。",
+          "answer": "1"
+        },
+        "5": {
+          "concept": "动名词 — Gerund as subject",
+          "zh": "按时完成项目很重要；我们还须确保质量不打折扣。",
+          "note": "应选（2）Delivering：句首主语须用动名词 delivering。Deliver 为动词原形不能作主语；To deliver 不定式作主语此处不自然。",
+          "answer": "2"
+        },
+        "6": {
+          "concept": "连词 — until（直到）",
+          "zh": "学生们一直困惑，直到老师用图画讲解概念，他们才弄清。",
+          "note": "应选（1）until：困惑持续到老师解释为止。after 表示'解释之后仍困惑'，与 helping them clarify 矛盾。",
+          "answer": "1"
+        },
+        "7": {
+          "concept": "感官动词 — see + object + -ing",
+          "zh": "我在公园散步时，看见一群青少年围坐在树旁。",
+          "note": "应选（2）sitting：see + 宾语 + 现在分词表进行中的动作。sat 为过去式不能接在 saw 后；was/were sitting 结构错误。",
+          "answer": "2"
+        },
+        "8": {
+          "concept": "情态动词 — Can（能否）",
+          "zh": "任何人都能参加这次活动吗，还是仅限已报名者？",
+          "note": "应选（2）Can：询问'是否允许任何人参加'。Will 表将来；Must 表必须；Could 虽可表礼貌，此处标准问法用 Can。",
+          "answer": "2"
+        },
+        "9": {
+          "concept": "介词 — on maiden voyage",
+          "zh": "'不沉'的泰坦尼克号在 1912 年首航时沉没。",
+          "note": "应选（3）on：on one's maiden voyage 为固定搭配'在首航中'。at/in 不与 maiden voyage 搭配；while 后须接从句。",
+          "answer": "3"
+        },
+        "10": {
+          "concept": "反意疑问句 — Negative statement tag",
+          "zh": "据我所知，亚历克斯讨厌篮球且从不打，不是吗？",
+          "note": "应选（3）does he：陈述含 never 表否定，附加问句用肯定形式 does he。will/he has 助动词不对；didn't he 极性错误。",
+          "answer": "3"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "Serena was not feeling well, so she was ________ to go to the class party.",
+          "options": {
+            "1": "reliant",
+            "2": "reluctant",
+            "3": "resistant",
+            "4": "receptive"
+          }
+        },
+        "12": {
+          "stem_plain": "Miss Tan scolded Eason for leaving the classroom without her ________.",
+          "options": {
+            "1": "consent",
+            "2": "contempt",
+            "3": "consensus",
+            "4": "concession"
+          }
+        },
+        "13": {
+          "stem_plain": "The motivational speaker was able to ________ powerful emotions from her audience.",
+          "options": {
+            "1": "evict",
+            "2": "incur",
+            "3": "imply",
+            "4": "evoke"
+          }
+        },
+        "14": {
+          "stem_plain": "The pace of technology is advancing so quickly that it is hard to ________ all the latest developments.",
+          "options": {
+            "1": "put off",
+            "2": "take up with",
+            "3": "keep up with",
+            "4": "look forward to"
+          }
+        },
+        "15": {
+          "stem_plain": "\"We need to be very careful when handling this delicate equipment as it is highly ________ to damage,\" the teacher told her class.",
+          "options": {
+            "1": "hard",
+            "2": "sensitive",
+            "3": "opposed",
+            "4": "susceptible"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "瑟琳娜身体不适，因而不愿去参加班级聚会。",
+          "note": "应选（2）reluctant：身体不适所以'不情愿'赴会。排除（1）reliant义为'依赖'；（3）resistant义为'抗拒'，非'不想去'；（4）receptive义为'乐于接受'，与句意相反。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "reliant",
+              "zh": "依赖的；依靠的",
+              "eg": "Young children are <strong>reliant</strong> on their parents for food and shelter."
+            },
+            {
+              "opt": "2",
+              "word": "reluctant",
+              "zh": "不情愿的；勉强的",
+              "eg": "Serena was <strong>reluctant</strong> to go to the party because she had a fever."
+            },
+            {
+              "opt": "3",
+              "word": "resistant",
+              "zh": "抗拒的；有抵抗力的",
+              "eg": "In her composition, Mei Ling showed how the word <strong>resistant</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "4",
+              "word": "receptive",
+              "zh": "乐于接受的；善领会的",
+              "eg": "She is always <strong>receptive</strong> to feedback from her older sister."
+            }
+          ]
+        },
+        "12": {
+          "zh": "陈老师责备伊森未经她同意就离开教室。",
+          "note": "应选（1）consent：未经'许可'离班。排除（2）contempt义为'蔑视'；（3）consensus义为'共识'；（4）concession义为'让步'。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "consent",
+              "zh": "同意；许可",
+              "eg": "You may not use the lab without the teacher's <strong>consent</strong>."
+            },
+            {
+              "opt": "2",
+              "word": "contempt",
+              "zh": "蔑视；轻视",
+              "eg": "In her composition, Mei Ling showed how the word <strong>contempt</strong> can change the tone of a paragraph."
+            },
+            {
+              "opt": "3",
+              "word": "consensus",
+              "zh": "共识；一致意见",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>consensus</strong> when reading historical plaques."
+            },
+            {
+              "opt": "4",
+              "word": "concession",
+              "zh": "让步；妥协",
+              "eg": "After the experiment, the science teacher asked us to use <strong>concession</strong> in a complete sentence of our own."
+            }
+          ]
+        },
+        "13": {
+          "zh": "那位励志演讲者能够唤起听众强烈的情感。",
+          "note": "应选（4）evoke：从听众'唤起'情感。排除（1）evict义为'驱逐'；（2）incur义为'招致'；（3）imply义为'暗示'。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "evict",
+              "zh": "驱逐；赶出",
+              "eg": "The landlord tried to <strong>evict</strong> the tenants for not paying rent."
+            },
+            {
+              "opt": "2",
+              "word": "incur",
+              "zh": "招致；蒙受",
+              "eg": "The tour guide explained that visitors should remember the phrase <strong>incur</strong> when reading historical plaques."
+            },
+            {
+              "opt": "3",
+              "word": "imply",
+              "zh": "暗示；意味着",
+              "eg": "After the experiment, the science teacher asked us to use <strong>imply</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "4",
+              "word": "evoke",
+              "zh": "唤起；引起",
+              "eg": "The motivational speaker was able to <strong>evoke</strong> powerful emotions from her audience."
+            }
+          ]
+        },
+        "14": {
+          "zh": "科技发展太快，很难跟上所有最新进展。",
+          "note": "应选（3）keep up with：难以'跟上'新发展。排除（1）put off义为'推迟'；（2）take up with非本句搭配；（4）look forward to义为'期待'。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "put off",
+              "zh": "推迟；使反感",
+              "eg": "Do not <strong>put off</strong> your revision until the night before the exam."
+            },
+            {
+              "opt": "2",
+              "word": "take up with",
+              "zh": "与…结交；从事",
+              "eg": "He <strong>took up with</strong> a group of artists after moving to Paris."
+            },
+            {
+              "opt": "3",
+              "word": "keep up with",
+              "zh": "跟上；不落后",
+              "eg": "It is hard to <strong>keep up with</strong> all the latest apps on your phone."
+            },
+            {
+              "opt": "4",
+              "word": "look forward to",
+              "zh": "期待",
+              "eg": "During morning assembly, our principal used <strong>look forward to</strong> in a sentence about teamwork and responsibility."
+            }
+          ]
+        },
+        "15": {
+          "zh": "我们搬动这件精密设备时要非常小心，因为它极易受损。",
+          "note": "应选（4）susceptible：精密器材'易受'损坏。排除（1）hard义为'坚硬'；（2）sensitive虽近义，但 susceptible to damage 为固定搭配；（3）opposed义为'反对'。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "hard",
+              "zh": "坚硬的；困难的",
+              "eg": "After the experiment, the science teacher asked us to use <strong>hard</strong> in a complete sentence of our own."
+            },
+            {
+              "opt": "2",
+              "word": "sensitive",
+              "zh": "敏感的；灵敏的",
+              "eg": "He is <strong>sensitive</strong> to bright lights, so he keeps the curtains drawn."
+            },
+            {
+              "opt": "3",
+              "word": "opposed",
+              "zh": "反对的；对立的",
+              "eg": "During morning assembly, our principal used <strong>opposed</strong> in a sentence about teamwork and responsibility."
+            },
+            {
+              "opt": "4",
+              "word": "susceptible",
+              "zh": "易受…影响的；易感的",
+              "eg": "\"We need to be very careful when handling this delicate equipment as it is highly <strong>susceptible</strong> to damage,\" the teacher told her class."
+            }
+          ]
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "cherished",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "ignored",
+            "2": "admired",
+            "3": "treasured",
+            "4": "remembered"
+          }
+        },
+        "17": {
+          "stem_plain": "vintage",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "old",
+            "2": "artistic",
+            "3": "printed",
+            "4": "modern"
+          }
+        },
+        "18": {
+          "stem_plain": "perusing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "keeping",
+            "2": "discussing",
+            "3": "sorting out",
+            "4": "poring over"
+          }
+        },
+        "19": {
+          "stem_plain": "enraptured",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "engaged",
+            "2": "enriched",
+            "3": "enthused",
+            "4": "enthralled"
+          }
+        },
+        "20": {
+          "stem_plain": "proposed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "presented",
+            "2": "suggested",
+            "3": "figured out",
+            "4": "pointed out"
+          }
+        }
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — cherished（珍视/珍爱）",
+          "note": "动词 cherished 意为珍视、珍爱（常指长期保留的宝贵情感或时光）。动词 treasured 意为把……视作珍宝、珍藏，在形容对待珍贵回忆的态度时，与 cherished 互为精确同义词。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "ignored",
+              "zh": "忽视，不理睬",
+              "eg": "The pedestrian obliviously ignored the loud warning signs near the construction gate."
+            },
+            {
+              "opt": "2",
+              "word": "admired",
+              "zh": "赞赏，钦佩，欣赏",
+              "eg": "The school professors are held in high regard and deeply admired by all the pupils."
+            },
+            {
+              "opt": "3",
+              "word": "treasured",
+              "zh": "珍视，珍藏，铭记（核心考点同义词）",
+              "eg": "He treasured the moments spent with his family and always kept their old photograph close."
+            },
+            {
+              "opt": "4",
+              "word": "remembered",
+              "zh": "记得，记起",
+              "eg": "She suddenly remembered that she had left her front door keys on the crowded kitchen counter."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — vintage（古老的/老式的）",
+          "note": "形容词 vintage 意为古老的、老式的、经典的（常形容过去的、高品质的老物件）。在形容历史老照片的完形考查语境下，最直接的基础近义词替换为 old（古老的，老的）。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "old",
+              "zh": "古老的，老式的，陈旧的",
+              "eg": "The museum displayed unique historic artefacts and thousands of old black-and-white photographs."
+            },
+            {
+              "opt": "2",
+              "word": "artistic",
+              "zh": "艺术的，有艺术天赋的",
+              "eg": "The creative layout of the exhibition hall highlighted the artist's brilliant artistic talent."
+            },
+            {
+              "opt": "3",
+              "word": "printed",
+              "zh": "印刷的，印好的（作过去分词/形容词）",
+              "eg": "Please ensure the printed instructions are clear and legible for the technicians to follow."
+            },
+            {
+              "opt": "4",
+              "word": "modern",
+              "zh": "现代的，新式的",
+              "eg": "The newly designed research center features a beautifully sleek and modern architectural structure."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — perusing（仔细阅读/研读）",
+          "note": "现在分词/动词 perusing 意为精读、细看、仔细审阅。这与常考高级短语 poring over（专注于研读、仔细查看）在表示专注且长时间翻看某物的视觉神态上完全对等。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "keeping",
+              "zh": "保持，保留，储存（作现在分词）",
+              "eg": "The lab enforces strict operating policies regarding keeping confidential records inside the basement."
+            },
+            {
+              "opt": "2",
+              "word": "discussing",
+              "zh": "讨论，商讨（作现在分词）",
+              "eg": "The engineering team spent hours discussing the unexpected website server error."
+            },
+            {
+              "opt": "3",
+              "word": "sorting out",
+              "zh": "整理，分类，理清（作现在分词）",
+              "eg": "The assistant spent the morning sorting out the miscellaneous files onto the shelf by date."
+            },
+            {
+              "opt": "4",
+              "word": "poring over",
+              "zh": "仔细研究，精读，凝视查看（核心近义词）",
+              "eg": "The researchers sat comfortably inside the quiet studio, poring over the rare historic texts."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — enraptured（着迷的/狂喜的）",
+          "note": "形容词/过去分词 enraptured 意为狂喜的、被深深吸引的、听得入神的。在描写被精彩故事或宏大场面完全吸引并沉浸其中的心理状态时，高级核心近义词为 enthralled（被迷住的，着迷的，听得入神的）。",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "engaged",
+              "zh": "从事的，忙碌的，订婚的",
+              "eg": "The supervisor remained heavily engaged in finalizing the annual corporate dynamic budget."
+            },
+            {
+              "opt": "2",
+              "word": "enriched",
+              "zh": "丰富的，被充实的（作过去分词/形容词）",
+              "eg": "The primary school science curriculum is uniquely enriched with outdoor training sessions."
+            },
+            {
+              "opt": "3",
+              "word": "enthused",
+              "zh": "满怀热情的，热心的（作过去分词/形容词）",
+              "eg": "The young athletes felt highly enthused about participating in the national super marathon."
+            },
+            {
+              "opt": "4",
+              "word": "enthralled",
+              "zh": "被迷住的，入神的，着迷的（核心近义词）",
+              "eg": "The quiet audience watched in complete wonder, fully enthallled by the dramatic magic show."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — proposed（提议/建议）",
+          "note": "动词 proposed 意为正式提出建议、提议。在非正式交流或一般社交场合提出某个行动想法的逻辑下，它与动词 suggested（建议，提出）属于完全等义的核心替换考点。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "presented",
+              "zh": "呈现，展示，正式赠予",
+              "eg": "The design group confidently presented their breakthrough layout to the panel of independent inspectors."
+            },
+            {
+              "opt": "2",
+              "word": "suggested",
+              "zh": "建议，提出（想法、可能或线索）",
+              "eg": "The coach suggested taking a short tea break before the rigorous chess match began."
+            },
+            {
+              "opt": "3",
+              "word": "figured out",
+              "zh": "想出，解决，弄清（作动词过去式）",
+              "eg": "After half an hour of intense thinking, the pupils successfully figured out the grammar rule."
+            },
+            {
+              "opt": "4",
+              "word": "pointed out",
+              "zh": "指出（事实、错误或方向，作动词过去式）",
+              "eg": "The dynamic editor kindly pointed out a minor spelling error in the final composition draft."
+            }
+          ]
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Jacky loved his grandfather. He [Q16(cherished)] the moments spent with his grandfather and he would often visit him after school. One day, Jacky's grandfather asked him to help sift through his collection of [Q17(vintage)] photographs. As they were [Q18(perusing)] the photographs, Jacky was fascinated by the details he saw and his grandfather would then share stories from his past. Jacky was [Q19(enraptured)] by the tales and asked many questions.",
+          "After a while, Jacky [Q20(proposed)] that they make digital copies of the photographs. \"I think that's a wonderful idea, Jacky,\" said his grandfather. Together, they scanned the pictures and saved them onto a computer. Jacky was happy to help his grandfather preserve such precious memories."
+        ],
+        "zh": [
+          "杰克非常爱他的外公。他十分珍视与外公度过的时光，放学后经常去看望他。一天，杰克的外公请他帮忙整理自己收藏的老照片。当他们正在仔细翻看这些照片时，杰克被他所看到的细节迷住了，他的外公随后分享了过去的往事。杰克被这些故事深深吸引，提出了许多问题。",
+          "过了一会儿，杰克提议把这些照片制作成数码副本。“我觉得这是个绝妙的主意，杰克，”他的外公说。他们一起扫描了照片，并将它们保存在电脑里。杰克很高兴能帮助外公保留如此珍贵的回忆。"
+        ]
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "\"Lion City\" is written in italics to __________.",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "show that it is the name of the author",
+            "2": "show that it is not the actual name of the website",
+            "3": "emphasise that it is another name for Lyon Bird Park",
+            "4": "allow the name of the website to stand out from the surrounding sentence"
+          }
+        },
+        "22": {
+          "stem_plain": "Which of the following is true of the Lyon Bird Park?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Anyone can enjoy the discounted tickets.",
+            "2": "The new bird park will open by Nov 2023.",
+            "3": "It will be renamed as 'Symphony of Birds'.",
+            "4": "It is going to move from its current location in Woodlands."
+          }
+        },
+        "23": {
+          "stem_plain": "For Mr Tan See Seng, what makes it difficult to say goodbye to the existing park?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "the opportunity to look after the birds",
+            "2": "his past experience interacting with visitors",
+            "3": "the potential of what the new park has to offer",
+            "4": "his encounters with the birds at Lyon Bird Park"
+          }
+        },
+        "24": {
+          "stem_plain": "Which part of the Lyon Bird Park would Mrs Jane Tan miss the most?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "the entrance",
+            "2": "the Waterfall Aviary",
+            "3": "the parakeet enclosure",
+            "4": "the landscaping and botanical displays"
+          }
+        },
+        "25": {
+          "stem_plain": "Mr Ahmad, a local resident, is planning to visit the Lyon Bird Park with his wife and three children. Which of the following is **not** true?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "He can only buy a maximum of four discounted tickets.",
+            "2": "He needs to sign up for a free account before buying the tickets.",
+            "3": "After entering the bird park, he and his family members can ride the tram for free.",
+            "4": "He cannot purchase the promotional tickets over the ticketing counter at the bird park."
+          }
+        },
+        "26": {
+          "stem_plain": "Mdm Lim lives near Tuas train station. Which of the following is the fastest way for her to get to Lyon Bird Park?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "take a 10-minute taxi ride to the city",
+            "2": "take a 10-minute bus ride to the CIE",
+            "3": "take bus no. 990 from Tuas train station",
+            "4": "take the North-South train service to Woodlands train station"
+          }
+        },
+        "27": {
+          "stem_plain": "Mr Tanaka, a tourist from Japan, wishes to purchase an adult ticket. How much does it cost?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "$17.55",
+            "2": "$19.00",
+            "3": "$29.00",
+            "4": "$39.00"
+          }
+        },
+        "28": {
+          "stem_plain": "What is the main purpose of this article?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to show readers how to get to the bird park",
+            "2": "to encourage readers to pay a visit to the bird park",
+            "3": "to share more about the bird park's history with readers",
+            "4": "to inform readers how to purchase tickets to the bird park"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "22": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "23": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "24": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "1"
+        },
+        "26": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "3"
+        },
+        "27": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "4"
+        },
+        "28": {
+          "concept": "视觉文本 — visual text MCQ（图文理解）",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "2"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "although",
+          "B": "are",
+          "C": "despite",
+          "D": "has",
+          "E": "have",
+          "F": "into",
+          "G": "its",
+          "H": "on",
+          "J": "of",
+          "K": "than",
+          "L": "that",
+          "M": "their",
+          "N": "were",
+          "P": "when",
+          "Q": "within"
+        },
+        "cloze": [
+          "Have you ever wondered why diamonds are one of the most expensive crystals on earth? To understand why, one needs to delve deeper [Q29] how diamonds are formed. Diamonds are formed deep [Q30] the crust of the earth, which is located more [Q31] 150 kilometres beneath our feet.",
+          "The question is how is it [Q32] diamonds can be mined from the earth's surface [Q33] the fact that they are formed deep below it? Scientists discovered that diamonds [Q34] transported to the surface of the earth by sudden and powerful volcanic eruptions hundreds of millions of years ago.",
+          "[Q35] newly mined from the earth, diamonds look like cloudy rocks. They are made [Q36] carbon which is subjected to extreme heat and pressure before they bond together to form diamonds. The mining of diamonds requires scientific techniques, significant resources and labour. These factors explain why diamonds are truly rare and precious.",
+          "Today, modern technological advances [Q37] enabled scientists to grow diamonds artificially in laboratory conditions. However, real diamonds continue to command a higher value than lab-created ones because of [Q38] rarity and scarcity. As such, owning real diamonds can be seen as a symbol of wealth and prestige."
+        ],
+        "zh": [
+          "你可曾想过钻石为何是地球上最昂贵的晶体之一？要明白原因，须更深入探究钻石如何形成。钻石形成于地壳深处，位置在我们脚下一百五十公里以深。",
+          "问题是：钻石在地下深处形成，又如何能被开采到地表？科学家发现，数亿年前突发而强烈的火山喷发把钻石输送到地表。",
+          "刚从地下采出时，钻石看起来像混浊的岩石。它们由碳构成，经极端高温高压后结合成钻石。开采钻石需要科学方法、大量资源与人力；这些因素说明钻石确实稀有珍贵。",
+          "如今科技进步使科学家能在实验室人工培育钻石，但天然钻石因稀有仍比实验室钻石更值钱，拥有真钻因此被视为财富与地位的象征。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "Grammar cloze blank (29)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "F — into"
+        },
+        "30": {
+          "concept": "Grammar cloze blank (30)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "Q — within"
+        },
+        "31": {
+          "concept": "Grammar cloze blank (31)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "K — than"
+        },
+        "32": {
+          "concept": "Grammar cloze blank (32)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "L — that"
+        },
+        "33": {
+          "concept": "Grammar cloze blank (33)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "C — despite"
+        },
+        "34": {
+          "concept": "Grammar cloze blank (34)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "N — were"
+        },
+        "35": {
+          "concept": "Grammar cloze blank (35)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "P — when"
+        },
+        "36": {
+          "concept": "Grammar cloze blank (36)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "J — of"
+        },
+        "37": {
+          "concept": "Grammar cloze blank (37)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "E — have"
+        },
+        "38": {
+          "concept": "Grammar cloze blank (38)",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "M — their"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Foreign domestic workers have a crucial role to play in Singapore's society. With an [Q39(age)] population and declining birth rate, Singapore increasingly [Q40(rely)] on these workers to help with household chores. [Q41(Since)] they play an important role in our society, they are often treated as if they are [Q42(invizibel)] . Their efforts and contributions are usually overlooked and not [Q43(apreshiated)] enough.",
+          "The lives of foreign domestic helpers [Q44(was)] often fraught with difficulties. [Q45(aside)] having to leave their families to work in a foreign country, they also [Q46(ankounter)] language barriers. It is common for them to feel lonely and homesick. Hence, providing ample [Q47(oporhtunitees)] for them to socialise and engage with one another helps to [Q48(alleviete)] their feelings of loneliness.",
+          "Last year, the Manpower Ministry officially announced that it is compulsory [Q49(to)] employers to give their domestic workers a rest day every month starting from 1 January 2023. This is one [Q50(reconizeing)] important step towards these workers' contribution. After all, they contribute to Singapore's economy and deserve respect and gratitude for their invaluable work."
+        ],
+        "zh": [
+          "外籍女佣在新加坡社会中扮演重要角色。随着人口老龄化与出生率下降，新加坡越来越依赖她们分担家务。尽管她们对社会贡献良多，却常仿佛被当作隐形人，付出与贡献往往被忽视，得不到足够赏识。",
+          "外籍女佣的生活常充满艰辛。除了要离乡背井到国外工作，她们还要面对语言障碍。孤独与思乡很常见。因此，让她们有充足机会社交、彼此交流，有助于缓解孤独感。",
+          "去年，人力部正式宣布，自2023年1月起，雇主必须每月给家佣一天休息日。这是迈向承认她们贡献的重要一步。毕竟她们为新加坡经济出力，理应得到尊重与感激，感谢她们无价的工作。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "ageing / aging"
+        },
+        "40": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "relies"
+        },
+        "41": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "Although / While / Though"
+        },
+        "42": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "invisible"
+        },
+        "43": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "appreciated"
+        },
+        "44": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "are"
+        },
+        "45": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "behind"
+        },
+        "46": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "encounter"
+        },
+        "47": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "opportunities"
+        },
+        "48": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "alleviate"
+        },
+        "49": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "for"
+        },
+        "50": {
+          "concept": "",
+          "note": "<p><em>Add explanation from the official key or teaching notes.</em></p>",
+          "answer": "recognising / recognizing"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The lion dance originated from China more than 1,000 years ago. It is performed during auspicious occasions, [Q51] as the launch of new businesses and the opening of a new store for it is believed to [Q52] in good fortune and drive away evil spirits. The lion dance is performed [Q53] the Chinese New Year period because of its [Q54] with Nian, a ferocious beast that was chased [Q55] by villagers. Different variations of the story of Nian provided some clues to the origins of the lion dance.",
+          "[Q56] to one legend, on the eve of every Chinese New Year, an unknown animal would destroy the crops and animals that [Q57] to the farmers of a village in China. Unable to [Q58] what beast it was, the villagers named it Nian, which means \"year\" in Chinese. To put a stop to the [Q59], the villagers made a model of Nian out of bamboo and paper. The model, [Q60] movements were manipulated by two men, 'pranced' around. Coupled with the deafening beating of pots and pans, Nian was driven away in fear.",
+          "Based on [Q61] version of this legend, the villagers made a model of a lion [Q62] discovering that Nian was afraid of lions. This was accompanied [Q63] thundering explosions from firecrackers set off by the villagers. As a result of their actions, they [Q64] in driving Nian away.",
+          "Since then, the lion dance is performed annually on Chinese New Year with musical [Q65] like drums, cymbals and gongs. Nowadays, the lion dance is performed not only during Chinese New Year, but also for opening ceremonies, the welcoming of dignitaries and other auspicious occasions."
+        ],
+        "zh": [
+          "舞狮起源于一千多年前的中国。人们会在新企业成立和新店铺开张等吉祥场合进行舞狮表演，因为人们相信它能带来好运并驱除邪灵。在农历新年期间也会进行舞狮表演，这是因为它与“年”有关——“年”是一种被村民们赶走的凶猛野兽。关于“年”的故事的不同版本，为舞狮的起源提供了一些线索。",
+          "根据一个传说，在每年农历新年的除夕夜，一种未知的动物都会破坏中国一个村庄里属于农民的庄稼和牲畜。由于无法弄清那是什么野兽，村民们给它取名叫“年”，在中文里就是“岁”的意思。为了阻止这种破坏行为，村民们用竹子和纸做了一个“年”的模型。这个模型由两个人控制其动作，在周围“腾跃”。再加上锅碗瓢盆震耳欲聋敲击声，“年”在恐惧中被赶走了。",
+          "根据该传说的另一个版本，村民们在发现“年”害怕狮子后，做了一个狮子的模型。与此同时，村民们还燃放了发出雷鸣般爆炸声的鞭炮。由于他们的这些行动，他们成功地把“年”赶走了。",
+          "从那时起，每年农历新年都会举行舞狮表演，并配以鼓、钹、锣等乐器伴奏。如今，舞狮不仅在农历新年期间表演，还在开幕式、迎接贵宾和其他吉祥场合举行。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "举例引导词固定搭配",
+          "note": "与后面的 as 完美组合，构成最经典的举例固定标记语 such as，用于引出新公司成立和新店开张等具体的吉祥场合例子。",
+          "answer": "such"
+        },
+        "52": {
+          "concept": "动词与介词固定搭配",
+          "note": "不定式符号 to 后接动词原形。与后面的介词短语 in good fortune（好运）搭配，指人们相信舞狮能够把好运“带来”或“迎来”，构成 bring in 或者是 usher in 结构。",
+          "answer": "bring/usher"
+        },
+        "53": {
+          "concept": "时间段范围介词",
+          "note": "后接一段时间名词 the Chinese New Year period（农历新年期间）。填入表示特定时间段的介词 during（在……期间）或 throughout（贯穿/在整个……期间）。",
+          "answer": "during/throughout"
+        },
+        "54": {
+          "concept": "名词与介词特定搭配",
+          "note": "由形容词性物主代词 its 修饰，后接介词短语 with Nian。用来形容农历新年舞狮的原因是因为它与年兽之间存在着的“联系”、“关联”或“渊源”（association / connection / connections）。",
+          "answer": "association/connection/connections"
+        },
+        "55": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词过去分词形式 chased 完美组合。构成形容驱逐、赶走含义的特定高频短语动词 chase away、chase off 或者是 chase out，表示年兽被村民们“赶跑”了。",
+          "answer": "away/off/out"
+        },
+        "56": {
+          "concept": "固定习惯搭配",
+          "note": "后接介词短语 to one legend。属于极其高频的传统故事及科普文开头引入句式 According to...，意为“根据一个传说记载”。位于句首需大写。",
+          "answer": "According"
+        },
+        "57": {
+          "concept": "一般过去时动词与介词搭配",
+          "note": "定语从句修饰先行词 crops and animals（农作物和牲畜）。后接介词短语 to the farmers，且叙述古代传说的历史背景。填入一般过去时动词 belonged，构成 belong to 结构，表示这些“属于”村里农夫的财产被毁了。",
+          "answer": "belonged"
+        },
+        "58": {
+          "concept": "动词与宾语从句搭配",
+          "note": "不定式符号 to 后接动词原形。后接 what beast it was 引导的宾语从句，指村民们当时无法“辨认”、“判定”或“弄清”这究竟是一只什么野兽，故填 identify / determine / discover。",
+          "answer": "identify/determine/discover"
+        },
+        "59": {
+          "concept": "名词语意与前文呼应",
+          "note": "由定冠词 the 修饰。前文提到年兽会毁坏（destroy）庄稼和牲畜，此处填入对应名词，指村民为了彻底制止这种“破坏”、“蹂躏”、“灾难”或“袭击（大量近义词：destruction / destructions / ravaging / disaster / attack / attacks / incursion / incursions / rampage）”。",
+          "answer": "destruction/destructions/ravaging/disaster/attack/attacks/incursion/incursions/rampage"
+        },
+        "60": {
+          "concept": "非限制性定语从句关系代词",
+          "note": "引导非限制性定语从句修饰先行词 a model of Nian。后接名词 movements（动作），在从句中表达“年兽模型的动作被两个人操纵”这一所属的所有格关系，故固定使用关系代词 whose。",
+          "answer": "whose"
+        },
+        "61": {
+          "concept": "限定词/代词语意承接",
+          "note": "修饰单数名词 version。前文已经阐述了第一个版本的传说（one legend），此处用于引出并承接关于这个传说的“另一个”版本，故填入代词 another。",
+          "answer": "another"
+        },
+        "62": {
+          "concept": "时间介词/连词引导省略从句",
+          "note": "后接动名词短语 discovering that...（发现年兽怕狮子）。用来梳理先后发生的历史时间线，指村民们是在“得知……之后（after / upon）”才着手制作狮子模型的。",
+          "answer": "after/upon"
+        },
+        "63": {
+          "concept": "被动语态介词固定搭配",
+          "note": "前面有动词过去分词形式 accompanied。在英语中，表示一个动作“伴随着”另一个现象发生，固定使用被动语态介词短语 be accompanied by...",
+          "answer": "by"
+        },
+        "64": {
+          "concept": "一般过去时短语动词搭配",
+          "note": "与后文的介词短语 in driving Nian away 完美组合。叙述过去的历史，且完美契合表示成功做成某事的高频核心经典专属句型 succeed in doing something，需填入过去时动词 succeeded。",
+          "answer": "succeeded"
+        },
+        "65": {
+          "concept": "名词语意与场景修饰",
+          "note": "前面有形容词 musical（音乐的/乐器的）引导修饰。后文具体列举了鼓、钹、锣等物件，说明这些都属于舞狮中必不可少的“乐器”或者是“音乐伴奏”，故填复数名词 instruments 或者是单复数名词 accompaniment / accompaniments。",
+          "answer": "instruments/accompaniment/accompaniments"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "After eating a heavy meal for lunch, Joshua was too full to eat dessert.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Having __________"
+        },
+        "67": {
+          "stem_plain": "Raju was selling muffins at the charity fair.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Muffins __________"
+        },
+        "68": {
+          "stem_plain": "Tim was curious. He followed the mysterious black cat into the alley.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ due to his __________"
+        },
+        "69": {
+          "stem_plain": "Jason saw Nurin on a swing. He then heard loud squeals of laughter.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "No sooner __________"
+        },
+        "70": {
+          "stem_plain": "Emily was very pleased to receive the book prize award.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ with great __________"
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "分词短语 — Having + past participle",
+          "zh": "乔舒亚午餐吃得很饱，以至吃不下甜点。",
+          "note": "分词短语：<em>After eating …</em> → <em>Having eaten …</em>；表午餐已吃饱在先。",
+          "answer": "Having eaten a heavy meal for lunch, Joshua was too full to eat dessert."
+        },
+        "67": {
+          "concept": "被动语态 — Passive voice",
+          "zh": "松饼正在慈善义卖会上由拉朱出售。",
+          "note": "被动语态：<em>Muffins</em> 作主语；<em>were being sold … by Raju</em>；保留 <em>at the charity fair</em>。",
+          "answer": "Muffins were being sold at the charity fair by Raju."
+        },
+        "68": {
+          "concept": "原因短语 — Due to + noun",
+          "zh": "蒂姆出于好奇跟着那只神秘的黑猫走进了小巷。",
+          "note": "原因短语：<em>curious</em> → <em>curiosity</em>；<em>due to his curiosity</em> 引导原因。",
+          "answer": "Tim followed the mysterious black cat into the alley due to his curiosity."
+        },
+        "69": {
+          "concept": "时间连词 — No sooner … than",
+          "zh": "杰森刚看见努琳在秋千上，就听到了响亮的笑声。",
+          "note": "时间连词：<em>No sooner had … than …</em> 倒装；前一动作刚发生，后一动作随即出现。",
+          "answer": "No sooner had Jason seen Nurin on a swing than he heard loud squeals of laughter."
+        },
+        "70": {
+          "concept": "强调句 — It was with … that (cleft)",
+          "zh": "艾米莉非常高兴地领取了图书奖。",
+          "note": "强调句：<em>It was with great pleasure that …</em>；<em>very pleased</em> 名词化为 <em>pleasure</em>。",
+          "answer": "It was with great pleasure that Emily received the book prize award."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "From the first paragraph, how can we tell that the writer was most likely a young child?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "From the first paragraph, pick out a three-word phrase that tells us that the grandfather did not join the writer and his father on the fishing trip.",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "Based on lines 8–19, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 2,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) The writer's father turned on the torchlight so that he could search for fish in the water.",
+                "(b) The writer's father stayed at one spot without moving while waiting for their first catch."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "Explain clearly why the writer fixed his eyes on the moon.",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the word(s) in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 3,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **her** (line 3)",
+                "(b) **takers** (line 23)",
+                "(c) **it** (line 37)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]",
+                "[Q75c]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "How did the writer's father react when he noticed that the writer seemed bored?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "77": {
+          "stem_plain": "From paragraph 6, give two examples which suggest that the writer's father was experienced in fishing.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a)",
+              "question": "[Q77a]"
+            },
+            {
+              "stem_plain": "(b)",
+              "question": "[Q77b]"
+            }
+          ]
+        },
+        "78": {
+          "stem_plain": "Based on information from lines 30–40, fill in the blanks in the following table.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3",
+              "col_4"
+            ],
+            "col_1": {
+              "header": "The writer's feeling",
+              "rows": [
+                "excitement",
+                "disappointment"
+              ]
+            },
+            "col_2": {
+              "header": "A three-word phrase that shows the writer's feeling",
+              "rows": [
+                "[Q78a]",
+                "[Q78c]"
+              ]
+            },
+            "col_3": {
+              "header": "What happened that caused the writer's feeling",
+              "rows": [
+                "The fishing line made a series of sharp, irregular jumps.",
+                "[Q78d]"
+              ]
+            },
+            "col_4": {
+              "header": "Why the writer felt that way",
+              "rows": [
+                "[Q78b]",
+                "He lost his first catch."
+              ]
+            }
+          }
+        },
+        "79": {
+          "stem_plain": "Write 1, 2 and 3 in the blanks below to indicate the order in which the events occurred in the story.",
+          "marks": 1,
+          "interaction": "sequencing",
+          "events": [
+            "The writer learnt how to fish with a fishing rod.",
+            "The writer drew the fishing line up, thinking that he had caught a fish.",
+            "The writer witnessed for the first time his father catching a fish."
+          ]
+        },
+        "80": {
+          "stem_plain": "Do you think that the writer disliked his fishing experiences with his father?",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "(a) Circle either Yes or No.",
+              "question_type": "radio",
+              "options": [
+                "Yes",
+                "No"
+              ],
+              "max_selections": 1
+            },
+            {
+              "stem_plain": "(b) Support your answer with evidence from the last paragraph.",
+              "question": "[Q80b]"
+            }
+          ]
+        }
+      },
+      "passages": {
+        "title": "Passage",
+        "lines": {
+          "1": "Our *Scamper* was a humble little boat with three bench seats and a low canvas canopy which",
+          "2": "provided some shade from the sun and rain. We pushed the boat down to the sea and let the waters",
+          "3": "pick **her** up. My father hopped onto the boat as she rose and dipped with the waves. I rode on my",
+          "4": "grandfather's shoulders as he waded out to deposit me in the boat and waved us off on my first fishing",
+          "5": "trip. My father pointed out Coney Island — a dense group of bushes on a raised mudflat — as we passed",
+          "6": "it. When we reached his usual fishing spot, my father then cut the motor and dropped the anchor. It",
+          "7": "was a strange feeling, the island swaying yet never moving, the boat lightly bucking beneath me.",
+          "8": "The colours of sunset faded to a purplish bruise over the horizon. Just as my eyes were getting",
+          "9": "used to the change in light, my father snapped on the torchlight. Everything except our boat vanished",
+          "10": "into the dark. Squinting to adjust to the glare, I watched as he peeled the lid off a container of fish bait.",
+          "11": "Adjusting the angle of the torchlight, my father reached into the container for a few pieces of fish bait",
+          "12": "and slid them along tiny fishhooks. Once the fishhooks were attached to the fishing lines, he scattered",
+          "13": "them across the water surface. They disappeared over the side of the boat. Then he extinguished the",
+          "14": "light and put one of the lines into my hand and said, \"First, learn how the current feels.\"",
+          "15": "I waited for my first catch and the wait drew on. The sound of my father's voice reached me,",
+          "16": "as did other sounds — the creaking of the boat, his footfall as he crossed from stern to bow and back.",
+          "17": "Looking down, the strange feeling that I felt earlier returned. More intense this time. The boat's",
+          "18": "movement became more pronounced, rocking back and forth with each passing wave. Though I tried",
+          "19": "to keep my eyes on my line, a subtle queasiness began building up inside me.",
+          "20": "I fixed my eyes on the moon in an attempt to distract myself. The moon, huge and low, stared",
+          "21": "from a cloudless sky, making me more conscious about my boredom as the night progressed. To keep",
+          "22": "awake, I sipped hot Milo from my father's thermos flask. Time and again, when I thought I had caught",
+          "23": "something, I drew the line up, only to find my bait still intact, no **takers**. The unease in my stomach",
+          "24": "was slowly reaching my gullet. My head throbbed and my bottom became sore from the abrasion",
+          "25": "against the damp seat as the waves rocked the boat. We had been at sea for perhaps one or two",
+          "26": "hours, but I had begun to imagine being stuck in the stormy sea for days without a catch.",
+          "27": "\"Waiting is part and parcel of fishing,\" my father said, his hand closing over mine, \"And",
+          "28": "concentrate. Try to feel the fish bite.\" I could only feel the line I was gripping and the callouses on his",
+          "29": "palm against the back of my hand.",
+          "30": "Without warning, my father's line began twitching. As he was pulling in the line, our first catch",
+          "31": "leapt from the water straight towards me and lay writhing on the boat floor while he pinned it down",
+          "32": "with ease and extracted a hook from its mouth. Suddenly, he was everywhere in the boat all at once.",
+          "33": "Several other hand-sized fish soon joined the first catch in quick succession, bleeding over ice slabs",
+          "34": "in the fish cooler bag. A sourness rose up into my mouth. Then the line between my fingers made a",
+          "35": "series of sharp, irregular jumps as opposed to the regular tug of the ocean currents I had felt earlier.",
+          "36": "My heart leapt as I sat upright. My father was right: it felt alive. I tried to haul in the line and held on to",
+          "37": "**it** with clammy hands, struggling not to lose my first potential catch. In the thick of the moment, it",
+          "38": "happened. Bending over the side of the boat, I threw up violently. My line grew slack just as suddenly.",
+          "39": "This time, a sinking sensation set in. Even before the hook emerged baitless and empty, I knew that",
+          "40": "the fish was gone.",
+          "41": "I got better with practice, of course. I learnt to handle a line, eventually a rod and even *Scamper*.",
+          "42": "However, as I grew older, I accompanied my father on those trips less frequently as I soon became",
+          "43": "caught up with the demands of school, tests and examinations, and then later, relationships, job",
+          "44": "commitments and marriage. There were things about those nights out on the water — seasickness, the",
+          "45": "pungent smell of fish blood, the sore bottom — that I never missed. Nonetheless, those hours out in",
+          "46": "the sea, waiting in silence with my father — those precious memories would remain with me forever."
+        },
+        "paragraphs": {
+          "1": "我们的 *Scamper* 是一艘不起眼的小船，有三条长凳和一个低矮的帆布篷，能挡些日晒雨淋。我们把船推到海边，让海水把它托起。父亲在船随波浪起伏时跳上船。我骑在祖父肩上，他涉水把我放进船里，挥手送别——这是我第一次跟父亲出海钓鱼。父亲路过时指着科尼岛，那是泥滩上隆起的一丛密灌木。到了他常去的钓点，父亲关掉马达、放下锚。我觉得很奇怪：岛在晃却像不动，船在我身下轻轻颠簸。",
+          "8": "落日的色彩在天际褪成紫青。我刚适应光线变化，父亲就打开了手电筒。除了我们的船，一切都隐没进黑暗。我眯眼适应强光，看他揭开鱼饵盒的盖子。他调整手电角度，从盒里取出几块鱼饵，穿在小鱼钩上。鱼钩挂上线后，他把线撒向水面，线从船舷外消失。然后他熄灯，把一根线放到我手里说：“先学会感受水流。”",
+          "15": "我等第一条鱼，等了很久。父亲的声音传到我耳边，还有别的声音——船的吱呀声，他从船尾走到船头再回来的脚步声。我低头，早些时候那种奇怪的感觉又回来了，这次更强烈。船摇晃得更厉害。我尽量盯着鱼线，胃里却隐隐发恶。",
+          "20": "我盯着月亮，想分散注意力。月亮又大又低，挂在无云的天空，夜越深我越觉得无聊。为了不打瞌睡，我喝父亲保温瓶里的热美禄。好几次以为钓到了，拉上来饵却完好，没有鱼咬钩。胃里的不适慢慢升到喉咙。头胀痛，屁股被潮湿长凳磨得发痛，船随波摇晃。我们出海或许一两个小时，我却幻想自己在暴风雨里困了几天仍无收获。",
+          "27": "“等待是钓鱼的一部分，”父亲说着把手覆在我手上，“专心点，试着感觉鱼咬钩。”我只觉得手里紧握的线和父亲手背上的老茧。",
+          "30": "毫无征兆，父亲的线开始颤动。他收线时，第一条鱼从水里直蹦向我，在船板上扭动；他轻松按住，从鱼嘴取出鱼钩。转眼间他在船上四处忙碌。几条巴掌大的鱼很快接连入舱，血淌在冰袋上。我嘴里涌上一股酸意。接着我指间的线猛地不规则急跳，不像先前规律的海流牵拉。我心头一紧坐直。父亲说得对：线像有了生命。我湿透的手拼命收线，不想失掉第一条可能的收获。紧要关头，我俯身船边剧烈呕吐，手中的线骤然松了。这次一种下沉感袭上心头。钩子还没露出、饵已空空之前，我就知道鱼跑了。",
+          "41": "当然我后来渐渐熟练，学会操控鱼线，最终也学会用钓竿，甚至驾驶 *Scamper*。然而长大后我跟父亲出海越来越少，被学业、考试，后来的恋爱、工作和婚姻占据。那些夜的海上——晕船、鱼腥、磨痛的屁股——我从不想念。尽管如此，与父亲在海上静默相伴的那些小时——那些珍贵记忆将永远留在我心中。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>题型：</strong>首段推理——从细节判断作者<strong>小时候</strong>（young child）。</li><li><strong>范围：</strong>第一段对应行 <strong>1–7</strong>（行 8 前空行另起一段）。</li><li><strong>关键词：</strong>圈 <em>young child</em>，找“体型小、需大人照顾、第一次出海”等线索。</li><li><strong>证据：</strong>行 4 <em>I rode on my grandfather's shoulders</em>——被祖父<strong>扛在肩上</strong>走到船边，典型幼童出行方式，而非独自涉水登船。</li><li><strong>排除：</strong>父亲上船、指 Coney Island 等只说明同行者，不能直接证明“年幼”；应写需大人<strong>背负/搀扶</strong>的具体动作。</li><li><strong>书写：</strong>一句完整因果：因为……所以可判断他是小孩；可照抄 <em>rode on his grandfather's shoulders</em>。</li></ol>",
+          "answer": [
+            "He rode on his grandfather's shoulders."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "摘录词句题",
+          "note": "<ol><li><strong>题型：</strong>摘录<strong>恰好三个词</strong>的短语，说明祖父<strong>没有</strong>跟父子一起出海钓鱼。</li><li><strong>范围：</strong>仍限第一段（行 <strong>1–7</strong>）。</li><li><strong>关键词：</strong><em>three-word phrase</em>、<em>did not join</em>、<em>grandfather</em>。</li><li><strong>证据：</strong>行 4–5 祖父把作者放进船后 <strong>waved us off</strong>——挥手送别，自己留在岸上，并未上船同行。</li><li><strong>排除：</strong><em>first fishing trip</em> 说明“第一次”，不能证明祖父缺席；<em>waded out</em> 只写祖父送作者上船，送别动作才是“未同行”的直接信号。</li><li><strong>书写：</strong>只写三词 <strong>waved us off</strong>，顺序与原文一致，不加冠词、不扩句。</li></ol>",
+          "answer": [
+            "waved us off"
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题式：</strong>行 <strong>8–19</strong> 内，每行先判 <strong>True/False</strong>，再给<strong>一句理由</strong>；理由须含文中动词/目的，不可空泛。</li><li><strong>(a) 父亲开手电是为了在水里找鱼 —— FALSE：</strong>行 9–12 写天黑后开 <em>torchlight</em>，是为了在暗处<strong>取鱼饵、穿钩、撒线</strong>（<em>peeled the lid … fish bait … slid them along tiny fishhooks</em>），并非用手电照水面搜鱼。</li><li><strong>若误选 TRUE：</strong>文中未写“search for fish in the water”；手电角度对准<strong>饵盒与鱼钩</strong>，与题干“找鱼”不符。</li><li><strong>(b) 父亲原地不动等第一条鱼 —— FALSE：</strong>行 15–16 写等待时仍有 <em>footfall as he crossed from stern to bow and back</em>——在船头船尾<strong>来回走</strong>，并非固定一处不动。</li><li><strong>书写：</strong>表格 T/F 列填 False/False；理由列各一句，尽量嵌入 <em>fish bait</em>、<em>stern to bow</em> 等原词。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "False",
+            "73b": "He did it so that he could see in the dark to take out the fish bait (from the container) and slid them on/along fishhooks",
+            "73c": "False",
+            "73d": "He walked from stern to bow and back"
+          }
+        },
+        "74": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>问法：</strong><em>Explain clearly why</em>——写清<strong>目的/原因</strong>，不只描述“他抬头看月亮”。</li><li><strong>范围：</strong>月亮描写在行 <strong>20–21</strong>；恶心、晕船铺垫在行 <strong>17–19</strong>，可连成因果。</li><li><strong>关键词：</strong>圈 <em>fixed his eyes on the moon</em> 与 <em>in an attempt to distract himself</em>（行 20 明示目的）。</li><li><strong>证据链：</strong>行 17–19 船晃、<em>queasiness</em> 加剧；行 20 于是盯月亮<strong>分散注意力</strong>，减轻不适。</li><li><strong>组织答案：</strong>两句亦可：① 他感到晕/恶心；② 因此用看月亮转移注意力。范文合并为一句。</li><li><strong>失分：</strong>只写“月亮很大很美”而漏 <em>distract</em> / <em>queasy</em>。</li></ol>",
+          "answer": [
+            "He wanted to distract himself as he felt queasy."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代题——左列词在文中<strong>实际指什么</strong>；按行号回读原句，再写右列。</li><li><strong>(a) her（行 3）：</strong>行 3 <em>let the waters pick her up</em>——<em>her</em> 指前文小船 <strong>Scamper</strong>（阴性代词指船）。</li><li><strong>(b) takers（行 23）：</strong>行 22–23 拉起鱼线却 <em>no takers</em>——没有<strong>咬饵的鱼</strong> / 没有上钩者（可写 fish biting the bait）。</li><li><strong>(c) it（行 37）：</strong>行 37–38 <em>In the thick of the moment, it happened</em> 紧接 <em>threw up violently</em>——<em>it</em> 指<strong>呕吐</strong>这件事（或 the writer vomiting）。</li><li><strong>自检：</strong>把答案代入原句替换代词，读一遍是否通顺。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "Scamper",
+            "75b": "fish biting/caught/feeding on the bait (of the writer's fishing line)",
+            "75c": "(the writer) throwing up / vomiting"
+          }
+        },
+        "76": {
+          "concept": "阅读理解简答题",
+          "note": "<ol><li><strong>问法：</strong><em>How did … react</em>——写父亲的<strong>具体反应</strong>（说了什么、做了什么），不要只写“他注意到儿子无聊”。</li><li><strong>范围：</strong>“无聊”铺垫在行 <strong>20–26</strong>；父亲反应在行 <strong>27–29</strong>。</li><li><strong>证据：</strong>行 27–28 父亲开口 <em>Waiting is part and parcel of fishing</em>，并 <em>his hand closing over mine</em>——既<strong>教导耐心</strong>，又<strong>握手鼓励</strong>。</li><li><strong>组织：</strong>一句涵盖“言语 + 动作”；勿漏 <em>part and parcel</em> 或握手细节。</li><li><strong>失分：</strong>只答“叫他专心”而未写父亲把手覆在他手上。</li></ol>",
+          "answer": [
+            "The writer's father told/advised him that waiting was part",
+            "parcel of fishing and closed his hand over mine."
+          ],
+          "type": "comprehension"
+        },
+        "77": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>范围：</strong>题干 <em>paragraph 6</em> 对应段首行 <strong>30</strong>（行 30–40，至下一段行 41 前）。</li><li><strong>关键词：</strong><em>two examples</em>、<em>experienced in fishing</em>——须是<strong>两个不同</strong>动作/事实，体现“熟练、老手”。</li><li><strong>要点 (a)：</strong>行 31–32 第一尾鱼跳上船，父亲 <em>pinned it down with ease</em>——轻松按住，显经验。</li><li><strong>要点 (b)：</strong>行 33 <em>Several other hand-sized fish soon joined … in quick succession</em>——接连上钩，显熟练。</li><li><strong>排除：</strong>作者自己晕船、吐等是作者反应，不能证明父亲老练；勿写行 41 以后“后来学会钓鱼”。</li><li><strong>格式：</strong>卷面 (a)(b) 各一句，与 <code>sub</code> 两行对应。</li></ol>",
+          "answer": {
+            "77a": "He pinned the fish down with ease.",
+            "77b": "He caught several fish in quick succession."
+          }
+        },
+        "78": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>范围：</strong>仅用行 <strong>30–40</strong>；左列情绪已给 <em>excitement / disappointment</em>，只需填空白格。</li><li><strong>excitement 行：</strong> (a) 三词短语抓行 36 <strong>my heart leapt</strong>；(b) 原因：他以为即将钓到<strong>第一条可能的鱼</strong>（行 36–37 <em>first potential catch</em>）。</li><li><strong>disappointment 行：</strong> (c) 三词短语行 39 <strong>a sinking sensation</strong>；(d) 触发事件：行 38 <em>My line grew slack</em>——线松了，鱼跑了（与右列“失去第一条鱼”呼应）。</li><li><strong>表格顺序：</strong>按列从左到右、从上到下填空白；<code>(a)(b)(c)(d)</code> 格勿抄错行。</li><li><strong>失分：</strong>把“呕吐”写在 excitement 行；或三词短语超过三个词。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "78a": "my heart leapt",
+            "78b": "He was about to get his (first) potential catch.",
+            "78c": "a sinking sensation",
+            "78d": "The fishing line grew slack."
+          }
+        },
+        "79": {
+          "concept": "事件顺序排列",
+          "note": "<ol><li><strong>题型：</strong>按<strong>故事发生时间</strong>给三事排序（1=最早，3=最晚）；卷面三条提示句<strong>自上而下</strong>依次填序号。</li><li><strong>① 学会用钓竿（卷面第一行）：</strong>行 41 <em>I learnt to handle a line, eventually a rod</em>——日后练熟，<strong>最晚</strong> → 填 <strong>3</strong>。</li><li><strong>② 误以为钓到、拉起鱼线（卷面第二行）：</strong>行 22–23 等待夜里多次 <em>drew the line up</em> 仍只有鱼饵 → 当晚<strong>最早</strong> → 填 <strong>1</strong>。</li><li><strong>③ 第一次见父亲钓到鱼（卷面第三行）：</strong>行 30–33 父亲线动、首条鱼上船 → 在②之后、①之前 → 填 <strong>2</strong>。</li><li><strong>答案：</strong>三格自上而下 <strong>3, 1, 2</strong>（与 <code>answer</code> 一致）。</li><li><strong>易错：</strong>把②与③当晚先后颠倒（先误拉线，后才见父亲钓到）。</li></ol>",
+          "answer": [
+            "3, 1, 2"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "圈选+简答题",
+          "note": "<ol><li><strong>结构：</strong>(a) 先圈 <strong>No</strong>（是否讨厌）；(b) 再用<strong>最后一段</strong>证据支持。</li><li><strong>范围 (b)：</strong>最后一段 = 行 <strong>41–46</strong>（段首行 41）。</li><li><strong>(a) 推理：</strong>虽写晕船、鱼血腥、屁股痛等“不怀念”的细节（行 44–45），但结尾强调 <em>precious memories would remain with me forever</em>——总体态度是<strong>珍视</strong>而非厌恶 → 选 No。</li><li><strong>(b) 证据：</strong>引行 45–46：与父亲<strong>静默相伴的海上时光</strong>是珍贵回忆；可写 enjoyed/cherished the experience。</li><li><strong>失分：</strong>(a) 选 Yes 却只摘负面细节忽略结尾；或 (b) 证据来自他段。</li></ol>",
+          "answer": {
+            "80a": "No",
+            "80b": "The writer enjoyed/cherished his fishing experience as he described the memories of him (catching fish) with his father as precious and would remain with him forever."
+          }
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}

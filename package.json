@@ -1,0 +1,17 @@
+{
+  "name": "capycopy",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c blue,green \"npm run dev:api\" \"npm run dev:web\"",
+    "dev:api": "CAPYCOPY_LOCAL=1 uv run uvicorn api_server:app --app-dir backend --reload --host 127.0.0.1 --port 8000",
+    "dev:web": "npm --prefix frontend run dev",
+    "dev:worker": "npm run build && UV_SYSTEM_CERTS=1 uv run pywrangler dev",
+    "build": "npm --prefix frontend run generate && rm -rf dist && mkdir -p dist && cp -R frontend/.output/public/. dist/",
+    "deploy": "npm run build && UV_SYSTEM_CERTS=1 uv run pywrangler deploy",
+    "seed:d1": "npx wrangler d1 migrations apply capycopy-db --local"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.4",
+    "wrangler": "^4.40.0"
+  }
+}

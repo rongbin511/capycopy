@@ -1,0 +1,1573 @@
+{
+  "paperid": "p6_english_2024_sa2_acsp",
+  "sections": {
+    "101": {
+      "questions": {
+        "1": {
+          "stem_plain": "Mary rarely stays up late, ________ ?",
+          "options": {
+            "1": "is it",
+            "2": "isn't it",
+            "3": "does she",
+            "4": "doesn't she"
+          }
+        },
+        "2": {
+          "stem_plain": "Neither Jack nor ________ completed the assignment as we were tired.",
+          "options": {
+            "1": "I",
+            "2": "us",
+            "3": "me",
+            "4": "myself"
+          }
+        },
+        "3": {
+          "stem_plain": "The lady to ________ you were speaking earlier is my neighbour.",
+          "options": {
+            "1": "who",
+            "2": "which",
+            "3": "whom",
+            "4": "whose"
+          }
+        },
+        "4": {
+          "stem_plain": "________ the rising temperatures, many people continue to participate in outdoor activities.",
+          "options": {
+            "1": "Owing to",
+            "2": "In spite of",
+            "3": "Because of",
+            "4": "Even though"
+          }
+        },
+        "5": {
+          "stem_plain": "Had it not been for my brother, I ________ to the concert as I do not like crowds.",
+          "options": {
+            "1": "will not go",
+            "2": "would not go",
+            "3": "will not be going",
+            "4": "would not have gone"
+          }
+        },
+        "6": {
+          "stem_plain": "My sister, as well as my cousins, ________ a party to celebrate my upcoming birthday.",
+          "options": {
+            "1": "organise",
+            "2": "is organising",
+            "3": "are organising",
+            "4": "have organised"
+          }
+        },
+        "7": {
+          "stem_plain": "Although he was poor, the generous man gave the ________ that he had to charity.",
+          "options": {
+            "1": "little",
+            "2": "none",
+            "3": "some",
+            "4": "much"
+          }
+        },
+        "8": {
+          "stem_plain": "On seeing the discipline master approaching, the class fell silent and ________ dared to utter a word.",
+          "options": {
+            "1": "nobody",
+            "2": "anybody",
+            "3": "everybody",
+            "4": "somebody"
+          }
+        },
+        "9": {
+          "stem_plain": "My brother suggested that I ________ to bed early instead of staying up to study for my examination the next day.",
+          "options": {
+            "1": "go",
+            "2": "went",
+            "3": "am going",
+            "4": "had gone"
+          }
+        },
+        "10": {
+          "stem_plain": "As Jane's pencil case was similar ________ Mary's, she mistook Mary's for hers.",
+          "options": {
+            "1": "in",
+            "2": "to",
+            "3": "with",
+            "4": "from"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "1": {
+          "concept": "反意疑问句 — Question tag — present simple positive",
+          "zh": "玛丽很少熬夜，是吗？",
+          "note": "rarely 含否定意义，主句视作否定，附加疑问用肯定 does she；主语为人不用 isn't it。",
+          "answer": "3"
+        },
+        "2": {
+          "concept": "代词 — Subject pronoun in compound subject (Neither … nor …)",
+          "zh": "杰克和我都没完成作业，因为我们累了。",
+          "note": "Neither … nor … 后作主语用主格 I，不用 me/us。",
+          "answer": "1"
+        },
+        "3": {
+          "concept": "介词 — Object relative pronoun after preposition",
+          "zh": "你刚才和她说话的那位女士是我的邻居。",
+          "note": "介词 to 提前，指人作宾语用 whom；who 作主语，whose 表所有格。",
+          "answer": "3"
+        },
+        "4": {
+          "concept": "介词 — Concession preposition + noun phrase",
+          "zh": "尽管气温上升，许多人仍继续参加户外活动。",
+          "note": "In spite of + 名词短语表让步；Even though 后接从句；Because of/Owing to 表原因。",
+          "answer": "2"
+        },
+        "5": {
+          "concept": "虚拟语气 — third conditional inversion",
+          "zh": "要不是我哥哥，我就不会去那场音乐会，因为我不喜欢人群。",
+          "note": "Had it not been for … 相当于 If it had not been for …，主句用 would not have gone。",
+          "answer": "4"
+        },
+        "6": {
+          "concept": "主谓一致 — subject-verb agreement, parenthetical phrase",
+          "zh": "我姐姐和表亲们正在筹办派对庆祝我即将到来的生日。",
+          "note": "as well as 不改变主语，真正主语 My sister 单数；upcoming 用现在进行表计划。",
+          "answer": "2"
+        },
+        "7": {
+          "concept": "量词 — Quantifier with uncountable noun (negative meaning)",
+          "zh": "尽管他很穷，这位慷慨的人仍把他仅有的一点都捐给了慈善机构。",
+          "note": "the little that he had 中 little 作名词指“少量财物”，不可数概念。",
+          "answer": "1"
+        },
+        "8": {
+          "concept": "代词 — Negative compound pronoun in negative meaning sentence",
+          "zh": "一看见训导主任走近，全班安静下来，没人敢出声。",
+          "note": "表“无人”用 nobody + 肯定式动词；anybody 需搭配 not 才表否定。",
+          "answer": "1"
+        },
+        "9": {
+          "concept": "虚拟语气 — Subjunctive after verbs of suggestion / advice",
+          "zh": "哥哥建议我早点睡觉，不要熬夜准备第二天的考试。",
+          "note": "suggest that + 主语 + 动词原形（虚拟语气），不用 went/am going。",
+          "answer": "1"
+        },
+        "10": {
+          "concept": "固定介词 — Fixed preposition — similar to",
+          "zh": "因为简的笔袋和玛丽的很像，她把玛丽的误当成自己的。",
+          "note": "固定搭配 similar to；different from；the same as。",
+          "answer": "2"
+        }
+      }
+    },
+    "102": {
+      "questions": {
+        "11": {
+          "stem_plain": "\"How do I solve this puzzle?\" Tom ________ as he tried to put the pieces together.",
+          "options": {
+            "1": "figured",
+            "2": "debated",
+            "3": "pondered",
+            "4": "speculated"
+          }
+        },
+        "12": {
+          "stem_plain": "We need to be ________ in our work to avoid making careless mistakes.",
+          "options": {
+            "1": "prompt",
+            "2": "decisive",
+            "3": "convincing",
+            "4": "meticulous"
+          }
+        },
+        "13": {
+          "stem_plain": "The arrogant boy refused to ________ his mistake and apologise for it.",
+          "options": {
+            "1": "affirm",
+            "2": "announce",
+            "3": "acknowledge",
+            "4": "accommodate"
+          }
+        },
+        "14": {
+          "stem_plain": "Tom and Jerry are always quarreling because they cannot ________ .",
+          "options": {
+            "1": "break a leg",
+            "2": "hit the sack",
+            "3": "see eye to eye",
+            "4": "sit on the fence"
+          }
+        },
+        "15": {
+          "stem_plain": "Realising that there was no escape, the robber did not ________ a fight when the policeman handcuffed him.",
+          "options": {
+            "1": "put on",
+            "2": "put up",
+            "3": "put off",
+            "4": "put down"
+          }
+        }
+      },
+      "passages": {},
+      "answers": {
+        "11": {
+          "zh": "汤姆一边拼图一边自言自语般发问。",
+          "note": "应选（3）'pondered'：题干语境最宜表达'深思；仔细考虑'。'figured'义为'估计；想出（答案）'：与题干逻辑及英语解析中的辨析不一致。'debated'义为'辩论；争论'：与题干逻辑及英语解析中的辨析不一致。'speculated'义为'（无确凿证据地）猜测；推测'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — pondered（深思；仔细考虑）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "figured",
+              "zh": "估计；想出（答案）",
+              "eg": "I <strong>figured</strong> the puzzle out only after staring at it for half an hour."
+            },
+            {
+              "opt": "2",
+              "word": "debated",
+              "zh": "辩论；争论",
+              "eg": "The two teams <strong>debated</strong> whether mobile phones should be banned in primary schools."
+            },
+            {
+              "opt": "3",
+              "word": "pondered",
+              "zh": "深思；仔细考虑",
+              "eg": "She <strong>pondered</strong> over her choices for a long time before deciding which CCA to join."
+            },
+            {
+              "opt": "4",
+              "word": "speculated",
+              "zh": "（无确凿证据地）猜测；推测",
+              "eg": "Fans <strong>speculated</strong> about the singer's mysterious absence from the concert."
+            }
+          ]
+        },
+        "12": {
+          "zh": "工作要一丝不苟，才能避免粗心错误。",
+          "note": "应选（4）'meticulous'：题干语境最宜表达'一丝不苟的；非常细心的'。'prompt'义为'迅速的；准时的'：与题干逻辑及英语解析中的辨析不一致。'decisive'义为'果断的；决定性的'：与题干逻辑及英语解析中的辨析不一致。'convincing'义为'令人信服的'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — meticulous（一丝不苟的；非常细心的）",
+          "answer": "4",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "prompt",
+              "zh": "迅速的；准时的",
+              "eg": "Thanks to her <strong>prompt</strong> reply, we were able to confirm the booking before lunch."
+            },
+            {
+              "opt": "2",
+              "word": "decisive",
+              "zh": "果断的；决定性的",
+              "eg": "A captain must be <strong>decisive</strong> when his teammates look to him for direction."
+            },
+            {
+              "opt": "3",
+              "word": "convincing",
+              "zh": "令人信服的",
+              "eg": "She gave a <strong>convincing</strong> argument that persuaded the judges to award her first place."
+            },
+            {
+              "opt": "4",
+              "word": "meticulous",
+              "zh": "一丝不苟的；非常细心的",
+              "eg": "The watchmaker is so <strong>meticulous</strong> that he checks every tiny gear with a magnifier."
+            }
+          ]
+        },
+        "13": {
+          "zh": "傲慢的男孩不肯承认错误。",
+          "note": "应选（3）'acknowledge'：题干语境最宜表达'承认；致谢'。'affirm'义为'肯定；确认（事实）'：释义侧重与空格处逻辑不符。'announce'义为'宣布；公布'：与题干逻辑及英语解析中的辨析不一致。'accommodate'义为'容纳；适应（要求）'：与题干逻辑及英语解析中的辨析不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "concept": "词汇辨析 — acknowledge（承认；致谢）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "affirm",
+              "zh": "肯定；确认（事实）",
+              "eg": "Both witnesses <strong>affirmed</strong> that they had seen the suspect at the scene."
+            },
+            {
+              "opt": "2",
+              "word": "announce",
+              "zh": "宣布；公布",
+              "eg": "The principal will <strong>announce</strong> the winners of the writing competition during assembly."
+            },
+            {
+              "opt": "3",
+              "word": "acknowledge",
+              "zh": "承认；致谢",
+              "eg": "He was honest enough to <strong>acknowledge</strong> that the mistake was entirely his own."
+            },
+            {
+              "opt": "4",
+              "word": "accommodate",
+              "zh": "容纳；适应（要求）",
+              "eg": "The new hall is large enough to <strong>accommodate</strong> all six hundred pupils."
+            }
+          ]
+        },
+        "14": {
+          "zh": "汤姆和杰瑞总吵架，因为彼此看法不合。",
+          "note": "see eye to eye 意思是“意见一致”或“见解相同”",
+          "concept": "词汇辨析 — see eye to eye（（在某事上）意见一致）",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "break a leg",
+              "zh": "（俚语）祝好运；演出顺利",
+              "eg": "Just before she stepped on stage, her teacher whispered, \"<strong>Break a leg!</strong>\""
+            },
+            {
+              "opt": "2",
+              "word": "hit the sack",
+              "zh": "上床睡觉",
+              "eg": "After the long hike, all I wanted to do was <strong>hit the sack</strong> and sleep till morning."
+            },
+            {
+              "opt": "3",
+              "word": "see eye to eye",
+              "zh": "（在某事上）意见一致",
+              "eg": "My parents and I do not always <strong>see eye to eye</strong> on what time I should go to bed."
+            },
+            {
+              "opt": "4",
+              "word": "sit on the fence",
+              "zh": "保持中立；不表态",
+              "eg": "When asked who he supported, he chose to <strong>sit on the fence</strong> instead of taking sides."
+            }
+          ]
+        },
+        "15": {
+          "zh": "意识到无路可逃，强盗在警察给他戴上手铐时并没有反抗。",
+          "note": "put up a fight 是一个固定搭配，意思是“进行反抗”或“奋力抵抗”。",
+          "concept": "词汇辨析 — put up（搭建；张贴；进行（抵抗／斗争））",
+          "answer": null,
+          "choices": [
+            {
+              "opt": "1",
+              "word": "put on",
+              "zh": "穿上；上演；增加（体重）",
+              "eg": "He <strong>put on</strong> his raincoat before stepping out into the heavy downpour."
+            },
+            {
+              "opt": "2",
+              "word": "put up",
+              "zh": "搭建；张贴；进行（抵抗／斗争）",
+              "eg": "The robber <strong>put up</strong> a fierce fight before the police finally subdued him."
+            },
+            {
+              "opt": "3",
+              "word": "put off",
+              "zh": "推迟；使（人）厌恶",
+              "eg": "The school had to <strong>put off</strong> the sports day because of the thunderstorm."
+            },
+            {
+              "opt": "4",
+              "word": "put down",
+              "zh": "放下；贬低；记下",
+              "eg": "Please <strong>put down</strong> your pens once the invigilator says \"time is up\"."
+            }
+          ],
+          "image": "a15.jpeg"
+        }
+      }
+    },
+    "103": {
+      "questions": {
+        "16": {
+          "stem_plain": "observed",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "defined",
+            "2": "noticed",
+            "3": "accepted",
+            "4": "overlooked"
+          }
+        },
+        "17": {
+          "stem_plain": "occurrence",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "action",
+            "2": "situation",
+            "3": "outcome",
+            "4": "response"
+          }
+        },
+        "18": {
+          "stem_plain": "ease",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "absorb",
+            "2": "assume",
+            "3": "alleviate",
+            "4": "aggravate"
+          }
+        },
+        "19": {
+          "stem_plain": "depositing",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "sorting",
+            "2": "settling",
+            "3": "placing",
+            "4": "directing"
+          }
+        },
+        "20": {
+          "stem_plain": "Collectively",
+          "marks": 1,
+          "interaction": "mcq_vocab_cloze",
+          "options": {
+            "1": "Jointly",
+            "2": "Totally",
+            "3": "Commonly",
+            "4": "Individually"
+          }
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Climate change refers to a change in the typical weather of a region over a long period of time. Scientists have [Q16 (observed)] that the Earth is getting warmer, and the global temperature is rising. This [Q17 (occurrence)] is called global warming. As human activities such as the destruction of forests and burning of fossil fuels lead to global warming, we all should play an active role to [Q18 (ease)] this problem. Do you know you can make a difference by making simple choices daily? You can conserve energy by switching off lights, fans and your computer when they are not in use. You can also save energy by recycling properly. To do so, you need to know what items can be recycled, and ensure that they are clean and dry before [Q19 (depositing)] them into recycling bins. [Q20 (Collectively)], we can help slow down climate change and save the Earth. Let's do our part and make a difference!"
+        ],
+        "zh": [
+          "气候变化指一个地区典型天气在长时间内的改变。科学家观察到地球正在变暖，全球气温在上升。这一现象称为全球变暖。由于毁林、燃烧化石燃料等人类活动导致全球变暖，我们都应积极缓解这一问题。你知道通过日常简单选择也能产生影响吗？不用时可关掉灯、风扇和电脑来节约能源。正确回收也能节能。为此，你需要知道哪些物品可回收，并确保它们干净干燥后再投入回收箱。只要大家齐心协力，就能帮助减缓气候变化、拯救地球。让我们尽一份力，做出改变！"
+        ]
+      },
+      "answers": {
+        "16": {
+          "concept": "近义词 — observed（注意）",
+          "note": "应选（2）'noticed'：短文划线的 <em>observed</em> 在此语境下与此义最接近。'defined'：义为'defined'，与短文语境或搭配要求不一致。'accepted'：义为'accepted'，与短文语境或搭配要求不一致。'overlooked'：义为'overlooked'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "科学家注意到地球正在变暖，全球气温在上升。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "defined",
+              "zh": "定义",
+              "eg": "The coach <strong>defined</strong> the players after the match."
+            },
+            {
+              "opt": "2",
+              "word": "noticed",
+              "zh": "注意",
+              "eg": "The coach <strong>noticed</strong> the players after the match."
+            },
+            {
+              "opt": "3",
+              "word": "accepted",
+              "zh": "接受",
+              "eg": "The coach <strong>accepted</strong> the players after the match."
+            },
+            {
+              "opt": "4",
+              "word": "overlooked",
+              "zh": "俯瞰",
+              "eg": "The coach <strong>overlooked</strong> the players after the match."
+            }
+          ]
+        },
+        "17": {
+          "concept": "近义词 — occurrence（情况）",
+          "note": "应选（2）'situation'：短文划线的 <em>occurrence</em> 在此语境下与此义最接近。'action'：义为'action'，与短文语境或搭配要求不一致。'outcome'：义为'outcome'，与短文语境或搭配要求不一致。'response'：义为'response'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "这种情况称为全球变暖。",
+          "answer": "2",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "action",
+              "zh": "行动",
+              "eg": "The speaker chose <strong>action</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "2",
+              "word": "situation",
+              "zh": "情况",
+              "eg": "The pupils found the word <strong>situation</strong> useful in their composition."
+            },
+            {
+              "opt": "3",
+              "word": "outcome",
+              "zh": "结果",
+              "eg": "The pupils found the word <strong>outcome</strong> useful in their composition."
+            },
+            {
+              "opt": "4",
+              "word": "response",
+              "zh": "回复",
+              "eg": "In class we discussed how <strong>response</strong> fits everyday English."
+            }
+          ]
+        },
+        "18": {
+          "concept": "近义词 — ease（减轻）",
+          "note": "应选（3）'alleviate'：短文划线的 <em>ease</em> 在此语境下与此义最接近。'absorb'：义为'absorb'，与短文语境或搭配要求不一致。'assume'：义为'assume'，与短文语境或搭配要求不一致。'aggravate'：义为'加重；恶化'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "由于毁林、燃烧化石燃料等人类活动导致全球变暖，我们都应积极缓解这一问题。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "absorb",
+              "zh": "吸收",
+              "eg": "Her essay used <strong>absorb</strong> in a clear, natural sentence."
+            },
+            {
+              "opt": "2",
+              "word": "assume",
+              "zh": "认为",
+              "eg": "The speaker chose <strong>assume</strong> to match the tone of the passage."
+            },
+            {
+              "opt": "3",
+              "word": "alleviate",
+              "zh": "减轻",
+              "eg": "In class we discussed how <strong>alleviate</strong> fits everyday English."
+            },
+            {
+              "opt": "4",
+              "word": "aggravate",
+              "zh": "加剧",
+              "eg": "The speaker chose <strong>aggravate</strong> to match the tone of the passage."
+            }
+          ]
+        },
+        "19": {
+          "concept": "近义词 — depositing（普拉克）",
+          "note": "应选（3）'placing'：短文划线的 <em>depositing</em> 在此语境下与此义最接近。'sorting'：义为'sorting'，与短文语境或搭配要求不一致。'settling'：义为'settling'，与短文语境或搭配要求不一致。'directing'：义为'directing'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "为此，你需要知道哪些物品可回收，并确保它们干净干燥后再放入回收箱。",
+          "answer": "3",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "sorting",
+              "zh": "种类",
+              "eg": "The team kept <strong>sorting</strong> until the task was done."
+            },
+            {
+              "opt": "2",
+              "word": "settling",
+              "zh": "解决",
+              "eg": "The team kept <strong>settling</strong> until the task was done."
+            },
+            {
+              "opt": "3",
+              "word": "placing",
+              "zh": "普拉克",
+              "eg": "The team kept <strong>placing</strong> until the task was done."
+            },
+            {
+              "opt": "4",
+              "word": "directing",
+              "zh": "直接的",
+              "eg": "The team kept <strong>directing</strong> until the task was done."
+            }
+          ]
+        },
+        "20": {
+          "concept": "近义词 — Collectively（联合地）",
+          "note": "应选（1）'Jointly'：短文划线的 <em>Collectively</em> 在此语境下与此义最接近。'Totally'：义为'Totally'，与短文语境或搭配要求不一致。'Commonly'：义为'Commonly'，与短文语境或搭配要求不一致。'Individually'：义为'Individually'，与短文语境或搭配要求不一致。更细的英语措辞与例证见上栏'说明'及选项表。",
+          "zh": "只要大家齐心协力，就能帮助减缓气候变化、拯救地球。",
+          "answer": "1",
+          "choices": [
+            {
+              "opt": "1",
+              "word": "Jointly",
+              "zh": "联合地",
+              "eg": "She answered <strong>Jointly</strong> before the bell rang."
+            },
+            {
+              "opt": "2",
+              "word": "Totally",
+              "zh": "全部地",
+              "eg": "She answered <strong>Totally</strong> before the bell rang."
+            },
+            {
+              "opt": "3",
+              "word": "Commonly",
+              "zh": "常见地",
+              "eg": "She answered <strong>Commonly</strong> before the bell rang."
+            },
+            {
+              "opt": "4",
+              "word": "Individually",
+              "zh": "个人地",
+              "eg": "She answered <strong>Individually</strong> before the bell rang."
+            }
+          ]
+        }
+      }
+    },
+    "104": {
+      "questions": {
+        "21": {
+          "stem_plain": "Why is an exclamation mark used in the heading, \"Welcome to The Explorers Club!\"?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to excite readers to join the club",
+            "2": "to guide readers to be explorers",
+            "3": "to instruct readers to love the outdoors",
+            "4": "to encourage readers to meet explorers"
+          }
+        },
+        "22": {
+          "stem_plain": "What is the main aim of The Explorers Club?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "to host children's birthday parties",
+            "2": "to encourage learning beyond indoor settings",
+            "3": "to entertain children during the school holidays",
+            "4": "to travel to various outdoor spaces around Singapore"
+          }
+        },
+        "23": {
+          "stem_plain": "According to the poster, which of the following is true of outdoor activities club? Participants will ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "need to work individually",
+            "2": "learn how to grow edible plants",
+            "3": "have a chance to make new friends",
+            "4": "learn survival skills using electronic devices"
+          }
+        },
+        "24": {
+          "stem_plain": "Which of the following is true of the activities organised at Step Out and Be Active ?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "All participants will receive a free cap.",
+            "2": "The activities are held in the afternoon.",
+            "3": "Registration is needed for all the activities.",
+            "4": "Participants must pay for all materials and equipment used."
+          }
+        },
+        "25": {
+          "stem_plain": "Alex is thinking about joining The Explorers Club. According to the poster, he should join the club if he wants to ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "pitch a tent on top of a hill",
+            "2": "be a member of Singa Service Club",
+            "3": "enjoy all facilities at Singa Service Club",
+            "4": "pay less to be part of Step Out and Be Active"
+          }
+        },
+        "26": {
+          "stem_plain": "Roger would like to learn more about plants and flowers from an expert. Which venue should he report at?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Grove Hall",
+            "2": "Nature Foyer",
+            "3": "Expert Room",
+            "4": "Wander Room"
+          }
+        },
+        "27": {
+          "stem_plain": "Devi wants to join the Rock Climbing Clinic on 2 September. She must ________ .",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "be available for an hour",
+            "2": "bring rock climbing shoes",
+            "3": "register for the activity online",
+            "4": "have basic rock-climbing skills"
+          }
+        },
+        "28": {
+          "stem_plain": "Pamela wants to take part in Step Out and Be Active on 3 September but she is only free from 3.30 p.m. onwards. Which two activities can she choose to participate in?",
+          "marks": null,
+          "interaction": "mcq_visual",
+          "options": {
+            "1": "Rock Climbing Clinic and Bukit Limah Walk",
+            "2": "Camping Skills Workshop and Bukit Limah Walk",
+            "3": "Rock Climbing Clinic and Sea Sports Safety Talk",
+            "4": "Camping Skills Workshop and Sea Sports Safety Talk"
+          }
+        }
+      },
+      "passages": {
+        "images": [
+          "visual1.jpeg",
+          "visual2.jpeg"
+        ]
+      },
+      "answers": {
+        "21": {
+          "concept": "目的 — Punctuation purpose — exclamation mark（目的考点）",
+          "note": "The exclamation mark in a poster heading conveys excitement and persuasion to its readers → <span class=\"hl-good\">to excite readers to join the club</span>. The other options describe content of the poster but not what the exclamation mark itself does.",
+          "answer": "1"
+        },
+        "22": {
+          "concept": "题型 — Main aim（题型考点）",
+          "note": "The poster centres on outdoor activities and survival skills, with a key idea that <em>learning and playing outdoors can give children a chance to grow</em> — i.e. <span class=\"hl-good\">learning beyond indoor settings</span>. <span class=\"hl-bad\">(1)</span> is just one of several activities; <span class=\"hl-bad\">(3)</span> is too narrow (year-round, not just holidays); <span class=\"hl-bad\">(4)</span> is the means, not the aim.",
+          "answer": "2"
+        },
+        "23": {
+          "concept": "题型 — Detail — outdoor activities club（题型考点）",
+          "note": "The poster says outdoor activities <em>forge friendships</em> and <em>encourage children to show teamwork</em> → <span class=\"hl-good\">make new friends</span>. <span class=\"hl-bad\">(1)</span> contradicts <em>teamwork</em>; <span class=\"hl-bad\">(2)</span> the club teaches identifying edible plants, not growing them; <span class=\"hl-bad\">(4)</span> the poster contrasts outdoor learning with electronic devices, not using them for survival.",
+          "answer": "3"
+        },
+        "24": {
+          "concept": "题型 — Detail — Step Out and Be Active（题型考点）",
+          "note": "All highlighted activities run between 2 p.m. and 6 p.m. → <span class=\"hl-good\">held in the afternoon</span>. <span class=\"hl-bad\">(1)</span> only Bukit Limah Walk gives a free cap (and only via QR registration); <span class=\"hl-bad\">(3)</span> Sea Sports Safety Talk needs no registration; <span class=\"hl-bad\">(4)</span> Camping Skills Workshop materials and Rock Climbing equipment are provided free.",
+          "answer": "2"
+        },
+        "25": {
+          "concept": "应用 — Application — member benefit（图文应用）",
+          "note": "Members get <em>10% off the entrance fee for all events planned by the club</em>, which includes <em>Step Out and Be Active</em> → <span class=\"hl-good\">pay less to be part of Step Out and Be Active</span>. <span class=\"hl-bad\">(1)</span> the club isn't on a hill — Singa Service Club is; <span class=\"hl-bad\">(2)</span> joining The Explorers Club doesn't make him a member of Singa Service Club; <span class=\"hl-bad\">(3)</span> only <em>selected</em> facilities, not all.",
+          "answer": "4"
+        },
+        "26": {
+          "concept": "应用 — Application — choose venue (flora & fauna)（图文应用）",
+          "note": "Bukit Limah Walk is led by <em>Miss Claire Lian, a professional local guide</em> who <em>shares more about the flora and fauna</em> at <span class=\"hl-good\">Wander Room</span>. The other rooms host different activities.",
+          "answer": "4"
+        },
+        "27": {
+          "concept": "应用 — Application — Rock Climbing requirement（图文应用）",
+          "note": "The flyer says <em>Registration must be done online at www.TPC.org.sg</em> → <span class=\"hl-good\">register online</span>. <span class=\"hl-bad\">(1)</span> each session is two hours, not one; <span class=\"hl-bad\">(2)</span> footwear is provided; <span class=\"hl-bad\">(4)</span> trainers teach the basic skills, so prior skill is not needed.",
+          "answer": "3"
+        },
+        "28": {
+          "concept": "应用 — Application — schedule filtering（图文应用）",
+          "note": "Pamela is free from 3.30 p.m. on 3 September. Available 3 Sep activities at/after 3.30 p.m.: Rock Climbing Clinic Session 2 (4.30 p.m.) and Sea Sports Safety Talk Session 2 (4.30 p.m.) → <span class=\"hl-good\">(3)</span>. Camping Skills Workshop is on 2 Sep only; Bukit Limah Walk is at 3 p.m. (before 3.30) so she would miss the start.",
+          "answer": "3"
+        }
+      }
+    },
+    "105": {
+      "questions": {
+        "29": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "30": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "31": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "32": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "33": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "34": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "35": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "36": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "37": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        },
+        "38": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze_letter"
+        }
+      },
+      "passages": {
+        "bank": {
+          "A": "are",
+          "D": "have",
+          "G": "over",
+          "K": "too",
+          "N": "when",
+          "B": "as",
+          "E": "had",
+          "H": "should",
+          "L": "upon",
+          "P": "where",
+          "C": "for",
+          "F": "off",
+          "J": "to",
+          "M": "were",
+          "Q": "would"
+        },
+        "cloze": [
+          "Smooth-coated otters are named after their velvety smooth coats. They are one of the two otter species found in Singapore and are the largest otters in Southeast Asia. These mammals are often spotted in mangroves and coastal areas [Q29] they search for clams, fish and other small creatures. They [Q30] webbed paws that are highly adapted [Q31] swimming. They are playful creatures and like to swim in packs of four [Q32] twelve while chasing after fish.",
+          "Otters [Q33] most regularly seen at the wetlands in the past. [Q34] the years, there have been frequent sightings reported all over the island in places such as the Botanic Gardens and even the financial district, Marina Bay. It is natural to be curious when you chance [Q35] otters. However, you should not touch or chase the otters. Going too close to the otters may frighten them. Avoid talking loudly or using flash photography [Q36] noise and light may scare and provoke them. If you take your dog for a walk, you [Q37] keep it on a leash. Your dog may chase the otters and frighten them. [Q38] this happens, otters may attack out of fear. Keeping a respectful distance will ensure otters and humans can live together harmoniously in the same environment."
+        ],
+        "zh": [
+          "光滑毛獭因为身上一身光滑、像天鹅绒般的毛皮而得名。 它们是新加坡仅有的两种水獭之一，也是东南亚最大的水獭。 这些哺乳动物常在红树林和沿海地区被人发现，它们在那里寻找蛤蜊、鱼和其他小生物。 它们长着有蹼的脚掌，非常适合游泳。 它们性情活泼，喜欢以四到十二只为一群一起游动，追逐鱼群。",
+          "过去人们最常在湿地见到水獭。 这些年来，全岛各地都频频传出水獭出没的消息，包括植物园甚至滨海湾这种金融区。 偶然遇到水獭时感到好奇是很自然的。 不过你不应该触摸或追逐水獭。 靠水獭太近可能会把它们吓到。 不要大声讲话或使用闪光灯摄影，因为噪音和光线可能会惊扰它们，激起它们的攻击。 如果你带狗出去散步，应该用牵绳把它拴好。 你的狗可能会追水獭，把它们吓到。 一旦出现这种情况，水獭可能会因为害怕而发起攻击。 保持彼此尊重的距离，水獭和人就能在同一个环境里和谐共处。"
+        ]
+      },
+      "answers": {
+        "29": {
+          "concept": "关系/连接词 — where",
+          "note": "in mangroves and coastal areas where they search for clams, fish = 定语/名词性从句 → where。",
+          "answer": "P — where"
+        },
+        "30": {
+          "concept": "主谓 — 时态/一致",
+          "note": "They have webbed paws that are highly = 主谓一致 → have。",
+          "answer": "D — have"
+        },
+        "31": {
+          "concept": "介词 — for",
+          "note": "看前后搭配，选 for。",
+          "answer": "C — for"
+        },
+        "32": {
+          "concept": "介词 — to",
+          "note": "swim in packs of four to twelve while chasing after fish. = 看前后搭配，选 to。",
+          "answer": "J — to"
+        },
+        "33": {
+          "concept": "主谓 — 时态/一致",
+          "note": "Otters were most regularly seen at the = 主谓一致 → were。",
+          "answer": "M — were"
+        },
+        "34": {
+          "concept": "介词 — over",
+          "note": "over the years, there have been = 看前后搭配，选 over。",
+          "answer": "G — over"
+        },
+        "35": {
+          "concept": "介词 — upon",
+          "note": "be curious when you chance upon otters. = 看前后搭配，选 upon。",
+          "answer": "L — upon"
+        },
+        "36": {
+          "concept": "时间 — as",
+          "note": "loudly or using flash photography as noise and light may scare = 时间/从属 → as。",
+          "answer": "B — as"
+        },
+        "37": {
+          "concept": "情态动词 — advice / recommendation",
+          "note": "dog for a walk, you should keep it on a leash. = 情态动词 should。",
+          "answer": "H — should"
+        },
+        "38": {
+          "concept": "关系/连接词 — when",
+          "note": "when this happens, otters may attack = 定语/名词性从句 → when。",
+          "answer": "N — when"
+        }
+      }
+    },
+    "106": {
+      "questions": {
+        "39": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "40": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "41": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "42": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "43": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "44": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "45": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "46": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "47": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "48": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "49": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        },
+        "50": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "editing_word"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "The smell of the sea always reminds me of my fishing trips with my father as a child. I would ride pillion on his motorcycle to the usual fishing spot once a week. There, I would [Q39(lay)] on a picnic mat and read a book. [Q40(Okasionally)] , I would be tasked to search for live bait. I remember digging the soil with a rusty red spade and [Q41(pull)] out earthworms with my bare fingers. Whenever I discovered one, I used to [Q42(skweel)] in delight and my father would nod at me approvingly. As I got older, my father [Q43(allows)] me to attach earthworms onto fishing hooks. I learnt the hard way that fishing hooks could catch on to my clothes, hair and even skin if I was not careful. Removing them [Q44(are)] painful and difficult.",
+          "My father also taught me how to use dried radish tied to a string to lure little crabs from their hiding holes. Catching these crabs [Q45(requaiered)] me to stay very still. The minute I felt the [Q46(slight)] tug, I had to quickly position a pail below the crab to let it drop into the pail. Once, I took my catch home and [Q47(leave)] the pail of crabs in the kitchen overnight uncovered.",
+          "During Science lesson the next day, I felt something pinch my leg and I let out an [Q48(ear-peersing)] scream. [Q49(Comoshen)] ensued in the class. The crab had [Q50(apairently)] crawled into my school bag. As expected, I spent recess that day explaining to my teacher what had happened."
+        ],
+        "zh": [
+          "大海的气息总让我想起小时候与父亲一起钓鱼的日子。我每周会坐在他摩托车后座上，前往常去的钓点。到了那里，我会躺在野餐垫上读书。偶尔，我会被派去找活饵。我记得用一把生锈的红铲子挖土，徒手挖出蚯蚓。每当发现一条，我会高兴地尖叫，父亲会赞许地点头。长大后，父亲允许我把蚯蚓挂到鱼钩上。我吃过亏，知道鱼钩若不小心会钩住衣服、头发甚至皮肤，取下来既痛又难。",
+          "父亲还教我如何用干萝卜绑在绳子上，把螃蟹从藏身的洞里引出来。抓这些螃蟹需要我保持非常静止。一旦感到轻微一拉，就得迅速把桶移到螃蟹下方让它掉进去。有一次，我把抓到的螃蟹带回家，把一桶螃蟹敞着放在厨房过夜。",
+          "第二天科学课时，我感到有什么东西夹了我的腿，发出刺耳的尖叫。班里一片混乱。原来那只螃蟹爬进了我的书包。不出所料，那天课间休息我花了一整段时间向老师解释发生了什么。"
+        ]
+      },
+      "answers": {
+        "39": {
+          "concept": "Verb confusion — lay vs lie",
+          "note": "<em>lay</em> = to put something down (transitive) or past tense of <em>lie</em>. To recline yourself, use <span class=\"hl-good\">lie</span>: <em>I would lie on a picnic mat</em>.",
+          "answer": "lie"
+        },
+        "40": {
+          "concept": "Spelling — Occasionally",
+          "note": "<em>Okasionally</em> is misspelt; correct spelling is <span class=\"hl-good\">Occasionally</span> (double <em>c</em>, double <em>l</em>).",
+          "answer": "Occasionally"
+        },
+        "41": {
+          "concept": "Parallel structure (V-ing)",
+          "note": "<em>I remember <span class=\"hl-good\">digging</span> the soil with a rusty red spade and <span class=\"hl-good\">pulling</span> out earthworms…</em> — both gerunds must be parallel after <em>remember</em>. So change <em>pull</em> to <span class=\"hl-good\">pulling</span>.",
+          "answer": "pulling"
+        },
+        "42": {
+          "concept": "Spelling — squeal",
+          "note": "<em>skweel</em> is a phonetic mis-spelling. Correct spelling: <span class=\"hl-good\">squeal</span> (= make a high-pitched cry of delight or pain).",
+          "answer": "squeal"
+        },
+        "43": {
+          "concept": "Tense consistency (past simple)",
+          "note": "The whole narrative is in past tense (<em>I would ride / I remember / I used to</em>). Change present <em>allows</em> to past <span class=\"hl-good\">allowed</span>.",
+          "answer": "allowed"
+        },
+        "44": {
+          "concept": "Subject-verb agreement (gerund subject) + past tense",
+          "note": "<em>Removing them</em> is a gerund phrase, treated as singular. Past simple is required to match the surrounding narrative, so <em>are</em> (plural present) → <span class=\"hl-good\">was</span> (singular past).",
+          "answer": "was"
+        },
+        "45": {
+          "concept": "Spelling — required",
+          "note": "<em>requaiered</em> is a phonetic mis-spelling. The correct spelling is <span class=\"hl-good\">required</span>.",
+          "answer": "required"
+        },
+        "46": {
+          "concept": "Superlative form",
+          "note": "<em>The minute I felt the <span class=\"hl-good\">slightest</span> tug</em> — a fixed expression meaning <em>even the smallest tug</em>. Use the superlative <em>slightest</em>, not the base form <em>slight</em>.",
+          "answer": "slightest"
+        },
+        "47": {
+          "concept": "Tense consistency (past simple)",
+          "note": "Coordinated with the past verb <em>took</em>: <em>I took my catch home and <span class=\"hl-good\">left</span> the pail of crabs in the kitchen overnight</em>. Change present <em>leave</em> → past <em>left</em>.",
+          "answer": "left"
+        },
+        "48": {
+          "concept": "Spelling — ear-piercing",
+          "note": "<em>ear-peersing</em> is a phonetic mis-spelling. The correct compound is <span class=\"hl-good\">ear-piercing</span>.",
+          "answer": "ear-piercing"
+        },
+        "49": {
+          "concept": "Spelling — Commotion",
+          "note": "<em>Comoshen</em> is a phonetic mis-spelling. The correct word is <span class=\"hl-good\">Commotion</span> (= a state of confused noise and disturbance).",
+          "answer": "Commotion"
+        },
+        "50": {
+          "concept": "Spelling — apparently",
+          "note": "<em>apairently</em> is a phonetic mis-spelling. The correct adverb is <span class=\"hl-good\">apparently</span> (double <em>p</em>).",
+          "answer": "apparently"
+        }
+      }
+    },
+    "107": {
+      "questions": {
+        "51": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "52": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "53": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "54": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "55": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "56": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "57": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "58": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "59": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "60": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "61": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "62": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "63": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "64": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        },
+        "65": {
+          "stem_plain": "",
+          "marks": null,
+          "interaction": "cloze"
+        }
+      },
+      "passages": {
+        "cloze": [
+          "Imagine a world where everyone stands up for what is right. That world begins with us. [Q51] and every one of us can make the world a better place by being an upstander.",
+          "Being an upstander means having compassion towards our peers who have [Q52] bullied. When we put [Q53] in someone else's shoes, we would then realise that we would not want to be teased or excluded. Hence, all of us should look out for one another and [Q54] no one gets hurt. Like a superhero without a cape, upstanders speak [Q55] when they recognise that something is not right. [Q56] from noticing wrongdoings, upstanders take action to make things right.",
+          "On the other hand, bystanders usually do not take action due to their fear of being the next victim of bullying. They also may not know [Q57] to manage the situation. Hence, bystanders merely observe events and situations [Q58] interfering while upstanders will report wrongdoings and offer support to victims of bullying. We should therefore always choose to help the victims.",
+          "It [Q59] courage to be an upstander. I remember a time when I saw a classmate crying after being teased during recess. [Q60] of just watching, I walked over to sit with him and comforted him. Later, I [Q61] my teacher about the incident. That courageous [Q62] not only made a difference to my classmate but it also inspired others to do the same.",
+          "We create a ripple [Q63] when we are upstanders. Know that you are not alone as when others see you being an upstander, they will [Q64] suit. By supporting each other, we [Q65] create a caring community. Together, we can make a significant difference."
+        ],
+        "zh": [
+          "想象一个人人敢于为正义发声的世界，这样的世界从我们每一个人做起；我们每一个人都能通过做 upstander 让世界更美好。",
+          "做 upstander 意味着对遭受霸凌的同学怀有同理心；设身处地，就会明白不愿被嘲笑或排斥，因此大家要互相照应，确保无人受伤。像没有披风的超级英雄，他们在发现不对时会仗义直言；除了察觉不当行为，还会采取行动纠正。",
+          "另一方面，旁观者常因害怕成为下一个受害者而不行动，也可能不知如何处置。他们只旁观，而 upstander 会举报不当行为并支持受害者，因此我们应始终选择帮助受害者。",
+          "做 upstander 需要勇气。我记得一次课间看见同学被取笑后哭泣，我没有袖手旁观，而是走过去陪他安慰，随后把事件告诉了老师。那一勇敢举动不仅帮助了同学，也激励他人效仿。",
+          "当我们挺身而出，会产生涟漪效应：别人见你行动，也会跟着做。彼此支持，我们就能营造关怀的社群，共同带来显著改变。"
+        ]
+      },
+      "answers": {
+        "51": {
+          "concept": "限定词固定短语",
+          "note": "开篇号召人人站出来，完美契合经典高频强调短语 Each and every one of us，意为“我们每一个人”都能成为挺身而出维护正义的人。位于句首需大写。",
+          "answer": "Each"
+        },
+        "52": {
+          "concept": "现在完成时被动语态",
+          "note": "前面有助动词 who have，后接过去分词。在此处指代我们的同伴“遭遇了”或“成为了”霸凌的受害者，构成现在完成时的被动语态结构（have been bullied）。",
+          "answer": "been"
+        },
+        "53": {
+          "concept": "反身代词与人称视角一致",
+          "note": "当动作发出者与承受者为同一主体时，需使用反身代词。前文主语为 We，此处与之保持一致填入 ourselves，构成经典比喻习语 put ourselves in someone else's shoes（设身处地为他人着想）。",
+          "answer": "ourselves"
+        },
+        "54": {
+          "concept": "动词与宾语从句搭配",
+          "note": "与前面的 look out for 并列，后接 no one gets hurt 组成的宾语从句。指所有人都应该互相照应并“确保”或“保证”没有人会受到伤害（ensure / make sure）。",
+          "answer": "ensure"
+        },
+        "55": {
+          "concept": "短语动词固定搭配",
+          "note": "与前面的动词 speak 完美组合，构成高频常考的地道短语动词 speak up，意为在发现不公或错误时能够“仗义执言”或“大胆说出来”。",
+          "answer": "up"
+        },
+        "56": {
+          "concept": "复合介词衔接短语",
+          "note": "后文紧跟介词 from。填入 Apart 或 Aside 构成 Apart from / Aside from 结构，表示“除了”注意到坏事之外，他们还会积极采取行动。位于句首需大写。",
+          "answer": "Apart/Aside"
+        },
+        "57": {
+          "concept": "从句疑问代词",
+          "note": "作为动词 know 的宾语从句引导词。指代他们也许不知道该“如何（how）”去处理或应对眼前棘手的局面。",
+          "answer": "how"
+        },
+        "58": {
+          "concept": "介词引导伴随状语",
+          "note": "后接动名词 interfering。结合语境，旁观者只是在一旁默默看着事件发生而“不（without）”插手干预，以此与后面主动上报的 upstanders 形成对比。",
+          "answer": "without"
+        },
+        "59": {
+          "concept": "主谓一致与形式主语结构",
+          "note": "属于代词 It 充当形式主语的固定句型结构。指要成为一个挺身维护正义的人往往“需要”或“花费”极大的勇气，单数第三人称谓语动词需填入 takes / requires / needs。",
+          "answer": "takes/requires/needs"
+        },
+        "60": {
+          "concept": "对比结构连词",
+          "note": "后接介词 of，与之组合构成高频固定短语 Instead of，表示“代替/而不是”仅仅站在旁边看，作者走过去安慰了同学。位于句首需大写。",
+          "answer": "Instead"
+        },
+        "61": {
+          "concept": "动词时态与语境场景",
+          "note": "由于整段都在回忆过去发生的一桩具体事件（I remember...），谓语动词需采用一般过去时。指向老师“报告（reported）”或“告诉（told/informed）”了这件事。",
+          "answer": "reported/told/informed"
+        },
+        "62": {
+          "concept": "名词语意修饰搭配",
+          "note": "修饰名词宾语。由指示代词 That 限制，用来指代前文作者挺身相助、并报告老师的那一勇敢的“举动”、“行为”或“决定”（act / action / deed / decision）。",
+          "answer": "act/action/deed/decision"
+        },
+        "63": {
+          "concept": "固定习惯搭配",
+          "note": "完美契合英语中用于形容一连串连锁反应的核心经典复合名词 ripple effect，意为我们的举动能像水波一样带来源源不断的“涟漪效应”。",
+          "answer": "effect"
+        },
+        "64": {
+          "concept": "习语固定搭配",
+          "note": "前面有情态动词 will，后接动词原形。属于极高频考查的经典地道习语 follow suit，意思是当别人看见你的善举时，他们也会“效仿”或“跟着做”。",
+          "answer": "follow"
+        },
+        "65": {
+          "concept": "情态动词与副词",
+          "note": "与后面的动词原形 create 搭配。指通过互相支持，我们“能够（can/will/may）”创造一个充满关怀的社区，填入副词 effectively 或者是 thereby 也完美通顺。",
+          "answer": "can/will/effectively/thereby/may"
+        }
+      }
+    },
+    "108": {
+      "questions": {
+        "66": {
+          "stem_plain": "Bob likes to eat pizza. He likes to eat sushi more.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Bob prefers __________ ."
+        },
+        "67": {
+          "stem_plain": "John saw that I was disappointed. He bought me an ice cream to cheer me up.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Seeing my __________ ."
+        },
+        "68": {
+          "stem_plain": "\"Will you attend the workshop next week?\" Ben asked Fiona.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Ben asked Fiona __________ ."
+        },
+        "69": {
+          "stem_plain": "The pencil case belongs to Helen. It has a keychain attached to it.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "__________ which __________ ."
+        },
+        "70": {
+          "stem_plain": "Amy had not baked cookies before. She burnt all of them.",
+          "marks": 2,
+          "interaction": "synthesis",
+          "cue": "Not having __________ ."
+        }
+      },
+      "passages": {},
+      "answers": {
+        "66": {
+          "concept": "比较/结果结构 — prefer X to Y（Comparison）",
+          "zh": "鲍勃更喜欢吃寿司，而不是比萨。",
+          "note": "比较结构：<em>prefers eating sushi to pizza</em>；<em>likes … more</em> 合并为 prefer 结构。",
+          "answer": "Bob prefers eating sushi to pizza."
+        },
+        "67": {
+          "concept": "分词短语 — Seeing my N（Participle phrase）",
+          "zh": "约翰看到我失望，便买了一支冰激凌来让我开心。",
+          "note": "分词短语：<em>Seeing my disappointment</em> 作状语；名词化 <em>disappointed → disappointment</em>。",
+          "answer": "Seeing my disappointment, John bought me an ice cream to cheer me up."
+        },
+        "68": {
+          "concept": "间接引语 — Direct to reported (yes/no question)",
+          "zh": "本问菲奥娜她下周是否会参加工作坊。",
+          "note": "间接引语：<em>Will you …?</em> → <em>if she would …</em>；<em>next week → the following week</em>。",
+          "answer": "Ben asked Fiona if she would attend the workshop the following week."
+        },
+        "69": {
+          "concept": "定语从句 — Defining relative clause with which",
+          "zh": "挂着钥匙链的那个铅笔盒是海伦的。",
+          "note": "定语从句：<em>which has a key chain attached to it</em> 修饰 <em>pencil case</em>；主句 <em>belongs to Helen</em>。",
+          "answer": "The pencil case which has a key chain attached to it belongs to Helen."
+        },
+        "70": {
+          "concept": "分词短语 — Negative perfect participle phrase",
+          "zh": "艾米以前没烤过曲奇，结果把它们全都烤焦了。",
+          "note": "分词短语：<em>Not having baked cookies before</em> 表“从未烤过”；后接结果 <em>Amy burnt all of them</em>。",
+          "answer": "Not having baked cookies before, Amy burnt all of them."
+        }
+      }
+    },
+    "109": {
+      "questions": {
+        "71": {
+          "stem_plain": "From the first paragraph, what did Emily do to drive all her peers away?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "72": {
+          "stem_plain": "What were the two consequences Emily had to face at school as a result of oversleeping?",
+          "marks": 2,
+          "interaction": "textarea"
+        },
+        "73": {
+          "stem_plain": "From lines 4 to 15, pick out two separate phrases to show the characters' feelings and explain why they felt that way.",
+          "marks": 4,
+          "interaction": "open_ended_table",
+          "table": {
+            "column_order": [
+              "col_1",
+              "col_2",
+              "col_3"
+            ],
+            "col_1": {
+              "header": "",
+              "rows": [
+                "Three-word phrase that shows Emily's father felt helpless",
+                "Four-word phrase that shows Emily's coach felt upset"
+              ]
+            },
+            "col_2": {
+              "header": "Phrase",
+              "rows": [
+                "[Q73a]",
+                "[Q73c]"
+              ]
+            },
+            "col_3": {
+              "header": "Reason",
+              "rows": [
+                "[Q73b]",
+                "[Q73d]"
+              ]
+            }
+          }
+        },
+        "74": {
+          "stem_plain": "What did Emily do to \"prove Coach wrong\" (line 11)?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "75": {
+          "stem_plain": "Look at the table below. What do the words in the left column refer to in the passage? Write your answers in the column on the right.",
+          "marks": 2,
+          "interaction": "table_reference",
+          "table": {
+            "column_order": [
+              "word_from_passage",
+              "refers_to"
+            ],
+            "word_from_passage": {
+              "header": "Word(s) from the passage",
+              "rows": [
+                "(a) **his** (line 11)",
+                "(b) **this thought** (line 19)"
+              ]
+            },
+            "refers_to": {
+              "header": "What the word(s) refer(s) to",
+              "rows": [
+                "[Q75a]",
+                "[Q75b]"
+              ]
+            }
+          }
+        },
+        "76": {
+          "stem_plain": "Based on what Emily's mother said to her in the bedroom, state the following.",
+          "marks": 2,
+          "interaction": "items_comp",
+          "sub": [
+            {
+              "stem_plain": "About Emily's strengths:",
+              "question": "[Q76a]"
+            },
+            {
+              "stem_plain": "About Emily's weakness:",
+              "question": "[Q76b]"
+            }
+          ]
+        },
+        "77": {
+          "stem_plain": "Based on lines 21–33, state whether each statement in the table below is true or false, then give one reason why you think so.",
+          "marks": 3,
+          "interaction": "table_reasoning",
+          "table": {
+            "column_order": [
+              "statement",
+              "true_false",
+              "reason"
+            ],
+            "statement": {
+              "header": "Statement",
+              "rows": [
+                "(a) Emily's mother found out what had happened during training session from Sarah.",
+                "(b) Emily was sincere about mending her relationships with her friends, parents and coach.",
+                "(c) Emily's injury was not serious."
+              ]
+            },
+            "true_false": {
+              "header": "True / False",
+              "rows": [
+                "[Q77a]",
+                "[Q77c]",
+                "[Q77e]"
+              ]
+            },
+            "reason": {
+              "header": "Reason",
+              "rows": [
+                "[Q77b]",
+                "[Q77d]",
+                "[Q77f]"
+              ]
+            }
+          }
+        },
+        "78": {
+          "stem_plain": "\"I will change. I promise I will.\" (line 27). What did Emily realise that made her say so?",
+          "marks": 1,
+          "interaction": "textarea"
+        },
+        "79": {
+          "stem_plain": "Which two of the following words best describe Emily in lines 28–30? Put a tick ✓ in the box beside each of your answers.",
+          "marks": 2,
+          "interaction": "checkbox_comp",
+          "options": [
+            "remorseful",
+            "confident",
+            "mean",
+            "patient",
+            "stubborn",
+            "grateful"
+          ],
+          "max_selections": 2
+        },
+        "80": {
+          "stem_plain": "How would a positive change in Emily's behaviour improve her school and personal life? State one example each. Refer to lines 1 to 8 for the answer.",
+          "marks": 2,
+          "interaction": "textarea"
+        }
+      },
+      "passages": {
+        "title": "Passage — The Princess Disease",
+        "lines": {
+          "1": "Twelve-year-old Emily often ignored advice from her parents and insisted she was always right.",
+          "2": "She usually bossed her siblings around and was mean to her peers. As a result, her personality drove all",
+          "3": "her peers away because no one could tolerate her behaviour.",
+          "4": "Emily's arrogance often landed her in trouble. Whenever her father, an experienced Mathematics",
+          "5": "teacher, tried to help her with her Mathematics homework, she would reply curtly that she did not need his",
+          "6": "help. Her father would sigh in resignation. Emily would then spend more time to complete her homework",
+          "7": "until the wee hours and often overslept the next morning. Although she usually managed to submit it, she",
+          "8": "would be punished for reporting late for school. At times, she would be reprimanded for dozing off in class.",
+          "9": "Emily's arrogance also caused her pain. At a particularly intense training session, her Track and",
+          "10": "Field coach offered her guidance, pointing out ways to improve her running technique. Unfortunately, Emily",
+          "11": "refused to heed **his** advice. Not long after, she felt a sharp pain in her knee. \"I will prove Coach wrong!",
+          "12": "I am sure my way is the right way!\" Emily thought. However, as she continued to run, the pain intensified,",
+          "13": "shooting through her leg with every step she took. Even when her teammate, Sarah, told her not to",
+          "14": "overexert herself, she ignored her advice and snapped at her, \"Mind your own business.\" At that, the coach",
+          "15": "shook his head disapprovingly. He could not understand why Emily insisted on her ways.",
+          "16": "Later that night, the pain kept her awake. As she lay in bed, she found it impossible to find a",
+          "17": "comfortable position. Emily was in agony every time she moved. It was then that she realised the",
+          "18": "consequences of her arrogance. If only she had listened to her coach. At that moment, it dawned on her",
+          "19": "that she had no friends to seek comfort from. Emily sobbed uncontrollably as **this thought** raced through",
+          "20": "her mind.",
+          "21": "Just when she needed someone to talk to, Emily's mother appeared at her bedroom door, looking",
+          "22": "concerned, \"Are you okay, Emily? Your coach called. I heard about what happened today. I know you're",
+          "23": "strong-willed and independent. But the greatest strength comes from accepting the advice of others.",
+          "24": "Remember, doing this doesn't mean you are weak,\" Emily's mother said.",
+          "25": "With tears streaming down her cheeks, Emily lowered her eyes. After she had dried her tears, she",
+          "26": "mumbled softly, \"You are right, Mum. My arrogance is the reason I am experiencing so much pain and it",
+          "27": "has soured my relationship with others. I will change. I promise I will.\"",
+          "28": "Recognising the need to change for the better, Emily decided to apologise to the friends she had",
+          "29": "hurt in the past and thank her parents and coach for being patient and never giving up on her. As it was",
+          "30": "important to mend her relationships, Emily took the time to make personalised cards for them.",
+          "31": "After her numerous visits to the hospital to treat her injury, the doctor finally told Emily she could",
+          "32": "start training again. When she resumed training, her teammates and coach welcomed her back with open",
+          "33": "arms.",
+          "34": "In the end, her knee injury became more than just a physical injury; it was a powerful lesson on the",
+          "35": "importance of humility. With her mother's words etched deeply in her heart, Emily made a promise to",
+          "36": "herself to always remain humble and be willing to learn from others. She was determined to become the",
+          "37": "best version of herself and everyone noticed a positive change in her."
+        },
+        "paragraphs": {
+          "1": "十二岁的 Emily 常常不听父母劝告，总坚持自己永远是对的。她通常对弟妹颐指气使，对同龄人也刻薄无礼。因此，她的性格把所有同学都推开了，因为没人能忍受她的行为。",
+          "4": "Emily 的傲慢常常给她惹麻烦。每当身为资深数学教师的父亲想帮她做数学作业时，她都会生硬地回说不需要帮忙。父亲只能无奈叹息。Emily 随后往往要花更长时间完成作业，直到深夜，第二天早晨又常常睡过头。虽然她通常还能交上作业，却会因上学迟到受罚；有时还会在课上打瞌睡被训斥。",
+          "9": "Emily 的傲慢也让她自己吃苦。在一次格外高强度的田径训练中，教练给她指导，指出改进跑步姿势的方法。不幸的是，Emily 拒绝听从建议。不久她便感到膝盖一阵剧痛。“我要证明教练错了！我确信我的方法才对！” Emily 心想。然而她继续跑下去，疼痛越来越剧烈，每迈一步都如刀割般传遍整条腿。队友 Sarah 劝她不要过度勉强自己，她也置之不理，还厉声回敬：“少管闲事。” 教练失望地摇了摇头，不明白 Emily 为何如此固执。",
+          "16": "当晚，疼痛让她无法入睡。躺在床上，她怎么也找不到舒服的姿势。每次一动都痛苦不堪。这时她才意识到傲慢带来的后果——要是当时听了教练的话就好了。就在那一刻，她忽然明白自己没有朋友可以寻求安慰。这个念头在脑中飞转，她控制不住地抽泣起来。",
+          "21": "正当她最需要有人倾诉时，母亲出现在卧室门口，神情担忧：“你还好吗，Emily？教练来电话了。我听说今天发生的事。我知道你意志坚强、独立。但最大的力量来自愿意接受他人的建议。记住，这样做并不代表你软弱。”",
+          "25": "泪水顺着脸颊流下，Emily 垂下眼睛。擦干眼泪后，她轻声说：“你说得对，妈妈。我的傲慢正是我承受这么多痛苦、又搞坏与他人关系的原因。我会改的。我保证会改。”",
+          "28": "意识到需要变得更好，Emily 决定向过去伤害过的朋友道歉，并感谢父母与教练的耐心、感谢他们从未放弃她。她认为修复关系很重要，于是花时间为他们每人制作亲手写的卡片。",
+          "31": "多次去医院治疗伤势之后，医生终于告诉 Emily 可以重新开始训练。当她恢复训练时，队友和教练都张开双臂欢迎她回来。",
+          "34": "最终，她的膝伤不只是身体上的伤，更成为一堂关于谦逊重要性的深刻一课。母亲的话深深刻在她心里，她向自己承诺永远保持谦逊、愿意向他人学习。她决心成为更好的自己，大家也注意到她身上出现了积极的变化。"
+        }
+      },
+      "answers": {
+        "71": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>要点直答——<strong>第一段</strong>中 Emily 做了什么导致同伴疏远（1 分；完整句）。</li><li><strong>范围：</strong>行 <strong>1–3</strong>。</li><li><strong>原因：</strong>行 2 <em>was mean to her peers</em>；行 3 <em>no one could tolerate her behaviour</em>。</li><li><strong>收束：</strong><span class=\"hl-good\">Emily was mean to her peers, and her peers could not tolerate her behaviour/arrogance.</span></li><li><strong>失分：</strong>写第二段及以后（如受伤、母亲谈话）；只写“傲慢”未写对同伴刻薄。</li></ol>",
+          "answer": [
+            "Emily was mean to her peers, and her peers could not tolerate her behaviour/arrogance."
+          ],
+          "type": "comprehension"
+        },
+        "72": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——因<strong>睡过头</strong>在学校面临的<strong>两个</strong>后果（2 分）。</li><li><strong>范围：</strong>行 <strong>7–8</strong>（熬夜做作业 → 次日迟到、上课打瞌睡）。</li><li><strong>要点一：</strong><em>punished for reporting late for school</em>。</li><li><strong>要点二：</strong><em>reprimanded for dozing off in class</em>。</li><li><strong>收束：</strong>两句都写才易得满分。</li><li><strong>失分：</strong>只写一点；写膝盖受伤（属训练段，非“睡过头”直接后果）。</li></ol>",
+          "answer": [
+            "She would be punished for reporting late for school, and reprimanded for dozing off in class."
+          ],
+          "type": "comprehension"
+        },
+        "73": {
+          "concept": "文中信息归纳表",
+          "note": "<ol><li><strong>题型：</strong>文中信息归纳表——行 <strong>4–15</strong> 各抄<strong>短语</strong> + 写<strong>感受原因</strong>（4 分；两行 × Phrase / Reason 两列填空）。</li><li><strong>行 1（父亲无助）：</strong>三字短语行 6 <em>sigh in resignation</em> → <span class=\"hl-good\">Sigh in resignation</span>；原因：行 4–6 父亲欲辅导数学、Emily 粗鲁拒绝 → 父亲无奈叹气。</li><li><strong>行 2（教练不满）：</strong>四字短语行 15 <em>shook his head disapprovingly</em> → <span class=\"hl-good\">Shook his head disapprovingly</span>；原因：行 13–14 无视 Sarah 劝告并对她厉声呵斥。</li><li><strong>表格顺序：</strong>行优先 — (a) 短语、(b) 原因、(c) 短语、(d) 原因。</li><li><strong>失分：</strong>短语字数不符；原因未对应父亲/教练。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "73a": "Sigh in resignation",
+            "73b": "Emily's father had tried to help her with her Mathematics homework, but Emily replied curtly that she did not need his help.",
+            "73c": "Shook his head disapprovingly",
+            "73d": "Emily ignored Sarah's advice not to overexert herself and snapped at Sarah to mind her own business."
+          }
+        },
+        "74": {
+          "concept": "要点直答",
+          "note": "<ol><li><strong>题型：</strong>要点直答——Emily 为“证明教练错了”<strong>做了什么</strong>（1 分；题干引行 11）。</li><li><strong>证据：</strong>行 11–12 <em>I will prove Coach wrong</em> → <em>continued to run</em>，膝痛加剧仍按自己的方式跑。</li><li><strong>收束：</strong><span class=\"hl-good\">She kept running her own way despite the sharp pain in her knee</span>（未按教练技术指导）。</li><li><strong>失分：</strong>写拒绝听建议但未写“继续跑”；写赛后道歉（超出此时情节）。</li></ol>",
+          "answer": [
+            "She kept running her own way despite the sharp pain in her knee, refusing to follow the coach's running technique."
+          ],
+          "type": "comprehension"
+        },
+        "75": {
+          "concept": "指代表",
+          "note": "<ol><li><strong>题型：</strong>指代表——左列词在文中的<strong>具体所指</strong>（2 分；右列两格填空）。</li><li><strong>(a) his（行 11）：</strong>回指行 9–10 <em>Track and Field coach</em> → <span class=\"hl-good\">Emily's Track and Field coach</span>。</li><li><strong>(b) this thought（行 19）：</strong>回指行 18–19 <em>she had no friends to seek comfort from</em> → <span class=\"hl-good\">Emily having no friends to seek comfort from</span>。</li><li><strong>失分：</strong>只写“教练”“想法”；<em>his</em> 误指父亲或 Sarah。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "75a": "Emily's Track and Field coach.",
+            "75b": "Emily having no friends to seek comfort from."
+          }
+        },
+        "76": {
+          "concept": "双要点简答题",
+          "note": "<ol><li><strong>题型：</strong>双要点简答题——母亲卧室里所说 Emily 的<strong>优点</strong>与<strong>缺点</strong>（2 分；两行填空）。</li><li><strong>Strengths（行 23）：</strong><em>strong-willed and independent</em> → <span class=\"hl-good\">Emily was strong-willed and independent.</span></li><li><strong>Weakness：</strong>母亲强调须<strong>听取他人建议</strong>（行 23–24），对应全文傲慢、拒听劝告 → <span class=\"hl-good\">Emily was arrogant and did not accept the advice of others.</span></li><li><strong>失分：</strong>只写一点；抄 Emily 自己的反省（行 26–27）而非母亲原话。</li></ol>",
+          "answer": {
+            "76a": "Emily was strong-willed and independent.",
+            "76b": "Emily was arrogant and did not accept the advice of others."
+          }
+        },
+        "77": {
+          "concept": "判断正误表+依据",
+          "note": "<ol><li><strong>题型：</strong>判断正误表+依据——行 <strong>21–33</strong> 内每行先 T/F 再<strong>一句</strong>理由（3 分）。</li><li><strong>(a) False：</strong>行 22 <em>Your coach called</em> — 母亲从<strong>教练</strong>处得知，非 Sarah。</li><li><strong>(b) True：</strong>行 28–30 向朋友道歉、感谢父母与教练，并<strong>亲手做卡片</strong> — 修补关系有具体行动。</li><li><strong>(c) False：</strong>行 31 <em>numerous visits to the hospital</em> — 多次就医，伤势严重。</li><li><strong>失分：</strong>理由超出 21–33；T/F 与证据矛盾。</li></ol>",
+          "type": "comprehension",
+          "answer": {
+            "77a": "False",
+            "77b": "Emily's mother found out what had happened during the training session from Emily's coach.",
+            "77c": "True",
+            "77d": "Emily took the time to make personalised cards for her friends, parents and coach.",
+            "77e": "False",
+            "77f": "Emily needed numerous visits to the hospital to treat her injury before she could start training again."
+          }
+        },
+        "78": {
+          "concept": "原因分析题",
+          "note": "<ol><li><strong>题型：</strong>原因分析题——Emily 为何说 <em>I will change. I promise I will.</em>（行 27；1 分）。</li><li><strong>紧前句（行 26–27）：</strong><em>My arrogance is the reason … pain … soured my relationship with others</em>。</li><li><strong>收束：</strong>她意识到<strong>傲慢</strong>带来痛苦并破坏人际关系 → 因而承诺改变。</li><li><strong>失分：</strong>只写“要改”未写意识到什么；写母亲劝告原文而未概括领悟。</li></ol>",
+          "answer": [
+            "She realised that her arrogance was the reason she was experiencing so much pain and that it had soured her relationships with others."
+          ],
+          "type": "comprehension"
+        },
+        "79": {
+          "concept": "勾选题",
+          "note": "<ol><li><strong>题型：</strong>勾选题——行 <strong>28–30</strong> 选<strong>两个</strong>词形容 Emily（2 分；勿超过两项）。</li><li><strong>应选：</strong><span class=\"hl-good\">remorseful</span>（向曾伤害的朋友<strong>道歉</strong>）+ <span class=\"hl-good\">grateful</span>（<strong>感谢</strong>父母与教练耐心、不放弃她）。</li><li><strong>排除：</strong><em>mean / stubborn</em> 是改前性格；<em>confident</em> 非本段重点；<em>patient</em> 形容的是他人而非 Emily。</li><li><strong>失分：</strong>勾选超过两个；选与 28–30 文意不符项。</li></ol>",
+          "answer": [
+            "remorseful",
+            "grateful"
+          ],
+          "type": "comprehension"
+        },
+        "80": {
+          "concept": "分问综合简答",
+          "note": "<ol><li><strong>题型：</strong>分问综合简答——若 Emily <strong>行为变好</strong>，学校与生活各举<strong>一例</strong>（2 分；证据限行 <strong>1–8</strong>）。</li><li><strong>Personal（行 2–3）：</strong>曾 <em>mean to peers</em>、同伴无法容忍 → 变好则<strong>不再赶走朋友 / 有更多同伴</strong>。</li><li><strong>School（行 5–8）：</strong>拒父助、熬夜、<em>late for school</em>、<em>dozing off</em> → 变好则<strong>不迟到、上课不打瞌睡</strong>，少受罚。</li><li><strong>收束：</strong>答案须分“个人”与“学校”各一点，并回扣 1–8 情节。</li><li><strong>失分：</strong>只写一方面；引用 9 行以后情节。</li></ol>",
+          "answer": [
+            "Personal life: she would have more peers and not drive her friends away. School life: she would not report late for school or doze off in class, so she would not be punished or reprimanded."
+          ],
+          "type": "comprehension"
+        }
+      }
+    },
+    "110": {
+      "questions": {
+        "image": "",
+        "task": [],
+        "info": [],
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    },
+    "111": {
+      "questions": {
+        "image": "",
+        "interaction": "writing"
+      },
+      "answers": {
+        "sample": [],
+        "markdown": []
+      }
+    }
+  }
+}
